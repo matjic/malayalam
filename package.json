@@ -1,0 +1,15 @@
+{
+    "scripts": {
+        "dev": "docsify serve ./docs"
+    },
+    "dependencies": {
+        "docsify-cli": "^4.4.3"
+    },
+    "name": "malu-project",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "git@github.com:matjic/malu-project.git",
+    "author": "matjic",
+    "license": "CC-BY-NC-SA-4.0",
+    "private": false
+}
