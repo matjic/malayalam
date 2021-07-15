@@ -1,6 +1,6 @@
  # Acknowledgments
  
-**This guide is based almost entirely on _Malayalam: A University Course and Reference Grammar_ by Rodney F. Moag. Some modifications have been made to update the book and make it more web-friendly. The author's acknowledgments are reproduced below.**
+**This guide is based almost entirely on [Malayalam: A University Course and Reference Grammar](https://drive.google.com/file/d/1N7RSPlHCxUV2E2an1NxrLcfpZtOBGTc8/view) by Rodney F. Moag. Some modifications have been made to update the book and make it more web-friendly. The author's acknowledgments are reproduced below.**
  
 I should like to hereby express my gratitude to all those who have helped bring this book in its several editions to reality. Firstly, thanks are due to The US Department of Education for the initial grant, which supported the writing of the first edition of this course, and to the University of Michigan at Ann Arbor for hosting, the original project. Mrs. Julia Petrov of the U.S. Department of Education not only gave the benefit of her long experience in the application stage, but also maintained an interest in the project throughout the term of the grant. The first Edition was written over an 18-month period during 1979-80. Professors Tam Trautmann and Prof. L.A. Peter Gosling, co-directors of the Center for South and Southeast Asian Studies at Michigan at that time, were most helpful in their moral support and in providing an administrative home for the project. Once funding for the proposal was granted, Gregory Vick of the U.S. Department of Education saw to the administrative details of the grant at the Washington end. The day-today administration of the project, including budget management, was handled by the principal investigator, but I received assistance in minor administrative matters from the office staff of the aforementioned Center and of the University of Michigan Linguistics Department.
 
@@ -31,3 +31,5 @@ Department of Asian Studies <br/>
 University of Texas at Austin <br/>
 Austin 78712 <br/>
 May 2002
+
+_Rodney F. Moag is not affiliated with this guide. He is the author of [Malayalam: A University Course and Reference Grammar](https://drive.google.com/file/d/1N7RSPlHCxUV2E2an1NxrLcfpZtOBGTc8/view) on which this guide is based._

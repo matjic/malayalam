@@ -88,4 +88,6 @@ Most of the lessons, appendices, and grammar notes have been test-taught during 
 Rodney F. Moag <br/>
 Department of Asian Studies<br/>
 University of Texas at Austin<br/>
-Austin, TX 78712 <br/>
+Austin, TX 78712
+
+_Rodney F. Moag is not affiliated with this guide. He is the author of [Malayalam: A University Course and Reference Grammar](https://drive.google.com/file/d/1N7RSPlHCxUV2E2an1NxrLcfpZtOBGTc8/view) on which this guide is based._
