@@ -1,1 +1,1 @@
-# malu-project
+# Malayalam
