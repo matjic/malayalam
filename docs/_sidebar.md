@@ -1,4 +1,5 @@
 * [Acknowledgments](acknowledgments.md)
 * [Preface](preface.md)
 * [The Book and How to Use it](usage.md)
-* [The Malayalam Script](script.md)
+* [Alphabet](alphabet.md)
+* [How to write Symbols](symbols.md)

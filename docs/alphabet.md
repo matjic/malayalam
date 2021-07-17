@@ -1,8 +1,6 @@
-# Malayalam Script
+# Alphabet
 
-## Alphabet
-
-### A note on pronunciation
+## A note on pronunciation
 
 Learning the sounds corresponding to each letter is important to be able to distinguish between words when listening and to pronounce words when speaking. 
 
@@ -12,7 +10,7 @@ The order of the alphabet and sounds corresponding to each letter are similar ac
 
 
 
-### Vowels
+## Vowels
 
 | അ  	| ആ  	| ഇ  	| ഈ  	| ഉ   	| ഊ  	|
 |----	|----	|----	|----	|-----	|----	|
@@ -27,23 +25,23 @@ The order of the alphabet and sounds corresponding to each letter are similar ac
 |----	|----	|----	|----	|-----	|
 | o  	| oo 	| au 	| am 	| aha 	|
 
-### Consonants
+## Consonants
 
 The names of the consonant groups are not used elsewhere in this guide and are simply given for reference. It may be helpful to look up the different groups to differentiate their pronunciations.
 
 Keep in mind that the second and fourth consonants in each row from Velar to Labial are **aspirated** versions of the first and third sounds, respectively. For example, this means ഖ (kha) is the aspirated version of ക (ka) and ഘ (gha) is the aspirated version of ഗ (ga).
 
-#### Velar
+## Velar
 | ക   	| ഖ   	| ഗ  	| ഘ   	| ങ   	|
 |-----	|-----	|----	|-----	|-----	|
 | ka  	| kha 	| ga 	| gha 	| nga 	|
 
-#### Postalveolar or Alveolo-palatal
+## Postalveolar or Alveolo-palatal
 | ച   	| ഛ   	| ജ  	| ഝ   	| ഞ   	|
 |-----	|-----	|----	|-----	|-----	|
 | ca  	| cha 	| ja 	| jha 	| ña  	|
 
-#### Retroflex
+## Retroflex
 
 Pronounced with the tongue curled **backwards**
 
@@ -51,7 +49,7 @@ Pronounced with the tongue curled **backwards**
 |-----	|-----	|----	|-----	|-----	|
 | Ta  	| Tha 	| Da 	| Dha 	| Na  	|
 
-#### Dental
+## Dental
 
 Pronounced with the tongue **against the back of upper teeth**
 
@@ -59,12 +57,12 @@ Pronounced with the tongue **against the back of upper teeth**
 | ----- | ----- | ---- | ----- | ----- |
 | ta    | tha   | da   | dha   | na    |
 
-#### Labial
+## Labial
 | പ   	| ഫ   	| ബ  	| ഭ   	| മ   	|
 |-----	|-----	|----	|-----	|-----	|
 | pa  	| pha 	| ba 	| bha 	| ma  	|
 
-#### Other
+## Other
 | യ   	| ര   	| ല  	| വ   	|
 |-----	|-----	|----	|-----	|
 | ya  	| ra  	| la 	| va  	|
@@ -80,38 +78,3 @@ Pronounced with the tongue **against the back of upper teeth**
 \* The syllable ന is pronounced in one of two ways, either as a dental consonant (with the tongue touching the teeth) or as an alveolar consonant (with the tongue behind the teeth)
 
 \*\* When the syllable റ is doubled, appearing as ററ, then the resulting sound is pronounced as alveolar "ta" as in "teacher"
-
-## How to Write Symbols
-
-### Vowels
-
-#### അ
-<img src="/assets/images/vowels/a.png"></img>
-#### ആ
-<img src="/assets/images/vowels/aa.png"></img>
-#### ഇ
-<img src="/assets/images/vowels/i.png"></img>
-#### ഈ
-<img src="/assets/images/vowels/ii.png"></img>
-#### ഉ
-<img src="/assets/images/vowels/u.png"></img>
-#### ഊ
-<img src="/assets/images/vowels/uu.png"></img>
-#### ഋ  	 
-<img src="/assets/images/vowels/ru.png"></img>
-#### എ  	 
-<img src="/assets/images/vowels/e.png"></img>
-#### ഏ  	 
-<img src="/assets/images/vowels/ee.png"></img>
-#### ഐ  	
-<img src="/assets/images/vowels/ai.png"></img>
-#### ഒ  	 
-<img src="/assets/images/vowels/o.png"></img>
-#### ഓ  	 
-<img src="/assets/images/vowels/oo.png"></img>
-#### ഔ  	 
-<img src="/assets/images/vowels/au.png"></img>
-#### അം 	 
-<img src="/assets/images/vowels/am.png"></img>
-#### അഃ
-<img src="/assets/images/vowels/aha.png"></img>
