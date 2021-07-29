@@ -122,3 +122,65 @@
 <img src="/assets/images/consonants/ra_zha.png"></img>
 #### റ
 <img src="/assets/images/consonants/ra2.png"></img>
+
+## Internal Vowel Symbols
+
+#### ാ
+<img src="/assets/images/vowel symbols/aa.png"></img>
+#### ി
+<img src="/assets/images/vowel symbols/i.png"></img>
+#### ീ
+<img src="/assets/images/vowel symbols/ii.png"></img>
+#### ു
+<img src="/assets/images/vowel symbols/u.png"></img>
+#### ൂ
+<img src="/assets/images/vowel symbols/uu.png"></img>
+#### ൃ
+<img src="/assets/images/vowel symbols/ru.png"></img>
+#### െ
+<img src="/assets/images/vowel symbols/e.png"></img>
+#### േ
+<img src="/assets/images/vowel symbols/ee.png"></img>
+#### ൈ
+<img src="/assets/images/vowel symbols/ai.png"></img>
+#### ൊ
+<img src="/assets/images/vowel symbols/o.png"></img>
+#### ോ
+TODO find way to present symbol properly
+<img src="/assets/images/vowel symbols/oo.png"></img>
+#### ൈ
+
+<img src="/assets/images/vowel symbols/ai.png"></img>
+
+#### ൗ
+
+<img src="/assets/images/vowel symbols/au.png"></img>
+
+#### ം
+
+<img src="/assets/images/vowel symbols/am.png"></img>
+
+#### ഃ
+
+<img src="/assets/images/vowel symbols/aha.png"></img>
+
+## Chillus
+
+#### ൺ
+<img src="/assets/images/chillus/retroflex n.png"></img>
+
+#### ൻ
+<img src="/assets/images/chillus/dental n.png"></img>
+
+#### ർ
+<img src="/assets/images/chillus/r.png"></img>
+
+#### ൽ
+<img src="/assets/images/chillus/l1.png"></img>
+
+#### ൾ
+TODO update to be consistent with typed character
+
+<img src="/assets/images/chillus/l2.png"></img>
+
+

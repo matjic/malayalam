@@ -31,17 +31,17 @@ The names of the consonant groups are not used elsewhere in this guide and are s
 
 Keep in mind that the second and fourth consonants in each row from Velar to Labial are **aspirated** versions of the first and third sounds, respectively. For example, this means ഖ (kha) is the aspirated version of ക (ka) and ഘ (gha) is the aspirated version of ഗ (ga).
 
-## Velar
+### Velar
 | ക   	| ഖ   	| ഗ  	| ഘ   	| ങ   	|
 |-----	|-----	|----	|-----	|-----	|
 | ka  	| kha 	| ga 	| gha 	| nga 	|
 
-## Postalveolar or Alveolo-palatal
+### Postalveolar or Alveolo-palatal
 | ച   	| ഛ   	| ജ  	| ഝ   	| ഞ   	|
 |-----	|-----	|----	|-----	|-----	|
 | ca  	| cha 	| ja 	| jha 	| ña  	|
 
-## Retroflex
+### Retroflex
 
 Pronounced with the tongue curled **backwards**
 
@@ -49,7 +49,7 @@ Pronounced with the tongue curled **backwards**
 |-----	|-----	|----	|-----	|-----	|
 | Ta  	| Tha 	| Da 	| Dha 	| Na  	|
 
-## Dental
+### Dental
 
 Pronounced with the tongue **against the back of upper teeth**
 
@@ -57,12 +57,12 @@ Pronounced with the tongue **against the back of upper teeth**
 | ----- | ----- | ---- | ----- | ----- |
 | ta    | tha   | da   | dha   | na    |
 
-## Labial
+### Labial
 | പ   	| ഫ   	| ബ  	| ഭ   	| മ   	|
 |-----	|-----	|----	|-----	|-----	|
 | pa  	| pha 	| ba 	| bha 	| ma  	|
 
-## Other
+### Other
 | യ   	| ര   	| ല  	| വ   	|
 |-----	|-----	|----	|-----	|
 | ya  	| ra  	| la 	| va  	|
@@ -78,3 +78,44 @@ Pronounced with the tongue **against the back of upper teeth**
 \* The syllable ന is pronounced in one of two ways, either as a dental consonant (with the tongue touching the teeth) or as an alveolar consonant (with the tongue behind the teeth)
 
 \*\* When the syllable റ is doubled, appearing as ററ, then the resulting sound is pronounced as alveolar "ta" as in "teacher"
+
+## Internal Vowel Symbols
+അ is the default vowel for a consonant. The following symbols modify the consonant to have the corresponding vowel
+
+| അ | ആ | ഇ | ഈ  | ഉ  | ഊ |
+|---|---|---|----|----|---|
+|   | ാ | ി | ീ  | ു   | ൂ  |
+
+| ഋ | എ | ഏ | ഐ  |
+|---|---|---|----|
+| ൃ  | െ | േ | ൈ  |
+
+| ഒ | ഓ | ഔ | അം | അഃ |
+|---|---|---|----|----|
+| ൊ | ോ | ൗ | ം  | ഃ  |
+
+Examples with ക
+
+| അ | ആ | ഇ | ഈ  | ഉ  | ഊ |
+|---|---|---|----|----|---|
+| ക  | കാ | കി | കീ  | കു   | കൂ  |
+
+| ഋ | എ | ഏ | ഐ  |
+|---|---|---|----|
+| കൃ  | കെ | കേ | കൈ  |
+
+| ഒ | ഓ | ഔ | അം | അഃ |
+|---|---|---|----|----|
+| കൊ | കോ | കൗ | കം  | കഃ  |
+
+## Chillus
+
+Chillus are consonants without the inherent vowel
+
+For the first three of the consonants, the inherent vowel is suppressed by the addition of a "tail" as follows.
+
+For last two of the consonants, the inherent vowel is suppressed through the use of a completely different character as follows.
+
+| ണ | ന | ര | ല | ള |
+|---|---|---|---|---|
+| ൺ | ൻ | ർ | ൽ | ൾ |
