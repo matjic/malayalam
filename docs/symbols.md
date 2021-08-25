@@ -2,185 +2,190 @@
 
 ## Vowels
 
+![assets/images/vowels/a.png](assets/images/vowels/a.png)
 ### Row 1
 #### അ
-<img src="/assets/images/vowels/a.png"></img>
+![assets/images/vowels/a.png](assets/images/vowels/a.png)
 #### ആ
-<img src="/assets/images/vowels/aa.png"></img>
+![assets/images/vowels/aa.png](assets/images/vowels/aa.png)
 #### ഇ
-<img src="/assets/images/vowels/i.png"></img>
+![assets/images/vowels/i.png](assets/images/vowels/i.png)
 #### ഈ
-<img src="/assets/images/vowels/ii.png"></img>
+![assets/images/vowels/ii.png](assets/images/vowels/ii.png)
 #### ഉ
-<img src="/assets/images/vowels/u.png"></img>
+![assets/images/vowels/u.png](assets/images/vowels/u.png)
 #### ഊ
-<img src="/assets/images/vowels/uu.png"></img>
+![assets/images/vowels/uu.png](assets/images/vowels/uu.png)
 
 ### Row 2
 #### ഋ  	 
-<img src="/assets/images/vowels/ru.png"></img>
+![assets/images/vowels/ru.png](assets/images/vowels/ru.png)
 #### എ  	 
-<img src="/assets/images/vowels/e.png"></img>
+![assets/images/vowels/e.png](assets/images/vowels/e.png)
 #### ഏ  	 
-<img src="/assets/images/vowels/ee.png"></img>
+![assets/images/vowels/ee.png](assets/images/vowels/ee.png)
 #### ഐ  	
-<img src="/assets/images/vowels/ai.png"></img>
+![assets/images/vowels/ai.png](assets/images/vowels/ai.png)
 
 ### Row 3
 #### ഒ  	 
-<img src="/assets/images/vowels/o.png"></img>
+![assets/images/vowels/o.png](assets/images/vowels/o.png)
 #### ഓ  	 
-<img src="/assets/images/vowels/oo.png"></img>
+![assets/images/vowels/oo.png](assets/images/vowels/oo.png)
 #### ഔ  	 
-<img src="/assets/images/vowels/au.png"></img>
+![assets/images/vowels/au.png](assets/images/vowels/au.png)
 #### അം 	 
-<img src="/assets/images/vowels/am.png"></img>
+![assets/images/vowels/am.png](assets/images/vowels/am.png)
 #### അഃ
-<img src="/assets/images/vowels/aha.png"></img>
+![assets/images/vowels/aha.png](assets/images/vowels/aha.png)
 
 ## Consonants
 ### Velar
 #### ക
-<img src="/assets/images/consonants/ka.png"></img>
+![assets/images/consonants/ka.png](assets/images/consonants/ka.png)
 #### ഖ
-<img src="/assets/images/consonants/kha.png"></img>
+![assets/images/consonants/kha.png](assets/images/consonants/kha.png)
 #### ഗ
-<img src="/assets/images/consonants/ga.png"></img>
+![assets/images/consonants/ga.png](assets/images/consonants/ga.png)
 #### ഘ
-<img src="/assets/images/consonants/gha.png"></img>
+![assets/images/consonants/gha.png](assets/images/consonants/gha.png)
 #### ങ
-<img src="/assets/images/consonants/nga.png"></img>
+![assets/images/consonants/nga.png](assets/images/consonants/nga.png)
 
 ### Postalveolar or Alveolo-palatal
 #### ച
-<img src="/assets/images/consonants/ca.png"></img>
+![assets/images/consonants/ca.png](assets/images/consonants/ca.png)
 #### ഛ
-<img src="/assets/images/consonants/cha.png"></img>
+![assets/images/consonants/cha.png](assets/images/consonants/cha.png)
 #### ജ
-<img src="/assets/images/consonants/ja.png"></img>
+![assets/images/consonants/ja.png](assets/images/consonants/ja.png)
 #### ഝ
-<img src="/assets/images/consonants/jha.png"></img>
+![assets/images/consonants/jha.png](assets/images/consonants/jha.png)
 #### ഞ
-<img src="/assets/images/consonants/ña.png"></img>
+![assets/images/consonants/ña.png](assets/images/consonants/ña.png)
 
 ### Retroflex
 #### ട
-<img src="/assets/images/consonants/Retroflex Ta.png"></img>
+
+![assets/images/consonants/Retroflex%20Ta.png](assets/images/consonants/Retroflex%20Ta.png)
+
 #### ഠ
-<img src="/assets/images/consonants/Retroflex Tha.png"></img>
+![assets/images/consonants/Retroflex%20Tha.png](assets/images/consonants/Retroflex%20Tha.png)
 #### ഡ
-<img src="/assets/images/consonants/Retroflex Da.png"></img>
+![assets/images/consonants/Retroflex%20Da.png](assets/images/consonants/Retroflex%20Da.png)
 #### ഢ
-<img src="/assets/images/consonants/Retroflex Dha.png"></img>
+![assets/images/consonants/Retroflex%20Dha.png](assets/images/consonants/Retroflex%20Dha.png)
 #### ണ
-<img src="/assets/images/consonants/Retroflex Na.png"></img>
+![assets/images/consonants/Retroflex%20Na.png](assets/images/consonants/Retroflex%20Na.png)
 
 ### Dental
 #### ത
-<img src="/assets/images/consonants/Dental ta.png"></img>
+![assets/images/consonants/Dental%20ta.png](assets/images/consonants/Dental%20ta.png)
 #### ഥ
-<img src="/assets/images/consonants/Dental tha.png"></img>
+![assets/images/consonants/Dental%20tha.png](assets/images/consonants/Dental%20tha.png)
 #### ദ
-<img src="/assets/images/consonants/Dental da.png"></img>
+![assets/images/consonants/Dental%20da.png](assets/images/consonants/Dental%20da.png)
 #### ധ
-<img src="/assets/images/consonants/Dental dha.png"></img>
+![assets/images/consonants/Dental%20dha.png](assets/images/consonants/Dental%20dha.png)
 #### ന
-<img src="/assets/images/consonants/Dental na.png"></img>
+![assets/images/consonants/Dental%20na.png](assets/images/consonants/Dental%20na.png)
 
 ### Labial
 #### പ
-<img src="/assets/images/consonants/pa.png"></img>
+![assets/images/consonants/pa.png](assets/images/consonants/pa.png)
 #### ഫ
-<img src="/assets/images/consonants/pha.png"></img>
+![assets/images/consonants/pha.png](assets/images/consonants/pha.png)
 #### ബ
-<img src="/assets/images/consonants/ba.png"></img>
+![assets/images/consonants/ba.png](assets/images/consonants/ba.png)
 #### ഭ
-<img src="/assets/images/consonants/bha.png"></img>
+![assets/images/consonants/bha.png](assets/images/consonants/bha.png)
 #### മ
-<img src="/assets/images/consonants/ma.png"></img>
+![assets/images/consonants/ma.png](assets/images/consonants/ma.png)
 
 ### Other
 #### യ
-<img src="/assets/images/consonants/ya.png"></img>
+![assets/images/consonants/ya.png](assets/images/consonants/ya.png)
 #### ര
-<img src="/assets/images/consonants/ra1.png"></img>
+![assets/images/consonants/ra1.png](assets/images/consonants/ra1.png)
 #### ല
-<img src="/assets/images/consonants/la1.png"></img>
+![assets/images/consonants/la1.png](assets/images/consonants/la1.png)
 #### വ
-<img src="/assets/images/consonants/va.png"></img>
+![assets/images/consonants/va.png](assets/images/consonants/va.png)
 #### ശ
-<img src="/assets/images/consonants/sha1.png"></img>
+![assets/images/consonants/sha1.png](assets/images/consonants/sha1.png)
 #### ഷ
-<img src="/assets/images/consonants/sha2.png"></img>
+![assets/images/consonants/sha2.png](assets/images/consonants/sha2.png)
 #### സ
-<img src="/assets/images/consonants/sa.png"></img>
+![assets/images/consonants/sa.png](assets/images/consonants/sa.png)
 #### ഹ
-<img src="/assets/images/consonants/ha.png"></img>
+![assets/images/consonants/ha.png](assets/images/consonants/ha.png)
 #### ള
-<img src="/assets/images/consonants/la2.png"></img>
+![assets/images/consonants/la2.png](assets/images/consonants/la2.png)
 #### ഴ
-<img src="/assets/images/consonants/ra_zha.png"></img>
+![assets/images/consonants/ra_zha.png](assets/images/consonants/ra_zha.png)
 #### റ
-<img src="/assets/images/consonants/ra2.png"></img>
+![assets/images/consonants/ra2.png](assets/images/consonants/ra2.png)
 
 ## Internal Vowel Symbols
 
 #### ാ
-<img src="/assets/images/vowel symbols/aa.png"></img>
+
+![assets/images/vowel%20symbols/aa.png](assets/images/vowel%20symbols/aa.png)
+
 #### ി
-<img src="/assets/images/vowel symbols/i.png"></img>
+![assets/images/vowel%20symbols/i.png](assets/images/vowel%20symbols/i.png)
 #### ീ
-<img src="/assets/images/vowel symbols/ii.png"></img>
+![assets/images/vowel%20symbols/ii.png](assets/images/vowel%20symbols/ii.png)
 #### ു
-<img src="/assets/images/vowel symbols/u.png"></img>
+![assets/images/vowel%20symbols/u.png](assets/images/vowel%20symbols/u.png)
 #### ൂ
-<img src="/assets/images/vowel symbols/uu.png"></img>
+![assets/images/vowel%20symbols/uu.png](assets/images/vowel%20symbols/uu.png)
 #### ൃ
-<img src="/assets/images/vowel symbols/ru.png"></img>
+![assets/images/vowel%20symbols/ru.png](assets/images/vowel%20symbols/ru.png)
 #### െ
-<img src="/assets/images/vowel symbols/e.png"></img>
+![assets/images/vowel%20symbols/e.png](assets/images/vowel%20symbols/e.png)
 #### േ
-<img src="/assets/images/vowel symbols/ee.png"></img>
+![assets/images/vowel%20symbols/ee.png](assets/images/vowel%20symbols/ee.png)
 #### ൈ
-<img src="/assets/images/vowel symbols/ai.png"></img>
+![assets/images/vowel%20symbols/ai.png](assets/images/vowel%20symbols/ai.png)
 #### ൊ
-<img src="/assets/images/vowel symbols/o.png"></img>
+![assets/images/vowel%20symbols/o.png](assets/images/vowel%20symbols/o.png)
 #### ോ
 TODO find way to present symbol properly
-<img src="/assets/images/vowel symbols/oo.png"></img>
+![assets/images/vowel%20symbols/oo.png](assets/images/vowel%20symbols/oo.png)
 #### ൈ
 
-<img src="/assets/images/vowel symbols/ai.png"></img>
+![assets/images/vowel%20symbols/ai.png](assets/images/vowel%20symbols/ai.png)
 
 #### ൗ
 
-<img src="/assets/images/vowel symbols/au.png"></img>
+![assets/images/vowel%20symbols/au.png](assets/images/vowel%20symbols/au.png)
 
 #### ം
 
-<img src="/assets/images/vowel symbols/am.png"></img>
+![assets/images/vowel%20symbols/am.png](assets/images/vowel%20symbols/am.png)
 
 #### ഃ
 
-<img src="/assets/images/vowel symbols/aha.png"></img>
+![assets/images/vowel%20symbols/aha.png](assets/images/vowel%20symbols/aha.png)
 
 ## Chillus
 
 #### ൺ
-<img src="/assets/images/chillus/retroflex n.png"></img>
+![assets/images/chillus/retroflex%20n.png](assets/images/chillus/retroflex%20n.png)
 
 #### ൻ
-<img src="/assets/images/chillus/dental n.png"></img>
+![assets/images/chillus/dental%20n.png](assets/images/chillus/dental%20n.png)
 
 #### ർ
-<img src="/assets/images/chillus/r.png"></img>
+![assets/images/chillus/r.png](assets/images/chillus/r.png)
 
 #### ൽ
-<img src="/assets/images/chillus/l1.png"></img>
+![assets/images/chillus/l1.png](assets/images/chillus/l1.png)
 
 #### ൾ
 TODO update to be consistent with typed character
 
-<img src="/assets/images/chillus/l2.png"></img>
+![assets/images/chillus/l2.png](assets/images/chillus/l2.png)
 
 
