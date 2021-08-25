@@ -6,21 +6,32 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="/assets/vue.css">
+  <link rel="stylesheet" href="assets/vue.css">
 </head>
 <body>
   <div id="app"></div>
   <script>
-    window.$docsify = {
+    let docsifyConfig = {
       name: 'Malayalam',
       repo: '',
       loadSidebar: true,
       subMaxLevel: 3,
     }
+    let hostname = window.location.hostname
+    let segments = window.location.pathname.split('/')
+    if(
+      hostname.endsWith('.github.io')
+      && segments.length > 2
+      && segments[1].length > 0
+    ){
+      docsifyConfig.basePath = segments[2]
+    }
+
+    window.$docsify = docsifyConfig
   </script>
   <!-- Docsify v4 -->
-  <script src="/assets/docsify@4.js"></script>
-  <script src="/assets/docsify_search.min.js"></script>
+  <script src="assets/docsify@4.js"></script>
+  <script src="assets/docsify_search.min.js"></script>
 
 </body>
 </html>
