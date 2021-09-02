@@ -3,3 +3,4 @@
 * [The Book and How to Use it](usage.md)
 * [Alphabet](alphabet.md)
 * [How to write Symbols](symbols.md)
+* [Lesson 1](lesson1.md)

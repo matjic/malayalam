@@ -132,7 +132,7 @@ This is also referred to in Malayalam as **chandrakkala (ചന്ദ്രക�
 
 
 ## Common Combined Consonants
-Using the echo vowel (്), one can combine certain consonants together
+Using the echo vowel one can combine certain consonants together
 
 
 ### Double consonants
@@ -167,6 +167,16 @@ Different consonants can be combined as well
 | ന്റ | റ്റ |
 | ൻറ | ററ |
 
-Note that while ന്‌റ and ന്റ are pronounced **nta** while ന്‌റ can be pronounced either **nra** or **nta** depending on the word.
+
+Note that while ന്‌റ and ന്റ (ligated, rendering depends on your font and device) are pronounced **nta** while ന്‌റ can be pronounced either **nra** or **nta** depending on the word.
 
 Similarly, റ്‌റ and റ്റ are pronounced **tta** while ററ is pronounced either **rara** or **tta** depending on the word.
+
+
+## Consonant Symbols
+
+യ, ര, ല, and വ can be shown as a symbol used to modify the vowel as shown below
+
+| ത്‌യ | പ്‌ര | പ്‌ല | സ്‌വ |
+|----|----|----|----|
+| ത്യ | പ്ര | പ്ല | സ്വ |
