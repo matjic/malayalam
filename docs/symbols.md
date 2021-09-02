@@ -2,7 +2,6 @@
 
 ## Vowels
 
-![assets/images/vowels/a.png](assets/images/vowels/a.png)
 ### Row 1
 #### അ
 ![assets/images/vowels/a.png](assets/images/vowels/a.png)
@@ -187,5 +186,3 @@ TODO find way to present symbol properly
 TODO update to be consistent with typed character
 
 ![assets/images/chillus/l2.png](assets/images/chillus/l2.png)
-
-
