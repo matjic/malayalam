@@ -12,6 +12,8 @@ The order of the alphabet and sounds corresponding to each letter are similar ac
 
 ## Vowels
 
+Vowels are referred to as **svaram (സ്വരം)** in Malayalam
+
 | അ  	| ആ  	| ഇ  	| ഈ  	| ഉ   	| ഊ  	|
 |----	|----	|----	|----	|-----	|----	|
 | a  	| aa 	| i  	| ii 	| u   	| uu 	|
@@ -26,6 +28,8 @@ The order of the alphabet and sounds corresponding to each letter are similar ac
 | o  	| oo 	| au 	| am 	| aha 	|
 
 ## Consonants
+
+Consonants are referred to as **vyañjanam (വ്യഞ്ജനം)** in Malayalam
 
 The names of the consonant groups are not used elsewhere in this guide and are simply given for reference. It may be helpful to look up the different groups to differentiate their pronunciations.
 
@@ -94,6 +98,8 @@ Pronounced with the tongue **against the back of upper teeth**
 |---|---|---|----|----|
 | ൊ | ോ | ൗ | ം  | ഃ  |
 
+am (ം) is a particularly common vowel symbol and is referred to as an **anusvaram (അനുസ്വാരം)** in Malayalam or generally among Indian languages as an **anusvara**.
+
 Examples with ക
 
 | അ | ആ | ഇ | ഈ  | ഉ  | ഊ |
@@ -110,7 +116,7 @@ Examples with ക
 
 ## Chillus
 
-Chillus are consonants without the inherent vowel
+A **chillu** or a **chillaksharam (ചില്ലക്ഷരം)**, is a special consonant letter that represents a pure consonant independently, without help of an **echo vowel** (്).
 
 For the first three of the consonants, the inherent vowel is suppressed by the addition of a "tail" as follows.
 
@@ -119,3 +125,48 @@ For last two of the consonants, the inherent vowel is suppressed through the use
 | ണ | ന | ര | ല | ള |
 |---|---|---|---|---|
 | ൺ | ൻ | ർ | ൽ | ൾ |
+
+For all other consonants, the inherent vowel is suppressed by the use of the **echo vowel** (്), which is written at the upper right-hand corner of the consonant, as in the following examples: ക് ച് ട് ത് പ്.
+
+This is also referred to in Malayalam as **chandrakkala (ചന്ദ്രക്കല)** or generally among Indian languages as a **virama**.
+
+
+## Common Combined Consonants
+Using the echo vowel (്), one can combine certain consonants together
+
+
+### Double consonants
+One type are the "double consonants" which are two of the same consonant combined together
+
+
+| ക്‌ക | ങ്‌ങ | ച്‌ച | ത്‌ത | ട്‌ട |
+|-------|-------|-------|-------|-------|
+| ക്ക    | ങ്ങ    | ച്ച    | ത്ത    | ട്ട    |
+
+| ഞ്‌ഞ | ന്‌ന | ബ്‌ബ | മ്‌മ | യ്‌യ |
+|-------|-------|-------|-------|-------|
+| ഞ്ഞ    | ന്ന    | ബ്ബ    | മ്മ    | യ്യ    |
+
+
+| ല്‌ല | വ്‌വ | പ്‌പ | ള്‌ള | ണ്‌ണ |
+|-------|-------|-------|-------|-------|
+| ല്ല    | വ്വ    | പ്പ    | ള്ള    | ണ്ണ     |
+
+### Other combined consonants
+Different consonants can be combined as well
+
+| ഞ്‌ച | ണ്‌ട | ന്‌ത | മ്‌പ |
+|----|----|----|----|
+| ഞ്ച | ണ്ട | ന്ത | മ്പ |
+
+
+### Combined consonants with more than two forms
+
+| ന്‌റ | റ്‌റ |
+|----|----|
+| ന്റ | റ്റ |
+| ൻറ | ററ |
+
+Note that while ന്‌റ and ന്റ are pronounced **nta** while ന്‌റ can be pronounced either **nra** or **nta** depending on the word.
+
+Similarly, റ്‌റ and റ്റ are pronounced **tta** while ററ is pronounced either **rara** or **tta** depending on the word.
