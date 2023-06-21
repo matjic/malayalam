@@ -1,3 +1,14 @@
+/* malayalam (only) */
+@font-face {
+  font-family: 'Noto Sans Malayalam';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(fonts/sJoi3K5XjsSdcnzn071rL37lpAOsUThnDZIfPdbeSNzVakglNM-Qw8EaeB8Nss-_RuDNG1bFn6E.woff2) format('woff2');
+  unicode-range: U+0D00-0D7F;
+}
+
 /* cyrillic-ext */
 @font-face {
   font-family: 'Roboto Mono';

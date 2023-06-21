@@ -168,7 +168,7 @@ Different consonants can be combined as well
 | ൻറ | ററ |
 
 
-Note that while ന്‌റ and ന്റ (ligated, rendering depends on your font and device) are pronounced **nta** while ന്‌റ can be pronounced either **nra** or **nta** depending on the word.
+Note that while ന്‌റ and ന്റ are pronounced **nta** while ന്‌റ can be pronounced either **nra** or **nta** depending on the word.
 
 Similarly, റ്‌റ and റ്റ are pronounced **tta** while ററ is pronounced either **rara** or **tta** depending on the word.
 
