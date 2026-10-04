@@ -1,7 +1,9 @@
+<a id="lesson17"></a><!-- reading-anchor -->
 # Lesson 17
 
 <!-- Source: PDF page 297; printed page 240. -->
 
+<a id="lesson17-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
 | Malayalam | Meaning |
@@ -33,8 +35,10 @@
 
 <!-- Source: PDF page 298; printed page 241. -->
 
+<a id="lesson17-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
 
+<a id="lesson17-a"></a><!-- reading-anchor -->
 ### A.
 
 Note how അര, half past (for time), half, or plus one half, joins to the whole numbers.
@@ -54,6 +58,7 @@ Note how അര, half past (for time), half, or plus one half, joins to the whol
 | പതിനൊന്ന് | + അര = | പതിനൊന്നര |
 | പന്ത്രണ്ട് | + അര = | പന്ത്രണ്ടര |
 
+<a id="lesson17-b"></a><!-- reading-anchor -->
 ### B.
 
 Note how േ-- is added when കാൽ, quarter past (for time) or plus one quarter, and മുക്കാൽ, 45 minutes past (for time) or plus three quarters, are joined to whole numbers.
@@ -76,8 +81,10 @@ Note how േ-- is added when കാൽ, quarter past (for time) or plus one quar
 
 <!-- Source: PDF page 299; printed page 242. -->
 
+<a id="lesson17-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
+<a id="lesson17-u0d12u0d28u0d28-u0d30u0d17"></a><!-- reading-anchor -->
 ### ഒന്നാം രംഗം
 
 *അമ്മയും മകളും*
@@ -102,6 +109,7 @@ Note how േ-- is added when കാൽ, quarter past (for time) or plus one quar
 
 **ലീല:** ആട്ടെ. ഞാൻ നാളെ ചോദിക്കാം.
 
+<a id="lesson17-u0d30u0d23u0d1f-u0d30u0d17"></a><!-- reading-anchor -->
 ### രണ്ടാം രംഗം
 
 *അടുത്ത ദിവസം*
@@ -120,6 +128,7 @@ Note how േ-- is added when കാൽ, quarter past (for time) or plus one quar
 
 <!-- Source: PDF page 300; printed page 243. -->
 
+<a id="lesson17-exercises"></a><!-- reading-anchor -->
 ## Exercises
 
 **1.** Change the following commands to the familiar form as in the model.
@@ -240,11 +249,13 @@ j. അവർ മൂന്നേകാൽ മണിക്ക് ഇവിടെ �
 9. നിങ്ങൾ അഞ്ചുവർഷം കഴിഞ്ഞ് മലയാളഭാഷ ഓർക്കുമോ?
 10. പഠിച്ചുകഴിഞ്ഞ് അവൾ എന്തു ചെയ്യണമെന്ന് വിചാരിക്കുന്നു?
 
+<a id="lesson17-grammar-notes"></a><!-- reading-anchor -->
 ## Grammar Notes
 
+<a id="section-17-1"></a><!-- reading-anchor -->
 ### 17.1 Half and Quarter Hours, and Other Precise Times
 
-Section 7.3 covers the asking and telling of time for exact hours only. Sections A and B of this lesson's Reading Practice give examples of “half past,” “quarter past,” and “quarter till” the hours. “Halfpast” is expressed by adding -അര “plus one half” to the number for the hour which has already struck. Note that the final echo vowel ഉ of the number is lost in the joining (or sandhi). Thus:
+Section [7.3](lesson7.md#section-7-3) covers the asking and telling of time for exact hours only. Sections A and B of this lesson's Reading Practice give examples of “half past,” “quarter past,” and “quarter till” the hours. “Halfpast” is expressed by adding -അര “plus one half” to the number for the hour which has already struck. Note that the final echo vowel ഉ of the number is lost in the joining (or sandhi). Thus:
 
 1. പന്ത്രണ്ടര — “12:30, half past twelve”
 
@@ -285,6 +296,7 @@ Note that -അര, -കാൽ, and -മുക്കാൽ are also used with oth
 
 11. ഒന്നേകാൽ കിലോമീറ്റർ — “one and a quarter kilometers”
 
+<a id="section-17-2"></a><!-- reading-anchor -->
 ### 17.2 Numbers: Ordinals, Adjectives, and Adverbs
 
 The adjectival forms of the numbers are made by adding the suffix -ാമത്തെ to the number in question. Note that the final vowel of the number is lost. In some cases, the short form -ാം is used instead, particularly with “class,” “lesson,” and a few other words. Witness:
@@ -307,7 +319,7 @@ These adjectives, like most others, are made into pronouns by adding -അത്.
 
    “The fifth one is Ravi's.”
 
-Further, the adjectival forms of the numbers cannot be used as is to show the sequence in which things will be done. They must be made into nouns, followed by the adverb marker ആയി (see 22.5). With ആയി, the -അത് is added onto the -ാം form and forms with -ാമത്തെ are not used. Witness:
+Further, the adjectival forms of the numbers cannot be used as is to show the sequence in which things will be done. They must be made into nouns, followed by the adverb marker ആയി (see [22.5](lesson22.md#section-22-5)). With ആയി, the -അത് is added onto the -ാം form and forms with -ാമത്തെ are not used. Witness:
 
 5. ജെയിംസ് നാലാമതായി സംസാരിക്കും.
 
@@ -317,13 +329,10 @@ Further, the adjectival forms of the numbers cannot be used as is to show the se
 
    “Older sister passed first in her class.”
 
+<a id="section-17-3"></a><!-- reading-anchor -->
 ### 17.3 The Remote Past Verbform
 
-The remote past verbform is made up of the conjunctive verbform (past participle) plus ഇരുന്നു, the past form of ഇരിക്കുക which here acts as an auxiliary verb. The spelling changes which occur in the final syllable of the conjunctive verbform when ഇരുന്നു is added
-
-<!-- Source: PDF page 306; printed page 249. -->
-
-are exactly the same as those which apply when -ിട്ട് is joined to form the present perfect verbform (see 13.2). That is:
+The remote past verbform is made up of the conjunctive verbform (past participle) plus ഇരുന്നു, the past form of ഇരിക്കുക which here acts as an auxiliary verb. The spelling changes which occur in the final syllable of the conjunctive verbform when ഇരുന്നു is added <!-- Source: PDF page 306; printed page 249. --> are exactly the same as those which apply when -ിട്ട് is joined to form the present perfect verbform (see [13.2](lesson13.md#section-13-2)). That is:
 
 A. Conjunctive verbforms ending in -ഉ drop it.  
 Example: താമസിച്ചിരുന്നു — “lived, had lived, used to live”
@@ -362,9 +371,10 @@ True habitual action in past time is most commonly shown with the future/habitua
 
 The verbs ഉണ്ട് and ആണ് have no separate remote past forms. They use ഉണ്ടായിരുന്നു and ആയിരുന്നു respectively for both simple and remote past. You can now recognize that both of these forms are actually remote past in that they are made up of the conjunctive verbforms ഉണ്ടായി and ആയി plus ഇരുന്നു respectively.
 
+<a id="section-17-4"></a><!-- reading-anchor -->
 ### 17.4 Familiar and Formal Commands
 
-The polite command form made by adding -ഊ to the present stem of the verb was covered in 3.4. This lesson's conversation contains examples of the familiar command form made by adding the echo vowel -ഉ to the present stem. Whereas polite command forms assume the use of the pronoun നിങ്ങൾ, familiar command forms are used only with those persons with whom the pronoun നീ is permitted. In modern Kerala life, there is a tendency to expand the territory of നിങ്ങൾ and its corresponding polite command forms and to restrict that of നീ and, hence, of its corresponding familiar command forms (see 1.6). Nevertheless, നീ is still generally used for younger siblings and for one's own children, but decreasingly for others who are clearly inferior in age or social status. It is probably safer not to use them with servants, especially adult ones, though many Keralites still do. All of the familiar command forms are regular except for a few very common verbs that have special short forms, e.g.
+The polite command form made by adding -ഊ to the present stem of the verb was covered in [3.4](lesson3.md#section-3-4). This lesson's conversation contains examples of the familiar command form made by adding the echo vowel -ഉ to the present stem. Whereas polite command forms assume the use of the pronoun നിങ്ങൾ, familiar command forms are used only with those persons with whom the pronoun നീ is permitted. In modern Kerala life, there is a tendency to expand the territory of നിങ്ങൾ and its corresponding polite command forms and to restrict that of നീ and, hence, of its corresponding familiar command forms (see [1.6](lesson1.md#section-1-6)). Nevertheless, നീ is still generally used for younger siblings and for one's own children, but decreasingly for others who are clearly inferior in age or social status. It is probably safer not to use them with servants, especially adult ones, though many Keralites still do. All of the familiar command forms are regular except for a few very common verbs that have special short forms, e.g.
 
 1. ഇവിടെ വാ. — “Come here.”
 2. അയാളുടെ കൂടെ പോ. — “Go with him.”
@@ -375,13 +385,9 @@ Complex verbs made from വരുക and പോകുക also show these forms a
 4. രണ്ട് കാപ്പി കൊണ്ടുവാ. — “Bring two coffees.”
 5. ഈ പ്ലേറ്റ് കൊണ്ടുപോ. — “Take away this plate.”
 
-> **Editorial note:** The following source paragraph has missing prose between നീ and “attention.” Section 1.6 and the preceding paragraph explain which relationships allow നീ; the examples below illustrate the familiar address particles.
+> **Editorial note:** The following source paragraph has missing prose between നീ and “attention.” Section [1.6](lesson1.md#section-1-6) and the preceding paragraph explain which relationships allow നീ; the examples below illustrate the familiar address particles.
 
-These familiar commands are often used along with the particle എടാ for male or എടീ for female addressees. This, too, is limited to persons with whom നീ attention as “hey,” or it may be added to the end of any sentence as a marker of the intimate and/or superior relationship which exists between the speaker and the addressee. It can, therefore, carry a
-
-<!-- Source: PDF page 308; printed page 251. -->
-
-full range of possible meanings from endearment to derogation. Here are some examples with familiar commands:
+These familiar commands are often used along with the particle എടാ for male or എടീ for female addressees. This, too, is limited to persons with whom നീ attention as “hey,” or it may be added to the end of any sentence as a marker of the intimate and/or superior relationship which exists between the speaker and the addressee. It can, therefore, carry a <!-- Source: PDF page 308; printed page 251. --> full range of possible meanings from endearment to derogation. Here are some examples with familiar commands:
 
 6. അവിടെ ഇരിക്കെടീ (you fem.) — “Sit down there.”
 7. വേഗം നടക്കെടാ (you masc.) — “Walk fast.”
@@ -393,7 +399,7 @@ With a few verbs, the actual verb stem is sometimes used as a familiar command a
 10. വേഗം നട — “Walk fast.”
 11. പറ — “Speak/Tell.”
 
-There are several degrees of formal commands. The most formal of these is made from the past stem of the verb plus -ാലും. This results in forms which appear identical to the present conditional verbforms treated in 14.2. There is no confusion, however, for the conditional always occurs in the middle of a complex sentence, while the formal command form always appears at the very end of a simple (one clause) sentence.
+There are several degrees of formal commands. The most formal of these is made from the past stem of the verb plus -ാലും. This results in forms which appear identical to the present conditional verbforms treated in [14.2](lesson14.md#section-14-2). There is no confusion, however, for the conditional always occurs in the middle of a complex sentence, while the formal command form always appears at the very end of a simple (one clause) sentence.
 
 These command forms were traditionally used with persons of very high status and are coming to be regarded as somewhat archaic and artificial today. Nevertheless, you may come across them in reading or in very formal situations. Here are some examples of typical usages:
 
@@ -413,11 +419,12 @@ The desiderative verbform is quite often used as a command, more or less equival
 
     “Tell him to come tomorrow.”
 
-These desideratives, needless to say, have the nominative rather than the dative subject, though it is usually omitted. The corresponding negatives of these desiderative command forms are, not surprisingly, formed with -ണ്ട. The formal command form has no negative, and familiar negative commands are covered in 19.2 and polite ones in 18.5.
+These desideratives, needless to say, have the nominative rather than the dative subject, though it is usually omitted. The corresponding negatives of these desiderative command forms are, not surprisingly, formed with -ണ്ട. The formal command form has no negative, and familiar negative commands are covered in [19.2](lesson19.md#section-19-2) and polite ones in [18.5](lesson18.md#section-18-5).
 
+<a id="section-17-5"></a><!-- reading-anchor -->
 ### 17.5 The Emphatic Present Verbform with -ന്നുണ്ട്
 
-A present tense verbform may be made emphatic by adding -ഉണ്ട്. Note that the final ഉ of the ending drops when -ഉണ്ട് is added. One very specific use of this form is to give a contrary answer to a negative question (see 5.5) as in:
+A present tense verbform may be made emphatic by adding -ഉണ്ട്. Note that the final ഉ of the ending drops when -ഉണ്ട് is added. One very specific use of this form is to give a contrary answer to a negative question (see [5.5](lesson5.md#section-5-5)) as in:
 
 1. A. ഞങ്ങൾ ഒരു സിനിമ കാണാൻ പോകുന്നു. നീ വരുന്നില്ലേ?
 
@@ -440,3 +447,11 @@ The emphatic form is also frequently used in questions, as in:
 4. അവൻ ഇപ്പോൾ പഠിക്കുന്നുണ്ടോ? — “Is he studying now?”
 
 Note that Example 4 can either mean, “is he doing his homework at the moment,” or “is he enrolled in a course of some kind.” Note that, functionally, this verbform has no negative since, for example, പോകുന്നില്ല is also the negative of the unemphatic present verbform, പോകുന്നു.
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Minilesson E](minilesson-e.md) · [Contents](contents.md) · [Next: Lesson 18 →](lesson18.md)
+
+<!-- /reading-navigation -->

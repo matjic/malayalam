@@ -1,8 +1,11 @@
 <!-- Source: PDF page 89; printed page 39. -->
+<a id="lesson4"></a><!-- reading-anchor -->
 # Lesson 4
 
+<a id="lesson4-reference-list"></a><!-- reading-anchor -->
 ## Reference List
 
+<a id="lesson4-dative-of-personal-pronouns"></a><!-- reading-anchor -->
 ### Dative of Personal Pronouns
 
 | Malayalam |
@@ -17,6 +20,7 @@
 | നമ്മൾക്ക് |
 | ഞങ്ങൾക്ക് |
 
+<a id="lesson4-vocabulary"></a><!-- reading-anchor -->
 ### Vocabulary
 
 | Malayalam | English |
@@ -34,11 +38,7 @@
 | കാപ്പി | coffee |
 | എനിക്ക് | me, to me (dative) |
 | വളരെ | very much, a lot |
-
-<!-- Source: PDF page 90; printed page 40. -->
-| Malayalam | English |
-|---|---|
-| കൊണ്ടുവരൂ | bring |
+| <!-- Source: PDF page 90; printed page 40. --> കൊണ്ടുവരൂ | bring |
 | ദോശ | dosa (rice and lentil flour crêpe) |
 | ചമ്മന്തി | chutney |
 | ഇഷ്ടമായി | (with dative) I, you like (specific case) |
@@ -57,6 +57,7 @@
 | കൊടുക്കൂ | give (to a third person) |
 | പോകാം | let’s go |
 
+<a id="lesson4-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
 
 Note how **അല്ല** joins to the following words.
@@ -67,11 +68,7 @@ Note how **അല്ല** joins to the following words.
 | ചമ്മന്തി | ചമ്മന്തിയല്ല |
 | കാപ്പി | കാപ്പിയല്ല |
 | അനുജൻ | അനുജനല്ല |
-
-<!-- Source: PDF page 91; printed page 41. -->
-|  |  |
-|---|---|
-| അവൻ | അവനല്ല |
+| <!-- Source: PDF page 91; printed page 41. --> അവൻ | അവനല്ല |
 | പയ്യൻ | പയ്യനല്ല |
 | ദോശ | ദോശയല്ല |
 | അദ്ദേഹം | അദ്ദേഹമല്ല |
@@ -86,6 +83,7 @@ Note how **അല്ല** joins to the following words.
 | ശരി | ശരിയല്ല |
 | ആഫീസിൽ | ആഫീസിലല്ല |
 
+<a id="lesson4-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
 **രാമൻ:** അതാ ഒരു ചായക്കട. വരൂ ബിൽ.
@@ -129,6 +127,7 @@ Note how **അല്ല** joins to the following words.
 
 **ബിൽ:** ശരി, പോകാം.
 
+<a id="lesson4-exercises"></a><!-- reading-anchor -->
 ## Exercises
 
 **1. A.** Form new sentences by substituting the appropriate form of the person words given below.
@@ -310,11 +309,13 @@ Look at the first two columns of consonants in the Malayalam alphabet. In the fi
 15. എനിക്ക് ചേട്ടൻ __________
 16. അത് ശരി __________
 
+<a id="lesson4-lesson-four-grammar-notes"></a><!-- reading-anchor -->
 ## Lesson Four Grammar Notes
 
+<a id="section-4-1"></a><!-- reading-anchor -->
 ### 4.1. Wishes and Desires: The Indirect വേണം
 
-It was pointed out in 3.5 that physical and emotional feelings are usually expressed by indirect sentences where the experiencer of the feeling must be rendered by a noun or pronoun in the dative form. The dative forms of the personal pronouns appear in the reference list for this lesson. The common way of expressing wants or needs is with the indirect verb വേണം “to want or need”. Witness:
+It was pointed out in [3.5](lesson3.md#section-3-5) that physical and emotional feelings are usually expressed by indirect sentences where the experiencer of the feeling must be rendered by a noun or pronoun in the dative form. The dative forms of the personal pronouns appear in the reference list for this lesson. The common way of expressing wants or needs is with the indirect verb വേണം “to want or need”. Witness:
 
 <!-- Source: PDF page 98; printed page 48. -->
 
@@ -328,6 +329,7 @@ The negative form of വേണം is വേണ്ട “don’t want/need”. Th
 
 3. എനിക്ക് ചായ വേണ്ട, “I don’t want/need tea”.
 
+<a id="section-4-2"></a><!-- reading-anchor -->
 ### 4.2. Likes and Desires: Indirect Sentences with ഇഷ്ടമാണ്
 
 Liking in Malayalam is rendered by the expression ഇഷ്ടമാണ് consisting of the noun ഇഷ്ടം and the copula ആണ്, or some form of the verb “to be” in an indirect sentence. Thus the person who has the liking must appear in the dative, and that for which you have a liking appears in the normal nominative form. Thus,
@@ -336,13 +338,14 @@ Liking in Malayalam is rendered by the expression ഇഷ്ടമാണ് consi
 
 “I like coffee”.
 
-Note that sentences in this form cannot be used to express a liking for a person. These require the person who is liked to appear in the accusative, covered in 8.1.
+Note that sentences in this form cannot be used to express a liking for a person. These require the person who is liked to appear in the accusative, covered in [8.1](lesson8.md#section-8-1).
 
 It must be clearly understood that ഇഷ്ടമാണോ? is used for habitual liking only, usually rendered in English as “do you like”. Be sure not to confuse this with the similar English expression “would you like” which is used to offer someone something on a specific occasion. Such cases are handled in Malayalam by വേണോ as you may see from the conversation for this lesson. In order to express liking for a specific item that you have just tried, tasted, heard, seen, etc. for the first time, you must use the expression ഇഷ്ടമായി, literally “liking has taken place”. This illustrates the principle stated in the introduction to this book that languages often express the same concept differently and that the specific mode of expression is arbitrary, not logical. Thus when someone samples a particular item, the English speaker asks in the present tense “do you like it” whereas the Malayalam speaker asks <!-- Source: PDF page 99; printed page 49. --> in the past tense “did you like it” or, more literally, “did liking take place”. Note that the person and the thing liked are both omitted from the Malayalam sentence when they are clear from the situation, or from earlier sentences. You will find the omission of known items to be a very common practice in Malayalam as you go further into the language.
 
+<a id="section-4-3"></a><!-- reading-anchor -->
 ### 4.3 Differing Responses to Yes-No Questions According to the Verb
 
-Section 2.5 discussed yes/no questions using the copula, ആണ്. You have since encountered two additional sentence types: existive sentences using ഉണ്ട് (see 3.1) and indirect sentences with വേണം (see 4.1 above). In Malayalam yes/no questions are answered with either a positive or negative form of the verb in question. There are alternative forms for saying “yes” as well. If the verb in question is ആണ്, or some other form of the verb “to be”, such as ആയി, “has become”, the word അതെ may be used. For most other verbs the colloquial form ഓ may be used in place of the positive verb in short answers. Frequently, however, you will find ഓ followed by a positive verb, just as English often answers “yes I do”, “yes, I would”, or the like. Note that ഓ must be pronounced with a somewhat drawn-out, level, midrange pitch in
+Section [2.5](lesson2.md#section-2-5) discussed yes/no questions using the copula, ആണ്. You have since encountered two additional sentence types: existive sentences using ഉണ്ട് (see [3.1](lesson3.md#section-3-1)) and indirect sentences with വേണം (see [4.1](lesson4.md#section-4-1) above). In Malayalam yes/no questions are answered with either a positive or negative form of the verb in question. There are alternative forms for saying “yes” as well. If the verb in question is ആണ്, or some other form of the verb “to be”, such as ആയി, “has become”, the word അതെ may be used. For most other verbs the colloquial form ഓ may be used in place of the positive verb in short answers. Frequently, however, you will find ഓ followed by a positive verb, just as English often answers “yes I do”, “yes, I would”, or the like. Note that ഓ must be pronounced with a somewhat drawn-out, level, midrange pitch in
 
 1. കാപ്പി ഇഷ്ടമാണോ? അതെ.
 
@@ -368,10 +371,12 @@ C. ചമ്മന്തി വേണോ? “Do (you) want chutney?”
 
 വേണം “Yes”, വേണ്ട “No”.
 
+<a id="section-4-4"></a><!-- reading-anchor -->
 ### 4.4 The Dative for Indirect Objects
 
 A small group of verbs like കൊടുക്കുക “to give” (to a third person) are called double object verbs because they have, in addition to the subject or actor, two objects, one called the direct object indicating the thing which is given, and another called the indirect object indicating the person who gets it. You can see from the sentence in the conversation അവന് ഈ പണം ഒന്നു കൊടുക്കൂ that the indirect object must be in the dative form, while the direct object appears in the citation or nominative form.
 
+<a id="section-4-5"></a><!-- reading-anchor -->
 ### 4.5 Differences in the Dative Ending
 
 Malayalam has three variants of the dative ending depending on the final sound of the word to which the ending is added. These are summarized below.
@@ -446,6 +451,15 @@ Examples:
 
 C. After word final -ൻ the ending ിന് is shortened to avoid reduplication of the ൻ sound, and only the final vowel is added as in: രാജൻ “Rajan”, രാജന് “to or for Rajan”.
 
+<a id="section-4-6"></a><!-- reading-anchor -->
 ### 4.6 Two Kinds of Giving
 
 തരുക versus കൊടുക്കുക. The two Malayalam verbs for give are distinguished according to the indirect objects they can take, i.e. according to who gets whatever is given. തരുക is used only when the recipient is in the first or second person, that is I, we, or you. കൊടുക്കുക must be used for all third person recipients, her, him, them, or one or more persons referred to by name, kinship term, etc. Thus in the conversation when Bill wants more chutney, he says കുറച്ചു കൂടി തരൂ since “me” is the recipient, but later on when he wants his Malayali friend to give a tip to the boy working in the hotel, he says അവന് ഈ പണം ഒന്നു കൊടുക്കൂ “please give him this money”. In this lesson you see these verbs in their command form only, but in subsequent lessons you will be using them in all tenses. The distinction spelled out between the two verbs here holds throughout all of them.
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Lesson 3](lesson3.md) · [Contents](contents.md) · [Next: Lesson 5 →](lesson5.md)
+
+<!-- /reading-navigation -->

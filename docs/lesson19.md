@@ -1,7 +1,9 @@
+<a id="lesson19"></a><!-- reading-anchor -->
 # Lesson 19
 
 <!-- Source: PDF page 325; printed page 268. -->
 
+<a id="lesson19-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
 | Malayalam | Meaning |
@@ -34,12 +36,7 @@
 | മടിച്ചി | lazy person (feminine) |
 | മടിയാണ് | (you) are lazy (with dative subject) |
 | ജോലി ചെയ്യാൻ മടിയാണ് | reluctant, unwilling to do work (with dative subject) |
-
-<!-- Source: PDF page 326; printed page 269. -->
-
-| Malayalam | Meaning |
-|---|---|
-| ഏതായാലും | anyhow, in any case |
+| <!-- Source: PDF page 326; printed page 269. --> ഏതായാലും | anyhow, in any case |
 | ഇനിയും മുതൽ | from now on |
 | അല്ലെങ്കിൽ | otherwise |
 | മാറ്റുക (past tense: മാറ്റി) | to change (transitive) |
@@ -49,8 +46,10 @@
 | ചെയ്യാമേ | (I) will do (connotes submissiveness) |
 | പ്രയാസം | difficulty |
 
+<a id="lesson19-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
 
+<a id="lesson19-a"></a><!-- reading-anchor -->
 ### A.
 
 Note how the noun ആളുകൾ “people” may be replaced in the following phrases by the plural relative pronoun അവർ “those who.”
@@ -66,6 +65,7 @@ Note how the noun ആളുകൾ “people” may be replaced in the following 
 5. സാറിനെ കാണണമെന്നുള്ള ആളുകൾ.  
    സാറിനെ കാണണമെന്നുള്ളവർ.
 
+<a id="lesson19-b"></a><!-- reading-anchor -->
 ### B.
 
 Note how the nouns referring to male and female persons may be replaced in the following phrases by the singular relative pronouns അവൻ and അവൾ respectively. Note that respected female persons take the plural pronoun അവർ.
@@ -82,6 +82,7 @@ Note how the nouns referring to male and female persons may be replaced in the f
 4. പ്ലേറ്റ് കൊണ്ടുപോകുന്ന കുട്ടി.  
    പ്ലേറ്റ് കൊണ്ടുപോകുന്നവൻ.
 
+<a id="lesson19-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
 *മേനോൻ സാർ - മാനേജർ*  
@@ -112,6 +113,7 @@ Note how the nouns referring to male and female persons may be replaced in the f
 
 **തോമസ്:** അയ്യോ! സാറേ! എന്നെ സ്ഥലം മാറ്റരുതേ! ഞാൻ ഇനിയും മുതൽ എല്ലാ ജോലിയും ശരിയായിട്ട് ചെയ്യാമേ!
 
+<a id="lesson19-exercises"></a><!-- reading-anchor -->
 ## Exercises
 
 **1.** Change the following to negative commands as in the model.
@@ -283,11 +285,13 @@ Model: എനിക്ക് ഒരു സാരി വാങ്ങിക്ക�
 10. ചേച്ചിയോട് ചോദിക്കണം.
 <!-- Source: PDF page 334; printed page 277. -->
 
+<a id="lesson19-grammar-notes"></a><!-- reading-anchor -->
 ## Grammar Notes
 
+<a id="section-19-1"></a><!-- reading-anchor -->
 ### 19.1 Mildness and Deference During Confrontation
 
-This lesson’s conversation exemplifies some of the verbal devices used in Malayalam to moderate the effects of unpleasant things which must be said. Every so often, the office manager makes sure to soften his critical statements of the peon through the use of the politeness marker -അല്ലോ (see 6.1). This sometimes adds a tone of mildness, hard to represent by words in English, and sometimes directly softens the force of a statement. Witness:
+This lesson’s conversation exemplifies some of the verbal devices used in Malayalam to moderate the effects of unpleasant things which must be said. Every so often, the office manager makes sure to soften his critical statements of the peon through the use of the politeness marker -അല്ലോ (see [6.1](lesson6.md#section-6-1)). This sometimes adds a tone of mildness, hard to represent by words in English, and sometimes directly softens the force of a statement. Witness:
 
 1. ഇവിടെ ആഫീസിൽ വളരെ അധികം ജോലി ചെയ്യാനുണ്ടല്ലോ.
 
@@ -305,13 +309,13 @@ The manager tones down two of his (her) statements by using a verb showing proba
 
    “It’s probably so that you are wasting (your) time totally.”
 
-The manager also makes some of his criticisms less direct by putting them into a carrier sentence with തോന്നുന്നു, “I think” (see 15.5), thus placing them within the realm of opinions rather than facts. Witness example 2 above and also:
+The manager also makes some of his criticisms less direct by putting them into a carrier sentence with തോന്നുന്നു, “I think” (see [15.5](lesson15.md#section-15-5)), thus placing them within the realm of opinions rather than facts. Witness example 2 above and also:
 
 5. പക്ഷെ, അങ്ങനെയല്ല എനിക്ക് തോന്നുന്നത്.
 
    “But I don’t think that’s so.”
 
-For his part, the peon also tries to soften his retorts to the manager’s questions and criticisms. Firstly, he uses the softener ഒന്ന് to show deference. Also the use of the nonemphatic order in cleft sentences (see 15.1) gives his statements a milder, less assertive tone. Witness:
+For his part, the peon also tries to soften his retorts to the manager’s questions and criticisms. Firstly, he uses the softener ഒന്ന് to show deference. Also the use of the nonemphatic order in cleft sentences (see [15.1](lesson15.md#section-15-1)) gives his statements a milder, less assertive tone. Witness:
 
 <!-- Source: PDF page 335; printed page 278. -->
 
@@ -322,7 +326,7 @@ For his part, the peon also tries to soften his retorts to the manager’s quest
 
    “I got hungry, and just went to eat something, sir.”
 
-On the other hand, the peon does nothing to soften the categorical statements he makes about his good qualities, and lack of bad ones. He does, however, when confronted with the sudden prospect of being transferred, add a pleading, submissive tone to his final statement by adding -ഏ to the verbform (see 23.6). Witness:
+On the other hand, the peon does nothing to soften the categorical statements he makes about his good qualities, and lack of bad ones. He does, however, when confronted with the sudden prospect of being transferred, add a pleading, submissive tone to his final statement by adding -ഏ to the verbform (see [23.6](lesson23.md#section-23-6)). Witness:
 
 8. എനിക്ക് ഒരു മടിയും ഇല്ല. എപ്പോഴും ഞാൻ ജോലി ചെയ്യാൻ തയ്യാറാണ്.
 
@@ -331,6 +335,7 @@ On the other hand, the peon does nothing to soften the categorical statements he
 
    “From now on I will do all tasks well” (pleadingly).
 
+<a id="section-19-2"></a><!-- reading-anchor -->
 ### 19.2 The Familiar/Forceful Negative Command Form
 
 The strongest type of negative command possible in Malayalam is made by adding -അരുത് to the present verbstem. Note that all forms with -അരുത് are regular without exception. While this type of command form tends to be used more with persons with whom നീ is permitted, (hence the title “familiar negative command”), its use is broader than this. Since one of the components of its meaning is a forceful tone, it can be used with persons with whom only നിങ്ങൾ is permitted, and even to social superiors, when the situation warrants. The peon, for instance, lowest on the office social hierarchy, is able to use it with the office manager to convey the strength of his feelings when he says:
@@ -339,13 +344,14 @@ The strongest type of negative command possible in Malayalam is made by adding -
 
    “Good lord, sir, don’t transfer me.”
 
-The milder negative command form മാറണ്ട (see 17.4) would simply not be forceful enough for the peon’s present purposes.
+The milder negative command form മാറണ്ട (see [17.4](lesson17.md#section-17-4)) would simply not be forceful enough for the peon’s present purposes.
 
 <!-- Source: PDF page 336; printed page 279. -->
 
+<a id="section-19-3"></a><!-- reading-anchor -->
 ### 19.3 Summing Up the Uses of the Verbal Noun in -അത്
 
-So far, you have seen verbal nouns primarily in cleft sentences (see 11.2 and 15.1) and as objects of postpositions (see 12.4). This lesson’s conversation provides a representative sample of some of these, plus other usages alluded to in earlier grammar notes. The cleft sentences with unemphatic order have already been cited in Examples 6 and 7 in 19.1 above. In addition, there are two examples of cleft sentences with normal, emphatic order, c.f.:
+So far, you have seen verbal nouns primarily in cleft sentences (see [11.2](lesson11.md#section-11-2) and 15.1) and as objects of postpositions (see [12.4](lesson12.md#section-12-4)). This lesson’s conversation provides a representative sample of some of these, plus other usages alluded to in earlier grammar notes. The cleft sentences with unemphatic order have already been cited in Examples 6 and 7 in [19.1](lesson19.md#section-19-1) above. In addition, there are two examples of cleft sentences with normal, emphatic order, c.f.:
 
 1. പിന്നെ ഞാനാണ് ജോലിയെല്ലാം ചെയ്യേണ്ടത്.
 
@@ -362,21 +368,22 @@ In two other examples, the verbal noun is used to make a clause into a phrase so
 
    “What Nair says is probably right.”
 
-Note that this same process occurs with cleft sentences. The only difference is that the part of the sentence following the word to be emphasized or focused is made into a noun phrase, and its functional role is to serve as the predicate, not the subject of the sentence. Nominalized sentences may also serve a variety of case roles within a larger sentence, in which case they bear the ending appropriate to that role--dative, locative, or what have you. These are exemplified in 15.6. Verbal nouns also take dative, locative, and other endings when governed by a postposition. No examples occur in this lesson’s conversation, but those in 12.4 should suffice. Finally, there is one example of a verbal noun being used in the functional role of adverb, with the adverb marker ആയി. Witness:
+Note that this same process occurs with cleft sentences. The only difference is that the part of the sentence following the word to be emphasized or focused is made into a noun phrase, and its functional role is to serve as the predicate, not the subject of the sentence. Nominalized sentences may also serve a variety of case roles within a larger sentence, in which case they bear the ending appropriate to that role--dative, locative, or what have you. These are exemplified in [15.6](lesson15.md#section-15-6). Verbal nouns also take dative, locative, and other endings when governed by a postposition. No examples occur in this lesson’s conversation, but those in [12.4](lesson12.md#section-12-4) should suffice. Finally, there is one example of a verbal noun being used in the functional role of adverb, with the adverb marker ആയി. Witness:
 
 4. അല്ലെങ്കിൽ എനിക്ക് നിങ്ങളെ സ്ഥലം മാറ്റേണ്ടതായി വരും.
 
    “Otherwise, it may become necessary for me to transfer you.”
 
-This usage will be treated in 24.6.
+This usage will be treated in [24.6](lesson24.md#section-24-6).
 
-> **Editorial source note:** Section 24.6 discusses ability and inability, rather than fully developing the obligation construction promised here. Treat the translated examples in this section as the available guidance.
+> **Editorial source note:** Section [24.6](lesson24.md#section-24-6) discusses ability and inability, rather than fully developing the obligation construction promised here. Treat the translated examples in this section as the available guidance.
 
 <!-- Source: PDF page 337; printed page 280. -->
 
+<a id="section-19-4"></a><!-- reading-anchor -->
 ### 19.4 The Repetitive Verbform with -ാറുണ്ട്
 
-True habitual action and general truth is handled by the -ഉം verb ending covered in 7.1, and sometimes by the simple present ending -ന്നു, particularly in writing. A verbform is introduced in this lesson which serves for cases of repeated action over time, but which can be regarded as habitual. This concept is usually expressed in English by “has been...” in the present orientation and by “had been...” or “used to...” in the past timeframe. Witness:
+True habitual action and general truth is handled by the -ഉം verb ending covered in [7.1](lesson7.md#section-7-1), and sometimes by the simple present ending -ന്നു, particularly in writing. A verbform is introduced in this lesson which serves for cases of repeated action over time, but which can be regarded as habitual. This concept is usually expressed in English by “has been...” in the present orientation and by “had been...” or “used to...” in the past timeframe. Witness:
 
 1. അയാൾ ഇടക്കിടെ ഇങ്ങനെ ഇറങ്ങി പോകാറുണ്ട് സാറേ.
 
@@ -394,11 +401,12 @@ This verbform is put into the past by using ഉണ്ടായിരുന്ന
 
    “The servant must have been taking a little money every day.”
 
-The present verbstem plus -ാർ- is also used with ആയി to make a verbform expressing the idea of “about to...” (see 22.6).
+The present verbstem plus -ാർ- is also used with ആയി to make a verbform expressing the idea of “about to...” (see [22.6](lesson22.md#section-22-6)).
 
+<a id="section-19-5"></a><!-- reading-anchor -->
 ### 19.5 Negative Verbal Adjectives and Nouns
 
-In Lesson Eighteen you learned the negative conjunctive verbform (see 18.4). These forms, ending in -ാതെ, are grammatically adverbs. They may be made into adjectives by doubling the consonant of the ending and changing the എ to the adjectival marker -അ. See:
+In Lesson Eighteen you learned the negative conjunctive verbform (see [18.4](lesson18.md#section-18-4)). These forms, ending in -ാതെ, are grammatically adverbs. They may be made into adjectives by doubling the consonant of the ending and changing the എ to the adjectival marker -അ. See:
 
 1. വേണ്ടാത്ത കാര്യങ്ങൾ.
 
@@ -408,14 +416,14 @@ In Lesson Eighteen you learned the negative conjunctive verbform (see 18.4). The
    “Children who don’t go to school.”
 <!-- Source: PDF page 338; printed page 281. -->
 
-These should be regarded, like their positive counterparts (see 8.2, 13.5, 15.3), as relative clauses.
+These should be regarded, like their positive counterparts (see [8.2](lesson8.md#section-8-2), 13.5, 15.3), as relative clauses.
 
 Once a negative verbform has been made into an adjective, it may then be made into a noun by the normal process of adding -അത്. They may then be used in any functions which a noun phrase may serve, including the object of a postposition, c.f.:
 
 3. എന്നെ ഇഷ്ടമില്ലാത്തത് കൊണ്ട് — “because of not liking me” (literally, because that he does not like me)
 4. എന്ത് കൊണ്ടാണ് നിങ്ങൾ പോകാത്തത് — “Why aren't you going?” (literally, because of what is it that you are not going).
 
-Positive verbal adjectives, and nouns made from them, may show either present or past tense, depending on which verbstem they are made from (see 8.2 and 13.5 respectively). Negative adjectives and nouns also have present and past forms. The present verbform ends in -ാതെ (see 18.4), while the past negative verbal base ends in ആഞ്ഞ്. It is possible to show the contrast between present and past in negative verbal adjectives and nouns through the use of a complex tense using the auxiliary verb ഇരിക്കുക. Witness:
+Positive verbal adjectives, and nouns made from them, may show either present or past tense, depending on which verbstem they are made from (see [8.2](lesson8.md#section-8-2) and 13.5 respectively). Negative adjectives and nouns also have present and past forms. The present verbform ends in -ാതെ (see [18.4](lesson18.md#section-18-4)), while the past negative verbal base ends in ആഞ്ഞ്. It is possible to show the contrast between present and past in negative verbal adjectives and nouns through the use of a complex tense using the auxiliary verb ഇരിക്കുക. Witness:
 
 5. നീ അയാളെ ക്ഷണിക്കാതെ ഇരിക്കുന്നത് ശരിയല്ല. — “It's not good that you are not inviting him.”
 6. നീ അയാളെ ക്ഷണിക്കാതെ ഇരുന്നത് ശരിയല്ല. — “It's not good that you didn't invite him.”
@@ -442,13 +450,10 @@ It is further possible, as with all adjectives, to add the human relative pronou
 
 Positive relative clauses with these pronouns are treated in the following section.
 
+<a id="section-19-6"></a><!-- reading-anchor -->
 ### 19.6 Relative Clauses with Personal Relative Pronouns
 
-Section 15.3 discussed relative clauses. These are embedded sentences which function as adjectives. They maintain the original order of elements within them, but instead of one of the normal verb endings their verb must carry the adjective marker -അ, which can only be attached to the simple present or to the simple past verbforms. Most of the relative clauses in Lesson Fifteen described people, hence had a word denoting a person, or persons, as the
-
-<!-- Source: PDF page 340; printed page 283. -->
-
-headword of the noun phrase of which the relative clause is a part. It is also possible to make such noun phrases using a personal pronoun as the headword. In such cases, the pronoun is attached directly to the verbal adjective.
+Section [15.3](lesson15.md#section-15-3) discussed relative clauses. These are embedded sentences which function as adjectives. They maintain the original order of elements within them, but instead of one of the normal verb endings their verb must carry the adjective marker -അ, which can only be attached to the simple present or to the simple past verbforms. Most of the relative clauses in Lesson Fifteen described people, hence had a word denoting a person, or persons, as the <!-- Source: PDF page 340; printed page 283. --> headword of the noun phrase of which the relative clause is a part. It is also possible to make such noun phrases using a personal pronoun as the headword. In such cases, the pronoun is attached directly to the verbal adjective.
 
 Section A of this lesson's Reading Practice contains a set of examples where the plural pronoun -വർ “those who” is substituted for the head noun ആളുകൾ “people.” Section B shows examples where the singular feminine pronoun -വൾ “she who” and the singular male pronoun -വൻ “he who” take the place of nouns denoting female and male referents. These, of course are very much like the noun phrases which are made from a relative clause plus the neuter pronoun -അത് “that which.” Note that Malayalam has no separate item equivalent to the English relative pronouns “who,” “which,” or “that.” The personal pronouns -വർ, -വൾ, and -വൻ may be called relative pronouns since they occur only with relative clauses. Noun phrases consisting of a relative clause and a personal pronoun headword are much more common in Malayalam than in English. Should you be translating Malayalam into English, for a research paper, literary publication, or whatever, you will have to treat such noun phrases loosely rather than according to strict word for word equivalence.
 
@@ -469,11 +474,12 @@ Secondly, sentences containing verbforms other than simple present or past must 
 
 6. എന്നോട് വല്ലതും ചോദിക്കണമെന്നുള്ളവർ — “those who want to ask me something.”
 
-Noun phrases comprised of a relative clause plus a relative pronoun may serve all of the functions which ordinary nouns serve in a sentence. They may be the subject or predicate, as they stand. They may become adverbs with the addition of the adverb marker -ആയി (see 22.5). They may also serve various case roles, with the addition of the appropriate dative, accusative, possessive, or other ending.
+Noun phrases comprised of a relative clause plus a relative pronoun may serve all of the functions which ordinary nouns serve in a sentence. They may be the subject or predicate, as they stand. They may become adverbs with the addition of the adverb marker -ആയി (see [22.5](lesson22.md#section-22-5)). They may also serve various case roles, with the addition of the appropriate dative, accusative, possessive, or other ending.
 
+<a id="section-19-7"></a><!-- reading-anchor -->
 ### 19.7 The Present Perfect Verbform
 
-Section 13.1 treats the stative perfect verbform which may initially appear very similar to the present perfect. The two verbforms are actually quite distinct in form and function.
+Section [13.1](lesson13.md#section-13-1) treats the stative perfect verbform which may initially appear very similar to the present perfect. The two verbforms are actually quite distinct in form and function.
 
 **Forms:** The present perfect is made from the conjunctive plus the auxiliary verb ഇരിക്കുക in one of several forms. The present tense and present progressive endings on the auxiliary are most common. Witness:
 
@@ -499,7 +505,7 @@ The two forms are very different in terms of their use in questions. Firstly, th
 7. അവർ ഏത് ഹോട്ടലിൽ കയറിയിരിക്കുന്നു? — “Which hotel did they enter, have they entered?”
 8. അവർ അയാളെ എന്തിന് അയച്ചിരിക്കുന്നു? — “Why has she sent him?”
 
-In terms of yes-no questions, only the stative perfect (-ിട്ടുണ്ട്) form can be used to express “have... ever ...” questions (see 13.1). The present perfect, on the other hand, is used to inquire about a specific event pursuant to some topic already introduced into the discourse and which has taken place in the very immediate past. Witness:
+In terms of yes-no questions, only the stative perfect (-ിട്ടുണ്ട്) form can be used to express “have... ever ...” questions (see [13.1](lesson13.md#section-13-1)). The present perfect, on the other hand, is used to inquire about a specific event pursuant to some topic already introduced into the discourse and which has taken place in the very immediate past. Witness:
 
 <!-- Source: PDF page 343; printed page 286. -->
 
@@ -520,7 +526,7 @@ The present perfect may not be used with past time adverbials at all, only with 
 
 13. അയാൾ ഞങ്ങളെ ഇപ്പോൾ അറിയിച്ചിരിക്കുന്നു.<br>അയാൾ ഞങ്ങളെ ഇപ്പോൾ അറിയിച്ചിട്ടുണ്ട്. — “He has just now informed us.”
 
-Finally, the present perfect may, though it seems a contradiction, take the progressive aspect (see 21.6), whereas the -ിട്ടുണ്ട് form may not. Adding the progressive aspect indicates that the results of the action, rather than its completion, are in focus, and that these results are still in force. Witness:
+Finally, the present perfect may, though it seems a contradiction, take the progressive aspect (see [21.6](lesson21.md#section-21-6)), whereas the -ിട്ടുണ്ട് form may not. Adding the progressive aspect indicates that the results of the action, rather than its completion, are in focus, and that these results are still in force. Witness:
 
 14. സാർ ഇപ്പോൾ വെളിയിൽ പോയിരിക്കുകയാണ്. — (literally, the boss has just gone out, but best rendered), “the boss is out right now.”
 
@@ -538,6 +544,7 @@ The present perfect tense is also used for some cases where “leave” is used 
 17. രവി എഴുത്ത് എഴുതിയിരിക്കുന്നു. — “Ravi has written a letter”. i.e. “Ravi has just finished writing a letter” or “I just got a letter from Ravi”.
 18. രവി എഴുത്ത് എഴുതിയിട്ടുണ്ട്. — “Ravi has written a letter”. i.e. the letter has been written.
 
+<a id="section-19-8"></a><!-- reading-anchor -->
 ### 19.8 Statements and Commands Using the Double Negative
 
 Like English, Malayalam can use a double negative to make a positive statement. The negative conjunctive verbform is used for the first of the two negatives. Witness:
@@ -570,3 +577,11 @@ This same construction may be used for commands. Note how the positive makes a n
 ![A woman selling fish](assets/images/lesson19-photo-347.jpg)
 
 മീൻ വിൽക്കുന്ന സ്ത്രീ
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Lesson 18](lesson18.md) · [Contents](contents.md) · [Next: Lesson 20 →](lesson20.md)
+
+<!-- /reading-navigation -->

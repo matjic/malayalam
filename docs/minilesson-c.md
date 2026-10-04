@@ -1,7 +1,9 @@
+<a id="minilesson-c"></a><!-- reading-anchor -->
 # Minilesson C
 
 <!-- Source: PDF page 264; printed page 210. -->
 
+<a id="minilesson-c-time-expressions-with-for-ago-in-since-etc"></a><!-- reading-anchor -->
 ## Time Expressions with “for”, “ago”, “in”, “since”, etc.
 
 Expressions of elapsed time for actions already completed or started in the past and still in progress are handled with ആയി. Witness:
@@ -54,3 +56,11 @@ If stated in the negative, however, American English uses “for” but Indian E
    “I haven't seen him since six months”.
 
 Note the difference in order in Malayalam between positive and negative sentences 6 and 7.
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Lesson 14](lesson14.md) · [Contents](contents.md) · [Next: Lesson 15 →](lesson15.md)
+
+<!-- /reading-navigation -->

@@ -1,0 +1,41 @@
+/* Reflow prose freely; let wide reference tables scroll on small screens. */
+.markdown-section { overflow-wrap: break-word; }
+.markdown-section table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+}
+.markdown-section th, .markdown-section td { min-width: 5em; }
+.markdown-section img { height: auto; }
+.markdown-section a[id] { scroll-margin-top: 80px; }
+@media (max-width: 768px) {
+  body .markdown-section { max-width: 100%; }
+  body .content { padding-top: 0; }
+  /* A small fixed toolbar keeps scrolling text clear of the menu control. */
+  main::before {
+    content: "";
+    position: fixed;
+    inset: 0 0 auto;
+    height: 68px;
+    background: #fff;
+    border-bottom: 1px solid #edf0ee;
+    z-index: 18;
+  }
+}
+@media print {
+  main::before { display: none; }
+  body .sidebar, body .sidebar-toggle, body .sidebar-backdrop,
+  body .app-nav, body .github-corner { display: none !important; }
+  body .content, body.close .content {
+    position: static;
+    margin: 0;
+    transform: none;
+  }
+  body .markdown-section { max-width: none; padding: 0; }
+  .markdown-section table { display: table; overflow: visible; width: 100%; }
+  .markdown-section th, .markdown-section td { min-width: 0; overflow-wrap: anywhere; }
+  .markdown-section thead { display: table-header-group; }
+  .markdown-section tr, .markdown-section img { break-inside: avoid; }
+  .markdown-section h1, .markdown-section h2, .markdown-section h3 { break-after: avoid; }
+}

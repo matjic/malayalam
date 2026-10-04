@@ -70,7 +70,7 @@ The following need linguistic or editorial revision. Visible notes prevent the s
 | [Lesson 25](lesson25.md), vocabulary | 461 | ധാന്യം glossed “richness” conflicts with ധന്യമായ/ധന്യമാണ് in the reading and exercise. |
 | [Appendix F](appendix-f.md), three-argument expressions | 500 | Three entries contain English translations without Malayalam example sentences, also absent in the PDF. |
 | [Glossary](glossary.md) | 516, 531 | Original editor queries remain unresolved, including the intended form and translation of പോയിരിക്കുകയായിരിന്നു. They are now labeled as queries. |
-| [Index](book-index.md) | 545–557 | Some source page references use obsolete pagination. For example, “Can” cites 399–402, while 24.6 starts on printed page 389. Use the contents, section numbers, or search. The index has not been comprehensively remapped. |
+| [Index](book-index.md) | 545–557 | Some source page references use obsolete pagination. For example, “Can” cites 399–402, while 24.6 starts on printed page 389. The [digital index](book-index.md) now supplies verified links for English meanings and selected grammar topics. The historical printed index is retained separately and has not been comprehensively remapped. |
 
 ## Historical and Factual Context
 
@@ -82,10 +82,18 @@ The preface incorrectly locates Elamite in the Arabian peninsula. It was spoken 
 
 ## Sidebar Maintenance
 
-The [sidebar](_sidebar.md) is generated from document titles and source-page order. New Markdown chapters with source markers are placed in book order; documents without markers appear as supporting material. Run `python3 scripts/generate-sidebar.py` (or `npm run docs:sidebar`) after adding or renaming content. Run `python3 scripts/generate-sidebar.py --check` (or `npm run docs:check-sidebar`) to detect a stale sidebar.
+The [sidebar](_sidebar.md) is generated from document titles and source-page order. New Markdown chapters with source markers are placed in book order; documents without markers appear as supporting material. Run `python3 scripts/generate-sidebar.py` (or `bun run docs:sidebar`) after adding or renaming content. Run `python3 scripts/generate-sidebar.py --check` (or `bun run docs:check-sidebar`) to detect a stale sidebar.
 
 ## Verification and Limits
 
 Structural checks cover all textbook Markdown files: all 557 PDF page markers occur exactly once; local Markdown links and images exist; linked heading fragments resolve; table rows match their header widths; no Unicode replacement characters remain. Markdown was parsed with the repository’s cached Marked package, and source-page comments remain hidden in the generated HTML.
 
 Suspected errors were compared with extracted PDF text and selected rendered source pages. Page-marker coverage confirms traceability, not word-for-word completeness. The review did not visually compare every page, audit audio recordings, or run a browser inspection of the Docsify site. A native Malayalam teacher’s review remains valuable for the unresolved grammatical passages and nuanced social usage.
+
+## Digital Reading Adaptation
+
+The [digital edition guide](digital-edition.md) explains print versus digital pagination, exercises, images, and source context. The [contents](contents.md) is generated from current headings. Numbered grammar sections have stable explicit anchors; chapter footers follow source reading order. The original printed contents links to chapters and sections while retaining its original labels and page references. The glossary links to letter groups and lesson vocabulary. Selected topics have verified section links in the index; obsolete index page numbers remain historical references.
+
+Continued prose has been joined across 31 print page breaks; 101 tables split only by source page boundaries have been merged while preserving hidden source comments. A footnote interrupting §8.4 has been placed with the preceding associative-case discussion. Wide tables scroll on narrow screens, images retain their proportions, and print styles omit website navigation. These changes adapt reading structure; they do not certify unresolved grammatical passages or publish an ebook.
+
+Digital reading checks cover 51 Markdown documents, 2,493 local links and images, 157 numbered section anchors, and all 557 source-page markers. A comparison of rendered tables preserved all 3,990 source table data rows. Chrome checks covered section jumps, chapter navigation, mobile table scrolling, and the sidebar at phone, intermediate, and desktop widths; parsing all 50 sidebar documents with the site’s own Markdown parser found no table-column mismatches. There are 189 linked section cross-references in the body text. Links preserve the reference as written; the source-reference issues listed above remain flagged.

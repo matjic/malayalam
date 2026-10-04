@@ -1,9 +1,12 @@
+<a id="lesson25"></a><!-- reading-anchor -->
 # Lesson 25
 
 <!-- Source: PDF page 459; printed page 396. -->
 
+<a id="lesson25-reference-list"></a><!-- reading-anchor -->
 ## Reference List
 
+<a id="lesson25-compound-verbs-and-their-meanings"></a><!-- reading-anchor -->
 ### Compound Verbs and Their Meanings
 
 **A.** Completion of action in main verb: (with intransitives) ... പോകുക, (with transitives) ... കഴിയുക
@@ -54,6 +57,7 @@
 3. a. ഈ ഫോരം അവർക്ക് അയക്കണമോ? — “Should this form be sent to them?”
    b. ശരി, അയച്ചേക്കു. — “Yes, go ahead and send it.”
 
+<a id="lesson25-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
 | Malayalam | English |
@@ -62,12 +66,7 @@
 | നദി | river |
 | അരുവി | stream |
 | ഗ്രാമം | village |
-
-<!-- Source: PDF page 461; printed page 398. -->
-
-| Malayalam | English |
-|---|---|
-| തെങ്ങിൻതോപ്പ് | coconut grove |
+| <!-- Source: PDF page 461; printed page 398. --> തെങ്ങിൻതോപ്പ് | coconut grove |
 | വനം | forest |
 | നിറയുക (past: നിറഞ്ഞു) | to be filled (intr.) |
 | -- നിറഞ്ഞ | which is full of -- |
@@ -106,12 +105,7 @@
 | ലളിതം | simple |
 | പുരുഷൻ | man |
 | മുണ്ട് | a white saronglike lower garment |
-
-<!-- Source: PDF page 462; printed page 399. -->
-
-| Malayalam | English |
-|---|---|
-| ജുബ്ബ | a kind of shirt |
+| <!-- Source: PDF page 462; printed page 399. --> ജുബ്ബ | a kind of shirt |
 | ധരിക്കുക | to wear |
 | ആഭരണം | ornament |
 | തൊഴിൽ | occupation |
@@ -142,46 +136,47 @@
 | സ്വാഗതം (noun) | welcome |
 | സന്ദർശിക്കുക | to visit |
 | കൈ കൂപ്പുക | to fold hands |
-
-<!-- Source: PDF page 463; printed page 400. -->
-
-| Malayalam | English |
-|---|---|
-| കൈകൂപ്പി സ്വാഗതം ചെയ്യുക | to welcome with folded hands (traditional Indian way of welcome) |
+| <!-- Source: PDF page 463; printed page 400. --> കൈകൂപ്പി സ്വാഗതം ചെയ്യുക | to welcome with folded hands (traditional Indian way of welcome) |
 | തൃപ്തി | satisfaction |
 | തൃപ്തിപ്പെടുത്തുക | to satisfy |
 | സുഖിക്കുക (past: സുഖിച്ചു) | to enjoy |
 | സുഖിച്ച് നടക്കുക | to take it easy, to loaf |
 | അല്ലാതെ | instead |
 
+<a id="lesson25-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
 
 Note the noun and adjective forms of colors in these sentences.*
 
+<a id="lesson25-white"></a><!-- reading-anchor -->
 ### White
 
 <u>ഇതിന്റെ</u> നിറം വെളുപ്പ് ആണ്.
 
 <u>ഇത്</u> ഒരു വെളുത്ത പേന ആണ്.
 
+<a id="lesson25-black"></a><!-- reading-anchor -->
 ### Black
 
 <u>ഇതിന്റെ</u> നിറം കറുപ്പ് ആണ്.
 
 <u>ഇത്</u> ഒരു കറുത്ത പേന ആണ്.
 
+<a id="lesson25-red"></a><!-- reading-anchor -->
 ### Red
 
 <u>ഇതിന്റെ</u> നിറം ചുവപ്പ് ആണ്.
 
 <u>ഇത്</u> ഒരു ചുവന്ന പേന ആണ്.
 
+<a id="lesson25-blue"></a><!-- reading-anchor -->
 ### Blue
 
 <u>ഇതിന്റെ</u> നിറം നീല ആണ്.
 
 <u>ഇത്</u> ഒരു നീല പേന ആണ്.
 
+<a id="lesson25-green"></a><!-- reading-anchor -->
 ### Green
 
 <u>ഇതിന്റെ</u> നിറം പച്ച ആണ്.
@@ -190,6 +185,7 @@ Note the noun and adjective forms of colors in these sentences.*
 
 <!-- Source: PDF page 464; printed page 401. -->
 
+<a id="lesson25-yellow"></a><!-- reading-anchor -->
 ### Yellow
 
 <u>ഇതിന്റെ</u> നിറം മഞ്ഞ ആണ്.
@@ -198,6 +194,7 @@ Note the noun and adjective forms of colors in these sentences.*
 
 Note: For other colors, the English words are normally used.
 
+<a id="lesson25-text"></a><!-- reading-anchor -->
 ## Text
 
 മലയാളികളുടെ ജന്മദേശമായ കേരളം ഇൻഡ്യയുടെ തെക്കു പടിഞ്ഞാറെ കോണിൽ സ്ഥിതി ചെയ്യുന്നു. സഹ്യപർവ്വതത്തിനും അറബിക്കടലിനും മദ്ധ്യേ കിടക്കുന്ന ഈ ചെറിയ സംസ്ഥാനം പ്രകൃതിസുന്ദരമാണ്. നദികളും കായലുകളും അരുവികളും ഗ്രാമങ്ങളും പട്ടണങ്ങളും തെങ്ങിൻതോപ്പുകളും വനങ്ങളും നിറഞ്ഞ ഈ നാട് ആരുടേയും ഹൃദയം കവരും.
@@ -214,6 +211,7 @@ Note: For other colors, the English words are normally used.
 
 ഹിന്ദുക്കളും ക്രിസ്ത്യാനികളും മുസ്ലീങ്ങളും വളരെ കാലമായി ഒരുമയോടെ ജീവിച്ചുവരുന്ന ഒരു നാടാണ് കേരളം. കുറച്ച് യഹൂദന്മാരും കേരളത്തിലുണ്ട്. എല്ലാ സംസ്കാരത്തിലുള്ള ആളുകളെയും സ്വാഗതം ചെയ്യുന്ന ഒരു നാടാണ് കേരളം. നിങ്ങൾ എന്നു സന്ദർശിച്ചാലും കൊച്ചുകേരളം നിങ്ങളെ കൈകൂപ്പി സ്വാഗതം ചെയ്യും, നിങ്ങളെ സന്തോഷിപ്പിക്കും, നിങ്ങളെ എല്ലാ വിധത്തിലും തൃപ്തിപ്പെടുത്തും.
 
+<a id="lesson25-exercises"></a><!-- reading-anchor -->
 ## Exercises
 
 **1.** Give Malayalam responses to the questions below based on the Text of this lesson.
@@ -265,6 +263,7 @@ b) വെളുത്ത നിറം, സ്ത്രീ
 
 വണ്ണം, സ്ത്രീ; ഗുണം, വേലക്കാരൻ; മടി, പയ്യൻ; കുറവ്, പുരുഷൻ; അറിവ്, സാറ്; സ്നേഹം, കുട്ടികൾ; കാഴ്ച, ആൾ; മിടുക്ക്, രമ; സൗന്ദര്യം, കമല; ഹൃദയം, നാട്ടുകാർ; തൃപ്തി, കേശവൻ; പണം, ചേട്ടൻ; പുതുമ, സിനിമ.
 
+<a id="lesson25-b"></a><!-- reading-anchor -->
 ### B.
 
 Form relatives from the adjective-noun pairs as in the model.
@@ -312,8 +311,10 @@ Form relatives from the adjective-noun pairs as in the model.
 
 <!-- Source: PDF page 469; printed page 406. -->
 
+<a id="lesson25-lesson-twenty-five-grammar-notes"></a><!-- reading-anchor -->
 ## Lesson Twenty-Five Grammar Notes
 
+<a id="section-25-1"></a><!-- reading-anchor -->
 ### 25.1 Complement of Result Clauses
 
 Certain transitive verbs have two objects: a direct object which experiences or undergoes the action of the verb, and a second object which represents the results of the action on the direct object. The result is held to be grammatically a “complement” with respect to the direct object. Witness:
@@ -329,6 +330,7 @@ Certain transitive verbs have two objects: a direct object which experiences or 
 
 Note that the complement is always marked with -ആയി, the conjunctive form of ആകുക meaning “became.” This clearly designates the nature of the complement as an established result.
 
+<a id="section-25-2"></a><!-- reading-anchor -->
 ### 25.2 Common Titles in Modern Kerala Life
 
 Traditionally those outside one’s immediate social circle were referred to by kinship terms, or the caste designation. In modern life in Kerala, persons of all backgrounds interact in public functions. The following four terms, derived from Sanskrit, but reflecting Western style social distance and neutrality, are popular.
@@ -348,14 +350,15 @@ These are most often used in mailing addresses, or in speaking to, or about some
 
 The term സാറ് is sometimes also used for women, and occasionally the English word മാഡം is employed. For unmarried teachers, the English word “miss” is often placed before the name. When in doubt as to how to address, or refer to, someone, it is always safe to follow the examples of Malayalis of similar social standing to yourself.
 
+<a id="section-25-3"></a><!-- reading-anchor -->
 ### 25.3 Characteristics of Written Style in Malayalam
 
 Several lessons in this course contain samples of written style. This lesson’s text attempts to bring together most of the features of written Malayalam found in earlier lessons. The written style, in most cases, is quite different from the spoken language. A sketch of its main characteristics is given below.
 
 I. The use of longer and/or loftier vocabulary:
 
-A. ആകുന്നു in place of ആണ് (see 10.2).  
-B. സ്ഥിതി ചെയ്യുന്നു in place of ഉണ്ട് (see 10.2).  
+A. ആകുന്നു in place of ആണ് (see [10.2](lesson10.md#section-10-2)).<br>
+B. സ്ഥിതി ചെയ്യുന്നു in place of ഉണ്ട് (see [10.2](lesson10.md#section-10-2)).<br>
 C. Sanskrit-derived words in preference to Dravidian ones:
 
 1. Ssk. നദികൾ instead of Drav. അരുവികൾ “rivers”
@@ -374,9 +377,9 @@ This is particularly common where the predicate represents new information, and 
 
 **B.** Extended series of nouns or other items joined by -ഉം (see the third sentence in this lesson’s text).
 
-**C.** A higher frequency of complex sentences with two or more clauses linked either by coordinate conjunctions such as -ിട്ട് in the sense of “before” or “after,” -പ്പോൾ or -ഉടൻ “when, as soon as,” -അല്ലാതെ “but to...” (see 24.1), and so forth.
+**C.** A higher frequency of complex sentences with two or more clauses linked either by coordinate conjunctions such as -ിട്ട് in the sense of “before” or “after,” -പ്പോൾ or -ഉടൻ “when, as soon as,” -അല്ലാതെ “but to...” (see [24.1](lesson24.md#section-24-1)), and so forth.
 
-**D.** More and longer relative clauses. One common result of this is the inversion of the usual determiner-adjective order in noun phrases (see 24.4) as in:
+**D.** More and longer relative clauses. One common result of this is the inversion of the usual determiner-adjective order in noun phrases (see [24.4](lesson24.md#section-24-4)) as in:
 
 സഹ്യപർവ്വതത്തിനും അറബിക്കടലിനും മദ്ധ്യേ കിടക്കുന്ന ഈ ചെറിയ സംസ്ഥാനം.
 
@@ -384,12 +387,20 @@ This is particularly common where the predicate represents new information, and 
 
 **E.** More embedded sentences for various functions and case roles in the sentence including: subject, object, adverbs of time, manner, or place, sentence adverbials, dative or instrumental case roles, etc.
 
-**F.** More common occurrence of object complements (see 25.1) with ആയി.
+**F.** More common occurrence of object complements (see [25.1](lesson25.md#section-25-1)) with ആയി.
 
-**G.** More frequent use of the passive voice, and of the subjectless construction. Note that whereas the subjectless construction usually occurs only with transitive verbs, (see 16.2), this lesson’s text contains an example of an intransitive verb ജീവിക്കുക “to live” in this construction (see Example 1 in A. above).
+**G.** More frequent use of the passive voice, and of the subjectless construction. Note that whereas the subjectless construction usually occurs only with transitive verbs, (see [16.2](lesson16.md#section-16-2)), this lesson’s text contains an example of an intransitive verb ജീവിക്കുക “to live” in this construction (see Example 1 in A. above).
 
 It should be remembered that there are different subtypes within written language style, depending on the topic, and the function of the writing. The samples of written language in these lessons fall mainly into the categories of “description” and of “advertisements.” One of the chief differences which you will note in other types of writing, such as “narrative” and administrative writing, i.e. “officialese,” will be the relatively higher or lower frequency of particular types of sentences and of certain verbforms. “Description,” for example, contains a relatively high proportion of equative sentences, and abounds with verbs in the simple present and future/habitual forms. “Narrative,” on the other hand, will have fewer equative sentences, and contains an especially high proportion of simple past and remote past verbforms.
 
 <!-- Source: PDF page 472; printed page 409. -->
 
 It is hoped that the preceding lessons have provided adequate preparation so that the student can deal with the particular types of texts which suit his or her interests with the help of a dictionary, or of a native speaker of the language. Malayalam is a profoundly rich language, capable of both precise expression and extreme subtlety. It will certainly reward the efforts of anyone who studies it with good will and diligence.
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Minilesson G](minilesson-g.md) · [Contents](contents.md) · [Next: Appendix A →](appendix-a.md)
+
+<!-- /reading-navigation -->

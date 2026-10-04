@@ -1,9 +1,12 @@
+<a id="lesson16"></a><!-- reading-anchor -->
 # Lesson 16
 
 <!-- Source: PDF page 282; printed page 228. -->
 
+<a id="lesson16-reference-list"></a><!-- reading-anchor -->
 ## Reference List
 
+<a id="lesson16-negative-verbforms-with-emphasis-added"></a><!-- reading-anchor -->
 ### Negative Verbforms with Emphasis added.
 
 Note how the emphatic particle can be added to negative verbforms.
@@ -26,6 +29,7 @@ Note how the emphatic particle can be added to negative verbforms.
 | പറയുകയേയല്ല | not saying |
 | പറയാറേയില്ല | doesn't say |
 
+<a id="lesson16-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
 | Malayalam | Meaning |
@@ -36,12 +40,7 @@ Note how the emphatic particle can be added to negative verbforms.
 | പല | various (adj) (noun is പലത്) |
 | ദിനം | day |
 | ദിനപ്പത്രം | daily newspaper |
-
-<!-- Source: PDF page 283; printed page 229. -->
-
-| Malayalam | Meaning |
-|---|---|
-| കേരള കൗമുദി | a Malayalam newspaper (literally, Kerala Moonlight) |
+| <!-- Source: PDF page 283; printed page 229. --> കേരള കൗമുദി | a Malayalam newspaper (literally, Kerala Moonlight) |
 | മലയാള മനോരമ | a Malayalam newspaper (മനോരമ – Mind's Delight) |
 | മാതൃഭൂമി | a Malayalam newspaper (literally, Motherland) |
 | അവിടുത്തെ | of that place (genitive of അവിടെ) |
@@ -67,12 +66,7 @@ Note how the emphatic particle can be added to negative verbforms.
 | വിവാഹം കഴിക്കുക (past tense: വിവാഹം കഴിച്ചു) | to marry (same as കല്യാണം) |
 | വിൽക്കുക (past tense: വിറ്റു) | to sell |
 | കേരളീയർ | people of Kerala |
-
-<!-- Source: PDF page 284; printed page 230. -->
-
-| Malayalam | Meaning |
-|---|---|
-| --ഏ--ഉള്ളു, ---എയുള്ളു | only |
+| <!-- Source: PDF page 284; printed page 230. --> --ഏ--ഉള്ളു, ---എയുള്ളു | only |
 | ഇൻഡ്യൻ എക്സ്പ്രസ് | “Indian Express” English language newspaper |
 | പ്രസിദ്ധീകരിക്കുക (past tense: പ്രസിദ്ധീകരിച്ചു) | to publish |
 | പ്രസിദ്ധീകരിക്കപ്പെടുന്നു | is published |
@@ -83,8 +77,10 @@ Note how the emphatic particle can be added to negative verbforms.
 | സ്ഥലം | place |
 | എല്ലാ ---ഉം, എല്ലാം | all |
 
+<a id="lesson16-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
 
+<a id="lesson16-a"></a><!-- reading-anchor -->
 ### A.
 
 Note how the nouns in the left-hand column drop final ‘-ം’ in order to form adjectives in the phrases in the right-hand column.
@@ -99,6 +95,7 @@ Note how the nouns in the left-hand column drop final ‘-ം’ in order to for
 | പണം | പണക്കാര്യം |
 | ദൂരം | ദൂരസ്ഥലം |
 
+<a id="lesson16-b"></a><!-- reading-anchor -->
 ### B.
 
 Note the various changes, including in some verbforms, when -എയുള്ളു is added to these sentences.
@@ -114,6 +111,7 @@ Note the various changes, including in some verbforms, when -എയുള്ള�
 6. നീ അവളെ കാണണം. നീ അവളെ മാത്രമേ കാണാവുള്ളു.
 7. എനിക്ക് പുസ്തകം എടുക്കണം. എനിക്ക് പുസ്തകമേ എടുക്കേണ്ടതുള്ളു.
 
+<a id="lesson16-c"></a><!-- reading-anchor -->
 ### C.
 
 Note the changes when ഏ....-ഉള്ളു is added to the following verb forms expressing limitation on the action of the verb.
@@ -124,6 +122,7 @@ Note the changes when ഏ....-ഉള്ളു is added to the following verb for
 4. ഞാൻ തുണി വാങ്ങിക്കണം. തയ്ക്കുകയില്ല. ഞാൻ തുണി വാങ്ങിക്കയേയുള്ളു തയ്ക്കുകയില്ല.
 5. ഇത് ആഫീസിലെ സാറിനു കൊടുക്കണം. ഒന്നും പറയണ്ട. ഇത് ആഫീസിലെ സാറിനു കൊടുക്കാനേ പാടുള്ളു ഒന്നും പറയാൻ പാടില്ല.
 
+<a id="lesson16-text"></a><!-- reading-anchor -->
 ## Text
 
 കേരളത്തിൽ മിക്കവാറും എല്ലാവരും എന്നും പത്രം വായിക്കും. അവിടെ പല മലയാള ദിനപ്പത്രങ്ങൾ കിട്ടും. കേരള കൗമുദി, മലയാള മനോരമ, മാതൃഭൂമി എന്നിവയാണ് അവിടുത്തെ മൂന്നു വലിയ പത്രങ്ങൾ.
@@ -141,6 +140,7 @@ Note the changes when ഏ....-ഉള്ളു is added to the following verb for
 
 പത്രങ്ങൾ കൂടാതെ വളരെ അധികം മലയാളം പുസ്തകങ്ങളും ഇംഗ്ലീഷ് പുസ്തകങ്ങളും കേരളത്തിലെ എല്ലാ സ്ഥലങ്ങളിലും കിട്ടും.
 
+<a id="lesson16-exercises"></a><!-- reading-anchor -->
 ## Exercises
 
 **1.** Join the words in the pairs below as in the model.
@@ -225,18 +225,15 @@ Model B: രവി മാത്രം വരുന്നു.
 | തുറമുഖം | പട്ടണം |
 | എളുപ്പം | കാര്യം |
 | സംസ്ഥാനം | ഭാഷ |
-
-<!-- Source: PDF page 289; printed page 235. -->
-
-| | |
-|---|---|
-| വ്യാപാരം | നിലവാരം |
+| <!-- Source: PDF page 289; printed page 235. --> വ്യാപാരം | നിലവാരം |
 | മരണം | വാർത്ത |
 | സാഹിത്യം | പുസ്തകം |
 | ആവശ്യം | കാര്യം |
 
+<a id="lesson16-grammar-notes"></a><!-- reading-anchor -->
 ## Grammar Notes
 
+<a id="section-16-1"></a><!-- reading-anchor -->
 ### 16.1 The Special Adjective of -ം Final Nouns
 
 Many nouns in Malayalam end in -ം. These come from Sanskrit. Those which can be used in an attributive relationship with another noun form a kind of adjective for this purpose by dropping the final -ം. This leaves the word ending in അ which is the standard marker for adjectives in the language. Section A of the reading practice for this lesson contains a representative list of these adjectives. In some cases the adjective is very similar in meaning to, and could be replaced by, its noun in the possessive as in:
@@ -249,12 +246,13 @@ In other cases, however, the two are quite different in meaning, c.f.
 2. ആവശ്യകാര്യം — “a necessary matter”  
    ആവശ്യത്തിന്റെ കാര്യം — “a matter relating to the necessity”
 
+<a id="section-16-2"></a><!-- reading-anchor -->
 ### 16.2 The Subjectless Construction with വരുക
 
-There are occasions when we wish to focus attention on the object of a verb, and where the subject is unimportant, or even immaterial. In English we use the so-called passive voice in such cases. “The house will be sold,” is much more to the point in certain situations than “they are going to sell the house.” In such cases, putting the subject into the passive sentence, i.e. “...by them” would be both unnatural and distracting. Malayalam has a passive form much like our English passive which permits inclusion of the active subject, if desired, which will be described later (see 20.5). This section describes a construction which not only brings the object of a transitive verb into focus, but precludes any overt mention of the subject as well. It is formed by the past participle (conjunctive verbform) of the verb plus an appropriate form of the verb
+There are occasions when we wish to focus attention on the object of a verb, and where the subject is unimportant, or even immaterial. In English we use the so-called passive voice in such cases. “The house will be sold,” is much more to the point in certain situations than “they are going to sell the house.” In such cases, putting the subject into the passive sentence, i.e. “...by them” would be both unnatural and distracting. Malayalam has a passive form much like our English passive which permits inclusion of the active subject, if desired, which will be described later (see [20.5](lesson20.md#section-20-5)). This section describes a construction which not only brings the object of a transitive verb into focus, but precludes any overt mention of the subject as well. It is formed by the past participle (conjunctive verbform) of the verb plus an appropriate form of the verb
 <!-- Source: PDF page 290; printed page 236. -->
 
-വരുക acting as an auxiliary. It is വരുക, of course, which carries the endings denoting tense and aspect. The construction commonly occurs with either the future/habitual -ഉം ending and less commonly with the past or past perfect (see 17.3) showing habitual action in the past. Its subjectless nature prohibits verb endings such as the potential/intentive, the imperative, the permissive, etc. though the desiderative may occur in rare cases. Witness:
+വരുക acting as an auxiliary. It is വരുക, of course, which carries the endings denoting tense and aspect. The construction commonly occurs with either the future/habitual -ഉം ending and less commonly with the past or past perfect (see [17.3](lesson17.md#section-17-3)) showing habitual action in the past. Its subjectless nature prohibits verb endings such as the potential/intentive, the imperative, the permissive, etc. though the desiderative may occur in rare cases. Witness:
 
 1. പത്രത്തിൽ പ്രാദേശിക വാർത്തകൾ അച്ചടിച്ചു വരും.
 
@@ -274,9 +272,10 @@ Though this construction is mainly used for talking about things when animate ob
 
    “Elephants are seen in Thekkady” (a game preserve).
 
+<a id="section-16-3"></a><!-- reading-anchor -->
 ### 16.3 The Use of കാണുക as a Subjectless Verb
 
-A construction similar to that described in 16.2 above may be formed with കാണുക. The verb then has the sense of “to find” or, more properly stated, “to be found,” instead of its meaning in normal active sentences of “to see.” It too, focuses on what would be the object of a transitive verb, but it does not require the auxiliary verb വരുക. It is used only with the future/habitual ending -ഉം, and unlike the subjectless construction with വരുക, human nouns do not show the accusative ending. Witness:
+A construction similar to that described in [16.2](lesson16.md#section-16-2) above may be formed with കാണുക. The verb then has the sense of “to find” or, more properly stated, “to be found,” instead of its meaning in normal active sentences of “to see.” It too, focuses on what would be the object of a transitive verb, but it does not require the auxiliary verb വരുക. It is used only with the future/habitual ending -ഉം, and unlike the subjectless construction with വരുക, human nouns do not show the accusative ending. Witness:
 
 1. ജില്ലാ വാർത്തകൾ എല്ലാ പത്രത്തിലും കാണും.
 
@@ -294,6 +293,7 @@ This usage may also occur in the negative, c.f.
 
    “Ads are not (found) on the first page.”
 
+<a id="section-16-4"></a><!-- reading-anchor -->
 ### 16.4 The Special Possessive Ending -ിലെ for Placewords
 
 Placenames and certain words denoting places have a special possessive form ending in -ിലെ. In most expressions only this special ending is permitted, though the regular possessive form ending in -ിന്റെ or -ഉടെ is sometimes also permitted. Witness:
@@ -302,9 +302,10 @@ Placenames and certain words denoting places have a special possessive form endi
 2. അമേരിക്കയിലെ സംസ്ഥാനങ്ങൾ — “the states of America”
 3. ഇൻഡ്യയിലെ രാഷ്ട്രപതി or ഇൻഡ്യയുടെ രാഷ്ട്രപതി — “the president of India”
 
+<a id="section-16-5"></a><!-- reading-anchor -->
 ### 16.5 Adding -ഏ...-ഉള്ളു to Verbforms
 
-The discontinuous qualifier -ഏ...-ഉള്ളു was discussed in 7.5. When an item is qualified in a restrictive sense within a sentence containing a normal verb (not ആണ്, ഉണ്ട് or വേണം) the -ഉള്ളു attaches directly to the end of the verb. When the verbform ends in -ഉ (present and many past forms), this -ഉ drops and -ഉള്ളു is added directly with no other change to the verbform itself.
+The discontinuous qualifier -ഏ...-ഉള്ളു was discussed in [7.5](lesson7.md#section-7-5). When an item is qualified in a restrictive sense within a sentence containing a normal verb (not ആണ്, ഉണ്ട് or വേണം) the -ഉള്ളു attaches directly to the end of the verb. When the verbform ends in -ഉ (present and many past forms), this -ഉ drops and -ഉള്ളു is added directly with no other change to the verbform itself.
 
 Most other verbforms change when -ഉള്ളു is added. If the original verb ending is potential/intentive -ാം or the future/habitual -ഉം, then the citation form is required to accept -ഉള്ളു just as it is with the negative -ഇല്ല. Of course the joining device -യ- comes before -ഉള്ളു. If the original unrestricted sentence verb is an imperative or desiderative showing obligation i.e. with a nominative subject, its characteristic ending -ണം is replaced by -ാവ്- to which -ഉള്ളു is then joined. Desideratives showing desire, i.e. with dative subjects, follow the same pattern as വേണം, i.e. the verb is nominalized with -അത് before adding ഉള്ളു. Section B of the Reading Practice for this lesson contains examples of pairs of sentences illustrating all four types just described.
 
@@ -336,7 +337,7 @@ A limitation on the verb itself is expressed in the same way.
 
    “I only looked in his office just now, I didn't see him.”
 
-A number of verbforms including negatives can only take -ഏ...-ഉള്ളു indirectly. They must be embedded within a carrier sentence using എന്ന്. The limiter is then attached as a unit to എന്ന്. These include the present emphatic verbform (see 17.5) and the present progressive (see 21.4). Thus:
+A number of verbforms including negatives can only take -ഏ...-ഉള്ളു indirectly. They must be embedded within a carrier sentence using എന്ന്. The limiter is then attached as a unit to എന്ന്. These include the present emphatic verbform (see [17.5](lesson17.md#section-17-5)) and the present progressive (see [21.4](lesson21.md#section-21-4)). Thus:
 
 4. അവൻ വായിക്കുന്നുണ്ടെന്നേയുള്ളു, ഒന്നും മനസ്സിലാക്കുന്നില്ല.
 
@@ -350,4 +351,12 @@ A number of verbforms including negatives can only take -ഏ...-ഉള്ളു 
 
    “It's not that I haven't looked for it, it's just that I didn't find it.”
 
-As stated in 7.5, when the main verb is ഉണ്ട്, it is replaced by ഉള്ളു.
+As stated in [7.5](lesson7.md#section-7-5), when the main verb is ഉണ്ട്, it is replaced by ഉള്ളു.
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Minilesson D](minilesson-d.md) · [Contents](contents.md) · [Next: Minilesson E →](minilesson-e.md)
+
+<!-- /reading-navigation -->

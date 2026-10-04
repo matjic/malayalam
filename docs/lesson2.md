@@ -1,8 +1,11 @@
 <!-- Source: PDF page 57; printed page 11. -->
+<a id="lesson2"></a><!-- reading-anchor -->
 # Lesson 2
 
+<a id="lesson2-reference-list"></a><!-- reading-anchor -->
 ## Reference List
 
+<a id="lesson2-a-personal-pronouns"></a><!-- reading-anchor -->
 ### A. Personal Pronouns
 
 **Singular:**
@@ -30,8 +33,10 @@
 **NOTE:** In the pronoun pairs found above, those beginning in **അ-** refer to person(s) situated relatively far from the speaker at the time of the utterance, while those beginning in **ഇ-** refer to person(s) relatively close to the speaker.
 
 <!-- Source: PDF page 58; printed page 12. -->
+<a id="lesson2-b-adverb-trios"></a><!-- reading-anchor -->
 ### B. Adverb Trios
 
+<a id="lesson2-adverbs-of-place"></a><!-- reading-anchor -->
 #### Adverbs of Place
 
 | Malayalam | English |
@@ -43,6 +48,7 @@
 | അങ്ങോട്ട് | over there, in that direction |
 | എങ്ങോട്ട് | where?, in which direction? |
 
+<a id="lesson2-adverbs-of-time"></a><!-- reading-anchor -->
 #### Adverbs of Time
 
 | Malayalam | English |
@@ -54,6 +60,7 @@
 | അന്ന് | that day |
 | എന്ന് | on which day? |
 
+<a id="lesson2-adverbs-of-manner"></a><!-- reading-anchor -->
 #### Adverbs of Manner
 
 | Malayalam | English |
@@ -62,6 +69,7 @@
 | അങ്ങനെ | that way, like that |
 | എങ്ങനെ | which way?, how? |
 
+<a id="lesson2-vocabulary"></a><!-- reading-anchor -->
 ### Vocabulary
 
 | Malayalam | English |
@@ -70,11 +78,7 @@
 | സാറിന്റെ | your (respectful), gentleman’s |
 | ആഫീസ് | office |
 | ഇവിടെ | here |
-
-<!-- Source: PDF page 59; printed page 13. -->
-| Malayalam | English |
-|---|---|
-| ആണോ? | is? are? (question form of ആണ്) |
+| <!-- Source: PDF page 59; printed page 13. --> ആണോ? | is? are? (question form of ആണ്) |
 | ഹമീദ് | a male (Muslim) name |
 | അതെ | yes |
 | ഇവിടെത്തന്നെ | right here |
@@ -99,8 +103,10 @@
 | -ഓ | question marker |
 
 <!-- Source: PDF page 60; printed page 14. -->
+<a id="lesson2-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
 
+<a id="lesson2-a-note-how--u0d07u0d7d-joins-to-the-following-words"></a><!-- reading-anchor -->
 ### A. Note how -ഇൽ joins to the following words.
 
 |  |  |
@@ -117,6 +123,7 @@
 | പുസ്തകം | പുസ്തകത്തിൽ |
 | കേരളം | കേരളത്തിൽ |
 
+<a id="lesson2-b-note-how--u0d09-joins-to-the-following-words"></a><!-- reading-anchor -->
 ### B. Note how -ഉം joins to the following words.
 
 |  |  |
@@ -130,15 +137,12 @@
 | അവർ | അവരും |
 | അവൾ | അവളും |
 | പുസ്തകം | പുസ്തകവും |
-
-<!-- Source: PDF page 61; printed page 15. -->
-|  |  |
-|---|---|
-| പഴം | പഴവും |
+| <!-- Source: PDF page 61; printed page 15. --> പഴം | പഴവും |
 | അദ്ദേഹം | അദ്ദേഹവും |
 | ആര് | ആരും |
 | ഇത് | ഇതും |
 
+<a id="lesson2-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
 **രാമൻ**: സാറിന്റെ ആഫീസ് ഇവിടെയാണോ?
@@ -180,6 +184,7 @@
 <!-- Source: PDF page 62; printed page 16. -->
 
 
+<a id="lesson2-exercises"></a><!-- reading-anchor -->
 ## Exercises
 
 1. Respond to questions from the teacher or from classmates by giving your own home town or state.
@@ -299,12 +304,15 @@
 
 **D.** Identify and practice the items in the reference list containing retroflex sounds.
 
+<a id="lesson2-lesson-two-grammar-notes"></a><!-- reading-anchor -->
 ## Lesson Two Grammar Notes
 
+<a id="section-2-1"></a><!-- reading-anchor -->
 ### 2.1. The Locative Case of Nouns
 
 In English, location is expressed by phrases made up of a noun and a preposition. The noun denotes the place, while the preposition that precedes it indicates location and/or direction relative to the place: we say “in the house,” “on the street,” “at home,” etc. In Malayalam the various relationships between each noun and the other elements in the sentence are commonly expressed by endings attached to the nouns. These endings, technically called <!-- Source: PDF page 66; printed page 20. --> “case markers,” serve the same function as our English prepositions. Location is shown in Malayalam by attaching the ending -ഇൽ (meaning “in,” “on,” “at,” etc. with a singular noun, and sometimes “among” with a plural noun). A list of nouns in their locative forms appears in Reading Practice A of this lesson.
 
+<a id="section-2-2"></a><!-- reading-anchor -->
 ### 2.2 Spelling Changes in Adding Vowel-Initial Suffixes
 
 No suffix in Malayalam may stand alone; it must always be attached to a word, the one exception being when they are set off artificially (as in these lessons), in order to explain them to foreigners. Certain rules of Malayalam spelling must be observed when adding these endings. These conventions are summarized below. They are few in number, fairly straightforward, and applicable to all cases in which a vowel-initial element is joined to the preceding element. These include the addition of other vowel-initial suffixes to nouns, as well as the frequent practice of writing common combinations of words together as a single unit. These very basic spelling conventions will become second-nature as students are exposed to more and more written Malayalam, but at this time, an explanation of the system will be useful.
@@ -317,6 +325,7 @@ It follows from the above rule that two vowels may never occur within a graphic 
 
 The prime exception to the above occurs when a word ends in the echo vowel represented by the crescent appearing above and to the right of a final consonant. The echo vowel drops and is replaced by the initial vowel of the suffix or of the word being joined. This initial vowel is then written along with the last consonant of the first word. Thus we have അത് (“that”) becoming അതിൽ (“in that”) and ബുക്ക് (“notebook”) becoming ബുക്കിൽ (“in the book”). Students should again refer to the list of various locative forms in Reading Practice A. Note that when a suffix or a separate word is joined to a word ending in an echo vowel, the total number of syllables is reduced by one. For example, the four syllables in അത് ആണ് reduce to three when writing or speaking the combined form അതാണ്.
 
+<a id="section-2-3"></a><!-- reading-anchor -->
 ### 2.3. -ഓ as a Marker for Yes-No Questions
 
 There are basically two types of questions in Malayalam: information questions and yes-no questions. Information questions contain a question word (what, who, why, when, etc.) and require an answer that provides specific information. Such information, not presently held by the questioner, is requested to fill that particular gap in the premise or proposition under which the questioner is operating at the time. We have discussed three question words so far: ആര് (“who?”), എന്ത് (“what?”), and എവിടെ (“where?”). Note also that the adverb trios in this lesson’s Reference List, as well as the demonstrative pronouns and adjectives in the Lesson Three Reference List, all contain a question word as their third member. These are used to request specific information not. <!-- Source wording: the printed sentence ends with “not.” --> The question word in this type of question usually appears right before the verb in Malayalam, with nothing in between.
@@ -341,6 +350,7 @@ Note that the question marker -ഓ may be attached to the quotative particle എ
 
 “Did you say Raman?”
 
+<a id="section-2-4"></a><!-- reading-anchor -->
 ### 2.4. Verbal Cues for the Near-Far Distinction
 
 You can see from the demonstrative pronouns and adjectives for “this” (ഇത്) and “that” (അത്) in the Lesson One Vocabulary that Malayalam has a “near-far” distinction similar to that of English. You may note from this lesson’s Reference List that the same distinction also operates in adverbs of place, time, and manner. The distinction itself needs no explanation since it will coincide with the intuitions you have already developed through English, but Malayalam is more systematic in that the initial sound of the word marks clearly whether the word indicates the “near” or the “far” alternative. The sound ഇ means “near,” <!-- Source: PDF page 69; printed page 23. --> while അ signifies “far,” or rather, “not near,” in terms of space, time, or whatever dimension is in focus.
@@ -349,6 +359,7 @@ In Malayalam this distinction is also used with third person personal pronouns. 
 
 In Lesson One, therefore, അവൻ, അവൾ and അദ്ദേഹം were used to inquire about persons in the same room, but not involved in the present conversation, whereas in Lesson Two the near forms ഇയാൾ/ഇയാളെ are used <!-- Editorial correction: source prints ഇവൾ, but the conversation uses ഇയാൾ/ഇയാളെ. --> because the person indicated is listening. These “near” forms are used, as you have seen, in introducing people to each other and also in formal speeches of introduction, commendation, and the like. All other occasions take the normal “far” forms of the pronouns.
 
+<a id="section-2-5"></a><!-- reading-anchor -->
 ### 2.5. Changing the Order of Sentence Elements for Emphasis
 
 Some students may have noticed that the eighth sentence in Exercise Three, reproduced below as Example 4, does not exhibit the customary order of elements, i.e. Subject, Object, Verb. Whenever a speaker changes the cardinal order in a sentence in Malayalam, he or she does so in order to emphasize or draw attention to a particular element in the sentence. It is possible to emphasize any item in the sentence by moving the copular verb ആണ് to the position immediately after the item to be stressed.
@@ -407,8 +418,17 @@ Negative sentences may also be re-ordered in this way with അല്ല (“am/i
 
 “Isn’t Rajan a *doctor*?”
 
+<a id="section-2-6"></a><!-- reading-anchor -->
 ### 2.6 Spelling and Pronunciation Changes when Joining -ഉം
 
--ഉം, the particle meaning “too, also,” is always attached to the preceding word. This process follows the conventions for joining the locative ending -ഇൽ given in 2.2 above with one exception: word-final -ം becomes -വ-. For example, പഴം (“banana”), becomes പഴവും (“banana, also”), and അദ്ദേഹം (“he-respected”) becomes അദ്ദേഹവും (“he, too”). Students might be confused initially about words ending in short -ഉ. This vowel does drop, following the general rule, but is replaced by the same vowel which is part of -ഉം.
+-ഉം, the particle meaning “too, also,” is always attached to the preceding word. This process follows the conventions for joining the locative ending -ഇൽ given in [2.2](lesson2.md#section-2-2) above with one exception: word-final -ം becomes -വ-. For example, പഴം (“banana”), becomes പഴവും (“banana, also”), and അദ്ദേഹം (“he-respected”) becomes അദ്ദേഹവും (“he, too”). Students might be confused initially about words ending in short -ഉ. This vowel does drop, following the general rule, but is replaced by the same vowel which is part of -ഉം.
 
-Under other conditions this ending also is used for “and.” (See 3.6).
+Under other conditions this ending also is used for “and.” (See [3.6](lesson3.md#section-3-6)).
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Lesson 1](lesson1.md) · [Contents](contents.md) · [Next: Lesson 3 →](lesson3.md)
+
+<!-- /reading-navigation -->

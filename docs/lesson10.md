@@ -1,7 +1,9 @@
+<a id="lesson10"></a><!-- reading-anchor -->
 # Lesson 10
 
 <!-- Source: PDF page 195; printed page 141. -->
 
+<a id="lesson10-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
 | Malayalam | English |
@@ -35,12 +37,7 @@
 | തുറമുഖം | port, harbor |
 | മദ്ധ്യ | middle, center (adjective) |
 | വടക്ക് | north |
-
-<!-- Source: PDF page 196; printed page 142. -->
-
-| Malayalam | English |
-|---|---|
-| വടക്കേ | northern |
+| <!-- Source: PDF page 196; printed page 142. --> വടക്കേ | northern |
 | അറ്റം | end |
 | തിരുവനന്തപുരത്ത് | in Thiruvananthapuram (Trivandrum) (irregular locative form) |
 | വരെ | to, up to (takes nominative) |
@@ -52,8 +49,10 @@
 | ദിവസം | day |
 | യാത്ര ചെയ്യുക | to travel |
 
+<a id="lesson10-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
 
+<a id="lesson10-a-note-how-the-locative-forms-pattern-in-the-sentences-below"></a><!-- reading-anchor -->
 ### A. Note how the locative forms pattern in the sentences below.
 
 അവർ തിരുവനന്തപുരത്ത് താമസിക്കുന്നു.
@@ -90,6 +89,7 @@
 
 <!-- Source: PDF page 197; printed page 143. -->
 
+<a id="lesson10-b-read-the-following-minimal-and-near-minimal-pairs-contrasting-u0d32-and-u0d33"></a><!-- reading-anchor -->
 ### B. Read the following minimal and near-minimal pairs contrasting ല and ള.
 
 | ല | English | ള | English |
@@ -110,6 +110,7 @@
 | എലി | rat | എളി | hip |
 | നാല് | four | നാളെ | tomorrow |
 
+<a id="lesson10-text"></a><!-- reading-anchor -->
 ## Text
 
 കേരളം ഇൻഡ്യയുടെ തെക്കുഭാഗത്താണ്. ഇത് ഒരു ചെറിയ സ്റ്റേറ്റ് ആകുന്നു. പക്ഷേ, അവിടെ ധാരാളം ആളുകൾ താമസിക്കുന്നു. കേരളത്തിന് പടിഞ്ഞാറു വശത്ത് അറബിക്കടലും കിഴക്കുവശത്ത് സഹ്യപർവ്വതവും സ്ഥിതിചെയ്യുന്നു. കേരളത്തിൽ പതിനാല് ജില്ലകളുണ്ട്. തിരുവനന്തപുരം, കൊല്ലം, കോട്ടയം, ഇടുക്കി, പത്തനംതിട്ട, ആലപ്പുഴ, എറണാകുളം, തൃശ്ശൂർ, പാലക്കാട്, കോഴിക്കോട്, വയനാട്, മലപ്പുറം, കണ്ണൂർ, കാസർഗോഡ് എന്നിവയാണ് ജില്ലകൾ. എല്ലാ ജില്ലകൾക്കും തലസ്ഥാനമുണ്ട്. വയനാടും ഇടുക്കിയും ഒഴികെ ബാക്കി ജില്ലകളിൽ തലസ്ഥാനപ്പട്ടണത്തിന്റെ പേരും ജില്ലയുടെ പേരും ഒരുപോലെയാണ്. കേരളത്തിൽ മൂന്നു വലിയ പട്ടണങ്ങൾ ഉണ്ട്. അവ തിരുവനന്തപുരം, കൊച്ചി, കോഴിക്കോട് എന്നിവയാണ്. തിരുവനന്തപുരമാണ് സ്റ്റേറ്റിന്റെ തലസ്ഥാനം. കൊച്ചി ഒരു തുറമുഖമാണ്. അത് കേരളത്തിന്റെ മദ്ധ്യ ഭാഗത്താണ്. കോഴിക്കോടും
@@ -118,6 +119,7 @@
 
 ഒരു തുറമുഖമാണ്. അത് കൊച്ചിക്ക് വടക്കാണ്. തിരുവനന്തപുരം കേരളത്തിന്റെ തെക്കേ അറ്റത്താണ്. കേരളത്തിന്റെ വടക്കേ അറ്റത്താണ് കാസർഗോഡ്. തിരുവനന്തപുരത്തുനിന്ന് കണ്ണൂർ വരെ ഉദ്ദേശം മുന്നൂറ് മൈൽ ദൂരം ഉണ്ട്. തിരുവനന്തപുരത്തുനിന്ന് കണ്ണൂർക്ക് പോകാൻ വളരെ എളുപ്പമാണ്. ഈ യാത്രക്ക് ട്രെയിനിലും ബസ്സിലും ഒരു ദിവസം മതി.
 
+<a id="lesson10-exercises"></a><!-- reading-anchor -->
 ## Exercises
 
 **1.** Provide the proper locative forms in the frame sentence below as in the model.
@@ -240,19 +242,18 @@ Write the following phrases as single units, joining the words together.
 | മേശ | ആകുന്നു. |
 | കാപ്പി | ഉണ്ട്. |
 
+<a id="lesson10-grammar-notes"></a><!-- reading-anchor -->
 ## Grammar Notes
 
+<a id="section-10-1"></a><!-- reading-anchor -->
 ### 10.1 Special Locative Forms for Kerala Placenames
 
 With the exception of കൊച്ചി “Kochi” (“Cochin”), തൃശ്ശൂർ “Trissoor” (“Trishur”), ആലപ്പുഴ “Aalapuzha” (“Alleppy”), and കണ്ണൂർ “Kannur” (“Cannanore”) the names of the districts and large towns in Kerala do not form their locative in the regular way with “-ിൽ.” A list of the irregular locative forms appears in the Reading Practice for this lesson and should be committed to memory. These two fairly obvious principles may aid the learning process. First, placenames ending in “-ം” form their locative in “-ത്ത്” as in കൊല്ലം “Kollam” (“Quilon”), കൊല്ലത്ത് “in Kollam, to Kollam.” Secondly, those ending in a single stop with echo vowel double the stop in the locative, c.f. പാലക്കാട് “Palghat,” പാലക്കാട്ട് “in, to Palghat.”
 
+<a id="section-10-2"></a><!-- reading-anchor -->
 ### 10.2 Markers of Formal Style in Malayalam
 
-The text of this lesson provides an introduction to the more formal style of Malayalam used in most kinds of writing and in platform and most radio speaking. Two main features distinguish it from the casual style used in everyday speech and in friendly letters. Firstly, the sentences tend to be longer and more complex, with subordinate or coordinate clauses linked
-
-<!-- Source: PDF page 202; printed page 148. -->
-
-by appropriate conjunctions. The second sentence in the text, containing two clauses linked by പക്ഷേ “but,” and the third sentence, made up of two sentences linked by -ഉം, “and,” are examples.
+The text of this lesson provides an introduction to the more formal style of Malayalam used in most kinds of writing and in platform and most radio speaking. Two main features distinguish it from the casual style used in everyday speech and in friendly letters. Firstly, the sentences tend to be longer and more complex, with subordinate or coordinate clauses linked <!-- Source: PDF page 202; printed page 148. --> by appropriate conjunctions. The second sentence in the text, containing two clauses linked by പക്ഷേ “but,” and the third sentence, made up of two sentences linked by -ഉം, “and,” are examples.
 
 Another feature of formal style is the use of fancy and exalted words, two of which appear in this lesson. The quickest sign that a person is speaking or writing formally will often be the replacement of ആണ് with regular form ആകുന്നു.
 
@@ -260,6 +261,7 @@ Another feature of formal style is the use of fancy and exalted words, two of wh
 
 This substitution works only where ഉണ്ട് refers to the location of a physical object and cannot, of course, operate where it is used in the existive meaning or in indirect sentences expressing possession, feelings, etc. Other samples of more formal style appear in later lessons having texts instead of conversations.
 
+<a id="section-10-3"></a><!-- reading-anchor -->
 ### 10.3 Directions : How To Express and Write Them.
 
 In English we use the possessive in stating the location of one place relative to another, c.f. “New York is north of Washington.” In Malayalam, there are two constructions one with the dative the other with the possessive. Witness:
@@ -280,9 +282,10 @@ Note that as elsewhere the short vowel -ു- comes in as a joining device when a
 
 <!-- Source: PDF page 203; printed page 149. -->
 
+<a id="section-10-4"></a><!-- reading-anchor -->
 ### 10.4 Special Adjective Forms of the Directions
 
-Whereas the majority of Malayalam adjectives end in അ (see 9.1), the special adjectival forms of the directions end in the long vowel: ഏ. Witness:
+Whereas the majority of Malayalam adjectives end in അ (see [9.1](lesson9.md#section-9-1)), the special adjectival forms of the directions end in the long vowel: ഏ. Witness:
 
 1. തെക്കേ. — “Southern.”  
 2. തെക്കേ അറ്റത്ത്. — “on, at the southern edge.”
@@ -291,12 +294,14 @@ Note that അറ്റത്ത് requires the adjectival form while വശത�
 
 3. തെക്ക് ഭാഗത്ത് or തെക്കേ വശത്ത് — “in the southern part / on the side.”
 
+<a id="section-10-5"></a><!-- reading-anchor -->
 ### 10.5 The Citation Marker എന്ന് with a Series
 
 > **Editorial note:** The revised reading text uses എന്നിവയാണ് in its lists, whereas this source explanation describes lists with എന്ന്. The explanation remains useful as a separate construction, but its claim about the reading text no longer matches.
 
-Section 1.5 discusses the use of the citation marker എന്ന് in sentences giving a name. This lesson’s text contains two examples of the use of എന്ന് as a citation marker for a series of items, one in the list of districts, the other in the list of the major cities of Kerala. Note that എന്ന് is required only once in a series, immediately after the last member of the group cited. Such a series does not require the coordinate conjunction -ഉം.
+Section [1.5](lesson1.md#section-1-5) discusses the use of the citation marker എന്ന് in sentences giving a name. This lesson’s text contains two examples of the use of എന്ന് as a citation marker for a series of items, one in the list of districts, the other in the list of the major cities of Kerala. Note that എന്ന് is required only once in a series, immediately after the last member of the group cited. Such a series does not require the coordinate conjunction -ഉം.
 
+<a id="section-10-6"></a><!-- reading-anchor -->
 ### 10.6 Expressions of Distance
 
 <!-- Source notation: the postpositions are printed as ഓട്ട് and എക്ക്. -->
@@ -312,6 +317,7 @@ Distance in Malayalam is expressed with ഉണ്ട്. The place where the mea
 
 <!-- Source: PDF page 204; printed page 150. -->
 
+<a id="section-10-7"></a><!-- reading-anchor -->
 ### 10.7 The Deletion of Halfmoon in Connected Text
 
 In the majority of cases, words ending in the echo vowel ഉ lose this vowel when written together with a following word. Witness:
@@ -325,6 +331,7 @@ In certain cases, however, the echo vowel is retained. One such case is the join
 
 Note that the halfmoon symbol must be dropped in these cases. This results in the vowel then having the spoken as well as written value of regular short ഉ.
 
+<a id="section-10-8"></a><!-- reading-anchor -->
 ### 10.8 Clefting sentences with Desiderative Verbs
 
 <!-- Editorial corrections: source prints “bought into focus” and “negetive”. -->
@@ -334,9 +341,17 @@ The cleft sentence is used much more in Malayalam than in English. Cleft sentenc
 1. A. എവിടെ പോകുന്നു — “Where are you going?”  
    B. എവിടെയാണ് പോകുന്നത് — “Where is it that you’re going?”
 
-Desiderative verbs on the other hand, change form when adding അത്. Just as with the verbal adjective (See 8.2), the ending -ണം changes to -േ-ണ്ട, but without the negative meaning which വേണ്ടാ has otherwise. Thus:
+Desiderative verbs on the other hand, change form when adding അത്. Just as with the verbal adjective (See [8.2](lesson8.md#section-8-2)), the ending -ണം changes to -േ-ണ്ട, but without the negative meaning which വേണ്ടാ has otherwise. Thus:
 
 2. A. ഞാൻ ചെയ്യേണ്ട ജോലി ഏതാണ്? — “Which is the work I must do?”  
    B. ഏത് ജോലിയാണ് ഞാൻ ചെയ്യേണ്ടത്? — “Which work is it that I am supposed to do?”
 
 3. നാളെയാണ് പോകേണ്ടത് ഇന്നല്ല. — “We want to go tomorrow, not today”
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Lesson 9](lesson9.md) · [Contents](contents.md) · [Next: Lesson 11 →](lesson11.md)
+
+<!-- /reading-navigation -->

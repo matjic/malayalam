@@ -1,9 +1,12 @@
+<a id="lesson21"></a><!-- reading-anchor -->
 # Lesson 21
 
 <!-- Source: PDF page 371; printed page 312. -->
 
+<a id="lesson21-reference-list"></a><!-- reading-anchor -->
 ## Reference List
 
+<a id="lesson21-a-full-list-of-forms-with-u0d06u0d2fu0d30u0d15u0d15u0d15"></a><!-- reading-anchor -->
 ### A Full List of Forms with ആയിരിക്കുക
 
 | Malayalam | Meaning |
@@ -15,6 +18,7 @@
 | ആയിരിക്കും | may be, should be, must be |
 | ആയിരിക്കണം | must be, should be |
 
+<a id="lesson21-adding-probability-to-verb-forms"></a><!-- reading-anchor -->
 ### Adding Probability to Verb forms
 
 | Malayalam | Meaning |
@@ -33,16 +37,12 @@
 | വരുമായിരിക്കണം | should come (future) |
 | വരാമായിരിക്കാം | may come; may be able to come |
 | വരാമായിരിക്കും | will probably come; will probably be able to come |
-
-<!-- Source: PDF page 372; printed page 313. -->
-
-| Malayalam | Meaning |
-|---|---|
-| വരാമായിരിക്കണം | should come (future); should be able to come |
+| <!-- Source: PDF page 372; printed page 313. --> വരാമായിരിക്കണം | should come (future); should be able to come |
 | വരണമായിരിക്കാം | may want/have to come |
 | വരണമായിരിക്കും | will probably want/have to come |
 | വരണമായിരിക്കണം | must want/have to come |
 
+<a id="lesson21-special-past-forms-and-conditionals"></a><!-- reading-anchor -->
 ### Special Past Forms and Conditionals
 
 | Malayalam | Meaning |
@@ -53,6 +53,7 @@
 | വരുമായിരുന്നു | used to come; would have come |
 | വരണമായിരുന്നു | wanted to come/ ought to have come; would have wanted to come/would have had to come |
 
+<a id="lesson21-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
 | Malayalam | Meaning |
@@ -68,12 +69,7 @@
 | -പ്പോൾ | while-- |
 | സംശയം | doubt |
 | past participle + കളയുക | might as well ‘verb’; ‘verb’ + away |
-
-<!-- Source: PDF page 373; printed page 314. -->
-
-| Malayalam | Meaning |
-|---|---|
-| ചോദിച്ചുകളയാം | might as well ask |
+| <!-- Source: PDF page 373; printed page 314. --> ചോദിച്ചുകളയാം | might as well ask |
 | അറിയാമായിരിക്കാം | might know |
 | past participle + തരുക | to do ‘verb’ for your or my benefit |
 | പറഞ്ഞുതരുക | to tell (me or you) |
@@ -107,18 +103,15 @@
 | തിന്നുക | to eat |
 | ചെറുക്കൻ | boy |
 | ഇരുട്ടുക | to become dark |
-
-<!-- Source: PDF page 374; printed page 315. -->
-
-| Malayalam | Meaning |
-|---|---|
-| മുഴു | full complete |
+| <!-- Source: PDF page 374; printed page 315. --> മുഴു | full complete |
 | കഷണ്ടിയാകുക | to become bald |
 | അടങ്ങുക | to be allayed, to become calm |
 | കരയുക | to cry |
 
+<a id="lesson21-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
 
+<a id="lesson21-a"></a><!-- reading-anchor -->
 ### A.
 
 Note how -ഉകയാണ് adds to the verb stem to give the progressive or continuous meaning.
@@ -136,6 +129,7 @@ Note how -ഉകയാണ് adds to the verb stem to give the progressive or co
 | ചെയ്യുകയാണ് | ഊട്ടുകയാണ് |
 | വരുകയാണ് | അയക്കുകയാണ് |
 
+<a id="lesson21-b"></a><!-- reading-anchor -->
 ### B.
 
 Note how the various forms of കൊണ്ടിരിക്കുക can be added to a verb to convey the continuous in various tenses, etc.
@@ -147,12 +141,7 @@ Note how the various forms of കൊണ്ടിരിക്കുക can be add
 | സംസാരിച്ചുകൊണ്ടിരിക്കുകയാണ് | is (in the midst of) talking |
 | സംസാരിച്ചുകൊണ്ടിരുന്നു | was talking |
 | സംസാരിച്ചുകൊണ്ടിരിക്കുകയായിരുന്നു | was (in the midst of) talking |
-
-<!-- Source: PDF page 375; printed page 316. -->
-
-| Malayalam | Meaning |
-|---|---|
-| സംസാരിച്ചുകൊണ്ടിരിക്കാം | let us keep talking<br>will keep talking<br>can keep talking |
+| <!-- Source: PDF page 375; printed page 316. --> സംസാരിച്ചുകൊണ്ടിരിക്കാം | let us keep talking<br>will keep talking<br>can keep talking |
 | സംസാരിച്ചുകൊണ്ടിരിക്കും | will be talking<br>will keep talking |
 | സംസാരിച്ചുകൊണ്ടിരിക്കണം | should, must, want to keep talking |
 | സംസാരിച്ചുകൊണ്ടിരിക്കുകയായിരിക്കാം | may be talking |
@@ -170,6 +159,7 @@ Note how the various forms of കൊണ്ടിരിക്കുക can be add
 
 <!-- Source: PDF page 376; printed page 317. -->
 
+<a id="lesson21-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
 **രാജൻ:** ചേച്ചി, ചേട്ടൻ ഇവിടെയില്ലെ? എവിടെ പോയിരിക്കുകയാണ്?
@@ -206,6 +196,7 @@ Note how the various forms of കൊണ്ടിരിക്കുക can be add
 
 **ചേച്ചി:** എന്നാൽ ഞാൻ വെള്ളം കൊണ്ടുവരട്ടെ.
 
+<a id="lesson21-exercises"></a><!-- reading-anchor -->
 ## Exercises
 
 **1. A.** Combine the pairs of sentences below using -പ്പോൾ as in the model.
@@ -287,8 +278,10 @@ Note how the various forms of കൊണ്ടിരിക്കുക can be add
 
 7. രണ്ട് മണിക്കൂറോളം കഴിഞ്ഞിട്ടാണ് രവി ഒന്ന് അടങ്ങിയത്. അപ്പോഴേക്കും ലീല കരയാൻ തുടങ്ങി.
 
+<a id="lesson21-grammar-notes"></a><!-- reading-anchor -->
 ## Grammar Notes
 
+<a id="section-21-1"></a><!-- reading-anchor -->
 ### 21.1 Time Adverbial Clauses with -പ്പോൾ and -ഉടൻ
 
 **A. “When...”:** This section deals with subordinate clauses which function as adverbs of time in which the conjunction or linker (placed at the end of the clause) spells out the relationship (timeframe) of the action of the verb in the subordinate clause to that of the verb in the main clause. This lesson’s conversation contains examples of two of the most common conjunctions of time, -പ്പോൾ and -ഉടൻ. Each has its own particular rules as of which forms it may be joined to.
@@ -378,11 +371,12 @@ Note this means you missed the bus, not that you barely caught it.
 
 Finally, note that as with all subordinate clauses in Malayalam, those treated here can occur only before, i.e. to the left of, the main clause. In English, the reverse order is often preferred, with both orderings usually possible.
 
+<a id="section-21-2"></a><!-- reading-anchor -->
 ### 21.2 Time Adverbial Clauses with “by the time” and “as long as”
 
 <!-- Editorial cleanup: the source has an unfinished “see ...” reference after “future perfect”; removed, since the construction is defined in the same sentence. -->
 
-**A.** Time adverbial clauses expressing “by the time” and “as soon as” are formed with the complex conjunction അപ്പോഴേക്കും “by that time.” Like അപ്പോൾ (see 21.1) it only attaches to the future/habitual, to a past tense, or to a desiderative in which case the initial അ drops. When the verb in the time adverbial clause is future/habitual , the verb in the main clause must appear in the future perfect, formed with the conjunctive (past participle) of the verb plus the future or desiderative of the auxiliary ഇരിക്കുക. c.f.:
+**A.** Time adverbial clauses expressing “by the time” and “as soon as” are formed with the complex conjunction അപ്പോഴേക്കും “by that time.” Like അപ്പോൾ (see [21.1](lesson21.md#section-21-1)) it only attaches to the future/habitual, to a past tense, or to a desiderative in which case the initial അ drops. When the verb in the time adverbial clause is future/habitual , the verb in the main clause must appear in the future perfect, formed with the conjunctive (past participle) of the verb plus the future or desiderative of the auxiliary ഇരിക്കുക. c.f.:
 
 <!-- Source: PDF page 383; printed page 324. -->
 
@@ -412,7 +406,7 @@ Finally, note that as with all subordinate clauses in Malayalam, those treated h
 
 Such clauses often follow the main clause in English, but must precede it in Malayalam.
 
-The negative verbal noun, both present and past (see 19.5) can also occur with വരെ. Thus, before watching a videotape, you might say (using the present negative verbal noun):
+The negative verbal noun, both present and past (see [19.5](lesson19.md#section-19-5)) can also occur with വരെ. Thus, before watching a videotape, you might say (using the present negative verbal noun):
 
 7. കാണാൻ പറ്റാത്തത് വരെ ലൈറ്റ് ഡിം ചെയ്യണം.
 
@@ -440,6 +434,7 @@ Malayalam will sometimes use a negative verbal noun where the English would use 
 
 11. അവൻ വരാത്തത് വരെ നമുക്ക് പുറപ്പെടാൻ പറ്റില്ല. — Literally, “Until he doesn't come, we cannot set out (on a journey)”. “We can't leave (for a trip) until he comes”.
 
+<a id="section-21-3"></a><!-- reading-anchor -->
 ### 21.3 The Vocative Form of the Noun
 
 The vocative form of the noun is used in calling to someone, in order to get their attention. Its ending varies according to the final sound of the word it attaches to, but somewhat differently than for the other noun endings as follows:
@@ -502,9 +497,10 @@ D. No ending is used for names ending in -യ. Examples:
 
 As you can see, the categories for the different endings are complicated enough so that it is probably simpler to learn the vocatives on an item by item basis.
 
+<a id="section-21-4"></a><!-- reading-anchor -->
 ### 21.4 Degrees of Probability with the Modal Auxiliary
 
-It was explained in 19.1 that greater and lesser probability may be shown in equative and cleft sentences by replacing the copula ആണ് “to be” with ആയിരിക്കും “will be” and
+It was explained in [19.1](lesson19.md#section-19-1) that greater and lesser probability may be shown in equative and cleft sentences by replacing the copula ആണ് “to be” with ആയിരിക്കും “will be” and
 
 \*\* The older forms ഗുരോ and പ്രഭോ are still sometimes found.
 
@@ -514,7 +510,7 @@ It was explained in 19.1 that greater and lesser probability may be shown in equ
 
 1. ചേട്ടൻ അമ്മയോട് ചോദിച്ചായിരിക്കും/ചോദിച്ചായിരിക്കാം — “Older brother probably/may have asked mother.”
 
-Note that with the present progressive verbform (see 21.6 below) ആണ് is replaced by the modal auxiliary.
+Note that with the present progressive verbform (see [21.6](lesson21.md#section-21-6) below) ആണ് is replaced by the modal auxiliary.
 
 2. A. അവർ ഞങ്ങളെ കാണാൻ വരുകയാണ് — “They are coming to see us.”<br>B. അവർ ഞങ്ങളെ കാണാൻ വരുകയായിരിക്കും — “They are probably coming to see us.”
 
@@ -524,9 +520,9 @@ Note that some of the forms are very close in meaning.
 
 3. A. കുട്ടികൾ അവധിക്ക് വന്നായിരിക്കും<br>B. കുട്ടികൾ അവധിക്ക് വന്നിട്ടുണ്ടായിരിക്കും — “The children probably have come for the vacation.”
 
-Note also that ആയിരുന്നു has a dual function when combined with the future/habitual and the desiderative. വരുമായിരുന്നു and വരണമായിരുന്നു can refer to continuousness in past time, i.e., “used to come” and “wanted to come,” respectively; but they also can refer to condition contrary to fact situations, i.e. “would have come” and “ought to have come.” (See 23.2). In this latter meaning, however, these verbforms usually occur in conditional sentences with an “if” clause at the beginning.
+Note also that ആയിരുന്നു has a dual function when combined with the future/habitual and the desiderative. വരുമായിരുന്നു and വരണമായിരുന്നു can refer to continuousness in past time, i.e., “used to come” and “wanted to come,” respectively; but they also can refer to condition contrary to fact situations, i.e. “would have come” and “ought to have come.” (See [23.2](lesson23.md#section-23-2)). In this latter meaning, however, these verbforms usually occur in conditional sentences with an “if” clause at the beginning.
 
-The distinction in degree of probability described in 19.1 apply to all instances of the modal auxiliary. The words “must” and “may” are often used in English to denote the two degrees of probability. “Probably” and “perhaps” reflect the same relative degrees, and must sometimes be used for an accurate translation which preserves the proper tense of the Malayalam verb.
+The distinction in degree of probability described in [19.1](lesson19.md#section-19-1) apply to all instances of the modal auxiliary. The words “must” and “may” are often used in English to denote the two degrees of probability. “Probably” and “perhaps” reflect the same relative degrees, and must sometimes be used for an accurate translation which preserves the proper tense of the Malayalam verb.
 
 <!-- Source: PDF page 387; printed page 328. -->
 
@@ -536,27 +532,26 @@ Finally, all of the forms with modal auxiliaries, as well as all other forms in 
 
 4. അമ്മ കൂടെ വരുകയില്ലായിരിക്കും. — “Mother probably won't come along.”
 
+<a id="section-21-5"></a><!-- reading-anchor -->
 ### 21.5 Impersonal Expressions for Physical and Emotional Conditions
 
-The preceding lessons have taught impersonal constructions for situations including health (3.1), liking (4.1), both temporary and permanent possession (4.2), and so forth. Mentioned among the uses of ഉണ്ട് in 4.3 is the expression of physical and emotional feelings. Several new examples occur in this lesson's conversation. വിശപ്പ് “hunger” and ദാഹം “thirst” are physical while സംശയം “doubt,” സങ്കടം “sadness,” and വിശ്വാസം “belief” (Conversation Nineteen) are emotional. Note that സന്തോഷം “happiness,” ദുഃഖം “grief,” and സുഖം “happiness or health” also take ഉണ്ട്. സുഖം is commonly used with ആണ് (see 3.3) and most of the other words can also be used with ആണ്, but are usually found in collocation with ഉണ്ട്. All these nouns have related verbs. Those for physical feelings, ദാഹിക്കുക “to be thirsty,” വിശക്കുക “to be hungry,” etc. take a dative subject. Nominative subject is required by those denoting emotions, i.e. വിശ്വസിക്കുക “to believe,” സംശയിക്കുക “to doubt,” ആഗ്രഹിക്കുക “to wish or desire,” ദുഃഖിക്കുക “to feel sad,” etc.
+The preceding lessons have taught impersonal constructions for situations including health (3.1), liking (4.1), both temporary and permanent possession (4.2), and so forth. Mentioned among the uses of ഉണ്ട് in [4.3](lesson4.md#section-4-3) is the expression of physical and emotional feelings. Several new examples occur in this lesson's conversation. വിശപ്പ് “hunger” and ദാഹം “thirst” are physical while സംശയം “doubt,” സങ്കടം “sadness,” and വിശ്വാസം “belief” (Conversation Nineteen) are emotional. Note that സന്തോഷം “happiness,” ദുഃഖം “grief,” and സുഖം “happiness or health” also take ഉണ്ട്. സുഖം is commonly used with ആണ് (see [3.3](lesson3.md#section-3-3)) and most of the other words can also be used with ആണ്, but are usually found in collocation with ഉണ്ട്. All these nouns have related verbs. Those for physical feelings, ദാഹിക്കുക “to be thirsty,” വിശക്കുക “to be hungry,” etc. take a dative subject. Nominative subject is required by those denoting emotions, i.e. വിശ്വസിക്കുക “to believe,” സംശയിക്കുക “to doubt,” ആഗ്രഹിക്കുക “to wish or desire,” ദുഃഖിക്കുക “to feel sad,” etc.
 
+<a id="section-21-6"></a><!-- reading-anchor -->
 ### 21.6 The Progressive Aspect of the Verb
 
 The continuous form of the verb emphasizes the process of the action, and not its completion or result. It is formed by the citation form of any verb plus an auxiliary comprised of some form of ആകുക, the verb “to be.”
 
 <!-- Source: PDF page 388; printed page 329. -->
 
-The most common forms are the present progressive, വരുകയാണ്, “am, is, are coming,” and the past progressive, വരുകയായിരുന്നു, “was, were coming.” These forms can only refer to action in progress at the moment, or at some specific point in past time. As in English, the present progressive form may also be used to express action about to be performed in the immediate future. Thus the neighbor says to Rajan in this lesson's conversation, നീ വരുകയാണെങ്കിൽ “if you are coming....” In general, however, the emphatic form വരുന്നുണ്ട് is somewhat more common for immediate future meaning. Note that the progressive aspect may be attached to complex tenses as well with ആയിരിക്കുക and to compound verbs (see 21.7 below). Thus, in response to a query about her husband, the neighbor lady tells Rajan, ...ടിക്കറ്റ് വാങ്ങിക്കാൻ പോയിരിക്കുകയാണ് “...he has gone to buy tickets.” Use of the progressive here emphasizes the fact that the action of the verb, “the going,” is still in progress. The use of the progressive aspect is blocked if the perfective marker -ിട്ട് is present between the verb and auxiliary.
+The most common forms are the present progressive, വരുകയാണ്, “am, is, are coming,” and the past progressive, വരുകയായിരുന്നു, “was, were coming.” These forms can only refer to action in progress at the moment, or at some specific point in past time. As in English, the present progressive form may also be used to express action about to be performed in the immediate future. Thus the neighbor says to Rajan in this lesson's conversation, നീ വരുകയാണെങ്കിൽ “if you are coming....” In general, however, the emphatic form വരുന്നുണ്ട് is somewhat more common for immediate future meaning. Note that the progressive aspect may be attached to complex tenses as well with ആയിരിക്കുക and to compound verbs (see [21.7](lesson21.md#section-21-7) below). Thus, in response to a query about her husband, the neighbor lady tells Rajan, ...ടിക്കറ്റ് വാങ്ങിക്കാൻ പോയിരിക്കുകയാണ് “...he has gone to buy tickets.” Use of the progressive here emphasizes the fact that the action of the verb, “the going,” is still in progress. The use of the progressive aspect is blocked if the perfective marker -ിട്ട് is present between the verb and auxiliary.
 
+<a id="section-21-7"></a><!-- reading-anchor -->
 ### 21.7 A Close Look at Compound Verbs.
 
-Section 11.3 discusses an example of a compound verb, തീർന്നു പോയി “ran out” where the addition of the modifier പോകുക merely serves to emphasize the completion of the action shown in the main verb തീരുക. In 18.6, another example, പറഞ്ഞുപോയി illustrates how this same modifier verb പോകുക may be added to some verbs to show that the action took place accidentally or without the speaker's involvement. This lesson's conversation contains instances of five more modifier verbs which are discussed in turn below.
+Section [11.3](lesson11.md#section-11-3) discusses an example of a compound verb, തീർന്നു പോയി “ran out” where the addition of the modifier പോകുക merely serves to emphasize the completion of the action shown in the main verb തീരുക. In [18.6](lesson18.md#section-18-6), another example, പറഞ്ഞുപോയി illustrates how this same modifier verb പോകുക may be added to some verbs to show that the action took place accidentally or without the speaker's involvement. This lesson's conversation contains instances of five more modifier verbs which are discussed in turn below.
 
-All compound verbs are alike in that the first verb is the main verb, carries the basic meaning, while the second verb carries only an added nuance or modification of that meaning. In fact the second verb may be dropped from any compound leaving the main verb to carry the basic meaning of the sentence. The modifier verb, is therefore, something like an adverb in that it adds a fuller, or more precise meaning. In terms of form, however, the modifier verb takes over all the grammatical functions by assuming all the markers of tense, mood, and aspect. The modifier even determines some aspects of the sentence grammar beyond the verb itself. Ordinarily, the verb പറയുക requires the addressive എന്നോട് for indirect objects, but in the sentence in this lesson's dialogue, “Grief എന്ന വാക്കിന്റെ അർത്ഥം എനിക്ക് പറഞ്ഞു തരാമോ” “can you tell me the meaning of the word grief,” the presence of the modifier verb determines the dative form for the indirect object “me,” എനിക്ക്. In all compounds, the main verb must appear as a conjunctive participle. Only a very limited number
-
-<!-- Source: PDF page 389; printed page 330. -->
-
-of verbs can occur as modifiers (no more than a dozen are common), but the number of verbs which can occur as main verb is very large, though this varies somewhat according to the particular modifier used.
+All compound verbs are alike in that the first verb is the main verb, carries the basic meaning, while the second verb carries only an added nuance or modification of that meaning. In fact the second verb may be dropped from any compound leaving the main verb to carry the basic meaning of the sentence. The modifier verb, is therefore, something like an adverb in that it adds a fuller, or more precise meaning. In terms of form, however, the modifier verb takes over all the grammatical functions by assuming all the markers of tense, mood, and aspect. The modifier even determines some aspects of the sentence grammar beyond the verb itself. Ordinarily, the verb പറയുക requires the addressive എന്നോട് for indirect objects, but in the sentence in this lesson's dialogue, “Grief എന്ന വാക്കിന്റെ അർത്ഥം എനിക്ക് പറഞ്ഞു തരാമോ” “can you tell me the meaning of the word grief,” the presence of the modifier verb determines the dative form for the indirect object “me,” എനിക്ക്. In all compounds, the main verb must appear as a conjunctive participle. Only a very limited number <!-- Source: PDF page 389; printed page 330. --> of verbs can occur as modifiers (no more than a dozen are common), but the number of verbs which can occur as main verb is very large, though this varies somewhat according to the particular modifier used.
 
 **A.** The modifier കൊണ്ടിരിക്കുക adds the sense of continuous action either temporary or long-term.
 
@@ -593,3 +588,11 @@ The other meaning is that of “away” in the sense of finality, i.e. of termin
 The use of കഴിയുക to mark completion is much more general than that of പോകുക which is limited to a few stereotyped expressions such as തീർന്നുപോയി, “has run out,” ചീത്തയായിപ്പോയി “has gone bad,” etc. Note that കഴിയുക cannot be substituted in those expressions, so that the use of the two modifiers is complementary.
 
 Compound verbs are usually written as units. Note that the initial consonant of the modifier verb does not double when added to main verbs ending in ഉ. Those ending in ഇ, however, must, as in ഞാൻ ഉണ്ടാക്കിത്തരാം “I'll make for you.”
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Lesson 20](lesson20.md) · [Contents](contents.md) · [Next: Lesson 22 →](lesson22.md)
+
+<!-- /reading-navigation -->

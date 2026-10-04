@@ -1,7 +1,9 @@
+<a id="minilesson-g"></a><!-- reading-anchor -->
 # Minilesson G
 
 <!-- Source: PDF page 455; printed page 394. -->
 
+<a id="minilesson-g-pronunciation-changes-in-casual-speech"></a><!-- reading-anchor -->
 ## Pronunciation Changes in Casual Speech
 
 Malayalam is very much like English in that when people speak in a relaxed way, things change, sometimes to an unrecognizable degree. Many foreigners have been mystified by English expressions such as: “Jeechet”, or “Werja gota gichur new shades?” Below are just a few pointers to introduce the commonest of such changes in Malayalam.
@@ -37,3 +39,11 @@ The next weakest consonant is ച which turns into a sound close to യ particul
 സ്വാഗതം
 
 ഒരു മുസ്ലിം പള്ളി
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Lesson 24](lesson24.md) · [Contents](contents.md) · [Next: Lesson 25 →](lesson25.md)
+
+<!-- /reading-navigation -->

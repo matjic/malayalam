@@ -1,9 +1,12 @@
+<a id="lesson14"></a><!-- reading-anchor -->
 # Lesson 14
 
 <!-- Source: PDF page 253; printed page 199. -->
 
+<a id="lesson14-reference-list"></a><!-- reading-anchor -->
 ## Reference List
 
+<a id="lesson14-section-titles-in-malayalam-newspapers"></a><!-- reading-anchor -->
 ### Section Titles in Malayalam Newspapers
 
 | | Malayalam | Meaning |
@@ -35,18 +38,14 @@
 | 20. | വായനക്കാരുടെ കത്തുകൾ | Readers' Letters |
 | 21. a) | കളിരംഗം | Sports Scene |
 | b) | സ്പോർട്സ് രംഗം | |
-
-<!-- Source: PDF page 254; printed page 200. -->
-
-| | Malayalam | Meaning |
-|---|---|---|
-| 22. a) | സിനിമാരംഗം | Films, Film Scene |
+| <!-- Source: PDF page 254; printed page 200. --> 22. a) | സിനിമാരംഗം | Films, Film Scene |
 | b) | താരാപഥം | |
 | 23. | ജില്ലാവാർത്തകൾ | District News |
 | 24. | പ്രാദേശിക വാർത്തകൾ | Regional News |
 | 25. | റേഡിയോ | Radio, timetable of programs |
 | 26. | വാരാന്ത്യപ്പതിപ്പ് | Weekend Special; Weekend Supplement; Weekend Edition |
 
+<a id="lesson14-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
 | Malayalam | Meaning |
@@ -74,17 +73,13 @@
 | ഇന്നത്തെ | today's |
 | പരിപാടി | program |
 | നടക്കുക | to take place, to go on |
-
-<!-- Source: PDF page 255; printed page 201. -->
-
-| Malayalam | Meaning |
-|---|---|
-| പരസ്യം | advertisement |
+| <!-- Source: PDF page 255; printed page 201. --> പരസ്യം | advertisement |
 | തരം | type |
 | തരാതരം | various |
 | വിൽപ്പന | sale |
 | വൈവാഹികം | matrimonial |
 
+<a id="lesson14-vocabulary-from-reference-list-and-exercises"></a><!-- reading-anchor -->
 ### Vocabulary from “Reference List” and “Exercises”
 
 | Malayalam | Meaning |
@@ -115,30 +110,30 @@
 | വായന | reading (noun) |
 | വായനക്കാർ | readers |
 | കത്ത് | letter |
-
-<!-- Source: PDF page 256; printed page 202. -->
-
-| Malayalam | Meaning |
-|---|---|
-| പ്രാദേശിക | regional |
+| <!-- Source: PDF page 256; printed page 202. --> പ്രാദേശിക | regional |
 | വാരം | week |
 | അന്ത്യം | end |
 | പതിപ്പ് | edition |
 
+<a id="lesson14-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
 
+<a id="lesson14-a"></a><!-- reading-anchor -->
 ### A.
 
 Read through the reference list placing a വ beside each of the four section titles containing the word “വാർത്ത.”
 
+<a id="lesson14-b"></a><!-- reading-anchor -->
 ### B.
 
 Read through the reference list again, this time placing a ദ beside each of the two section titles containing the word “വേദി.”
 
+<a id="lesson14-c"></a><!-- reading-anchor -->
 ### C.
 
 Read through the reference list once again, this time placing a ര beside each of the five section titles containing the word “രംഗം.”
 
+<a id="lesson14-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
 രാമാ! നീ പത്രം വായിക്കണം. പത്രം വായിച്ചാൽ എല്ലാ വാർത്തയും അറിയാം. പത്രത്തിൽ ജില്ലാവാർത്തയും തലസ്ഥാന വാർത്തയും കാണും. യുവതികൾക്കും യുവാക്കന്മാർക്കും ഇഷ്ടമുള്ള കാര്യങ്ങൾ യുവരംഗത്തിൽ വായിക്കാം. സ്പോർട്സ് രംഗത്തിൽ കളികളെ പറ്റിയുള്ള വാർത്തകളുണ്ട്. നിനക്ക് സാഹിത്യത്തെ പറ്റിയോ കലയെ പറ്റിയോ അറിയണമെങ്കിൽ സാഹിത്യവേദിയോ കലാരംഗമോ വായിച്ചാൽ മതി. താരാപഥം വായിച്ചാൽ പുതിയ സിനിമകളെ പറ്റിയും താരങ്ങളെ പറ്റിയും അറിയാം. ഇന്നത്തെ പരിപാടിയിൽ പട്ടണത്തിൽ ഇന്നു നടക്കുന്ന കാര്യങ്ങളെ പറ്റി വായിക്കാം.
@@ -147,6 +142,7 @@ Read through the reference list once again, this time placing a ര beside each 
 
 <!-- Source: PDF page 257; printed page 203. -->
 
+<a id="lesson14-exercises"></a><!-- reading-anchor -->
 ## Exercises
 
 **1.** Use the items below to form answers to questions put by the teacher or by classmates as in the model.
@@ -200,11 +196,13 @@ h. പുസ്തകാഭിപ്രായം
 10. A. “ഇന്നത്തെ വാർത്തകളെല്ലാം ചുരുക്കത്തിൽ എന്നോട് പറയാമോ?”  
     B. “അത് പറില്ല എനിക്ക് ഇപ്പോൾ സമയമില്ല.”
 
+<a id="lesson14-grammar-notes"></a><!-- reading-anchor -->
 ## Grammar Notes
 
+<a id="section-14-1"></a><!-- reading-anchor -->
 ### 14.1 The Absolutive Particle -ഉം with “All”, “Each” and Other Positive Expressions
 
-The use of -ഉം in negative and some positive expressions is treated in 9.5. Here are some more expressions that also require -ഉം. Most notable of these is the irregular adjective എല്ലാ “all” which requires -ഉം at the end of its noun phrase. Both pronouns and noun phrases are formed with it. There are separate pronouns for persons and things.
+The use of -ഉം in negative and some positive expressions is treated in [9.5](lesson9.md#section-9-5). Here are some more expressions that also require -ഉം. Most notable of these is the irregular adjective എല്ലാ “all” which requires -ഉം at the end of its noun phrase. Both pronouns and noun phrases are formed with it. There are separate pronouns for persons and things.
 
 When എല്ലാ functions as a pronoun, meaning “all” or “everything,” then -ഉം is joined directly to it, with -ഉ being lost in the process. (Note that എല്ലാ is irregular in that it does not form a noun or pronoun with അത്). When taking case endings the -ം, becomes -ത്ത. Thus:
 
@@ -218,7 +216,7 @@ When എല്ലാ functions as a pronoun, meaning “all” or “everything,
 
    “You should have an eye on everything.”
 
-Note that എല്ലാവരും “everybody” consists of എല്ലാ plus the human plural marker -വർ plus -ഉം. The use of -ഉം in indefinite pronouns will be treated later (see 22.1).
+Note that എല്ലാവരും “everybody” consists of എല്ലാ plus the human plural marker -വർ plus -ഉം. The use of -ഉം in indefinite pronouns will be treated later (see [22.1](lesson22.md#section-22-1)).
 
 3. എല്ലാവരും ബസിൽ കയറാൻ ക്യൂവിൽ നിന്നു.
 
@@ -286,6 +284,7 @@ Note that in all cases -ഉം appears as the final element in the phrase. The p
 
     “Is this much enough?” literally, “is as much as this enough.”
 
+<a id="section-14-2"></a><!-- reading-anchor -->
 ### 14.2 Uses of Present Conditional Sentences
 
 Conditional sentences consist of two parts, the clause containing the condition, and the clause containing the expected result. When the timeframe of the conditional sentence is future, the verbform is followed by the conjunction എങ്കിൽ “if.” Witness:
@@ -302,7 +301,7 @@ Roughly the same meaning is conveyed by a conditional sentence having a present 
 
    “If he sent the car, I would come.”
 
-Conditionals in the past tense timeframe are covered in 23.2.
+Conditionals in the past tense timeframe are covered in [23.2](lesson23.md#section-23-2).
 
 Though the present and future “if” clauses are often interchangeable, there are certain instances where they are not. The present conditional is conventionally the only one used with a few very frequent one-word result clauses including കൊള്ളാം, “it would be good” or, often, “it would be better,” and മതി, “it is enough” or, often, “just” or “simply.” These deserve special mention as they are used in Malayalam in cases where our English sense would not suggest the use of a conditional at all. Witness:
 
@@ -322,9 +321,10 @@ Though the present and future “if” clauses are often interchangeable, there 
 
    “Tomorrow would be better.”
 
+<a id="section-14-3"></a><!-- reading-anchor -->
 ### 14.3 The “Either...Or” Construction
 
-“Either...or” is handled similarly to the conjunction “and” (see 3.5). Instead of ഉം, the marker is -ോ, and it must be joined to both alternatives cited. Witness:
+“Either...or” is handled similarly to the conjunction “and” (see [3.5](lesson3.md#section-3-5)). Instead of ഉം, the marker is -ോ, and it must be joined to both alternatives cited. Witness:
 
 1. നിങ്ങൾക്ക് വേണ്ടത് ചായയോ കാപ്പിയോ?
 
@@ -346,15 +346,16 @@ Sometimes, instead of juxtaposing two nouns, the alternatives are stated in sepa
 
 Note that -ോ, like other conjunctions, is always the final element in the clause or phrase. The conjunction അതോ “or” is optional.
 
+<a id="section-14-4"></a><!-- reading-anchor -->
 ### 14.4 Relative and Descriptive Clauses Formed with -ഉള്ള
 
-It was already mentioned in 9.1 that Malayalam contains a relatively small number of simple or real adjectives, i.e., those consisting of a single basic word. In the majority of cases, adjectives are made from other types of words by making them into clauses. The function of an adjective is to describe or qualify a noun. When a clause is made into an adjective, its verb must carry the adjective marker -അ. This process is described for present tense verbforms, including desideratives, in 8.2, and for past tense verbforms in 13.5.
+It was already mentioned in [9.1](lesson9.md#section-9-1) that Malayalam contains a relatively small number of simple or real adjectives, i.e., those consisting of a single basic word. In the majority of cases, adjectives are made from other types of words by making them into clauses. The function of an adjective is to describe or qualify a noun. When a clause is made into an adjective, its verb must carry the adjective marker -അ. This process is described for present tense verbforms, including desideratives, in [8.2](lesson8.md#section-8-2), and for past tense verbforms in [13.5](lesson13.md#section-13-5).
 
 When the verb of the clause is ഉണ്ട്, or when a phrase or word is to be adjectivized, -ഉള്ള is required. This is the present participle of the verb ഉണ്ട്, thus it replaces ഉണ്ട് in those clauses which would have that verb in their independent form. Thus the sentence യുവാക്കന്മാർക്ക് ജോലി ഉണ്ട് “the young people have jobs” is made into a descriptive clause as:
 
 1. ജോലിയുള്ള യുവാക്കന്മാർ — “young people who have jobs”
 
-Note that the subject, or other word, in the independent version of the clause is deleted since it also appears in the main sentence as the head noun of the noun phrase into which the adjective clause has been incorporated. Such adjective, or descriptive clauses are often called “relative clauses” because they relate to one particular noun within the larger sentence. Note that the relative clause always occurs to the left of its noun in Malayalam, never to the right of it as in English. Sentences whose main verb is ആണ് are made into relative clauses with ആയ, not -ഉള്ള (see 20.1). In the case of those expressions which may either take ആണ് or ഉണ്ട്, the latter is used more often in the formation of adjective clauses, c.f.
+Note that the subject, or other word, in the independent version of the clause is deleted since it also appears in the main sentence as the head noun of the noun phrase into which the adjective clause has been incorporated. Such adjective, or descriptive clauses are often called “relative clauses” because they relate to one particular noun within the larger sentence. Note that the relative clause always occurs to the left of its noun in Malayalam, never to the right of it as in English. Sentences whose main verb is ആണ് are made into relative clauses with ആയ, not -ഉള്ള (see [20.1](lesson20.md#section-20-1)). In the case of those expressions which may either take ആണ് or ഉണ്ട്, the latter is used more often in the formation of adjective clauses, c.f.
 
 2. എനിക്ക് ഇഷ്ടമുള്ള കറികൾ. — “Curries (which) I like.”
 
@@ -370,6 +371,7 @@ In English, prepositional phrases and words may be made into adjectives without 
 
 As may be seen, a wide variety of phrases and words may be made into adjectives in this way including phrases ending in a post-position, nouns bearing case endings, and infinitives.
 
+<a id="section-14-5"></a><!-- reading-anchor -->
 ### 14.5 Irregular Possessive Forms in -ത്തെ
 
 A few groups of words take the irregular possessive ending -ത്തെ. These include one set of time adverbs, one set of place names and place adverbs, and a few nouns ending in -ം. c.f.:
@@ -384,4 +386,12 @@ Note that the final എ of അവിടെ becomes ഉ before -ത്തെ.
 
 4. ആദ്യത്തെ കളി — “the first game”
 
-The number of words taking this ending is very small, but some of them are very common. Since there is no way to tell which words require this special ending, they must simply be learned as items. Note that they are all nouns in one way or the other. Even ഇവിടെ is actually ഈ “this” plus ഇടം “place” with the special colloquial locative ending -എ (see 18.1). Note that ഇടം takes the joining device വ unlike other items beginning with ഇ which take the joining device യ.
+The number of words taking this ending is very small, but some of them are very common. Since there is no way to tell which words require this special ending, they must simply be learned as items. Note that they are all nouns in one way or the other. Even ഇവിടെ is actually ഈ “this” plus ഇടം “place” with the special colloquial locative ending -എ (see [18.1](lesson18.md#section-18-1)). Note that ഇടം takes the joining device വ unlike other items beginning with ഇ which take the joining device യ.
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Lesson 13](lesson13.md) · [Contents](contents.md) · [Next: Minilesson C →](minilesson-c.md)
+
+<!-- /reading-navigation -->

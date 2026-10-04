@@ -1,7 +1,9 @@
+<a id="lesson18"></a><!-- reading-anchor -->
 # Lesson 18
 
 <!-- Source: PDF page 310; printed page 253. -->
 
+<a id="lesson18-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
 | Malayalam | English |
@@ -30,20 +32,17 @@
 | മനഃപൂർവ്വം | intentional |
 | കൊതി | eagerness (literally: greed) |
 | തങ്കമ്മ | a feminine name |
-
-<!-- Source: PDF page 311; printed page 254. -->
-
-| Malayalam | English |
-|---|---|
-| തയ്യാർ | readiness |
+| <!-- Source: PDF page 311; printed page 254. --> തയ്യാർ | readiness |
 | വലത് | right |
 | തിരിയുക | to turn (intransitive) |
 | ഇല്ലാതെ | without (negative participle of ഉണ്ട്) |
 | വീഴുക | to fall |
 | വീഴാതെ നോക്കണേ! | be careful not to fall down! |
 
+<a id="lesson18-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
 
+<a id="lesson18-a"></a><!-- reading-anchor -->
 ### A.
 
 Note how ‘അല്ലെ’ and ‘-ാതെ’ join to verb stems to form the negative participle and commands.
@@ -63,6 +62,7 @@ Note how ‘അല്ലെ’ and ‘-ാതെ’ join to verb stems to form t
 | ചോദിക്കല്ലെ | ചോദിക്കാതെ |
 | പറയല്ലെ | പറയാതെ |
 
+<a id="lesson18-b"></a><!-- reading-anchor -->
 ### B.
 
 Note how ‘യ’ joins to preceding consonants in these examples.
@@ -73,17 +73,13 @@ Note how ‘യ’ joins to preceding consonants in these examples.
 | ത + യ = ത്യ | സാഹിത്യം |
 | ദ + യ = ദ്യ | ആദ്യത്തെ |
 | ര + യ = ര്യ | ഭാര്യ |
-
-<!-- Source: PDF page 312; printed page 255. -->
-
-| Combination | As in |
-|---|---|
-| ല + യ = ല്യ | കല്യാണം |
+| <!-- Source: PDF page 312; printed page 255. --> ല + യ = ല്യ | കല്യാണം |
 | ശ + യ = ശ്യ | അത്യാവശ്യം |
 | സ + യ = സ്യ | പരസ്യം |
 | ഹ + യ = ഹ്യ | സഹ്യപർവ്വതം |
 | ന + ത + യ = ന്ത്യ | വാരാന്ത്യപ്പതിപ്പ് |
 
+<a id="lesson18-c"></a><!-- reading-anchor -->
 ### C.
 
 Note how ‘ര’ joins to preceding consonants in these examples.
@@ -98,8 +94,10 @@ Note how ‘ര’ joins to preceding consonants in these examples.
 | ഷ് + ട + ര = ഷ്ട്ര | അന്താരാഷ്ട്രിയ |
 | സ + ത + ര = സ്ത്ര | സ്ത്രീ |
 
+<a id="lesson18-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
+<a id="lesson18-u0d32u0d32u0d2fu0d1f-u0d35u0d1fu0d1fu0d32u0d15u0d15---u0d35u0d34u0d2eu0d26u0d27u0d2f"></a><!-- reading-anchor -->
 ### ലീലയുടെ വീട്ടിലേക്ക് - വഴിമദ്ധ്യേ
 
 **റ്റീച്ചർ:** ഇനിയും വളരെ ദൂരമുണ്ടോ?
@@ -119,6 +117,7 @@ Note how ‘ര’ joins to preceding consonants in these examples.
 **ലീല:** നല്ല ഇറക്കം ആണ്. റ്റീച്ചർ വീഴാതെ നോക്കണേ!
 <!-- Source: PDF page 313; printed page 256. -->
 
+<a id="lesson18-exercises"></a><!-- reading-anchor -->
 ## Exercises
 
 **1.** Change the verbs in the following sentences to the negative requests and commands forms shown in Section A of this lesson’s reading practice:
@@ -225,8 +224,10 @@ Note how ‘ര’ joins to preceding consonants in these examples.
 9. അയാൾക്ക് ധാരാളം സ്ത്രീകളെ അറിയാം.
 10. യുവതികൾ ധാരാളം സിനിമ കാണുന്നു.
 
+<a id="lesson18-grammar-notes"></a><!-- reading-anchor -->
 ## Grammar Notes
 
+<a id="section-18-1"></a><!-- reading-anchor -->
 ### 18.1 The Colloquial Locative Ending ഏ
 
 This lesson's conversation contains two examples of a special short locative ending ഏ or എ.
@@ -238,6 +239,7 @@ Only a few items permit this ending, and those which do also take the more regul
 
 3. എന്റെ സമീപേ വരു. — “Come near me.”
 
+<a id="section-18-2"></a><!-- reading-anchor -->
 ### 18.2 How to Tell Your Left Hand from Your Right
 
 The basic adjectives for “right” and “left” can be seen in the following:
@@ -256,12 +258,13 @@ This lesson's conversation contains the following expression:
 
 <!-- Source: PDF page 317; printed page 260. -->
 
-You can recognize ഇടത് as the adjective “left” and -ഉള്ള as the marker of a relative clause (see 14.4). The unknown element in the middle, -ാ-ട്ട്, is a formant meaning “in the direction of.” It never stands alone, but it is also found in the trio ഇങ്ങോട്ട് “in this direction, this way,” അങ്ങോട്ട് “in that direction, that way,” and എങ്ങോട്ട് “in which direction, which way” (see Reference List in Lesson Two).
+You can recognize ഇടത് as the adjective “left” and -ഉള്ള as the marker of a relative clause (see [14.4](lesson14.md#section-14-4)). The unknown element in the middle, -ാ-ട്ട്, is a formant meaning “in the direction of.” It never stands alone, but it is also found in the trio ഇങ്ങോട്ട് “in this direction, this way,” അങ്ങോട്ട് “in that direction, that way,” and എങ്ങോട്ട് “in which direction, which way” (see Reference List in Lesson Two).
 
 The difference between the right and left hand is of tremendous cultural significance in India. Traditionally one eats with the right hand rather than with implements. The left hand is kept completely apart from one's food because, being used for toilet functions, it is ritually polluting, even though washing is strictly observed. It is for this reason, too, that things are given and received with the right hand only wherever possible.
 
 Also related to the concept of ritual pollution are Indian bathing customs. According to these, no part of the body is put into a container of water to be washed. Instead, water is dipped out of a bucket in a small vessel and poured over the particular part of the anatomy to be washed. Hindus, in whose religion these concepts of pollution are highly defined, will also protect themselves against the pollution of a drinking vessel or a cold drink bottle by deftly pouring the contents into the mouth without ever touching the lips into the container.
 
+<a id="section-18-3"></a><!-- reading-anchor -->
 ### 18.3 Using the Name as a Term of Address
 
 This lesson’s conversation contains the sentence:
@@ -284,9 +287,10 @@ Here the teacher is speaking directly to Leela, but following the common convent
 
 <!-- Source: PDF page 318; printed page 261. -->
 
+<a id="section-18-4"></a><!-- reading-anchor -->
 ### 18.4 The Negative Conjunctive Verbform
 
-The use of the conjunctive verbform as a means of joining two sentences into a single complex sentence was treated in 13.3. When the verb in the first clause is negative, then the negative conjunctive must be used.
+The use of the conjunctive verbform as a means of joining two sentences into a single complex sentence was treated in [13.3](lesson13.md#section-13-3). When the verb in the first clause is negative, then the negative conjunctive must be used.
 
 **Forms:** The negative conjunctive is made from the present verbstem plus the ending -ാതെ. Note that the positive conjunctive always carries -ിട്ട് though it is often deleted whereas the negative form ending in -ാതെ never takes -ിട്ട്.
 
@@ -304,7 +308,7 @@ The use of the conjunctive verbform as a means of joining two sentences into a s
 
    “You won't pass the exam unless you study well.”
 
-The negatives of several defective verbs such as അല്ല, ഇല്ല, വേണ്ട and വയ്യ take -ാതെ, but only ഇല്ലാതെ is a conjunctive verbform. The form അല്ലാതെ when introducing a sentence means "other than that". When preceded by a noun, it functions as a postposition meaning “other than” (see Appendix D). The form വേണ്ടാതെ serves as a baseform, as all forms in -ാതെ do, for negative adjectival clauses and noun phrases (see 19.5).
+The negatives of several defective verbs such as അല്ല, ഇല്ല, വേണ്ട and വയ്യ take -ാതെ, but only ഇല്ലാതെ is a conjunctive verbform. The form അല്ലാതെ when introducing a sentence means "other than that". When preceded by a noun, it functions as a postposition meaning “other than” (see Appendix D). The form വേണ്ടാതെ serves as a baseform, as all forms in -ാതെ do, for negative adjectival clauses and noun phrases (see [19.5](lesson19.md#section-19-5)).
 
 4. റ്റിക്കറ്റ് കൈയ്യിലില്ലാതെ ബസ്സിൽ കയറണ്ട.
 
@@ -396,6 +400,7 @@ The same construction is used to make the negative hortative (let’s) verbform.
 
     “I hope the harvest would be good this year.”
 
+<a id="section-18-5"></a><!-- reading-anchor -->
 ### 18.5 Polite Negative Commands
 
 The most polite negative command consists of the present verbstem plus ...alle... and it is viewed more as a request by Malayalam speakers.
@@ -418,6 +423,7 @@ This form is usually used in anticipation of an upcoming situation. The negative
 
 Section A of the Reading Practice for this lesson has a list of these forms. There are no irregulars. Exercise 1 of this lesson provides ample examples.
 
+<a id="section-18-6"></a><!-- reading-anchor -->
 ### 18.6 Compound Verbs Showing Unintentional Involvement
 
 A transitive verb may form a compound with പോകുക signifying that the action of the verb took place without the willful participation of the subject. For example, this lesson’s conversation contains the sentence:
@@ -446,11 +452,12 @@ We often convey this meaning in English by using a pseudo passive construction w
 
 <!-- Source: PDF page 322; printed page 265. -->
 
-It will be remembered (see 11.3) that when intransitive verbs form a compound with പോകുക, it denotes completion of the action of the verb.
+It will be remembered (see [11.3](lesson11.md#section-11-3)) that when intransitive verbs form a compound with പോകുക, it denotes completion of the action of the verb.
 
+<a id="section-18-7"></a><!-- reading-anchor -->
 ### 18.7 Equational and Cleft Sentences with ഉള്ളത്
 
-It will be remembered that the predicate of an equational sentence in Malayalam must be a noun, not an adjective. Therefore, when possessive adjectives (see 9.1) and the few real adjectives in the language form the predicate on an equative sentence, they must add -അത് before the copula ആണ്, or any other form of the verb ആകുക. Similarly, words, phrases, or clauses, made into adjectives with -ഉള്ള ( the present participle of ഉണ്ട്. See 14.4 ) must also be made into verbal nouns i.e., noun phrases by the addition of അത് in such cases. Witness:
+It will be remembered that the predicate of an equational sentence in Malayalam must be a noun, not an adjective. Therefore, when possessive adjectives (see [9.1](lesson9.md#section-9-1)) and the few real adjectives in the language form the predicate on an equative sentence, they must add -അത് before the copula ആണ്, or any other form of the verb ആകുക. Similarly, words, phrases, or clauses, made into adjectives with -ഉള്ള ( the present participle of ഉണ്ട്. See [14.4](lesson14.md#section-14-4) ) must also be made into verbal nouns i.e., noun phrases by the addition of അത് in such cases. Witness:
 
 1. ഇപ്പോൾ കിട്ടിയ വാർത്ത സന്തോഷമുള്ളതാണ്.
 
@@ -498,6 +505,7 @@ The normal order would, of course, be:
 
    “...it is four furlongs.”
 
+<a id="section-18-8"></a><!-- reading-anchor -->
 ### 18.8 Rhetorical Questions as Emphatic Statements
 
 This lesson’s conversation contains the sentence:
@@ -518,11 +526,7 @@ This question is unusual in two ways. Firstly, it is a question in form only. Fu
 
 These questions take a special intonation pattern, with the pitch rising to a high level after എന്ത്, then falling only to a medium pitch with a level contour on the final syllable -ന്നോ. The final syllable is also somewhat stressed.
 
-This type of rhetorical question conveys what the speaker feels is new information to the addressee, i.e., pointing out something which he is not aware of, but the speaker is. This
-
-<!-- Source: PDF page 324; printed page 267. -->
-
-contrasts to the situations involving old information, i.e where the speaker supposes that the listener also shares his view, or expects agreement with his statement. In these cases, an exclamation takes the form of a statement with -അല്ലോ. or a question without -എന്നോ. Witness:
+This type of rhetorical question conveys what the speaker feels is new information to the addressee, i.e., pointing out something which he is not aware of, but the speaker is. This <!-- Source: PDF page 324; printed page 267. --> contrasts to the situations involving old information, i.e where the speaker supposes that the listener also shares his view, or expects agreement with his statement. In these cases, an exclamation takes the form of a statement with -അല്ലോ. or a question without -എന്നോ. Witness:
 
 4. ഇതിന് വലിയ വിലയാണല്ലോ!
 
@@ -533,3 +537,11 @@ This could either be used to a fellow shopper, or to the shopkeeper whom, one wo
 5. കുട്ടികൾ എത്ര വേഗമാണ് വളർന്നത്!
 
    “How fast children grow.”
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Lesson 17](lesson17.md) · [Contents](contents.md) · [Next: Lesson 19 →](lesson19.md)
+
+<!-- /reading-navigation -->

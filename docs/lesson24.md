@@ -1,7 +1,9 @@
+<a id="lesson24"></a><!-- reading-anchor -->
 # Lesson 24
 
 <!-- Source: PDF page 430; printed page 369. -->
 
+<a id="lesson24-reference-list"></a><!-- reading-anchor -->
 ## Reference List
 
 | Verb | Meaning | Derived Noun | Meaning |
@@ -33,12 +35,7 @@
 | ആകർഷിക്കുക | to attract | ആകർഷണം | attraction |
 | വളരുക | to grow (intr.) | വളർച്ച | growth |
 | നേടുക | to achieve | നേട്ടം | achievement |
-
-<!-- Source: PDF page 431; printed page 370. -->
-
-| Verb | Meaning | Derived Noun | Meaning |
-|---|---|---|---|
-| കുറയുക | to diminish | കുറവ് | shortcoming |
+| <!-- Source: PDF page 431; printed page 370. --> കുറയുക | to diminish | കുറവ് | shortcoming |
 | എതിർക്കുക | to oppose | എതിർപ്പ് | opposition |
 | തിരുത്തുക | to correct | തിരുത്ത് | correction |
 | ഓർക്കുക | to remember | ഓർമ്മ | memory |
@@ -59,6 +56,7 @@
 | ഇരിക്കുക | to sit | ഇരിപ്പ് | the act of sitting |
 | കിടക്കുക | to lie down | കിടപ്പ് | the act of lying down |
 
+<a id="lesson24-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
 | Malayalam | Meaning |
@@ -69,12 +67,7 @@
 | കിടപ്പ് (verbal noun) | lying (down), repose |
 | കിടപ്പുമുറി | bedroom |
 | അപേക്ഷിക്കുക | to apply, to request, to entreat |
-
-<!-- Source: PDF page 432; printed page 371. -->
-
-| Malayalam | Meaning |
-|---|---|
-| എറിക്കാട്ട് വീട് | ‘Ericattu house’, Ericattu is a family name |
+| <!-- Source: PDF page 432; printed page 371. --> എറിക്കാട്ട് വീട് | ‘Ericattu house’, Ericattu is a family name |
 | നാഗമ്പടം | Nagampadom, an area of Kottayam |
 | വിധം | type, manner, kind |
 | വിവരം | detail |
@@ -105,12 +98,7 @@
 | എന്തുകൊണ്ടെന്നാൽ | for (the reason that), because |
 | സമൂഹം | society, association, group |
 | വിവാഹമോചനം | divorce |
-
-<!-- Source: PDF page 433; printed page 372. -->
-
-| Malayalam | Meaning |
-|---|---|
-| നേടുക (past: നേടി) | to obtain, gain |
+| <!-- Source: PDF page 433; printed page 372. --> നേടുക (past: നേടി) | to obtain, gain |
 | എതിർക്കുക (past: എതിർത്തു) | to oppose |
 | --കാൾ (accusative) | than -- |
 | -- കൂടാ | can’t, shouldn’t |
@@ -127,8 +115,10 @@
 | തണുക്കുന്നു (past: തണുത്തു) | to be (feel) cold |
 | തണുപ്പ് (noun) | cold (temperature) |
 
+<a id="lesson24-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
 
+<a id="lesson24-a"></a><!-- reading-anchor -->
 ### A.
 
 Note how comparisons are made in the following sentences.
@@ -141,6 +131,7 @@ Note how comparisons are made in the following sentences.
 
 <!-- Source: PDF page 434; printed page 373. -->
 
+<a id="lesson24-b"></a><!-- reading-anchor -->
 ### B.
 
 Note how superlatives are expressed in these sentences.
@@ -151,8 +142,10 @@ Note how superlatives are expressed in these sentences.
 4. കമലയാണ് ഏറ്റവും നല്ലതായിട്ട് പാടിയത്.
 5. ഏറ്റവും അധികം ആളുകൾ വായിക്കുന്ന പത്രം മനോരമയാണ്.
 
+<a id="lesson24-sample-newspaper-advertisements"></a><!-- reading-anchor -->
 ## Sample Newspaper Advertisements
 
+<a id="lesson24-u0d35u0d7du0d2au0d2au0d28u0d2au0d2au0d30u0d38u0d2f"></a><!-- reading-anchor -->
 ### വിൽപ്പനപ്പരസ്യം
 
 പാലാരിവട്ടം ജനതാ ജംഗ്ഷന് സമീപം മൂന്നു കിടപ്പുമുറിയോട് കൂടിയ ഒരു വീട് വിൽക്കാനുണ്ട്.
@@ -162,6 +155,7 @@ Note how superlatives are expressed in these sentences.
 പി. കേശവൻ, എറിക്കാട്ട് വീട്,  
 എറണാകുളം - 28
 
+<a id="lesson24-u0d35u0d1fu0d15u0d2au0d2au0d30u0d38u0d2f"></a><!-- reading-anchor -->
 ### വാടകപ്പരസ്യം
 
 നാഗമ്പടത്ത് എല്ലാവിധ സൗകര്യങ്ങളോട് കൂടിയ ഒരു വീട് വാടകക്ക് കൊടുക്കാൻ ഉണ്ട്. കൂടുതൽ വിവരങ്ങൾക്ക് നേരിൽ അപേക്ഷിക്കുക.
@@ -169,6 +163,7 @@ Note how superlatives are expressed in these sentences.
 ബോക്സ് നമ്പർ - 30,  
 മനോരമ, കോട്ടയം.
 
+<a id="lesson24-u0d35u0d35u0d39u0d15u0d2au0d2au0d30u0d38u0d2f"></a><!-- reading-anchor -->
 ### വൈവാഹികപ്പരസ്യം
 
 ബോംബെയിൽ നേഴ്സായിട്ട് ജോലിയുള്ള 27 വയസ്സ്, അഞ്ചര അടി പൊക്കം, വെളുത്ത നിറം, വണ്ണം കുറഞ്ഞതുമായ നായർ യുവതിക്ക് എൻജിനീയറോ ഡാക്ടറോ ആയ ഒരു നായർ വരനെ ആവശ്യമുണ്ട്.
@@ -181,6 +176,7 @@ Note how superlatives are expressed in these sentences.
 
 <!-- Source: PDF page 435; printed page 374. -->
 
+<a id="lesson24-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
 **ബിൽ:** കമലേ, ഞാൻ ഒരു കാര്യം ചോദിച്ചു കൊള്ളട്ടെ.
@@ -207,6 +203,7 @@ Note how superlatives are expressed in these sentences.
 
 <!-- Source: PDF page 436; printed page 375. -->
 
+<a id="lesson24-exercises"></a><!-- reading-anchor -->
 ## Exercises
 
 **1.** Combine the pairs of sentences below into single sentences using the comparative as in the models.
@@ -230,6 +227,7 @@ b) കമലക്ക് ചായ ഇഷ്ടമാണ്. കമലക്ക�
 
 <!-- Source: PDF page 437; printed page 376. -->
 
+<a id="lesson24-a-2"></a><!-- reading-anchor -->
 ### A.
 
 **Model:** ഞാൻ <u>അപേക്ഷിക്കുന്നത്</u> നിങ്ങൾ ഒന്നു കേൾക്കു.<br>എന്റെ അപേക്ഷ നിങ്ങൾ ഒന്നു കേൾക്കു.
@@ -238,6 +236,7 @@ b) കമലക്ക് ചായ ഇഷ്ടമാണ്. കമലക്ക�
 2. അവർ <u>സംസാരിക്കുന്നത്</u> കേൾക്കാനാണ് രമ ആ കുട്ടികളുടെ കൂടെ ഇരിക്കുന്നത്.
 3. അവൾ <u>പാടുന്നത്</u> കേൾക്കാൻ നല്ല രസമാണ്. (ആണ് will change to ഉണ്ട്)
 
+<a id="lesson24-b-2"></a><!-- reading-anchor -->
 ### B.
 
 **Model:** കൃഷ്ണപിള്ളയുടെ അസുഖം <u>കുറഞ്ഞു</u>.<br>കൃഷ്ണപിള്ളയുടെ അസുഖത്തിന് കുറവുണ്ട്.
@@ -246,6 +245,7 @@ b) കമലക്ക് ചായ ഇഷ്ടമാണ്. കമലക്ക�
 2. മലയാള സാഹിത്യം കഴിഞ്ഞ ഇരുപതു വർഷത്തിൽ വളരെ <u>വളർന്നു</u>.
 3. മകൻ ക്ലാസിൽ ഒന്നാമനായതുകൊണ്ട് അയാൾ <u>സന്തോഷിക്കുന്നു</u>.
 
+<a id="lesson24-c"></a><!-- reading-anchor -->
 ### C.
 
 **Model:** കുട്ടിക്ക് <u>തണുക്കുന്നു</u>.<br>കുട്ടിക്ക് തണുപ്പ് ഉണ്ട്.
@@ -254,6 +254,7 @@ b) കമലക്ക് ചായ ഇഷ്ടമാണ്. കമലക്ക�
 2. കേശവന് വളരെ അധികം കാര്യങ്ങളെപ്പറ്റി <u>അറിയാം</u>.
 3. തങ്കമ്മക്ക് <u>ദാഹിക്കുന്നത്</u> കൊണ്ട് നമുക്ക് ഇവിടെ ഇറങ്ങി വല്ലതും കുടിക്കാം.
 
+<a id="lesson24-d"></a><!-- reading-anchor -->
 ### D.
 
 **Model:** നീ ആരെയാണ് <u>ഇഷ്ടപ്പെടുന്നത്</u>.<br>നിനക്ക് ആരോടാണ് <u>ഇഷ്ടം ഉള്ളത്</u>.
@@ -263,6 +264,7 @@ b) കമലക്ക് ചായ ഇഷ്ടമാണ്. കമലക്ക�
 
 **3.** Change the sentences according to the model in A. B. and C.
 
+<a id="lesson24-a-3"></a><!-- reading-anchor -->
 ### A.
 
 **Model:** അവൾ എന്റെ കൂടെ വരുന്നില്ല.<br>അവൾ എന്റെകൂടെ വരുന്നില്ല, എന്തുകൊണ്ടെന്നാൽ അവൾക്ക് എന്റെ കൂടെ വരാൻ മേല.
@@ -275,10 +277,12 @@ b) കമലക്ക് ചായ ഇഷ്ടമാണ്. കമലക്ക�
 4. അനിയൻ കാപ്പി കുടിക്കുകയില്ല.
 5. വേലക്കാരി ഈ മുറിയിൽ കയറുകയില്ല.
 
+<a id="lesson24-b-3"></a><!-- reading-anchor -->
 ### B.
 
 **Model:** അവൾ എന്റെ കൂടെ വരുന്നില്ല.<br>അവൾ എന്റെ കൂടെ വരുന്നില്ല, എന്തുകൊണ്ടെന്നാൽ അവൾ എന്റെകൂടെ വരാൻ പാടില്ല എന്ന് അമ്മപറഞ്ഞു.
 
+<a id="lesson24-c-2"></a><!-- reading-anchor -->
 ### C.
 
 **Model:** അവൾ എന്റെ കൂടെ വരുന്നില്ല.<br>അവൾ എന്റെ കൂടെ വരുന്നില്ല, എന്തെന്നാൽ അവൾ എന്റെ കൂടെ വന്നു കൂടാ എന്ന് അമ്മ പറഞ്ഞു.
@@ -311,8 +315,10 @@ b) കമലക്ക് ചായ ഇഷ്ടമാണ്. കമലക്ക�
 11. അമേരിക്കയിലെ രീതികൾ ധാരാളം മലയാളികൾക്ക് അപരിചിതമാണ്. ഉദാഹരണമായി കേരളത്തിൽ വയസ്സായ അച്ഛന്മാരും അമ്മമാരും മക്കളുടെ കൂടെ താമസിക്കുന്നു. അമേരിക്കയിൽ ഇത് സാധാരണയല്ല.
 12. സമൂഹത്തിനെ എതിർക്കുന്ന ആരും കഷ്ടപ്പെടും.
 
+<a id="lesson24-lesson-twenty-four-grammar-notes"></a><!-- reading-anchor -->
 ## Lesson Twenty-Four Grammar Notes
 
+<a id="section-24-1"></a><!-- reading-anchor -->
 ### 24.1 Nouns Derived from Verbs
 
 The Reference List for this lesson contains examples of nouns derived from verbs. The three groups reflect a rough categorization according to meaning. Nouns in the first group represent the result or, in some cases, the object, of the action. Witness:
@@ -349,13 +355,9 @@ There are actually four types of nouns which derive from verbs. Some types are m
 8. അവന്റെ താമസിച്ചുള്ള വരവ് നല്ലതല്ല.  
    “His coming late is not good.”
 
-In example 7, the elements associated with the verbal noun വരുന്നത് are in the same form that they have when the noun functions as the main verb of a sentence. The subject of the action is in the nominative, and the adverb താമസിച്ച് shows the conjunctive form. In Example 8, on the other hand, the word expressing the subject or doer of the action described in
+In example 7, the elements associated with the verbal noun വരുന്നത് are in the same form that they have when the noun functions as the main verb of a sentence. The subject of the action is in the nominative, and the adverb താമസിച്ച് shows the conjunctive form. In Example 8, on the other hand, the word expressing the subject or doer of the action described in <!-- Source: PDF page 441; printed page 380. --> the derived noun വരവ് shows the possessive form, while the adverb has been made into an adjective by adding -ഉള്ള. Verbal nouns formed with -അത് are only one degree less noun-like than the derived nouns in the Reference List. They can occur in all structures which permit nouns, can take all the noun (case) endings, can be governed by all postpositions, but their modifiers are those which accompany verbs, not those for nouns (see Example 7 above).
 
-<!-- Source: PDF page 441; printed page 380. -->
-
-the derived noun വരവ് shows the possessive form, while the adverb has been made into an adjective by adding -ഉള്ള. Verbal nouns formed with -അത് are only one degree less noun-like than the derived nouns in the Reference List. They can occur in all structures which permit nouns, can take all the noun (case) endings, can be governed by all postpositions, but their modifiers are those which accompany verbs, not those for nouns (see Example 7 above).
-
-The -ാൻ verbforms, referred to elsewhere as the gerund or infinitive (see 5.2), is much more verb-like, and less noun-like, than either the derived noun or the verbal noun in -അത്. Not only does it take verb-type modifiers, it can accept neither postpositions nor noun endings. It can, however, occur in a few structures where regular nouns are permitted. These include the subject function in equative sentences in general, the function of object for a small number of verbs, and the dative case role in some instances. Witness:
+The -ാൻ verbforms, referred to elsewhere as the gerund or infinitive (see [5.2](lesson5.md#section-5-2)), is much more verb-like, and less noun-like, than either the derived noun or the verbal noun in -അത്. Not only does it take verb-type modifiers, it can accept neither postpositions nor noun endings. It can, however, occur in a few structures where regular nouns are permitted. These include the subject function in equative sentences in general, the function of object for a small number of verbs, and the dative case role in some instances. Witness:
 
 9. അത് ഇപ്പോൾ ഓർക്കാൻ എനിക്ക് പ്രയാസമാണ്.  
    “It’s difficult for me to recall it right now.”
@@ -364,18 +366,14 @@ The -ാൻ verbforms, referred to elsewhere as the gerund or infinitive (see 5.
 11. അവർ ഞങ്ങളെ സിനിമാശാലയിൽ കയറാൻ സമ്മതിക്കുകയില്ലായിരുന്നു.  
     “They wouldn’t let us enter the movie theater”
 
-Least noun-like of all verbal nouns is the citation form of the verb ending in -ഉക. It is commonly found in a noun slot only as the object of ചെയ്യുക in the emphatic verbform (see 23.3). It may also appear with പ്രയാസം, and വേണം and may be substituted in Example 9 above, though the -ാൻ form is more common. The use of the -ഉക form elsewhere requires embedding of one sort or another and, therefore, are irrelevant to this discussion, since they are not places where ordinary-nouns can occur. Here are a couple of interesting examples.
+Least noun-like of all verbal nouns is the citation form of the verb ending in -ഉക. It is commonly found in a noun slot only as the object of ചെയ്യുക in the emphatic verbform (see [23.3](lesson23.md#section-23-3)). It may also appear with പ്രയാസം, and വേണം and may be substituted in Example 9 above, though the -ാൻ form is more common. The use of the -ഉക form elsewhere requires embedding of one sort or another and, therefore, are irrelevant to this discussion, since they are not places where ordinary-nouns can occur. Here are a couple of interesting examples.
 
 12. അത് ഇപ്പോൾ ഓർക്കുകയെന്നത് എനിക്ക് എളുപ്പമുള്ള കാര്യമല്ല.  
     “It’s not an easy matter for me to remember that now.”
 13. നിങ്ങൾ അവിടെ പോകുകയല്ലാതെ വേറെ വഴിയൊന്നുമില്ല.  
     “There’s no other way but for you to go there.”
 
-Example 13 might seem to show the -ഉക form governed by a postposition, അല്ലാതെ “without.” Actually, അല്ലാതെ here functions as a subordinate conjunction linking the
-
-<!-- Source: PDF page 442; printed page 381. -->
-
-appositional clause to the main sentence. When used with conjunctive -ഉം or disjunctive -ഓ, this construction is not emphatic.
+Example 13 might seem to show the -ഉക form governed by a postposition, അല്ലാതെ “without.” Actually, അല്ലാതെ here functions as a subordinate conjunction linking the <!-- Source: PDF page 442; printed page 381. --> appositional clause to the main sentence. When used with conjunctive -ഉം or disjunctive -ഓ, this construction is not emphatic.
 
 14. കുട്ടികൾ ആടുകയും പാടുകയും ചെയ്തു.  
     “The children danced and sang.”
@@ -384,6 +382,7 @@ appositional clause to the main sentence. When used with conjunctive -ഉം or 
 
 Returning to the derived nouns in the Reference List, it may be seen that they show a variety of endings. Andrewskutty has suggested that there is some connection between the ending and the meaning of the noun. These are not regular enough to be of value in learning the language. The best policy will be to learn each verbal noun on its own terms, for this is how you will have to know them in order to control the language well in any case.
 
+<a id="section-24-2"></a><!-- reading-anchor -->
 ### 24.2 How to Form Comparatives and Superlatives
 
 The standard comparative statement consists of four elements: 1) the item being compared, which occurs as the subject of the sentence, 2) the item, or standard, with which it is compared, which requires the postposition -കാൾ takes the accusative, so that the standard of comparison always appears in the accusative. When the verb of the sentence is ആണ്, the quality being compared must be in the form of a noun i.e., a predicate nominal, never an adjective.
@@ -484,9 +483,10 @@ Superlatives of Adverbs: Superlative adverbs involve the notion “as-as possibl
 
 23. a. ഞാൻ ഇത് കഴിയുന്നതും വേഗം ചെയ്യാം.<br>b. ഞാൻ കഴിയുന്നത്ര വേഗം ചെയ്യാം.<br>c. ഞാൻ ഇത് എത്രയും വേഗം ചെയ്യാം.<br>d. ഞാൻ കഴിവുള്ളിടത്തോളം ചെയ്യാം. — “I'll do this as fast as possible.”
 
+<a id="section-24-3"></a><!-- reading-anchor -->
 ### 24.3 The Compound Verb Showing Self-Benefit
 
-The formation of compound verbs was explained in 21.7. One of the more common compound verbs is that formed with കൊള്ളുക. Its lexical meaning “to fit within something, to be affected by something, or to hit something (one thing hitting another)” has no relationship to the shades of meaning it adds as second member of a compound verb. Most of its uses have the common meaning that the action of the main verb is for the benefit of the speaker, hence the term “self-benefactive.” It is often used in a positive response to a request for permission to do something. Witness:
+The formation of compound verbs was explained in [21.7](lesson21.md#section-21-7). One of the more common compound verbs is that formed with കൊള്ളുക. Its lexical meaning “to fit within something, to be affected by something, or to hit something (one thing hitting another)” has no relationship to the shades of meaning it adds as second member of a compound verb. Most of its uses have the common meaning that the action of the main verb is for the benefit of the speaker, hence the term “self-benefactive.” It is often used in a positive response to a request for permission to do something. Witness:
 
 1. A. എനിക്ക് തണുപ്പ് കൊള്ളുന്നു. ഞാൻ ആ ജനൽ അടച്ചുകൊള്ളട്ടെ. — “I'm feeling the cold; may I close that window?”<br>B. ഓ, അടച്ചുകൊള്ളു. — “Sure, go ahead and close it” (if you want to).
 2. A. ഞാൻ ഈ പുസ്തകം എടുത്തുകൊണ്ടുപോയി വായിക്കട്ടെ? — “May I take this book and read it?”<br>B. ശരി, കൊണ്ടുപോയി വായിച്ചുകൊള്ളു. — “O.K., go ahead.”
@@ -506,9 +506,10 @@ Finally, in spoken Malayalam, കൊള്ളുക is used with unsolicited com
 5. എന്റെ കൂടെ പാടിക്കോ. — “Sing along with me.”
 6. എല്ലാവരും ഇരുന്നോ. — “Everyone may sit down.”
 
+<a id="section-24-4"></a><!-- reading-anchor -->
 ### 24.4 Placement of Articles and Other Elements in the Noun Phrase
 
-In general the order of elements within the noun phrase in Malayalam parallels that of English, hence there have been only a few mentions of it previously (see 3.2). The one exception to come up in these lessons so far is the relative clause (see 14.4 and 20.1) which must appear to the left of the noun, in the normal adjective slot, in Malayalam rather than to the right of the noun as in English. In the mock advertisements in this lesson's Text, however, a few phrases show unusual ordering which bears comment. In these the indefinite article ഒരു “a, one” occurs between the adjective (actually a relative clause in this case) and its noun rather than before the adjective as both your English intuition and the previous lessons would lead you to expect. Witness:
+In general the order of elements within the noun phrase in Malayalam parallels that of English, hence there have been only a few mentions of it previously (see [3.2](lesson3.md#section-3-2)). The one exception to come up in these lessons so far is the relative clause (see [14.4](lesson14.md#section-14-4) and 20.1) which must appear to the left of the noun, in the normal adjective slot, in Malayalam rather than to the right of the noun as in English. In the mock advertisements in this lesson's Text, however, a few phrases show unusual ordering which bears comment. In these the indefinite article ഒരു “a, one” occurs between the adjective (actually a relative clause in this case) and its noun rather than before the adjective as both your English intuition and the previous lessons would lead you to expect. Witness:
 
 <!-- Source: PDF page 448; printed page 387. -->
 
@@ -536,11 +537,7 @@ Putting the above patterns together yields a phrase like:
 
 8. അച്ഛന്റെ പല പഴയതായ അഭിപ്രായങ്ങൾ — “several of father's outdated opinions”
 
-It may be seen from Example 8 that the order of elements in the noun phrase is: possessive (determiner), quantifier, adjective, and noun. For completeness, it must be pointed
-
-<!-- Source: PDF page 449; printed page 388. -->
-
-out that a second minor quantifier may also occur. It immediately precedes the major quantifier and specifies the quantity in it, whereas the major quantifier specifies the quantity with respect to the head noun of the phrase. This phrase, containing two quantifiers, has already appeared in Lesson Nineteen:
+It may be seen from Example 8 that the order of elements in the noun phrase is: possessive (determiner), quantifier, adjective, and noun. For completeness, it must be pointed <!-- Source: PDF page 449; printed page 388. --> out that a second minor quantifier may also occur. It immediately precedes the major quantifier and specifies the quantity in it, whereas the major quantifier specifies the quantity with respect to the head noun of the phrase. This phrase, containing two quantifiers, has already appeared in Lesson Nineteen:
 
 9. വളരെ അധികം ജോലി — “a very | great deal of | work”
 
@@ -563,22 +560,24 @@ An alternative order also exists for any noun phrase containing a quantifier. Th
 13. അയാളുടെ കൂട്ടുകാരിൽ ചിലർ — “some of his friends”
 14. മേനോൻ സാറിന്റെ പഴയ പുസ്തകങ്ങളിൽ പലത് — “several of Mr. Menon's old books”
 
+<a id="section-24-5"></a><!-- reading-anchor -->
 ### 24.5 Alternative Ways to Make Relative Clauses from Postpositions
 
-Postpositions are usually made into relative (adjectival) clauses by adding -ഉള്ള (see 14.4). A couple of postpositions may alternatively directly add the adjectival ending -അ, with an appropriate joining device namely യ. Witness:
+Postpositions are usually made into relative (adjectival) clauses by adding -ഉള്ള (see [14.4](lesson14.md#section-14-4)). A couple of postpositions may alternatively directly add the adjectival ending -അ, with an appropriate joining device namely യ. Witness:
 
 1. അവൾക്ക് വേണ്ടിയ പേന — “the pen which is for her”
 2. രണ്ടു കുളിമുറിയോടു കൂടിയ വീട് — “a house with two bathrooms”
 
-Section 14.5 dealt with some words which take the special possessive ending -ത്തെ. This same ending is used to make relative clauses from phrases ending in a locative postposition. c.f.
+Section [14.5](lesson14.md#section-14-5) dealt with some words which take the special possessive ending -ത്തെ. This same ending is used to make relative clauses from phrases ending in a locative postposition. c.f.
 
 3. മുകളിലത്തെ കിടപ്പുമുറി — “the upstairs bedroom”
 4. മുറിയുടെ അകത്തെ സാധനങ്ങൾ — “the things inside the room”
 5. പള്ളിയുടെ അപ്പുറത്തെ വീടുകൾ — “the houses beyond the church”
 
+<a id="section-24-6"></a><!-- reading-anchor -->
 ### 24.6 Several More Ways to Say “Can”
 
-In 6.3, you learned that the -ാം verbform in its potential sense, i.e., with a dative personal subject, carries the idea of “can.” This construction can refer either to internal ability (a person's innate capacity to do something) or to external ability (whether or not the conditions in the situation will permit one to do something). Often the situation, or the meaning of the verb being used, makes it clear whether internal or external ability is intended. Witness the two possible interpretations of one sentence in:
+In [6.3](lesson6.md#section-6-3), you learned that the -ാം verbform in its potential sense, i.e., with a dative personal subject, carries the idea of “can.” This construction can refer either to internal ability (a person's innate capacity to do something) or to external ability (whether or not the conditions in the situation will permit one to do something). Often the situation, or the meaning of the verb being used, makes it clear whether internal or external ability is intended. Witness the two possible interpretations of one sentence in:
 
 <!-- Source: PDF page 451; printed page 390. -->
 
@@ -617,11 +616,7 @@ This defective verb, like the three “can” verbs described above, takes the i
 
 9. അമേരിക്കയിൽ കൈ കൊണ്ട് ഊണ് കഴിക്കാൻ പാടില്ല. — “One doesn't eat meals with one's hands in America.”
 
-A second defective verb മേലാ is also used only in the negative. It is the only one of the
-
-<!-- Source: PDF page 453; printed page 392. -->
-
-four which refers to internal ability exclusively, often in the sense of “cannot bring myself to....” Witness:
+A second defective verb മേലാ is also used only in the negative. It is the only one of the <!-- Source: PDF page 453; printed page 392. --> four which refers to internal ability exclusively, often in the sense of “cannot bring myself to....” Witness:
 
 10. എനിക്ക് ഇന്ന് ഒന്നും പഠിക്കാൻ മേലാ. — “I can't (bring myself to) study anything today.”
 
@@ -647,9 +642,10 @@ All three defective verbs may follow negative questions with -ഏ. It takes the 
 
 17. കമലേ, കുഞ്ഞിനെ കുളിപ്പിച്ച് കൊടുക്ക്. — “Kamala, bathe the baby.”<br>എനിക്ക് വയ്യ, അമ്മേ. — “I can't mother.”
 
+<a id="section-24-7"></a><!-- reading-anchor -->
 ### 24.7 Additional Uses of the Addressive/Associative Form of the Noun
 
-Section 8.3 described some uses of the addressive/associative form of the noun. It is required before the postposition കൂടെ “with,” and must be used for the addressee with verbs such as പറയുക “to say” and ചോദിക്കുക “to ask.” It may also be used with the direct object of the verb ചേരുക in the sense of “the match.” (see Lesson Nine).
+Section [8.3](lesson8.md#section-8-3) described some uses of the addressive/associative form of the noun. It is required before the postposition കൂടെ “with,” and must be used for the addressee with verbs such as പറയുക “to say” and ചോദിക്കുക “to ask.” It may also be used with the direct object of the verb ചേരുക in the sense of “the match.” (see Lesson Nine).
 
 Certain indirect expressions of emotion, i.e. those with a dative personal subject, also require the associative form for the direct object of the emotion. In fact, these objects appear in the accusative in direct expressions of the emotions using a verb with a nominative subject. Witness:
 
@@ -660,3 +656,11 @@ Certain indirect expressions of emotion, i.e. those with a dative personal subje
 Alternatively, the verb ആദരിക്കുക “to tender great respect toward” and its derived noun ആദരവ് “highest respect” may be substituted in Example 3 above. In most such indirect expressions ഉണ്ട് may be replaced by തോന്നുക c.f.:
 
 4. എനിക്ക് തിരുമേനിയോട് ബഹുമാനം തോന്നുന്നു.
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Minilesson F](minilesson-f.md) · [Contents](contents.md) · [Next: Minilesson G →](minilesson-g.md)
+
+<!-- /reading-navigation -->

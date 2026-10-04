@@ -1,9 +1,12 @@
+<a id="lesson20"></a><!-- reading-anchor -->
 # Lesson 20
 
 <!-- Source: PDF page 348; printed page 289. -->
 
+<a id="lesson20-reference-list"></a><!-- reading-anchor -->
 ## Reference List
 
+<a id="lesson20-causative-verbs"></a><!-- reading-anchor -->
 ### Causative Verbs
 
 | Intransitive | Transitive | First Causative | Second Causative |
@@ -34,8 +37,10 @@
 
 <!-- Source: PDF page 349; printed page 290. -->
 
+<a id="lesson20-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
+<a id="lesson20-part-i"></a><!-- reading-anchor -->
 ### Part I
 
 | Malayalam | Meaning |
@@ -65,12 +70,7 @@
 | വളരുക (past tense: വളർന്നു) | to grow |
 | കൊണ്ട് | with or by means of (post pos. takes nominative) |
 | അളക്കുക (past tense: അളന്നു) | to measure |
-
-<!-- Source: PDF page 350; printed page 291. -->
-
-| Malayalam | Meaning |
-|---|---|
-| മൂന്നാമത്തെ | third |
+| <!-- Source: PDF page 350; printed page 291. --> മൂന്നാമത്തെ | third |
 | ഭൂമി | earth |
 | അടിയിൽ | beneath, at the bottom of |
 | താഴ്ത്തിക്കളയുക (past tense: താഴ്ത്തിക്കളഞ്ഞു) | to lower, to push something down |
@@ -80,6 +80,7 @@
 | സന്തോഷിപ്പിക്കുക (past tense: സന്തോഷിപ്പിച്ചു) | to make happy |
 | പിന്നിൽ | behind (with possessive) |
 
+<a id="lesson20-part-ii"></a><!-- reading-anchor -->
 ### Part II
 
 | Malayalam | Meaning |
@@ -98,12 +99,7 @@
 | മാസം | month |
 | കളം | design, also the auspicious design drawn by Hindus on the ground in front of the door step |
 | അലങ്കരിക്കുക (past: അലങ്കരിച്ചു) | to decorate |
-
-<!-- Source: PDF page 351; printed page 292. -->
-
-| Malayalam | Meaning |
-|---|---|
-| പ്രധാന | important, main (adj.) |
+| <!-- Source: PDF page 351; printed page 292. --> പ്രധാന | important, main (adj.) |
 | പ്രധാനം | (n.) |
 | ആറ് | river |
 | കായൽ | backwaters |
@@ -122,8 +118,10 @@
 | ഭേദം | difference, distinction, better |
 | ദേശീയ | national |
 
+<a id="lesson20-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
 
+<a id="lesson20-a"></a><!-- reading-anchor -->
 ### A.
 
 Read the following adjective and noun forms of the ordinal numbers.
@@ -137,21 +135,18 @@ Read the following adjective and noun forms of the ordinal numbers.
 | അഞ്ചാമത്തെ | fifth | അഞ്ചാമത് | the fifth |
 | ആറാമത്തെ | sixth | ആറാമത് | the sixth |
 | ഏഴാമത്തെ | seventh | ഏഴാമത് | the seventh |
-
-<!-- Source: PDF page 352; printed page 293. -->
-
-| Adjective | Meaning | Pronoun | Meaning |
-|---|---|---|---|
-| എട്ടാമത്തെ | eighth | എട്ടാമത് | the eighth |
+| <!-- Source: PDF page 352; printed page 293. --> എട്ടാമത്തെ | eighth | എട്ടാമത് | the eighth |
 | ഒൻപതാമത്തെ | ninth | ഒൻപതാമത് | the ninth |
 | പത്താമത്തെ | tenth | പത്താമത് | the tenth |
 
+<a id="lesson20-b"></a><!-- reading-anchor -->
 ### B.
 
 Read the following phrases in which the adjectives formed with -ആയ may be replaced by -ഉള്ള.
 
 സുഖമായ യാത്ര, ഇഷ്ടമായ സ്ത്രീ, രസമായ കറി, വാസ്തവമായ കാര്യം, സന്തോഷമായ വാർത്ത, ആവശ്യമായ പണം, എളുപ്പമായ ജോലി, ആഗ്രഹമായ കാര്യം.
 
+<a id="lesson20-c"></a><!-- reading-anchor -->
 ### C.
 
 Note how -ആയ and -ഉള്ള make different meanings.
@@ -167,20 +162,24 @@ Note how -ആയ and -ഉള്ള make different meanings.
 
 <!-- Source: PDF page 353; printed page 294. -->
 
+<a id="lesson20-d"></a><!-- reading-anchor -->
 ### D.
 
 Note that the following take only -ഉള്ള form.
 
 മടിയുള്ള പയ്യൻ, കൊതിയുള്ള പട്ടി, മിടുക്കുള്ള കുട്ടി (മിടുക്ക് – cleverness), പുതുമയുള്ള സിനിമ (പുതുമ – novelty, newness), പഴമയുള്ള വീഞ്ഞ് (പഴമ – oldness; വീഞ്ഞ് – wine)
 
+<a id="lesson20-e"></a><!-- reading-anchor -->
 ### E.
 
 Note that the following can take only -ആയ.
 
 നല്ലവനായ രാഷ്ട്രപതി, നല്ലവളായ കുട്ടി, രസകരമായ സംഭവം, മിടുക്കനായ പയ്യൻ, മിടുക്കിയായ കമല, കൊതിയനായ പട്ടി (കൊതിയൻ – greedy male person), കൊതിച്ചിയായ മണി (കൊതിച്ചി – fem. form of കൊതിയൻ), അറിവുള്ളവനായ ചക്രവർത്തി (അറിവുള്ളവൻ – a male person who is wise), പ്രധാനമായ വിഷയം, മടിയനായ ക്ലാർക്ക്, മടിച്ചിയായ പട്ടി, പുതിയതായ സാരി (പുതിയത് that which is new), പഴയതായ കാർ (പഴയത് – that which is old)
 
+<a id="lesson20-text-part-i"></a><!-- reading-anchor -->
 ## Text, Part I
 
+<a id="lesson20-u0d13u0d23u0d24u0d24u0d28u0d31-u0d15u0d25"></a><!-- reading-anchor -->
 ### ഓണത്തിന്റെ കഥ
 
 ഓണം മലയാളികളുടെ വിളവെടുപ്പ് ഉൽസവമാണ്. ഓണത്തിന്റെ പിന്നിൽ ഒരു രസകരമായ കഥയുണ്ട്. പണ്ട് ഒരിക്കൽ മഹാബലി എന്നൊരു ചക്രവർത്തി ഉണ്ടായിരുന്നു. അദ്ദേഹത്തിന്റെ കാലത്ത് എല്ലാ ആളുകൾക്കും സുഖമായിരുന്നു. ഇത് ദേവന്മാർക്ക് ഇഷ്ടപ്പെട്ടില്ല.
@@ -191,8 +190,10 @@ Note that the following can take only -ആയ.
 
 അതനുസരിച്ച് ആണ്ടിലൊരിക്കൽ മഹാബലി തന്റെ ആളുകളെ കാണാൻ വരുന്നു എന്നാണ് കേരളീയരുടെ വിശ്വാസം. അദ്ദേഹത്തെ സന്തോഷിപ്പിക്കുവാനാണ് അവർ ഓണം ആഘോഷിക്കുന്നത്.
 
+<a id="lesson20-text-part-ii"></a><!-- reading-anchor -->
 ## Text, Part II
 
+<a id="lesson20-u0d13u0d23-u0d06u0d18u0d37u0d19u0d19u0d7e"></a><!-- reading-anchor -->
 ### ഓണ ആഘോഷങ്ങൾ
 
 ചിങ്ങമാസത്തിലാണ് ഓണം ആഘോഷിക്കപ്പെടുന്നത്. പണ്ടൊക്കെ ചിങ്ങമാസം മുഴുവൻ ആളുകൾ ഉണ്ടും, ആടിയും, പാടിയും, കളിച്ചും, പുതിയ വസ്ത്രങ്ങൾ ഉടുത്തും സന്തോഷിച്ചിരുന്നു. എല്ലാ വീടുകളിലും ഓണസദ്യ നടത്തിയിരുന്നു.
@@ -201,6 +202,7 @@ Note that the following can take only -ആയ.
 
 ഓണക്കാലത്ത് കുട്ടികൾക്ക് വേണ്ടി ആളുകൾ വീടുകളിൽ ഊഞ്ഞാൽ ഇടുന്നു. മറുനാടൻ മലയാളികൾ ഈ സമയത്ത് നാട്ടിൽ വരുന്നു. ഇഷ്ടമുള്ള കറികൾ ഉണ്ടാക്കി എല്ലാവരും ഓണസദ്യ കഴിക്കുന്നു. ഹിന്ദുക്കളും മുസ്ലീങ്ങളും ക്രിസ്ത്യാനികളും ജാതിമത ഭേദമില്ലാതെ ഓണം ആഘോഷിക്കുന്നു. അങ്ങനെ ഓണം തന്നെയാണിപ്പോൾ കേരളീയരുടെ ദേശീയ ഉൽസവം.
 
+<a id="lesson20-exercises"></a><!-- reading-anchor -->
 ## Exercises
 
 **1.** Make the first noun in each pair into an adjective describing the second noun by using -ആയ as in the Reading Practice.
@@ -269,11 +271,13 @@ Note that the following can take only -ആയ.
 
 <!-- Source: PDF page 357; printed page 298. -->
 
+<a id="lesson20-grammar-notes"></a><!-- reading-anchor -->
 ## Grammar Notes
 
+<a id="section-20-1"></a><!-- reading-anchor -->
 ### 20.1 Adjectival/Relative Clauses Formed with -ആയ
 
-Many relative clauses are formed with -ഉള്ള (see 14.4). This lesson introduces those formed with -ആയ. This note will try to clarify some of the distinguishing features of the two types and their usage.
+Many relative clauses are formed with -ഉള്ള (see [14.4](lesson14.md#section-14-4)). This lesson introduces those formed with -ആയ. This note will try to clarify some of the distinguishing features of the two types and their usage.
 
 The participle -ഉള്ള is derived from ഉണ്ട്, and -ആയ is derived from ആണ്. The fact that the former is a present participle, and that -ആയ is a past participle, is not relevant in most cases. What is relevant is 1) the kind of sentence being made into an adjective, i.e., relativized, 2) the types of elements occurring in the sentence particularly the predicate, and 3) the role of the head noun which the clause modifies within that clause itself.
 
@@ -293,11 +297,7 @@ Existive sentences with a dative subject are of two types: those expressing phys
 
 Feelings are dealt with below.
 
-In general, -ആയ is used to make an adjective from an equative sentence. It will be remembered that the predicate of an equative sentence in Malayalam must be a noun (see 9.1, 11.2, 15.1, and 18.5). Therefore, when a relative clause is formed with -ആയ, it is bounded on both sides by a noun. The noun on the left is the predicate noun of the equative sentence being relativized, and the noun on the right is the headword of the noun phrase within which the relative clause now serves as an adjective. Ordinarily, the headword is also the subject of the
-
-<!-- Source: PDF page 358; printed page 299. -->
-
-relativized clause. Witness:
+In general, -ആയ is used to make an adjective from an equative sentence. It will be remembered that the predicate of an equative sentence in Malayalam must be a noun (see [9.1](lesson9.md#section-9-1), 11.2, 15.1, and 18.5). Therefore, when a relative clause is formed with -ആയ, it is bounded on both sides by a noun. The noun on the left is the predicate noun of the equative sentence being relativized, and the noun on the right is the headword of the noun phrase within which the relative clause now serves as an adjective. Ordinarily, the headword is also the subject of the <!-- Source: PDF page 358; printed page 299. --> relativized clause. Witness:
 
 4. A. ചക്രവർത്തി ഒരു നല്ലവനാണ്.<br>
    “The Emperor is (a) good (person).” becomes:<br>
@@ -350,7 +350,7 @@ Note that the “become” meaning may also apply where the predicate is a noun 
     B. വാമനനായ വിഷ്ണു<br>
     “Vishnu, who had become a Vamana”<br>
 
-You have already learned that many common emotions are expressed with ഉണ്ട് plus a dative subject (see 15.4). Some others are covered in 21.5. The same structure is used with certain character traits such as മിടുക്ക് “cleverness” and മടി “laziness.” In many cases it is possible to substitute ആണ് in such sentences. In a few common, but exceptional, cases shown in Section B of the Reading Practice, such sentences may also be relativized with either -ഉള്ള or -ആയ, as in:
+You have already learned that many common emotions are expressed with ഉണ്ട് plus a dative subject (see [15.4](lesson15.md#section-15-4)). Some others are covered in [21.5](lesson21.md#section-21-5). The same structure is used with certain character traits such as മിടുക്ക് “cleverness” and മടി “laziness.” In many cases it is possible to substitute ആണ് in such sentences. In a few common, but exceptional, cases shown in Section B of the Reading Practice, such sentences may also be relativized with either -ഉള്ള or -ആയ, as in:
 
 12. A. ആവശ്യമുള്ള പണം or ആവശ്യമായ പണം,<br>
     “the necessary money”<br>
@@ -404,15 +404,12 @@ Note that a few nouns which appear as the predicate nouns in equative sentences 
 18. ശരിയായിട്ടുള്ള സമയം<br>
     “the correct time,” or “a time which is proper”<br>
 
+<a id="section-20-2"></a><!-- reading-anchor -->
 ### 20.2 Another Impersonal Expression of Liking
 
 You have already learned (4.2) that statements of habitual liking may be expressed with an indirect sentence using either ആണ് or ഉണ്ട്, and that liking of a specific item after trying it, is expressed with the same type of sentence, but with the verb ആയി “happened” or “became.”
 
-This lesson’s conversation contains another structure for expressing like, or dislike, after hearing, seeing, or trying something. This is comprised of ഇഷ്ടം “liking” plus the
-
-<!-- Source: PDF page 362; printed page 303. -->
-
-intransitive verb പെടുക “to experience, fall into.” The expression is most often used in the past, though it may also be used in the future in anticipation of someone’s liking something. Witness:
+This lesson’s conversation contains another structure for expressing like, or dislike, after hearing, seeing, or trying something. This is comprised of ഇഷ്ടം “liking” plus the <!-- Source: PDF page 362; printed page 303. --> intransitive verb പെടുക “to experience, fall into.” The expression is most often used in the past, though it may also be used in the future in anticipation of someone’s liking something. Witness:
 
 1. ദേവന്മാർക്ക് അത് ഇഷ്ടപ്പെട്ടു.<br>
    “The gods liked that.”<br>
@@ -421,6 +418,7 @@ intransitive verb പെടുക “to experience, fall into.” The expression
 
 Note that colloquially, a nominative subject may be heard. Note that this expression is always written together, and that the final -ം of ഇഷ്ടം drops before the following പ of പെടുക. Then, in order to keep the intervocalic പ from becoming voiced (i.e. pronounced like a [b]) it is necessary to double the പ.
 
+<a id="section-20-3"></a><!-- reading-anchor -->
 ### 20.3 Spelling Changes: Miscellaneous Changes with പ Initial Postpositions
 
 The same process of final -ം deletion and doubling of the പ just described for ഇഷ്ടപ്പെടുക above also occurs with at least one postposition beginning with പ when joined to a noun ending in -ം. Note that this is only possible with a postposition requiring the nominative form of the noun. Witness:
@@ -430,6 +428,7 @@ The same process of final -ം deletion and doubling of the പ just described f
 
 In this example, it is not necessary to double the പ, since its voiceless pronunciation will be maintained because of its occurrence in a cluster with the റ.
 
+<a id="section-20-4"></a><!-- reading-anchor -->
 ### 20.4 The Instrumental Form of the Noun, and the Instrumental Case Role in the Sentence
 
 These notes have dealt with all forms of the noun save the instrumental. It is formed by adding -ാൽ, or alternatively -ിനാൽ, to the noun. The spelling changes in making these forms should be second nature by this time, so will not be restated here. They can be reviewed for -ാൽ in the section on the locative ending (2.1) and for -ിനാൽ in the section on the accusative (8.1). The instrumental forms of the noun may be used to fill the instrumental case role in the sentence, i.e. to express the thing by means of which the action of the verb was accomplished. Witness:
@@ -460,15 +459,16 @@ Witness:
 
 10. ഞാൻ വളരെ അധികം ജോലി ചെയ്തത് കൊണ്ട് റേഡിയോയ്ക്കുള്ള പണം കിട്ടി. — “I got the money for the radio by, because of doing lots of work.”
 
-The item or clause filling the instrumental case role, as with any other element in the sentence, may be brought into focus through the device of clefting (see 11.2). Consider:
+The item or clause filling the instrumental case role, as with any other element in the sentence, may be brought into focus through the device of clefting (see [11.2](lesson11.md#section-11-2)). Consider:
 
 11. ഞാൻ സാറിനോട് ചോദിച്ചത് കൊണ്ടാണ് അദ്ദേഹം എന്നെ സ്ഥലം മാറ്റിയത്. — “It was because of asking the boss that he transferred me.”
 
 The instrumental form of the noun is the required form for the real subject in the passive voice construction described below (20.5). There are no postpositions requiring the instrumental form of the noun.
 
+<a id="section-20-5"></a><!-- reading-anchor -->
 ### 20.5 The Passive Voice Construction
 
-There are several ways of foregrounding, focusing, or emphasizing, the direct object of a verbal sentence. In speaking, it may be simply stressed with the voice. In speaking or writing, a sentence may be clefted (see 11.2) with ആണ് placed immediately after the direct object. There is also the subjectless construction using the verb വരുക (see 16.2). A fourth means is a construction much like the English passive voice in which the object of the active sentence is made the apparent subject of the passive sentence. This can be most clearly seen with animate objects which lose their accusative ending when the sentence is passivized, and which then appear in the nominative form in the initial slot in the sentence where the subject is ordinarily found. The former subject of the active sentence is often omitted, but if included, must be in the instrumental form. It will usually appear in the second slot in the sentence, after the new passive subject (former object).
+There are several ways of foregrounding, focusing, or emphasizing, the direct object of a verbal sentence. In speaking, it may be simply stressed with the voice. In speaking or writing, a sentence may be clefted (see [11.2](lesson11.md#section-11-2)) with ആണ് placed immediately after the direct object. There is also the subjectless construction using the verb വരുക (see [16.2](lesson16.md#section-16-2)). A fourth means is a construction much like the English passive voice in which the object of the active sentence is made the apparent subject of the passive sentence. This can be most clearly seen with animate objects which lose their accusative ending when the sentence is passivized, and which then appear in the nominative form in the initial slot in the sentence where the subject is ordinarily found. The former subject of the active sentence is often omitted, but if included, must be in the instrumental form. It will usually appear in the second slot in the sentence, after the new passive subject (former object).
 
 The verb must also be changed when a sentence changes from active to passive. The verb takes the present stem form, and is followed by some form of the verb പെടുക, which carries the endings for tense and aspect. Obviously, only those verbs which can take a direct object can be passivized.
 
@@ -493,13 +493,10 @@ Simple and remote past endings are also common. The use of the passive tends to 
 6. നിങ്ങളുടെ വായ്പയുടെ കാര്യം അടുത്ത മീറ്റിങ്ങിന് ആലോചിക്കപ്പെടാം. — “The matter of your loan may be considered in the next meeting.”
 7. തെരഞ്ഞെടുപ്പ് അടുത്ത വർഷം നടത്തപ്പെടുമായിരിക്കും. — “Elections might be held next year.”
 
+<a id="section-20-6"></a><!-- reading-anchor -->
 ### 20.6 Joining Two Clauses Showing Simultaneous Action Over Time
 
-Section 13.2 describes how the conjunctive verbform is used with the perfective marker -ിട്ട് to show serial action. The conjunctive is also used to show that two actions go on at the
-
-<!-- Source: PDF page 366; printed page 307. -->
-
-same time. The marker കൊണ്ട് is left out in some common expressions, or where the actions are closely intertwined. Witness:
+Section [13.2](lesson13.md#section-13-2) describes how the conjunctive verbform is used with the perfective marker -ിട്ട് to show serial action. The conjunctive is also used to show that two actions go on at the <!-- Source: PDF page 366; printed page 307. --> same time. The marker കൊണ്ട് is left out in some common expressions, or where the actions are closely intertwined. Witness:
 
 1. ഓടി വാ — “Come running (come quick).”
 2. കുട്ടികൾ പാടി വന്നു. — “The children sang as they came.”
@@ -509,6 +506,7 @@ same time. The marker കൊണ്ട് is left out in some common expressions,
 6. അവൻ കൂടെക്കൂടെ ബീഡിയും വലിച്ചുകൊണ്ട് കഥകൾ പറഞ്ഞു. — “He told us stories, smoking cigarettes from time to time.”
 7. അവൾ അങ്ങനെ ഒന്നൊന്നായി കഷ്ടങ്ങൾ എല്ലാം വിവരിച്ചുകൊണ്ട് രാത്രി മുഴുവൻ കഴിച്ചു. — “She spent the entire night detailing her troubles one after the other.”
 
+<a id="section-20-7"></a><!-- reading-anchor -->
 ### 20.7 Causative and Double Causative Verbs
 
 The Reference List for this lesson contains sets of related verbs grouped into four columns labeled “Intransitive,” “Transitive,” “First Causative,” and “Second Causative.” A typical trio is exemplified below:
@@ -517,7 +515,7 @@ The Reference List for this lesson contains sets of related verbs grouped into f
 
 <!-- Source: PDF page 367; printed page 308. -->
 
-Not all verbs show all three forms, but these gaps in the system vary in type from verb to verb. A few verbs, like പോകുക “to go” occur only in the intransitive, and have no transitive or causative form of its own. Other verbs such as ഓർക്കുക “to remember” as well as പഠിക്കുക “to study, learn” have no intransitive. There is usually no separate intransitive verb to fill this gap, though the passive voice (refer to 20.5) or the subjectless construction (see 16.2) can be used to foreground whatever is affected by the action as opposed to the cause or agent of the action (see below). Finally, a number of verbs show intransitive and transitive/causative forms, but no double causative. These include verbs deriving from ഉണ്ടാക്കുക “to make,” ഉണരുക “to wake up,” etc.
+Not all verbs show all three forms, but these gaps in the system vary in type from verb to verb. A few verbs, like പോകുക “to go” occur only in the intransitive, and have no transitive or causative form of its own. Other verbs such as ഓർക്കുക “to remember” as well as പഠിക്കുക “to study, learn” have no intransitive. There is usually no separate intransitive verb to fill this gap, though the passive voice (refer to 20.5) or the subjectless construction (see [16.2](lesson16.md#section-16-2)) can be used to foreground whatever is affected by the action as opposed to the cause or agent of the action (see below). Finally, a number of verbs show intransitive and transitive/causative forms, but no double causative. These include verbs deriving from ഉണ്ടാക്കുക “to make,” ഉണരുക “to wake up,” etc.
 
 These gaps are handled by sentences using പറയുക “tell”:
 
@@ -556,7 +554,7 @@ It should be pointed out that the labeling in the Reference List joins two disti
 
 <!-- Source: PDF page 369; printed page 310. -->
 
-In terms of focus, the clearest difference is between intransitive and transitive/causative categories. The intransitive verbs focus on the person or thing which undergoes the action of the verb, often called by linguists “patient” or “experiencer.” There may be an agent in the situation, i.e. someone or some thing making it all happen, but the intransitive construction leaves no place for expressing agency. The transitive/causative, in contrast, ordinarily focuses on the agent rather than the undergoer of the action. The transitive/causative construction has ways of shifting the focus to the patient or experiencer of the action (summarized in 20.5), but these are all special devices to alter the normal focus of this construction on the agent. The question of focus is not so clearcut in the case of the double causative construction. There are several elements in the situation. The subject is the indirect agent--the person who gives the order to someone else to get something done. Next there is the causal agent--the person who receives the order and then causes someone to do something or make something to happen. Thirdly, there is the direct agent who actually performs the action or, in some cases, experiences it. Which of these agents is in focus can be shown by stress in speaking, but usually must be read from the context (see Examples below).
+In terms of focus, the clearest difference is between intransitive and transitive/causative categories. The intransitive verbs focus on the person or thing which undergoes the action of the verb, often called by linguists “patient” or “experiencer.” There may be an agent in the situation, i.e. someone or some thing making it all happen, but the intransitive construction leaves no place for expressing agency. The transitive/causative, in contrast, ordinarily focuses on the agent rather than the undergoer of the action. The transitive/causative construction has ways of shifting the focus to the patient or experiencer of the action (summarized in [20.5](lesson20.md#section-20-5)), but these are all special devices to alter the normal focus of this construction on the agent. The question of focus is not so clearcut in the case of the double causative construction. There are several elements in the situation. The subject is the indirect agent--the person who gives the order to someone else to get something done. Next there is the causal agent--the person who receives the order and then causes someone to do something or make something to happen. Thirdly, there is the direct agent who actually performs the action or, in some cases, experiences it. Which of these agents is in focus can be shown by stress in speaking, but usually must be read from the context (see Examples below).
 
 Ordinarily, both the causal and the direct agent are marked by the postposition കൊണ്ട് “by, by means of, with, because of,” which requires the accusative form of the noun. Witness these first causative examples:
 
@@ -581,3 +579,11 @@ Note that “the gentleman,” which our English sense would tell us to regard a
 There are, in fact, several very common verbs which, though causative in meaning, do not require, and do not even allow, കൊണ്ട് to mark the direct agent. Such verbs as പഠിപ്പിക്കുക “to teach, cause to learn,” അറിയിക്കുക “to inform, cause someone to know” ഉണർത്തുക “to awaken, cause someone to come awake,” etc. all look like ordinary transitive verbs in that they require the person affected by the action to be in the accusative direct object form, rather than taking കൊണ്ട് as other direct agents of causatives do.
 
 Note that an involved string of causatives of the type permitted in English as, “I'll have Larry get John to have Mike send you a sample,” cannot be rendered in a single sentence in Malayalam.
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Lesson 19](lesson19.md) · [Contents](contents.md) · [Next: Lesson 21 →](lesson21.md)
+
+<!-- /reading-navigation -->

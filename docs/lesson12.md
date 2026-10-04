@@ -1,9 +1,12 @@
+<a id="lesson12"></a><!-- reading-anchor -->
 # Lesson 12
 
 <!-- Source: PDF page 225; printed page 171. -->
 
+<a id="lesson12-reference-list"></a><!-- reading-anchor -->
 ## Reference List
 
+<a id="lesson12-simple-forms-of-the-verb"></a><!-- reading-anchor -->
 ### Simple Forms of the Verb
 
 | Form | Positive | Negative |
@@ -16,6 +19,7 @@
 | Desiderative/Obligational | കുടിക്കണം | കുടിക്കണ്ട |
 | Permissive | കുടിക്കട്ടെ | --- |
 
+<a id="lesson12-simple-forms-of-u0d06u0d15u0d15-to-be-become"></a><!-- reading-anchor -->
 ### Simple Forms of ആകുക, To Be, Become
 
 | Form | Positive | Negative |
@@ -30,6 +34,7 @@
 
 <!-- Source: PDF page 226; printed page 172. -->
 
+<a id="lesson12-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
 | Malayalam | Meaning |
@@ -58,18 +63,15 @@
 | ഒരുപാട് | an awful lot of (colloquial) |
 | കുട്ടി | child (plural: കുട്ടികൾ) |
 | കൂടെ | with (takes associated noun in possessive) |
-
-<!-- Source: PDF page 227; printed page 173. -->
-
-| Malayalam | Meaning |
-|---|---|
-| പോകുന്നതിനു മുമ്പ് | before going |
+| <!-- Source: PDF page 227; printed page 173. --> പോകുന്നതിനു മുമ്പ് | before going |
 | കൊണ്ടുവരട്ടെ | shall I bring, let me bring |
 | ഉണ്ടാക്കുക (past tense: ഉണ്ടാക്കി) | to make or build |
 | ഉണ്ടാക്കിക്കൊണ്ടുവരാം | will make and bring |
 
+<a id="lesson12-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
 
+<a id="lesson12-a-notice-how-u0d0eu0d28u0d28-is-joined-to-the-end-of-quotes-in-the-following"></a><!-- reading-anchor -->
 ### A. Notice how എന്ന് is joined to the end of quotes in the following.
 
 1. നാളെ വരാമെന്ന് പറഞ്ഞു.
@@ -88,6 +90,7 @@
 14. അവർക്ക് രൂപ കൊടുത്തുവെന്ന് പറഞ്ഞു.
 15. അവനെ ചന്തയിൽ അയച്ചുവെന്ന് പറഞ്ഞു.
 
+<a id="lesson12-b-note-the-permissive-forms-of-the-following-verbs"></a><!-- reading-anchor -->
 ### B. Note the permissive forms of the following verbs.
 
 | Verb | Permissive |
@@ -98,12 +101,7 @@
 | പോകുക | പോകട്ടെ |
 | കൊടുക്കുക | കൊടുക്കട്ടെ |
 | ചെയ്യുക | ചെയ്യട്ടെ |
-
-<!-- Source: PDF page 228; printed page 174. -->
-
-| Verb | Permissive |
-|---|---|
-| പഠിക്കുക | പഠിക്കട്ടെ |
+| <!-- Source: PDF page 228; printed page 174. --> പഠിക്കുക | പഠിക്കട്ടെ |
 | വായിക്കുക | വായിക്കട്ടെ |
 | കാണുക | കാണട്ടെ |
 | നോക്കുക | നോക്കട്ടെ |
@@ -114,6 +112,7 @@
 | എടുക്കുക | എടുക്കട്ടെ |
 | വിളിക്കുക | വിളിക്കട്ടെ |
 
+<a id="lesson12-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
 ഭർത്താവ്: ചേച്ചിയുടെ മകൾക്ക് നല്ല സുഖമില്ല.
@@ -138,6 +137,7 @@
 
 <!-- Source: PDF page 229; printed page 175. -->
 
+<a id="lesson12-exercises"></a><!-- reading-anchor -->
 ## Exercises
 
 **1.** Form phrases by adding കൂടെ and putting the words provided into the appropriate (possessive) form as in the model.
@@ -266,19 +266,22 @@ The sound ര on the other hand, is a single tap, not a trill. It is made far fo
 | പറക്കുക | to fly (Intr.) | പരക്കുക | to spread |
 | അറയ്ക്കുക | to hesitate, abhor | അരയ്ക്കുക | to wet-grind |
 
+<a id="lesson12-grammar-notes"></a><!-- reading-anchor -->
 ## Grammar Notes
 
+<a id="section-12-1"></a><!-- reading-anchor -->
 ### 12.1 Consonant Doubling in Caseforms of Words in റ്
 
-It was seen in 2.2 that certain words double their final consonant before adding case endings as with വീട് “house,” വീട്ടിൽ “at home, in the house.” The same principle operates for some words ending in റ്. The doubled form of റ, റ്റ, is pronounced like English “t” in the word “sighting,” but without any aspiration. Thus the locative form of വയറ് “stomach” is വയറ്റിൽ “in the stomach.” Similarly, one word for “river” ആറ്, which looks and sounds exactly like the number “six”, forms its locative as ആറ്റിൽ “at, in the river.” Not all words ending in റ് follow this rule, however. Thus കാറ് “car” makes its forms normally, i.e., കാറിൽ “in the car.”
+It was seen in [2.2](lesson2.md#section-2-2) that certain words double their final consonant before adding case endings as with വീട് “house,” വീട്ടിൽ “at home, in the house.” The same principle operates for some words ending in റ്. The doubled form of റ, റ്റ, is pronounced like English “t” in the word “sighting,” but without any aspiration. Thus the locative form of വയറ് “stomach” is വയറ്റിൽ “in the stomach.” Similarly, one word for “river” ആറ്, which looks and sounds exactly like the number “six”, forms its locative as ആറ്റിൽ “at, in the river.” Not all words ending in റ് follow this rule, however. Thus കാറ് “car” makes its forms normally, i.e., കാറിൽ “in the car.”
 
 <!-- Source: PDF page 233; printed page 179. -->
 
+<a id="section-12-2"></a><!-- reading-anchor -->
 ### 12.2 Indirect Quotes with the Quotative Marker എന്ന്
 
-It has been pointed out in 8.5 that there are two ways of reporting someone else’s words in Malayalam: using the infinitive -ാൻ form of the verb for commands, and the quotative marker എന്ന് for all other kinds of statements, questions, etc. Indirect quotes of this kind are even more common in Malayalam than in English since direct quotes using printed quotation marks are used only in some English influenced kinds of writing. What actually happens in these reported speech cases is that the indirect quote is embedded within the reporting sentence, becoming the direct object of the reporting verb. Following the normal order of elements within the sentence, the reported sentence (object) falls between the subject and the verb of the reporting (main) sentence.
+It has been pointed out in [8.5](lesson8.md#section-8-5) that there are two ways of reporting someone else’s words in Malayalam: using the infinitive -ാൻ form of the verb for commands, and the quotative marker എന്ന് for all other kinds of statements, questions, etc. Indirect quotes of this kind are even more common in Malayalam than in English since direct quotes using printed quotation marks are used only in some English influenced kinds of writing. What actually happens in these reported speech cases is that the indirect quote is embedded within the reporting sentence, becoming the direct object of the reporting verb. Following the normal order of elements within the sentence, the reported sentence (object) falls between the subject and the verb of the reporting (main) sentence.
 
-An indirect object, indicating who the quote was originally addressed to, is always present in the mind of the speaker and of the hearer, though it is frequently omitted in the report. If stated, the indirect object is easily recognized by its addressive ending -ോട് (see 8.3). The indirect object, and any adverbs, will normally come in the early part of the sentence, perhaps before, perhaps after the subject, but in any case, to the left of the reported sentence object. For stylistic reasons the normal order of elements is sometimes changed, putting the embedded quote either first or last in the sentence with the other elements relocated accordingly (always keeping the basic rules that the subject may only precede, and never follow the verb, and that the verb must occupy the last possible position consonant with the overall structure of the sentence). Examples 1-3 below are all acceptable versions of the same report:
+An indirect object, indicating who the quote was originally addressed to, is always present in the mind of the speaker and of the hearer, though it is frequently omitted in the report. If stated, the indirect object is easily recognized by its addressive ending -ോട് (see [8.3](lesson8.md#section-8-3)). The indirect object, and any adverbs, will normally come in the early part of the sentence, perhaps before, perhaps after the subject, but in any case, to the left of the reported sentence object. For stylistic reasons the normal order of elements is sometimes changed, putting the embedded quote either first or last in the sentence with the other elements relocated accordingly (always keeping the basic rules that the subject may only precede, and never follow the verb, and that the verb must occupy the last possible position consonant with the overall structure of the sentence). Examples 1-3 below are all acceptable versions of the same report:
 
 1. അവൻ അത് ശരിയാണെന്ന് പറഞ്ഞു. “He said it was all right.”
 2. അതു ശരിയാണെന്ന് അവൻ പറഞ്ഞു. “It was all right, he said.”
@@ -318,19 +321,17 @@ Note that reported sentences with എന്ന്, as with all others in Malayal
 
 Any indirect quote may be clefted by placing ആണ് after the quotative marker എന്ന്, and making the reporting verb into a past or present verbal noun with -അത്. These embedded sentences with എന്ന് are used not only to report what others say, but also for thoughts, feelings, doubts, hopes and fears and for things which one wishes to find out (example 9 above). They are, therefore, a very important aspect of the language to master.
 
+<a id="section-12-3"></a><!-- reading-anchor -->
 ### 12.3 Norms of Address and Reference for Husbands and Wives
 
 It was traditional in Kerala, and throughout much of India, for wives not to speak their husband's name. In the generation of those who are now grandparents, Hindu wives used ചേട്ടൻ both in addressing and referring to their husbands while Christian wives used അച്ചായൻ or the given name plus അച്ചായൻ. The term പിള്ളാരുടെ അച്ഛൻ, literally “the children's father” was also in use, particularly among Christians. Many traditional practices are changing under the impact of mass education and Westernization. Hence, some wives in the former generation, and many in the present one, both call their husbands by name and refer to them by name while talking to others. This is spreading rapidly among the current generation, though the extent varies with community, social class, and even individual family.
 
 Husbands of all communities traditionally referred to their wives by name or by ഭാര്യ “wife.” Very colloquially, and among or to members of the lower social classes the term പെമ്പിള (പെണ്ണുപിള്ള) literally “female child” is used for wife with its corresponding male term മാപ്പിള used for husband as reference terms only. In Northern Kerala മാപ്പിള means Muslim. In addressing the wife, the pronoun നീ is traditional and, as this lesson's conversation shows, is still in common use. The feminine form of the familiar vocative particle എടി literally “hey, you,” was common but is now going out of use. Both നീ and എടി signify intimacy as well as social inferiority so that opinions vary as to the question of which meaning dominates in the use of these forms from husbands to wives. In any event, there is a growing tendency now to avoid these marked forms and keep to the relative safety of calling one's wife by name.
 
+<a id="section-12-4"></a><!-- reading-anchor -->
 ### 12.4 Verbal Nouns with Postpositions
 
-When a verbal noun is governed by a postposition, it is subject to the same rules as other nouns in terms of carrying the ending which the postposition requires. Thus when the verbal
-
-<!-- Source: PDF page 236; printed page 182. -->
-
-noun പോകുന്നത് occurs with the postposition മുമ്പ് “before” in this lesson's conversation, it must carry the dative ending, yielding the phrase പോകുന്നതിനു മുമ്പ് “before going.” These verbal nouns actually represent sentences which are embedded as what English grammar would call the object of the postposition. Note that the other elements in the embedded sentence are also a part of the postpositional phrase as in:
+When a verbal noun is governed by a postposition, it is subject to the same rules as other nouns in terms of carrying the ending which the postposition requires. Thus when the verbal <!-- Source: PDF page 236; printed page 182. --> noun പോകുന്നത് occurs with the postposition മുമ്പ് “before” in this lesson's conversation, it must carry the dative ending, yielding the phrase പോകുന്നതിനു മുമ്പ് “before going.” These verbal nouns actually represent sentences which are embedded as what English grammar would call the object of the postposition. Note that the other elements in the embedded sentence are also a part of the postpositional phrase as in:
 
 1. വൈകുന്നേരം ആഫീസിൽ പോകുന്നതിനുമുമ്പ്
 
@@ -346,6 +347,7 @@ Note that either present or past tense verbal nouns may occur in these phrases. 
 
    “Let me make the curry before my husband comes (home) from the office.”
 
+<a id="section-12-5"></a><!-- reading-anchor -->
 ### 12.5 The Permissive Form of the Verb
 
 The permissive has the same form for all verbs, i.e., the present stem plus “-അട്ടെ.” It may be formed by removing “-ഉന്നു” from the simple present and replacing it with “-അട്ടെ.” A list of permissive forms appears in Part B of the reading practice. The permissive has two functions: to request permission and to give permission. When it occurs with the first person subject ഞാൻ it requests permission for the speaker to do something or to let something happen. It is usually translated as “let,” “shall,” or “may.”
@@ -362,11 +364,7 @@ The permissive has the same form for all verbs, i.e., the present stem plus “-
 
    “Shall I give (you) some more tea?”
 
-The appropriate response for such requests containing first person subjects is a command
-
-<!-- Source: PDF page 237; printed page 183. -->
-
-form. In Malayalam it is not regarded as a question per se. One common use is in leave taking as seen in the last line of Lesson Eight's conversation, ഞാൻ പോകട്ടെ, literally “may I go?” This reflects a rather different convention from that operating in English-speaking cultures. In English, we soften the blow of terminating a conversation by apologetically stating some reason which compels us, often reluctantly to leave. The Malayali softens the blow by deferentially requesting the host's permission to go. At the deeper level, both are forms of courtesy. The outmoded English expression “I take my leave” shows that our politeness mechanisms were once much closer. Malayalam also has a more straightforward means of leavetaking as in ഞാൻ പോകുന്നു “I am going,” which may be used in very informal situations or, especially when it has previously been established that you will be leaving.
+The appropriate response for such requests containing first person subjects is a command <!-- Source: PDF page 237; printed page 183. --> form. In Malayalam it is not regarded as a question per se. One common use is in leave taking as seen in the last line of Lesson Eight's conversation, ഞാൻ പോകട്ടെ, literally “may I go?” This reflects a rather different convention from that operating in English-speaking cultures. In English, we soften the blow of terminating a conversation by apologetically stating some reason which compels us, often reluctantly to leave. The Malayali softens the blow by deferentially requesting the host's permission to go. At the deeper level, both are forms of courtesy. The outmoded English expression “I take my leave” shows that our politeness mechanisms were once much closer. Malayalam also has a more straightforward means of leavetaking as in ഞാൻ പോകുന്നു “I am going,” which may be used in very informal situations or, especially when it has previously been established that you will be leaving.
 
 In other cases the permissive reflects a more genuine request or expression of personal desire. Note that the first person, which is the subject in the Malayalam construction in all meanings, is the object in the “let” construction in English.
 
@@ -388,7 +386,7 @@ Note that the permissive has no specific negative, however the negative desidera
 
 8. അവൻ അവളെ ഇനിയും കാണേണ്ട. “He shouldn't see her again.”
 
-**Appropriate Response:** Command form is often used to respond to a “may I” question. It is a compound verb usually with കൊള്ളു “go ahead and... (since you want to)” attached. (See 23.4) Note that colloquially കൊള്ളു often reduces to ഓ.
+**Appropriate Response:** Command form is often used to respond to a “may I” question. It is a compound verb usually with കൊള്ളു “go ahead and... (since you want to)” attached. (See [23.4](lesson23.md#section-23-4)) Note that colloquially കൊള്ളു often reduces to ഓ.
 
 <!-- Source: PDF page 238; printed page 184. -->
 
@@ -402,9 +400,10 @@ Note that the permissive has no specific negative, however the negative desidera
 
 For the “let” meaning the common responses are ശരി and കൊള്ളാം.
 
+<a id="section-12-6"></a><!-- reading-anchor -->
 ### 12.6 The verb അറിയുക With Nominative Subjects.
 
-In previous lessons the verb അറിയുക has been used with a dative subject (see 6.4). This lesson's conversation contains the sentence where അറിയുക has a nominative subject.
+In previous lessons the verb അറിയുക has been used with a dative subject (see [6.4](lesson6.md#section-6-4)). This lesson's conversation contains the sentence where അറിയുക has a nominative subject.
 
 1. അതു ഞാനറിഞ്ഞില്ലല്ലോ. — “I didn't know that.”
 
@@ -429,3 +428,11 @@ These two usages reflect the two related but distinct meanings of അറിയ�
 <!-- Editorial correction: source misspells “knowledge” in the following paragraph. -->
 
 It may be seen from the examples above that the use of the dative subject focuses on the knowledge possessed whereas the use of the nominative subject focuses on the change of state from not knowing to knowing. Thus Ex. 3 suggests that the speaker did experience love later on.
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Minilesson B](minilesson-b.md) · [Contents](contents.md) · [Next: Lesson 13 →](lesson13.md)
+
+<!-- /reading-navigation -->

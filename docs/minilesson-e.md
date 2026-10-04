@@ -1,10 +1,12 @@
+<a id="minilesson-e"></a><!-- reading-anchor -->
 # Minilesson E
 
 <!-- Source: PDF page 293; printed page 239. -->
 
+<a id="minilesson-e-another-way-to-express-obligation"></a><!-- reading-anchor -->
 ## Another Way to Express Obligation
 
-The auxiliary verb വരുക is often used to express external obligation or compulsion to do something. The main verb must appear in the special form of the desiderative ending in -ി. Note that, like other uses of the desiderative (see 8.4), external obligation requires the nominative form of the subject. All three tenses are permitted with this construction.
+The auxiliary verb വരുക is often used to express external obligation or compulsion to do something. The main verb must appear in the special form of the desiderative ending in -ി. Note that, like other uses of the desiderative (see [8.4](lesson8.md#section-8-4)), external obligation requires the nominative form of the subject. All three tenses are permitted with this construction.
 
 > **Editorial source note:** The source says this construction requires a nominative subject, but example 1 uses the dative എനിക്ക് (“to me”). The stated rule and example are inconsistent; the case requirement needs linguistic review.
 
@@ -33,3 +35,11 @@ The auxiliary verb വരുക is often used to express external obligation or 
 ![A temple pond](assets/images/minilesson-e-temple-pond.jpg)
 
 ഒരു അമ്പലക്കുളം
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Lesson 16](lesson16.md) · [Contents](contents.md) · [Next: Lesson 17 →](lesson17.md)
+
+<!-- /reading-navigation -->

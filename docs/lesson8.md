@@ -1,11 +1,15 @@
+<a id="lesson8"></a><!-- reading-anchor -->
 # Lesson 8
 
 <!-- Source: PDF page 153; printed page 103. -->
 
+<a id="lesson8-reference-list"></a><!-- reading-anchor -->
 ## Reference List
 
+<a id="lesson8-all-forms-of-the-personal-pronouns"></a><!-- reading-anchor -->
 ### All Forms of the Personal Pronouns
 
+<a id="lesson8-i-singular"></a><!-- reading-anchor -->
 #### I. Singular
 
 | Case | First Person | Second Person | Third Person* |
@@ -18,6 +22,7 @@
 | Locative | എന്നിൽ | നിന്നിൽ, തന്നിൽ | അയാളിൽ |
 | Instrumental | എന്നാൽ | നിന്നാൽ, തന്നാൽ | അയാളാൽ |
 
+<a id="lesson8-ii-plural"></a><!-- reading-anchor -->
 #### II. Plural
 
 | Case | 1st Person Inclusive | 1st Person Exclusive | 2nd Person | 3rd Person |
@@ -30,6 +35,7 @@
 | Locative | നമ്മളിൽ | ഞങ്ങളിൽ | നിങ്ങളിൽ | അവരിൽ |
 | Instrumental | നമ്മളാൽ | ഞങ്ങളാൽ | നിങ്ങളാൽ | അവരാൽ |
 
+<a id="lesson8-iii-marked-third-singular-pronouns"></a><!-- reading-anchor -->
 #### III. Marked Third Singular Pronouns
 
 | Case | Inferior / Intimate Masculine | Inferior / Intimate Feminine | Respected / Distant Masculine | Respected / Distant Feminine |
@@ -52,6 +58,7 @@
 * Sometimes shortened to അദ്ദേഹത്തെ  
 ** Sometimes shortened to അദ്ദേഹത്തോട്
 
+<a id="lesson8-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
 | Malayalam | English |
@@ -75,12 +82,7 @@
 | ബാങ്ക് | bank |
 | കുറെ | a lot |
 | എടുക്കുക | to take |
-
-<!-- Source: PDF page 155; printed page 105. -->
-
-| Malayalam | English |
-|---|---|
-| അത് സാരമില്ല | that's all right, that's no problem |
+| <!-- Source: PDF page 155; printed page 105. --> അത് സാരമില്ല | that's all right, that's no problem |
 | വൈകുന്നേരം | afternoon, evening, in the afternoon, in the evening |
 | പറഞ്ഞാൽ | if (you) tell |
 | പോകട്ടെ | may (I) go, let (me) go (familiar leave taking) |
@@ -89,8 +91,10 @@
 | രാത്രി | night |
 | ഉച്ചക്ക് | at noon |
 
+<a id="lesson8-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
 
+<a id="lesson8-a-see-how-accusative-case-is-added-to-the-nouns"></a><!-- reading-anchor -->
 ### A. See how accusative case is added to the nouns.
 
 |  |  |
@@ -110,18 +114,14 @@
 | അച്ഛൻ | അച്ഛനെ |
 | ഞങ്ങൾ | ഞങ്ങളെ |
 | ഇയാൾ | ഇയാളെ |
-
-<!-- Source: PDF page 156; printed page 106. -->
-
-|  |  |
-|---|---|
-| അദ്ദേഹം | അദ്ദേഹത്തിനെ |
+| <!-- Source: PDF page 156; printed page 106. --> അദ്ദേഹം | അദ്ദേഹത്തിനെ |
 | പുസ്തകം | പുസ്തകത്തിനെ |
 | പഴം | പഴത്തിനെ |
 | അത് | അതിനെ |
 | ഹമീദ് | ഹമീദിനെ |
 | സാർ | സാറിനെ |
 
+<a id="lesson8-b-see-how-associative-case-is-joined-to-the-nouns"></a><!-- reading-anchor -->
 ### B. See how associative case is joined to the nouns.
 
 |  |  |
@@ -150,6 +150,7 @@
 
 <!-- Source: PDF page 157; printed page 107. -->
 
+<a id="lesson8-c-note-the-desiderativeobligational-forms-of-these-verbs"></a><!-- reading-anchor -->
 ### C. Note the desiderative/obligational forms of these verbs.
 
 | Infinitive | Positive | Negative |
@@ -169,6 +170,7 @@
 | വായിക്കുക | വായിക്കണം | വായിക്കണ്ട |
 | വിളിക്കുക | വിളിക്കണം | വിളിക്കണ്ട |
 
+<a id="lesson8-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
 A: ഏയ്! ജെയിംസ്, തനിക്ക് രവിയെ അറിയാമോ?
@@ -195,6 +197,7 @@ A: ശരി, പിന്നെക്കാണാം.
 
 <!-- Source: PDF page 158; printed page 108. -->
 
+<a id="lesson8-exercises"></a><!-- reading-anchor -->
 ## Exercises
 
 **1.** Substitute the correct form of the words provided keeping the frame sentence constant.
@@ -388,8 +391,10 @@ A: ശരി, പിന്നെക്കാണാം.
 9. ആ കാര്യം അമ്മയോട് ചോദിക്കു.
 10. ആ ചന്തയിൽ നോക്കു.
 
+<a id="lesson8-grammar-notes"></a><!-- reading-anchor -->
 ## Grammar Notes
 
+<a id="section-8-1"></a><!-- reading-anchor -->
 ### 8.1 Uses and Forms of the Accusative Form (Case) of the Noun
 
 **Functions:** Animate nouns and pronouns take the accusative when serving as direct object, i.e., as the person or being directly affected by the action of a verb. Inanimate objects take the nominative. Here are a few comparative examples:
@@ -474,6 +479,7 @@ The second use of the accusative is before a small set of postpositions which re
 
 Lists of accusative forms grouped according to the word ending appear in Section A of the reading practice for this lesson. The pronouns ഞാൻ and നീ have special forms എന്നെ and നിന്നെ (see the Reference List for this lesson.)
 
+<a id="section-8-2"></a><!-- reading-anchor -->
 ### 8.2 Adjective or Relative Clauses Made with Present Verbforms
 
 Many times a whole sentence is used to describe a noun. Such descriptive sentences are often embedded within another sentence as a single adjective like unit, and in such cases it is called a descriptive or relative clause. This lesson’s conversation contains one relevant example: ഞങ്ങളുടെ ക്ലാസിൽ പഠിക്കുന്ന രവി, “the Ravi who studies in our class.” Such clauses can occasionally occur in the normal adjective position in English, that is before, or to the left of, the noun it describes as “the running boy”, “the fast moving car”, etc., but usually it occurs after, i.e., to the right, of its noun (see examples below). In Malayalam, the clause always occurs to the left of the noun. You can see from the following examples that the order of elements in the embedded sentence does not change from that which it has as an independent sentence. Note, however, that the word for which the sentence acts as an adjective is always dropped when the sentence is embedded in order to avoid needless duplication. The only other change is that the ഉ ending on the present tense verb form is replaced by the adjective marker -അ. The word described may have a variety of functions (subject, object or indirect object) both in the main sentence and in the embedded sentence. Witness these examples.
@@ -530,6 +536,7 @@ Many times a whole sentence is used to describe a noun. Such descriptive sentenc
 
 Note that when the verb വേണം becomes an adjective, it takes the form വേണ്ട, but does not have the negative meaning which that form conveys as a main verb. Further, when ഉണ്ട് becomes an adjective, it takes the form ഉള്ള. Not all verb-forms can be made into adjectives in this way, but the negative forms and other tenses which can, will be treated in later lessons.
 
+<a id="section-8-3"></a><!-- reading-anchor -->
 ### 8.3 The Addressive or Associative Form of the Noun
 
 Malayalam has a separate form of the noun whose characteristic ending is -ോട് which may be called the addressive or associative form (or case). Its main use is with the indirect object of verbs of telling, asking, and the like. Such verbs are double object verbs since they have a direct object, the thing which is told or asked, (always a direct or indirect quote), and an indirect object, the person who is told or asked. Note the addressive ending on the indirect object, or addressee, in these examples.
@@ -564,7 +571,7 @@ The addressive or associative is required in a few other cases as well. It is ob
 
    “This shirt fits you well.”
 
-In addition to ചേരുക there are a considerable number of verbs and nouns requiring the associative. These are summarized in 24.7, and a full list appears in Appendix E. The associative has two possible forms depending on the ending of the word, paralleling the accusative forms as follows.
+In addition to ചേരുക there are a considerable number of verbs and nouns requiring the associative. These are summarized in [24.7](lesson24.md#section-24-7), and a full list appears in Appendix E. The associative has two possible forms depending on the ending of the word, paralleling the accusative forms as follows.
 
 **A.** -ോട് occurs after:
 
@@ -608,15 +615,12 @@ In addition to ചേരുക there are a considerable number of verbs and noun
 
 In general, the personal pronouns also follow these rules but, as elsewhere, ഞാൻ “I” and നീ “you (familiar)” have the special forms എന്നോട് and നിന്നോട് (see the reference list for this lesson).
 
-### 8.4 The Desiderative Form of the Verb with -ണം
-
-Malayalam expresses the ideas of “want to”, “have to”, “should”, “must” and the like with a special form of the verb, often called the desiderative. It is perhaps best thought of as verb plus വേണം. There is a single form for all verbs, i.e. verbstem plus -അണം. Section C of the Reading Practice for this lesson contains a list of desiderative forms. Like the -ാം
-
 * Short form also exists, e.g. അദ്ദേഹത്തോട് and ഇതിനോട്
 
-<!-- Source: PDF page 169; printed page 119. -->
+<a id="section-8-4"></a><!-- reading-anchor -->
+### 8.4 The Desiderative Form of the Verb with -ണം
 
-verbform, the desiderative is a nonactual or irrealis form since the action is only potential, and not yet realized at the time of speaking.
+Malayalam expresses the ideas of “want to”, “have to”, “should”, “must” and the like with a special form of the verb, often called the desiderative. It is perhaps best thought of as verb plus വേണം. There is a single form for all verbs, i.e. verbstem plus -അണം. Section C of the Reading Practice for this lesson contains a list of desiderative forms. Like the -ാം <!-- Source: PDF page 169; printed page 119. --> verbform, the desiderative is a nonactual or irrealis form since the action is only potential, and not yet realized at the time of speaking.
 
 Another similarity with the -ാം verbform is that the desiderative can occur with either a nominative or dative subject. The dative subject expresses a requirement springing from forces internal to the individual such as his personal desires, or his needs relating to what he wants to accomplish. Such cases are usually translated by “want” or “need” in English. The nominative subject with a desiderative, on the other hand, expresses a requirement springing from forces external to the individual, i.e., what other people want or conditions in general force him to do. Both of these structures may occur in the negative as well as the positive. The negative is formed by adding -അണ്ട to the verbstem. Here are some contrasting examples.
 
@@ -657,7 +661,7 @@ Thus:
    “Do you want to study Malayalam this year?”
 
 <!-- Editorial correction: source prints short എ; the negative question ending is long ഏ, as in പോകണ്ടേ. -->
-The negative question is formed by dropping the final അ and adding ഏ. It is stated in 4.3 that an appropriate response to such yes-no positive or negative questions is with an appropriate form of the verb. This also holds true for the desiderative. Sometimes, however, വേണം or വേണ്ട may be used, but they actually refer to a physical object in the situation rather than to the action of the verb. Witness:
+The negative question is formed by dropping the final അ and adding ഏ. It is stated in [4.3](lesson4.md#section-4-3) that an appropriate response to such yes-no positive or negative questions is with an appropriate form of the verb. This also holds true for the desiderative. Sometimes, however, വേണം or വേണ്ട may be used, but they actually refer to a physical object in the situation rather than to the action of the verb. Witness:
 
 10. നിങ്ങൾക്ക് മാങ്ങ വാങ്ങിക്കണോ?  
     “Do you want to buy mangoes?”
@@ -669,9 +673,10 @@ Note that the desiderative is not used in Malayalam to offer someone something o
 11. ഞങ്ങൾ ഒരു സിനിമ കാണാൻ പോകുന്നു. നീ വരുന്നോ?  
     “We (exclusive) are going to see a movie; do you want to come along?”
 
+<a id="section-8-5"></a><!-- reading-anchor -->
 ### 8.5 Reported Commands with the Infinitive
 
-Several uses of the -ാൻ verbform (gerund or infinitive) were described in 5.2 and in 6.7, including the infinitive of purpose, and the gerund acting as subject or object of the sentence. This lesson's conversation contains yet another usage, i.e. that of reported speech or indirect quotation. Most indirect quotes are marked by the quotative or citation marker എന്ന്, but when the verb in the original speech being reported is a command (see 3.4 and 17.4), the infinitive may be used instead.
+Several uses of the -ാൻ verbform (gerund or infinitive) were described in [5.2](lesson5.md#section-5-2) and in [6.7](lesson6.md#section-6-7), including the infinitive of purpose, and the gerund acting as subject or object of the sentence. This lesson's conversation contains yet another usage, i.e. that of reported speech or indirect quotation. Most indirect quotes are marked by the quotative or citation marker എന്ന്, but when the verb in the original speech being reported is a command (see [3.4](lesson3.md#section-3-4) and 17.4), the infinitive may be used instead.
 
 Witness:
 
@@ -690,6 +695,7 @@ It's also possible to use എന്ന് to report commands, c.f.
 
 Note that cases like Example 2 can be taken as either direct or indirect quotes. The distinction is really not significant since there is only one way of quoting, i.e. with എന്ന്, for all cases except those containing commands. One constraint is that, unlike English, the verb “to ask” ചോദിക്കുക only പറയുക is permitted. Thus Example 1 above is also equivalent to “I asked him to take away the plates.”
 
+<a id="section-8-6"></a><!-- reading-anchor -->
 ### 8.6 Tag Questions
 
 A tag question is a short question which asks for confirmation of the assumption expressed in the previous sentence. In English these are very complicated and varied. (See translations for examples below).
@@ -715,11 +721,7 @@ When the verb in the preceding sentence is ഉണ്ട്, or a verbform which 
 5. മനസ്സിലായില്ല. ഇല്ലേ?  
    “You didn't understand, did you?”
 
-This gives some insight into why so many speakers of Indian English use the invariant
-
-<!-- Source: PDF page 172; printed page 122. -->
-
-tag question “isn't it?”. Since the tag question is always negative in Malayalam, the implicit assumption is that the proposition in the statement preceding the tag is correct. That proposition may be a positive or negative statement (see examples below). The short answer to a tagged question, therefore, is most often positive, in which case the appropriate response is അതെ, or അത് ശരി. A full answer is much more likely, when the response is negative, both to soften the blow of contradiction and, often, to provide new information which renders the original assumption invalid. Note that even if the verb in the original sentence is ഉണ്ട് or വേണം, the tag will be അല്ലേ, and the verifying response will still be അതെ. When the verb in the statement is ഉണ്ട്, the alternative tag ഇല്ലേ may be used instead.
+This gives some insight into why so many speakers of Indian English use the invariant <!-- Source: PDF page 172; printed page 122. --> tag question “isn't it?”. Since the tag question is always negative in Malayalam, the implicit assumption is that the proposition in the statement preceding the tag is correct. That proposition may be a positive or negative statement (see examples below). The short answer to a tagged question, therefore, is most often positive, in which case the appropriate response is അതെ, or അത് ശരി. A full answer is much more likely, when the response is negative, both to soften the blow of contradiction and, often, to provide new information which renders the original assumption invalid. Note that even if the verb in the original sentence is ഉണ്ട് or വേണം, the tag will be അല്ലേ, and the verifying response will still be അതെ. When the verb in the statement is ഉണ്ട്, the alternative tag ഇല്ലേ may be used instead.
 
 For most tag questions the negative response is അല്ല. In some cases, however, the negative short answer must be ഇല്ല/വേണ്ട in accordance with the verb in the original sentence rather than with the tag. Thus, if the verb in an original statement is വേണം, or the positive form of any verb containing വേണം, the negative short answer must be വേണ്ട.
 
@@ -809,6 +811,7 @@ A full set of examples appear below to clarify the appropriate usages.
      അതെ/ഓ. വേണ്ട.  
      അല്ല. വാങ്ങിക്കണമല്ലോ.
 
+<a id="section-8-7"></a><!-- reading-anchor -->
 ### 8.7 Times of the Day
 
 In Malayalam the day is divided into four main time periods as follows:
@@ -820,6 +823,7 @@ In Malayalam the day is divided into four main time periods as follows:
 | വൈകുന്നേരം | 4pm-7pm |
 | രാത്രി | 8pm-5am |
 
+<a id="lesson8-telling-times"></a><!-- reading-anchor -->
 ### Telling Times.
 
 In English different prepositions are required with different times of the day. Both morning and evening take “in the” while night and noon require “at”. In Malayalam രാവിലെ and വൈകുന്നേരം require no case ending. Dative is required for ഉച്ചക്ക് and locative for രാത്രി. Witness:
@@ -846,3 +850,11 @@ See also:
 
 5. ഈ മാസം എനിക്ക് അവധി ഇല്ല. അടുത്ത മാസം ഉണ്ട്.  
    “I don't have any vacation this month, next month I do.”
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Lesson 7](lesson7.md) · [Contents](contents.md) · [Next: Minilesson A →](minilesson-a.md)
+
+<!-- /reading-navigation -->

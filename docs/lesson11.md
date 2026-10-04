@@ -1,9 +1,12 @@
+<a id="lesson11"></a><!-- reading-anchor -->
 # Lesson 11
 
 <!-- Source: PDF page 205; printed page 151. -->
 
+<a id="lesson11-reference-list"></a><!-- reading-anchor -->
 ## Reference List
 
+<a id="lesson11-past-tense-endings"></a><!-- reading-anchor -->
 ### Past Tense Endings
 
 | Citation Form | Past Tense | Meaning |
@@ -36,6 +39,7 @@
 
 <!-- Source: PDF page 206; printed page 152. -->
 
+<a id="lesson11-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
 | Malayalam | Meaning |
@@ -65,12 +69,7 @@
 | എന്നാലും | anyway, even though, still |
 | കറി | curry |
 | കറിവെക്കുക [y] | to make curry |
-
-<!-- Source: PDF page 207; printed page 153. -->
-
-| Malayalam | Meaning |
-|---|---|
-| ചിലപ്പോൾ | sometimes |
+| <!-- Source: PDF page 207; printed page 153. --> ചിലപ്പോൾ | sometimes |
 | പട്ടി | dog |
 | പറയണ്ട | shouldn't speak, don't speak |
 | കഴിക്കുക | to eat |
@@ -79,8 +78,10 @@
 | അടി വേണോ? | do (you) want a spanking? (commonly used by school-teachers and elders within the family.) |
 | വേറെ | else, other, another |
 
+<a id="lesson11-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
 
+<a id="lesson11-1-double-consonants"></a><!-- reading-anchor -->
 ### 1. Double Consonants
 
 Note the double consonants which have occurred in the lessons so far, and how they are formed.
@@ -107,6 +108,7 @@ Note the double consonants which have occurred in the lessons so far, and how th
 
 Note: Not all consonants may double. Aspirated consonants, those in the second and fourth columns in the alphabet never double. Further, the following four consonants also do not double: ഴ, ര, ഷ, ഹ.
 
+<a id="lesson11-2-cleft-sentences"></a><!-- reading-anchor -->
 ### 2. Cleft Sentences
 
 Read the following cleft sentences. Note the change in the order of the sentence.
@@ -123,6 +125,7 @@ Read the following cleft sentences. Note the change in the order of the sentence
    ഞങ്ങൾ വാങ്ങിക്കുന്ന കാർ വളരെ നല്ലതാണ്.
 10. ഒരു കൈയിലുള്ള കസേര പഴയതാണ്.
 
+<a id="lesson11-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
 ചേച്ചി: അനിയൻ ആ മുറിയിൽ ആയിരുന്നല്ലോ. ഇപ്പോൾ അവനെ കാണുന്നില്ല. എവിടെ പോയി?
@@ -155,6 +158,7 @@ Read the following cleft sentences. Note the change in the order of the sentence
 
 അമ്മ: അങ്ങനെ പറയണ്ടാ, കേട്ടോ! നിനക്ക് അടി വേണോ?
 
+<a id="lesson11-exercises"></a><!-- reading-anchor -->
 ## Exercises
 
 **1. A.** Change the past tense verbforms to present as in the models.
@@ -386,21 +390,20 @@ Note the double ള്ള in these items.
 
 4. If you hear അത് വാൽ “it's a tail”, respond with പട്ടി “dog”. If you hear അത് വാൾ, “it's a sword”, respond with അയ്യോ!, “Good Heavens!”
 
+<a id="lesson11-grammar-notes"></a><!-- reading-anchor -->
 ## Grammar Notes
 
+<a id="section-11-1"></a><!-- reading-anchor -->
 ### 11.1 The Simple Past Tense Form of the Verb
 
 A list of past tense forms appears in the Reference List in this lesson. Note that while Malayalam does not have large numbers of irregular verbs as English does, it has several groups, each taking a somewhat different ending. One major group forms the past tense in -ഇ, while the remaining groups form the past with a double consonant (stop or nasal) or in a consonant cluster plus the short vowel ഉ. A few exceptions show only a single consonant in the past as in വീണു “fell” from വീഴുക “to fall.” Also, the Reference List contains only verbs which have occurred so far in these lessons. Though these represent the most common past tense endings, it does not cover all the possibilities as to consonant clusters. The remaining ones are given in later lessons as example verbs come up.
 
-Any set of rules describing how these past tenses are formed are too complicated and have too many exceptions to be useful. Therefore, the best policy is to learn the past form of each verb individually. This is probably in large measure what the native speaker does while learning the language as a child. The simple past is given for each new verb introduced in the
+Any set of rules describing how these past tenses are formed are too complicated and have too many exceptions to be useful. Therefore, the best policy is to learn the past form of each verb individually. This is probably in large measure what the native speaker does while learning the language as a child. The simple past is given for each new verb introduced in the <!-- Source: PDF page 216; printed page 162. --> vocabulary in the lessons from here on. The irregular past forms of the copula and the existive verbs are given in [11.4](lesson11.md#section-11-4) below. One general rule, however, is of practical help in learning the past forms, namely that those verbs whose present stems contain double ക്ക pronounced with the “hint of y” (see [5.7](lesson5.md#section-5-7)) invariably take ച്ചു. The simple past in Malayalam, as in other languages, is used to refer to a single action completed in past time.
 
-<!-- Source: PDF page 216; printed page 162. -->
-
-vocabulary in the lessons from here on. The irregular past forms of the copula and the existive verbs are given in 11.4 below. One general rule, however, is of practical help in learning the past forms, namely that those verbs whose present stems contain double ക്ക pronounced with the “hint of y” (see 5.7) invariably take ച്ചു. The simple past in Malayalam, as in other languages, is used to refer to a single action completed in past time.
-
+<a id="section-11-2"></a><!-- reading-anchor -->
 ### 11.2 The Cleft Sentence as a Means of Focus
 
-In 2.5 and 5.4 it was shown how the normal order of elements in equative sentences may be changed for purposes of emphasis or focus. This is done by moving the copula ആണ്, which usually occurs at the end of the sentence, to the left to immediately follow the item to be focused, with the remaining elements then appearing to the right of ആണ്. Normal order as:
+In [2.5](lesson2.md#section-2-5) and 5.4 it was shown how the normal order of elements in equative sentences may be changed for purposes of emphasis or focus. This is done by moving the copula ആണ്, which usually occurs at the end of the sentence, to the left to immediately follow the item to be focused, with the remaining elements then appearing to the right of ആണ്. Normal order as:
 
 1.A. എന്റെ വീട് കേരളത്തിലാണ്.  
 “My home is in Kerala.”
@@ -410,7 +413,7 @@ shows the normal situation of the subject being in focus. The cleft version of t
 1.B. കേരളത്തിലാണ് എന്റെ വീട്.  
 “It's <u>in Kerala</u> that my home is.”
 
-This same mechanism is used with verbal sentences by, in effect, making them into equative sentences. Here, as before, ആണ് is attached to the element to be brought into focus (usually, though not necessarily appearing at the beginning of the sentence) with the remaining elements, including the sentence verb, becoming a predicate for the newly created equative sentence. In order to fulfill the rule that the predicate contain a nominal, it is then necessary to make the former verb of the sentence into a noun by adding അത് (see 9.1). Some examples will clarify.
+This same mechanism is used with verbal sentences by, in effect, making them into equative sentences. Here, as before, ആണ് is attached to the element to be brought into focus (usually, though not necessarily appearing at the beginning of the sentence) with the remaining elements, including the sentence verb, becoming a predicate for the newly created equative sentence. In order to fulfill the rule that the predicate contain a nominal, it is then necessary to make the former verb of the sentence into a noun by adding അത് (see [9.1](lesson9.md#section-9-1)). Some examples will clarify.
 
 2.A. നീ എന്ത് വാങ്ങിച്ചു?  
 “What did you buy?”
@@ -434,7 +437,7 @@ In a declarative sentence it is possible to focus on any element within the sent
 3.D. ഞാൻ അയാളെ അയച്ചതാണ്.  
 “I did send him.”
 
-Putting emphasis or focus on the verb is more fully treated in 15.1.
+Putting emphasis or focus on the verb is more fully treated in [15.1](lesson15.md#section-15-1).
 
 In questions of the information type only the question phrase can be brought into focus. If this is a single word such as ഏത്, ആര് etc, then ആണ് attaches directly to the question word, as in example 2.B above. If the question is expressed by an entire phrase then ആണ് attaches to the final word in that phrase. Witness:
 
@@ -463,18 +466,20 @@ The cleft sentence type is really much more common in Malayalam than in English 
 7.C. ഞാൻ കുടിക്കുന്നത് കാപ്പിയാണ്. — What I am drinking is coffee.  
 7.D. കാപ്പിയാണ് ഞാൻ കുടിക്കുന്നത്. — Coffee is what I am drinking.
 
-Aside from the simple present and past, the main other verb form which participates in cleft constructions is the desiderative, which is covered in 19.3. The clefting of sentences whose main verb is ഉണ്ട് is covered in 18.7.
+Aside from the simple present and past, the main other verb form which participates in cleft constructions is the desiderative, which is covered in [19.3](lesson19.md#section-19-3). The clefting of sentences whose main verb is ഉണ്ട് is covered in [18.7](lesson18.md#section-18-7).
 
+<a id="section-11-3"></a><!-- reading-anchor -->
 ### 11.3 The Compound Verb with the Completive Meaning
 
-This lesson contains an item, തീർന്നു പോയി “finished, ran out,” where two past tense forms appear to follow each other back to back. This is actually an instance of a compound verb, a common occurrence in Malayalam, in which the main verb is followed by a modifier verb which adds a further detail or shade of meaning. Compound verbs are more fully treated in 21.6. As a preview, you should know that the main verb (always the first of the two) here is
+This lesson contains an item, തീർന്നു പോയി “finished, ran out,” where two past tense forms appear to follow each other back to back. This is actually an instance of a compound verb, a common occurrence in Malayalam, in which the main verb is followed by a modifier verb which adds a further detail or shade of meaning. Compound verbs are more fully treated in [21.6](lesson21.md#section-21-6). As a preview, you should know that the main verb (always the first of the two) here is
 
 <!-- Source: PDF page 219; printed page 165. -->
 
 തീർന്നു “finished, ran out.” The addition of the modifier പോയി emphasizes the completion of the action, or the finality of the circumstances. It is important to realize that the meaning of a verb functioning as a modifier is quite distinct from that which it has as a main verb. Thus the modifier പോകുക should be considered a separate entity from the main verb പോകുക.
 
-As a modifier verb, പോകുക with its completive meaning can only occur with main verbs which are intransitive and which show a change of state. In this lesson തീരുക denotes a change from a condition of something being present (as with meat) or in progress (as with a meeting) to a condition in which it is not present, or not taking place. പോകുക as a modifier does occur with transitive verbs, but in such cases it has an entirely different meaning, i.e., that of lack of volition, or intent, on the part of the actor (see 21.6D).
+As a modifier verb, പോകുക with its completive meaning can only occur with main verbs which are intransitive and which show a change of state. In this lesson തീരുക denotes a change from a condition of something being present (as with meat) or in progress (as with a meeting) to a condition in which it is not present, or not taking place. പോകുക as a modifier does occur with transitive verbs, but in such cases it has an entirely different meaning, i.e., that of lack of volition, or intent, on the part of the actor (see [21.6](lesson21.md#section-21-6)D).
 
+<a id="section-11-4"></a><!-- reading-anchor -->
 ### 11.4 Irregular Past Forms of ആണ്, ഉണ്ട് and നന്നായിരിക്കുക and their Uses:
 
 The verb ആകുക has two meanings, “to be” and “to become” each with a separate past tense form. For the meaning “become” the past tense is ആയി. Witness:
@@ -488,7 +493,7 @@ The verb ആകുക has two meanings, “to be” and “to become” each wit
 4. അവന്റെ പേര് രാമൻ എന്നായി.  
    “His name became Raman.”
 
-The past tense for the meaning “be,” i.e., “was, were,” is handled by ആയിരുന്നു, the past form of ആയിരിക്കുക which in its own present tense form means “has recently become” (see 9.2). Witness:
+The past tense for the meaning “be,” i.e., “was, were,” is handled by ആയിരുന്നു, the past form of ആയിരിക്കുക which in its own present tense form means “has recently become” (see [9.2](lesson9.md#section-9-2)). Witness:
 
 5. അവന്റെ പേര് രാമൻ എന്നായിരുന്നു.  
    “His name was Raman.”
@@ -528,7 +533,7 @@ Thus:
 
 <!-- Source: PDF page 221; printed page 167. -->
 
-Note that colloquially ആയിരുന്നു can be added to the past tense of any verb in order to place the action further in the past (note the final entry in the list above). This is a popular variant of the standard remote past formed with -ഇരുന്നു (see 17.3).
+Note that colloquially ആയിരുന്നു can be added to the past tense of any verb in order to place the action further in the past (note the final entry in the list above). This is a popular variant of the standard remote past formed with -ഇരുന്നു (see [17.3](lesson17.md#section-17-3)).
 
 The past form of the locative/ existive verb ഉണ്ട് and its negative ഇല്ല are shown in the table above. This verb also forms part of the complex verbs ഉണ്ടാകുക “to occur, come into being” and the less common ഉണ്ടായിരിക്കുക “to be, or have just been taking place”. A similar distinction in meaning exists as with the two past forms of ആകുക above. Thus ഉണ്ടായി means occurred, or came into existence (ആയി-a change of state) whereas ഉണ്ടായിരുന്നു (see above) is used for the ordinary past tense senses of “existed,” “was present” “had,” etc. Witness:
 
@@ -568,6 +573,7 @@ The expression നന്നായിരിക്കുക is actually a complex 
 17. ആ ചന്തയിൽ നിന്നും വാങ്ങിച്ച മാങ്ങ നന്നായിരുന്നില്ല.  
     “The mango we bought from that market was not good”.
 
+<a id="section-11-5"></a><!-- reading-anchor -->
 ### 11.5 The Past Tense of Desiderative Forms
 
 Any desiderative may be put into the past by adding ആയിരുന്നു to the positive or negative desiderative form. The distinction between desire and obligation, represented by dative versus nominative subject, still holds as these examples illustrate.
@@ -583,3 +589,11 @@ A slightly different emphatic form is fairly frequently used in which the deside
 6. ഞാൻ വരണമെന്നുണ്ടായിരുന്നു. — “I was supposed to come.”  
 7. എനിക്ക് വരണ്ടായെന്നുണ്ടായിരുന്നു. — “I didn’t want to come.”  
 8. ഞാൻ വരണ്ടായെന്നുണ്ടായിരുന്നു. — “I was not required to come.”
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Lesson 10](lesson10.md) · [Contents](contents.md) · [Next: Minilesson B →](minilesson-b.md)
+
+<!-- /reading-navigation -->

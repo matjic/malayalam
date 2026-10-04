@@ -1,11 +1,15 @@
+<a id="lesson7"></a><!-- reading-anchor -->
 # Lesson 7
 
 <!-- Source: PDF page 136; printed page 86. -->
 
+<a id="lesson7-reference-list"></a><!-- reading-anchor -->
 ## Reference List
 
+<a id="lesson7-numbers"></a><!-- reading-anchor -->
 ### Numbers
 
+<a id="lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29"></a><!-- reading-anchor -->
 #### 0 മുതൽ 29 വരെ (From 0 to 29)
 
 | Number | Malayalam |
@@ -41,6 +45,7 @@
 | 28 | ഇരുപത്തിയെട്ട് |
 | 29 | ഇരുപത്തിയൊൻപത് |
 
+<a id="lesson7-fractions"></a><!-- reading-anchor -->
 #### Fractions
 
 | Fraction | Malayalam |
@@ -50,6 +55,7 @@
 | 3/4 | മുക്കാൽ |
 | 1/8 | അരക്കാൽ |
 
+<a id="lesson7-30-u0d2eu0d24u0d7d-100-u0d35u0d30-from-30-to-100"></a><!-- reading-anchor -->
 #### 30 മുതൽ 100 വരെ (From 30 to 100)
 
 | Number | Malayalam |
@@ -57,12 +63,7 @@
 | 30 | മുപ്പത് |
 | 31 | മുപ്പത്തിയൊന്ന് |
 | 32 | മുപ്പത്തിരണ്ട് |
-
-<!-- Source: PDF page 137; printed page 87. -->
-
-| Number | Malayalam |
-|---:|---|
-| 33 | മുപ്പത്തിമൂന്ന് |
+| <!-- Source: PDF page 137; printed page 87. --> 33 | മുപ്പത്തിമൂന്ന് |
 | 34 | മുപ്പത്തിനാല് |
 | 35 | മുപ്പത്തിയഞ്ച് |
 | 36 | മുപ്പത്തിയാറ് |
@@ -86,6 +87,7 @@
 | 99 | തൊണ്ണൂറ്റിയൊൻപത് |
 | 100 | നൂറ് |
 
+<a id="lesson7-101-u0d2eu0d24u0d7d-1000-u0d35u0d30-from-101-to-1000"></a><!-- reading-anchor -->
 #### 101 മുതൽ 1000 വരെ (From 101 to 1000)
 
 | Number | Malayalam |
@@ -99,12 +101,7 @@
 | 107 | നൂറ്റിയേഴ് |
 | 108 | നൂറ്റിയെട്ട് |
 | 109 | നൂറ്റിയൊൻപത് |
-
-<!-- Source: PDF page 138; printed page 88. -->
-
-| Number | Malayalam |
-|---:|---|
-| 110 | നൂറ്റിപ്പത്ത് |
+| <!-- Source: PDF page 138; printed page 88. --> 110 | നൂറ്റിപ്പത്ത് |
 | 120 | നൂറ്റിയിരുപത് |
 | 130 | നൂറ്റിമുപ്പത് |
 | 140 | നൂറ്റിനാൽപത് |
@@ -123,6 +120,7 @@
 | 900 | തൊള്ളായിരം |
 | 1000 | ആയിരം |
 
+<a id="lesson7-1001-u0d2eu0d24u0d7d-10000000-u0d35u0d30-from-1001-to-10000000"></a><!-- reading-anchor -->
 #### 1001 മുതൽ 10,000,000 വരെ (From 1001 to 10,000,000)
 
 | Number | Malayalam |
@@ -140,11 +138,7 @@
 | 6000 | ആറായിരം |
 | 7000 | ഏഴായിരം |
 | 8000 | എണ്ണായിരം |
-<!-- Source: PDF page 139; printed page 89. -->
-
-| Number | Malayalam |
-|---:|---|
-| 9000 | ഒൻപതിനായിരം |
+| <!-- Source: PDF page 139; printed page 89. --> 9000 | ഒൻപതിനായിരം |
 | 10,000 | പതിനായിരം |
 | 11,000 | പതിനൊരായിരം |
 | 12,000 | പന്തീരായിരം |
@@ -159,6 +153,7 @@
 | 1,000,000 | പത്ത് ലക്ഷം |
 | 10,000,000 | ഒരു കോടി |
 
+<a id="lesson7-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
 | Malayalam | English |
@@ -180,20 +175,17 @@
 | എങ്ങനെ | how |
 | നമുക്ക് പോകാം | let's go |
 | നിങ്ങൾക്ക് കാറുണ്ടോ? | do you have a car? |
-
-<!-- Source: PDF page 140; printed page 90. -->
-
-| Malayalam | English |
-|---|---|
-| വേണമെങ്കിൽ | if (you) want |
+| <!-- Source: PDF page 140; printed page 90. --> വേണമെങ്കിൽ | if (you) want |
 | ടാക്സി | taxi |
 | വിളിക്കാം | will call |
 | വേണ്ട | no (don't want, not necessary, etc.) |
 | നടന്ന് | walking |
 | ചെറിയ | small, little |
 
+<a id="lesson7-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
 
+<a id="lesson7-a"></a><!-- reading-anchor -->
 ### A.
 
 Note how **-എങ്കിൽ** joins to these words.
@@ -209,6 +201,7 @@ Note how **-എങ്കിൽ** joins to these words.
 | വിളിക്കാം | വിളിക്കാമെങ്കിൽ |
 | വേണ്ട | വേണ്ടെങ്കിൽ |
 
+<a id="lesson7-b"></a><!-- reading-anchor -->
 ### B.
 
 Note how **-അല്ലോ** joins to these words.
@@ -222,6 +215,7 @@ Note how **-അല്ലോ** joins to these words.
 | കാണാം | കാണാമല്ലോ |
 | വരുന്നു | വരുന്നല്ലോ |
 
+<a id="lesson7-c"></a><!-- reading-anchor -->
 ### C.
 
 Note how **-ഏയുള്ളു** (see §7.5, “The Two Part Qualifier -ഏയുള്ളു”) is added to these words.
@@ -243,6 +237,7 @@ Note how **-ഏയുള്ളു** (see §7.5, “The Two Part Qualifier -ഏ�
 | മാങ്ങ | മാങ്ങയേയുള്ളു |
 | പേര് | പേരേയുള്ളു |
 
+<a id="lesson7-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
 A: കൊല്ലം ബസ് എപ്പോൾ കിട്ടും?
@@ -263,6 +258,7 @@ B: എനിക്ക് കാറില്ല, വേണമെങ്കിൽ �
 
 A: വേണ്ട, വേണ്ട. നടന്ന് പോകാം.
 
+<a id="lesson7-exercises"></a><!-- reading-anchor -->
 ## Exercises
 
 **1. A.** Practice counting from eleven to twenty until you know the numbers by heart.
@@ -381,12 +377,7 @@ A: വേണ്ട, വേണ്ട. നടന്ന് പോകാം.
 | ഇത് | this | ഈത്ത | date palm |
 | ഊതുക | to blow | ഊത്ത് | whistle |
 | ഇടത് | left | ഇടത്തോട്ട് | to the left |
-
-<!-- Source: PDF page 145; printed page 95. -->
-
-| Malayalam | English | Malayalam | English |
-|---|---|---|---|
-| കതക് | door | കത്ത് | letter |
+| <!-- Source: PDF page 145; printed page 95. --> കതക് | door | കത്ത് | letter |
 | വലത് | right | വലത്തോട്ട് | to the right |
 | പതിക്കുക | to imprint | പത്തായം | granary |
 
@@ -402,8 +393,10 @@ A: വേണ്ട, വേണ്ട. നടന്ന് പോകാം.
 | ജോലി ചെയ്യുന്നു | നടക്കുന്നു |
 | വിളിക്കുന്നു |  |
 
+<a id="lesson7-grammar-notes"></a><!-- reading-anchor -->
 ## Grammar Notes
 
+<a id="section-7-1"></a><!-- reading-anchor -->
 ### 7.1 The General Future and Habitual Verb Ending -ഉം
 
 One of the two major functions of the verb ending -ഉം is that of showing future meaning particularly with third person subjects. Witness:
@@ -413,11 +406,7 @@ One of the two major functions of the verb ending -ഉം is that of showing fut
 
 With first and second person subjects there is a contrast with the -ാം ending in its intentional sense. It is not possible to give a simple rule which tells you which ending to select in all cases, but the brief paragraph below may provide some helpful guidelines to some students.
 
-In his doctoral dissertation, David McAlpin has suggested grouping Malayalam verbforms into “actual” and “nonactual” categories. Other scholars have used the terms “realis” versus “irrealis”. The first group, which includes the -ഉം forms, covers actions which are real, actual, or certain in the mind of the speaker and also in the listener when s/he hears them. The second group, including the -ാം forms, are unreal, nonactual, or uncertain in
-
-<!-- Source: PDF page 146; printed page 96. -->
-
-the mind of the speaker and, consequently, to those who hear them as well. Thus, -ഉം forms are used for first and second person subjects in the nominative to show that something is certain to happen, either due to the determination of the speaker, or as a matter of habit or routine. Witness these examples:
+In his doctoral dissertation, David McAlpin has suggested grouping Malayalam verbforms into “actual” and “nonactual” categories. Other scholars have used the terms “realis” versus “irrealis”. The first group, which includes the -ഉം forms, covers actions which are real, actual, or certain in the mind of the speaker and also in the listener when s/he hears them. The second group, including the -ാം forms, are unreal, nonactual, or uncertain in <!-- Source: PDF page 146; printed page 96. --> the mind of the speaker and, consequently, to those who hear them as well. Thus, -ഉം forms are used for first and second person subjects in the nominative to show that something is certain to happen, either due to the determination of the speaker, or as a matter of habit or routine. Witness these examples:
 
 3. ഞാൻ നാളെ അവർക്ക് പണം കൊടുക്കാം.
 
@@ -443,7 +432,7 @@ A clear contrast is seen between complying with someone’s wishes and counterin
 
    “Even though you don’t like it, I’m coming.”
 
-With second person subject (നീ or നിങ്ങൾ), the -ാം verbforms most often appear in questions (see 6.3). Another aspect of the habitual meaning conveyed by the -ഉം ending is that of general truths, laws of nature, etc. Note that you cannot always tell without information from the broader context whether a sentence indicates a single act in future time, or general truth. Witness:
+With second person subject (നീ or നിങ്ങൾ), the -ാം verbforms most often appear in questions (see [6.3](lesson6.md#section-6-3)). Another aspect of the habitual meaning conveyed by the -ഉം ending is that of general truths, laws of nature, etc. Note that you cannot always tell without information from the broader context whether a sentence indicates a single act in future time, or general truth. Witness:
 
 7. അച്ഛൻ ഈ കസേരയിൽ ഇരിക്കും.
 
@@ -479,6 +468,7 @@ A list of the negative future/habitual verbs appears in Lesson Nine's Reading Pr
 
 <!-- Source: PDF page 148; printed page 98. -->
 
+<a id="section-7-2"></a><!-- reading-anchor -->
 ### 7.2 The Impersonal Verb കിട്ടുക
 
 The verb കിട്ടുക “to find, get receive, obtain, be available, etc.” can only appear in an impersonal construction. This means that the finder or receiver is expressed in the dative while the thing which is found or gotten is in the nominative and is the grammatical subject of the sentence. <!-- Editorial correction: source prints കിട്ടുക in the future statement below; corrected to കിട്ടും, as in its example. -->
@@ -488,11 +478,12 @@ Being a true impersonal verb, it can never take the -ാം ending and all futur
 1. കൊച്ചിബസ് എപ്പോൾ കിട്ടും?  
    “when can (one, or I) get the Cochin bus?”
 
+<a id="section-7-3"></a><!-- reading-anchor -->
 ### 7.3 Asking and Telling Time
 
 Asking and telling the time employs the word മണി, “bell(s)” along with the past verbform ആയി, literally “became” or “happened”. Thus, “what time is it” is rendered by എത്ര മണിയായി? literally “how many bells have happened” and “it is five o'clock” is rendered by അഞ്ച് മണിയായീ, literally “five bells have happened”. Colloquially മണി may be omitted as in മൂന്നായീ “it's three o'clock.”
 
-The same form of the number is used whether മണി is included or not except for the number one. “It's one o'clock” is rendered colloquially as ഒന്നായീ whereas the full form is ഒരുമണിയായീ. Half past the hour can be stated by adding the -അര “plus one half” for any hour of the day from one to twenty four. (See 17.1). Thus a one thirty departure time would be stated as ഒന്നര-മണിക്ക്. Note that, unlike English, present tense is never used in asking or telling what time it is. Telling what time something will take place, on the other hand, may use any tense of any verb. The time itself must appear in the dative. Witness:
+The same form of the number is used whether മണി is included or not except for the number one. “It's one o'clock” is rendered colloquially as ഒന്നായീ whereas the full form is ഒരുമണിയായീ. Half past the hour can be stated by adding the -അര “plus one half” for any hour of the day from one to twenty four. (See [17.1](lesson17.md#section-17-1)). Thus a one thirty departure time would be stated as ഒന്നര-മണിക്ക്. Note that, unlike English, present tense is never used in asking or telling what time it is. Telling what time something will take place, on the other hand, may use any tense of any verb. The time itself must appear in the dative. Witness:
 
 1. ബസ് ഏഴുമണിക്കാണ്.  
    “The bus is at seven o'clock.”
@@ -510,6 +501,7 @@ Precise times i.e. to the minute are stated as in English by using the two numbe
 4. മലയാളം വാർത്തകൾ രാവിലെ ഏഴ് മുപ്പത്തിയഞ്ചിന് കേൾക്കാം.  
    “You can hear Malayalam news seven thirty five in the morning.”
 
+<a id="section-7-4"></a><!-- reading-anchor -->
 ### 7.4 The Locative Requirement with Verbs of Motion
 
 Destinations for coming and going in Malayalam ordinarily require the locative form of the noun as in:
@@ -525,6 +517,7 @@ More specialized meanings can be added by postpositions such as -ഏയ്ക്
 3. നീ സ്കൂളിലേക്ക് നടക്കാമോ?  
    “will you walk (all the way) to the school.”
 
+<a id="section-7-5"></a><!-- reading-anchor -->
 ### 7.5 The Two Part Qualifier -ഏയുള്ളു
 
 The marker -ഏയുള്ളു “just, only” is a discontinuous or two-part item under certain conditions. When it qualifies a single word as in short answers to questions and the like, it occurs as a unit with യ functioning as a joining device between ഏ and ഉള്ളു. Witness:
@@ -540,7 +533,7 @@ If it qualifies any word other than the verb, however, the unit is split with -�
 1. ഞാൻ ഇപ്പോൾ കാപ്പിയേ കുടിക്കുന്നുള്ളു.  
    “I'm going to drink only coffee now.”
 
-You should not attempt to add -ഏയുള്ളു to tenses other than the simple present at this point; the -ഉം and -ാം verbforms change significantly when -ഏയുള്ളു is added (this is explained systematically in 16.3). Note that when -ഏയുള്ളു is joined to വേണം, it changes to വേണ്ട, without taking on the negative meaning which വേണ്ട usually conveys or alternatively it adds to the quotative particle എന്ന്. Witness:
+You should not attempt to add -ഏയുള്ളു to tenses other than the simple present at this point; the -ഉം and -ാം verbforms change significantly when -ഏയുള്ളു is added (this is explained systematically in [16.3](lesson16.md#section-16-3)). Note that when -ഏയുള്ളു is joined to വേണം, it changes to വേണ്ട, without taking on the negative meaning which വേണ്ട usually conveys or alternatively it adds to the quotative particle എന്ന്. Witness:
 
 2. എനിക്ക് കാപ്പി വേണം.  
    I want coffee.
@@ -575,18 +568,20 @@ Note that when the verbform is a negative itself, -ഏയുള്ളു cannot 
 8. ഞാൻ അത്ര ദൂരം നടക്കുന്നില്ലെന്നേയുള്ളു, പക്ഷേ, ബസ്സിൽ പോകാം.  
    I'm just not walking all that distance, but I'll go by bus.
 
+<a id="section-7-6"></a><!-- reading-anchor -->
 ### 7.6 Spelling Changes When Joining -ഏയുള്ളു and -എങ്കിൽ
 
 -ഏയുള്ളു, either as a unit or separated into its two parts, is like the dative and possessive word endings in that in both speaking and writing it is always attached to the word(s) preceding it. Unlike these endings, though, it has only one form no matter what the ending of the preceding word may be. -ഏയുള്ളു or -ഏ follows the same conventions as എന്ന് or ആണ്, i.e. യ is required as a joining device after all vowel-final words except those ending in -ി and -ു, and otherwise it is written onto the final consonant of all consonant-final words with the echo vowel, -ു് always dropping.
 
-The separable part of the qualifier, -ഉള്ളു, follows the same rules as ഉണ്ട് for being joined to words (see 3.1). Note, however, that it does not follow nouns and can only follow certain types of verbforms.
+The separable part of the qualifier, -ഉള്ളു, follows the same rules as ഉണ്ട് for being joined to words (see [3.1](lesson3.md#section-3-1)). Note, however, that it does not follow nouns and can only follow certain types of verbforms.
 
 <!-- The source prints -ന്നു or എന്ന് here; retained as printed. -->
 
-> **Editorial note:** The source’s list “-ന്നു or എന്ന്” is inconsistent with the preceding examples and should not be treated as an exhaustive rule. Follow the fully glossed examples in section 7.5; section 16.5 develops the construction further.
+> **Editorial note:** The source’s list “-ന്നു or എന്ന്” is inconsistent with the preceding examples and should not be treated as an exhaustive rule. Follow the fully glossed examples in section [7.5](lesson7.md#section-7-5); section [16.5](lesson16.md#section-16-5) develops the construction further.
 
 Those you have learned so far include only forms ending in -ന്നു or എന്ന് (other types are covered in Lesson Sixteen). The conjunction, -എങ്കിൽ “if”, is also a dependent word in that in speaking or writing it is always joined to the preceding word. It follows the spelling conventions in joining just cited for -ഏയുള്ളു, above.
 
+<a id="section-7-7"></a><!-- reading-anchor -->
 ### 7.7 The Hortative “Let's” Verbform
 
 The “let us” verbform takes only a first person plural inclusive dative subject (നമുക്ക്) and requires the modal or irrealis ending -ാം. The modal ending for the verb “to be” and “to become” is ആകാം. C.f.
@@ -602,8 +597,16 @@ The “let us” verbform takes only a first person plural inclusive dative subj
 
 <!-- Source: PDF page 152; printed page 102. -->
 
-Note that these forms may also convey the “can” meaning covered in 6.3. When the നമുക്ക് is left out, as often happens (see the end of Conversation Four), it is unclear whether a speaker is saying “Let's go” or “We can go”. In real situations, it is often immaterial which meaning is intended, as the results are the same.
+Note that these forms may also convey the “can” meaning covered in [6.3](lesson6.md#section-6-3). When the നമുക്ക് is left out, as often happens (see the end of Conversation Four), it is unclear whether a speaker is saying “Let's go” or “We can go”. In real situations, it is often immaterial which meaning is intended, as the results are the same.
 
-Remember that -ാം verbforms with dative subjects have no direct negative form (see 6.3). To convey the meaning “let's not,” or “Let's don't,” the negative of the desiderative is used (See 8.4), or with a paraphrastic form using the negative conjunctive verbform (18.4).
+Remember that -ാം verbforms with dative subjects have no direct negative form (see [6.3](lesson6.md#section-6-3)). To convey the meaning “let's not,” or “Let's don't,” the negative of the desiderative is used (See [8.4](lesson8.md#section-8-4)), or with a paraphrastic form using the negative conjunctive verbform (18.4).
 
 The usage of this Malayalam form generally parallels that of the “let's” form in English, hence no explanation is provided here beyond that supplied by the examples in this and following lesson.
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Lesson 6](lesson6.md) · [Contents](contents.md) · [Next: Lesson 8 →](lesson8.md)
+
+<!-- /reading-navigation -->

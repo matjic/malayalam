@@ -1,7 +1,9 @@
+<a id="lesson15"></a><!-- reading-anchor -->
 # Lesson 15
 
 <!-- Source: PDF page 266; printed page 212. -->
 
+<a id="lesson15-reference-list"></a><!-- reading-anchor -->
 ## Reference List
 
 Note: Meanings given here apply only when the verbal nouns appear without postpositions.
@@ -18,8 +20,9 @@ Note: Meanings given here apply only when the verbal nouns appear without postpo
 
 \* Occurs only with postpositions: like, than, about, etc.
 
-† The instrumental meaning of by, by means of (see 20.4), applies only to ordinary nouns, not to verbal nouns.
+† The instrumental meaning of by, by means of (see [20.4](lesson20.md#section-20-4)), applies only to ordinary nouns, not to verbal nouns.
 
+<a id="lesson15-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
 | Malayalam | Meaning |
@@ -32,12 +35,7 @@ Note: Meanings given here apply only when the verbal nouns appear without postpo
 | ഈയിടെ | recently |
 | കല്യാണം | marriage |
 | കല്യാണം കഴിക്കുക | to get married |
-
-<!-- Source: PDF page 267; printed page 213. -->
-
-| Malayalam | Meaning |
-|---|---|
-| രണ്ടു പേരും (Accusative: രണ്ടു പേരെയും) | both |
+| <!-- Source: PDF page 267; printed page 213. --> രണ്ടു പേരും (Accusative: രണ്ടു പേരെയും) | both |
 | കയറുക (Past tense: കയറി) | to get on, to get into, to enter |
 | നിൽക്കുക (Past tense: നിന്നു) | to stand, to wait, to stop |
 | സ്ത്രീ | woman |
@@ -56,8 +54,10 @@ Note: Meanings given here apply only when the verbal nouns appear without postpo
 | അത് പിന്നെ ആകട്ടെ | (I will) do that later (literally, let it be later) |
 | ബസ്സിനടുത്തേക്ക് | over to the bus |
 
+<a id="lesson15-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
 
+<a id="lesson15-a-read-the-past-conditional-forms-of-the-verbs-below"></a><!-- reading-anchor -->
 ### A. Read the past conditional forms of the verbs below.
 
 | | |
@@ -67,18 +67,14 @@ Note: Meanings given here apply only when the verbal nouns appear without postpo
 | കയറി | കയറിയാൽ |
 | തോന്നി | തോന്നിയാൽ |
 | എടുത്തു | എടുത്താൽ |
-
-<!-- Source: PDF page 268; printed page 214. -->
-
-| | |
-|---|---|
-| കൊടുത്തു | കൊടുത്താൽ |
+| <!-- Source: PDF page 268; printed page 214. --> കൊടുത്തു | കൊടുത്താൽ |
 | പറഞ്ഞു | പറഞ്ഞാൽ |
 | നിന്നു | നിന്നാൽ |
 | നടന്നു | നടന്നാൽ |
 | കേട്ടു | കേട്ടാൽ |
 | കണ്ടു | കണ്ടാൽ |
 
+<a id="lesson15-b-read-the-locative-form-of-the-past-verbal-nouns-below"></a><!-- reading-anchor -->
 ### B. Read the locative form of the past verbal nouns below.
 
 സംസാരിച്ചതിൽ  
@@ -93,6 +89,7 @@ Note: Meanings given here apply only when the verbal nouns appear without postpo
 കേട്ടതിൽ  
 കണ്ടതിൽ
 
+<a id="lesson15-c-read-the-present-and-past-tense-verbal-adjectives-below"></a><!-- reading-anchor -->
 ### C. Read the present and past tense verbal adjectives below.
 
 | | |
@@ -111,6 +108,7 @@ Note: Meanings given here apply only when the verbal nouns appear without postpo
 
 <!-- Source: PDF page 269; printed page 215. -->
 
+<a id="lesson15-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
 *ബസ്സ്റ്റാൻഡിലെ ഒരു രംഗം*
@@ -131,6 +129,7 @@ Note: Meanings given here apply only when the verbal nouns appear without postpo
 
 **കേശവൻ:** ശരി, എന്നാൽ നമുക്ക് അവരുടെ ബസ്സിനടുത്തേക്ക് നടക്കാം.
 
+<a id="lesson15-exercises"></a><!-- reading-anchor -->
 ## Exercises
 
 **1.** A. Fill in the blanks with the appropriate form of the verbs in parentheses.
@@ -245,11 +244,13 @@ Model: ഇപ്പോൾ വരാമെങ്കിൽ സാറിനെ ക�
 എടുക്കുക  
 കാണുക
 
+<a id="lesson15-grammar-notes"></a><!-- reading-anchor -->
 ## Grammar Notes
 
+<a id="section-15-1"></a><!-- reading-anchor -->
 ### 15.1 Cleft Sentences with Emphasis on the Verb
 
-In 5.4 it was shown how the normal order of a sentence may be rearranged to emphasize, focus, or foreground a particular element in it by placing the copula ആണ് immediately after it. Section 11.2 showed how the same mechanism operates in sentences containing normal verbs through the process of clefting. In such cases, the main verb is made into a noun by adding അത്, and the copula is placed after the element of the sentence to be emphasized, or brought into focus. This emphatic order always finds ആണ് somewhere in the middle of the sentence, and the verbal noun at the end. Witness:
+In [5.4](lesson5.md#section-5-4) it was shown how the normal order of a sentence may be rearranged to emphasize, focus, or foreground a particular element in it by placing the copula ആണ് immediately after it. Section [11.2](lesson11.md#section-11-2) showed how the same mechanism operates in sentences containing normal verbs through the process of clefting. In such cases, the main verb is made into a noun by adding അത്, and the copula is placed after the element of the sentence to be emphasized, or brought into focus. This emphatic order always finds ആണ് somewhere in the middle of the sentence, and the verbal noun at the end. Witness:
 
 1. ഞാൻ കൊച്ചിക്ക് പോകാനാണ് വന്നത്.
 
@@ -271,9 +272,10 @@ Cleft sentences with this order are neutral with respect to emphasis and focus, 
 
 Examples of this usage are found in Lesson Nineteen’s conversation.
 
+<a id="section-15-2"></a><!-- reading-anchor -->
 ### 15.2 The Discontinuous -ഉം Required with “Both”
 
-The vocabulary of Lesson Nine gave the item രണ്ടും as “both.” You can easily see that it is composed of രണ്ട് “two” plus -ഉം. As a unit, രണ്ടും functions as a noun, but when it is an adjective in a noun phrase, the -ഉം separates and attaches to the end of the noun being modified. This works the same as the -ഉം which is required with the adjective എല്ലാ “all” (see 14.1). Here, too, the -ഉം must go at the very end of the phrase, after any markers of pluralness or case role which the noun may carry. Witness:
+The vocabulary of Lesson Nine gave the item രണ്ടും as “both.” You can easily see that it is composed of രണ്ട് “two” plus -ഉം. As a unit, രണ്ടും functions as a noun, but when it is an adjective in a noun phrase, the -ഉം separates and attaches to the end of the noun being modified. This works the same as the -ഉം which is required with the adjective എല്ലാ “all” (see [14.1](lesson14.md#section-14-1)). Here, too, the -ഉം must go at the very end of the phrase, after any markers of pluralness or case role which the noun may carry. Witness:
 
 1. രണ്ടു കുട്ടികളും കളിക്കുന്നു.
 
@@ -289,13 +291,10 @@ Note that using രണ്ട് as an adjective in a noun phrase without the -�
 
    “There are two children.”
 
+<a id="section-15-3"></a><!-- reading-anchor -->
 ### 15.3 The Verbal Adjective in Relative Clauses
 
-Making verbal adjectives from present tense verbforms was described in 8.2, and from past tense verbforms in 13.5. These are only used in relative clauses which function as adjectives and give a more detailed description of the nouns which follow them. Several examples of their usage appear in this lesson’s conversation. Note that whereas such relatives
-
-<!-- Source: PDF page 275; printed page 221. -->
-
-always follow the noun in English and are accompanied by a relative pronoun (who, which, or that), they precede the noun in Malayalam and have no relative pronoun. Witness:
+Making verbal adjectives from present tense verbforms was described in [8.2](lesson8.md#section-8-2), and from past tense verbforms in [13.5](lesson13.md#section-13-5). These are only used in relative clauses which function as adjectives and give a more detailed description of the nouns which follow them. Several examples of their usage appear in this lesson’s conversation. Note that whereas such relatives <!-- Source: PDF page 275; printed page 221. --> always follow the noun in English and are accompanied by a relative pronoun (who, which, or that), they precede the noun in Malayalam and have no relative pronoun. Witness:
 
 1. ആ ബസ്സിൽ കയറുന്നയാൾ.
 
@@ -323,6 +322,7 @@ Note that the noun which is described by such a relative clause may serve any ro
 
    “He came the day that you wrote your exam.”
 
+<a id="section-15-4"></a><!-- reading-anchor -->
 ### 15.4 Indirect Expressions of Pleasure and Desire
 
 Pleasure in Malayalam is expressed by സന്തോഷം plus some form of ഉണ്ട് or ആണ്. All expressions are indirect, i.e., take a dative subject. The cause of the pleasure is always expressed by an embedded sentence, or a noun with a locative ending. Thus:
@@ -359,7 +359,7 @@ Finally, when the same expression is used with ആണ് as the main verb instea
 
 This may be put into the past by changing ആണ് to ആയിരുന്നു.
 
-Desires are expressed in Malayalam by the desiderative verbform with a dative subject (see 8.4). They may also be expressed by the noun ആഗ്രഹം “desire” plus ഉണ്ട്, again in an indirect or dative subject construction. In such cases, the action you want to perform is expressed by the infinitive or gerund. Witness:
+Desires are expressed in Malayalam by the desiderative verbform with a dative subject (see [8.4](lesson8.md#section-8-4)). They may also be expressed by the noun ആഗ്രഹം “desire” plus ഉണ്ട്, again in an indirect or dative subject construction. In such cases, the action you want to perform is expressed by the infinitive or gerund. Witness:
 
 6. എനിക്ക് അവരോട് സംസാരിക്കണം.
 
@@ -377,6 +377,7 @@ It is even possible to make a kind of “double desire” statement by embedding
 
    “I want to talk with them.”
 
+<a id="section-15-5"></a><!-- reading-anchor -->
 ### 15.5 The Indirect Verb തോന്നുക
 
 “Think” in the sense of “to hold an opinion” is usually expressed by the verb തോന്നുക. In such uses, it always takes a dative subject, and the opinion, idea, or feeling held appears in the form of an indirect quote which takes the quotative marker എന്ന്, roughly corresponding to the English “that.” Witness:
@@ -429,7 +430,7 @@ Note that തോന്നുക may also be used in the sense of “occur to” 
 
    “That occurred to me, too.”
 
-The verb തോന്നുക is also used, still in an indirect construction, to express physical feelings of hunger, thirst, heat, and cold (see 21.3). The idea of “think” in the sense of “to go through the process of mulling something over” requires a separate verb വിചാരിക്കുക. It takes a direct construction, i.e., a nominative rather than dative subject, and has its object represented in connected conversation by അത്. It is also used in the sense of “to be thinking of, planning to” with embedded sentences taking എന്ന്. Witness:
+The verb തോന്നുക is also used, still in an indirect construction, to express physical feelings of hunger, thirst, heat, and cold (see [21.3](lesson21.md#section-21-3)). The idea of “think” in the sense of “to go through the process of mulling something over” requires a separate verb വിചാരിക്കുക. It takes a direct construction, i.e., a nominative rather than dative subject, and has its object represented in connected conversation by അത്. It is also used in the sense of “to be thinking of, planning to” with embedded sentences taking എന്ന്. Witness:
 
 > **Editorial learner note:** എഴുത്ത് here means “a letter”; എഴുതുക “to write” is already familiar. എഴുത്ത് is formally listed in Lesson 17’s vocabulary.
 
@@ -437,13 +438,10 @@ The verb തോന്നുക is also used, still in an indirect construction, 
 
    “I am thinking of writing mother a letter.”
 
+<a id="section-15-6"></a><!-- reading-anchor -->
 ### 15.6 Inflected Forms of the Verbal Noun
 
-This lesson's Reference List shows the full roster of case endings which a verbal noun may take. Like other nouns, these inflected forms of the verbal noun have two basic functions: to indicate the relationship of that item to the other elements in the sentence, and to meet the requirements of postpositions. These verbal nouns always present potentially separate sentences which are brought in to play some secondary role within the main sentence. As such, the verbal nouns have their own subject which may be the same as, or different from the subject of the main verb of the sentence. These nominalized verbs also frequently have other elements relating to their original sentence--direct and indirect objects, and adverbs of all kinds. Just
-
-<!-- Source: PDF page 279; printed page 225. -->
-
-how much of the full sentence comes along with the verbal noun depends, as it does with every sentence in Malayalam, main or embedded, on just how much is previously stated, or implicit in the context, and how much is required therefore for the sake of clarity. Witness:
+This lesson's Reference List shows the full roster of case endings which a verbal noun may take. Like other nouns, these inflected forms of the verbal noun have two basic functions: to indicate the relationship of that item to the other elements in the sentence, and to meet the requirements of postpositions. These verbal nouns always present potentially separate sentences which are brought in to play some secondary role within the main sentence. As such, the verbal nouns have their own subject which may be the same as, or different from the subject of the main verb of the sentence. These nominalized verbs also frequently have other elements relating to their original sentence--direct and indirect objects, and adverbs of all kinds. Just <!-- Source: PDF page 279; printed page 225. --> how much of the full sentence comes along with the verbal noun depends, as it does with every sentence in Malayalam, main or embedded, on just how much is previously stated, or implicit in the context, and how much is required therefore for the sake of clarity. Witness:
 
 1. അവർക്ക് അത് കൊടുക്കുന്നതിനു മുമ്പ് നീ എന്നോട് ചോദിക്കണമായിരുന്നു.
 
@@ -455,10 +453,18 @@ Note that verbal nouns in the accusative form occur only as objects of a postpos
 
    “What do you want to drink?”
 
-The instrumental form of the verbal noun has a single and special function. It means only “because,” and is never used in the senses in which regular nouns in the instrumental are, i.e., in the sense of “by means of” (see 16.6) or to express the active subject in the passive constructions formed with പെടുക (see 20.5). Witness:
+The instrumental form of the verbal noun has a single and special function. It means only “because,” and is never used in the senses in which regular nouns in the instrumental are, i.e., in the sense of “by means of” (see 16.6) or to express the active subject in the passive constructions formed with പെടുക (see [20.5](lesson20.md#section-20-5)). Witness:
 
 3. ഞാൻ ആ ജോലി ചെയ്തതിനാൽ എനിക്ക് കുറച്ചു പണം കിട്ടി.
 
    “Because of doing that work, I received some money.”
 
 No postposition requires the instrumental, so that verbal nouns cannot occur in this usage.
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Minilesson C](minilesson-c.md) · [Contents](contents.md) · [Next: Minilesson D →](minilesson-d.md)
+
+<!-- /reading-navigation -->

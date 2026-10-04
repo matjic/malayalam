@@ -1,7 +1,9 @@
+<a id="lesson13"></a><!-- reading-anchor -->
 # Lesson 13
 
 <!-- Source: PDF page 239; printed page 185. -->
 
+<a id="lesson13-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
 | Malayalam | Meaning |
@@ -31,18 +33,15 @@
 | തെറ്റ് | mistakes (noun) |
 | തിരുത്തുക (past tense: തിരുത്തി) | to correct |
 | കൊണ്ടുതരുക (past tense: കൊണ്ടുതന്നു) | to bring to someone |
-
-<!-- Source: PDF page 240; printed page 186. -->
-
-| Malayalam | Meaning |
-|---|---|
-| പൈസ | Paisa, a hundredth of a Rupee |
+| <!-- Source: PDF page 240; printed page 186. --> പൈസ | Paisa, a hundredth of a Rupee |
 | സ്റ്റാമ്പ് | stamp |
 | ഒട്ടിക്കുക (past tense: ഒട്ടിച്ചു) | to stick, to paste on |
 | കാപ്പി കുടിക്കുക (past tense: കാപ്പി കുടിച്ചു) | to have breakfast, snack (literally, to drink coffee) |
 
+<a id="lesson13-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
 
+<a id="lesson13-a-note-how--u0d1fu0d1f-combines-with-the-following-verbs"></a><!-- reading-anchor -->
 ### A. Note how -ിട്ട് combines with the following verbs.
 
 | | |
@@ -62,6 +61,7 @@
 | പോകുക | പോയിട്ട് |
 | വരുക | വന്നിട്ട് |
 
+<a id="lesson13-b-note-how--u0d1fu0d1fu0d23u0d1f-joins-to-these-verbs"></a><!-- reading-anchor -->
 ### B. Note how -ിട്ടുണ്ട് joins to these verbs.
 
 | | |
@@ -76,6 +76,7 @@
 
 <!-- Source: PDF page 241; printed page 187. -->
 
+<a id="lesson13-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
 മാധവൻ: മേനോൻ സാറിനെ ഒന്ന് കാണണം.  
@@ -92,15 +93,12 @@
 മേനോൻസാർ: വേറൊരു കാര്യം. ആ ഫോറത്തിൽ ഇരുപത് പൈസ സ്റ്റാമ്പ് ഒട്ടിക്കണം. അത് ഒട്ടിച്ചിട്ട് ക്ലാർക്കിന്റെ കൈയിൽ ഫോറം കൊടുക്കണം.  
 മാധവൻ: എന്നാൽ അങ്ങനെ ആകട്ടെ, സാർ.
 
+<a id="lesson13-exercises"></a><!-- reading-anchor -->
 ## Exercises
 
 **1.** A. Repeat after the teacher, counting by tens from ten to one hundred.
 
-   B. The teacher will assign specific decades. Practice counting, using all the numbers up to the following decade (say from 30 - 40, for example), so that you can recite them
-
-<!-- Source: PDF page 242; printed page 188. -->
-
-   fluently when called on. Use the list of numbers in the reference list at the beginning of Lesson Seven for help. Keep in mind that final “ത” is single in the names of the decades (thus a voiced fricative sound), but doubled “ത്ത” when the integers are added, thus becoming a voiceless stop sound.
+   B. The teacher will assign specific decades. Practice counting, using all the numbers up to the following decade (say from 30 - 40, for example), so that you can recite them <!-- Source: PDF page 242; printed page 188. --> fluently when called on. Use the list of numbers in the reference list at the beginning of Lesson Seven for help. Keep in mind that final “ത” is single in the names of the decades (thus a voiced fricative sound), but doubled “ത്ത” when the integers are added, thus becoming a voiceless stop sound.
 
 **2.** A. Give the Malayalam for the following numbers.
 
@@ -218,11 +216,13 @@ Models: അച്ഛൻ — അച്ഛനെപ്പോലെ
 | ജെയിംസ് | ഇറച്ചി |
 | കുട്ടി | സ്ത്രീ |
 
+<a id="lesson13-grammar-notes"></a><!-- reading-anchor -->
 ## Grammar Notes
 
+<a id="section-13-1"></a><!-- reading-anchor -->
 ### 13.1 The Stative Perfect Form of the Verb
 
-The stative perfect form of the verb is made up of the conjunctive verbform (participle), plus the perfective marker -ിട്ട്, plus ഉണ്ട്. Conjunctive verbforms end either in ഇ or in the echo vowel ഉ (see 13.2). Note that when it ends in ഇ, the joining device യ is required before -ിട്ട്. In all other cases, the echo vowel drops before -ിട്ട് is added. Witness:
+The stative perfect form of the verb is made up of the conjunctive verbform (participle), plus the perfective marker -ിട്ട്, plus ഉണ്ട്. Conjunctive verbforms end either in ഇ or in the echo vowel ഉ (see [13.2](lesson13.md#section-13-2)). Note that when it ends in ഇ, the joining device യ is required before -ിട്ട്. In all other cases, the echo vowel drops before -ിട്ട് is added. Witness:
 
 1. ക്ലാർക്ക് തെറ്റുകൾ തിരുത്തിയിട്ടുണ്ടോ?
 “Has the clerk corrected the mistakes?”
@@ -276,17 +276,19 @@ Sentences with stative perfect verbs may be clefted by placing ആണ് after t
 
 Questions containing -ിട്ടുണ്ട് verbforms may be answered with the full positive or negative stative perfect form of the verb appearing in the question, but are just as frequently answered by the short forms ഉണ്ട് or ഇല്ല.
 
+<a id="section-13-2"></a><!-- reading-anchor -->
 ### 13.2 The Conjunctive Verbform (Participle)
 
-You have already seen in 13.1 above that the conjunctive verbform is used in forming the stative perfect and past stative verbforms. It is also used in the coordinate and subordinate clauses of complex sentences (see 13.3) hence with all these functions, it is very common in the language. It is formed from the past tense in a very straightforward manner. Past forms ending in ഇ show no change. Those ending in the vowel ഉ reduce it to the echo vowel. The perfective marker -ിട്ട് always follows a conjunctive verbform in the mind of the speaker of Malayalam, though often omitted in actual use. When -ിട്ട് is present, it is joined according to the rules in 13.1. The two exceptions, പോയി and ആയി, are also treated in 13.1. Further examples of the use of the conjunctive participle appear in 13.3 below.
+You have already seen in [13.1](lesson13.md#section-13-1) above that the conjunctive verbform is used in forming the stative perfect and past stative verbforms. It is also used in the coordinate and subordinate clauses of complex sentences (see [13.3](lesson13.md#section-13-3)) hence with all these functions, it is very common in the language. It is formed from the past tense in a very straightforward manner. Past forms ending in ഇ show no change. Those ending in the vowel ഉ reduce it to the echo vowel. The perfective marker -ിട്ട് always follows a conjunctive verbform in the mind of the speaker of Malayalam, though often omitted in actual use. When -ിട്ട് is present, it is joined according to the rules in [13.1](lesson13.md#section-13-1). The two exceptions, പോയി and ആയി, are also treated in [13.1](lesson13.md#section-13-1). Further examples of the use of the conjunctive participle appear in [13.3](lesson13.md#section-13-3) below.
 
+<a id="section-13-3"></a><!-- reading-anchor -->
 ### 13.3 The Conjunctive Verbform in Complex Sentences
 
 It is very common in spoken, as well as written, language to join two sentences together into a single complex sentence. English has different ways of marking the relationship between the sentences joined in this way: “and”, “before”, “after”, and others not relevant here. Malayalam has a single device, the conjunctive verbform (or participle) capable of expressing all three of the relationships just mentioned. Though the language also contains words for
 
 <!-- Source: PDF page 248; printed page 194. -->
 
-“before” മുമ്പ് and “after” ശേഷം, which can be used to show the relationship between such clauses (see 12.4), the commonest means of doing so is with the conjunctive participle.
+“before” മുമ്പ് and “after” ശേഷം, which can be used to show the relationship between such clauses (see [12.4](lesson12.md#section-12-4)), the commonest means of doing so is with the conjunctive participle.
 
 The common element in these three situations is the sequence of time, i.e., that the action of the verb in the first sentence takes place, and is completed, before the action of the verb in the second sentence. When joined into a complex sentence, the verb of the first sentence appears in the conjunctive form, with the perfective marker -ിട്ട് understood if not stated, and the verb of the former second sentence appears in the normal verb slot at the end of the sentence and carries the verb endings indicating tense, etc. This suggests that the second verb is the main verb and that the conjunctive verbform is somehow subsidiary, but this is often not the case. In many instances, the two sentences being joined are of equal importance, and the use of the conjunctive participle as a linking device simply shows that the two actions happen in sequence rather than simultaneously. The resulting complex sentences are equivalent to English compound sentences joined by “and”, and the endings denoting tense, mood, etc. on the second verb also apply to the first. Note that in the compound sentences, both verbs must have the same subject. This often results in the verbs from the two sentences occurring immediately after one another in the complex sentence. Witness:
 
@@ -357,15 +359,17 @@ When two actions occur simultaneously, this is indicated by placing കൊണ്
 
    “May I fill out the form while sitting here?”
 
+<a id="section-13-4"></a><!-- reading-anchor -->
 ### 13.4 The Intensifying Prefix അതി-
 
-The prefix അതി- can be added to some words to intensify their meaning. For example, ആവശ്യം “need”, അത്യാവശ്യം “great, extreme need”. Note that the short ഇ vowel has become യ before the initial ആ of ആവശ്യം. The item in this lesson's conversation അത്യാവശ്യ “very, extremely necessary” is the adjective formed by removing the final -ം from the noun (see 16.1).
+The prefix അതി- can be added to some words to intensify their meaning. For example, ആവശ്യം “need”, അത്യാവശ്യം “great, extreme need”. Note that the short ഇ vowel has become യ before the initial ആ of ആവശ്യം. The item in this lesson's conversation അത്യാവശ്യ “very, extremely necessary” is the adjective formed by removing the final -ം from the noun (see [16.1](lesson16.md#section-16-1)).
 
 There is no way to predict which words will accept അതി-, so this information is mainly for your passive rather than active vocabulary. Two other cases are ആഗ്രഹം “desire” which forms അത്യാഗ്രഹം “extreme desire, covetousness”, and വേദന “pain” which forms അതിവേദന “intense pain.” Malayalam, like English, has a number of prefixes and suffixes which are used to form derived nouns. Some of the more common ones are treated in Lessons Twenty-Two and Twenty-Three.
 
+<a id="section-13-5"></a><!-- reading-anchor -->
 ### 13.5 The Past Verbal Adjective
 
-It was shown in 8.2 how adjectives may be formed from simple present tense verbforms by changing the final ഉ to അ. Adjectives may also be made from past tense verbforms. Those ending in ഉ replace ഉ with അ (just as the present forms), while those ending in ഇ require the joining device യ before adding the adjectival ending അ. Witness:
+It was shown in [8.2](lesson8.md#section-8-2) how adjectives may be formed from simple present tense verbforms by changing the final ഉ to അ. Adjectives may also be made from past tense verbforms. Those ending in ഉ replace ഉ with അ (just as the present forms), while those ending in ഇ require the joining device യ before adding the adjectival ending അ. Witness:
 
 <!-- Source: PDF page 251; printed page 197. -->
 
@@ -373,7 +377,7 @@ It was shown in 8.2 how adjectives may be formed from simple present tense verbf
 2. ഇപ്പോൾ വന്ന സാർ — “the gentleman who just came”
 3. ആ ദിവസം കിട്ടിയ ബസ് — “the bus (we) got that day”
 
-Just as example 1 illustrates these forms sometimes appear as a simple adjective, rather than as the verbal element of a relative clause. Any past tense form can be made into such an adjective. This includes all of the items whose past is formed by adding ആയിരുന്നു illustrated in 11.4 and 11.5 as well as both past forms of ആണ്. Note the following:
+Just as example 1 illustrates these forms sometimes appear as a simple adjective, rather than as the verbal element of a relative clause. Any past tense form can be made into such an adjective. This includes all of the items whose past is formed by adding ആയിരുന്നു illustrated in [11.4](lesson11.md#section-11-4) and 11.5 as well as both past forms of ആണ്. Note the following:
 
 4. ഇവിടെ പ്രിൻസിപ്പാൾ ആയിരുന്ന തോമസ് സാർ വേറെ സ്കൂളിലേക്ക് മാറി.
 
@@ -391,11 +395,12 @@ Just as example 1 illustrates these forms sometimes appear as a simple adjective
 
    “Didn't you do the work that you were supposed to do last week, yet?”
 
-Note that this construction is not normally used with negative verbs. Adjectives made from negative verbs are covered in 19.5.
+Note that this construction is not normally used with negative verbs. Adjectives made from negative verbs are covered in [19.5](lesson19.md#section-19-5).
 
+<a id="section-13-6"></a><!-- reading-anchor -->
 ### 13.6 Postpositions Requiring Nominative Case
 
-In 8.1 it was shown that the postposition പോലെ “like” requires the accusative ending on its preceding animate noun. Inanimate nouns, including verbal nouns, retain the nominative form before പോലെ. See:
+In [8.1](lesson8.md#section-8-1) it was shown that the postposition പോലെ “like” requires the accusative ending on its preceding animate noun. Inanimate nouns, including verbal nouns, retain the nominative form before പോലെ. See:
 
 1. കുട്ടികളെപ്പോലെ — “like children”
 2. അത് പോലെ — “like that”, “like it”
@@ -411,8 +416,9 @@ One other postposition, കൂടാതെ “besides”, also requires that ani
 7. പുതിയത് കൂടാതെ — “besides the new one”
 8. സാർ പറഞ്ഞത് കൂടാതെ — “Besides what you (respected) said”
 
-All other postpositions require case endings on their preceding nouns as described in 12.4.
+All other postpositions require case endings on their preceding nouns as described in [12.4](lesson12.md#section-12-4).
 
+<a id="section-13-7"></a><!-- reading-anchor -->
 ### 13.7 Accusative as Indirect Object
 
 The verb കാണിക്കുക has special grammatical requirements which will seem strange to the English speaker. What we regard as the indirect object, i.e. the person to whom something is shown, must be in the accusative in Malayalam. Witness:
@@ -422,10 +428,18 @@ The verb കാണിക്കുക has special grammatical requirements which 
    “I showed him the temple”
 
 <!-- Editorial restoration: source omits the verb after “of”; കാണുക supplied from the gloss “to cause someone to see.” Causative reference corrected from 20.1 to 20.7. -->
-This comes about because കാണിക്കുക is actually the causative (see 20.7) of കാണുക (“to see”), literally meaning, “to cause someone to see something”. If the direct object, the thing being shown, is something animate, therefore requiring accusative, you can have the curious situation of two accusatives within the same sentence, as in:
+This comes about because കാണിക്കുക is actually the causative (see [20.7](lesson20.md#section-20-7)) of കാണുക (“to see”), literally meaning, “to cause someone to see something”. If the direct object, the thing being shown, is something animate, therefore requiring accusative, you can have the curious situation of two accusatives within the same sentence, as in:
 
 2. ഞാൻ അനിയനെ ആനയെ കാണിച്ചു.
 
    “I showed little brother the elephant”.
 
 Malayalam is one of the few languages in the world having such double accusatives.
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Lesson 12](lesson12.md) · [Contents](contents.md) · [Next: Lesson 14 →](lesson14.md)
+
+<!-- /reading-navigation -->

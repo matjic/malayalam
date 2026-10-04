@@ -1,9 +1,12 @@
+<a id="appendix-c"></a><!-- reading-anchor -->
 # Appendix C
 
 <!-- Source: PDF page 476; printed page 413. -->
 
+<a id="appendix-c-all-about-time"></a><!-- reading-anchor -->
 ## All About Time
 
+<a id="appendix-c-periods-of-time"></a><!-- reading-anchor -->
 ### Periods of Time
 
 | Malayalam | English |
@@ -17,6 +20,7 @@
 | ദശവർഷം | decade |
 | നൂറ്റാണ്ട് | century |
 
+<a id="appendix-c-times-of-the-day"></a><!-- reading-anchor -->
 ### Times of the Day
 
 | Malayalam | English |
@@ -26,14 +30,10 @@
 | ഉച്ച കഴിഞ്ഞ് | afternoon |
 | വൈകുന്നേരം<br>വൈകിട്ട്<br>സായാഹ്നം | evening |
 | സന്ധ്യ | dusk |
-
-<!-- Source: PDF page 477; printed page 414. -->
-
-| Malayalam | English |
-|---|---|
-| രാത്രി | night |
+| <!-- Source: PDF page 477; printed page 414. --> രാത്രി | night |
 | പാതിരാത്രി | midnight |
 
+<a id="appendix-c-days-of-the-week"></a><!-- reading-anchor -->
 ### Days of the Week
 
 | Malayalam | English |
@@ -46,6 +46,7 @@
 | വെള്ളിയാഴ്ച | Friday |
 | ശനിയാഴ്ച | Saturday |
 
+<a id="appendix-c-other-days"></a><!-- reading-anchor -->
 ### Other Days
 
 <!-- Editorial correction: PDF page 477 pairs നാളെ with “today”; corrected using Lesson 8 vocabulary and the glossary, and the missing “tomorrow” row supplied. -->
@@ -61,6 +62,7 @@
 | തലേന്നാൾ | the day before the specified day |
 | പിറ്റേന്നാൾ | the day after the specified day |
 
+<a id="appendix-c-malayalam-months"></a><!-- reading-anchor -->
 ### Malayalam Months
 
 | Malayalam | English |
@@ -71,12 +73,7 @@
 | തുലാം | Oct-Nov |
 | വൃശ്ചികം | Nov-Dec |
 | ധനു | Dec-Jan |
-
-<!-- Source: PDF page 478; printed page 415. -->
-
-| Malayalam | English |
-|---|---|
-| മകരം | Jan-Feb |
+| <!-- Source: PDF page 478; printed page 415. --> മകരം | Jan-Feb |
 | കുംഭം | Feb-Mar |
 | മീനം | Mar-Apr |
 | മേടം | Apr-May |
@@ -84,6 +81,7 @@
 | മിഥുനം | Jun-Jul |
 | കർക്കടകം | Jul-Aug |
 
+<a id="appendix-c-seasons-of-the-year"></a><!-- reading-anchor -->
 ### Seasons of the Year
 
 | Malayalam | English |
@@ -96,6 +94,7 @@
 | ശരൽക്കാലം | Autumn |
 | ശിശിരകാലം | Winter |
 
+<a id="appendix-c-words-for-time"></a><!-- reading-anchor -->
 ### Words for Time
 
 | Malayalam | English |
@@ -111,8 +110,10 @@
 
 <!-- Source: PDF page 479; printed page 416. -->
 
+<a id="appendix-c-time-adverbs"></a><!-- reading-anchor -->
 ### Time Adverbs
 
+<a id="appendix-c-of-time-of-occurrence"></a><!-- reading-anchor -->
 #### Of Time of Occurrence
 
 | Malayalam | English |
@@ -142,12 +143,7 @@
 | ഈയിടെ | nowadays |
 | ആയിടെ | those days |
 | ഇനി, ഇനിയും | from this time |
-
-<!-- Source: PDF page 480; printed page 417. -->
-
-| Malayalam | English |
-|---|---|
-| ഇനിമേൽ<br>ഇനിമേലാൽ<br>ഇനിയും മുതൽ | henceforth |
+| <!-- Source: PDF page 480; printed page 417. --> ഇനിമേൽ<br>ഇനിമേലാൽ<br>ഇനിയും മുതൽ | henceforth |
 | പണ്ട് | formerly, in olden times |
 | പെട്ടെന്ന്<br>ഉടനെ<br>ഉടൻതന്നെ | suddenly, immediately |
 | വേഗം<br>ശീഘ്രം | quickly |
@@ -173,6 +169,7 @@
 
 <!-- Source: PDF page 481; printed page 418. -->
 
+<a id="appendix-c-of-frequency"></a><!-- reading-anchor -->
 #### Of Frequency
 
 | Malayalam | English |
@@ -190,6 +187,7 @@
 | ദൈമാസിക | |
 | ദൈവാർഷികം | |
 
+<a id="appendix-c-of-duration"></a><!-- reading-anchor -->
 #### Of Duration
 
 | Malayalam | English |
@@ -203,16 +201,12 @@
 | അഞ്ച് മിനിട്ട്<br>നേരത്തേക്ക്<br>അഞ്ച് മിനിട്ട് നേരം | for five minutes |
 | ഒമ്പത് മണി മുതൽ<br>അഞ്ച് മണി വരെ | from nine o’clock to five o’clock |
 | രാത്രി മുഴുവൻ | throughout the night |
-
-<!-- Source: PDF page 482; printed page 419. -->
-
-| Malayalam | English |
-|---|---|
-| പകൽ മുഴുവൻ | throughout the day |
+| <!-- Source: PDF page 482; printed page 419. --> പകൽ മുഴുവൻ | throughout the day |
 | ഞാൻ വന്നിട്ട് മൂന്നു മാസമായി | It has been three months since I came |
 | ഞാൻ വന്നിട്ട് മൂന്നു മാസമായി | I came three months ago |
 | അവൻമൂന്നുമാസമായിട്ട്വരാറേയില്ല | He hasn’t been coming for three months |
 
+<a id="appendix-c-conjunctions-for-subordinate-clauses"></a><!-- reading-anchor -->
 ### Conjunctions for Subordinate Clauses
 
 | Malayalam | English |
@@ -221,3 +215,11 @@
 | verb + പോൾ or പാടെ | while (when)+verb-ing |
 | Subject Verb+ഉടൻ | as soon as + subject verb |
 | Subject+Verb+പ്പോഴേയ്ക്കും | by the time |
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Appendix B](appendix-b.md) · [Contents](contents.md) · [Next: Appendix D →](appendix-d.md)
+
+<!-- /reading-navigation -->

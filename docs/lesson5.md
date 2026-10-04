@@ -1,6 +1,8 @@
 <!-- Source: PDF page 103; printed page 53. -->
+<a id="lesson5"></a><!-- reading-anchor -->
 # Lesson 5
 
+<a id="lesson5-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
 | Malayalam | English |
@@ -28,8 +30,10 @@
 | കാണാം or പിന്നെ കാണാം | See you later, so long |
 
 <!-- Source: PDF page 104; printed page 54. -->
+<a id="lesson5-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
 
+<a id="lesson5-a-note-the-infinitive-forms-of-the-verbs-you-have-learned-so-far"></a><!-- reading-anchor -->
 ### A. Note the infinitive forms of the verbs you have learned so far.
 
 |  |  |
@@ -45,6 +49,7 @@
 | കൊണ്ടുവരുക | കൊണ്ടുവരാൻ |
 | പറയുക | പറയാൻ |
 
+<a id="lesson5-b-note-the-present-tense-forms-of-the-verbs-you-have-learned-so-far"></a><!-- reading-anchor -->
 ### B. Note the present tense forms of the verbs you have learned so far.
 
 | Positive | Negative |
@@ -62,6 +67,7 @@
 | പറയുന്നു | പറയുന്നില്ല |
 
 <!-- Source: PDF page 105; printed page 55. -->
+<a id="lesson5-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
 **A:** കൃഷ്ണൻ എവിടെയാണ്?
@@ -92,6 +98,7 @@
 
 **A:** ശരി, കാണാം.
 
+<a id="lesson5-exercises"></a><!-- reading-anchor -->
 ## Exercises
 
 **1.** Make present tense forms from the commands below as in the model:
@@ -212,14 +219,17 @@ The same letter is used to represent a sound like English -n-, made with the ton
 | പിന്നെ | then, later |
 | തന്നെ | exactly, indeed |
 
+<a id="lesson5-lesson-five-grammar-notes"></a><!-- reading-anchor -->
 ## Lesson Five Grammar Notes
 
+<a id="section-5-1"></a><!-- reading-anchor -->
 ### 5.1 The Simple Present Tense
 
 The present tense in Malayalam is formed by adding “ന്നു” to the verb stem, thus: കുടിക്കുന്നു “I, you, we, they, and plural noun subjects drink, am/are drinking” or “he, she, it or singular noun subject drinks, is drinking.” Similarly: ചെയ്യുന്നു “I, you, we, they, or plural noun subject do, are doing.” or “he, she, it or singular noun subject does, is doing.” A list of present tense forms appears in the reading exercise [section B] for this lesson, in both the positive and negative. You will note that the present ending is the same no matter what the subject, so that there is no subject-verb agreement to worry about in Malayalam. The simple <!-- Source: PDF page 110; printed page 60. --> present may be used for action which is in progress at the moment, or action which is carried out from time to time. It may not be used for habitual actions or general truths; these are handled in Malayalam by the definite future tense taught in Lesson Seven.
 
 Note that the negative of the simple present is formed by adding the broad purpose negative particle ഇല്ല onto the present form. Here, as elsewhere, final short -ഉ drops before a vowel-initial ending. Thus: കുടിക്കുന്നു positive; കുടിക്കുന്നില്ല “do not, does not drink, are not, is not drinking.” Similarly: ചെയ്യുന്നു positive; ചെയ്യുന്നില്ല “do not, does not do, are not, is not doing.”
 
+<a id="section-5-2"></a><!-- reading-anchor -->
 ### 5.2 The Gerund and Infinitive of Purpose
 
 The conversation for this lesson contains three occurrences of a nonfinite verbform ending in -ാൻ. Nonfinite simply means that it is not the main verb in the sentence since Malayalam, like many languages, permits only one finite verb per clause. One of these -ാൻ forms functions as infinitives of purpose as in:
@@ -241,9 +251,10 @@ Further uses of the infinitive will be covered in later lessons.
 
 <!-- Source: PDF page 111; printed page 61. -->
 
+<a id="section-5-3"></a><!-- reading-anchor -->
 ### 5.3 More Possessives With ഉണ്ട്
 
-In 3.3 it was explained that English “have” in the sense of long-term possession is rendered by the verb ഉണ്ട് with the possessor expressed in the dative, and that temporary possession of material objects is expressed by ഉണ്ട് along with the phrase കൈയിൽ with the possessor expressed in the possessive, either stated in the sentence or understood. The conversation for this lesson contains two examples of temporary possession of nonmaterial things:
+In [3.3](lesson3.md#section-3-3) it was explained that English “have” in the sense of long-term possession is rendered by the verb ഉണ്ട് with the possessor expressed in the dative, and that temporary possession of material objects is expressed by ഉണ്ട് along with the phrase കൈയിൽ with the possessor expressed in the possessive, either stated in the sentence or understood. The conversation for this lesson contains two examples of temporary possession of nonmaterial things:
 
 1. എനിക്ക് കുറച്ച് ജോലിയുണ്ട്<br>
    “I have some work”
@@ -255,9 +266,10 @@ and
 
 This pattern is, in fact, used for all sorts of nonmaterial possession, whatever its duration.
 
+<a id="section-5-4"></a><!-- reading-anchor -->
 ### 5.4 Changing the Order of Elements in the Sentence for Emphasis
 
-The conversation for this lesson contains an example of an equational sentence which does not have the normal subject, complement, verb order. This small section is just a reminder of what was explained in Section 2.5 that any element in the sentence may be emphasized by moving it to the beginning of the sentence and placing the verb immediately after it. Thus the interrogative expression ഏത് ജോലി is given emphasis in:
+The conversation for this lesson contains an example of an equational sentence which does not have the normal subject, complement, verb order. This small section is just a reminder of what was explained in Section [2.5](lesson2.md#section-2-5) that any element in the sentence may be emphasized by moving it to the beginning of the sentence and placing the verb immediately after it. Thus the interrogative expression ഏത് ജോലി is given emphasis in:
 
 1. ഏത് ജോലിയാണ് അത്?<br>
    “What work is it (that you have to do).”
@@ -266,9 +278,10 @@ The normal order അത് ഏത് ജോലിയാണ് would be unemphati
 
 <!-- Source: PDF page 112; printed page 62. -->
 
+<a id="section-5-5"></a><!-- reading-anchor -->
 ### 5.5 The Negative Question Marker -േ-
 
-In section 2.3 you learned about the question marker -ോ for yes/no questions. It may be stating the obvious to say that the proposition implicit in the yes/no questions which take -ോ are stated in the positive: c.f.
+In section [2.3](lesson2.md#section-2-3) you learned about the question marker -ോ for yes/no questions. It may be stating the obvious to say that the proposition implicit in the yes/no questions which take -ോ are stated in the positive: c.f.
 
 1. സിനിമ കാണാൻ ഇഷ്ടമാണോ?
 
@@ -308,6 +321,7 @@ D. നീ വരുന്നില്ലേ? “Aren’t you coming.”
 
 The emphatic immediate future form വരുന്നുണ്ട് is easy, but you need not learn it at this time. It is covered in Lesson Seventeen. The simple present വരുന്നു may also be used in these answers.
 
+<a id="section-5-6"></a><!-- reading-anchor -->
 ### 5.6 The Plural Marker for Nouns and its Spelling Changes
 
 The basic plural marker in Malayalam is -കൾ. Witness: കട “shop”, കടകൾ “shops”; മുറി “room”, മുറികൾ “rooms”. This plural marker is not obligatory in Malayalam as it is in English. When there is some other word in the sentence which indicates plurality (a number or a quantifier like some, a few, etc.) the singular form of the noun will frequently be used as in:
@@ -347,6 +361,7 @@ There are a few other exceptions to the general rules above. Some of those apply
 
 There are a few other exceptions to the general rules above. Some of those applying to groups of nouns will be treated in later lessons. In the case of individual exceptions, it is far easier to learn from them as they occur, rather than to memorize lists of unusual forms. Therefore nouns occurring in the vocabularies of subsequent lessons will have irregular plurals indicated where applicable.
 
+<a id="section-5-7"></a><!-- reading-anchor -->
 ### 5.7 The Hint of [y] യ with Verbstems and Nouns.
 
 The part of the verb remaining after removing a tense or mood ending is called the stem. The verb endings taught so far are: the simple present ending -ഉന്നു, the ending for the polite imperative mood -ഊ, the non-finite or infinitive ending -ാൻ, and the citation (dictionary) form with -ഉക. A number of the verbs in this lesson’s reference list have ക്ക് as the final sound in their stem. Malayalam, much more than English, is written as it is spoken, and pronounced as it is written. The purpose of this section is to point out a small pronunciation difference not reflected in present day Malayalam script.
@@ -358,3 +373,11 @@ All verbs having the short vowel ഇ before the stem-final ക്ക്, as with
 Until recently, it was customary to write a half യ് in these verbs as in വയ്ക്കുക, nowadays written വക്കുക “to put, place” and former അയയ്ക്കുക for modern അയക്കുക “to send.” A number of verbs with അ before ക്ക് have no palatalization. For <!-- Source: PDF page 116; printed page 66. --> example, കിടക്കുക “to lie down” has always been written, and pronounced, without the hint of [y]. Since there is no way to tell, the verbs with vowels other than ഇ in their stem-final syllables which palatalize ക്ക് are marked with the symbol [y] in the vocabularies of succeeding lessons and in the glossary.
 
 Note the dative ending -ക്ക് also has the hint of [y] when spoken. A few nouns ending in അ have an unwritten half [y] pronounced before the palatalized -ക്ക്. Witness അമ്മക്ക് “for mother”, pronounced അമ്മയ്ക്ക്.
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Lesson 4](lesson4.md) · [Contents](contents.md) · [Next: Lesson 6 →](lesson6.md)
+
+<!-- /reading-navigation -->

@@ -1,9 +1,12 @@
+<a id="lesson6"></a><!-- reading-anchor -->
 # Lesson 6
 
 <!-- Source: PDF page 117; printed page 67. -->
 
+<a id="lesson6-reference-list"></a><!-- reading-anchor -->
 ## Reference List
 
+<a id="lesson6-possessive-of-personal-pronouns"></a><!-- reading-anchor -->
 ### Possessive of Personal Pronouns
 
 | Number | Nominative | Possessive |
@@ -21,6 +24,7 @@
 |  | നിങ്ങൾ | നിങ്ങളുടെ |
 |  | അവർ | അവരുടെ |
 
+<a id="lesson6-vocabulary"></a><!-- reading-anchor -->
 ### Vocabulary
 
 | Malayalam | English |
@@ -31,12 +35,7 @@
 | ബ്രാഹ്മണഹോട്ടൽ | Brahmin Hotel |
 | അറിയില്ലേ | don't you know (dative subject) |
 | അറിയാം | I, you, etc. know |
-
-<!-- Source: PDF page 118; printed page 68. -->
-
-| Malayalam | English |
-|---|---|
-| പുറകിൽ | behind, in back of |
+| <!-- Source: PDF page 118; printed page 68. --> പുറകിൽ | behind, in back of |
 | അമ്പലം | temple |
 | കാണാം | will see |
 | അപ്പുറത്ത് | beyond, on the other side (with dative or genitive noun) |
@@ -56,8 +55,10 @@
 | നല്ല | good |
 | ചോദിക്കുക | to ask |
 
+<a id="lesson6-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
 
+<a id="lesson6-a"></a><!-- reading-anchor -->
 ### A.
 
 Note the command forms of the verbs you have learned so far.
@@ -68,16 +69,12 @@ Note the command forms of the verbs you have learned so far.
 | ചെയ്യൂ | നോക്കൂ |
 | വരൂ | വായിക്കൂ |
 | കൊണ്ടുപോകൂ | കുടിക്കൂ |
-
-<!-- Source: PDF page 119; printed page 69. -->
-
-|  |  |
-|---|---|
-| പറയൂ | തരൂ |
+| <!-- Source: PDF page 119; printed page 69. --> പറയൂ | തരൂ |
 | പോകൂ | കൊടുക്കൂ |
 | പഠിക്കൂ | എടുക്കൂ |
 | കാണൂ | വാങ്ങിക്കൂ |
 
+<a id="lesson6-b"></a><!-- reading-anchor -->
 ### B.
 
 Note the future potential forms of the verbs you have learned so far.
@@ -93,6 +90,7 @@ Note the future potential forms of the verbs you have learned so far.
 | വാങ്ങിക്കാം | കൊണ്ടുവരാം |
 | നോക്കാം | വായിക്കാം |
 
+<a id="lesson6-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
 **A:** ഇവിടെ അടുത്ത് ചന്ത ഉണ്ടോ?
@@ -115,6 +113,7 @@ Note the future potential forms of the verbs you have learned so far.
 
 **A:** ശരി, അവിടുന്ന് വാങ്ങിക്കാം.
 
+<a id="lesson6-exercises"></a><!-- reading-anchor -->
 ## Exercises
 
 **1.** Change the present verbforms to future as in the model:
@@ -277,8 +276,10 @@ Malayalam has long and short vowels. Besides the different pronunciation, the lo
 10. അവൾക്ക് മലയാളം വായിക്കാൻ അറിയാമോ?
 11. നിനക്ക് അയാൾക്ക് അഞ്ച് രൂപ കൊടുക്കാൻ പറയാമോ?
 
+<a id="lesson6-lesson-six-grammar-notes"></a><!-- reading-anchor -->
 ## Lesson Six Grammar Notes
 
+<a id="section-6-1"></a><!-- reading-anchor -->
 ### 6.1 The Polite Assertive Marker -അല്ലോ
 
 The marker -അല്ലോ may be attached to any verb. It carries two main meanings, politeness and assertion. Politeness is the more basic for it operates in all cases. Whenever there is a negative or uncomfortable element in the situation such as when you cannot satisfy someone’s wishes, contradict what they have said, or criticize their conduct (see Lesson 19) - അല്ലോ adds an apologetic note. When, on the other hand, you satisfy someone’s wishes, the addition of -അല്ലോ adds politeness in the form of an undertone of reassurance and friendliness (see examples below).
@@ -327,6 +328,7 @@ Note that final -ഉ in positive verb forms and final -അ in negative verb form
 
 <!-- Source: PDF page 127; printed page 77. -->
 
+<a id="section-6-2"></a><!-- reading-anchor -->
 ### 6.2 The Negative Question as a Signposting and Rhetorical Device
 
 The negative question in Malayalam is often used for a purpose other than soliciting information. Thus, in this lesson’s conversation, when the passerby who has been asked for directions starts drawing his verbal map, he says: ആ, ബ്രാഹ്മണഹോട്ടൽ അറിയില്ലേ. This is the equivalent to “You know the brahman hotel,” thus establishing a common reference point from which to proceed. The verb “to know” need not be used, however. Witness: അവിടെ ഒരു പള്ളിയില്ലേ, literally, “isn’t there a church there?,” but functionally “you know the church there.” Such questions are called rhetorical questions, since they are questions in form only. Their real function is to establish shared information as a basis for further conversation. These rhetorical questions expect a reply in positive such as ഉണ്ട്, literally, “there is,” but functionally equivalent to “yes, I know it.” Even if you don’t know the place referred to, it is not polite to give a negative answer, as this impugns the judgment of the speaker in selecting the particular landmark. The polite approach here is to ask ഏത് പള്ളി, “which church.”
@@ -337,9 +339,10 @@ A third function of this negative rhetorical questions is to point out informati
 
 <!-- Source: PDF page 128; printed page 78. -->
 
+<a id="section-6-3"></a><!-- reading-anchor -->
 ### 6.3 The Intentive or Potential Verb Ending -ാം
 
-The ending -ാം occurs on main verbs and has two main functions. The special case of അറിയുക will be treated in 6.4 below.
+The ending -ാം occurs on main verbs and has two main functions. The special case of അറിയുക will be treated in [6.4](lesson6.md#section-6-4) below.
 
 When occurring with a nominative subject, -ാം indicates the intention to do something.
 
@@ -357,7 +360,7 @@ Such statements of intentionality are limited to first person subjects only (I o
 
 “are you willing to wait for five minutes?”
 
-We generally associate “will” in English with futurity rather than intention, but the -ാം forms in Malayalam are best regarded as expressions about intention rather than future action. This will become more clear in Lesson Seven when the true future and habitual ending -ഉം is introduced (see 7.1).
+We generally associate “will” in English with futurity rather than intention, but the -ാം forms in Malayalam are best regarded as expressions about intention rather than future action. This will become more clear in Lesson Seven when the true future and habitual ending -ഉം is introduced (see [7.1](lesson7.md#section-7-1)).
 
 When occurring with dative subjects, -ാം verbforms are usually translated by “can.”
 
@@ -371,14 +374,16 @@ or
 
 “can he (probably a small child) drink from a glass?”
 
-This usage indicating ability is clearly distinguished from the intentional usage above not only by the fact that it takes a dative as opposed to a nominative subject, but by the fact <!-- Source: PDF page 129; printed page 79. --> that it can take subjects of all persons. Witness എനിക്ക് അത് ചെയ്യാം, “I can do it,” അയാൾക്ക് അത് ചെയ്യാം, “he can do it.” The negative ചെയ്യുകയില്ല is used only for the intentional meaning, never for that of ability. “Cannot do,” etc. is expressed by എനിക്ക് ചെയ്യാൻ വയ്യ. A complete treatment of the various ways of expressing both positive and negative ability, including modal verbs, appears in 24.6.
+This usage indicating ability is clearly distinguished from the intentional usage above not only by the fact that it takes a dative as opposed to a nominative subject, but by the fact <!-- Source: PDF page 129; printed page 79. --> that it can take subjects of all persons. Witness എനിക്ക് അത് ചെയ്യാം, “I can do it,” അയാൾക്ക് അത് ചെയ്യാം, “he can do it.” The negative ചെയ്യുകയില്ല is used only for the intentional meaning, never for that of ability. “Cannot do,” etc. is expressed by എനിക്ക് ചെയ്യാൻ വയ്യ. A complete treatment of the various ways of expressing both positive and negative ability, including modal verbs, appears in [24.6](lesson24.md#section-24-6).
 
+<a id="section-6-4"></a><!-- reading-anchor -->
 ### 6.4 The Dative Subject Requirement For അറിയുക (“to know”)
 
-You have already met impersonal expressions such as ഇഷ്ടമാണ് and some uses of ഉണ്ട്, and the verb വേണം (see 3.3, 4.1, and 4.2). Some uses of അറിയുക also require that what might be regarded as the performer of the action, the knower, be expressed in the dative. This comes about through the eccentricity that most knowing in the present tense must be expressed by the potential form of the verb which regularly requires that the involved person be in the dative (see 6.3). You may, in fact, sometimes hear speakers of Indian English using “is that place known to you,” “she is not known to me,” and the like.
+You have already met impersonal expressions such as ഇഷ്ടമാണ് and some uses of ഉണ്ട്, and the verb വേണം (see [3.3](lesson3.md#section-3-3), 4.1, and 4.2). Some uses of അറിയുക also require that what might be regarded as the performer of the action, the knower, be expressed in the dative. This comes about through the eccentricity that most knowing in the present tense must be expressed by the potential form of the verb which regularly requires that the involved person be in the dative (see [6.3](lesson6.md#section-6-3)). You may, in fact, sometimes hear speakers of Indian English using “is that place known to you,” “she is not known to me,” and the like.
 
-Other tenses of അറിയുക take the normal nominative subject. The simple present form അറിയുന്നു occurs only in special cases, and the simple past form അറിഞ്ഞു (see 11.1) means to find out. Note that, as in English, the thing known or found out (direct object) may be omitted if previously stated or clear from context. Conversely, the direct object can also be stressed by placing it first in the sentence as in: അത് എനിക്ക് അറിയാം “I know that.” Such objects, when stated, are always in the nominative form as long as the thing known is not human. When stating that a person is known, the accusative form must be used (see 8.1). അറിയാം has the regular negative form അറിയില്ല as well as the special form അറിയാൻ പാടില്ല (see 24.6).
+Other tenses of അറിയുക take the normal nominative subject. The simple present form അറിയുന്നു occurs only in special cases, and the simple past form അറിഞ്ഞു (see [11.1](lesson11.md#section-11-1)) means to find out. Note that, as in English, the thing known or found out (direct object) may be omitted if previously stated or clear from context. Conversely, the direct object can also be stressed by placing it first in the sentence as in: അത് എനിക്ക് അറിയാം “I know that.” Such objects, when stated, are always in the nominative form as long as the thing known is not human. When stating that a person is known, the accusative form must be used (see [8.1](lesson8.md#section-8-1)). അറിയാം has the regular negative form അറിയില്ല as well as the special form അറിയാൻ പാടില്ല (see [24.6](lesson24.md#section-24-6)).
 
+<a id="section-6-5"></a><!-- reading-anchor -->
 ### 6.5 The Postpositions and Their Case Requirements
 
 You have already seen that certain basic relationships between elements in the situation are expressed by endings on the noun, c.f. വീട്ടിൽ “in the house,” വീടിന് “for the house,” വീടിന്റെ “of the house, the house’s.” There are seven such case endings, these account for a very small number of all of the possible relationships one may need to <!-- Source: PDF page 130; printed page 80. --> express. Many additional relationships are expressed by postpositions. This seemingly strange name simply means that the relation word is postposed (placed after) the noun they refer to just as their English counterparts, prepositions, are preposed (placed before) the nouns they are related to. This lesson’s conversation contains four common postpositions: അപ്പുറത്ത് “on that side of,” ഇപ്പുറത്ത് “on this side of”, മുമ്പിൽ “in front of” or “opposite,” and പുറകിൽ “in back of” or “behind.”
@@ -409,6 +414,7 @@ In general, the dative is preferred in colloquial speech whereas the possessive 
 
 These details of usage may seem complex, but memorizing a few good examples from the lesson should enable you to use them without having to think about the rules.
 
+<a id="section-6-6"></a><!-- reading-anchor -->
 ### 6.6 The Possessive Form (Case) of the Noun
 
 You have already met a number of possessive forms as items in preceding lessons. This form of the noun (often called genitive in grammar books) has two functions. One, shows that the noun to which it is attached has the relationship of possessor to some other noun in the sentence. The possessor may be a person or a thing. Witness:
@@ -507,9 +513,10 @@ Examples:
 
 ചേട്ടന്റെ — “elder brother’s, of elder brother.”
 
+<a id="section-6-7"></a><!-- reading-anchor -->
 ### 6.7. More Uses of the -ാൻ verbform.
 
-The infinitive of purpose was treated in 5.2. It is formed from a verb stem plus the -ാൻ ending. Its name comes from two of its most common uses which denote purpose. In the conversation in Lesson Three we have the line:
+The infinitive of purpose was treated in [5.2](lesson5.md#section-5-2). It is formed from a verb stem plus the -ാൻ ending. Its name comes from two of its most common uses which denote purpose. In the conversation in Lesson Three we have the line:
 
 1. ജെയിംസിന്റെ കൈയിൽ ഒരു പത്തു രൂപ എടുക്കാൻ ഉണ്ടോ?
 
@@ -555,7 +562,7 @@ Note that, as in English, this object may often be deleted resulting in the shor
 The deleted object often refers to something which has been specifically stated in earlier dialog, but it is also used to refer to a general situation in the sense of “I can’t bear, or deal with, this.” The expression വയ്യ is a so-called defective verb, having no positive form.
 
 <!-- Editorial correction: source cites 6.1; corrected to 6.3, which discusses the potential ending. -->
-The idea of “can” may be expressed by the -ാം verbform with the dative construction (see 6.3). Several other ways of saying “can” and “can’t” are treated in 24.6. All of these except the -ാം verbform permit only the infinitive of purpose as their object. The infinitive of purpose also serves as the object of the expression ഇഷ്ടമാണ്, as:
+The idea of “can” may be expressed by the -ാം verbform with the dative construction (see [6.3](lesson6.md#section-6-3)). Several other ways of saying “can” and “can’t” are treated in [24.6](lesson24.md#section-24-6). All of these except the -ാം verbform permit only the infinitive of purpose as their object. The infinitive of purpose also serves as the object of the expression ഇഷ്ടമാണ്, as:
 
 7. അവർക്ക് ഇംഗ്ലീഷിൽ സംസാരിക്കാനാണ് കൂടുതൽ ഇഷ്ടം.
 
@@ -585,9 +592,10 @@ The idea of purpose is also found in some predicates as in:
 
 “Is this water for (the purpose of) drinking?”
 
+<a id="section-6-8"></a><!-- reading-anchor -->
 ### 6.8 Colloquial forms of Words with “From.”
 
-The postposition നിന്ന് requires that the noun it governs, i.e. the noun which occurs just before it, must be in the locative case. Since the locative ending for most nouns is -ിൽ (See 2.4) you can simply add the sequence -ിൽനിന്ന് to most nouns to convey the meaning “from.” In casual everyday speech this sequence reduces to -ീന്. Thus:
+The postposition നിന്ന് requires that the noun it governs, i.e. the noun which occurs just before it, must be in the locative case. Since the locative ending for most nouns is -ിൽ (See [2.4](lesson2.md#section-2-4)) you can simply add the sequence -ിൽനിന്ന് to most nouns to convey the meaning “from.” In casual everyday speech this sequence reduces to -ീന്. Thus:
 
 1. കടയിൽനിന്ന് (standard Malayalam)
 
@@ -604,3 +612,11 @@ As may be seen from the lesson’s conversation, the place words have their own 
 3. അവിടുന്ന് — “from there.”
 
 ഇവിടുന്ന് — “from here.”
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Lesson 5](lesson5.md) · [Contents](contents.md) · [Next: Lesson 7 →](lesson7.md)
+
+<!-- /reading-navigation -->

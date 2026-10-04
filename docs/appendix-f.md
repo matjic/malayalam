@@ -1,11 +1,15 @@
+<a id="appendix-f"></a><!-- reading-anchor -->
 # Appendix F
 
 <!-- Source: PDF page 492; printed page 429. -->
 
+<a id="appendix-f-malayalam-words-taking-associative-classified-by-caseframe-and-function"></a><!-- reading-anchor -->
 ## Malayalam words taking associative classified by caseframe and function
 
+<a id="appendix-f-verbs-and-nouns-taking-addressive-caseframe"></a><!-- reading-anchor -->
 ### Verbs and nouns taking addressive caseframe
 
+<a id="appendix-f-addressive-verbs"></a><!-- reading-anchor -->
 #### Addressive Verbs
 
 All verbs having this function take three-argument frames.
@@ -21,18 +25,14 @@ All verbs having this function take three-argument frames.
 | അഭ്യർത്ഥിക്കുക | to appeal for | നമ്മൾ സർക്കാരിനോട് സഹായം അഭ്യർത്ഥിക്കണം. | “We should appeal for help from the government.” |
 | അപേക്ഷിക്കുക | to request | എനിക്ക് ഈ ഉപകാരം ചെയ്തുതരണമെന്ന് നിങ്ങളോട് താഴ്മയോടെ അപേക്ഷിച്ചുകൊള്ളുന്നു. | “I humbly request you to do me this favor.” |
 | പിറുപിറുക്കുക | to murmur | മനു വിഷ്ണുവിനോട് എന്തോ പിറുപിറുത്തു. | “Manu murmured something to Vishnu.” |
-
-<!-- Source: PDF page 493; printed page 430. -->
-
-| Word | Meaning | Example | Translation |
-|---|---|---|---|
-| ആഹ്വാനം ചെയ്യുക | to request (someone to do something) | യൂണിയന്റെ നേതാക്കൾ വിദ്യാർത്ഥികളോട് ക്ലാസ് ബഹിഷ്കരിക്കാൻ ആഹ്വാനം ചെയ്തു. | “The union leaders requested the students to boycott classes.” |
+| <!-- Source: PDF page 493; printed page 430. --> ആഹ്വാനം ചെയ്യുക | to request (someone to do something) | യൂണിയന്റെ നേതാക്കൾ വിദ്യാർത്ഥികളോട് ക്ലാസ് ബഹിഷ്കരിക്കാൻ ആഹ്വാനം ചെയ്തു. | “The union leaders requested the students to boycott classes.” |
 | രേഖപ്പെടുത്തുക | to express a feeling | മന്ത്രിമാർ എഴുത്തുകാരന്റെ കുടുംബത്തോട്അദ്ദേഹത്തിന്റെ മരണത്തിൽ അനുശോചനം രേഖപ്പെടുത്തി. | “The ministers expressed their condolences to the writer’s family over his death.” |
 | യാചിക്കുക | to plead, beg | ഞാൻ നിന്നോട് ക്ഷമ യാചിക്കുന്നു. | “I beg you for forgiveness.” |
 | ബന്ധപ്പെടുക | to contact | ഞങ്ങളോട് ഈ നമ്പരിൽ ബന്ധപ്പെടുക. | “Contact us on this (phone) number.” |
 | ആലോചിക്കുക | to consult (with) | ഇതിന് സാറിനോട് ആലോചിച്ചാൽ മതി. | “You can consult with the boss on this.” |
 | സമ്മതിക്കുക | to admit; | നീ പണം എടുത്തെന്ന് എന്നോട് സമ്മതിക്കുന്നോ? | “Do you admit to me that you took the money?” |
 
+<a id="appendix-f-derived-addressive-nouns"></a><!-- reading-anchor -->
 #### Derived addressive nouns:
 
 | Word | Meaning | Example | Translation |
@@ -45,16 +45,19 @@ All verbs having this function take three-argument frames.
 
 <!-- Source: PDF page 494; printed page 431. -->
 
+<a id="appendix-f-ablative-function"></a><!-- reading-anchor -->
 ### Ablative Function
 
 | Word | Meaning | Example | Translation |
 |---|---|---|---|
 | വാങ്ങിക്കുക | to obtain | ഇതിന് അമ്മയോട് പണം വാങ്ങിക്കു. | “Get the money from mother for this.” |
 
+<a id="appendix-f-associative-function"></a><!-- reading-anchor -->
 ### Associative Function
 
 > **Editorial note:** Several source labels and translations have been corrected below: the അവഗണന noun example and അവഗണിക്കുക verb example were interchanged; examples using മടുപ്പ് and പരിഭവം are labeled as nouns; അവളോടുള്ള refers to “her”; പരിഭവമുണ്ട് describes a present state.
 
+<a id="appendix-f-two-argument-frame-type-1"></a><!-- reading-anchor -->
 #### Two-Argument Frame, Type 1
 
 The derived noun occurs in the dative construction with some form of the existive verb. This noun takes its object in the associative, while the corresponding verb takes its object in the accusative.
@@ -160,6 +163,7 @@ The derived noun occurs in the dative construction with some form of the existiv
 **Verb:** സർക്കാർ ന്യൂനപക്ഷത്തെ അവഗണിക്കുന്നത് ശരിയല്ല.  
 “The Government’s neglect towards the minorities is not right.”
 
+<a id="appendix-f-two-argument-frames-type-two"></a><!-- reading-anchor -->
 #### Two-argument Frames, Type Two:
 
 The object of the verb must be in the associative; there is no derived noun.
@@ -171,13 +175,9 @@ The object of the verb must be in the associative; there is no derived noun.
 | ചാരുക | to lean (intran.) | കുട്ടി കതകിനോട് ചാരി നിന്നു. | “The boy stood leaning against the door.” |
 | സമരം ചെയ്യുക | to struggle against | ഇന്ത്യക്കാർ ബ്രിട്ടീഷുകാരോട് സമരം ചെയ്തു. | “Indians struggled against the British.” |
 | വഴങ്ങുക | to accede or submit to, | അവൻ എന്നോട് വഴങ്ങിയില്ല.<br>എന്റെ അപേക്ഷയോട് അവൻ വഴങ്ങിയില്ല. | “He didn’t submit to me.”<br>“He didn’t accede to my request.” |
+| <!-- Source: PDF page 497; printed page 434. --> ഉടക്ക് | Dispute, take issue with | അവൻ ആ കാര്യത്തിൽ എന്നോട് ഉടക്കി. | “He took issue with me on that matter.” |
 
-<!-- Source: PDF page 497; printed page 434. -->
-
-| Word | Meaning | Example | Translation |
-|---|---|---|---|
-| ഉടക്ക് | Dispute, take issue with | അവൻ ആ കാര്യത്തിൽ എന്നോട് ഉടക്കി. | “He took issue with me on that matter.” |
-
+<a id="appendix-f-two-argument-frame-type-three"></a><!-- reading-anchor -->
 #### Two-Argument frame, Type Three
 
 There is no parent verb, only a derived noun. The object of the noun must be in the associative with the existive verb taking a dative subject. In most cases the alternate verb peTuka is permitted, and frequently the verb toonuka, “to feel” as well. In a few cases, the copula, aaNu, is also a permissible alternative.
@@ -190,13 +190,9 @@ There is no parent verb, only a derived noun. The object of the noun must be in 
 | അസൂയ; കുശുമ്പ് | jealousy, envy | അവർക്ക് നിന്നോട് അസൂയ ഉണ്ട്. | “They are jealous of you.” |
 | ഭക്തി | devotion | അവന് ദേവന്മാരോട് വലുതായ ഭക്തിയുണ്ട്. | “He is very devoted to the Gods.” |
 | ബന്ധം | connection | എനിക്ക് ഒരു പാർട്ടിയോടും ബന്ധമില്ല. | “I have no connection to any political party.” |
+| <!-- Source: PDF page 498; printed page 435. --> ദേഷ്യം, അരിശം | anger, to be angry | അവൾക്ക് എന്നോട് ദേഷ്യം വന്നു. | “She became angry with me.” |
 
-<!-- Source: PDF page 498; printed page 435. -->
-
-| Word | Meaning | Example | Translation |
-|---|---|---|---|
-| ദേഷ്യം, അരിശം | anger, to be angry | അവൾക്ക് എന്നോട് ദേഷ്യം വന്നു. | “She became angry with me.” |
-
+<a id="appendix-f-two-argument-frames-type-four"></a><!-- reading-anchor -->
 #### Two-argument Frames, Type four:
 
 Both the verb and the derived noun occurring in a dative construction with the existive verb require the object in the associative.
@@ -325,6 +321,7 @@ Both the verb and the derived noun occurring in a dative construction with the e
 **Verb:** നീ പണം എടുത്തെന്ന് എന്നോട് സമ്മതിക്കുന്നോ?  
 “Do you admit to me that you took the money?”
 
+<a id="appendix-f-three-argument-non-causative-expressions"></a><!-- reading-anchor -->
 #### Three-argument non-causative expressions:
 
 > **Editorial source note:** The first three entries give English translations without corresponding Malayalam example sentences. These incomplete entries are retained as reference material; do not treat them as complete sentence models.
@@ -346,20 +343,25 @@ Both the verb and the derived noun occurring in a dative construction with the e
 ആരോടും ബഹളം ഉണ്ടാക്കരുത്.  
 “Don’t argue with anyone.”
 
+<a id="appendix-f-three-argument-causative-frames"></a><!-- reading-anchor -->
 #### Three argument causative frames:
 
 ചേർക്കുക to cause something to join or match
 
+<a id="appendix-f-four-argument-double-causative-frame"></a><!-- reading-anchor -->
 #### Four-argument double causative frame:
 
 ചേർപ്പിക്കുക to have someone mix something, get something mixed
 
 <!-- Source: PDF page 501; printed page 438. -->
 
+<a id="appendix-f-other-uses-of-the-associative"></a><!-- reading-anchor -->
 ## Other Uses of the Associative
 
+<a id="appendix-f-i-postpositions-taking-associative"></a><!-- reading-anchor -->
 ### I. Postpositions Taking Associative
 
+<a id="appendix-f-1-postpositions-taking-associative-exclusively"></a><!-- reading-anchor -->
 #### 1. Postpositions Taking Associative Exclusively
 
 **ഒപ്പം, with, equal to, alongside,**
@@ -378,6 +380,7 @@ Both the verb and the derived noun occurring in a dative construction with the e
 അതോടുകൂടി പരിപാടി അവസാനിക്കുന്നു.  
 “With that, our program is ending.”
 
+<a id="appendix-f-2-postpositions-taking-associative-in-some-usages"></a><!-- reading-anchor -->
 #### 2. Postpositions taking Associative in Some Usages.
 
 **എതിർ against**
@@ -395,19 +398,23 @@ Both the verb and the derived noun occurring in a dative construction with the e
 ഞാൻ അഞ്ചുമണിക്കടുത്ത് നിന്നെ കാണാം.  
 “I’ll see you around five o’clock.”
 
+<a id="appendix-f-ii-special-expressions-with-associative"></a><!-- reading-anchor -->
 ### II. Special Expressions with Associative
 
 | Malayalam | English |
 |---|---|
 | കൈയോടു കൈ | hand in hand |
-
-<!-- Source: PDF page 502; printed page 439. -->
-
-| Malayalam | English |
-|---|---|
-| മെയ്യോടു മെയ് | (lit. body to body), touching each other |
+| <!-- Source: PDF page 502; printed page 439. --> മെയ്യോടു മെയ് | (lit. body to body), touching each other |
 | നെഞ്ചോടു നെഞ്ച് | (lit.) breast to breast, embracing |
 | മുഖത്തോടു മുഖം | face to face |
 | കണ്ണോടുകണ്ണ് | eye to eye |
 | തോളോടുതോൾ | (lit. shoulder to shoulder), equal, on a par |
 | അനുബന്ധിച്ച് | added onto (journalese) |
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Appendix E](appendix-e.md) · [Contents](contents.md) · [Next: Malayalam-English Glossary →](glossary.md)
+
+<!-- /reading-navigation -->

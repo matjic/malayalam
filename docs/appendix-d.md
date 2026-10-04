@@ -1,11 +1,14 @@
+<a id="appendix-d"></a><!-- reading-anchor -->
 # Appendix D
 
 <!-- Source: PDF page 483; printed page 420. -->
 
+<a id="appendix-d-postpositions-and-their-cases"></a><!-- reading-anchor -->
 ## Postpositions and their Cases
 
 Note: The postpositions are grouped according to the case ending required for the preceding noun.
 
+<a id="appendix-d-nominative"></a><!-- reading-anchor -->
 ### Nominative
 
 <!-- Editorial restoration: the character after “final-” is missing on PDF page 483; -ം is specified in Lesson 20.3 and the glossary entry for പ്രകാരം. -->
@@ -22,6 +25,7 @@ Note: The postpositions are grouped according to the case ending required for th
 | പോലെ | like |
 | കൂടാതെ (with inanimate nouns) | besides |
 
+<a id="appendix-d-possessive"></a><!-- reading-anchor -->
 ### Possessive
 
 All unstarred items often take the dative in colloquial speech. Starred items take possessive only.
@@ -30,12 +34,7 @@ All unstarred items often take the dative in colloquial speech. Starred items ta
 |---|---|
 | മദ്ധ്യത്തിൽ<br>നടുവിൽ | in between, in the middle |
 | മദ്ധ്യ or നടുവിൽ<br>നടുവെ or നടുവേ | between, midst, middle |
-
-<!-- Source: PDF page 484; printed page 421. -->
-
-| Malayalam | English |
-|---|---|
-| അരികിൽ<br>അരികെ | near, by |
+| <!-- Source: PDF page 484; printed page 421. --> അരികിൽ<br>അരികെ | near, by |
 | വക്കിൽ | on the brim, edge |
 | കരയിൽ | on the shore, bank, side |
 | അറ്റത്ത് | at the edge or end |
@@ -54,12 +53,7 @@ All unstarred items often take the dative in colloquial speech. Starred items ta
 | അപ്പുറത്ത് | on that side |
 | ഇപ്പുറത്ത് | on this side |
 | മറുപുറത്ത് | on the other or opposite side |
-
-<!-- Source: PDF page 485; printed page 422. -->
-
-| Malayalam | English |
-|---|---|
-| \*മുക്കിൽ<br>\*മൂലയിൽ | at the corner |
+| <!-- Source: PDF page 485; printed page 422. --> \*മുക്കിൽ<br>\*മൂലയിൽ | at the corner |
 | \*സീമയിൽ | at the boundary |
 | \*ചുറ്റും | all around, around |
 | \*വശത്ത് | on the side |
@@ -71,6 +65,7 @@ All unstarred items often take the dative in colloquial speech. Starred items ta
 | നേരെ | against, towards, opposite to |
 | ഇടയിൽ | amongst |
 
+<a id="appendix-d-dative"></a><!-- reading-anchor -->
 ### Dative
 
 | Malayalam | English |
@@ -91,6 +86,7 @@ All unstarred items often take the dative in colloquial speech. Starred items ta
 
 <!-- Source: PDF page 486; printed page 423. -->
 
+<a id="appendix-d-accusative"></a><!-- reading-anchor -->
 ### Accusative
 
 | Malayalam | English |
@@ -103,6 +99,7 @@ All unstarred items often take the dative in colloquial speech. Starred items ta
 | -ഓളം<br>[note that the accus. ending<br>-എ+ഓ=ഓ] | as much as<br>as great as<br>as far as, until |
 | കുറിച്ച് | about, of, concerning, for the sake of |
 
+<a id="appendix-d-locative"></a><!-- reading-anchor -->
 ### Locative
 
 | Malayalam | English |
@@ -113,8 +110,17 @@ All unstarred items often take the dative in colloquial speech. Starred items ta
 | -ഏക്ക് | towards, into |
 | -ഓളം | as much as<br>as great as<br>as far as<br>until |
 
+<a id="appendix-d-associative"></a><!-- reading-anchor -->
 ### Associative
 
 | Malayalam | English |
 |---|---|
 | കൂടെ<br>കൂടി | with |
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Appendix C](appendix-c.md) · [Contents](contents.md) · [Next: Appendix E →](appendix-e.md)
+
+<!-- /reading-navigation -->

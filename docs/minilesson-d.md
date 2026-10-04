@@ -1,7 +1,9 @@
+<a id="minilesson-d"></a><!-- reading-anchor -->
 # Minilesson D
 
 <!-- Source: PDF page 280; printed page 226. -->
 
+<a id="minilesson-d-again-another-and-other-necessary-words"></a><!-- reading-anchor -->
 ## Again, Another, and other necessary words
 
 The word വീണ്ടും is used with verbs to show repeating of an action or state which occurred previously, c.f.
@@ -67,3 +69,11 @@ Actions which are still going on are usually indicated by ഇപ്പോഴു�
 12. പുള്ളി ഇപ്പോഴും നിൽപ്പുണ്ട്.
 
     “The guy is still standing”
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Lesson 15](lesson15.md) · [Contents](contents.md) · [Next: Lesson 16 →](lesson16.md)
+
+<!-- /reading-navigation -->

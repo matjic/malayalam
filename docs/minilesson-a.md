@@ -1,9 +1,12 @@
+<a id="minilesson-a"></a><!-- reading-anchor -->
 # Minilesson A
 
 <!-- Source: PDF page 176; printed page 126. -->
 
+<a id="minilesson-a-u0d1fu0d30u0d2fu0d28u0d32-u0d12u0d30-u0d30u0d17"></a><!-- reading-anchor -->
 ## ട്രെയിനിലെ ഒരു രംഗം
 
+<a id="minilesson-a-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
 | Malayalam | English |
@@ -17,6 +20,7 @@
 | ഇറങ്ങുക | to get down |
 | മാസം | month |
 
+<a id="minilesson-a-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
 വിദേശി: ഏത് സ്ഥലമാണിത്?
@@ -62,3 +66,11 @@
 വിദേശി: പിന്നെക്കാണാം, പോട്ടെ?
 
 മലയാളി: ശരി, പിന്നെക്കാണാം.
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Lesson 8](lesson8.md) · [Contents](contents.md) · [Next: Lesson 9 →](lesson9.md)
+
+<!-- /reading-navigation -->

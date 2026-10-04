@@ -1,7 +1,9 @@
 <!-- Source: PDF page 25; printed page xv. -->
 
+<a id="alphabet"></a><!-- reading-anchor -->
 # The Malayalam Script
 
+<a id="alphabet-table-i-the-malayalam-alphabet"></a><!-- reading-anchor -->
 ### Table I: The Malayalam Alphabet
 
 **Vowels:**
@@ -84,3 +86,11 @@
 \* The syllable ന is pronounced in one of two ways, either as a dental consonant (with the tongue touching the teeth) or as an alveolar consonant (with the tongue behind the teeth).
 
 \*\* When the syllable റ is doubled, appearing as റ്റ, then the resulting sound is pronounced as alveolar “ta,” as in “teacher.”
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: The Book And How To Use It](usage.md) · [Contents](contents.md) · [Next: How to Write Malayalam Symbols →](symbols.md)
+
+<!-- /reading-navigation -->

@@ -1,8 +1,11 @@
 <!-- Source: PDF page 72; printed page 26. -->
+<a id="lesson3"></a><!-- reading-anchor -->
 # Lesson 3
 
+<a id="lesson3-reference-list"></a><!-- reading-anchor -->
 ## Reference List
 
+<a id="lesson3-demonstratives"></a><!-- reading-anchor -->
 ### Demonstratives
 
 | Type | Malayalam | English |
@@ -14,6 +17,7 @@
 | Adjectives | ആ | that |
 | Adjectives | ഏത് | which? |
 
+<a id="lesson3-vocabulary"></a><!-- reading-anchor -->
 ### Vocabulary
 
 | Malayalam | English |
@@ -30,11 +34,7 @@
 | ജ്യേഷ്ഠൻ, ചേട്ടൻ | older brother |
 | ഇപ്പോൾ വരും | will come now (right away) |
 | സുഖം | health, comfort |
-
-<!-- Source: PDF page 73; printed page 27. -->
-| Malayalam | English |
-|---|---|
-| സുഖമാണോ? | How are (you)? |
+| <!-- Source: PDF page 73; printed page 27. --> സുഖമാണോ? | How are (you)? |
 | തന്നെ | indeed, surely |
 | എന്തൊക്കെ | what all? |
 | വിശേഷങ്ങൾ | news |
@@ -59,17 +59,14 @@
 | അനുജത്തി (അനിയത്തി) | little sister |
 | കുടുംബം | family |
 
+<a id="lesson3-numbers"></a><!-- reading-anchor -->
 ### Numbers
 
 | Malayalam | English |
 |---|---|
 | ഒന്ന് | one |
 | രണ്ട് | two |
-
-<!-- Source: PDF page 74; printed page 28. -->
-| Malayalam | English |
-|---|---|
-| മൂന്ന് | three |
+| <!-- Source: PDF page 74; printed page 28. --> മൂന്ന് | three |
 | നാല് | four |
 | അഞ്ച് | five |
 | ആറ് | six |
@@ -78,6 +75,7 @@
 | ഒൻപത് | nine |
 | പത്ത് | ten |
 
+<a id="lesson3-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
 
 Note how **ഉണ്ട്** joins to the following words.
@@ -97,6 +95,7 @@ Note how **ഉണ്ട്** joins to the following words.
 | മണി | മണിയുണ്ട് |
 | മേശ | മേശയുണ്ട് |
 
+<a id="lesson3-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
 **ജോൺ**: ജെയിംസ് ഉണ്ടോ?
@@ -136,6 +135,7 @@ Note how **ഉണ്ട്** joins to the following words.
 
 **ജോൺ**: ഓ! മതി, മതി.
 
+<a id="lesson3-exercises"></a><!-- reading-anchor -->
 ## Exercises
 
 **1. Learning the numbers 1–10:**
@@ -332,11 +332,13 @@ The instructor will hold up flashcards with items from the above list. If the it
 9. രാജൻ
 10. സാറിന്റെ ഡാക്ടർ
 
+<a id="lesson3-lesson-three-grammar-notes"></a><!-- reading-anchor -->
 ## Lesson Three Grammar Notes
 
+<a id="section-3-1"></a><!-- reading-anchor -->
 ### 3.1 Existive/Locative Sentences with ഉണ്ട്
 
-In 1.2 the equational type sentence was described, consisting of a subject, object/complement, and verb, which is always ആണ് or some other form of the verb “to be.” In this lesson you meet the existive type sentence, which consists of two rather than three basic elements, i.e. a subject and a verb which will always be some form of the verb ഉണ്ട്. Whereas the copula ആണ്, etc. translates as “am, is” or “are”, ഉണ്ട് usually translates as “there is”, “there are”. Witness:
+In [1.2](lesson1.md#section-1-2) the equational type sentence was described, consisting of a subject, object/complement, and verb, which is always ആണ് or some other form of the verb “to be.” In this lesson you meet the existive type sentence, which consists of two rather than three basic elements, i.e. a subject and a verb which will always be some form of the verb ഉണ്ട്. Whereas the copula ആണ്, etc. translates as “am, is” or “are”, ഉണ്ട് usually translates as “there is”, “there are”. Witness:
 
 1. പഴമുണ്ടോ?<br>
    “Are there any bananas?”
@@ -387,17 +389,19 @@ II. Whenever English requires, or permits, “there is” or “there are” as 
 
 “How many people are (there) at home?”
 
-III. For expressing possession, where English uses “have” (see 3.3 below).
+III. For expressing possession, where English uses “have” (see [3.3](lesson3.md#section-3-3) below).
 
-IV. For most expressions of physical and emotional feelings (see 15.4, 21.3).
+IV. For most expressions of physical and emotional feelings (see [15.4](lesson15.md#section-15-4), 21.3).
 
+<a id="section-3-2"></a><!-- reading-anchor -->
 ### 3.2 “One of Your” Possessive Phrases
 
 Malayalam handles the order of elements in possessive phrases such as “one of my books” differently from English. See “എന്റെ ഒരു പുസ്തകം” in this lesson’s conversation: this phrase might be rendered literally as “my one book.” In fact, you will commonly hear phrases such as “my one friend” in Indian English. This is the only way of rendering such phrases in Malayalam, and after a little practice, it should begin to seem quite natural to you.
 
+<a id="section-3-3"></a><!-- reading-anchor -->
 ### 3.3 Possessive Sentences: Alienable versus Inalienable Possession
 
-Malayalam has no separate verb equivalent to English “have.” Possession is shown at the sentence level (as opposed to the phrases covered in the preceding section) by the verb in collocation with the appropriate types of noun phrases. There are two kinds of possession, sometimes referred to as “alienable” and “inalienable.” The fancy terms are not necessary, of course, but one must have a feeling for the two kinds of possession and the different types of phrases they require in Malayalam. “Inalienable possession” applies to things which a person has on a more or less permanent basis, or by virtue of who he or she is. Inalienable possession requires the possessor to be in the dative (see 4.5). Family members, for example, belong to a person by virtue of the family into which he or she has been born. Witness:
+Malayalam has no separate verb equivalent to English “have.” Possession is shown at the sentence level (as opposed to the phrases covered in the preceding section) by the verb in collocation with the appropriate types of noun phrases. There are two kinds of possession, sometimes referred to as “alienable” and “inalienable.” The fancy terms are not necessary, of course, but one must have a feeling for the two kinds of possession and the different types of phrases they require in Malayalam. “Inalienable possession” applies to things which a person has on a more or less permanent basis, or by virtue of who he or she is. Inalienable possession requires the possessor to be in the dative (see [4.5](lesson4.md#section-4-5)). Family members, for example, belong to a person by virtue of the family into which he or she has been born. Witness:
 
 1. എനിക്ക് ഒരു ചേട്ടനുണ്ട്.
 
@@ -435,10 +439,12 @@ The book may actually be on a shelf, in a book bag, or anywhere so long as it is
 
 The boundary line between permanent and temporary possession is fairly clear-cut. Ordinarily a car is a permanent possession. Similarly “അവർക്ക് പണമുണ്ട്” means, <!-- Source: PDF page 85; printed page 39. --> “They have money/are well off,” while “അവരുടെ കൈയിൽ പണമുണ്ട്” means, “They have money right now.” This distinction is sometimes reflected in Indian English in that temporary possession will be rendered by “with me,” a rough translation of കൈയിൽ as in: “Your money is with me,” “Is that book with you?”, etc.
 
+<a id="section-3-4"></a><!-- reading-anchor -->
 ### 3.4. The Polite Command and Citation Forms of Verbs
 
 Polite command forms of verbs always end in the long vowel -ഊ, which is attached to the stem. A list of polite command forms appears in Reading Practice A of Lesson Six. The basic form, or citation form, of the verb ends in -ഉക, as in വരുക (“to come”) and ഇരിക്കുക (“to sit/stay”). The citation forms of some verbs appear in Reading Practice A of Lesson Five. As in English, the personal pronoun subject of an imperative (command) sentence is usually omitted. The forms ending in -ഊ have നിങ്ങൾ as the understood subject, and are hence polite forms that may be used safely with anyone in any circumstances. Other command forms are introduced later in the lessons.
 
+<a id="section-3-5"></a><!-- reading-anchor -->
 ### 3.5. Impersonal Expressions for Health and Welfare
 
 Physical and emotional feelings in English are expressed with equational sentences: “I am fine/thirsty/angry/depressed,” etc. In Malayalam, these feelings are conveyed through impersonal expressions in which the *logical subject*, or the person experiencing the feeling, appears as a noun or pronoun in the dative case (as introduced in Lesson Four). In practice, it is often very natural to omit these dative subjects, since it is obvious who is being talked about. In this lesson’s conversation, therefore, we find the greeting sequence, സുഖമാണോ? (literally “Is there health for you?”) and സുഖം തന്നെ (literally “I have health, indeed.”), in which both lines appear with the personal subject unspecified. In fact, in conversational interchanges it is especially common to omit dative subjects. They are normally specified only if there is a subject other than the expected one, and then it would not be repeated in the reply. Witness the following example.
@@ -455,6 +461,7 @@ Physical and emotional feelings in English are expressed with equational sentenc
 
 The last statement, സുഖം തന്നെ, may not be used with the forms of the pronouns we have learned so far. When speaking to someone directly, or about oneself, the person involved is not usually expressed. When it is, it must be in the form of നിങ്ങൾക്ക് and എനിക്ക്, respectively.
 
+<a id="section-3-6"></a><!-- reading-anchor -->
 ### 3.6. Coordinate Conjunctions “...and...and”
 
 When one makes a list of two or more things in Malayalam, the conjunction -ഉം must be added to every member of the list, and not only to the final member (as in English).
@@ -471,6 +478,7 @@ We have already seen in Lesson Two that -ഉം may occur attached to only one w
 
 <!-- Source: PDF page 87; unnumbered illustration page following printed page 40. -->
 
+<a id="lesson3-illustrations"></a><!-- reading-anchor -->
 ## Illustrations
 
 ![ഒരു മലക്കറിക്കട (vegetable stall); മൂന്ന് മലയാളി മുഖങ്ങൾ](assets/images/lesson3-illustrations.jpg)
@@ -480,3 +488,11 @@ We have already seen in Lesson Two that -ഉം may occur attached to only one w
 ![ഒരു ചായക്കട](assets/images/lesson3-photo-088.jpg)
 
 ഒരു ചായക്കട
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Lesson 2](lesson2.md) · [Contents](contents.md) · [Next: Lesson 4 →](lesson4.md)
+
+<!-- /reading-navigation -->

@@ -1,9 +1,12 @@
+<a id="lesson9"></a><!-- reading-anchor -->
 # Lesson 9
 
 <!-- Source: PDF page 177; printed page 127. -->
 
+<a id="lesson9-reference-list"></a><!-- reading-anchor -->
 ## Reference List
 
+<a id="lesson9-all-forms-of-nouns"></a><!-- reading-anchor -->
 ### All Forms of Nouns
 
 | Case | അമ്മ | സാർ | രാമൻ |
@@ -17,6 +20,7 @@
 | Instrumental | അമ്മയാൽ | സാറാൽ | രാമനാൽ |
 | Vocative | അമ്മേ | സാറേ | രാമാ |
 
+<a id="lesson9-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
 | Malayalam | English |
@@ -36,12 +40,7 @@
 | ഉടുക്കുക | wrap, wear, put on (sari, skirt, dhoti, lungi) |
 | നന്നായിരിക്കും | it will be nice |
 | ഉടുത്തോളു | go ahead and put it on |
-
-<!-- Source: PDF page 178; printed page 128. -->
-
-| Malayalam | English |
-|---|---|
-| ഒന്നും | anything, nothing (with a negative verb) |
+| <!-- Source: PDF page 178; printed page 128. --> ഒന്നും | anything, nothing (with a negative verb) |
 | ഒന്നും പറയില്ല | won't say anything |
 | എപ്പോഴും | always |
 | കൂട്ടുകാരി | friend (feminine) |
@@ -57,8 +56,10 @@
 | ചെറുത് (variant of ചെറിയത്) | little one, small one |
 | കൊള്ളുക | to fit inside of something, to stick (as an arrow) |
 
+<a id="lesson9-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
 
+<a id="lesson9-a"></a><!-- reading-anchor -->
 ### A.
 
 Note how **-ിലേക്ക്** (to, toward) and **-ിൽ നിന്ന്** (from) join to the following. Also note that both require the locative case of the noun.
@@ -73,12 +74,7 @@ Note how **-ിലേക്ക്** (to, toward) and **-ിൽ നിന്ന�
 | ആഫീസ് | ആഫീസിലേക്ക് | ആഫീസിൽ നിന്ന് |
 | കട | കടയിലേക്ക് | കടയിൽ നിന്ന് |
 | കോളെജ് | കോളെജിലേക്ക് | കോളെജിൽ നിന്ന് |
-
-<!-- Source: PDF page 179; printed page 129. -->
-
-| Word | With “-ിലേക്ക്” | With “-ിൽ നിന്ന്” |
-|---|---|---|
-| വീട് | വീട്ടിലേക്ക് | വീട്ടിൽ നിന്ന് |
+| <!-- Source: PDF page 179; printed page 129. --> വീട് | വീട്ടിലേക്ക് | വീട്ടിൽ നിന്ന് |
 | ചന്ത | ചന്തയിലേക്ക് | ചന്തയിൽ നിന്ന് |
 | സ്കൂൾ | സ്കൂളിലേക്ക് | സ്കൂളിൽ നിന്ന് |
 
@@ -91,6 +87,7 @@ Note the following exceptions:
 | അവിടെ | അവിടേക്ക് | അവിടുന്ന് |
 | ഇവിടെ | ഇവിടേക്ക് | ഇവിടുന്ന് |
 
+<a id="lesson9-b"></a><!-- reading-anchor -->
 ### B.
 
 Note the written versus colloquial forms of these future negative verbforms.
@@ -125,6 +122,7 @@ Note the written versus colloquial forms of these future negative verbforms.
 
 <!-- Source: PDF page 180; printed page 130. -->
 
+<a id="lesson9-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
 ഗീത: ഇത് നല്ല സാരിയാണല്ലോ. ആരുടേതാണ്?
@@ -153,6 +151,7 @@ Note the written versus colloquial forms of these future negative verbforms.
 
 ഗീത: ശരി, ഇപ്പോൾ തയ്യാറാകാം.
 
+<a id="lesson9-exercises"></a><!-- reading-anchor -->
 ## Exercises
 
 **1. A.** Change the adjectives to nouns in the following sentences, making other necessary changes, as in the model:
@@ -333,8 +332,10 @@ Note the written versus colloquial forms of these future negative verbforms.
 
 <!-- Source: PDF page 185; printed page 135. -->
 
+<a id="lesson9-grammar-notes"></a><!-- reading-anchor -->
 ## Grammar Notes
 
+<a id="section-9-1"></a><!-- reading-anchor -->
 ### 9.1 Making Pronouns and Noun Phrases from Adjectives
 
 Any adjective in Malayalam may be made into a noun simply by the addition of the neuter pronoun അത്. Possessive adjectives end in എ and most other adjectives in the language end in അ whether they are basic adjectives or complex adjectives derived from nouns or verbs. With all adjectives, when adding അത്, the initial അ is lost leaving the form -ത്. The addition of -ത് yields a pronoun in the case of a possessive adjective, and a noun phrase in the case of basic adjectives, and a verbal noun or noun phrase in the case of a verbal adjective.
@@ -345,7 +346,7 @@ Witness:
 2. പുതിയ “new”, പുതിയത് “a, the new one.”
 3. വാങ്ങിക്കുന്നത് “buying, the one who is buying, that which is being bought.”
 
-Only the first two types are discussed here; verbal nouns are treated in 15.6 and 18.7.
+Only the first two types are discussed here; verbal nouns are treated in [15.6](lesson15.md#section-15-6) and 18.7.
 
 The use of the possessive pronouns parallels that of English. This is confusing, however, for outside of the personal pronouns (mine, yours, etc.) the adjective and the pronoun are identical in form in English. We falsely assume that the form “sister’s” in “this is sister’s blouse” and “this blouse is sister’s” represent the same form because they look alike. Actually Malayalam and English have the same rule that if the predicate shows possession, it must be in the form of a pronoun. These examples may help to cut through the confusing grammatical terminology.
 
@@ -372,7 +373,7 @@ These forms ordinarily show no difference for singular and plural. When it is im
 
 10. ചെറിയവക്ക് എന്ത് വേണം? “What do (you) want for the small ones?”
 
-Because of the strict rule requiring predicate nouns, we often find nouns in Malayalam sentences which are equivalent to adjectives in English. Two such nouns എളുപ്പം, “easy, fast”, and പ്രയാസം, “difficult” are found in Lesson Ten and Lesson Nineteen respectively. Malayalam has only a small number of true adjectives. The vast majority of adjectives are made from nouns. <!-- Editorial correction: source prints nominal ഉള്ളത്; the adjectival participle is ഉള്ള. --> The most common devices for doing this are the present participle ഉള്ള derived from ഉണ്ട് and ആയ, derived from ആയി (see 20.1 and Lesson 20 Reading Practice).
+Because of the strict rule requiring predicate nouns, we often find nouns in Malayalam sentences which are equivalent to adjectives in English. Two such nouns എളുപ്പം, “easy, fast”, and പ്രയാസം, “difficult” are found in Lesson Ten and Lesson Nineteen respectively. Malayalam has only a small number of true adjectives. The vast majority of adjectives are made from nouns. <!-- Editorial correction: source prints nominal ഉള്ളത്; the adjectival participle is ഉള്ള. --> The most common devices for doing this are the present participle ഉള്ള derived from ഉണ്ട് and ആയ, derived from ആയി (see [20.1](lesson20.md#section-20-1) and Lesson 20 Reading Practice).
 
 One basic adjective, ചീത്ത, does not accept അത്, hence has the same form, whether adjective or noun phrase.
 
@@ -389,6 +390,7 @@ Witness:
 
 <!-- Source: PDF page 187; printed page 137. -->
 
+<a id="section-9-2"></a><!-- reading-anchor -->
 ### 9.2 The Complex Verb ആയിരിക്കുക
 
 This lesson’s conversation contains the special phrase നന്നായിരിക്കുന്നു.
@@ -411,6 +413,7 @@ Witness:
 
 The most basic element in the meaning of ആയിരിക്കുക in such cases is a change of state.
 
+<a id="section-9-3"></a><!-- reading-anchor -->
 ### 9.3 Temporary versus Inherent Good
 
 There can be some confusion as to when to use നല്ലതാണ് versus നന്നായിരിക്കുന്നു, since both may be rendered as “good” or “nice.” <!-- Editorial correction: source reads “will either alternative”; corrected to “with either alternative”. -->
@@ -429,6 +432,7 @@ This means that the sari is good, whoever wears it, on whatever occasion. This d
 
 <!-- Source: PDF page 188; printed page 138. -->
 
+<a id="section-9-4"></a><!-- reading-anchor -->
 ### 9.4 The Special Expression കൊള്ളാം
 
 The intentive/potential form കൊള്ളാം is also used to render certain senses of “that’s good.” Whereas നല്ലതാണ് and നന്നായിരിക്കുന്നു refer to the inherent or situational qualities of a physical object, കൊള്ളാം is generally used to refer to something intangible such as a fact, an idea, an arrangement, or the like. Thus, in this lesson’s conversation, the use of കൊള്ളാം reflects approval of the information about the saris, not of the saris themselves. A very common use of this form is in approving a plan of action, where it is often interchangeable with ആകട്ടെ (see lesson Five).
@@ -445,9 +449,10 @@ The verb കൊള്ളുക in the sense just described does not occur in any
 
 Other special uses of കൊള്ളുക will be treated in later lessons.
 
+<a id="section-9-5"></a><!-- reading-anchor -->
 ### 9.5 The Absolutive and Other Meanings of the Particle -ഉം
 
-Besides being a conjunction (see 3.6) -ഉം has other functions. One of these is as a particle adding a generic meaning to a statement or question. Hence when a positive or negative statement of an all-inclusive nature is made, it must contain a generic word carrying the suffix -ഉം. Thus “nothing”, ഒന്നും, in this lesson’s conversation may be thought of as ഒന്ന് plus -ഉം. Similarly, “never”, ഒരിക്കലും is made up of ഒരിക്കൽ “once”, plus -ഉം.
+Besides being a conjunction (see [3.6](lesson3.md#section-3-6)) -ഉം has other functions. One of these is as a particle adding a generic meaning to a statement or question. Hence when a positive or negative statement of an all-inclusive nature is made, it must contain a generic word carrying the suffix -ഉം. Thus “nothing”, ഒന്നും, in this lesson’s conversation may be thought of as ഒന്ന് plus -ഉം. Similarly, “never”, ഒരിക്കലും is made up of ഒരിക്കൽ “once”, plus -ഉം.
 
 1. അവർ ഒന്നും ചെയ്യുന്നില്ല. “They are doing nothing.”
 2. അവൻ ഒരിക്കലും ഇവിടെ വരുകയില്ല. “He never comes here.”
@@ -503,6 +508,7 @@ Note that the conjunction -ഉം may attach to other elements in negative sente
 
 <!-- Source: PDF page 191; unnumbered map page following printed page 140. -->
 
+<a id="lesson9-map-and-photographs"></a><!-- reading-anchor -->
 ## Map and Photographs
 
 ![Map of Kerala districts](assets/images/lesson9-map.jpg)
@@ -532,3 +538,11 @@ Captions:
 മലപ്പുറത്തെ ഒരു ദൃശ്യം
 
 <!-- Source: PDF page 194; blank page preceding Lesson 10. -->
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Minilesson A](minilesson-a.md) · [Contents](contents.md) · [Next: Lesson 10 →](lesson10.md)
+
+<!-- /reading-navigation -->

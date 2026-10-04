@@ -1,8 +1,11 @@
 <!-- Source: PDF page 47; printed page 1. -->
+<a id="lesson1"></a><!-- reading-anchor -->
 # Lesson 1
 
+<a id="lesson1-reference-list"></a><!-- reading-anchor -->
 ## Reference List
 
+<a id="lesson1-classroom-expressions"></a><!-- reading-anchor -->
 ### Classroom Expressions
 
 | Malayalam | English |
@@ -14,6 +17,7 @@
 | മനസ്സിലായോ? | Do you understand? |
 | മനസ്സിലായി | (I) understand. |
 
+<a id="lesson1-vocabulary"></a><!-- reading-anchor -->
 ### Vocabulary
 
 | Malayalam | English |
@@ -29,11 +33,7 @@
 | എന്ന് | Quotative or Citation Marker (placed after the quoted element) |
 | അവൻ | he (inferior to speaker) |
 | ആര് | who? |
-
-<!-- Source: PDF page 48; printed page 2. -->
-| Malayalam | English |
-|---|---|
-| ആണ് | is |
+| <!-- Source: PDF page 48; printed page 2. --> ആണ് | is |
 | രാജൻ | a male name |
 | അവൾ | she (inferior to speaker) |
 | മണി | a female name |
@@ -50,6 +50,7 @@
 | മേശ | table |
 | കസേര | chair |
 
+<a id="lesson1-reading-practice"></a><!-- reading-anchor -->
 ### Reading Practice
 
 Note how **ആണ്** joins to the following items.
@@ -62,11 +63,7 @@ Note how **ആണ്** joins to the following items.
 | രാജൻ | രാജനാണ് |
 | ഇത് | ഇതാണ് |
 | എന്ത് | എന്താണ് |
-
-<!-- Source: PDF page 49; printed page 3. -->
-|  |  |
-|---|---|
-| ആര് | ആരാണ് |
+| <!-- Source: PDF page 49; printed page 3. --> ആര് | ആരാണ് |
 | തോമസ്സാർ | തോമസ്സാറാണ് |
 | അദ്ദേഹം | അദ്ദേഹമാണ് |
 | പുസ്തകം | പുസ്തകമാണ് |
@@ -77,6 +74,7 @@ Note how **ആണ്** joins to the following items.
 | പേന | പേനയാണ് |
 | കസേര | കസേരയാണ് |
 
+<a id="lesson1-conversation"></a><!-- reading-anchor -->
 ### Conversation
 
 **ബിൽ**: നിങ്ങളുടെ പേര് എന്താ?
@@ -102,6 +100,7 @@ Note how **ആണ്** joins to the following items.
 <!-- Source: PDF page 50; printed page 4. -->
 
 
+<a id="lesson1-exercises"></a><!-- reading-anchor -->
 ## Exercises
 
 > **Learner note (editorial):** The exercises use ഞാൻ (“I”), ഞങ്ങൾ (“we,” excluding the listener), and അവർ (“they” or respectful “she”). These are introduced more fully in Lesson 2. ആണോ is the yes/no question form of ആണ്; for example, ബിൽ ആണോ? means “Is it Bill?” See Lesson 2, §2.3.
@@ -187,20 +186,25 @@ Note how **ആണ്** joins to the following items.
 
 **C.** Practice distinguishing between the dental and alveolar sounds as the above items are spoken aloud. If you hear a dental sound, respond by saying പല്ല് (“tooth”). If the word has a non-dental (alveolar) sound, respond with ഇല്ല (“not, no”).
 
+<a id="lesson1-lesson-one-grammar-notes"></a><!-- reading-anchor -->
 ## Lesson One Grammar Notes
 
+<a id="section-1-1"></a><!-- reading-anchor -->
 ### 1.1. How to Use Grammatical Explanations
 
 Remember not to devote too much time to studying and learning the grammar, even if you find it irresistibly fascinating; the real focus of your efforts should always be the language itself. If you find the grammar sections unpleasant or inscrutable, focus on the examples rather than the explanations. Grammar must be an aid, never an obstacle, to learning. In this interest, every effort has been made to minimize the technical jargon in the grammar notes. Where technical terms are unavoidable, I have tried to keep them as simple and straightforward as possible.
 
+<a id="section-1-2"></a><!-- reading-anchor -->
 ### 1.2. The Order of Elements Within the Sentence
 
 The normal order for the Malayalam sentence is Subject, Object (or complement), Verb. The most basic rule is that the verb must appear at the end of the sentence. This rule is exhibited in all sentences found in this lesson’s conversation and exercises.
 
+<a id="section-1-3"></a><!-- reading-anchor -->
 ### 1.3. Equative Sentences
 
 The type of sentences found in this lesson is called “equative,” or “equational”; that is, they make a statement of the type X = Y. The verb in such sentences functions like an equals sign, and is often called a *copula* or *copular verb*. Remember that the Malayalam sentence <!-- Source: PDF page 53; printed page 7. --> seems a strange equation from our point of view, since the equals sign appears on the right-hand side, rather than in the middle as in English. For example, “അവൻ രാജനാണ്” is most literally rendered, “he Rajan is.” In equative sentences, the second element is not strictly an object, but a complement or predicate nominative. Sentences with objects, i.e. those with action verbs instead of copula verbs, are introduced in Lesson Five. A third type of sentence, the existive sentence, is introduced in Lesson Three.
 
+<a id="section-1-4"></a><!-- reading-anchor -->
 ### 1.4. Copula Deletion in Short Sentences Giving Names
 
 In general, the verb is the most basic and necessary element in the Malayalam sentence. Ordinarily, it must be retained even when everything else is dropped off. Notable exceptions are sentences that give a person’s name or identify an object. These verbless sentences are more colloquial and less formal in nature.
@@ -217,10 +221,12 @@ In general, the verb is the most basic and necessary element in the Malayalam se
 
 In literature and in oral narrative, verbless sentences are sometimes used to introduce relevant details--either to set the scene or to give information about a character, place, or subject already introduced.
 
+<a id="section-1-5"></a><!-- reading-anchor -->
 ### 1.5. The Quotative or Citation Particle എന്ന്
 
 Sentences that give a person’s name have another special feature besides that of copula deletion in informal speech. When the copula is used, the name stated must be followed by the particle എന്ന്. എന്ന് is a marker indicating that something is being quoted or cited from another, usually earlier, situation. In later lessons you will find it used as a marker for <!-- Source: PDF page 54; printed page 8. --> reported quotes, thoughts, feelings, and the like. In writing it is always joined to the preceding word.
 
+<a id="section-1-6"></a><!-- reading-anchor -->
 ### 1.6. Social Dimensions of the Personal Pronouns
 
 Personal pronouns are of three types. First-person pronouns refer to the person speaking: oneself or the group for whom one is speaking. Second-person pronouns refer to the person(s) with whom one is conversing. Third-person pronouns refer to persons talked about. A fairly comprehensive discussion of the personal pronouns appears below.
@@ -240,3 +246,11 @@ Culturally speaking, the lack of a neutral feminine pronoun equivalent to അയ
 Because the uses of all personal pronouns are governed by the dimensions of social status and social distance, one can infer the relative status of a speaker from the pronouns he/she selects. Thus, when the question “അവൻ ആരാണ്,” appears in the conversation, it is clear that the questioner regards the person he's asking about as someone of lower social status, or perhaps a member of some social group marked by equality, such as another university student, hostel mate, or the like. On the other hand, when the same questioner uses അദ്ദേഹം in regards to another individual, it is obvious that he perceives that individual as <!-- Source: PDF page 56; printed page 10. --> someone of higher social status than himself.
 
 The contextual situation is complicated, however, by the universal convention of not referring overtly to a person or thing after the first mention. Many Malayalam sentences thus seem to have missing parts from an English point of view. Sentences with deleted subject, object, etc., are in fact the norm rather than the exception in Malayalam discourse. This point may be observed in the conversations of subsequent lessons. Only in the exercises, where the sentences are isolated from context, will there consistently be found sentences that seem complete from an English point-of-view, i.e. those with all elements specified.
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: How to Write Malayalam Symbols](symbols.md) · [Contents](contents.md) · [Next: Lesson 2 →](lesson2.md)
+
+<!-- /reading-navigation -->

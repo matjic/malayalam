@@ -1,9 +1,12 @@
+<a id="minilesson-b"></a><!-- reading-anchor -->
 # Minilesson B
 
 <!-- Source: PDF page 223; printed page 169. -->
 
+<a id="minilesson-b-kerala-foods"></a><!-- reading-anchor -->
 ## Kerala Foods
 
+<a id="minilesson-b-food-items"></a><!-- reading-anchor -->
 ### Food Items
 
 | Malayalam | English |
@@ -18,6 +21,7 @@
 | മീൻകറി | fish curry |
 | പച്ചടി | yogurt salad |
 
+<a id="minilesson-b-other-items-associated-with-meals"></a><!-- reading-anchor -->
 ### Other Items Associated with Meals
 
 | Malayalam | English |
@@ -33,6 +37,7 @@
 
 <!-- Source: PDF page 224; printed page 170. -->
 
+<a id="minilesson-b-snack-items"></a><!-- reading-anchor -->
 ### Snack Items
 
 | Malayalam | English |
@@ -50,3 +55,11 @@
 | ചായ | tea |
 | പാൽ | milk |
 | പഞ്ചസാര | sugar |
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Lesson 11](lesson11.md) · [Contents](contents.md) · [Next: Lesson 12 →](lesson12.md)
+
+<!-- /reading-navigation -->

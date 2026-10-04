@@ -1,7 +1,9 @@
+<a id="appendix-e"></a><!-- reading-anchor -->
 # Appendix E
 
 <!-- Source: PDF page 487; printed page 424. -->
 
+<a id="appendix-e-list-of-opposites"></a><!-- reading-anchor -->
 ## List of opposites
 
 | English | Malayalam | Opposite | Malayalam |
@@ -29,12 +31,7 @@
 | dry | ഉണങ്ങിയ | wet | നനഞ്ഞ |
 | early | നേരത്തെ | late | താമസിച്ച് |
 | easy | എളുപ്പമുള്ള | difficult | പ്രയാസമുള്ള |
-
-<!-- Source: PDF page 488; printed page 425. -->
-
-| English | Malayalam | Opposite | Malayalam |
-|---|---|---|---|
-| educated | വിദ്യാഭ്യാസമുള്ള | uneducated | വിദ്യാഭ്യാസമില്ലാത്ത |
+| <!-- Source: PDF page 488; printed page 425. --> educated | വിദ്യാഭ്യാസമുള്ള | uneducated | വിദ്യാഭ്യാസമില്ലാത്ത |
 | fair | വെളുത്ത | dark | കറുത്ത |
 | fair | ന്യായമായ | unfair | അന്യായമായ |
 | fancy | വിശേഷമായ | plain | സാധാരണമായ |
@@ -56,12 +53,7 @@
 | high | ഉയർന്ന | low | താണ |
 | hot | ചൂടുള്ള<br>ഉഷ്ണമായ | cold | തണുപ്പുള്ള<br>ശീതളമായ |
 | humid | ഈർപ്പമുള്ള | dry | വരണ്ട,<br>ഉണങ്ങിയ |
-
-<!-- Source: PDF page 489; printed page 426. -->
-
-| English | Malayalam | Opposite | Malayalam |
-|---|---|---|---|
-| important | പ്രധാനമായ | unimportant | അപ്രധാനമായ |
+| <!-- Source: PDF page 489; printed page 426. --> important | പ്രധാനമായ | unimportant | അപ്രധാനമായ |
 | inner | അകത്തുള്ള | outer | പുറത്തുള്ള |
 | inside | അകത്ത് | outside | പുറത്ത് |
 | inside out | മറിച്ച് | right side out | നേരെ |
@@ -86,12 +78,7 @@
 | present | ഹാജരായ | absent | ഹാജരല്ലാത്ത |
 | public | പൊതുവായ | private | സ്വകാര്യമായ |
 | pure | ശുദ്ധമായ | impure | അശുദ്ധമായ |
-
-<!-- Source: PDF page 490; printed page 427. -->
-
-| English | Malayalam | Opposite | Malayalam |
-|---|---|---|---|
-| rich (n) | ധനികൻ | poor | ദരിദ്രൻ |
+| <!-- Source: PDF page 490; printed page 427. --> rich (n) | ധനികൻ | poor | ദരിദ്രൻ |
 | ripe | പഴുത്ത | unripe | പച്ച |
 | running | ഓടുന്ന | standing still | നിൽക്കുന്ന |
 | same | ഒരുപോലുള്ള | different | വ്യത്യസ്തമായ |
@@ -116,13 +103,16 @@
 | upside down | തല കുത്തനെ | right side up | നേരെ |
 | valuable | വിലയുള്ള | worthless | വിലയില്ലാത്ത |
 | vertically | നെടുകെ | horizontally | കുറുകെ |
-
-<!-- Source: PDF page 491; printed page 428. -->
-
-| English | Malayalam | Opposite | Malayalam |
-|---|---|---|---|
-| violent | ഹിംസകരമായ | non-violent | അഹിംസാപരമായ |
+| <!-- Source: PDF page 491; printed page 428. --> violent | ഹിംസകരമായ | non-violent | അഹിംസാപരമായ |
 | wet | നനഞ്ഞ | dry | ഉണങ്ങിയ |
 | wide | വീതിയുള്ള | narrow | ഇടുങ്ങിയ |
 | wonderful | അത്ഭുതകരമായ | terrible | ഭയാനകമായ |
 | young | ചെറുപ്പമായ | old | പ്രായമുള്ള |
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Appendix D](appendix-d.md) · [Contents](contents.md) · [Next: Appendix F →](appendix-f.md)
+
+<!-- /reading-navigation -->

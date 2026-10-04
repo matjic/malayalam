@@ -1,11 +1,15 @@
+<a id="lesson22"></a><!-- reading-anchor -->
 # Lesson 22
 
 <!-- Source: PDF page 391; printed page 332. -->
 
+<a id="lesson22-reference-list"></a><!-- reading-anchor -->
 ## Reference List
 
+<a id="lesson22-pronouns-made-from-question-words"></a><!-- reading-anchor -->
 ### Pronouns Made from Question Words
 
+<a id="lesson22-a-one-piece-indefinite-pronouns"></a><!-- reading-anchor -->
 #### A. One-Piece Indefinite Pronouns
 
 | Malayalam | English |
@@ -23,13 +27,9 @@
 | ആർക്കെങ്കിലും<br>ആർക്കായാലും | for someone, for anyone at all |
 | ആരെയെങ്കിലും<br>ആരെയായാലും | some one (object of a verb) anyone (object of a verb) at all |
 | ആരോടെങ്കിലും<br>ആരോടായാലും | to someone (addressive), to anyone at all |
+| <!-- Source: PDF page 392; printed page 333. --> ആരിലെങ്കിലും<br>ആരിലായാലും | in someone, in anyone at all |
 
-<!-- Source: PDF page 392; printed page 333. -->
-
-| Malayalam | English |
-| --- | --- |
-| ആരിലെങ്കിലും<br>ആരിലായാലും | in someone, in anyone at all |
-
+<a id="lesson22-b-two-piece-relative-pronouns"></a><!-- reading-anchor -->
 #### B. Two-Piece Relative Pronouns
 
 | Malayalam | English |
@@ -44,8 +44,9 @@
 | \*ഏത് ---എങ്കിലും<br>\*ഏത് ---ആലും | whatever --- |
 | \*ആര് ---എങ്കിലും<br>\*ആര് ---ആലും | whoever --- |
 
-\*Caseforms of these items are common, but not included here. (See 22.1 for examples)
+\*Caseforms of these items are common, but not included here. (See [22.1](lesson22.md#section-22-1) for examples)
 
+<a id="lesson22-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
 | Malayalam | English |
@@ -56,12 +57,7 @@
 | കിടക്കുക (past: കിടന്നു) | to lie down |
 | കിടപ്പുണ്ട് | is lying (eq: to കിടക്കുകയാണ്) |
 | --ഏക്ക് | to, into -- |
-
-<!-- Source: PDF page 393; printed page 334. -->
-
-| Malayalam | English |
-| --- | --- |
-| (ഞാൻ) എപ്പോൾ വന്നാലും | whenever I come |
+| <!-- Source: PDF page 393; printed page 334. --> (ഞാൻ) എപ്പോൾ വന്നാലും | whenever I come |
 | പിള്ള | Pillai, a Nair surname |
 | പനി | fever |
 | വയസ് | age |
@@ -90,12 +86,7 @@
 | കഷ്ടപ്പെടുക (past: കഷ്ടപ്പെട്ടു) | to suffer, to experience difficulty |
 | സർക്കാർ | government |
 | ഇടപെടുക (past: ഇടപെട്ടു) | to interfere, to take a hand |
-
-<!-- Source: PDF page 394; printed page 335. -->
-
-| Malayalam | English |
-| --- | --- |
-| കച്ചവടം | trade |
+| <!-- Source: PDF page 394; printed page 335. --> കച്ചവടം | trade |
 | കച്ചവടക്കാർ | traders, merchants |
 | ന്യായം | justice |
 | അന്യായം | injustice |
@@ -114,8 +105,10 @@
 | രക്ഷ | refuge |
 | വരാറായി | is (are) about to come |
 
+<a id="lesson22-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
 
+<a id="lesson22-a"></a><!-- reading-anchor -->
 ### A
 
 Note how the associate suffix -കാർ joins to nouns.
@@ -128,12 +121,14 @@ Note how the associate suffix -കാർ joins to nouns.
 
 <!-- Source: PDF page 395; printed page 336. -->
 
+<a id="lesson22-b"></a><!-- reading-anchor -->
 ### B
 
 Note how personal nouns denoting the experiencer of a feeling or the goal of an action are formed with -പെടുക.
 
 കഷ്ടപ്പെട്ടവർ, ഇഷ്ടപ്പെട്ടവർ, ഭേദപ്പെട്ടവർ, പ്രയാസപ്പെട്ടവർ, ആവശ്യപ്പെട്ടവർ, രക്ഷപ്പെട്ടവർ, അഭിപ്രായപ്പെട്ടവർ, പാവപ്പെട്ടവർ. കാണപ്പെട്ടവർ, അറിയപ്പെട്ടവർ, അയക്കപ്പെട്ടവർ, വിളിക്കപ്പെട്ടവർ.
 
+<a id="lesson22-c"></a><!-- reading-anchor -->
 ### C
 
 Note how the ‘about to’ form is made from these verbs.
@@ -155,6 +150,7 @@ Note how the ‘about to’ form is made from these verbs.
 | അഭിപ്രായപ്പെടുക | അഭിപ്രായപ്പെടാറായി |
 | അറിയപ്പെടുക | അറിയപ്പെടാറായി |
 
+<a id="lesson22-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
 **കല്യാണിയമ്മ:** മത്തായിച്ചനാണല്ലോ. അകത്ത് കയറി വരു. ചേട്ടൻ അകത്ത് കിടപ്പുണ്ട്. തങ്കമ്മ കൂടെ വന്നില്ലേ?
@@ -187,6 +183,7 @@ Note how the ‘about to’ form is made from these verbs.
 
 മണി പത്തരയായല്ലോ. തങ്കമ്മ വരാറായി എന്നു തോന്നുന്നു. ഞാൻ ഇപ്പോൾ പോകട്ടെ. സുഖമുണ്ടെങ്കിൽ പിള്ള നാളെ എന്റെ വീട്ടിലേക്ക് വരു.
 
+<a id="lesson22-exercises"></a><!-- reading-anchor -->
 ## Exercises
 
 **1.** Rewrite the following sentences by replacing the underlined phrase with a noun in -കാർ plus ആണ് or ഉണ്ട് as in the model.
@@ -286,8 +283,10 @@ c. ഇവിടെ <u>കച്ചവടം ചെയ്യുന്ന ആള�
 
 <!-- Source: PDF page 400; printed page 341. -->
 
+<a id="lesson22-grammar-notes"></a><!-- reading-anchor -->
 ## Grammar Notes
 
+<a id="section-22-1"></a><!-- reading-anchor -->
 ### 22.1 Indefinite Pronouns with Hypothetical versus Actual Referents
 
 The Reference List for this lesson contains two related types of indefinite pronouns. It must be understood that “pronoun” has a broad meaning. Besides the common examples of a word standing in for a noun denoting a person or object (you, it, etc.), pronouns can also stand in for nouns or noun phrases denoting time, day, place, direction, quantity, and manner. All of the pronouns, both regular and relative, in the List share the feature that they have no actual referent in the mind of the speaker and hearer, but refer instead to times, places, people, things, etc. which are not yet real, hence are hypothetical.
@@ -378,11 +377,12 @@ Both the regular and the relative indefinite pronouns described so far have invo
 
 <!-- Source: PDF page 403; printed page 344. -->
 
-The interrogative bases are used to make absolute pronouns such as: ആരും “everyone/no one,” എവിടെയും “everywhere, nowhere,” എന്നും “everyday/never,” എപ്പോഴും “always/never,” etc. Here -ഉം is added directly to the base or its case ending. See 9.5 for some examples.
+The interrogative bases are used to make absolute pronouns such as: ആരും “everyone/no one,” എവിടെയും “everywhere, nowhere,” എന്നും “everyday/never,” എപ്പോഴും “always/never,” etc. Here -ഉം is added directly to the base or its case ending. See [9.5](lesson9.md#section-9-5) for some examples.
 
+<a id="section-22-2"></a><!-- reading-anchor -->
 ### 22.2 One Member of the Class or the Other
 
-The -ഓ ending just described for actual referent indefinite pronouns (see 22.1) may also be attached to the indefinite article ഒരു. When this is done, the initial ഒ of ഒരു also lengthens. This lesson's conversation contains the statement:
+The -ഓ ending just described for actual referent indefinite pronouns (see [22.1](lesson22.md#section-22-1)) may also be attached to the indefinite article ഒരു. When this is done, the initial ഒ of ഒരു also lengthens. This lesson's conversation contains the statement:
 
 1. എപ്പോഴും ഓരോ അസുഖങ്ങളാണ്. — “There is always one sickness or the other.”
 
@@ -393,13 +393,10 @@ Note that in these indefinite expressions in Malayalam, the nouns which denotes 
 
 In all these examples, there is the implication that there is a different specimen, or member of the class of things cited (illness, story, etc.) for every new occasion. Though this may cover a large number of possibly hypothetical instances, the -ഓ marker is true to its actual referent meaning in that there is at least one instance recently observed which has an actual referent.
 
+<a id="section-22-3"></a><!-- reading-anchor -->
 ### 22.3 The Human Suffix of Association or Agency
 
-Section A of this lesson's Reading Practice contains a list of person words formed with the irregular plural marker -കാർ. The masculine (-കാരൻ), feminine (-കാരി), and plural (കാർ) forms of this suffix appear in the vocabulary of Lesson Seventeen and are explained here. The suffix, in whatever form, can be added only to nouns, and it signals a close association between the person denoted and the concept, thing, place, etc. represented by the preceding noun. In a few cases it denotes agency, i.e. that
-
-<!-- Source: PDF page 404; printed page 345. -->
-
-the person is the doer of the activity denoted by the noun, much like the -er or -or suffix in English. Witness:
+Section A of this lesson's Reading Practice contains a list of person words formed with the irregular plural marker -കാർ. The masculine (-കാരൻ), feminine (-കാരി), and plural (കാർ) forms of this suffix appear in the vocabulary of Lesson Seventeen and are explained here. The suffix, in whatever form, can be added only to nouns, and it signals a close association between the person denoted and the concept, thing, place, etc. represented by the preceding noun. In a few cases it denotes agency, i.e. that <!-- Source: PDF page 404; printed page 345. --> the person is the doer of the activity denoted by the noun, much like the -er or -or suffix in English. Witness:
 
 1. വേലക്കാരൻ — “servant” literally, “he who does service”
 2. ജോലിക്കാരൻ — “worker”
@@ -429,6 +426,7 @@ Note that the plural കാർ cannot apply to females alone. The plural of noun
 
 <!-- Source: PDF page 405; printed page 346. -->
 
+<a id="section-22-4"></a><!-- reading-anchor -->
 ### 22.4 Verbs and Nouns of Experience formed with പെടുക
 
 It was shown in Lesson Twenty that പെടുക is used in indirect expressions for liking (20.2) and in forming the passive (20.5). This verb also participates in direct expressions denoting things which one experiences or undergoes. Witness:
@@ -465,8 +463,9 @@ Even passive phrases made with പെടുക can be made into relative clauses
 
 11. ഓണസദ്യക്ക് വിളിക്കപ്പെട്ടവർ — “those who were invited to the Onam feast.”
 
-> **Editorial reference note:** This section’s source reference to 24.3 for emphasis with -ആയിട്ട് appears incorrect; section 24.3 discusses self-benefit compound verbs. The intended destination has not been reconstructed.
+> **Editorial reference note:** This section’s source reference to 24.3 for emphasis with -ആയിട്ട് appears incorrect; section [24.3](lesson24.md#section-24-3) discusses self-benefit compound verbs. The intended destination has not been reconstructed.
 
+<a id="section-22-5"></a><!-- reading-anchor -->
 ### 22.5 The Adverb Marker -ആയി
 
 Many words and phrases can be made into adverbs by the addition of the marker -ആയി. Section A of the Reading Practice of Lesson Twenty-Three contains a group of examples. Adverbs in general fall into two types, those which modify a verb or verb phrase within a sentence, and those which modify the sentence as a whole. Those which modify a verb are usually divided into adverbs of time, place, and manner. The marker -ആയി is used for manner adverbs and for sentence adverbs only. This lesson's conversation contains the sentence adverb:
@@ -489,7 +488,7 @@ Some adjectives, however, cannot form adverbs as they stand, but must be made in
 
 6. അടുത്തതായി മേനോൻസാർ സംസാരിക്കും. — “Mr. Menon will speak next.”
 
-In all adverbs formed with -ആയി, the marker -ിട്ട് is present in the mind of the speaker and hearer, though often omitted from the sentence. Thus, -ിട്ട് may optionally be added to all of the adverbs found in the examples here. When -ിട്ട് is actually stated, the adverbs look very much like the first clause in a compound sentence (see 13.3). Although these clauses may appear from their meaning to be adverbs of time, they are actually conveying sequence. It has already been shown (see Examples 5 and 6 above) that adverbs expressing sequence or order of things take -ആയി. There are certain special instances, however, where adverbs of time and place do take -ആയി. One is where -ആയിട്ട് is used as a means of emphasis, focus, or foregrounding of a particular item in the sentence (see 24.3). The other is in sentence adverbials relating to time. Witness:
+In all adverbs formed with -ആയി, the marker -ിട്ട് is present in the mind of the speaker and hearer, though often omitted from the sentence. Thus, -ിട്ട് may optionally be added to all of the adverbs found in the examples here. When -ിട്ട് is actually stated, the adverbs look very much like the first clause in a compound sentence (see [13.3](lesson13.md#section-13-3)). Although these clauses may appear from their meaning to be adverbs of time, they are actually conveying sequence. It has already been shown (see Examples 5 and 6 above) that adverbs expressing sequence or order of things take -ആയി. There are certain special instances, however, where adverbs of time and place do take -ആയി. One is where -ആയിട്ട് is used as a means of emphasis, focus, or foregrounding of a particular item in the sentence (see [24.3](lesson24.md#section-24-3)). The other is in sentence adverbials relating to time. Witness:
 
 7. ഇവിടെയായിട്ട് അവൻ എന്നെ കുത്തി. — “This is where he stabbed me.”
 8. വളരെ കാലമായി — “for a long time...”
@@ -504,6 +503,7 @@ The concept of manner adverbial sometimes extends to the result of the action, o
 
 Several common manner adverbs occur without -ആയി, as: എളുപ്പം വേഗം “quickly,” പതുക്കെ “slowly, quietly,” ഉറക്കെ “loudly.”
 
+<a id="section-22-6"></a><!-- reading-anchor -->
 ### 22.6 The “about to” Verbform
 
 Section C of the Reading Practice for this lesson contains examples of the “about to” verbform. As may be seen, it is formed from the present stem of the verb, plus the marker -ാർ, plus some form of ആകുക. It most commonly occurs with ആയി meaning “to be about to” in the present moment, as in:
@@ -548,3 +548,11 @@ To describe a past situation, ആയി becomes ആയിരുന്നു, whi
 കോവളം കടൽത്തീരം
 
 ബോട്ടിൽ നിറയെ ആളുകൾ ഇരിക്കുന്നു
+
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Lesson 21](lesson21.md) · [Contents](contents.md) · [Next: Lesson 23 →](lesson23.md)
+
+<!-- /reading-navigation -->
