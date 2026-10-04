@@ -1,0 +1,47 @@
+/* Keep the navigation control visible without covering page headings. */
+body .sidebar-toggle,
+body.close .sidebar-toggle {
+  position: fixed;
+  top: max(12px, env(safe-area-inset-top));
+  bottom: auto;
+  left: max(12px, env(safe-area-inset-left));
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: auto;
+  min-height: 44px;
+  padding: 10px 14px;
+  border: 1px solid #cbd5d0;
+  border-radius: 8px;
+  background: #fff;
+  color: #245b43;
+  box-shadow: 0 2px 8px #00000012;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.4;
+  z-index: 40;
+}
+.sidebar-toggle:hover { background: #f0f7f3; }
+.sidebar-toggle:focus-visible { outline: 3px solid #245b43; outline-offset: 3px; }
+.sidebar-toggle:hover .sidebar-toggle-button { opacity: 1; }
+.sidebar-toggle .sidebar-toggle-button span { background: currentColor; }
+.sidebar-toggle .sidebar-toggle-button span:last-child { margin-bottom: 0; }
+body .sidebar { padding-top: 76px; }
+body .markdown-section { padding-top: 80px; }
+.sidebar-backdrop { display: none; }
+@media (max-width: 600px) {
+  body .sidebar { width: min(300px, 85vw); left: 0; transform: translateX(-100%); }
+  body.close .sidebar { transform: translateX(0); }
+  body .content, body.close .content { left: 0; transform: none; }
+  body .markdown-section { padding: 80px 20px 30px; }
+  .sidebar-backdrop {
+    position: fixed;
+    inset: 0;
+    z-index: 19;
+    background: #00000055;
+  }
+  body.close .sidebar-backdrop { display: block; }
+}
+@media (prefers-reduced-motion: reduce) {
+  body .sidebar, body .content { transition: none; }
+}
