@@ -1,7 +1,7 @@
 <a id="lesson7"></a><!-- reading-anchor -->
 # Lesson 7: Future and Habitual Actions, Time, and “Let’s”
 
-> **Supplementary practice:** Use the [market conversation](practice-dialogues.md#3-buying-food-at-the-market) to practice numbers, prices, വേണം, and കിട്ടുമോ.
+> **Practice lesson:** Use the [market conversation](practice-dialogues.md#3-buying-food-at-the-market) to practice numbers, prices, വേണം, and കിട്ടുമോ.
 
 <!-- Source: PDF page 136; printed page 86. -->
 
@@ -609,6 +609,6 @@ The usage of this Malayalam form generally parallels that of the “let's” for
 
 ---
 
-[← Previous: Lesson 6: Possessives, Postpositions, and Ability](lesson6.md) · [Contents](contents.md) · [Next: Lesson 8: Accusative Case, Relative Clauses, and Obligation →](lesson8.md)
+[← Previous: Lesson 6: Possessives, Postpositions, and Ability](lesson6.md) · [Contents](contents.md) · [Next: Practice Lesson C: Everyday Conversations →](practice-dialogues.md)
 
 <!-- /reading-navigation -->

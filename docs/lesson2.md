@@ -2,7 +2,7 @@
 <a id="lesson2"></a><!-- reading-anchor -->
 # Lesson 2: Location and Yes–No Questions
 
-> **Supplementary practice:** Use [Listening and Pronunciation Practice](practice-pronunciation.md) for the dental–retroflex sound contrast, and [Sandhi Practice](practice-sandhi.md) to review how words join with endings.
+> **Practice lesson:** Use [Listening and Pronunciation Practice](practice-pronunciation.md) for the dental–retroflex sound contrast, and [Sandhi Practice](practice-sandhi.md) to review how words join with endings.
 
 <a id="lesson2-reference-list"></a><!-- reading-anchor -->
 ## Reference List
@@ -431,6 +431,6 @@ Under other conditions this ending also is used for “and.” (See [3.6](lesson
 
 ---
 
-[← Previous: Lesson 1: Introductions and Equative Sentences](lesson1.md) · [Contents](contents.md) · [Next: Lesson 3: Existence, Possession, and Polite Commands →](lesson3.md)
+[← Previous: Lesson 1: Introductions and Equative Sentences](lesson1.md) · [Contents](contents.md) · [Next: Practice Lesson B: Joining Words and Endings →](practice-sandhi.md)
 
 <!-- /reading-navigation -->

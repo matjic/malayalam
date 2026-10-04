@@ -1,12 +1,12 @@
-# Supplementary Practice
+# Practice Lesson Guide
 
-These optional lessons pair the textbook with selected learning materials from the University of Texas at Austin. Start with the sounds, return to the spelling guide when endings become difficult, and use the dialogues to put familiar grammar into conversation. The explanations, translations, and exercises here are additions to the digital edition.
+Practice Lessons A–C are part of the reading sequence and pair the textbook with selected learning materials from the University of Texas at Austin. Start with the sounds, return to the spelling guide when endings become difficult, and use the dialogues to put familiar grammar into conversation. The explanations, translations, and exercises here are additions to the digital edition.
 
 | When to use it | Practice | What you will work on |
 |---|---|---|
-| Alongside the [alphabet](alphabet.md) and Lessons 1–2 | [Listening and pronunciation](practice-pronunciation.md) | Vowels, tongue position, doubled consonants, and differences between spelling and speech; includes local audio. |
-| After [Lesson 2](lesson2.md), then revisit with Lessons 5–6 | [Joining words and endings](practice-sandhi.md) | Recognizing the parts of a joined form and reading common sandhi patterns. |
-| After Lessons 3–7, with the supplied vocabulary and translations | [Everyday conversations](practice-dialogues.md) | Introductions, talking about illness, and buying food. Some source lines contain later grammar; treat these as supported reading practice. |
+| After the [alphabet](alphabet.md), before the writing symbols and Lesson 1 | [Listening and pronunciation](practice-pronunciation.md) | Vowels, tongue position, doubled consonants, and differences between spelling and speech; includes local audio. |
+| After [Lesson 2](lesson2.md), before Lesson 3; revisit with Lessons 5–6 | [Joining words and endings](practice-sandhi.md) | Recognizing the parts of a joined form and reading common sandhi patterns. |
+| After [Lesson 7](lesson7.md), before Lesson 8, with vocabulary and translations | [Everyday conversations](practice-dialogues.md) | Introductions, talking about illness, and buying food. Some source lines contain later grammar; treat these as supported reading practice. |
 
 ## A Short Practice Routine
 

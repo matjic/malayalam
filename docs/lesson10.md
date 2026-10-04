@@ -1,7 +1,7 @@
 <a id="lesson10"></a><!-- reading-anchor -->
 # Lesson 10: Place Names, Directions, and Formal Style
 
-> **Supplementary practice:** Add the [ള / ഴ listening practice](practice-pronunciation.md#sound-contrasts) alongside this lesson’s ല / ള reading pairs.
+> **Practice lesson:** Add the [ള / ഴ listening practice](practice-pronunciation.md#sound-contrasts) alongside this lesson’s ല / ള reading pairs.
 
 <!-- Source: PDF page 195; printed page 141. -->
 

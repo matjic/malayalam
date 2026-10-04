@@ -2,7 +2,7 @@
 <a id="lesson3"></a><!-- reading-anchor -->
 # Lesson 3: Existence, Possession, and Polite Commands
 
-> **Supplementary practice:** Try the supported [health conversation](practice-dialogues.md#2-saying-that-you-feel-ill) to recognize the dative and ഉണ്ട് patterns in context.
+> **Practice lesson:** Try the supported [health conversation](practice-dialogues.md#2-saying-that-you-feel-ill) to recognize the dative and ഉണ്ട് patterns in context.
 
 <a id="lesson3-reference-list"></a><!-- reading-anchor -->
 ## Reference List
@@ -495,6 +495,6 @@ We have already seen in Lesson Two that -ഉം may occur attached to only one w
 
 ---
 
-[← Previous: Lesson 2: Location and Yes–No Questions](lesson2.md) · [Contents](contents.md) · [Next: Lesson 4: Wants, Likes, and the Dative Case →](lesson4.md)
+[← Previous: Practice Lesson B: Joining Words and Endings](practice-sandhi.md) · [Contents](contents.md) · [Next: Lesson 4: Wants, Likes, and the Dative Case →](lesson4.md)
 
 <!-- /reading-navigation -->

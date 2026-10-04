@@ -3,6 +3,7 @@
 import argparse
 import re
 from pathlib import Path
+from reading_order import reading_documents
 
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / "docs"
@@ -11,8 +12,9 @@ DOCS = ROOT / "docs"
 def generate():
     book = []
     supplements = []
+    order = {path.name: index for index, path in enumerate(reading_documents())}
     for path in DOCS.glob("*.md"):
-        if path.name.startswith("_") or path.name in {"README.md", "contents.md", "digital-edition.md"}:
+        if path.name.startswith("_") or path.name in {"README.md", "contents.md", "digital-edition.md", "practice.md"}:
             continue
         text = path.read_text(encoding="utf-8")
         heading = re.search(r"^# (.+)$", text, re.MULTILINE)
@@ -21,10 +23,9 @@ def generate():
         title = heading.group(1).strip()
         if title.isupper():
             title = title.title()
-        pages = [int(page) for page in re.findall(r"Source: PDF page (\d+)", text)]
         link = f"* [{title}]({path.name})"
-        if pages:
-            book.append((min(pages), path.name, link))
+        if path.name in order:
+            book.append((order[path.name], path.name, link))
         else:
             supplements.append((path.name, link))
     lines = [
@@ -33,14 +34,9 @@ def generate():
         "* [Home](README.md)",
         "* [Contents](contents.md)",
         "* [Reading the digital edition](digital-edition.md)",
+        "* [Practice lesson guide](practice.md)",
         *[link for _, _, link in sorted(book)],
     ]
-    if supplements:
-        practice = [item for item in supplements if item[0] == 'practice.md' or item[0].startswith('practice-')]
-        if practice:
-            lines.extend(["", "* Supplementary practice"])
-            lines.extend(f"  {link}" for _, link in sorted(practice, key=lambda item: (item[0] != 'practice.md', item[0])))
-        supplements = [item for item in supplements if item not in practice]
     if supplements:
         lines.extend(["", "* Review and supporting material"])
         lines.extend(f"  {link}" for _, link in sorted(supplements))

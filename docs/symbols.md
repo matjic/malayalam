@@ -682,6 +682,6 @@ eg. സ്വന്തം (“one’s own”)
 
 ---
 
-[← Previous: The Malayalam Script](alphabet.md) · [Contents](contents.md) · [Next: Lesson 1: Introductions and Equative Sentences →](lesson1.md)
+[← Previous: Practice Lesson A: Listening and Pronunciation](practice-pronunciation.md) · [Contents](contents.md) · [Next: Lesson 1: Introductions and Equative Sentences →](lesson1.md)
 
 <!-- /reading-navigation -->

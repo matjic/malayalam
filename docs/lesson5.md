@@ -2,7 +2,7 @@
 <a id="lesson5"></a><!-- reading-anchor -->
 # Lesson 5: Present Tense and Infinitives
 
-> **Supplementary practice:** Try the supported [college introduction](practice-dialogues.md#1-meeting-someone-at-college), then return to the present-tense forms in this lesson.
+> **Practice lesson:** Try the supported [college introduction](practice-dialogues.md#1-meeting-someone-at-college), then return to the present-tense forms in this lesson.
 
 <a id="lesson5-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary

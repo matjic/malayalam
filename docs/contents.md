@@ -6,6 +6,8 @@ Follow the links below to read the book in order or jump to a section. These lin
 
 See [Reading the digital edition](digital-edition.md) for page references and study guidance.
 
+Practice Lessons A–C are additions based on UT Austin learning resources, placed in the reading sequence after the alphabet, Lesson 2, and Lesson 7. See the [practice lesson guide](practice.md) for their goals and source credits.
+
 ## Chapters
 
 - [Front Matter](front-matter.md)
@@ -13,14 +15,17 @@ See [Reading the digital edition](digital-edition.md) for page references and st
 - [Preface](preface.md)
 - [The Book And How To Use It](usage.md)
 - [The Malayalam Script](alphabet.md)
+- [Practice Lesson A: Listening and Pronunciation](practice-pronunciation.md)
 - [How to Write Malayalam Symbols](symbols.md)
 - [Lesson 1: Introductions and Equative Sentences](lesson1.md)
 - [Lesson 2: Location and Yes–No Questions](lesson2.md)
+- [Practice Lesson B: Joining Words and Endings](practice-sandhi.md)
 - [Lesson 3: Existence, Possession, and Polite Commands](lesson3.md)
 - [Lesson 4: Wants, Likes, and the Dative Case](lesson4.md)
 - [Lesson 5: Present Tense and Infinitives](lesson5.md)
 - [Lesson 6: Possessives, Postpositions, and Ability](lesson6.md)
 - [Lesson 7: Future and Habitual Actions, Time, and “Let’s”](lesson7.md)
+- [Practice Lesson C: Everyday Conversations](practice-dialogues.md)
 - [Lesson 8: Accusative Case, Relative Clauses, and Obligation](lesson8.md)
 - [Minilesson A: ട്രെയിനിലെ ഒരു രംഗം](minilesson-a.md)
 - [Lesson 9: Adjectives, Pronouns, and Qualities](lesson9.md)
@@ -55,15 +60,6 @@ See [Reading the digital edition](digital-edition.md) for page references and st
 - [Malayalam-English Glossary](glossary.md)
 - [Index](book-index.md)
 
-## Supplementary Practice
-
-Optional additions to the digital edition, based on selected UT Austin learning resources.
-
-- [Supplementary Practice](practice.md)
-- [Everyday Conversation Practice](practice-dialogues.md)
-- [Listening and Pronunciation Practice](practice-pronunciation.md)
-- [Joining Words and Endings: Sandhi Practice](practice-sandhi.md)
-
 ## Sections
 
 ### [Front Matter](front-matter.md)
@@ -96,6 +92,15 @@ Optional additions to the digital edition, based on selected UT Austin learning 
 ### [The Malayalam Script](alphabet.md)
 
   - [Table I: The Malayalam Alphabet](alphabet.md#alphabet-table-i-the-malayalam-alphabet)
+
+### [Practice Lesson A: Listening and Pronunciation](practice-pronunciation.md)
+
+- [1. Connect Letters with Sounds](practice-pronunciation.md#practice-pronunciation-1-connect-letters-with-sounds)
+- [2. Hear Dental and Retroflex Sounds](practice-pronunciation.md#practice-pronunciation-2-hear-dental-and-retroflex-sounds)
+- [3. Distinguish ര / റ and ള / ഴ](practice-pronunciation.md#practice-pronunciation-3-distinguish-u0d30-u0d31-and-u0d33-u0d34)
+- [4. Give Doubled Consonants Time](practice-pronunciation.md#practice-pronunciation-4-give-doubled-consonants-time)
+- [5. Expect Some Difference Between Spelling and Speech](practice-pronunciation.md#practice-pronunciation-5-expect-some-difference-between-spelling-and-speech)
+- [Sources and Credits](practice-pronunciation.md#practice-pronunciation-sources-and-credits)
 
 ### [How to Write Malayalam Symbols](symbols.md)
 
@@ -154,6 +159,15 @@ Optional additions to the digital edition, based on selected UT Austin learning 
   - [2.4. Verbal Cues for the Near-Far Distinction](lesson2.md#section-2-4)
   - [2.5. Changing the Order of Sentence Elements for Emphasis](lesson2.md#section-2-5)
   - [2.6 Spelling and Pronunciation Changes when Joining -ഉം](lesson2.md#section-2-6)
+
+### [Practice Lesson B: Joining Words and Endings](practice-sandhi.md)
+
+- [1. A Final Echo Vowel Can Disappear](practice-sandhi.md#practice-sandhi-1-a-final-echo-vowel-can-disappear)
+- [2. A Glide Can Join Two Vowels](practice-sandhi.md#practice-sandhi-2-a-glide-can-join-two-vowels)
+- [3. Doubling Can Be Part of the Join](practice-sandhi.md#practice-sandhi-3-doubling-can-be-part-of-the-join)
+- [4. An Ending Can Change a Final ം](practice-sandhi.md#practice-sandhi-4-an-ending-can-change-a-final)
+- [Read, Split, Rebuild](practice-sandhi.md#practice-sandhi-read-split-rebuild)
+- [Sources and Credits](practice-sandhi.md#practice-sandhi-sources-and-credits)
 
 ### [Lesson 3: Existence, Possession, and Polite Commands](lesson3.md)
 
@@ -245,6 +259,13 @@ Optional additions to the digital edition, based on selected UT Austin learning 
   - [7.5 The Two Part Qualifier -ഏയുള്ളു](lesson7.md#section-7-5)
   - [7.6 Spelling Changes When Joining -ഏയുള്ളു and -എങ്കിൽ](lesson7.md#section-7-6)
   - [7.7 The Hortative “Let's” Verbform](lesson7.md#section-7-7)
+
+### [Practice Lesson C: Everyday Conversations](practice-dialogues.md)
+
+- [1. Meeting Someone at College](practice-dialogues.md#practice-dialogues-1-meeting-someone-at-college)
+- [2. Saying That You Feel Ill](practice-dialogues.md#practice-dialogues-2-saying-that-you-feel-ill)
+- [3. Buying Food at the Market](practice-dialogues.md#practice-dialogues-3-buying-food-at-the-market)
+- [Sources and Credits](practice-dialogues.md#practice-dialogues-sources-and-credits)
 
 ### [Lesson 8: Accusative Case, Relative Clauses, and Obligation](lesson8.md)
 

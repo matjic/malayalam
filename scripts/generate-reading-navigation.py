@@ -4,19 +4,11 @@ import argparse
 import re
 import unicodedata
 from pathlib import Path
+from reading_order import reading_documents
 
 DOCS = Path(__file__).resolve().parents[1] / 'docs'
 ANCHOR = re.compile(r'^<a id="[^"]+"></a><!-- reading-anchor -->\n', re.M)
 FOOTER = re.compile(r'\n<!-- reading-navigation -->.*?<!-- /reading-navigation -->\n?', re.S)
-
-
-def book_documents():
-    documents = []
-    for path in DOCS.glob('*.md'):
-        pages = re.findall(r'Source: PDF page (\d+)', path.read_text())
-        if pages:
-            documents.append((min(map(int, pages)), path))
-    return [path for _, path in sorted(documents)]
 
 
 def slug(text):
@@ -47,7 +39,7 @@ def headings(path, text):
 
 
 def generate():
-    documents = book_documents()
+    documents = reading_documents()
     changes = {}
     chapter_titles = {}
     chapter_headings = {}
@@ -78,6 +70,9 @@ def generate():
         'These links work independently of print pagination. '
         'For topics, use the [index](book-index.md); for words, use the [glossary](glossary.md).', '',
         'See [Reading the digital edition](digital-edition.md) for page references and study guidance.', '',
+        'Practice Lessons A–C are additions based on UT Austin learning resources, '
+        'placed in the reading sequence after the alphabet, Lesson 2, and Lesson 7. '
+        'See the [practice lesson guide](practice.md) for their goals and source credits.', '',
         '## Chapters', '',
     ]
     for path in documents:
@@ -86,12 +81,6 @@ def generate():
         if path.stem.startswith(('appendix-', 'minilesson-')) and subheading:
             title += f': {subheading}'
         lines.append(f'- [{title}]({path.name})')
-    practice = sorted(DOCS.glob('practice*.md'), key=lambda path: (path.name != 'practice.md', path.name))
-    if practice:
-        lines += ['', '## Supplementary Practice', '', 'Optional additions to the digital edition, based on selected UT Austin learning resources.', '']
-        for path in practice:
-            title = re.search(r'^# (.+)$', path.read_text(), re.M)[1]
-            lines.append(f'- [{title}]({path.name})')
     lines += ['', '## Sections', '']
     for path in documents:
         lines += [f'### [{chapter_titles[path]}]({path.name})', '']

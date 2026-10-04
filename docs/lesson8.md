@@ -855,6 +855,6 @@ See also:
 
 ---
 
-[← Previous: Lesson 7: Future and Habitual Actions, Time, and “Let’s”](lesson7.md) · [Contents](contents.md) · [Next: Minilesson A →](minilesson-a.md)
+[← Previous: Practice Lesson C: Everyday Conversations](practice-dialogues.md) · [Contents](contents.md) · [Next: Minilesson A →](minilesson-a.md)
 
 <!-- /reading-navigation -->

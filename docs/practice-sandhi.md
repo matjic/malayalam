@@ -1,9 +1,11 @@
-# Joining Words and Endings: Sandhi Practice
+<a id="practice-sandhi"></a><!-- reading-anchor -->
+# Practice Lesson B: Joining Words and Endings
 
-**Supplementary lesson.** Begin after [Lesson 2](lesson2.md). Return as you learn new endings. *Sandhi* means joining: sounds and spellings can change where a word meets an ending or another word. Recognizing the join helps you recover familiar parts inside an unfamiliar-looking form.
+**Added practice lesson, after Lesson 2.** Begin after [Lesson 2](lesson2.md). Return as you learn new endings. *Sandhi* means joining: sounds and spellings can change where a word meets an ending or another word. Recognizing the join helps you recover familiar parts inside an unfamiliar-looking form.
 
 The examples below are selected from UT Austin’s sandhi guide. Learn them as patterns with conditions, rather than as rules that apply to every word. The textbook supplies the fuller grammatical explanation.
 
+<a id="practice-sandhi-1-a-final-echo-vowel-can-disappear"></a><!-- reading-anchor -->
 ## 1. A Final Echo Vowel Can Disappear
 
 In the examples below, the final ് is replaced by the following vowel as the parts join.
@@ -18,6 +20,7 @@ Compare [§2.2, spelling changes with vowel-initial suffixes](lesson2.md#section
 
 **Try it:** cover the “Parts” column and split each joined form back into its two pieces. Read both the separate pieces and the joined form aloud.
 
+<a id="practice-sandhi-2-a-glide-can-join-two-vowels"></a><!-- reading-anchor -->
 ## 2. A Glide Can Join Two Vowels
 
 Some vowel sequences use യ് or വ് as a bridge. Notice the bridge in the joined form rather than looking for a new vocabulary word.
@@ -30,6 +33,7 @@ Some vowel sequences use യ് or വ് as a bridge. Notice the bridge in the 
 
 The choice depends on the sounds and the particular form. These examples do not mean that every adjacent pair of vowels needs the same bridge. Compare the textbook’s [§5.7](lesson5.md#section-5-7) on യ and [§6.6](lesson6.md#section-6-6) on possessives.
 
+<a id="practice-sandhi-3-doubling-can-be-part-of-the-join"></a><!-- reading-anchor -->
 ## 3. Doubling Can Be Part of the Join
 
 | Parts | Joined form | Meaning |
@@ -39,6 +43,7 @@ The choice depends on the sounds and the particular form. These examples do not 
 
 In the first example, ക doubles where the two parts meet. In the second, the final consonant doubles before the ending. Read the doubled consonant with the extra duration practiced on the [pronunciation page](practice-pronunciation.md).
 
+<a id="practice-sandhi-4-an-ending-can-change-a-final"></a><!-- reading-anchor -->
 ## 4. An Ending Can Change a Final ം
 
 Pay attention to **which ending** follows. The same noun does not join in the same way with every ending.
@@ -51,6 +56,7 @@ Pay attention to **which ending** follows. The same noun does not join in the sa
 
 Compare [§2.6](lesson2.md#section-2-6) on -ഉം and [§6.6](lesson6.md#section-6-6) on possessive forms. UT’s guide also gives examples of changes when verbs take past-tense endings; revisit that material after the textbook introduces the relevant verb forms.
 
+<a id="practice-sandhi-read-split-rebuild"></a><!-- reading-anchor -->
 ## Read, Split, Rebuild
 
 When you meet a long joined form:
@@ -79,10 +85,17 @@ When you meet a long joined form:
 
 </details>
 
+<a id="practice-sandhi-sources-and-credits"></a><!-- reading-anchor -->
 ## Sources and Credits
 
 Adapted from [Malayalam Sandhi](https://malayalam.la.utexas.edu/resources/malayalam-sandhi/), by Donald R. Davis, Jr., UT Austin. This page selects examples, adds English glosses and textbook links, and supplies a short exercise. It does not reproduce the source guide’s complete list of rules.
 
 This supplementary page is licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). See [source credits](practice.md#sources-and-credits).
 
-[Supplementary practice](practice.md) · [Lesson 2](lesson2.md) · [Conversation practice](practice-dialogues.md)
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Lesson 2: Location and Yes–No Questions](lesson2.md) · [Contents](contents.md) · [Next: Lesson 3: Existence, Possession, and Polite Commands →](lesson3.md)
+
+<!-- /reading-navigation -->

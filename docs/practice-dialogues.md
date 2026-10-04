@@ -1,9 +1,11 @@
-# Everyday Conversation Practice
+<a id="practice-dialogues"></a><!-- reading-anchor -->
+# Practice Lesson C: Everyday Conversations
 
-**Supplementary lesson.** These short excerpts from UT Austin’s dialogues give familiar textbook patterns a practical setting. English translations, vocabulary notes, questions, and role-play tasks have been added for this edition. The Malayalam utterances retain the source wording; spacing around punctuation has been normalized.
+**Added practice lesson, after Lesson 7.** These short excerpts from UT Austin’s dialogues give familiar textbook patterns a practical setting. English translations, vocabulary notes, questions, and role-play tasks have been added for this edition. The Malayalam utterances retain the source wording; spacing around punctuation has been normalized.
 
 These are reading and speaking exercises; the UT dialogues page does not supply dialogue recordings. Read with a partner, switch roles, then try a small change without looking at the English. Some lines use grammar from later lessons, so use the translations to support your first reading.
 
+<a id="practice-dialogues-1-meeting-someone-at-college"></a><!-- reading-anchor -->
 ## 1. Meeting Someone at College
 
 Use after [Lesson 5](lesson5.md), or read the name expressions alongside [Lesson 1](lesson1.md).
@@ -35,6 +37,7 @@ He studies history. Both parents are historians.
 
 </details>
 
+<a id="practice-dialogues-2-saying-that-you-feel-ill"></a><!-- reading-anchor -->
 ## 2. Saying That You Feel Ill
 
 Use alongside [Lesson 3](lesson3.md), especially [§3.5, health and welfare expressions](lesson3.md#section-3-5).
@@ -68,6 +71,7 @@ The symptoms are fever and headache. They began last night.
 
 </details>
 
+<a id="practice-dialogues-3-buying-food-at-the-market"></a><!-- reading-anchor -->
 ## 3. Buying Food at the Market
 
 Use after [Lesson 7](lesson7.md). Review [Lesson 4](lesson4.md) for വേണം and [§7.2](lesson7.md#section-7-2) for കിട്ടുക.
@@ -101,10 +105,17 @@ One kilo of chicken and twelve eggs. The total is 370 rupees: 250 + 120. In the 
 
 </details>
 
+<a id="practice-dialogues-sources-and-credits"></a><!-- reading-anchor -->
 ## Sources and Credits
 
 Excerpts from [Dialogues](https://malayalam.la.utexas.edu/resources/dialogues/), created by Aaron Sherraden and Darsana Manayathu Sasi, UT Austin: “Who’s in Your Family?”, “A Visit to the Doctor’s Office”, and “A Visit to the Market”. The complete source contains longer conversations, including weather and sports. This adaptation adds translations, study notes, and exercises; it is not a translation of every source dialogue.
 
 This supplementary page is licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). See [source credits](practice.md#sources-and-credits).
 
-[Supplementary practice](practice.md) · [Pronunciation practice](practice-pronunciation.md) · [Sandhi practice](practice-sandhi.md)
+<!-- reading-navigation -->
+
+---
+
+[← Previous: Lesson 7: Future and Habitual Actions, Time, and “Let’s”](lesson7.md) · [Contents](contents.md) · [Next: Lesson 8: Accusative Case, Relative Clauses, and Obligation →](lesson8.md)
+
+<!-- /reading-navigation -->
