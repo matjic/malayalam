@@ -375,6 +375,8 @@ Complex verbs made from വരുക and പോകുക also show these forms a
 4. രണ്ട് കാപ്പി കൊണ്ടുവാ. — “Bring two coffees.”
 5. ഈ പ്ലേറ്റ് കൊണ്ടുപോ. — “Take away this plate.”
 
+> **Editorial note:** The following source paragraph has missing prose between നീ and “attention.” Section 1.6 and the preceding paragraph explain which relationships allow നീ; the examples below illustrate the familiar address particles.
+
 These familiar commands are often used along with the particle എടാ for male or എടീ for female addressees. This, too, is limited to persons with whom നീ attention as “hey,” or it may be added to the end of any sentence as a marker of the intimate and/or superior relationship which exists between the speaker and the addressee. It can, therefore, carry a
 
 <!-- Source: PDF page 308; printed page 251. -->

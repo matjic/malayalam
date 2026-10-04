@@ -4,6 +4,8 @@
 
 Note: The lesson numbers identify where entries are introduced in the source vocabulary lists; they are not a complete record of first use in examples or exercises.
 
+> **Editorial note:** Obvious source errors in definitions have been corrected, including ആര് (“who”), പേര് (“name”), അവൾ and അവൾക്ക് (familiar feminine forms), മേടിക്കുക (“to buy, obtain”), പ്രകൃതിസുന്ദരം (“naturally beautiful”), and വരുകയില്ലായിരിക്കും (“probably won’t be coming”). An entry for അവർ has been supplied from Lesson 1. Source editor queries remain labeled below where the intended entry is uncertain.
+
 ## അ
 
 | Malayalam | Lesson | English |
@@ -25,7 +27,7 @@ Note: The lesson numbers identify where entries are introduced in the source voc
 | അടുത്ത് | 6 | near, next to, close by (adv.) |
 | അത് | 3 | that, those (far from speaker) |
 | അതുകൊണ്ട് | 12 | that is why, therefore |
-| അതു പററില്ല | 8 | that is impossible |
+| അതു പറ്റില്ല | 8 | that is impossible |
 | അതു പിന്നെ ആകട്ടെ | 15 | (I) will do that later, let it be later |
 | അതെ, അതേ | 2 | yes, that is right |
 | അത്യാവശ്യം | 13 | a pressing need |
@@ -105,7 +107,7 @@ Note: The lesson numbers identify where entries are introduced in the source voc
 | അറിയിപ്പുകൾ | 14 | notices, announcements (a section title in Malayalam newspapers) |
 | അറിയില്ലേ | 6 | don't (you) know? (with dative subject) |
 | അറിവ് | 14 | knowledge |
-| അററം | 10 | end, tip |
+| അറ്റം | 10 | end, tip |
 
 ## ആ
 
@@ -289,7 +291,7 @@ Note: The lesson numbers identify where entries are introduced in the source voc
 | എത്ര | 3 | how many, how much |
 | (അവർക്ക്) എത്ര കിട്ടിയാലും | 22 | however much (they) get |
 | എനിക്ക് | 4 | to, for me |
-| എനിക്ക് നിങ്ങളെ സ്ഥലം മാററേണ്ടതായി വരും | 19 | I will have to transfer you |
+| എനിക്ക് നിങ്ങളെ സ്ഥലം മാറ്റേണ്ടതായി വരും | 19 | I will have to transfer you |
 | എൻജിനിയർ | 24 | engineer |
 | എന്ത് | 1 | what |
 
@@ -342,7 +344,7 @@ Note: The lesson numbers identify where entries are introduced in the source voc
 | ഏതു ___ ഉം | 16 | every |
 | ഏലം | 25 | cardamom |
 | ഏഴ് | 3 | seven |
-| ഏററവും | 24 | most, much, exceeding |
+| ഏറ്റവും | 24 | most, much, exceeding |
 
 ## ഒ
 
@@ -366,8 +368,8 @@ Note: The lesson numbers identify where entries are introduced in the source voc
 
 | Malayalam | Lesson | English |
 |---|---|---|
-| ഒററ | 14 | one, lone |
-| ഒററ നോട്ടത്തിൽ | 14 | ‘News in Brief’ – A section title in Malayalam newspapers |
+| ഒറ്റ | 14 | one, lone |
+| ഒറ്റ നോട്ടത്തിൽ | 14 | ‘News in Brief’ – A section title in Malayalam newspapers |
 
 ## ഓ
 
@@ -426,7 +428,7 @@ Note: The lesson numbers identify where entries are introduced in the source voc
 | Malayalam | Lesson | English |
 |---|---|---|
 | കളം | 20 | design, also the auspicious design drawn by Hindus on the ground in front of the door step |
-| past participle + കളയുക | 21 | might as well + (verb); (verb) + away???? |
+| past participle + കളയുക | 21 | might as well + (verb); (verb) + away (source gloss queried) |
 | കളി | 14 | game |
 | കളിരംഗം | 14 | ‘Sports Scene’ – a section title in some Malayalam newspapers |
 | കളിക്കുക (past: കളിച്ചു) | 14 | to play |
@@ -448,7 +450,7 @@ Note: The lesson numbers identify where entries are introduced in the source voc
 | കാണും | 14 | one will find (see) |
 | കാപ്പി | 4 | coffee |
 
-???? problem with this usage: David EJ
+> **Source editor query:** “problem with this usage: David EJ” (PDF page 516). The source does not identify precisely which usage is in question.
 
 <!-- Source: PDF page 517; printed page 454. -->
 
@@ -710,7 +712,7 @@ Note: The lesson numbers identify where entries are introduced in the source voc
 | തെക്കേ | 10 | southern |
 | തെങ്ങ് | 25 | coconut tree |
 | തെങ്ങിൻതോപ്പ് | 25 | coconut grove |
-| തെററ് | 13 | mistakes (noun) |
+| തെറ്റ് | 13 | mistakes (noun) |
 | തേക്കടി | 23 | Thekkady, a game preserve near Kottayam |
 | തേങ്ങ | 25 | coconut |
 | തേയില | 25 | tea leaves, tea (powder) |
@@ -858,10 +860,10 @@ Note: The lesson numbers identify where entries are introduced in the source voc
 | പറയണ്ടാ | 11 | shouldn’t speak, don’t speak |
 | പറയു (citation: പറയുക) | 1 | (you) say, speak, tell (command) |
 | പർവ്വതം | 10 | mountain, mountain range |
-| പററി | 14 | about, concerning |
-| പററിയുള്ള | 14 | which (are) concerning |
-| പററുക | 8 | to happen |
-| ___ പററുക | 24 | to be possible to ___<br>to be able to ___ |
+| പറ്റി | 14 | about, concerning |
+| പറ്റിയുള്ള | 14 | which (are) concerning |
+| പറ്റുക | 8 | to happen |
+| ___ പറ്റുക | 24 | to be possible to ___<br>to be able to ___ |
 | ___ പാടില്ല | 24 | can’t, shouldn’t |
 | പാടുക (past: പാടി) | 20 | to sing |
 | പാഠം | 21 | lesson |
@@ -911,11 +913,11 @@ Note: The lesson numbers identify where entries are introduced in the source voc
 | പോകാറുണ്ട് | 19 | to be in the habit of going |
 | പോകുന്നു | 5 | is going, goes |
 | പോയി | 11 | went |
-| പോയിരിക്കുകയായിരിന്നു | 19 | (I) have been gone; (I) had been gone???? |
+| പോയിരിക്കുകയായിരിന്നു | 19 | (I) have been gone; (I) had been gone (source gloss queried) |
 | പോലെ | 13 | like, as |
 | _____ പോൾ | 21 | while _____ |
 | പ്യൂൺ | 19 | peon |
-| പ്ലേററ് | 4 | dishes |
+| പ്ലേറ്റ് | 4 | dishes |
 | പ്രകാരം | 20 | according to (word final ‘-ം’ of the preceding noun drops when പ്രകാരം is added) |
 | പ്രകൃതി | 23 | nature |
 | പ്രകൃതിസുന്ദരം | 14 | naturally beautiful |
@@ -931,7 +933,7 @@ Note: The lesson numbers identify where entries are introduced in the source voc
 | പ്രാദേശിക | 14 | regional |
 | പ്രാദേശിക വാർത്തകൾ | 14 | regional news |
 
-???? the original translation, “have (you) been, had (you) been” doesn’t make sense: DEJ
+> **Source editor query:** The source questions the translation of പോയിരിക്കുകയായിരിന്നു (PDF page 531). Its intended form and gloss need review; the entry above is not a reliable model.
 
 <!-- Source: PDF page 532; printed page 469. -->
 
@@ -953,8 +955,8 @@ Note: The lesson numbers identify where entries are introduced in the source voc
 | Malayalam | Lesson | English |
 |---|---|---|
 | ബസ് | 7 | bus |
-| ബസ്സ്ററാൻഡിലെ | 15 | at or of the bus stop |
-| ബസ്സ്ററാൻഡിലേക്ക് | 7 | to or up to the bus stop |
+| ബസ്സ്റ്റാൻഡിലെ | 15 | at or of the bus stop |
+| ബസ്സ്റ്റാൻഡിലേക്ക് | 7 | to or up to the bus stop |
 | ബസ്സിനടുത്തേക്ക് | 15 | over to the bus |
 | ബാങ്ക് | 8 | bank |
 | ബിൽ | 1 | bill |
@@ -1027,20 +1029,20 @@ Note: The lesson numbers identify where entries are introduced in the source voc
 | മഴ | 22 | rain |
 | മഴക്കാലം | 22 | rainy season |
 | മറുനാടൻ | 20 | overseas |
-| മററ് (adj.) | 24 | other, another |
-| മററൊരു (adj.) | 24 | another |
+| മറ്റ് (adj.) | 24 | other, another |
+| മറ്റൊരു (adj.) | 24 | another |
 | മാങ്ങാ | 1 | mango |
 | മാതൃഭൂമി | 16 | ‘Mathrubhoomi’, a leading Malayalam newspaper |
 | മാത്രം | 16 | only (occurs with noun) |
 | മാനേജർ | 19 | manager |
-| മാർക്കററ് | 14 | Market Quotations, a section in Malayalam newspapers |
-| മാററുക (past: മാററി) | 19 | to change (trans.) |
+| മാർക്കറ്റ് | 14 | Market Quotations, a section in Malayalam newspapers |
+| മാറ്റുക (past: മാറ്റി) | 19 | to change (trans.) |
 | മിക്കവാറും | 16 | nearly, almost |
 | മിടുക്കി (masc. മിടുക്കൻ) | 18 | smart girl |
 | മിസ്സൂറി | 2 | Missouri |
 | മീൻപിടുത്തം | 25 | fishing, catching fish |
-| മീററിങ്ങ് | 13 | meeting |
-| മീററിങ്ങ് കഴിഞ്ഞിട്ട് | 13 | after the meeting is finished |
+| മീറ്റിങ്ങ് | 13 | meeting |
+| മീറ്റിങ്ങ് കഴിഞ്ഞിട്ട് | 13 | after the meeting is finished |
 
 <!-- Source: PDF page 535; printed page 472. -->
 
@@ -1193,7 +1195,7 @@ Note: The lesson numbers identify where entries are introduced in the source voc
 | വിനോദം | 23 | pleasure |
 | വിപരീതപദം | 21 | antonym |
 | വില | | price |
-| വിൽക്കുക (past: വിററു) | 16 | to sell |
+| വിൽക്കുക (past: വിറ്റു) | 16 | to sell |
 | വിൽപ്പന | 14 | sale |
 | വിൽപ്പനക്ക് | 14 | for sale |
 | വിവരം | 24 | details, information |
@@ -1223,7 +1225,7 @@ Note: The lesson numbers identify where entries are introduced in the source voc
 | വിളവ് | 25 | crop |
 | വിളവെടുപ്പ് | 20 | harvest |
 | വിളിക്കാം | 7 | will call |
-| _____വിററാൽ മതിയായിരുന്നു | 23 | it would have been good (enough), if (we) had sold _____ |
+| _____വിറ്റാൽ മതിയായിരുന്നു | 23 | it would have been good (enough), if (we) had sold _____ |
 | വീട് | 2 | house, home |
 | വീട് വാടകക്ക് | 14 | ‘House for rent’ – a title of ads in Malayalam newspapers |
 | വീണ്ടും | 12 | again |
@@ -1324,8 +1326,8 @@ Note: The lesson numbers identify where entries are introduced in the source voc
 | സ്കൂൾ | 6 | school |
 | സ്ത്രീ | 15 | woman |
 | സ്ഥലം | 16 | place |
-| സ്ഥലം മാററുക (past: സ്ഥലം മാററി) | 19 | to transfer |
-| സ്ഥലം മാററരുതേ | 19 | please don’t transfer (me) (connotes pleading) |
+| സ്ഥലം മാറ്റുക (past: സ്ഥലം മാറ്റി) | 19 | to transfer |
+| സ്ഥലം മാറ്റരുതേ | 19 | please don’t transfer (me) (connotes pleading) |
 
 <!-- Source: PDF page 544; printed page 481. -->
 
@@ -1337,8 +1339,8 @@ Note: The lesson numbers identify where entries are introduced in the source voc
 | സ്നേഹിക്കുക (past: സ്നേഹിച്ചു) | 24 | to love |
 | സ്പോർട്സ് രംഗം | 14 | ‘Sports Scene’ – a section title in some Malayalam newspapers |
 | സ്വാഗതം | 25 | Welcome (noun) |
-| സ്ററാമ്പ് | 13 | stamp (noun) |
-| സ്ററേററ് | 10 | state (noun) |
+| സ്റ്റാമ്പ് | 13 | stamp (noun) |
+| സ്റ്റേറ്റ് | 10 | state (noun) |
 
 ## ഹ
 
@@ -1356,5 +1358,5 @@ Note: The lesson numbers identify where entries are introduced in the source voc
 |---|---|---|
 | റബ്ബർ | 25 | rubber |
 | റേഡിയോ | 14 | Radio – time table of programmes – title of radio programme timetable in Malayalam newspapers |
-| ററിക്കററ് or ടിക്കററ് | | ticket |
-| ററീച്ചർ | 2 | teacher |
+| റ്റിക്കറ്റ് or ടിക്കറ്റ് | | ticket |
+| റ്റീച്ചർ | 2 | teacher |

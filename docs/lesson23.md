@@ -51,7 +51,7 @@
 | തീർച്ച | certain |
 | സൗകര്യം | convenience |
 | ---ഉണ്ടായിരുന്നെങ്കിൽ ---ആയിരുന്നു | if (we) had --- it would have been --- |
-| ---വിററാൽ മതിയായിരുന്നു | it would have been good if (we) had sold --- |
+| ---വിറ്റാൽ മതിയായിരുന്നു | it would have been good if (we) had sold --- |
 | വിദേശീയർ | foreigners |
 | സംസാരം | talk, conversation |
 | രീതി | custom |
@@ -112,7 +112,7 @@
 
 Read these adverbs formed with -ആയി.
 
-സാധാരണയായി, അത്യാവശ്യമായി, അന്ത്യമായി, ആദ്യമായി, ഈയിടെയായി, ഒന്നാമതായി, കൂടുതലായി, ചീത്തയായി, ചെറിയതായി, മാത്രമായി, ശരിയായി, തെററായി, ധാരാളമായി, നല്ലതായി, നന്നായി, പുതിയതായി, സുഖമായി, സന്തോഷമായി, പ്രയാസമായി, വിഷമമായി, തീർച്ചയായി, അടുത്തതായി.
+സാധാരണയായി, അത്യാവശ്യമായി, അന്ത്യമായി, ആദ്യമായി, ഈയിടെയായി, ഒന്നാമതായി, കൂടുതലായി, ചീത്തയായി, ചെറിയതായി, മാത്രമായി, ശരിയായി, തെറ്റായി, ധാരാളമായി, നല്ലതായി, നന്നായി, പുതിയതായി, സുഖമായി, സന്തോഷമായി, പ്രയാസമായി, വിഷമമായി, തീർച്ചയായി, അടുത്തതായി.
 
 ### B.
 
@@ -133,7 +133,7 @@ Read the following sentences expressing a change of state with -ആയി.
 
 **കമല:** ബിൽ അടുത്തയാഴ്ചയല്ലേ അമേരിക്കയിൽ നിന്നു വരുന്നത്. നമുക്ക് അയാളെ കേരളം കാണിക്കുവാൻ വേണ്ടി ഒരു വിനോദയാത്രക്ക് കൊണ്ടുപോകണമല്ലോ?
 
-**രാമൻ:** തീർച്ചയായിട്ടും കൊണ്ടുപോകണം. നമുക്ക് ഇപ്പോൾ കാറുണ്ടായിരുന്നെങ്കിൽ നല്ല സൗകര്യമായിരുന്നു. പഴയത് ഇത് കഴിഞ്ഞ് വിററാൽ മതിയായിരുന്നു. പുതിയത് അടുത്ത മാസമേ കിട്ടുകയുള്ളു.
+**രാമൻ:** തീർച്ചയായിട്ടും കൊണ്ടുപോകണം. നമുക്ക് ഇപ്പോൾ കാറുണ്ടായിരുന്നെങ്കിൽ നല്ല സൗകര്യമായിരുന്നു. പഴയത് ഇത് കഴിഞ്ഞ് വിറ്റാൽ മതിയായിരുന്നു. പുതിയത് അടുത്ത മാസമേ കിട്ടുകയുള്ളു.
 
 **കമല:** അത് സാരമില്ല രാമാ. വിദേശിയർക്ക് ഇവിടുത്തെ ബസ്സിലും ട്രെയിനിലുമൊക്കെ യാത്ര ചെയ്യുന്നതായിരിക്കും കുറച്ചു കൂടി
 
@@ -171,9 +171,9 @@ Read the following sentences expressing a change of state with -ആയി.
 
 **രാമൻ:** എനിക്ക് എട്ട് ദിവസത്തെ അവധിയേയുള്ളു. കൂടുതൽ അവധി ഉണ്ടായിരുന്നെങ്കിൽ ഞാൻ കുറച്ച് ദിവസങ്ങൾ കൂടി എടുത്തേനേ.
 
-**കമല:** ആകട്ടെ. ഉടൻ തന്നെ ട്രെയിൻ യാത്രക്കുള്ള ടിക്കററ് റിസർവ്വ് ചെയ്തേക്കു. ഒന്നാം ക്ലാസ് ടിക്കററ് എടുക്കരുതേ. രണ്ടാം ക്ലാസ് മതി. നമ്മൾ പണക്കാരല്ലല്ലോ.
+**കമല:** ആകട്ടെ. ഉടൻ തന്നെ ട്രെയിൻ യാത്രക്കുള്ള ടിക്കറ്റ് റിസർവ്വ് ചെയ്തേക്കു. ഒന്നാം ക്ലാസ് ടിക്കറ്റ് എടുക്കരുതേ. രണ്ടാം ക്ലാസ് മതി. നമ്മൾ പണക്കാരല്ലല്ലോ.
 
-**രാമൻ:** ശരി. അങ്ങനെ ആകട്ടെ. ഇപ്പോൾ തന്നെ പോയി ടിക്കററ് റിസർവ്വ് ചെയ്തേക്കാം.
+**രാമൻ:** ശരി. അങ്ങനെ ആകട്ടെ. ഇപ്പോൾ തന്നെ പോയി ടിക്കറ്റ് റിസർവ്വ് ചെയ്തേക്കാം.
 
 ## Exercises
 
@@ -242,7 +242,7 @@ Read the following sentences expressing a change of state with -ആയി.
 എനിക്ക് മലയാളം പഠിക്കുന്നത് പ്രയാസമായി തോന്നി.
 
 1. _____ നടന്നാൽ മാത്രമേ നമ്മൾ അവിടെ ശരിയായ സമയത്ത് എത്തുകയുള്ളു. (വേഗം)
-2. രമ _____ എഴുതിയത് ഞാൻ തിരുത്തി. (തെററ്)
+2. രമ _____ എഴുതിയത് ഞാൻ തിരുത്തി. (തെറ്റ്)
 3. അച്ഛനും അമ്മയും _____ ഇരിക്കുന്നു. (സുഖം)
 4. നിങ്ങൾ _____ വാങ്ങിച്ച കാർ ഇതാണോ? (പുതിയത്)
 5. ആ കാര്യത്തിനെപ്പറ്റി അയാൾക്ക് _____ അറിയാം. (തീർച്ച)
@@ -357,6 +357,8 @@ Negative verbforms may appear in either, or both clauses of conditional sentence
 
 16. നിനക്ക് വരാൻമേലെങ്കിൽ ഞാൻ കാർ അയക്കുകയില്ല. — “If you can't come, I won't send the car.”
 17. നീ ചോദിച്ചില്ലെങ്കിൽ നിനക്ക് അവധി കിട്ടുകയില്ല. — “If you didn't ask, you wouldn't get leave.”
+> **Editorial source note:** Example 18 is translated as a past counterfactual, but the result clause lacks the past auxiliary used elsewhere in this section. The Malayalam and English tense correspondence needs review.
+
 18. നീ ചോദിച്ചില്ലായിരുന്നെങ്കിൽ നിനക്ക് അവധി കിട്ടുകയില്ല. — “If you hadn't asked, you wouldn't have gotten leave.”
 19. നീ അവനെ കണ്ടിരുന്നെങ്കിലും ഒന്നും പറയണ്ടായിരുന്നു. — “Even though you saw him, you shouldn't have said anything.”
 
@@ -370,7 +372,7 @@ Conditionals with ഉണ്ട് and ആകുക are formed thus:
 
 Most verbforms can be made more emphatic by changing them to a citation form, actually a noun (see 24.1), adding the suffix -ഉം, and bringing in ചെയ്യുക as the verb which then takes over the endings for tense, mood, and aspect which the original unemphatic verb carried. The citation form plus -ഉം then functions as the direct object of ചെയ്യുക.
 
-This construction is usually used in positive statements, rarely in questions, and never in negatives. Negative verbforms add -ഏ- for emphasis (see 24.3). Witness:
+This construction is usually used in positive statements, rarely in questions, and never in negatives. Negative verbforms add -ഏ- for emphasis (see 16.5). Witness:
 
 1. അന്ന് നമ്മൾ എന്റെ വീട്ടിൽ കിടക്കുകയും ചെയ്യും. — “That day we will <u>stay over</u> at my house.”
 2. പാവപ്പെട്ടവർ കഷ്ടപ്പെടുകയും ചെയ്യും. — “The poor will suffer for sure.”

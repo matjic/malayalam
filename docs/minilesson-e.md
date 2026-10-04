@@ -6,6 +6,8 @@
 
 The auxiliary verb വരുക is often used to express external obligation or compulsion to do something. The main verb must appear in the special form of the desiderative ending in -ി. Note that, like other uses of the desiderative (see 8.4), external obligation requires the nominative form of the subject. All three tenses are permitted with this construction.
 
+> **Editorial source note:** The source says this construction requires a nominative subject, but example 1 uses the dative എനിക്ക് (“to me”). The stated rule and example are inconsistent; the case requirement needs linguistic review.
+
 1. എനിക്ക് മൂന്ന് ഫോറം പൂരിപ്പിക്കേണ്ടി വന്നു.
 
    “I had to fill out three forms for that.”

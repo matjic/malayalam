@@ -8,9 +8,11 @@ Note: The postpositions are grouped according to the case ending required for th
 
 ### Nominative
 
+<!-- Editorial restoration: the character after “final-” is missing on PDF page 483; -ം is specified in Lesson 20.3 and the glossary entry for പ്രകാരം. -->
+
 | Malayalam | English |
 |---|---|
-| പ്രകാരം<br>[Note that the final-　 of the preceding noun drops] | according to, in (this) manner |
+| പ്രകാരം<br>[Note that the final -ം of the preceding noun drops] | according to, in (this) manner |
 | അനുസരിച്ച് | according to |
 | തമ്മിൽ | together, one another |
 | ഇല്ലാതെ<br>അല്ലാതെ<br>ഒഴികെ | without, except, besides |
@@ -36,7 +38,7 @@ All unstarred items often take the dative in colloquial speech. Starred items ta
 | അരികിൽ<br>അരികെ | near, by |
 | വക്കിൽ | on the brim, edge |
 | കരയിൽ | on the shore, bank, side |
-| അററത്ത് | at the edge or end |
+| അറ്റത്ത് | at the edge or end |
 | അവസാനം | end |
 | അകത്ത്<br>അകം<br>ഉള്ളിൽ | inside, within |
 | മേലെ<br>മീതെ<br>മേൽ<br>മുകളിൽ | over, above, upon |
@@ -59,7 +61,7 @@ All unstarred items often take the dative in colloquial speech. Starred items ta
 |---|---|
 | \*മുക്കിൽ<br>\*മൂലയിൽ | at the corner |
 | \*സീമയിൽ | at the boundary |
-| \*ചുററും | all around, around |
+| \*ചുറ്റും | all around, around |
 | \*വശത്ത് | on the side |
 | \*ഇടത്ത് | on the left side |
 | \*വലത്ത് | on the right side |
@@ -84,7 +86,7 @@ All unstarred items often take the dative in colloquial speech. Starred items ta
 | തക്കവണ്ണം<br>ഒത്ത<br>ഒത്തവണ്ണം | suitable to |
 | തക്കപോലെ | according to |
 | ഒത്തപോലെ | suitable to |
-| ചുററും | around, around about |
+| ചുറ്റും | around, around about |
 | പടി | |
 
 <!-- Source: PDF page 486; printed page 423. -->
@@ -97,7 +99,7 @@ All unstarred items often take the dative in colloquial speech. Starred items ta
 | -കാൾ | than- |
 | പോലെ (with animate nouns only) | like, as |
 | കൊണ്ട് | with, by means of |
-| പററി | about, concerning |
+| പറ്റി | about, concerning |
 | -ഓളം<br>[note that the accus. ending<br>-എ+ഓ=ഓ] | as much as<br>as great as<br>as far as, until |
 | കുറിച്ച് | about, of, concerning, for the sake of |
 

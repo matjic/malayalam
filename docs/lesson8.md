@@ -686,6 +686,8 @@ It's also possible to use എന്ന് to report commands, c.f.
    “I will tell him, 'take away the plates' (less common).”  
    or “I will tell him to take away the plates.”
 
+> **Editorial note:** The following source sentence is incomplete after ചോദിക്കുക, so its claimed restriction needs review. Examples 1 and 2 use പറയാം (“I will tell”); the concluding English “I asked” has the wrong tense.
+
 Note that cases like Example 2 can be taken as either direct or indirect quotes. The distinction is really not significant since there is only one way of quoting, i.e. with എന്ന്, for all cases except those containing commands. One constraint is that, unlike English, the verb “to ask” ചോദിക്കുക only പറയുക is permitted. Thus Example 1 above is also equivalent to “I asked him to take away the plates.”
 
 ### 8.6 Tag Questions

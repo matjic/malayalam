@@ -583,6 +583,8 @@ The separable part of the qualifier, -ഉള്ളു, follows the same rules as
 
 <!-- The source prints -ന്നു or എന്ന് here; retained as printed. -->
 
+> **Editorial note:** The source’s list “-ന്നു or എന്ന്” is inconsistent with the preceding examples and should not be treated as an exhaustive rule. Follow the fully glossed examples in section 7.5; section 16.5 develops the construction further.
+
 Those you have learned so far include only forms ending in -ന്നു or എന്ന് (other types are covered in Lesson Sixteen). The conjunction, -എങ്കിൽ “if”, is also a dependent word in that in speaking or writing it is always joined to the preceding word. It follows the spelling conventions in joining just cited for -ഏയുള്ളു, above.
 
 ### 7.7 The Hortative “Let's” Verbform

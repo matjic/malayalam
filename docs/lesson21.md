@@ -174,7 +174,7 @@ Note how the various forms of കൊണ്ടിരിക്കുക can be add
 
 **രാജൻ:** ചേച്ചി, ചേട്ടൻ ഇവിടെയില്ലെ? എവിടെ പോയിരിക്കുകയാണ്?
 
-**ചേച്ചി:** ഞങ്ങൾ ഇന്നു വൈകിട്ട് ഒരു ഇംഗ്ലീഷ് സിനിമ കാണാൻ പോകുന്നുണ്ട്. അതിന് നേരത്തെ ടിക്കററ് വാങ്ങിക്കാൻ പോയിരിക്കുകയാണ്. പത്ത് മിനിട്ടിനകം തിരിച്ചുവരുമായിരിക്കും. എന്താ കാര്യം രാജാ, ചേട്ടനോട് വല്ലതും പറയാനുണ്ടോ?
+**ചേച്ചി:** ഞങ്ങൾ ഇന്നു വൈകിട്ട് ഒരു ഇംഗ്ലീഷ് സിനിമ കാണാൻ പോകുന്നുണ്ട്. അതിന് നേരത്തെ ടിക്കറ്റ് വാങ്ങിക്കാൻ പോയിരിക്കുകയാണ്. പത്ത് മിനിട്ടിനകം തിരിച്ചുവരുമായിരിക്കും. എന്താ കാര്യം രാജാ, ചേട്ടനോട് വല്ലതും പറയാനുണ്ടോ?
 
 **രാജൻ:** ഇംഗ്ലീഷ് പാഠം പഠിച്ചുകൊണ്ടിരുന്നപ്പോൾ എനിക്കൊരു സംശയം തോന്നി. അതു ചേട്ടനോട് ഒന്നു ചോദിച്ചുകളയാം എന്ന് വിചാരിച്ചു വന്നതാണ്. ചിലപ്പോൾ ചേച്ചിക്ക് അറിയാമായിരിക്കാം. Grief എന്ന വാക്കിന്റെ അർത്ഥം എനിക്ക് പറഞ്ഞുതരാമോ?
 
@@ -182,9 +182,9 @@ Note how the various forms of കൊണ്ടിരിക്കുക can be add
 
 **രാജൻ:** സുഖം എന്നോ സന്തോഷം എന്നോ ആയിരിക്കണം.
 
-**ചേച്ചി:** മിടുക്കൻ! രണ്ടും ശരിയാണ്. അതാ, ചേട്ടൻ വരുന്നുണ്ടല്ലോ. (ചേട്ടനോട്) എന്താ മുഖത്ത് ഒരു പ്രസന്നതയില്ലാത്തത്? ടിക്കററ് കിട്ടിയില്ലെ?
+**ചേച്ചി:** മിടുക്കൻ! രണ്ടും ശരിയാണ്. അതാ, ചേട്ടൻ വരുന്നുണ്ടല്ലോ. (ചേട്ടനോട്) എന്താ മുഖത്ത് ഒരു പ്രസന്നതയില്ലാത്തത്? ടിക്കറ്റ് കിട്ടിയില്ലെ?
 
-**ചേട്ടൻ:** ഇംഗ്ലീഷ് സിനിമക്ക് വലിയ തിരക്ക് ആയതു കൊണ്ട് ടിക്കററ് കിട്ടിയില്ല. ഒരു മലയാള സിനിമക്ക് ടിക്കററ് വാങ്ങിച്ചു. മൂന്നു ടിക്കററുണ്ട്. അമ്മയെ കൂടെ കൊണ്ടു പോകാം.
+**ചേട്ടൻ:** ഇംഗ്ലീഷ് സിനിമക്ക് വലിയ തിരക്ക് ആയതു കൊണ്ട് ടിക്കറ്റ് കിട്ടിയില്ല. ഒരു മലയാള സിനിമക്ക് ടിക്കറ്റ് വാങ്ങിച്ചു. മൂന്നു ടിക്കറ്റുണ്ട്. അമ്മയെ കൂടെ കൊണ്ടു പോകാം.
 
 **ചേച്ചി:** അമ്മക്ക് കണ്ണിന് അസുഖമായതു കൊണ്ട് സിനിമ കാണരുത് എന്ന് ഡാക്ടർ പറഞ്ഞിട്ടുണ്ട്. അതുകൊണ്ട് അമ്മ വരുകയില്ലായിരിക്കും. രാജന് സിനിമ കാണാൻ വരണമെന്നുണ്ടായിരിക്കും. (രാജനോട്) രാജാ, നീ പരീക്ഷക്ക് പഠിച്ചുകഴിഞ്ഞോ?
 
@@ -366,6 +366,8 @@ An alternative, but less common, way to express "As soon as" is with -പാട�
 
 Thus -പാടെ can also be substituted in examples 1-7 above , except 4 , with the appropriate changes in verbforms.
 
+> **Editorial learner note:** താമസം means “delay” here. The expression എത്തേണ്ട താമസം means “no sooner than arriving”; its literal sense is “only the delay needed to arrive.”
+
 A similar but slightly different meaning is conveyed by desiderative adjective plus താമസം. It most aptly carries the sense of “No sooner did...” . Witness:
 
 15. ഞാൻ ബസ്സ്സ്റ്റോപ്പിൽ എത്തേണ്ട താമസം ബസ് വിട്ട് പോയി.
@@ -378,13 +380,17 @@ Finally, note that as with all subordinate clauses in Malayalam, those treated h
 
 ### 21.2 Time Adverbial Clauses with “by the time” and “as long as”
 
-**A.** Time adverbial clauses expressing “by the time” and “as soon as” are formed with the complex conjunction അപ്പോഴേക്കും “by that time.” Like അപ്പോൾ (see 21.1) it only attaches to the future/habitual, to a past tense, or to a desiderative in which case the initial അ drops. When the verb in the time adverbial clause is future/habitual , the verb in the main clause must appear in the future perfect (see ...), formed with the conjunctive (past participle) of the verb plus the future or desiderative of the auxiliary ഇരിക്കുക. c.f.:
+<!-- Editorial cleanup: the source has an unfinished “see ...” reference after “future perfect”; removed, since the construction is defined in the same sentence. -->
+
+**A.** Time adverbial clauses expressing “by the time” and “as soon as” are formed with the complex conjunction അപ്പോഴേക്കും “by that time.” Like അപ്പോൾ (see 21.1) it only attaches to the future/habitual, to a past tense, or to a desiderative in which case the initial അ drops. When the verb in the time adverbial clause is future/habitual , the verb in the main clause must appear in the future perfect, formed with the conjunctive (past participle) of the verb plus the future or desiderative of the auxiliary ഇരിക്കുക. c.f.:
 
 <!-- Source: PDF page 383; printed page 324. -->
 
 1. നീ പോലീസിനോട് റിപ്പോർട്ട് ചെയ്യുമ്പോഴേക്കും അവൻ നാട് കടന്നിരിക്കും.
 
    “By the time you make a report to the police, he will have fled the country.”
+> **Editorial learner note:** അവസരം means “opportunity” or “chance”; it is listed again in Lesson Twenty-Three.
+
 2. എനിക്ക് അനുവാദം കിട്ടിയപ്പോഴേക്കും ആ അവസരം കടന്നു പോയിരുന്നു.
 
    “By the time I obtained permission, the opportunity had already gone.”
@@ -408,13 +414,13 @@ Such clauses often follow the main clause in English, but must precede it in Mal
 
 The negative verbal noun, both present and past (see 19.5) can also occur with വരെ. Thus, before watching a videotape, you might say (using the present negative verbal noun):
 
-7. കാണാൻ പററാത്തത് വരെ ലൈററ് ഡിം ചെയ്യണം.
+7. കാണാൻ പറ്റാത്തത് വരെ ലൈറ്റ് ഡിം ചെയ്യണം.
 
    "You should dim the lights until you /we can't see (them)".
 
 If you watched a videotape last night, you would say (using the past negative verbal noun):
 
-8. കാണാൻ പററാഞ്ഞത് വരെ ലൈററ് ഡിം ചെയ്തു.
+8. കാണാൻ പറ്റാഞ്ഞത് വരെ ലൈറ്റ് ഡിം ചെയ്തു.
 
    "We dimmed the light until we could not see (them)".
 
@@ -425,6 +431,8 @@ If you are draining a well, you might say:
 9. വെള്ളം കിട്ടാത്തത് വരെ പമ്പ് ചെയ്യണം. — “You should pump until you don't get (any) water”.
 
 The past tense form would be:
+
+> **Editorial source note:** This example is introduced as the past version, but its dependent phrase still has കിട്ടാത്തത്, the present negative form; compare the present/past contrast in examples 7–8.
 
 10. വെള്ളം കിട്ടാത്തത് വരെ പമ്പ് ചെയ്യേണ്ടായിരുന്നു. — “You should have pumped until you didn't get (any) water”.
 
@@ -538,7 +546,7 @@ The continuous form of the verb emphasizes the process of the action, and not it
 
 <!-- Source: PDF page 388; printed page 329. -->
 
-The most common forms are the present progressive, വരുകയാണ്, “am, is, are coming,” and the past progressive, വരുകയായിരുന്നു, “was, were coming.” These forms can only refer to action in progress at the moment, or at some specific point in past time. As in English, the present progressive form may also be used to express action about to be performed in the immediate future. Thus the neighbor says to Rajan in this lesson's conversation, നീ വരുകയാണെങ്കിൽ “if you are coming....” In general, however, the emphatic form വരുന്നുണ്ട് is somewhat more common for immediate future meaning. Note that the progressive aspect may be attached to complex tenses as well with ആയിരിക്കുക and to compound verbs (see 21.7 below). Thus, in response to a query about her husband, the neighbor lady tells Rajan, ...ടിക്കററ് വാങ്ങിക്കാൻ പോയിരിക്കുകയാണ് “...he has gone to buy tickets.” Use of the progressive here emphasizes the fact that the action of the verb, “the going,” is still in progress. The use of the progressive aspect is blocked if the perfective marker -ിട്ട് is present between the verb and auxiliary.
+The most common forms are the present progressive, വരുകയാണ്, “am, is, are coming,” and the past progressive, വരുകയായിരുന്നു, “was, were coming.” These forms can only refer to action in progress at the moment, or at some specific point in past time. As in English, the present progressive form may also be used to express action about to be performed in the immediate future. Thus the neighbor says to Rajan in this lesson's conversation, നീ വരുകയാണെങ്കിൽ “if you are coming....” In general, however, the emphatic form വരുന്നുണ്ട് is somewhat more common for immediate future meaning. Note that the progressive aspect may be attached to complex tenses as well with ആയിരിക്കുക and to compound verbs (see 21.7 below). Thus, in response to a query about her husband, the neighbor lady tells Rajan, ...ടിക്കറ്റ് വാങ്ങിക്കാൻ പോയിരിക്കുകയാണ് “...he has gone to buy tickets.” Use of the progressive here emphasizes the fact that the action of the verb, “the going,” is still in progress. The use of the progressive aspect is blocked if the perfective marker -ിട്ട് is present between the verb and auxiliary.
 
 ### 21.7 A Close Look at Compound Verbs.
 

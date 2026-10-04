@@ -39,8 +39,8 @@ All verbs having this function take three-argument frames.
 |---|---|---|---|
 | അപേക്ഷ | inquiry, request | എന്റെ അദ്ദേഹത്തോടുള്ള അപേക്ഷ തള്ളപ്പെട്ടു. | “My request to him was denied.” |
 | ചോദ്യം | question | അവരുടെ എന്നോടുള്ള ചോദ്യത്തിന് എനിക്ക് മറുപടി പറയാൻ കഴിഞ്ഞില്ല. | “I was unable to answer her question to me.” |
-| ശുപാർശ | recommendation | ഇതിനെപ്പററിയുള്ള അവന്റെ എന്നോടുള്ള ശുപാർശ നന്നായിരുന്നില്ല. | “His recommendation to me about this was not good.” |
-| ക്ഷമാപണം | apology | ഞാൻ ചെയ്ത തെററിന് അയാളോട് ക്ഷമാപണം ചെയ്തു. | “I apologized to him for the mistake I made.” |
+| ശുപാർശ | recommendation | ഇതിനെപ്പറ്റിയുള്ള അവന്റെ എന്നോടുള്ള ശുപാർശ നന്നായിരുന്നില്ല. | “His recommendation to me about this was not good.” |
+| ക്ഷമാപണം | apology | ഞാൻ ചെയ്ത തെറ്റിന് അയാളോട് ക്ഷമാപണം ചെയ്തു. | “I apologized to him for the mistake I made.” |
 | യാചന | plea | അവന്റെ അമ്മയോടുള്ള യാചന കേൾക്കാതെ പോയി. | “His plea to his mother went unheard.” |
 
 <!-- Source: PDF page 494; printed page 431. -->
@@ -52,6 +52,8 @@ All verbs having this function take three-argument frames.
 | വാങ്ങിക്കുക | to obtain | ഇതിന് അമ്മയോട് പണം വാങ്ങിക്കു. | “Get the money from mother for this.” |
 
 ### Associative Function
+
+> **Editorial note:** Several source labels and translations have been corrected below: the അവഗണന noun example and അവഗണിക്കുക verb example were interchanged; examples using മടുപ്പ് and പരിഭവം are labeled as nouns; അവളോടുള്ള refers to “her”; പരിഭവമുണ്ട് describes a present state.
 
 #### Two-Argument Frame, Type 1
 
@@ -109,10 +111,10 @@ The derived noun occurs in the dative construction with some form of the existiv
 |---|---|---|---|
 | പരിഹസിക്കുക | to mock, to deride, make fun of | പരിഹാസം | mocking, derision |
 
-**Verb:** മററുള്ളവരെല്ലാം എന്നെ പരിഹസിച്ചു.  
+**Verb:** മറ്റുള്ളവരെല്ലാം എന്നെ പരിഹസിച്ചു.  
 “All the others mocked me.”
 
-**Noun:** മററുള്ളവർക്കെല്ലാം എന്നോട് പരിഹാസമുണ്ടായിരുന്നു.  
+**Noun:** മറ്റുള്ളവർക്കെല്ലാം എന്നോട് പരിഹാസമുണ്ടായിരുന്നു.  
 “Everyone felt derisive toward me.”
 
 | Verb | Meaning | Noun | Meaning |
@@ -153,9 +155,9 @@ The derived noun occurs in the dative construction with some form of the existiv
 |---|---|---|---|
 | അവഗണിക്കുക | to neglect, ignore | അവഗണന | ignoring |
 
-**Verb:** ന്യൂനപക്ഷത്തോടുള്ള സർക്കാരിന്റെ അവഗണന നല്ലതല്ല.
+**Noun:** ന്യൂനപക്ഷത്തോടുള്ള സർക്കാരിന്റെ അവഗണന നല്ലതല്ല.
 
-**Noun:** സർക്കാർ ന്യൂനപക്ഷത്തെ അവഗണിക്കുന്നത് ശരിയല്ല.  
+**Verb:** സർക്കാർ ന്യൂനപക്ഷത്തെ അവഗണിക്കുന്നത് ശരിയല്ല.  
 “The Government’s neglect towards the minorities is not right.”
 
 #### Two-argument Frames, Type Two:
@@ -183,8 +185,8 @@ There is no parent verb, only a derived noun. The object of the noun must be in 
 | Word | Meaning | Example | Translation |
 |---|---|---|---|
 | മുഷിയുക; മുഷിവ് | to be fed up with; the condition of being fed up | അവസാനം അവൾ നമ്മളോടും മുഷിയും. | “In the end she will be fed up with us, too.” |
-| കൂട്ടുകൂടുക; കൂട്ടുകെട്ട് | to form close ties with; close tie (with someone) | നമ്മൾക്ക് അവരോട് കൂട്ടുകൂടാൻ പററില്ല. | “We can have no close ties with them.” |
-| ഇഷ്ടം | liking | ററീച്ചറിന് അവളെ/അവനെ വളരെ ഇഷ്ടമാണ്. | “The teacher likes her very much.” |
+| കൂട്ടുകൂടുക; കൂട്ടുകെട്ട് | to form close ties with; close tie (with someone) | നമ്മൾക്ക് അവരോട് കൂട്ടുകൂടാൻ പറ്റില്ല. | “We can have no close ties with them.” |
+| ഇഷ്ടം | liking | റ്റീച്ചറിന് അവളെ/അവനെ വളരെ ഇഷ്ടമാണ്. | “The teacher likes her very much.” |
 | അസൂയ; കുശുമ്പ് | jealousy, envy | അവർക്ക് നിന്നോട് അസൂയ ഉണ്ട്. | “They are jealous of you.” |
 | ഭക്തി | devotion | അവന് ദേവന്മാരോട് വലുതായ ഭക്തിയുണ്ട്. | “He is very devoted to the Gods.” |
 | ബന്ധം | connection | എനിക്ക് ഒരു പാർട്ടിയോടും ബന്ധമില്ല. | “I have no connection to any political party.” |
@@ -251,8 +253,8 @@ Both the verb and the derived noun occurring in a dative construction with the e
 **Verb:** അത് ചെയ്തതിന് അവനോട് പൊറുക്കുക  
 “Please excuse him for doing that.”
 
-**Noun:** നിന്റെ അവളോടുള്ള ക്ഷമ തെററായിരുന്നു.  
-“Your pardoning of him wasn’t right?”
+**Noun:** നിന്റെ അവളോടുള്ള ക്ഷമ തെറ്റായിരുന്നു.  
+“Your pardoning of her wasn’t right.”
 
 | Verb | Meaning | Noun | Meaning |
 |---|---|---|---|
@@ -297,7 +299,7 @@ Both the verb and the derived noun occurring in a dative construction with the e
 |---|---|---|---|
 | മടുക്കുക | to dislike, be disgusted with | മടുപ്പ് | distaste |
 
-**Verb:** അയാളുടെ കഥകളോട് എനിക്ക് മടുപ്പാണ്.  
+**Noun:** അയാളുടെ കഥകളോട് എനിക്ക് മടുപ്പാണ്.  
 “I am sick of his stories.”
 
 <!-- Source: PDF page 500; printed page 437. -->
@@ -306,8 +308,8 @@ Both the verb and the derived noun occurring in a dative construction with the e
 |---|---|---|---|
 | പരിഭവിക്കുക | to be displeased with | പരിഭവം | displeasure with |
 
-**Verb:** മോളിക്ക് വിഷ്ണുവിനോട് പരിഭവമുണ്ട്.  
-“Molly was displeased with Vishnu.”
+**Noun:** മോളിക്ക് വിഷ്ണുവിനോട് പരിഭവമുണ്ട്.  
+“Molly is displeased with Vishnu.”
 
 | Verb | Meaning | Noun | Meaning |
 |---|---|---|---|
@@ -324,6 +326,8 @@ Both the verb and the derived noun occurring in a dative construction with the e
 “Do you admit to me that you took the money?”
 
 #### Three-argument non-causative expressions:
+
+> **Editorial source note:** The first three entries give English translations without corresponding Malayalam example sentences. These incomplete entries are retained as reference material; do not treat them as complete sentence models.
 
 **ചെയ്യുക, to do (something to someone)**
 

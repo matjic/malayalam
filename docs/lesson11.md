@@ -179,6 +179,8 @@ b) രവി ഇവിടെ ഉണ്ടായിരുന്നു.
 **Model:** a) എത്ര പേരുണ്ട്?  
 എത്ര പേരുണ്ടായിരുന്നു?
 
+> **Editorial geography note:** The model below retains the source’s assertion for tense practice. Kanniyakumari is in [Tamil Nadu](https://kanniyakumari.nic.in/about-district/), so its geography is incorrect; compare the correct example in Grammar Note 11.2.
+
 b) കന്യാകുമാരി (Cape Comorin) കേരളത്തിലാണ്.  
 കന്യാകുമാരി കേരളത്തിലായിരുന്നു.
 

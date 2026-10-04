@@ -1,5 +1,7 @@
 # Index
 
+> **Editorial note:** This reproduces the source index’s printed-page references. Some references appear to belong to an earlier pagination and do not match this edition (for example, “Can” cites 399–402 while section 24.6 starts on printed page 389). Use the table of contents, lesson section numbers, or site search to locate a topic.
+
 <!-- Source: PDF page 545; printed page 482. -->
 
 ## Index According To English Meaning

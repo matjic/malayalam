@@ -27,7 +27,7 @@
 | ആടുക | to swing, to dance | ആട്ടം | dance |
 | പാടുക | to sing | പാട്ട് | song |
 | സമ്മതിക്കുക | to agree | സമ്മതം | agreement |
-| മാറുക | to change (intr.) | മാററം | change |
+| മാറുക | to change (intr.) | മാറ്റം | change |
 | ആഘോഷിക്കുക | to celebrate | ആഘോഷം | celebration |
 | അലങ്കരിക്കുക | to decorate | അലങ്കാരം | decoration |
 | ആകർഷിക്കുക | to attract | ആകർഷണം | attraction |
@@ -51,7 +51,7 @@
 | വരുക | to come | വരവ് | the act of coming |
 | തിരിയുക | to turn (intr.) | തിരിവ് | turn |
 | പോകുക | to go | പോക്ക് | the act of going |
-| കയറുക | to get on, to ascend | കയററം | the act of getting on, ascent |
+| കയറുക | to get on, to ascend | കയറ്റം | the act of getting on, ascent |
 | ഇറങ്ങുക | to get down, to descend | ഇറക്കം | slope, descent |
 | പിടിക്കുക | to hold, to catch hold | പിടുത്തം | the act of catching |
 | നടക്കുക | to walk | നടപ്പ് | the act of walking |
@@ -114,15 +114,15 @@
 | എതിർക്കുക (past: എതിർത്തു) | to oppose |
 | --കാൾ (accusative) | than -- |
 | -- കൂടാ | can’t, shouldn’t |
-| മററ് (adj) | other, another |
-| മററൊരു (adj) | another |
+| മറ്റ് (adj) | other, another |
+| മറ്റൊരു (adj) | another |
 | -- കഴിയുക | can -- |
 | പരിചിതം (antonym: അപരിചിതം) | familiar |
 | ഗുണം | good quality or attribute |
 | കുറവ് | deficiency, shortcoming |
 | ഉദാഹരണം | example |
-| ഏററവും | most, much, exceeding |
-| -- പററുക | to be possible to --<br>to be able to -- |
+| ഏറ്റവും | most, much, exceeding |
+| -- പറ്റുക | to be possible to --<br>to be able to -- |
 | -- പാടില്ല | can’t, shouldn’t -- |
 | തണുക്കുന്നു (past: തണുത്തു) | to be (feel) cold |
 | തണുപ്പ് (noun) | cold (temperature) |
@@ -145,11 +145,11 @@ Note how comparisons are made in the following sentences.
 
 Note how superlatives are expressed in these sentences.
 
-1. ഗീതയാണ് ക്ലാസിലെ ഏററവും മിടുക്കി കുട്ടി.
-2. കൽക്കത്തയാണ് ഇൻഡ്യയിലെ ഏററവും വലിയ പട്ടണം.
-3. ഈ ആഫീസിൽ സാറാണ് ഏററവും അധികം ജോലി ചെയ്തത്.
-4. കമലയാണ് ഏററവും നല്ലതായിട്ട് പാടിയത്.
-5. ഏററവും അധികം ആളുകൾ വായിക്കുന്ന പത്രം മനോരമയാണ്.
+1. ഗീതയാണ് ക്ലാസിലെ ഏറ്റവും മിടുക്കി കുട്ടി.
+2. കൽക്കത്തയാണ് ഇൻഡ്യയിലെ ഏറ്റവും വലിയ പട്ടണം.
+3. ഈ ആഫീസിൽ സാറാണ് ഏറ്റവും അധികം ജോലി ചെയ്തത്.
+4. കമലയാണ് ഏറ്റവും നല്ലതായിട്ട് പാടിയത്.
+5. ഏറ്റവും അധികം ആളുകൾ വായിക്കുന്ന പത്രം മനോരമയാണ്.
 
 ## Sample Newspaper Advertisements
 
@@ -187,7 +187,7 @@ Note how superlatives are expressed in these sentences.
 
 **കമല:** ചോദിച്ചു കൊള്ളു.
 
-**ബിൽ:** നിങ്ങളുടെ വിവാഹരീതികളെപ്പററി അറിയുവാൻ ഞാൻ ആഗ്രഹിക്കുന്നു. നിങ്ങളുടെ രീതികൾ ഞങ്ങളുടെ രീതികളിൽ നിന്നും വളരെ വ്യത്യസ്തമായിരിക്കുന്നല്ലോ.
+**ബിൽ:** നിങ്ങളുടെ വിവാഹരീതികളെപ്പറ്റി അറിയുവാൻ ഞാൻ ആഗ്രഹിക്കുന്നു. നിങ്ങളുടെ രീതികൾ ഞങ്ങളുടെ രീതികളിൽ നിന്നും വളരെ വ്യത്യസ്തമായിരിക്കുന്നല്ലോ.
 
 **കമല:** അതെ. നിങ്ങളുടെ നാട്ടിലെ ആളുകൾ സ്നേഹിച്ചിട്ട് വിവാഹം ചെയ്യുന്നു. ഞങ്ങളുടെ നാട്ടിലെ മിക്കവാറും ആളുകൾ വിവാഹം ചെയ്തിട്ട് സ്നേഹിക്കുന്നു. അതാണ് നമ്മളുടെ രീതികൾ തമ്മിലുള്ള പ്രധാന വ്യത്യാസം.
 
@@ -201,7 +201,7 @@ Note how superlatives are expressed in these sentences.
 
 **ബിൽ:** അതു കുറച്ചു കഠിനമാണല്ലോ. എനിക്ക് തോന്നുന്നു ഞങ്ങളുടെ വിവാഹരീതി നിങ്ങളുടേതിനേക്കാളും നല്ലതാണെന്ന്.
 
-**കമല:** അങ്ങനെ പറഞ്ഞുകൂടാ. ഒരു രീതി മററൊരു രീതിയേക്കാൾ നല്ലതാണെന്ന് പറയാൻ കഴിയുമോയെന്ന് എനിക്ക് തോന്നുന്നില്ല. ഞങ്ങളുടെ രീതി നിങ്ങൾക്ക് അപരിചിതമായതുകൊണ്ട് അങ്ങനെ നിങ്ങൾക്ക് തോന്നിയെന്നേയുള്ളു. ഓരോ രീതിക്കും അതിന്റേതായ ഗുണങ്ങളും കുറവുകളുമുണ്ട്. ഉദാഹരണമായി നിങ്ങളുടെ നാട്ടിൽ വിവാഹമോചനങ്ങൾ ഉണ്ടല്ലോ. അത് നിങ്ങളുടെ വിവാഹരീതിയുടെ ഒരു കുറവല്ലേ.
+**കമല:** അങ്ങനെ പറഞ്ഞുകൂടാ. ഒരു രീതി മറ്റൊരു രീതിയേക്കാൾ നല്ലതാണെന്ന് പറയാൻ കഴിയുമോയെന്ന് എനിക്ക് തോന്നുന്നില്ല. ഞങ്ങളുടെ രീതി നിങ്ങൾക്ക് അപരിചിതമായതുകൊണ്ട് അങ്ങനെ നിങ്ങൾക്ക് തോന്നിയെന്നേയുള്ളു. ഓരോ രീതിക്കും അതിന്റേതായ ഗുണങ്ങളും കുറവുകളുമുണ്ട്. ഉദാഹരണമായി നിങ്ങളുടെ നാട്ടിൽ വിവാഹമോചനങ്ങൾ ഉണ്ടല്ലോ. അത് നിങ്ങളുടെ വിവാഹരീതിയുടെ ഒരു കുറവല്ലേ.
 
 **ബിൽ:** ഞാൻ അങ്ങനെ പറഞ്ഞതിൽ ക്ഷമിക്കണം. നിങ്ങൾ പറഞ്ഞതു ശരിയായിരിക്കും.
 
@@ -223,7 +223,7 @@ b) കമലക്ക് ചായ ഇഷ്ടമാണ്. കമലക്ക�
 6. വർഗ്ഗീസിന് അധികം വണ്ണം ഉണ്ട്. വർഗ്ഗീസിന്റെ ഭാര്യക്ക് വണ്ണം കുറവാണ്.
 7. മലയാളം പഠിക്കാൻ കുറച്ചു പ്രയാസമാണ്. ഇംഗ്ലീഷ് പഠിക്കാൻ അത്രയും പ്രയാസമില്ല.
 8. അമ്മ വളരെ അധികം സംസാരിക്കും. അച്ഛൻ അത്രയും സംസാരിക്കുകയില്ല.
-9. നിങ്ങളുടെ എഴുത്തിൽ ധാരാളം തെററ് ഉണ്ട്. എന്റെ എഴുത്തിൽ അത്രയും തെററില്ല.
+9. നിങ്ങളുടെ എഴുത്തിൽ ധാരാളം തെറ്റ് ഉണ്ട്. എന്റെ എഴുത്തിൽ അത്രയും തെറ്റില്ല.
 10. തേക്കടിയിൽ പോകാൻ നല്ല രസമാണ്. കോവളത്ത് പോകാൻ കുറച്ച് കൂടെ രസമാണ്.
 
 **2.** In the four sections below, rewrite the sentences changing the underlined item to a noun (see Ref. List), making any changes that may be needed, as indicated in the models.
@@ -234,7 +234,7 @@ b) കമലക്ക് ചായ ഇഷ്ടമാണ്. കമലക്ക�
 
 **Model:** ഞാൻ <u>അപേക്ഷിക്കുന്നത്</u> നിങ്ങൾ ഒന്നു കേൾക്കു.<br>എന്റെ അപേക്ഷ നിങ്ങൾ ഒന്നു കേൾക്കു.
 
-1. മീററിങ്ങ് <u>തുടങ്ങുന്നതിന്</u> മുമ്പ് ഞാൻ പരിപാടി ഒന്നു കാണട്ടെ.
+1. മീറ്റിങ്ങ് <u>തുടങ്ങുന്നതിന്</u> മുമ്പ് ഞാൻ പരിപാടി ഒന്നു കാണട്ടെ.
 2. അവർ <u>സംസാരിക്കുന്നത്</u> കേൾക്കാനാണ് രമ ആ കുട്ടികളുടെ കൂടെ ഇരിക്കുന്നത്.
 3. അവൾ <u>പാടുന്നത്</u> കേൾക്കാൻ നല്ല രസമാണ്. (ആണ് will change to ഉണ്ട്)
 
@@ -251,7 +251,7 @@ b) കമലക്ക് ചായ ഇഷ്ടമാണ്. കമലക്ക�
 **Model:** കുട്ടിക്ക് <u>തണുക്കുന്നു</u>.<br>കുട്ടിക്ക് തണുപ്പ് ഉണ്ട്.
 
 1. അവന് <u>വിശക്കുന്നു</u> എന്നു പറയുന്നു.
-2. കേശവന് വളരെ അധികം കാര്യങ്ങളെപ്പററി <u>അറിയാം</u>.
+2. കേശവന് വളരെ അധികം കാര്യങ്ങളെപ്പറ്റി <u>അറിയാം</u>.
 3. തങ്കമ്മക്ക് <u>ദാഹിക്കുന്നത്</u> കൊണ്ട് നമുക്ക് ഇവിടെ ഇറങ്ങി വല്ലതും കുടിക്കാം.
 
 ### D.
@@ -285,7 +285,7 @@ b) കമലക്ക് ചായ ഇഷ്ടമാണ്. കമലക്ക�
 
 **4.** Add the meaning of ‘can’ to the sentences below using the three auxiliaries shown.
 
-**Model:** ബിൽ മലയാളം വായിക്കും.<br>ബില്ലിന് മലയാളം വായിക്കാൻ പററും.<br>ബില്ലിന് മലയാളം വായിക്കാൻ കഴിയും.<br>ബില്ലിന് മലയാളം വായിക്കാൻ സാധിക്കും.
+**Model:** ബിൽ മലയാളം വായിക്കും.<br>ബില്ലിന് മലയാളം വായിക്കാൻ പറ്റും.<br>ബില്ലിന് മലയാളം വായിക്കാൻ കഴിയും.<br>ബില്ലിന് മലയാളം വായിക്കാൻ സാധിക്കും.
 
 1. സർക്കാർ കഷ്ടപ്പെടുന്നവർക്ക് വായ്പ കൊടുക്കും.
 2. കമല എന്നെ സ്നേഹിക്കുമോ?
@@ -300,10 +300,10 @@ b) കമലക്ക് ചായ ഇഷ്ടമാണ്. കമലക്ക�
 
 <!-- Source: PDF page 439; printed page 378. -->
 
-3. കോഴിക്കോട് നിന്ന് കൊച്ചിക്കുള്ള ട്രെയിൻ ടിക്കററിന്റെ വിലയും ബസ്സ് ടിക്കററിന്റെ വിലയും തമ്മിലുള്ള വ്യത്യാസം അഞ്ച് രൂപ മാത്രമാണ്.
+3. കോഴിക്കോട് നിന്ന് കൊച്ചിക്കുള്ള ട്രെയിൻ ടിക്കറ്റിന്റെ വിലയും ബസ്സ് ടിക്കറ്റിന്റെ വിലയും തമ്മിലുള്ള വ്യത്യാസം അഞ്ച് രൂപ മാത്രമാണ്.
 4. നിങ്ങൾ ഇടക്കിടെക്ക് അന്യോന്യം നോക്കുന്നത് ഞാൻ കണ്ടു. നിങ്ങൾ തമ്മിൽ എന്തെങ്കിലുമുണ്ടോ?
 5. വിവാഹമോചനം ചെയ്യുക, ഭാര്യമാർക്ക് ഭർത്താക്കന്മാർക്കും വളരെ പ്രയാസമുള്ള ഒരു കാര്യമാണ്. അവരുടെ മക്കൾക്ക് അതിനേക്കാളും പ്രയാസമാണ്.
-6. ആരെങ്കിലും വിഷമിച്ചിരിക്കുമ്പോൾ അയാളുടെ കുറവുകളെപ്പററി പറഞ്ഞാൽ അയാൾ കൂടുതലായി വിഷമിക്കും. പക്ഷേ, അയാളുടെ ഗുണങ്ങളെപ്പററി പറയുകയാണെങ്കിൽ അയാൾ സന്തോഷിക്കും.
+6. ആരെങ്കിലും വിഷമിച്ചിരിക്കുമ്പോൾ അയാളുടെ കുറവുകളെപ്പറ്റി പറഞ്ഞാൽ അയാൾ കൂടുതലായി വിഷമിക്കും. പക്ഷേ, അയാളുടെ ഗുണങ്ങളെപ്പറ്റി പറയുകയാണെങ്കിൽ അയാൾ സന്തോഷിക്കും.
 7. ഈ ലോകത്തിൽ എല്ലാ വിധത്തിലുള്ള ആളുകളും ഉണ്ട്.
 8. അമേരിക്കയിലെ മിക്കവാറും ആളുകൾ വെളുത്ത നിറമുള്ളവരാണ്.
 9. വ്യത്യസ്തമായ രീതികളിൽ വിശ്വസിക്കുന്ന ആളുകളുമായി ഇടപെട്ടാൽ നമ്മൾക്ക് വളരെ അധികം പഠിക്കാൻ കഴിയും.
@@ -388,6 +388,8 @@ Returning to the derived nouns in the Reference List, it may be seen that they s
 
 The standard comparative statement consists of four elements: 1) the item being compared, which occurs as the subject of the sentence, 2) the item, or standard, with which it is compared, which requires the postposition -കാൾ takes the accusative, so that the standard of comparison always appears in the accusative. When the verb of the sentence is ആണ്, the quality being compared must be in the form of a noun i.e., a predicate nominal, never an adjective.
 
+> **Editorial source note:** The source announces four elements of a comparative statement but enumerates only two. Its description is incomplete; the example below shows the compared item, the standard of comparison, the quality, and the verb.
+
 1. ഈ വീട് ആ വീടിനേക്കാൾ വലിയതാണ്.  
    “This house is bigger than that house.”
 
@@ -413,9 +415,9 @@ Clefting is often used in responding to questions asking for either a comparison
    “Is Rema taller than you?”  
    B. ഇല്ല, എനിക്കാണ് കൂടുതൽ പൊക്കം.  
    “No, I am taller.”
-6. A. അവരിൽ ആർക്കാണ് ഏററവും കൂടുതൽ പൊക്കം?  
+6. A. അവരിൽ ആർക്കാണ് ഏറ്റവും കൂടുതൽ പൊക്കം?  
    “Who is the tallest of them?”  
-   B. രമക്കാണ് ഏററവും കൂടുതൽ പൊക്കം.  
+   B. രമക്കാണ് ഏറ്റവും കൂടുതൽ പൊക്കം.  
    “Rema is the tallest.”
 
 Negative comparative statements take a slightly different structure. Firstly, the quantifier അത്രയും “as much as” is required before the characteristic being measured. Secondly, the standard against which the subject of the sentence is compared does not take the postposition -കാൾ in this structure, but appears with the possessive ending and no postposition. Witness:
@@ -440,41 +442,41 @@ Note that the suffix -ഉം is obligatory in this structure, always being attac
 
 11. ആയിരത്തിലധികം or ആയിരത്തിൽ കൂടുതൽ.  
     More than 1000.
-12. മൂന്നു മീറററിൽ കുറവ്.  
+12. മൂന്നു മീറ്ററിൽ കുറവ്.  
     Less than 3 meters.
 
-Superlatives usually consist of three basic elements: 1) the subject of the sentence (the superlative item), 2) the quality in which the subject is outstanding, and 3) the verb. The quality is ordinarily preceded by the qualifier ഏററവും “the most,” though other qualifiers, particularly കൂടുതൽ “a great deal, too much,” are also added in context (see Example 6 above). Here are some examples:
+Superlatives usually consist of three basic elements: 1) the subject of the sentence (the superlative item), 2) the quality in which the subject is outstanding, and 3) the verb. The quality is ordinarily preceded by the qualifier ഏറ്റവും “the most,” though other qualifiers, particularly കൂടുതൽ “a great deal, too much,” are also added in context (see Example 6 above). Here are some examples:
 
-13. ആ വള്ളമാണ് ഏററവും നല്ലത്.  
+13. ആ വള്ളമാണ് ഏറ്റവും നല്ലത്.  
     “That boat is the best.”
-14. കേശവനാണ് ഏററവും വേഗം കാർ ഓടിക്കുന്നത്.  
+14. കേശവനാണ് ഏറ്റവും വേഗം കാർ ഓടിക്കുന്നത്.  
     “Keshavan drives a car the fastest.”
 
-The concept of “less” is handled with കുറച്ച് “a little,” and that of the “the least” by ഏററവും കുറച്ച് (literally) “the most small amount.” Witness:
+The concept of “less” is handled with കുറച്ച് “a little,” and that of the “the least” by ഏറ്റവും കുറച്ച് (literally) “the most small amount.” Witness:
 
 15. എനിക്ക് അയാളേക്കാൾ കുറച്ചാണ് കിട്ടിയത്.  
     “I got less than he (got).”
 
 <!-- Source: PDF page 445; printed page 384. -->
 
-16. അയാൾക്കാണ് ഏററവും കുറച്ച് കിട്ടിയത്. — “He's the one who got the least.”
+16. അയാൾക്കാണ് ഏറ്റവും കുറച്ച് കിട്ടിയത്. — “He's the one who got the least.”
 
 Sometimes a fourth element is included in the superlative, ie, the basis of reference on which the superlative judgement is made. This is expressed in the locative (See 6.A above). When the basis of reference is a range of experience, a verbal noun with the locative ending is used. Witness:
 
-17. ഈ ഹോട്ടലിലെ ഊണ് ഞാൻ കഴിച്ചിട്ടുള്ളതിൽ വച്ച് ഏററവും നല്ലതാണ്. — “This hotel's meals are the best I have ever eaten”.
-18. ഞാൻ കണ്ടിട്ടുള്ളതിൽ വച്ച് ഏററവും സന്തോഷമുള്ളവൻ അയാളാണ്. — “He is the happiest person I have ever met”.
-19. ഈ ജോലി ഞാൻ ചെയ്തിട്ടുള്ളതിൽ വച്ച് ഏററവും പ്രയാസമുള്ളതാണ്. — “This is the toughest job I have ever done”.
+17. ഈ ഹോട്ടലിലെ ഊണ് ഞാൻ കഴിച്ചിട്ടുള്ളതിൽ വച്ച് ഏറ്റവും നല്ലതാണ്. — “This hotel's meals are the best I have ever eaten”.
+18. ഞാൻ കണ്ടിട്ടുള്ളതിൽ വച്ച് ഏറ്റവും സന്തോഷമുള്ളവൻ അയാളാണ്. — “He is the happiest person I have ever met”.
+19. ഈ ജോലി ഞാൻ ചെയ്തിട്ടുള്ളതിൽ വച്ച് ഏറ്റവും പ്രയാസമുള്ളതാണ്. — “This is the toughest job I have ever done”.
 
-Negative superlatives, in terms of qualities, are made with ഏററവും “the most” plus a nominalized negative adjective. The only basic adjective with a negative meaning is ചീത്ത “bad” which has the same form as both noun and adjective. It handles the concept of “worst” when preceded by ഏററവും. All other negative adjectives are formed from a positive adjective plus -ില്ലാത്ത “without” or “-less.” Witness:
+Negative superlatives, in terms of qualities, are made with ഏറ്റവും “the most” plus a nominalized negative adjective. The only basic adjective with a negative meaning is ചീത്ത “bad” which has the same form as both noun and adjective. It handles the concept of “worst” when preceded by ഏറ്റവും. All other negative adjectives are formed from a positive adjective plus -ില്ലാത്ത “without” or “-less.” Witness:
 
-20. ഈ ഹോട്ടലിലെ ഊണ് ഞാൻ കഴിച്ചിട്ടുള്ളതിൽ വച്ച് ഏററവും ചീത്തയാണ്. — “This hotel's meals are the worst I have ever eaten.”
-21. ഞാൻ കണ്ടിട്ടുള്ളതിൽ വച്ച് ഏററവും സന്തോഷമില്ലാത്തവൻ അയാളാണ്. — “He is the least happy (most unhappy) person I have ever met.”
+20. ഈ ഹോട്ടലിലെ ഊണ് ഞാൻ കഴിച്ചിട്ടുള്ളതിൽ വച്ച് ഏറ്റവും ചീത്തയാണ്. — “This hotel's meals are the worst I have ever eaten.”
+21. ഞാൻ കണ്ടിട്ടുള്ളതിൽ വച്ച് ഏറ്റവും സന്തോഷമില്ലാത്തവൻ അയാളാണ്. — “He is the least happy (most unhappy) person I have ever met.”
 
 As you can see, from Example 18, the negative adjective may be made into a noun with a personal relative pronoun-- -വൻ, -വൾ or -വർ --as well as by the neuter -അത്. Note that the negative may be added by a prefix onto an adjective, or derived human noun as in:
 
 <!-- Source: PDF page 446; printed page 385. -->
 
-22. ഞാൻ കണ്ടിട്ടുള്ളതിൽ വച്ച് ഏററവും വിരസൻ ആണയാൾ. — “He is the least interesting person I have ever met.”
+22. ഞാൻ കണ്ടിട്ടുള്ളതിൽ വച്ച് ഏറ്റവും വിരസൻ ആണയാൾ. — “He is the least interesting person I have ever met.”
 
 Note further that it is possible to move the subject of such sentences to the end where it may either precede, or follow the copula verb (see Examples 18, 21 and 22 above).
 
@@ -584,13 +586,13 @@ In 6.3, you learned that the -ാം verbform in its potential sense, i.e., with
 
 Potential statements in either meaning may be used in both the positive and negative, but do not permit clefting.
 
-This section will discuss three specific verbs which add the idea of “can” to a sentence, and then will explain three special verbs found only in the negative “can't” sense. The three verbs സാധിക്കുക, കഴിയുക, and പററുക are pretty much interchangeable in the “can” structure. They take a dative personal subject, and the action which one can or cannot do must appear in the -ാ-ൻ (infinitive) verbform, immediately before the “can” verb which, being last in the sentence, carries the markers for tense. These verbs cannot take aspect markers such as the progressive. All three refer to internal ability. Witness:
+This section will discuss three specific verbs which add the idea of “can” to a sentence, and then will explain three special verbs found only in the negative “can't” sense. The three verbs സാധിക്കുക, കഴിയുക, and പറ്റുക are pretty much interchangeable in the “can” structure. They take a dative personal subject, and the action which one can or cannot do must appear in the -ാ-ൻ (infinitive) verbform, immediately before the “can” verb which, being last in the sentence, carries the markers for tense. These verbs cannot take aspect markers such as the progressive. All three refer to internal ability. Witness:
 
-2. നിങ്ങൾക്ക് കാർ നാളെ ഉച്ചക്ക് മുമ്പ് ശരിയാക്കാൻ കഴിയുമോ [or സാധിക്കുമോ, പററുമോ]? — “Will you be able to fix the car before tomorrow noon?”
+2. നിങ്ങൾക്ക് കാർ നാളെ ഉച്ചക്ക് മുമ്പ് ശരിയാക്കാൻ കഴിയുമോ [or സാധിക്കുമോ, പറ്റുമോ]? — “Will you be able to fix the car before tomorrow noon?”
 
 Note that the infinitive may have an object, or adverbs of time (see Example 2), manner, or place. See, for instance:
 
-3. അവന് ഇതിന്റെ ഏററവും മുകളിൽ കയറാൻപററും. — “He can climb to the very top of it.”
+3. അവന് ഇതിന്റെ ഏറ്റവും മുകളിൽ കയറാൻപറ്റും. — “He can climb to the very top of it.”
 
 All three verbs may be used in the negative as well as positive. They most commonly occur with the future/habitual -ഉം ending. The verb endings which they can take are rather limited, but they do occasionally occur in the past or desiderative, c.f.:
 
@@ -603,9 +605,9 @@ Once it has been specified in previous conversation, it is possible to omit the 
 
 6. A. അയാൾക്ക് അത്രയും വലിയ സ്കൂൾ നടത്താൻ സാധിക്കുമോ? — “Can he run such a large school?”<br>B. തീർച്ചയായിട്ടും സാധിക്കും. — “He certainly can.”
 
-This verb സാധിക്കുക has no other functions, but the other two also function as independent verbs. The intransitive verb കഴിയുക means “to finish, end, be over.” It takes nominative subjects only in this role. As an independent verb പററുക means “to happen, occur” and its subject is that which happens. Both verbs are logically blocked from taking animate subjects, but the person to which an event happens can be expressed by a dative form, as in:
+This verb സാധിക്കുക has no other functions, but the other two also function as independent verbs. The intransitive verb കഴിയുക means “to finish, end, be over.” It takes nominative subjects only in this role. As an independent verb പറ്റുക means “to happen, occur” and its subject is that which happens. Both verbs are logically blocked from taking animate subjects, but the person to which an event happens can be expressed by a dative form, as in:
 
-7. വഴിയിൽ വച്ച് എനിക്ക് ഒരു ചെറിയ അപകടം പററി. — “A small accident happened to me on the way.”
+7. വഴിയിൽ വച്ച് എനിക്ക് ഒരു ചെറിയ അപകടം പറ്റി. — “A small accident happened to me on the way.”
 
 There are four additional expressions for “can” in various senses which only occur in the negative. Some scholars have called these “defective verbs.” The three have differing usages and structures, so are treated separately. The verb പാടില്ല was introduced in Lesson Thirteen in the phrase
 
@@ -633,6 +635,8 @@ The structure for the final defective verb കൂടാ differs from that for th
 14. അയാൾക്ക് കേട്ടുകൂടാ, പാവം. — “That man is deaf, poor fellow.”
 
 All three defective verbs may follow negative questions with -ഏ. It takes the dative only, and can refer to internal or external ability. One reason why it is preferred is probably because it permits deletion of the infinitive object, unlike the three defective verbs above. Thus:
+
+> **Editorial source note:** At this point the source begins discussing വയ്യ (“cannot”) without naming it in the preceding explanation. The introductory sentence appears to be missing; compare §6.7 and the examples below.
 
 15. എനിക്ക് വയ്യ or<br>അത് വയ്യ — “I can't,” short for
 16. എനിക്ക് അത് ചെയ്യാൻ വയ്യ.

@@ -15,7 +15,7 @@
 | മാസം | month |
 | വർഷം<br>ആണ്ട്<br>കൊല്ലം | year |
 | ദശവർഷം | decade |
-| നൂററാണ്ട് | century |
+| നൂറ്റാണ്ട് | century |
 
 ### Times of the Day
 
@@ -48,15 +48,18 @@
 
 ### Other Days
 
+<!-- Editorial correction: PDF page 477 pairs നാളെ with “today”; corrected using Lesson 8 vocabulary and the glossary, and the missing “tomorrow” row supplied. -->
+
 | Malayalam | English |
 |---|---|
 | മിനിഞ്ഞാന്ന് | the day before yesterday |
 | ഇന്നലെ | yesterday |
-| നാളെ | today |
-| നാളെകഴിഞ്ഞ്മററന്നാൾ | day after tomorrow |
+| ഇന്ന് | today |
+| നാളെ | tomorrow |
+| നാളെകഴിഞ്ഞ്മറ്റന്നാൾ | day after tomorrow |
 | അന്ന് | that day |
 | തലേന്നാൾ | the day before the specified day |
-| പിററേന്നാൾ | the day after the specified day |
+| പിറ്റേന്നാൾ | the day after the specified day |
 
 ### Malayalam Months
 

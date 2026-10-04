@@ -24,7 +24,7 @@ The next weakest consonant is ച which turns into a sound close to യ particul
 
 <!-- Source: PDF page 457; printed page unnumbered. -->
 
-![Photographs from the source textbook](assets/images/minilesson-g-photo-457.jpg)
+![Decorated elephants and Kathakali](assets/images/minilesson-g-photo-457.jpg)
 
 അലങ്കരിച്ച ആനകൾ
 
@@ -32,7 +32,7 @@ The next weakest consonant is ച which turns into a sound close to യ particul
 
 <!-- Source: PDF page 458; printed page unnumbered. -->
 
-![Photographs from the source textbook](assets/images/minilesson-g-photo-458.jpg)
+![A welcome sign and a mosque](assets/images/minilesson-g-photo-458.jpg)
 
 സ്വാഗതം
 

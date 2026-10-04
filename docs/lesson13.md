@@ -313,6 +313,8 @@ would appear most naturally in English as either “I will make (coffee) right a
    “Let me go and (then) come.”
 
 <!-- Source sentence appears incomplete; retained as printed. -->
+> **Editorial note:** The following source sentence is incomplete. The translated examples that follow illustrate how context determines whether English uses “before” or “after”; the missing wording has not been reconstructed.
+
 In contrast to the compound sentences, there are many conjoined or complex sentences to the other from the point of view of meaning. It is in such cases that the linking devices “before” and “after” are required in the English equivalents. Note that the complex sentence contains no structural cue as to which of the two sentences is dominant, and which is subordinate in meaning. This can only be deduced from other factors such as one's general knowledge, the specific situation, and sometimes from the meaning of the two sentences. Thus:
 
 6. രവിയെ കണ്ടിട്ട് സിനിമക്ക് പോകാം.
@@ -419,8 +421,8 @@ The verb കാണിക്കുക has special grammatical requirements which 
 
    “I showed him the temple”
 
-<!-- Source omits a word after “of”; retained as printed. -->
-This comes about because കാണിക്കുക is actually the causative (see 20.1) of literally meaning, “to cause someone to see something”. If the direct object, the thing being shown, is something animate, therefore requiring accusative, you can have the curious situation of two accusatives within the same sentence, as in:
+<!-- Editorial restoration: source omits the verb after “of”; കാണുക supplied from the gloss “to cause someone to see.” Causative reference corrected from 20.1 to 20.7. -->
+This comes about because കാണിക്കുക is actually the causative (see 20.7) of കാണുക (“to see”), literally meaning, “to cause someone to see something”. If the direct object, the thing being shown, is something animate, therefore requiring accusative, you can have the curious situation of two accusatives within the same sentence, as in:
 
 2. ഞാൻ അനിയനെ ആനയെ കാണിച്ചു.
 

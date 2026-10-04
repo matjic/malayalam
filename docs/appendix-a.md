@@ -22,6 +22,8 @@
 
 ### II. Second Person
 
+#### A. Singular
+
 | No. | Form | Meaning |
 |---|---|---|
 | 1. | നീ | you (to intimate age inferiors) |

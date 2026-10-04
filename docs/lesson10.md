@@ -101,7 +101,7 @@
 | വലിക്കുക | to pull | വളിക്കുക | to spoil |
 | വല | net | വള | bangle |
 | വെല്ലം | sugar candy | വെള്ളം | water |
-| അവൽ | powdered rice | അവൾ | she |
+| അവൽ | rice flakes | അവൾ | she |
 | കവല | junction | തവള | frog |
 | വാൽ | tail | വാൾ | sword |
 | കല്ല് | stone | കള്ള് | a liquor |
@@ -192,6 +192,8 @@
    B. “ഒരു ദിവസം മതി.”
 9. ഇവിടുന്ന് തൃശ്ശൂർക്ക് ഉദ്ദേശം നൂറ് മൈൽ ദൂരം വരും.
 10. യാത്ര ചെയ്യാൻ എനിക്ക് വളരെ ഇഷ്ടമാണ്.
+
+> **Editorial geography note:** Items 5 and 10 below retain outdated source geography: they list only three northern districts and place Kannur at Kerala’s northern end. This lesson’s reading text already includes Kasargod farther north. Translate them as source sentences rather than current geography.
 
 **5.** Translate the following into Malayalam.
 
@@ -291,7 +293,9 @@ Note that അറ്റത്ത് requires the adjectival form while വശത�
 
 ### 10.5 The Citation Marker എന്ന് with a Series
 
-Section 1.4 discusses the use of the citation marker എന്ന് in sentences giving a name. This lesson’s text contains two examples of the use of എന്ന് as a citation marker for a series of items, one in the list of districts, the other in the list of the major cities of Kerala. Note that എന്ന് is required only once in a series, immediately after the last member of the group cited. Such a series does not require the coordinate conjunction -ഉം.
+> **Editorial note:** The revised reading text uses എന്നിവയാണ് in its lists, whereas this source explanation describes lists with എന്ന്. The explanation remains useful as a separate construction, but its claim about the reading text no longer matches.
+
+Section 1.5 discusses the use of the citation marker എന്ന് in sentences giving a name. This lesson’s text contains two examples of the use of എന്ന് as a citation marker for a series of items, one in the list of districts, the other in the list of the major cities of Kerala. Note that എന്ന് is required only once in a series, immediately after the last member of the group cited. Such a series does not require the coordinate conjunction -ഉം.
 
 ### 10.6 Expressions of Distance
 

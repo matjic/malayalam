@@ -22,7 +22,7 @@
 | coming | വരുന്ന | going | പോകുന്ന |
 | complicated | സങ്കീർണ്ണമായ | simple | ലളിതമായ |
 | cooked | വേവിച്ച,<br>വെന്ത | uncooked | വേവിക്കാത്ത |
-| correct | ശരിയായ | incorrect | തെററായ |
+| correct | ശരിയായ | incorrect | തെറ്റായ |
 | straight | നേരെയുള്ള | crooked | വളഞ്ഞ |
 | cultured | സംസ്കാരമുള്ള | uncultured | സംസ്കാരമില്ലാത്ത |
 | decent | മാന്യമായ | indecent | ഹീനമായ |
@@ -46,10 +46,10 @@
 | flat | പരന്ന | narrow | ഇടുങ്ങിയ |
 | free | സൗജന്യമായ | costly | വിലപിടിപ്പുള്ള |
 | full | നിറഞ്ഞ | empty | ഒഴിഞ്ഞ |
-| fully grown | മൂററിയ | green | ഇളപ്പമായ |
+| fully grown | മൂറ്റിയ | green | ഇളപ്പമായ |
 | genuine | യഥാർത്ഥമായ | false, fake | കൃത്രിമമായ |
 | good | നല്ല | bad | ചീത്ത |
-| guilty (n) | കുററക്കാരൻ | innocent | നിരപരാധി |
+| guilty (n) | കുറ്റക്കാരൻ | innocent | നിരപരാധി |
 | happy | സന്തോഷകരമായ | sad | ദുഃഖകരമായ |
 | hard | കട്ടിയായ | soft | മൃദുവായ |
 | heavy | ഭാരമുള്ള | light | ഭാരം കുറഞ്ഞ |

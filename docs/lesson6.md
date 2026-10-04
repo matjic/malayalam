@@ -522,6 +522,8 @@ In the conversation for Lesson Five, we saw examples such as 2 and 3 below:
 “We are going to see (for the purpose of seeing) a movie.”
 
 <!-- The source prints -ാൻ after “construction with”; retained as printed. -->
+> **Editorial note:** The source repeats -ാൻ where it names the other member of the construction. Example 3 illustrates an infinitive in -ാൻ followed by ഉണ്ട്. Learn that full construction from the example.
+
 One of the most common uses of the -aan verbform is in a construction with -ാൻ meaning “have to,” as in:
 
 3. ഈ മൂന്ന് കസേര കൊണ്ടുപോകാൻ ഉണ്ട്.
@@ -553,7 +555,7 @@ Note that, as in English, this object may often be deleted resulting in the shor
 The deleted object often refers to something which has been specifically stated in earlier dialog, but it is also used to refer to a general situation in the sense of “I can’t bear, or deal with, this.” The expression വയ്യ is a so-called defective verb, having no positive form.
 
 <!-- Editorial correction: source cites 6.1; corrected to 6.3, which discusses the potential ending. -->
-The idea of “can” may be expressed by the -ാം verbform with the dative construction (see 6.3). Several other ways of saying “can” and “can’t” are treated in 24.3. All of these except the -ാം verbform permit only the infinitive of purpose as their object. The infinitive of purpose also serves as the object of the expression ഇഷ്ടമാണ്, as:
+The idea of “can” may be expressed by the -ാം verbform with the dative construction (see 6.3). Several other ways of saying “can” and “can’t” are treated in 24.6. All of these except the -ാം verbform permit only the infinitive of purpose as their object. The infinitive of purpose also serves as the object of the expression ഇഷ്ടമാണ്, as:
 
 7. അവർക്ക് ഇംഗ്ലീഷിൽ സംസാരിക്കാനാണ് കൂടുതൽ ഇഷ്ടം.
 

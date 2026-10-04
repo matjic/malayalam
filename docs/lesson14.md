@@ -238,7 +238,9 @@ When എല്ലാ functions as an adjective describing the head noun in a nou
 
    “I like all your friends.”
 
-**Each:** The related concept “each” is handled similarlyly. Instead of എല്ലാ phrases begin with ഓരോ. As with other pronouns there are two distinct forms ഓരോരുത്തൻ and ഓരോന്നും referring to persons and things respectively. each one” is a noun when making phrases with other nouns.
+> **Editorial note:** The source explanation of “each” below has garbled wording after the pronoun forms. Use the translated examples: ഓരോരുത്തരും for people, ഓരോന്നും for things, and ഓരോ before a noun.
+
+**Each:** The related concept “each” is handled similarly. Instead of എല്ലാ phrases begin with ഓരോ. As with other pronouns there are two distinct forms ഓരോരുത്തൻ and ഓരോന്നും referring to persons and things respectively. each one” is a noun when making phrases with other nouns.
 
 7. ഓരോരുത്തരും സ്വന്തം കാര്യം നോക്കണം.
 
@@ -336,7 +338,9 @@ Sometimes, instead of juxtaposing two nouns, the alternatives are stated in sepa
 
    “Do you want tea, or do you want coffee?”
 
-3. കേശവനെയാണോ അതോ രാജനെയായാണോ നിങ്ങൾ പഠിപ്പിച്ചത്?
+<!-- Editorial correction: PDF page 262 has രാജനെയായാണോ; the duplicated copular segment has been removed to parallel കേശവനെയാണോ. -->
+
+3. കേശവനെയാണോ അതോ രാജനെയാണോ നിങ്ങൾ പഠിപ്പിച്ചത്?
 
    “Is it Kesavan, or is it Rajan that you taught?”
 

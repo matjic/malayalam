@@ -17,15 +17,15 @@
 | | അറിയുക | അറിയിക്കുക | അറിയിപ്പിക്കുക |
 | | ചെയ്യുക | ചെയ്യിക്കുക | ചെയ്യിപ്പിക്കുക |
 | ആകുക | ആക്കുക | | |
-| കയറുക | | കയററുക | കയററിപ്പിക്കുക |
-| മാറുക (to change, to move, by itself) | മാററുക<br>മാറുക | | |
+| കയറുക | | കയറ്റുക | കയറ്റിപ്പിക്കുക |
+| മാറുക (to change, to move, by itself) | മാറ്റുക<br>മാറുക | | |
 | കൂടുക | | കൂട്ടുക | |
 | ഉണരുക (wake up) | ഉണർത്തുക | | |
 | ചേരുക | | ചേർക്കുക | ചേർപ്പിക്കുക |
 | തീരുക | | തീർക്കുക | തീർപ്പിക്കുക |
 | ഇറങ്ങുക (to descend) | | ഇറക്കുക | ഇറക്കിപ്പിക്കുക |
 | | ഉണ്ണുക | ഊട്ടുക | |
-| | തിന്നുക (to eat) | തീററുക (to feed) | |
+| | തിന്നുക (to eat) | തീറ്റുക (to feed) | |
 | | കാണുക | കാണിക്കുക | കാണിപ്പിക്കുക |
 | വരുക | വരുത്തുക | | |
 | | തരുക | തരവിക്കുക | തരവിപ്പിക്കുക |
@@ -158,7 +158,7 @@ Note how -ആയ and -ഉള്ള make different meanings.
 
 | -ആയ | Meaning | -ഉള്ള | Meaning |
 |---|---|---|---|
-| തെററായ ഫോറം | wrong form | തെററുള്ള ഫോറം | form with mistakes |
+| തെറ്റായ ഫോറം | wrong form | തെറ്റുള്ള ഫോറം | form with mistakes |
 | അറിവായ സ്ത്രീ | the woman who (just) became known to (me, us, them) | അറിവുള്ള സ്ത്രീ | knowledgeable woman |
 | ക്രിസ്ത്യാനികളായ കേരളീയർ | the Keralites who are Christians | ക്രിസ്ത്യാനികളുള്ള കേരളീയർ | does not make sense |
 | ക്രിസ്ത്യാനികളായ സ്ഥലം | does not make sense | ക്രിസ്ത്യാനികളുള്ള സ്ഥലം | a place where part of the population are Christians |
@@ -205,7 +205,7 @@ Note that the following can take only -ആയ.
 
 **1.** Make the first noun in each pair into an adjective describing the second noun by using -ആയ as in the Reading Practice.
 
-തെററ്, എഴുത്ത്; അധികം, ചമ്മന്തി; അരികിൽ, വള്ളം; എളുപ്പം, വഴി; വാസ്തവം, കഥ; പത്രാധിപർ, മേനോൻ സാർ; രസകരം, പുസ്തകം;
+തെറ്റ്, എഴുത്ത്; അധികം, ചമ്മന്തി; അരികിൽ, വള്ളം; എളുപ്പം, വഴി; വാസ്തവം, കഥ; പത്രാധിപർ, മേനോൻ സാർ; രസകരം, പുസ്തകം;
 
 <!-- Source: PDF page 355; printed page 296. -->
 
@@ -242,13 +242,13 @@ Note that the following can take only -ആയ.
 1. നിങ്ങളാൽ എഴുതപ്പെട്ട പുസ്തകം ഞാൻ വായിച്ചു.
 2. ഓണം ചിങ്ങമാസത്തിൽ ആഘോഷിക്കപ്പെടുന്നു. (കേരളീയരാൽ)
 3. ഈ ജോലി ഇങ്ങനെയാണ് ചെയ്യപ്പെടുന്നത്
-4. അമ്മയാൽ ക്ഷമിക്കപ്പെടാത്ത തെററുകൾ ഒന്നുമില്ല.
+4. അമ്മയാൽ ക്ഷമിക്കപ്പെടാത്ത തെറ്റുകൾ ഒന്നുമില്ല.
 5. എന്നാൽ ക്ഷണിക്കപ്പെട്ട സ്ത്രീ അവരാണ്.
 6. മലയാള മനോരമ കോട്ടയത്ത് അച്ചടിക്കപ്പെടുന്നു.
 7. അയാൾ ഒരു നല്ല ആളായി അറിയപ്പെടുന്നു. (എല്ലാവരും)
 8. ഈ കടയിൽ ഇംഗ്ലീഷ് പുസ്തകങ്ങൾ വിൽക്കപ്പെടും.
 9. അവൻ കമ്പനിയാൽ അമേരിക്കയിലേക്ക് അയക്കപ്പെട്ടു.
-10. ടിക്കററില്ലാതെ ട്രെയിനിൽ യാത്രചെയ്യുന്നവർ അറസ്ററ് ചെയ്യപ്പെടും. (പോലീസ്)
+10. ടിക്കറ്റില്ലാതെ ട്രെയിനിൽ യാത്രചെയ്യുന്നവർ അറസ്റ്റ് ചെയ്യപ്പെടും. (പോലീസ്)
 
 **4.** Translate the following into Malayalam.
 
@@ -326,14 +326,14 @@ Section C of the Reading Practice shows examples where both -ഉള്ള and -�
 
 <!-- Source: PDF page 359; printed page 300. -->
 
-8. A. ഈ ഫോറം തെററാണ്.<br>
+8. A. ഈ ഫോറം തെറ്റാണ്.<br>
    “This form is wrong.”<br>
    becomes:<br>
-   B. തെററായ ഫോറം<br>
+   B. തെറ്റായ ഫോറം<br>
    “wrong form”<br>
-9. A. ഈ ഫോറത്തിൽ തെററുണ്ട്.<br>
+9. A. ഈ ഫോറത്തിൽ തെറ്റുണ്ട്.<br>
    “There are mistakes in this form.”<br>
-   B. തെററുള്ള ഫോറം<br>
+   B. തെറ്റുള്ള ഫോറം<br>
    “the form which has mistakes”<br>
 
 When -ആയ occurs with a locative phrase, it derives from a locative sentence where the main verb is ആയി “became,” not ആണ്. Thus:
@@ -486,7 +486,7 @@ As you can see from this lesson's conversation, it is also possible to make a pa
 
 The verb endings occurring with the passive are somewhat limited. The -ഉം or ഉന്നു endings for general truth or habit are most common, as in:
 
-5. ടിക്കററില്ലാതെ യാത്ര ചെയ്യുന്നവർ അറസ്ററ് ചെയ്യപ്പെടും. — “Those travelling without tickets will be arrested.” (a common sign in Kerala trains)
+5. ടിക്കറ്റില്ലാതെ യാത്ര ചെയ്യുന്നവർ അറസ്റ്റ് ചെയ്യപ്പെടും. — “Those travelling without tickets will be arrested.” (a common sign in Kerala trains)
 
 Simple and remote past endings are also common. The use of the passive tends to be limited to formal style and to special registers of the language. Certain verb endings are found only in what might be termed “officialese,” i.e. administrative jargon. Witness:
 
@@ -511,7 +511,7 @@ same time. The marker കൊണ്ട് is left out in some common expressions,
 
 ### 20.7 Causative and Double Causative Verbs
 
-The Reference List for this lesson contains sets of related verbs grouped into three columns labeled “Intransitive,” “Transitive/Causative,” and “Double Causative.” A typical trio is exemplified below:
+The Reference List for this lesson contains sets of related verbs grouped into four columns labeled “Intransitive,” “Transitive,” “First Causative,” and “Second Causative.” A typical trio is exemplified below:
 
 1. A. നടക്കുക (intransitive) — “to walk,” “to function,” or, “to operate,” “to happen”<br>B. നടത്തുക (transitive/causative) — “to make someone walk,” “to run or operate something,” “to make something happen”<br>C. നടത്തിപ്പിക്കുക (second or double causative) — “to have someone make someone walk,” “to have someone run/operate something,” “to get someone to cause something to happen, bring something about”
 
@@ -525,14 +525,14 @@ These gaps are handled by sentences using പറയുക “tell”:
 
 In terms of forms, several patterns may be observed in the List. The intransitive form, when there is one, must be taken as basic, with the other forms derived by making additions or changes to it. One of the more obvious patterns is that intransitives having a single stop in their stem, double the stop to form the transitive/causative. Witness:
 
-3. A. മാറുക — “to change” (intransitive)<br>B. മാററുക — “to change something, to make something change”
+3. A. മാറുക — “to change” (intransitive)<br>B. മാറ്റുക — “to change something, to make something change”
 4. A. കൂടുക — “to come together, gather (as a crowd),” also “to increase”<br>B. കൂട്ടുക — “to gather something, bring things together,” also “to cause something to increase”
 
 In a similar vein, intransitives having a double nasal in their stem change this to the double stop at the same point of articulation in the transitive/causative, c.f.:
 
 5. A. ഇറങ്ങുക — “to go out, descend”<br>B. ഇറക്കുക — “to take or put someone or something out of a place,” “to cause someone or something to descend or go down”
 6. A. ഉണ്ണുക — “to dine”<br>B. ഊട്ടുക — “to feed (people)”
-7. A. തിന്നുക — “to eat”<br>B. തീററുക — “to feed (animals)”
+7. A. തിന്നുക — “to eat”<br>B. തീറ്റുക — “to feed (animals)”
 
 <!-- Source: PDF page 368; printed page 309. -->
 

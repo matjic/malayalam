@@ -79,6 +79,8 @@
 
 **Notes:**
 
+> **Editorial Unicode note:** The source’s legacy doubled റ spelling is represented here as the Unicode conjunct റ്റ. The same conversion is used throughout the transcription, for example in മറ്റുള്ളവർ and നൂറ്റാണ്ട്.
+
 \* The syllable ന is pronounced in one of two ways, either as a dental consonant (with the tongue touching the teeth) or as an alveolar consonant (with the tongue behind the teeth).
 
-\*\* When the syllable റ is doubled, appearing as ററ, then the resulting sound is pronounced as alveolar “ta,” as in “teacher.”
+\*\* When the syllable റ is doubled, appearing as റ്റ, then the resulting sound is pronounced as alveolar “ta,” as in “teacher.”

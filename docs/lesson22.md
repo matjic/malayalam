@@ -120,7 +120,7 @@
 
 Note how the associate suffix -കാർ joins to nouns.
 
-ജോലിക്കാർ, വേലക്കാർ, കൃഷിക്കാർ, തെററുകാർ, യാത്രക്കാർ, വായനക്കാർ, അന്യായക്കാർ, കച്ചവടക്കാർ.
+ജോലിക്കാർ, വേലക്കാർ, കൃഷിക്കാർ, തെറ്റുകാർ, യാത്രക്കാർ, വായനക്കാർ, അന്യായക്കാർ, കച്ചവടക്കാർ.
 
 എഴുത്തുകാർ, കാറുകാർ, ടാക്സിക്കാർ, വള്ളക്കാർ, കടക്കാർ, കാപ്പിക്കാർ, പള്ളിക്കാർ, കൂട്ടുകാർ, ആവശ്യക്കാർ, അഭിപ്രായക്കാർ, ഹിന്ദുമതക്കാർ, സാധാരണക്കാർ, പണക്കാർ.
 
@@ -191,7 +191,7 @@ Note how the ‘about to’ form is made from these verbs.
 
 **1.** Rewrite the following sentences by replacing the underlined phrase with a noun in -കാർ plus ആണ് or ഉണ്ട് as in the model.
 
-**Model:** a. അവൾ <u>തെററ് ചെയ്തു.</u><br>അവൾ തെററുകാരിയാണ്.
+**Model:** a. അവൾ <u>തെറ്റ് ചെയ്തു.</u><br>അവൾ തെറ്റുകാരിയാണ്.
 
 <!-- Source: PDF page 397; printed page 338. -->
 
@@ -250,7 +250,7 @@ c. ഇവിടെ <u>കച്ചവടം ചെയ്യുന്ന ആള�
 
 1. നിങ്ങൾ എങ്ങനെയെങ്കിലും അച്ഛനെ ഡാക്ടറെ കാണിക്കണം. സമയമില്ലെന്ന് പറഞ്ഞിരിക്കരുത്.
 2. മത്തായിച്ചൻ പള്ളിയിൽ പോകുകയാണോ? എന്നോട് മുമ്പ് പറഞ്ഞിരുന്നല്ലോ ഇതിൽ ഒന്നും വിശ്വാസമില്ലെന്ന്. പിള്ളേ, ഏതായാലും എനിക്ക് വയസ്സായില്ലെ. പള്ളിയിൽ ഒന്നു പോയി പ്രാർത്ഥിച്ചുകളയാം.
-3. ഞാൻ എത്ര ജോലി ചെയ്താലും നിങ്ങൾ എനിക്ക് അൻപത് രൂപയാണ് തരുന്നത്. ഇത് തെററല്ലേ?
+3. ഞാൻ എത്ര ജോലി ചെയ്താലും നിങ്ങൾ എനിക്ക് അൻപത് രൂപയാണ് തരുന്നത്. ഇത് തെറ്റല്ലേ?
 4. എന്റെ ഈ കഷ്ട കാലത്ത് എനിക്ക് രാമൻ നായർ മാത്രമാണ് ഒരു രക്ഷ. വേറെ ആരുമില്ല.
 5. എന്റെ മകൾ എവിടെ പോയാലും ഈ ഹമീദ് അവളുടെ കൂടെ പോകും. ഇവന് വേറെ ജോലിയൊന്നുമില്ലെ?
 6. ചേട്ടാ, വില എത്രയാണെങ്കിലും എനിക്ക് ആ സാരി വാങ്ങിക്കണം.
@@ -369,7 +369,7 @@ Both the regular and the relative indefinite pronouns described so far have invo
 16. അവർ എന്തോ അവന് കൊടുത്തു.
 
     “They gave him something” (but I don’t know what it was).
-17. ഞാൻ അന്ന് എന്തിനെ പററിയോ വിചാരിച്ചു.
+17. ഞാൻ അന്ന് എന്തിനെ പറ്റിയോ വിചാരിച്ചു.
 
     “I thought of something or other the other day.”
 18. നിങ്ങൾ എവിടെ വച്ചോ, അത് അവിടെ കാണും.
@@ -465,6 +465,8 @@ Even passive phrases made with പെടുക can be made into relative clauses
 
 11. ഓണസദ്യക്ക് വിളിക്കപ്പെട്ടവർ — “those who were invited to the Onam feast.”
 
+> **Editorial reference note:** This section’s source reference to 24.3 for emphasis with -ആയിട്ട് appears incorrect; section 24.3 discusses self-benefit compound verbs. The intended destination has not been reconstructed.
+
 ### 22.5 The Adverb Marker -ആയി
 
 Many words and phrases can be made into adverbs by the addition of the marker -ആയി. Section A of the Reading Practice of Lesson Twenty-Three contains a group of examples. Adverbs in general fall into two types, those which modify a verb or verb phrase within a sentence, and those which modify the sentence as a whole. Those which modify a verb are usually divided into adverbs of time, place, and manner. The marker -ആയി is used for manner adverbs and for sentence adverbs only. This lesson's conversation contains the sentence adverb:
@@ -531,7 +533,7 @@ To describe a past situation, ആയി becomes ആയിരുന്നു, whi
 
 <!-- Source: PDF page 410; printed page unnumbered. -->
 
-![Photographs from the source textbook](assets/images/lesson22-photo-410.jpg)
+![A Kerala wedding and Padmanabhaswamy Temple in Thiruvananthapuram](assets/images/lesson22-photo-410.jpg)
 
 ഒരു കേരളീയ കല്യാണം
 
@@ -541,7 +543,7 @@ To describe a past situation, ആയി becomes ആയിരുന്നു, whi
 
 <!-- Source: PDF page 411; printed page unnumbered. -->
 
-![Photographs from the source textbook](assets/images/lesson22-photo-411.jpg)
+![Kovalam beach and passengers aboard a boat](assets/images/lesson22-photo-411.jpg)
 
 കോവളം കടൽത്തീരം
 

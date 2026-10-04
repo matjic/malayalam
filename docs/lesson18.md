@@ -460,7 +460,9 @@ It will be remembered that the predicate of an equational sentence in Malayalam 
 
    “These saris are from Madras.”
 
-3. ഈ റേഡിയോ പരിപാടികളികളെപ്പറ്റിയാണ്.
+<!-- Editorial correction: PDF page 322 omits ഉള്ളത് in example 3; restored to show the construction described here, contrasting with example 6 below. -->
+
+3. ഈ റേഡിയോ പരിപാടി കളികളെപ്പറ്റിയുള്ളതാണ്.
 
    “This radio program is about sports.”
 

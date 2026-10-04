@@ -370,6 +370,8 @@ Note that this same process occurs with cleft sentences. The only difference is 
 
 This usage will be treated in 24.6.
 
+> **Editorial source note:** Section 24.6 discusses ability and inability, rather than fully developing the obligation construction promised here. Treat the translated examples in this section as the available guidance.
+
 <!-- Source: PDF page 337; printed page 280. -->
 
 ### 19.4 The Repetitive Verbform with -ാറുണ്ട്
@@ -428,7 +430,8 @@ In these examples, ഇരിക്കുക is brought in as the main verb of a 
 
 Like the other negative endings, ആഞ്ഞ് is added to the present verbal stem. It frequently occurs with the conditional marker -ാൽ, usually with a sense of warning of bad consequences if something is not done. Note that in such cases there is no actual past tense meaning, rather the past negative is used in a hypothetical sense, just as in English when we say “If you wouldn't show up on time, you would be fired”. Further, unlike -ാതെ, ആഞ്ഞ് can occur with perfective marker -ിട്ട്. Witness:
 
-9. ജോലി ചെയ്യാഞ്ഞാൽ നിങ്ങളെ സ്ഥലം മാറേണ്ടതായി വരും. — “If you don't do the work, I will have to transfer you.”
+<!-- Editorial correction: PDF page 339 has മാറേണ്ട; the transitive meaning “transfer you” requires മാറ്റേണ്ട, as in this lesson’s conversation. -->
+9. ജോലി ചെയ്യാഞ്ഞാൽ നിങ്ങളെ സ്ഥലം മാറ്റേണ്ടതായി വരും. — “If you don't do the work, I will have to transfer you.”
 10. ജോലി ചെയ്യാഞ്ഞിട്ടാണ് നിങ്ങളെ പിരിച്ചുവിടുന്നത്. — “It's because you haven't done the work, that you are being terminated.”
 
 It is further possible, as with all adjectives, to add the human relative pronouns as well, to negative verbal adjectives in order to form relative clauses. Witness:
