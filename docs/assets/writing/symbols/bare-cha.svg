@@ -2,7 +2,7 @@
   <title id="bare-cha-title">ച് — writing diagram</title>
   <desc id="bare-cha-description">Redrawn from Moag, PDF page 43. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="bare-cha">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M51 100 C23 85 34 53 66 60 C87 64 103 77 104 92" data-part="upper curl" transform="translate(0 0) scale(1)" />
       <path d="M104 92 C110 116 77 129 23 129" data-part="curl and leftward baseline" transform="translate(0 0) scale(1)" />
       <path d="M23 129 H219" data-part="baseline" transform="translate(0 0) scale(1)" />

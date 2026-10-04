@@ -2,7 +2,7 @@
   <title id="vowel-ai-title">ഐ — writing diagram</title>
   <desc id="vowel-ai-description">Redrawn from Moag, PDF page 28. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="vowel-ai">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95" data-part="loop" data-movement="1" />
       <path d="M40 95 C17 12 149 14 133 95 C130 112 118 125 107 131" data-part="outer arch" data-movement="2" />
       <path d="M35 111 C9 98 13 53 47 59 C74 64 81 96 63 111" data-part="left curl" transform="translate(150 0) scale(1)" data-movement="3" />

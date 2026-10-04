@@ -2,7 +2,7 @@
   <title id="double-nga-title">ങ്ങ — writing diagram</title>
   <desc id="double-nga-description">Redrawn from Moag, PDF page 44. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="double-nga">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95" data-part="loop" data-movement="1" />
       <path d="M40 95 C15 10 127 6 154 32" data-part="left arch" data-movement="2" />
       <path d="M154 32 C202 38 217 83 174 83" data-part="middle upper bowl" data-movement="3" />

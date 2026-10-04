@@ -2,7 +2,7 @@
   <title id="nya-title">ഞ — writing diagram</title>
   <desc id="nya-description">Redrawn from Moag, PDF page 36. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="nya">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95" data-part="loop" data-movement="1" />
       <path d="M40 95 C13 17 116 6 119 52" data-part="left arch" data-movement="2" />
       <path d="M119 52 V131" data-part="middle descent" data-movement="3" />

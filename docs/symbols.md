@@ -489,7 +489,7 @@ B. For two other consonants, the inherent vowel is suppressed through the use of
 
 ള becomes ൾ
 
-> **Digital edition:** The diagram for ൾ shows the modern symbol, replacing the older crossed-loop form in the printed table. The ണ്ണ diagram likewise uses the current stacked form rather than the linear form in the source, and ത്ത follows the current printed shape. Their numbered movements are drawing guides for this edition.
+> **Digital edition:** The diagram for ൾ shows the modern symbol, replacing the older crossed-loop form in the printed table. The ണ്ണ diagram likewise uses the current stacked form rather than the linear form in the source. Their numbered movements are drawing guides for this edition.
 
 C. For all other consonants, the inherent vowel is suppressed by the use of the echo vowel (-്), which is written at the upper right-hand corner of the consonant, as in the following examples:
 

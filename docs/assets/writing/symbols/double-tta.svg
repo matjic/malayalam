@@ -2,7 +2,7 @@
   <title id="double-tta-title">ട്ട — writing diagram</title>
   <desc id="double-tta-description">Redrawn from Moag, PDF page 44. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="double-tta">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M131 43 C98 1 25 11 25 56 C25 76 48 80 76 80" data-part="upper curl" data-movement="1" />
       <path d="M76 80 C139 77 153 137 88 137 H27" data-part="middle bowl and baseline" data-movement="2" />
       <path d="M27 137 H76 C139 134 153 191 88 191 C57 191 36 184 27 169" data-part="lower bowl" data-movement="3" />

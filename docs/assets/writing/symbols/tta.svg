@@ -2,7 +2,7 @@
   <title id="tta-title">ട — writing diagram</title>
   <desc id="tta-description">Redrawn from Moag, PDF page 37. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="tta">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M131 43 C98 1 25 11 25 56 C25 76 48 80 76 80" data-part="upper curl" data-movement="1" />
       <path d="M76 80 C139 77 153 137 88 137 C57 137 36 130 27 115" data-part="lower curl" data-movement="2" />
     </g>

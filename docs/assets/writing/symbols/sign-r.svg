@@ -2,7 +2,7 @@
   <title id="sign-r-title">ൃ — writing diagram</title>
   <desc id="sign-r-description">Redrawn from Moag, PDF page 31. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="sign-r">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M76 20 C40 18 67 72 74 123" data-part="curved descent" data-movement="1" />
       <path d="M74 123 C63 91 17 110 34 142 C50 170 81 150 74 123" data-part="lower loop" data-movement="2" />
     </g>

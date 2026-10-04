@@ -2,7 +2,7 @@
   <title id="ra-title">ര — writing diagram</title>
   <desc id="ra-description">Redrawn from Moag, PDF page 40. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="ra">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M45 132 C-9 103 0 18 74 22 C105 23 124 40 131 65" data-part="left arch" data-movement="1" />
       <path d="M131 65 C150 127 125 142 101 132" data-part="right loop descent" data-movement="2" />
       <path d="M101 132 C62 114 75 57 131 65" data-part="right loop return" data-movement="3" />

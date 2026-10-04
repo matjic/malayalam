@@ -2,7 +2,7 @@
   <title id="sha-title">ശ — writing diagram</title>
   <desc id="sha-description">Redrawn from Moag, PDF page 40. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="sha">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M40 25 C-3 40 8 130 66 131 C106 132 113 105 113 78" data-part="left bowl" data-movement="1" />
       <path d="M113 78 V62 C113 5 205 8 209 75" data-part="right arch" data-movement="2" />
       <path d="M209 75 C211 112 193 135 173 135" data-part="right descent" data-movement="3" />

@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 1065" role="img" aria-label="Malayalam writing symbols, Moag PDF page 38">
   <g transform="translate(95 55) scale(1)">
     <g data-symbol="tha">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M41 131 C-5 105 1 26 60 26 C98 26 120 65 115 94" data-part="left arch" data-movement="1" />
         <path d="M115 94 C108 141 59 142 56 92" data-part="central loop down" data-movement="2" />
         <path d="M56 92 C51 52 89 17 130 26 C164 32 181 53 181 85" data-part="central loop up and right arch" data-movement="3" />
@@ -45,7 +45,7 @@
   <text x="215.0" y="343" font-size="22" text-anchor="middle">ത</text>
   <g transform="translate(515 55) scale(1)">
     <g data-symbol="thha">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M28 23 V132" data-part="left descent" data-movement="1" />
         <path d="M28 132 H230" data-part="baseline" data-movement="2" />
         <path d="M230 132 V67 C230 9 121 9 121 67 V132" data-part="right arch" data-movement="3" />
@@ -82,7 +82,7 @@
   <text x="645.0" y="343" font-size="22" text-anchor="middle">ഥ</text>
   <g transform="translate(125 410) scale(1)">
     <g data-symbol="da">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M40 131 C28 26 53 16 85 22" data-part="left arch" data-movement="1" />
         <path d="M85 22 C143 14 168 76 87 76" data-part="upper bowl" data-movement="2" />
         <path d="M87 76 C165 71 167 132 87 132" data-part="lower bowl" data-movement="3" />
@@ -119,7 +119,7 @@
   <text x="215.0" y="698" font-size="22" text-anchor="middle">ദ</text>
   <g transform="translate(515 410) scale(1)">
     <g data-symbol="dha">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M50 24 C-6 43 9 138 75 132" data-part="left bowl" data-movement="1" />
         <path d="M75 132 C108 132 130 108 130 78 V24" data-part="middle ascent" data-movement="2" />
         <path d="M130 24 V78 C130 144 203 146 224 107" data-part="right bowl" data-movement="3" />
@@ -163,7 +163,7 @@
   <text x="645.0" y="698" font-size="22" text-anchor="middle">ധ</text>
   <g transform="translate(95 765) scale(1)">
     <g data-symbol="na">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M40 131 C-9 105 6 25 58 25 C89 25 105 47 105 73" data-part="left arch" data-movement="1" />
         <path d="M105 73 V130" data-part="middle descent" data-movement="2" />
         <path d="M105 130 V73 C105 11 207 13 207 73" data-part="right arch" data-movement="3" />

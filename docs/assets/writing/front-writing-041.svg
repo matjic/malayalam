@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 1065" role="img" aria-label="Malayalam writing symbols, Moag PDF page 41">
   <g transform="translate(75.9756 55) scale(0.926829)">
     <g data-symbol="sa">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M40 131 C-9 105 6 25 58 25 C89 25 105 47 105 73" data-part="left arch" data-movement="1" />
         <path d="M105 73 V130" data-part="middle descent" data-movement="2" />
         <path d="M105 130 V73 C105 11 207 13 207 73" data-part="right arch" data-movement="3" />
@@ -52,7 +52,7 @@
   <text x="215.0" y="343" font-size="22" text-anchor="middle">സ</text>
   <g transform="translate(505.976 55) scale(0.926829)">
     <g data-symbol="ha">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M43 130 C9 112 20 70 55 71 C94 72 106 104 86 127" data-part="left curl" data-movement="1" />
         <path d="M86 127 H222" data-part="baseline" data-movement="2" />
         <path d="M222 127 C155 108 171 5 231 16 C284 25 284 105 249 130" data-part="right arch" data-movement="3" />
@@ -89,7 +89,7 @@
   <text x="645.0" y="343" font-size="22" text-anchor="middle">ഹ</text>
   <g transform="translate(127.841 410) scale(0.893939)">
     <g data-symbol="lla">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95" data-part="loop" data-movement="1" />
         <path d="M40 95 C15 15 140 11 139 64 C139 78 128 81 111 81" data-part="upper arch and bowl" data-movement="2" />
         <path d="M111 81 C159 82 169 141 108 153 H52" data-part="lower bowl and return" data-movement="3" />
@@ -136,7 +136,7 @@
   <text x="215.0" y="698" font-size="22" text-anchor="middle">ള</text>
   <g transform="translate(557.422 410) scale(0.921875)">
     <g data-symbol="zha">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M40 25 C-8 50 7 99 75 99 H113" data-part="left bowl" data-movement="1" />
         <path d="M113 99 C152 92 149 23 102 23 C53 23 62 98 113 99" data-part="upper loop" data-movement="2" />
         <path d="M113 99 C163 166 69 175 50 142" data-part="lower bowl" data-movement="3" />
@@ -173,7 +173,7 @@
   <text x="645.0" y="698" font-size="22" text-anchor="middle">ഴ</text>
   <g transform="translate(122.5 765) scale(1)">
     <g data-symbol="rra">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M45 135 C-25 91 10 17 79 22 C139 26 156 98 109 135" data-part="open arch" data-movement="1" />
       </g>
       <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">

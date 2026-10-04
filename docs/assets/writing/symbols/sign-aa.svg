@@ -2,7 +2,7 @@
   <title id="sign-aa-title">ാ — writing diagram</title>
   <desc id="sign-aa-description">Redrawn from Moag, PDF page 30. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="sign-aa">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M33 40 C74 -5 119 104 63 128 C42 137 29 126 25 114" data-part="long-a bowl" data-movement="1" />
     </g>
     <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">

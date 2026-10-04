@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 1065" role="img" aria-label="Malayalam writing symbols, Moag PDF page 37">
   <g transform="translate(135 55) scale(1)">
     <g data-symbol="tta">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M131 43 C98 1 25 11 25 56 C25 76 48 80 76 80" data-part="upper curl" data-movement="1" />
         <path d="M76 80 C139 77 153 137 88 137 C57 137 36 130 27 115" data-part="lower curl" data-movement="2" />
       </g>
@@ -31,7 +31,7 @@
   <text x="215.0" y="343" font-size="22" text-anchor="middle">ട</text>
   <g transform="translate(572.5 55) scale(1)">
     <g data-symbol="ttha">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M30 85 C30 30 110 30 110 85 C110 140 30 140 30 85" data-part="oval" data-movement="1" />
       </g>
       <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">
@@ -54,7 +54,7 @@
   <text x="645.0" y="343" font-size="22" text-anchor="middle">ഠ</text>
   <g transform="translate(80 410) scale(1)">
     <g data-symbol="dda">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M40 132 C-9 104 8 21 58 24 C84 25 97 43 97 74" data-part="left arch" data-movement="1" />
         <path d="M97 74 V106 C97 142 151 142 151 106" data-part="left descent" data-movement="2" />
         <path d="M151 106 V24" data-part="middle ascent" data-movement="3" />
@@ -105,7 +105,7 @@
   <text x="215.0" y="698" font-size="22" text-anchor="middle">ഡ</text>
   <g transform="translate(508.59 410) scale(0.974359)">
     <g data-symbol="ddha">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M40 132 C-9 104 8 21 58 24 C84 25 97 43 97 74" data-part="left arch" data-movement="1" />
         <path d="M97 74 V106 C97 142 151 142 151 106" data-part="left descent" data-movement="2" />
         <path d="M151 106 V24" data-part="middle ascent" data-movement="3" />
@@ -163,7 +163,7 @@
   <text x="645.0" y="698" font-size="22" text-anchor="middle">ഢ</text>
   <g transform="translate(74.7619 765) scale(0.904762)">
     <g data-symbol="nna">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95" data-part="loop" data-movement="1" />
         <path d="M40 95 C12 15 118 7 121 48" data-part="left arch" data-movement="2" />
         <path d="M121 48 V132" data-part="first stem" data-movement="3" />

@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 1065" role="img" aria-label="Malayalam writing symbols, Moag PDF page 35">
   <g transform="translate(90 55) scale(1)">
     <g data-symbol="ka">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M91 65 V42 C91 9 146 9 146 42 V65" data-part="top arch" data-movement="1" />
         <path d="M146 65 V104 C146 139 91 139 91 104" data-part="right bowl return" data-movement="2" />
         <path d="M91 104 V65" data-part="middle ascent" data-movement="3" />
@@ -66,7 +66,7 @@
   <text x="215.0" y="343" font-size="22" text-anchor="middle">ക</text>
   <g transform="translate(520 55) scale(1)">
     <g data-symbol="kha">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95" data-part="loop" data-movement="1" />
         <path d="M40 95 C17 12 149 14 133 95 C130 112 118 125 107 131" data-part="outer arch" data-movement="2" />
         <path d="M107 131 H216" data-part="baseline" data-movement="3" />
@@ -113,7 +113,7 @@
   <text x="645.0" y="343" font-size="22" text-anchor="middle">ഖ</text>
   <g transform="translate(97.5 410) scale(1)">
     <g data-symbol="ga">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M40 25 C-3 40 8 130 66 131 C106 132 113 105 113 78" data-part="left bowl" data-movement="1" />
         <path d="M113 78 V62 C113 5 205 8 209 75" data-part="right arch" data-movement="2" />
         <path d="M209 75 C211 100 197 122 176 135" data-part="right descent" data-movement="3" />
@@ -150,7 +150,7 @@
   <text x="215.0" y="698" font-size="22" text-anchor="middle">ഗ</text>
   <g transform="translate(505.361 410) scale(0.915663)">
     <g data-symbol="gha">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M35 111 C9 98 13 53 47 59 C74 64 81 96 63 111" data-part="left curl" data-movement="1" />
         <path d="M63 111 H166" data-part="crossbar" data-movement="2" />
         <path d="M166 111 V49 C166 12 105 10 105 49 V111" data-part="middle arch" data-movement="3" />
@@ -208,7 +208,7 @@
   <text x="645.0" y="698" font-size="22" text-anchor="middle">ഘ</text>
   <g transform="translate(92.5 765) scale(1)">
     <g data-symbol="nga">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95" data-part="loop" data-movement="1" />
         <path d="M40 95 C12 12 127 3 127 52" data-part="left arch" data-movement="2" />
         <path d="M127 52 V134" data-part="middle descent" data-movement="3" />

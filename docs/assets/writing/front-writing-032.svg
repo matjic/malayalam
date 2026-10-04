@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 710" role="img" aria-label="Malayalam writing symbols, Moag PDF page 32">
   <g transform="translate(127.5 55) scale(1)">
     <g data-symbol="sign-e">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95" data-part="loop" data-movement="1" />
         <path d="M40 95 C17 12 149 14 133 95 C130 112 118 125 107 131" data-part="outer arch" data-movement="2" />
       </g>
@@ -34,7 +34,7 @@
   <text x="215.0" y="343" font-size="22" text-anchor="middle">െ</text>
   <g transform="translate(575 55) scale(1)">
     <g data-symbol="sign-ee">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M85 43 C110 43 109 15 85 15 C59 15 62 44 85 43" data-part="upper loop" data-movement="1" />
         <path d="M85 15 C8 6 9 138 82 138" data-part="left arc" data-movement="2" />
         <path d="M82 138 C118 138 109 98 87 104 C69 107 64 126 82 138" data-part="lower loop" data-movement="3" />
@@ -74,7 +74,7 @@
   <text x="645.0" y="343" font-size="22" text-anchor="middle">േ</text>
   <g transform="translate(73.6047 410) scale(0.883721)">
     <g data-symbol="sign-ai">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95" data-part="loop" data-movement="1" />
         <path d="M40 95 C17 12 149 14 133 95 C130 112 118 125 107 131" data-part="outer arch" data-movement="2" />
         <path d="M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95" data-part="loop" transform="translate(150 0) scale(1)" data-movement="3" />

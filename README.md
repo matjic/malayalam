@@ -21,7 +21,7 @@ Each SVG separates `.writing-ink`, `.writing-guides`, and `.writing-labels`.
 Ink paths have named `data-part` attributes and numbered `data-movement`
 attributes where the source supplies writing directions. These numbered movements
 can be parts of a continuous stroke; they do not imply separate pen lifts.
-The chapter controls toggle guides and adjust line weight and card size.
+Diagrams show numbers and arrows with a thin line weight and responsive card sizing.
 `docs/assets/writing.css` also exposes `--writing-ink`, `--writing-guide-ink`,
 `--writing-background`, `--writing-stroke-width`, and `--writing-card-size`.
 The Docsify plugin inlines the SVGs to inherit styling; standalone images remain

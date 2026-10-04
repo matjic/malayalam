@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 1065" role="img" aria-label="Malayalam writing symbols, Moag PDF page 39">
   <g transform="translate(85 55) scale(1)">
     <g data-symbol="pa">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M43 130 C9 112 20 70 55 71 C94 72 106 104 86 127" data-part="left curl" data-movement="1" />
         <path d="M86 127 H222" data-part="baseline" data-movement="2" />
         <path d="M222 127 V20" data-part="right ascent" data-movement="3" />
@@ -38,7 +38,7 @@
   <text x="215.0" y="343" font-size="22" text-anchor="middle">പ</text>
   <g transform="translate(506.605 55) scale(0.938272)">
     <g data-symbol="pha">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M43 130 C9 112 20 70 55 71 C94 72 106 104 86 127" data-part="left curl" data-movement="1" />
         <path d="M86 127 H222" data-part="baseline" data-movement="2" />
         <path d="M222 127 V63 C222 9 136 9 136 63 V127" data-part="right arch" data-movement="3" />
@@ -73,16 +73,16 @@
     </g>
   </g>
   <text x="645.0" y="343" font-size="22" text-anchor="middle">ഫ</text>
-  <g transform="translate(75.9756 410) scale(0.926829)">
+  <g transform="translate(78.5897 410) scale(0.974359)">
     <g data-symbol="ba">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95" data-part="loop" data-movement="1" />
         <path d="M40 95 C13 11 118 7 122 52" data-part="left arch" data-movement="2" />
         <path d="M122 52 V131" data-part="middle descent" data-movement="3" />
-        <path d="M122 131 V52 C122 -7 234 4 234 68" data-part="right arch" data-movement="4" />
-        <path d="M234 68 C234 98 223 114 200 131" data-part="right descent" data-movement="5" />
-        <path d="M200 131 H279" data-part="baseline" data-movement="6" />
-        <path d="M279 131 V22" data-part="right ascent" data-movement="7" />
+        <path d="M122 131 V52 C122 22 204 22 204 52" data-part="right arch" data-movement="4" />
+        <path d="M204 52 C217 87 204 114 180 131" data-part="right descent" data-movement="5" />
+        <path d="M180 131 H260" data-part="baseline" data-movement="6" />
+        <path d="M260 131 V22" data-part="right ascent" data-movement="7" />
       </g>
       <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">
         <defs>
@@ -103,16 +103,16 @@
           <path d="M110 56 V121" marker-end="url(#ba-arrow)" />
         </g>
         <g data-movement="4">
-          <path d="M135 119 V58 C135 31 158 21 171 25" marker-end="url(#ba-arrow)" />
+          <path d="M135 119 V58 C135 36 170 24 184 32" marker-end="url(#ba-arrow)" />
         </g>
         <g data-movement="5">
-          <path d="M213 11 C265 41 265 98 246 121" marker-end="url(#ba-arrow)" />
+          <path d="M195 19 C240 45 239 100 215 121" marker-end="url(#ba-arrow)" />
         </g>
         <g data-movement="6">
-          <path d="M212 145 H270" marker-end="url(#ba-arrow)" />
+          <path d="M192 145 H251" marker-end="url(#ba-arrow)" />
         </g>
         <g data-movement="7">
-          <path d="M292 128 V29" marker-end="url(#ba-arrow)" />
+          <path d="M273 128 V29" marker-end="url(#ba-arrow)" />
         </g>
       </g>
       <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
@@ -129,13 +129,13 @@
           <text x="147" y="69" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">4</text>
         </g>
         <g data-movement="5">
-          <text x="269" y="78" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">5</text>
+          <text x="244" y="78" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">5</text>
         </g>
         <g data-movement="6">
-          <text x="241" y="160" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">6</text>
+          <text x="222" y="160" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">6</text>
         </g>
         <g data-movement="7">
-          <text x="304" y="82" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">7</text>
+          <text x="285" y="82" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">7</text>
         </g>
       </g>
     </g>
@@ -143,7 +143,7 @@
   <text x="215.0" y="698" font-size="22" text-anchor="middle">ബ</text>
   <g transform="translate(557.5 410) scale(1)">
     <g data-symbol="bha">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M39 133 C24 30 50 17 75 22" data-part="left arch" data-movement="1" />
         <path d="M75 22 C128 20 133 59 112 60" data-part="top bowl" data-movement="2" />
         <path d="M112 60 H78 C40 60 42 91 78 91 H102" data-part="middle curl" data-movement="3" />
@@ -187,7 +187,7 @@
   <text x="645.0" y="698" font-size="22" text-anchor="middle">ഭ</text>
   <g transform="translate(122.5 765) scale(1)">
     <g data-symbol="ma">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M31 134 V63 C31 34 46 25 79 25" data-part="left arch" data-movement="1" />
         <path d="M79 25 C128 25 152 35 152 70 V134" data-part="right arch" data-movement="2" />
         <path d="M152 134 H31" data-part="baseline" data-movement="3" />

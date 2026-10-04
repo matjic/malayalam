@@ -2,7 +2,7 @@
   <title id="join-ra-title">പ്ര — writing diagram</title>
   <desc id="join-ra-description">Redrawn from Moag, PDF page 46. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="join-ra">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M43 130 C9 112 20 70 55 71 C94 72 106 104 86 127" data-part="left curl" transform="translate(92 0) scale(1)" />
       <path d="M86 127 H222" data-part="baseline" transform="translate(92 0) scale(1)" />
       <path d="M222 127 V20" data-part="right ascent" transform="translate(92 0) scale(1)" />

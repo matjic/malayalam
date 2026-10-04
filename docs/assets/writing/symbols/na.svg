@@ -2,7 +2,7 @@
   <title id="na-title">ന — writing diagram</title>
   <desc id="na-description">Redrawn from Moag, PDF page 38. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="na">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M40 131 C-9 105 6 25 58 25 C89 25 105 47 105 73" data-part="left arch" data-movement="1" />
       <path d="M105 73 V130" data-part="middle descent" data-movement="2" />
       <path d="M105 130 V73 C105 11 207 13 207 73" data-part="right arch" data-movement="3" />

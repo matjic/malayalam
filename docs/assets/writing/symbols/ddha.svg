@@ -2,7 +2,7 @@
   <title id="ddha-title">ഢ — writing diagram</title>
   <desc id="ddha-description">Redrawn from Moag, PDF page 37. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="ddha">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M40 132 C-9 104 8 21 58 24 C84 25 97 43 97 74" data-part="left arch" data-movement="1" />
       <path d="M97 74 V106 C97 142 151 142 151 106" data-part="left descent" data-movement="2" />
       <path d="M151 106 V24" data-part="middle ascent" data-movement="3" />

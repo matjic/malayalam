@@ -2,7 +2,7 @@
   <title id="double-nna-title">ണ്ണ — writing diagram</title>
   <desc id="double-nna-description">Modern form of ണ്ണ, with editorial drawing movements. Moag PDF page 44 contains an older form. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="double-nna">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95 M40 95 V190" data-part="loop" transform="translate(0 0) scale(1)" data-movement="1" />
       <path d="M40 95 C12 15 118 7 121 48" data-part="left arch" transform="translate(0 0) scale(1)" data-movement="2" />
       <path d="M121 48 V227" data-part="first stem" transform="translate(0 0) scale(1)" data-movement="3" />

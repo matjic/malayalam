@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 710" role="img" aria-label="Malayalam writing symbols, Moag PDF page 33">
   <g transform="translate(73.046 55) scale(0.873563)">
     <g data-symbol="sign-o">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95" data-part="loop" data-movement="1" />
         <path d="M40 95 C17 12 149 14 133 95 C130 112 118 125 107 131" data-part="outer arch" data-movement="2" />
         <path d="M33 40 C74 -5 119 104 63 128 C42 137 29 126 25 114" data-part="long-a bowl" transform="translate(190 0) scale(1)" data-movement="3" />
@@ -41,7 +41,7 @@
   <text x="215.0" y="343" font-size="22" text-anchor="middle">ൊ</text>
   <g transform="translate(507.911 55) scale(0.962025)">
     <g data-symbol="sign-oo">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M85 43 C110 43 109 15 85 15 C59 15 62 44 85 43" data-part="upper loop" data-movement="1" />
         <path d="M85 15 C8 6 9 138 82 138" data-part="left arc" data-movement="2" />
         <path d="M82 138 C118 138 109 98 87 104 C69 107 64 126 82 138" data-part="lower loop" data-movement="3" />
@@ -88,7 +88,7 @@
   <text x="645.0" y="343" font-size="22" text-anchor="middle">ോ</text>
   <g transform="translate(147.5 410) scale(1)">
     <g data-symbol="sign-au">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M20 85 V52 C20 24 54 24 54 52 V85" data-part="first arch" data-movement="1" />
         <path d="M54 52 C54 24 88 24 88 52 V110 C88 138 42 138 42 110" data-part="second arch and bowl" data-movement="2" />
       </g>

@@ -2,7 +2,7 @@
   <title id="la-title">ല — writing diagram</title>
   <desc id="la-description">Redrawn from Moag, PDF page 40. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="la">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M31 78 H131" data-part="crossbar" data-movement="1" />
       <path d="M131 78 V47 C131 11 31 11 31 47 V78" data-part="upper arch" data-movement="2" />
       <path d="M31 78 V138" data-part="left descent" data-movement="3" />

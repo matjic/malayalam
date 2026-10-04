@@ -2,7 +2,7 @@
   <title id="sign-uu-title">ൂ — writing diagram</title>
   <desc id="sign-uu-description">Redrawn from Moag, PDF page 31. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="sign-uu">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M32 25 C98 -5 65 70 65 118" data-part="curved descent" data-movement="1" />
       <path d="M65 118 C29 118 34 162 65 162" data-part="lower loop left" data-movement="2" />
       <path d="M65 162 C99 162 97 118 65 118" data-part="lower loop right" data-movement="3" />

@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 710" role="img" aria-label="Malayalam writing symbols, Moag PDF page 29">
   <g transform="translate(75.9756 55) scale(0.926829)">
     <g data-symbol="vowel-au">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95" data-part="loop" data-movement="1" />
         <path d="M40 95 C15 15 140 11 139 64 C139 78 128 81 111 81" data-part="upper arch and bowl" data-movement="2" />
         <path d="M111 81 C154 81 157 137 114 137 H111" data-part="lower bowl" data-movement="3" />
@@ -55,7 +55,7 @@
   <text x="215.0" y="343" font-size="22" text-anchor="middle">ഔ</text>
   <g transform="translate(501.966 55) scale(0.853933)">
     <g data-symbol="vowel-am">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M40 125 C-8 100 1 32 64 32" data-part="left arch" data-movement="1" />
         <path d="M64 32 C109 32 114 75 76 76" data-part="upper inner bowl" data-movement="2" />
         <path d="M76 76 C120 79 109 133 74 125" data-part="lower inner bowl" data-movement="3" />
@@ -137,7 +137,7 @@
   <text x="645.0" y="343" font-size="22" text-anchor="middle">അം</text>
   <g transform="translate(71.9663 410) scale(0.853933)">
     <g data-symbol="vowel-ah">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M40 125 C-8 100 1 32 64 32" data-part="left arch" data-movement="1" />
         <path d="M64 32 C109 32 114 75 76 76" data-part="upper inner bowl" data-movement="2" />
         <path d="M76 76 C120 79 109 133 74 125" data-part="lower inner bowl" data-movement="3" />

@@ -2,7 +2,7 @@
   <title id="sign-o-title">ൊ — writing diagram</title>
   <desc id="sign-o-description">Redrawn from Moag, PDF page 33. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="sign-o">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95" data-part="loop" data-movement="1" />
       <path d="M40 95 C17 12 149 14 133 95 C130 112 118 125 107 131" data-part="outer arch" data-movement="2" />
       <path d="M33 40 C74 -5 119 104 63 128 C42 137 29 126 25 114" data-part="long-a bowl" transform="translate(190 0) scale(1)" data-movement="3" />

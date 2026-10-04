@@ -2,7 +2,7 @@
   <title id="vowel-ii-title">ഈ — writing diagram</title>
   <desc id="vowel-ii-description">Redrawn from Moag, PDF page 27. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="vowel-ii">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95" data-part="loop" data-movement="1" />
       <path d="M40 95 C17 16 120 6 120 59 V104" data-part="left arch" data-movement="2" />
       <path d="M120 104 V59 C120 9 181 7 181 57 V112" data-part="right arch" data-movement="3" />

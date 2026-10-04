@@ -2,14 +2,14 @@
   <title id="double-la-title">ല്ല — writing diagram</title>
   <desc id="double-la-description">Redrawn from Moag, PDF page 45. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="double-la">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M31 78 H131" data-part="crossbar" data-movement="1" />
       <path d="M131 78 V47 C131 11 31 11 31 47 V78" data-part="upper arch" data-movement="2" />
       <path d="M31 78 V138" data-part="left descent" data-movement="3" />
       <path d="M31 138 H209" data-part="baseline" data-movement="4" />
       <path d="M209 138 V24" data-part="right ascent" data-movement="5" />
-      <path d="M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95 M40 95 C14 33 95 25 95 72 V100" data-part="lower loop and arch" transform="translate(27 92) scale(0.9)" data-movement="6" />
-      <path d="M95 100 C95 154 178 161 176 79" data-part="lower bowl" transform="translate(27 92) scale(0.9)" data-movement="7" />
+      <path d="M64 45 C64 27 91 27 91 45 C91 63 64 63 64 45 M64 45 C44 7 59 0 78 0 C98 0 111 14 111 39 V52" data-part="lower loop and arch" transform="translate(0 138) scale(1)" data-movement="6" />
+      <path d="M111 52 C111 95 186 95 186 37" data-part="lower bowl" transform="translate(0 138) scale(1)" data-movement="7" />
     </g>
     <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">
       <defs>
@@ -32,11 +32,11 @@
       <g data-movement="5">
         <path d="M222 135 V31" marker-end="url(#double-la-arrow)" />
       </g>
-      <g transform="translate(27 92) scale(0.9)" data-movement="6">
-        <path d="M32 57 C14 27 103 9 107 65 V87" marker-end="url(#double-la-arrow)" />
+      <g transform="translate(0 138) scale(1)" data-movement="6">
+        <path d="M51 35 C35 13 52 9 71 10 C98 10 100 26 100 40" marker-end="url(#double-la-arrow)" />
       </g>
-      <g transform="translate(27 92) scale(0.9)" data-movement="7">
-        <path d="M107 112 C132 169 198 149 190 86" marker-end="url(#double-la-arrow)" />
+      <g transform="translate(0 138) scale(1)" data-movement="7">
+        <path d="M123 53 C123 104 200 100 199 43" marker-end="url(#double-la-arrow)" />
       </g>
     </g>
     <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
@@ -55,11 +55,11 @@
       <g data-movement="5">
         <text x="237" y="88" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">5</text>
       </g>
-      <g transform="translate(27 92) scale(0.9)" data-movement="6">
-        <text x="93" y="32" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">6</text>
+      <g transform="translate(0 138) scale(1)" data-movement="6">
+        <text x="112" y="13" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">6</text>
       </g>
-      <g transform="translate(27 92) scale(0.9)" data-movement="7">
-        <text x="173" y="155" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">7</text>
+      <g transform="translate(0 138) scale(1)" data-movement="7">
+        <text x="184" y="103" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">7</text>
       </g>
     </g>
   </g>

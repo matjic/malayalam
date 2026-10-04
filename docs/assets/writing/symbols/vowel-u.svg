@@ -2,7 +2,7 @@
   <title id="vowel-u-title">ഉ — writing diagram</title>
   <desc id="vowel-u-description">Redrawn from Moag, PDF page 27. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="vowel-u">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95" data-part="loop" data-movement="1" />
       <path d="M40 95 C12 5 147 8 135 85 C131 117 115 141 84 140" data-part="outer arch" data-movement="2" />
       <path d="M84 140 H46 C14 140 14 169 46 169 H151" data-part="baseline turn" data-movement="3" />

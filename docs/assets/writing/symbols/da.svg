@@ -2,7 +2,7 @@
   <title id="da-title">ദ — writing diagram</title>
   <desc id="da-description">Redrawn from Moag, PDF page 38. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="da">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M40 131 C28 26 53 16 85 22" data-part="left arch" data-movement="1" />
       <path d="M85 22 C143 14 168 76 87 76" data-part="upper bowl" data-movement="2" />
       <path d="M87 76 C165 71 167 132 87 132" data-part="lower bowl" data-movement="3" />

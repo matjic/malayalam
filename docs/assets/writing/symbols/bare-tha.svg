@@ -2,7 +2,7 @@
   <title id="bare-tha-title">ത് — writing diagram</title>
   <desc id="bare-tha-description">Redrawn from Moag, PDF page 43. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="bare-tha">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M41 131 C-5 105 1 26 60 26 C98 26 120 65 115 94" data-part="left arch" transform="translate(0 0) scale(1)" />
       <path d="M115 94 C108 141 59 142 56 92" data-part="central loop down" transform="translate(0 0) scale(1)" />
       <path d="M56 92 C51 52 89 17 130 26 C164 32 181 53 181 85" data-part="central loop up and right arch" transform="translate(0 0) scale(1)" />

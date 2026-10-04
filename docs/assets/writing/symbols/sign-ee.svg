@@ -2,7 +2,7 @@
   <title id="sign-ee-title">േ — writing diagram</title>
   <desc id="sign-ee-description">Redrawn from Moag, PDF page 32. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="sign-ee">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M85 43 C110 43 109 15 85 15 C59 15 62 44 85 43" data-part="upper loop" data-movement="1" />
       <path d="M85 15 C8 6 9 138 82 138" data-part="left arc" data-movement="2" />
       <path d="M82 138 C118 138 109 98 87 104 C69 107 64 126 82 138" data-part="lower loop" data-movement="3" />

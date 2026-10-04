@@ -50,7 +50,7 @@ def main():
             root = ET.parse(path).getroot()
             if root.get('data-source-page') != str(page):
                 errors.append(f'{key}: wrong source page')
-            if key in ('chillu-ll', 'double-nna', 'double-tha') and root.get('data-form') != 'modern':
+            if key in ('chillu-ll', 'double-nna') and root.get('data-form') != 'modern':
                 errors.append(f'{key}: expected the modern form')
             if root.findall(f'.//{SVG}image') or root.findall(f'.//{SVG}script'):
                 errors.append(f'{key}: raster or script in symbol')

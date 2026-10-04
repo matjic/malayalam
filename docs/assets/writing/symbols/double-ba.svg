@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-55 -55 420 340" role="img" aria-labelledby="double-ba-title double-ba-description" data-source-page="44">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-55 -55 410 340" role="img" aria-labelledby="double-ba-title double-ba-description" data-source-page="44">
   <title id="double-ba-title">ബ്ബ — writing diagram</title>
   <desc id="double-ba-description">Redrawn from Moag, PDF page 44. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="double-ba">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
-      <path d="M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95 M40 95 C13 11 118 7 122 52 V131" data-part="left loop, arch, and stem" data-movement="1" />
-      <path d="M122 131 V52 C122 -7 234 4 234 68 C234 98 223 114 200 131" data-part="right arch" data-movement="2" />
-      <path d="M200 131 H279" data-part="baseline" data-movement="3" />
-      <path d="M279 131 V22" data-part="right ascent" data-movement="4" />
-      <path d="M210 22 V181" data-part="right descent" transform="translate(69 0) scale(1)" data-movement="5" />
-      <path d="M210 181 H98" data-part="lower baseline" transform="translate(69 0) scale(1)" data-movement="6" />
-      <path d="M98 181 L210 145" data-part="diagonal return" transform="translate(69 0) scale(1)" data-movement="7" />
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
+      <path d="M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95 M40 95 C13 11 118 7 122 52 M122 52 V131" data-part="left loop, arch, and stem" data-movement="1" />
+      <path d="M122 131 V52 C122 22 204 22 204 52" data-part="right arch" data-movement="2" />
+      <path d="M204 52 C217 87 204 114 180 131" data-part="right descent" data-movement="3" />
+      <path d="M180 131 H260" data-part="baseline" data-movement="4" />
+      <path d="M210 22 V181" data-part="right descent" transform="translate(50 0) scale(1)" data-movement="5" />
+      <path d="M210 181 H98" data-part="lower baseline" transform="translate(50 0) scale(1)" data-movement="6" />
+      <path d="M98 181 L210 145" data-part="diagonal return" transform="translate(50 0) scale(1)" data-movement="7" />
     </g>
     <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">
       <defs>
@@ -21,21 +21,21 @@
         <path d="M23 87 C4 -1 90 -10 110 17" marker-end="url(#double-ba-arrow)" />
       </g>
       <g data-movement="2">
-        <path d="M135 119 V58 C135 31 158 21 171 25" marker-end="url(#double-ba-arrow)" />
+        <path d="M135 119 V58 C135 36 170 24 184 32" marker-end="url(#double-ba-arrow)" />
       </g>
       <g data-movement="3">
-        <path d="M212 145 H270" marker-end="url(#double-ba-arrow)" />
+        <path d="M195 19 C240 45 239 100 215 121" marker-end="url(#double-ba-arrow)" />
       </g>
       <g data-movement="4">
-        <path d="M292 128 V29" marker-end="url(#double-ba-arrow)" />
+        <path d="M192 145 H251" marker-end="url(#double-ba-arrow)" />
       </g>
-      <g transform="translate(69 0) scale(1)" data-movement="5">
+      <g transform="translate(50 0) scale(1)" data-movement="5">
         <path d="M223 33 V173" marker-end="url(#double-ba-arrow)" />
       </g>
-      <g transform="translate(69 0) scale(1)" data-movement="6">
+      <g transform="translate(50 0) scale(1)" data-movement="6">
         <path d="M200 195 H107" marker-end="url(#double-ba-arrow)" />
       </g>
-      <g transform="translate(69 0) scale(1)" data-movement="7">
+      <g transform="translate(50 0) scale(1)" data-movement="7">
         <path d="M106 167 L196 137" marker-end="url(#double-ba-arrow)" />
       </g>
     </g>
@@ -47,18 +47,18 @@
         <text x="147" y="69" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">2</text>
       </g>
       <g data-movement="3">
-        <text x="241" y="160" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">3</text>
+        <text x="244" y="78" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">3</text>
       </g>
       <g data-movement="4">
-        <text x="304" y="82" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">4</text>
+        <text x="222" y="160" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">4</text>
       </g>
-      <g transform="translate(69 0) scale(1)" data-movement="5">
+      <g transform="translate(50 0) scale(1)" data-movement="5">
         <text x="237" y="111" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">5</text>
       </g>
-      <g transform="translate(69 0) scale(1)" data-movement="6">
+      <g transform="translate(50 0) scale(1)" data-movement="6">
         <text x="150" y="211" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">6</text>
       </g>
-      <g transform="translate(69 0) scale(1)" data-movement="7">
+      <g transform="translate(50 0) scale(1)" data-movement="7">
         <text x="153" y="146" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">7</text>
       </g>
     </g>

@@ -2,7 +2,7 @@
   <title id="sign-ii-title">ീ — writing diagram</title>
   <desc id="sign-ii-description">Redrawn from Moag, PDF page 30. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="sign-ii">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95" data-part="loop" transform="translate(2 -31) scale(0.75)" data-movement="1" />
       <path d="M32 41 C20 6 84 2 84 40 V147" data-part="arch and descent" data-movement="2" />
     </g>

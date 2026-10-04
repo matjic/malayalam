@@ -2,7 +2,7 @@
   <title id="vowel-e-title">എ — writing diagram</title>
   <desc id="vowel-e-description">Redrawn from Moag, PDF page 28. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="vowel-e">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M35 111 C9 98 13 53 47 59 C74 64 81 96 63 111" data-part="left curl" data-movement="1" />
       <path d="M63 111 H166" data-part="crossbar" data-movement="2" />
       <path d="M166 111 V40" data-part="central ascent" data-movement="3" />

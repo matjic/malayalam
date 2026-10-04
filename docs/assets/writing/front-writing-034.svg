@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 355" role="img" aria-label="Malayalam writing symbols, Moag PDF page 34">
   <g transform="translate(157.5 55) scale(1)">
     <g data-symbol="sign-am">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M32 75 C32 42 76 42 76 75 C76 108 32 108 32 75" data-part="anusvara circle" data-movement="1" />
       </g>
       <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">
@@ -27,7 +27,7 @@
   <text x="215.0" y="343" font-size="22" text-anchor="middle">ം</text>
   <g transform="translate(595 55) scale(1)">
     <g data-symbol="sign-ah">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M32 75 C32 42 76 42 76 75 C76 108 32 108 32 75" data-part="anusvara circle" transform="translate(0 -25) scale(0.75)" data-movement="1" />
         <path d="M32 75 C32 42 76 42 76 75 C76 108 32 108 32 75" data-part="anusvara circle" transform="translate(0 55) scale(0.75)" data-movement="2" />
       </g>

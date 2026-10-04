@@ -2,7 +2,7 @@
   <title id="double-ka-title">ക്ക — writing diagram</title>
   <desc id="double-ka-description">Redrawn from Moag, PDF page 44. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="double-ka">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M91 65 V42 C91 9 146 9 146 42 V65" data-part="top arch" data-movement="1" />
       <path d="M146 65 V104 C146 139 91 139 91 104" data-part="right bowl return" data-movement="2" />
       <path d="M91 65 V104 C91 139 37 139 37 104 C24 69 46 65 65 65" data-part="left bowl and arch" data-movement="3" />

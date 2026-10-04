@@ -2,7 +2,7 @@
   <title id="double-ya-title">യ്യ — writing diagram</title>
   <desc id="double-ya-description">Redrawn from Moag, PDF page 45. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="double-ya">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M69 23 C-7 14 -14 129 73 132" data-part="left bowl" data-movement="1" />
       <path d="M73 132 C152 132 155 24 120 23" data-part="middle loop up" data-movement="2" />
       <path d="M120 23 C75 21 48 118 143 132" data-part="middle loop down" data-movement="3" />

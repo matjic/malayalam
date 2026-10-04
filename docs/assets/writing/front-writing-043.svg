@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 1420" role="img" aria-label="Malayalam writing symbols, Moag PDF page 43">
   <g transform="translate(89.8485 90.7576) scale(0.893939)">
     <g data-symbol="chillu-l">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M41 131 C-5 105 1 26 60 26 C98 26 120 65 115 94" data-part="left arch" data-movement="1" />
         <path d="M115 94 C108 141 59 142 56 92" data-part="central loop down" data-movement="2" />
         <path d="M56 92 C51 52 89 17 130 26 C164 32 181 53 181 85" data-part="central loop up and right arch" data-movement="3" />
@@ -59,7 +59,7 @@
   <text x="215.0" y="343" font-size="22" text-anchor="middle">ല → ൽ</text>
   <g transform="translate(518.242 91.875) scale(0.921875)">
     <g data-symbol="chillu-ll">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M40 35 C-8 55 9 140 66 135 C110 132 113 103 113 80" data-part="left bowl" data-movement="1" />
         <path d="M113 80 V69 C113 16 211 21 227 76" data-part="middle ascent and right arch" data-movement="2" />
         <path d="M227 76 C247 128 209 155 178 132" data-part="right loop down" data-movement="3" />
@@ -103,7 +103,7 @@
   <text x="645.0" y="343" font-size="22" text-anchor="middle">ള → ൾ</text>
   <g transform="translate(92.0833 410) scale(0.983333)">
     <g data-symbol="bare-ka">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M91 65 V42 C91 9 146 9 146 42 V65" data-part="top arch" transform="translate(0 0) scale(1)" />
         <path d="M146 65 V104 C146 139 91 139 91 104" data-part="right bowl return" transform="translate(0 0) scale(1)" />
         <path d="M91 104 V65" data-part="middle ascent" transform="translate(0 0) scale(1)" />
@@ -126,7 +126,7 @@
   <text x="215.0" y="698" font-size="22" text-anchor="middle">ക്</text>
   <g transform="translate(522.083 410) scale(0.983333)">
     <g data-symbol="bare-cha">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M51 100 C23 85 34 53 66 60 C87 64 103 77 104 92" data-part="upper curl" transform="translate(0 0) scale(1)" />
         <path d="M104 92 C110 116 77 129 23 129" data-part="curl and leftward baseline" transform="translate(0 0) scale(1)" />
         <path d="M23 129 H219" data-part="baseline" transform="translate(0 0) scale(1)" />
@@ -146,7 +146,7 @@
   <text x="645.0" y="698" font-size="22" text-anchor="middle">ച്</text>
   <g transform="translate(136.333 765) scale(0.983333)">
     <g data-symbol="bare-tta">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M131 43 C98 1 25 11 25 56 C25 76 48 80 76 80" data-part="upper curl" transform="translate(0 0) scale(1)" />
         <path d="M76 80 C139 77 153 137 88 137 C57 137 36 130 27 115" data-part="lower curl" transform="translate(0 0) scale(1)" />
         <path d="M12 4 C22 31 48 31 58 4" data-part="virama" transform="translate(80 -24) scale(1)" />
@@ -164,7 +164,7 @@
   <text x="215.0" y="1053" font-size="22" text-anchor="middle">ട്</text>
   <g transform="translate(527 765) scale(0.983333)">
     <g data-symbol="bare-tha">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M41 131 C-5 105 1 26 60 26 C98 26 120 65 115 94" data-part="left arch" transform="translate(0 0) scale(1)" />
         <path d="M115 94 C108 141 59 142 56 92" data-part="central loop down" transform="translate(0 0) scale(1)" />
         <path d="M56 92 C51 52 89 17 130 26 C164 32 181 53 181 85" data-part="central loop up and right arch" transform="translate(0 0) scale(1)" />
@@ -184,7 +184,7 @@
   <text x="645.0" y="1053" font-size="22" text-anchor="middle">ത്</text>
   <g transform="translate(87.1667 1120) scale(0.983333)">
     <g data-symbol="bare-pa">
-      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
         <path d="M43 130 C9 112 20 70 55 71 C94 72 106 104 86 127" data-part="left curl" transform="translate(0 0) scale(1)" />
         <path d="M86 127 H222" data-part="baseline" transform="translate(0 0) scale(1)" />
         <path d="M222 127 V20" data-part="right ascent" transform="translate(0 0) scale(1)" />

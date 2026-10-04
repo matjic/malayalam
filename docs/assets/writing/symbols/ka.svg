@@ -2,7 +2,7 @@
   <title id="ka-title">ക — writing diagram</title>
   <desc id="ka-description">Redrawn from Moag, PDF page 35. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="ka">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M91 65 V42 C91 9 146 9 146 42 V65" data-part="top arch" data-movement="1" />
       <path d="M146 65 V104 C146 139 91 139 91 104" data-part="right bowl return" data-movement="2" />
       <path d="M91 104 V65" data-part="middle ascent" data-movement="3" />

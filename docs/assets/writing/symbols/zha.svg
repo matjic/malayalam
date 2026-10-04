@@ -2,7 +2,7 @@
   <title id="zha-title">ഴ — writing diagram</title>
   <desc id="zha-description">Redrawn from Moag, PDF page 41. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="zha">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M40 25 C-8 50 7 99 75 99 H113" data-part="left bowl" data-movement="1" />
       <path d="M113 99 C152 92 149 23 102 23 C53 23 62 98 113 99" data-part="upper loop" data-movement="2" />
       <path d="M113 99 C163 166 69 175 50 142" data-part="lower bowl" data-movement="3" />

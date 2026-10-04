@@ -2,7 +2,7 @@
   <title id="va-title">വ — writing diagram</title>
   <desc id="va-description">Redrawn from Moag, PDF page 40. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="va">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M44 133 C-7 106 6 24 65 24 C107 24 139 85 104 131" data-part="left curl" data-movement="1" />
       <path d="M104 131 H210" data-part="baseline" data-movement="2" />
       <path d="M210 131 V22" data-part="right ascent" data-movement="3" />

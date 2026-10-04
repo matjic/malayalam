@@ -27,9 +27,9 @@ def draw(parent, key):
     shape = SHAPES[key]
     group = tag(parent, 'g', {'data-symbol': key})
     ink = tag(group, 'g', {'class': 'writing-ink', 'fill': 'none',
-                         'stroke': 'currentColor', 'stroke-width': '8',
+                         'stroke': 'currentColor', 'stroke-width': '4',
                          'stroke-linecap': 'round', 'stroke-linejoin': 'round',
-                         'style': 'stroke-width:var(--writing-stroke-width,8)'})
+                         'style': 'stroke-width:var(--writing-stroke-width,4)'})
     guides = tag(group, 'g', {'class': 'writing-guides', 'fill': 'none',
                             'stroke': '#557467', 'stroke-width': '1.6',
                             'stroke-linecap': 'round', 'stroke-linejoin': 'round',

@@ -2,7 +2,7 @@
   <title id="vowel-aa-title">ആ — writing diagram</title>
   <desc id="vowel-aa-description">Redrawn from Moag, PDF page 27. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="vowel-aa">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M40 125 C-8 100 1 32 64 32" data-part="left arch" data-movement="1" />
       <path d="M64 32 C109 32 114 75 76 76" data-part="upper inner bowl" data-movement="2" />
       <path d="M76 76 C120 79 109 133 74 125" data-part="lower inner bowl" data-movement="3" />

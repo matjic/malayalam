@@ -2,7 +2,7 @@
   <title id="vowel-r-title">ഋ — writing diagram</title>
   <desc id="vowel-r-description">Redrawn from Moag, PDF page 28. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="vowel-r">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M33 42 C33 10 77 10 77 42 C77 72 33 72 33 42" data-part="left loop" data-movement="1" />
       <path d="M33 42 V82 C33 103 49 111 71 111" data-part="left descent" data-movement="2" />
       <path d="M71 111 C145 111 161 159 113 169 C70 179 32 163 43 139 C52 121 80 111 112 111" data-part="lower oval" data-movement="3" />

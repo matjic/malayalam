@@ -2,7 +2,7 @@
   <title id="ma-title">മ — writing diagram</title>
   <desc id="ma-description">Redrawn from Moag, PDF page 39. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="ma">
-    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,4)">
       <path d="M31 134 V63 C31 34 46 25 79 25" data-part="left arch" data-movement="1" />
       <path d="M79 25 C128 25 152 35 152 70 V134" data-part="right arch" data-movement="2" />
       <path d="M152 134 H31" data-part="baseline" data-movement="3" />

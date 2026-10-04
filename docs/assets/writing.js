@@ -1,36 +1,8 @@
 /* Inline local writing models so strokes, guides, and labels inherit CSS. */
 (function () {
   const cache = new Map();
-  const preferences = { guides: true, weight: '8', size: '17' };
   window.$docsify.plugins = (window.$docsify.plugins || []).concat(function (hook) {
     hook.doneEach(function () {
-      const section = document.querySelector('.markdown-section');
-      const firstGrid = section.querySelector('.writing-grid');
-      if (firstGrid && !section.querySelector('.writing-controls')) {
-        const controls = document.createElement('fieldset');
-        controls.className = 'writing-controls';
-        controls.innerHTML = '<legend>Writing diagrams</legend>' +
-          '<label><input type="checkbox" data-writing-guides> Show numbers and arrows</label>' +
-          '<label>Line weight <input type="range" min="4" max="12" step="1" data-writing-weight></label>' +
-          '<label>Diagram size <input type="range" min="13" max="24" step="1" data-writing-size></label>';
-        firstGrid.before(controls);
-        const guides = controls.querySelector('[data-writing-guides]');
-        const weight = controls.querySelector('[data-writing-weight]');
-        const size = controls.querySelector('[data-writing-size]');
-        guides.checked = preferences.guides;
-        weight.value = preferences.weight;
-        size.value = preferences.size;
-        function update() {
-          preferences.guides = guides.checked;
-          preferences.weight = weight.value;
-          preferences.size = size.value;
-          section.classList.toggle('writing-hide-guides', !preferences.guides);
-          section.style.setProperty('--writing-stroke-width', preferences.weight);
-          section.style.setProperty('--writing-card-size', preferences.size + 'rem');
-        }
-        controls.addEventListener('input', update);
-        update();
-      }
       document.querySelectorAll('.markdown-section img').forEach(async function (img) {
         const url = new URL(img.src, location.href);
         if (url.origin !== location.origin ||
