@@ -5,7 +5,7 @@
 
 Use the letter links to browse, or search for a Malayalam word or English meaning. Linked lesson numbers open that lesson’s vocabulary.
 
-Note: The lesson numbers identify where entries are introduced in the source vocabulary lists; they are not a complete record of first use in examples or exercises.
+Note: The lesson numbers identify where entries are introduced in the source vocabulary lists; they are not a complete record of first use in examples or exercises. A blank lesson cell means the source did not specify a lesson.
 
 > **Editorial note:** Obvious source errors in definitions have been corrected, including ആര് (“who”), പേര് (“name”), അവൾ and അവൾക്ക് (familiar feminine forms), മേടിക്കുക (“to buy, obtain”), പ്രകൃതിസുന്ദരം (“naturally beautiful”), and വരുകയില്ലായിരിക്കും (“probably won’t be coming”). An entry for അവർ has been supplied from Lesson 1. Source editor queries remain labeled below where the intended entry is uncertain.
 
@@ -281,7 +281,7 @@ Jump to a letter:
 | എന്തുണ്ട് | [4](lesson4.md#lesson4-vocabulary) | what do (they) have? |
 | എന്തൊക്കെ | [3](lesson3.md#lesson3-vocabulary) | what all |
 | എന്ന് | [2](lesson2.md#lesson2-vocabulary) | on which day |
-| എന്ന് | 1, 12 | a quotative or citation marker after the word, sentence, etc. cited |
+| എന്ന് | [1](lesson1.md#lesson1-vocabulary), [12](lesson12.md#lesson12-vocabulary) | a quotative or citation marker after the word, sentence, etc. cited |
 | എന്നാൽ | [5](lesson5.md#lesson5-vocabulary) | but, then, in that case |
 | എന്നാലും | [11](lesson11.md#lesson11-vocabulary) | anyway, even though, still |
 | എന്നിവ | [25](lesson25.md#lesson25-vocabulary) | et cetera |
