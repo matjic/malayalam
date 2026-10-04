@@ -1,6 +1,6 @@
 <!-- Source: PDF page 103; printed page 53. -->
 <a id="lesson5"></a><!-- reading-anchor -->
-# Lesson 5: Going to the Movies
+# Lesson 5: Present Tense and Infinitives
 
 <a id="lesson5-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
@@ -378,6 +378,6 @@ Note the dative ending -ക്ക് also has the hint of [y] when spoken. A few
 
 ---
 
-[← Previous: Lesson 4: At the Tea Shop](lesson4.md) · [Contents](contents.md) · [Next: Lesson 6: Asking for Directions →](lesson6.md)
+[← Previous: Lesson 4: Wants, Likes, and the Dative Case](lesson4.md) · [Contents](contents.md) · [Next: Lesson 6: Possessives, Postpositions, and Ability →](lesson6.md)
 
 <!-- /reading-navigation -->

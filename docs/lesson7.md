@@ -1,5 +1,5 @@
 <a id="lesson7"></a><!-- reading-anchor -->
-# Lesson 7: Catching the Kollam Bus
+# Lesson 7: Future and Habitual Actions, Time, and “Let’s”
 
 <!-- Source: PDF page 136; printed page 86. -->
 
@@ -607,6 +607,6 @@ The usage of this Malayalam form generally parallels that of the “let's” for
 
 ---
 
-[← Previous: Lesson 6: Asking for Directions](lesson6.md) · [Contents](contents.md) · [Next: Lesson 8: Asking James for Help →](lesson8.md)
+[← Previous: Lesson 6: Possessives, Postpositions, and Ability](lesson6.md) · [Contents](contents.md) · [Next: Lesson 8: Accusative Case, Relative Clauses, and Obligation →](lesson8.md)
 
 <!-- /reading-navigation -->

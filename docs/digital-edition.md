@@ -2,7 +2,7 @@
 
 This edition adapts Rodney F. Moag’s *Malayalam: A University Course and Reference Grammar* for reading on the web and in reflowable documents. The [contents](contents.md) lists the chapters and sections in reading order. Each chapter ends with links to the previous chapter, the contents, and the next chapter.
 
-Descriptive lesson titles have been added for navigation. They summarize each lesson’s conversation or reading; the original lesson numbers and numbered grammar sections are retained.
+Descriptive lesson titles have been added for navigation. They highlight each lesson’s main learning goals; the original lesson numbers and numbered grammar sections are retained.
 
 ## Page Numbers and References
 

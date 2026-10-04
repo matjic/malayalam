@@ -1,5 +1,5 @@
 <a id="lesson19"></a><!-- reading-anchor -->
-# Lesson 19: An Argument at the Office
+# Lesson 19: Present Perfect, Repeated Actions, and Negation
 
 <!-- Source: PDF page 325; printed page 268. -->
 
@@ -582,6 +582,6 @@ This same construction may be used for commands. Note how the positive makes a n
 
 ---
 
-[← Previous: Lesson 18: Visiting Leela’s Home](lesson18.md) · [Contents](contents.md) · [Next: Lesson 20: Onam: The Story and the Celebrations →](lesson20.md)
+[← Previous: Lesson 18: Negative Participles, Commands, and Rhetorical Questions](lesson18.md) · [Contents](contents.md) · [Next: Lesson 20: Relative Clauses, Passive Voice, and Causatives →](lesson20.md)
 
 <!-- /reading-navigation -->

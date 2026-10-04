@@ -1,5 +1,5 @@
 <a id="lesson23"></a><!-- reading-anchor -->
-# Lesson 23: Planning a Tour of Kerala
+# Lesson 23: Negative Prefixes, Conditions, and Emphasis
 
 <!-- Source: PDF page 412; printed page 351. -->
 
@@ -425,6 +425,6 @@ The particle -ഏ may be added to certain verbforms to signify deferential compl
 
 ---
 
-[← Previous: Lesson 22: Rain, Farming, and Rising Prices](lesson22.md) · [Contents](contents.md) · [Next: Minilesson F →](minilesson-f.md)
+[← Previous: Lesson 22: Indefinite Pronouns, Adverbs, and Experience](lesson22.md) · [Contents](contents.md) · [Next: Minilesson F →](minilesson-f.md)
 
 <!-- /reading-navigation -->

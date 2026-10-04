@@ -1,5 +1,5 @@
 <a id="lesson11"></a><!-- reading-anchor -->
-# Lesson 11: Sending a Younger Brother to the Market
+# Lesson 11: Past Tense, Focus, and Completed Actions
 
 <!-- Source: PDF page 205; printed page 151. -->
 
@@ -594,6 +594,6 @@ A slightly different emphatic form is fairly frequently used in which the deside
 
 ---
 
-[← Previous: Lesson 10: The Geography of Kerala](lesson10.md) · [Contents](contents.md) · [Next: Minilesson B →](minilesson-b.md)
+[← Previous: Lesson 10: Place Names, Directions, and Formal Style](lesson10.md) · [Contents](contents.md) · [Next: Minilesson B →](minilesson-b.md)
 
 <!-- /reading-navigation -->

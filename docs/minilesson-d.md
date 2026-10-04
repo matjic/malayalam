@@ -74,6 +74,6 @@ Actions which are still going on are usually indicated by ഇപ്പോഴു�
 
 ---
 
-[← Previous: Lesson 15: A Meeting at the Bus Station](lesson15.md) · [Contents](contents.md) · [Next: Lesson 16: Newspapers in Kerala →](lesson16.md)
+[← Previous: Lesson 15: Verb Emphasis, Feelings, and Verbal Nouns](lesson15.md) · [Contents](contents.md) · [Next: Lesson 16: Subjectless Sentences and Limiting Expressions →](lesson16.md)
 
 <!-- /reading-navigation -->

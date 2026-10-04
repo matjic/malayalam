@@ -1,5 +1,5 @@
 <a id="lesson20"></a><!-- reading-anchor -->
-# Lesson 20: Onam: The Story and the Celebrations
+# Lesson 20: Relative Clauses, Passive Voice, and Causatives
 
 <!-- Source: PDF page 348; printed page 289. -->
 
@@ -584,6 +584,6 @@ Note that an involved string of causatives of the type permitted in English as, 
 
 ---
 
-[← Previous: Lesson 19: An Argument at the Office](lesson19.md) · [Contents](contents.md) · [Next: Lesson 21: Help with an English Lesson →](lesson21.md)
+[← Previous: Lesson 19: Present Perfect, Repeated Actions, and Negation](lesson19.md) · [Contents](contents.md) · [Next: Lesson 21: Time Clauses, Probability, and Progressive Aspect →](lesson21.md)
 
 <!-- /reading-navigation -->

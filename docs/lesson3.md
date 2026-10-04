@@ -1,6 +1,6 @@
 <!-- Source: PDF page 72; printed page 26. -->
 <a id="lesson3"></a><!-- reading-anchor -->
-# Lesson 3: Lending and Borrowing
+# Lesson 3: Existence, Possession, and Polite Commands
 
 <a id="lesson3-reference-list"></a><!-- reading-anchor -->
 ## Reference List
@@ -493,6 +493,6 @@ We have already seen in Lesson Two that -ഉം may occur attached to only one w
 
 ---
 
-[← Previous: Lesson 2: At Mr. Thomas’s Office](lesson2.md) · [Contents](contents.md) · [Next: Lesson 4: At the Tea Shop →](lesson4.md)
+[← Previous: Lesson 2: Location and Yes–No Questions](lesson2.md) · [Contents](contents.md) · [Next: Lesson 4: Wants, Likes, and the Dative Case →](lesson4.md)
 
 <!-- /reading-navigation -->

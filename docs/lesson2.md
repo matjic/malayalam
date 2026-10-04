@@ -1,6 +1,6 @@
 <!-- Source: PDF page 57; printed page 11. -->
 <a id="lesson2"></a><!-- reading-anchor -->
-# Lesson 2: At Mr. Thomas’s Office
+# Lesson 2: Location and Yes–No Questions
 
 <a id="lesson2-reference-list"></a><!-- reading-anchor -->
 ## Reference List
@@ -429,6 +429,6 @@ Under other conditions this ending also is used for “and.” (See [3.6](lesson
 
 ---
 
-[← Previous: Lesson 1: What Is Your Name?](lesson1.md) · [Contents](contents.md) · [Next: Lesson 3: Lending and Borrowing →](lesson3.md)
+[← Previous: Lesson 1: Introductions and Equative Sentences](lesson1.md) · [Contents](contents.md) · [Next: Lesson 3: Existence, Possession, and Polite Commands →](lesson3.md)
 
 <!-- /reading-navigation -->

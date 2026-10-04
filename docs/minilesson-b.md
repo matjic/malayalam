@@ -60,6 +60,6 @@
 
 ---
 
-[← Previous: Lesson 11: Sending a Younger Brother to the Market](lesson11.md) · [Contents](contents.md) · [Next: Lesson 12: Family Plans and Responsibilities →](lesson12.md)
+[← Previous: Lesson 11: Past Tense, Focus, and Completed Actions](lesson11.md) · [Contents](contents.md) · [Next: Lesson 12: Reported Speech, Permission, and Verbal Nouns →](lesson12.md)
 
 <!-- /reading-navigation -->

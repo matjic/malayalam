@@ -1,5 +1,5 @@
 <a id="lesson25"></a><!-- reading-anchor -->
-# Lesson 25: Kerala: Land, Life, and Culture
+# Lesson 25: Result Clauses, Titles, and Written Style
 
 <!-- Source: PDF page 459; printed page 396. -->
 

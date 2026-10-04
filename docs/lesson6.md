@@ -1,5 +1,5 @@
 <a id="lesson6"></a><!-- reading-anchor -->
-# Lesson 6: Asking for Directions
+# Lesson 6: Possessives, Postpositions, and Ability
 
 <!-- Source: PDF page 117; printed page 67. -->
 
@@ -617,6 +617,6 @@ As may be seen from the lesson’s conversation, the place words have their own 
 
 ---
 
-[← Previous: Lesson 5: Going to the Movies](lesson5.md) · [Contents](contents.md) · [Next: Lesson 7: Catching the Kollam Bus →](lesson7.md)
+[← Previous: Lesson 5: Present Tense and Infinitives](lesson5.md) · [Contents](contents.md) · [Next: Lesson 7: Future and Habitual Actions, Time, and “Let’s” →](lesson7.md)
 
 <!-- /reading-navigation -->

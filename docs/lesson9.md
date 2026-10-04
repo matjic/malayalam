@@ -1,5 +1,5 @@
 <a id="lesson9"></a><!-- reading-anchor -->
-# Lesson 9: Sharing Saris
+# Lesson 9: Adjectives, Pronouns, and Qualities
 
 <!-- Source: PDF page 177; printed page 127. -->
 
@@ -543,6 +543,6 @@ Captions:
 
 ---
 
-[← Previous: Minilesson A](minilesson-a.md) · [Contents](contents.md) · [Next: Lesson 10: The Geography of Kerala →](lesson10.md)
+[← Previous: Minilesson A](minilesson-a.md) · [Contents](contents.md) · [Next: Lesson 10: Place Names, Directions, and Formal Style →](lesson10.md)
 
 <!-- /reading-navigation -->

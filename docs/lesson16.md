@@ -1,5 +1,5 @@
 <a id="lesson16"></a><!-- reading-anchor -->
-# Lesson 16: Newspapers in Kerala
+# Lesson 16: Subjectless Sentences and Limiting Expressions
 
 <!-- Source: PDF page 282; printed page 228. -->
 

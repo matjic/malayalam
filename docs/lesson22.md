@@ -1,5 +1,5 @@
 <a id="lesson22"></a><!-- reading-anchor -->
-# Lesson 22: Rain, Farming, and Rising Prices
+# Lesson 22: Indefinite Pronouns, Adverbs, and Experience
 
 <!-- Source: PDF page 391; printed page 332. -->
 
@@ -553,6 +553,6 @@ To describe a past situation, ആയി becomes ആയിരുന്നു, whi
 
 ---
 
-[← Previous: Lesson 21: Help with an English Lesson](lesson21.md) · [Contents](contents.md) · [Next: Lesson 23: Planning a Tour of Kerala →](lesson23.md)
+[← Previous: Lesson 21: Time Clauses, Probability, and Progressive Aspect](lesson21.md) · [Contents](contents.md) · [Next: Lesson 23: Negative Prefixes, Conditions, and Emphasis →](lesson23.md)
 
 <!-- /reading-navigation -->

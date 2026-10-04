@@ -1,5 +1,5 @@
 <a id="lesson24"></a><!-- reading-anchor -->
-# Lesson 24: Discussing Marriage Customs
+# Lesson 24: Comparison, Ability, and Noun Phrases
 
 <!-- Source: PDF page 430; printed page 369. -->
 

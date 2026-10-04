@@ -1,5 +1,5 @@
 <a id="lesson12"></a><!-- reading-anchor -->
-# Lesson 12: Family Plans and Responsibilities
+# Lesson 12: Reported Speech, Permission, and Verbal Nouns
 
 <!-- Source: PDF page 225; printed page 171. -->
 
@@ -433,6 +433,6 @@ It may be seen from the examples above that the use of the dative subject focuse
 
 ---
 
-[← Previous: Minilesson B](minilesson-b.md) · [Contents](contents.md) · [Next: Lesson 13: Filling Out a Loan Application →](lesson13.md)
+[← Previous: Minilesson B](minilesson-b.md) · [Contents](contents.md) · [Next: Lesson 13: Stative Perfect and Linked Actions →](lesson13.md)
 
 <!-- /reading-navigation -->

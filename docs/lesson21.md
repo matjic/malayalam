@@ -1,5 +1,5 @@
 <a id="lesson21"></a><!-- reading-anchor -->
-# Lesson 21: Help with an English Lesson
+# Lesson 21: Time Clauses, Probability, and Progressive Aspect
 
 <!-- Source: PDF page 371; printed page 312. -->
 
@@ -593,6 +593,6 @@ Compound verbs are usually written as units. Note that the initial consonant of 
 
 ---
 
-[← Previous: Lesson 20: Onam: The Story and the Celebrations](lesson20.md) · [Contents](contents.md) · [Next: Lesson 22: Rain, Farming, and Rising Prices →](lesson22.md)
+[← Previous: Lesson 20: Relative Clauses, Passive Voice, and Causatives](lesson20.md) · [Contents](contents.md) · [Next: Lesson 22: Indefinite Pronouns, Adverbs, and Experience →](lesson22.md)
 
 <!-- /reading-navigation -->

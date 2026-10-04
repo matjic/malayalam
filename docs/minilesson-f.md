@@ -17,6 +17,6 @@ The idea of “with” in reference to a noun is often handled by the postpositi
 
 ---
 
-[← Previous: Lesson 23: Planning a Tour of Kerala](lesson23.md) · [Contents](contents.md) · [Next: Lesson 24: Discussing Marriage Customs →](lesson24.md)
+[← Previous: Lesson 23: Negative Prefixes, Conditions, and Emphasis](lesson23.md) · [Contents](contents.md) · [Next: Lesson 24: Comparison, Ability, and Noun Phrases →](lesson24.md)
 
 <!-- /reading-navigation -->

@@ -1,5 +1,5 @@
 <a id="lesson10"></a><!-- reading-anchor -->
-# Lesson 10: The Geography of Kerala
+# Lesson 10: Place Names, Directions, and Formal Style
 
 <!-- Source: PDF page 195; printed page 141. -->
 
@@ -352,6 +352,6 @@ Desiderative verbs on the other hand, change form when adding അത്. Just as
 
 ---
 
-[← Previous: Lesson 9: Sharing Saris](lesson9.md) · [Contents](contents.md) · [Next: Lesson 11: Sending a Younger Brother to the Market →](lesson11.md)
+[← Previous: Lesson 9: Adjectives, Pronouns, and Qualities](lesson9.md) · [Contents](contents.md) · [Next: Lesson 11: Past Tense, Focus, and Completed Actions →](lesson11.md)
 
 <!-- /reading-navigation -->
