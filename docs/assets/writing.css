@@ -1,0 +1,13 @@
+/* Override these properties in a theme or on an individual diagram. */
+.markdown-section .writing-table {
+  display: block;
+  width: 100%;
+  max-width: var(--writing-max-width, 48rem);
+  height: auto;
+  margin: 1.5rem auto;
+  color: var(--writing-ink, currentColor);
+  background: var(--writing-background, transparent);
+}
+@media print {
+  .markdown-section .writing-table { break-inside: avoid; }
+}
