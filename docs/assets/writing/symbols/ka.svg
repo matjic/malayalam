@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-55 -55 360 290" role="img" aria-labelledby="ka-title ka-description" data-source-page="35">
+  <title id="ka-title">ക — writing diagram</title>
+  <desc id="ka-description">Redrawn from Moag, PDF page 35. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
+  <g data-symbol="ka">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <path d="M91 65 V42 C91 9 146 9 146 42 V65" data-part="top arch" data-movement="1" />
+      <path d="M146 65 V104 C146 139 91 139 91 104" data-part="right bowl return" data-movement="2" />
+      <path d="M91 104 V65" data-part="middle ascent" data-movement="3" />
+      <path d="M91 65 V104 C91 139 37 139 37 104" data-part="left bowl return" data-movement="4" />
+      <path d="M37 104 C24 69 46 65 65 65" data-part="left arch" data-movement="5" />
+      <path d="M65 65 H188" data-part="crossbar" data-movement="6" />
+      <path d="M188 65 C226 65 232 101 211 124" data-part="right end" data-movement="7" />
+    </g>
+    <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">
+      <defs>
+        <marker id="ka-arrow" markerUnits="userSpaceOnUse" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="10" markerHeight="10" orient="auto">
+          <path d="M1 1 L8 5 L1 9" fill="none" stroke="#557467" stroke-width="1.6" style="stroke:var(--writing-guide-ink,#557467)" />
+        </marker>
+      </defs>
+      <g data-movement="1">
+        <path d="M80 57 V42 C80 -7 158 -7 158 42 V57" marker-end="url(#ka-arrow)" />
+      </g>
+      <g data-movement="2">
+        <path d="M158 80 V103 C158 152 92 154 84 128" marker-end="url(#ka-arrow)" />
+      </g>
+      <g data-movement="3">
+        <path d="M103 108 V76" marker-end="url(#ka-arrow)" />
+      </g>
+      <g data-movement="4">
+        <path d="M79 79 V103 C79 121 66 126 56 119" marker-end="url(#ka-arrow)" />
+      </g>
+      <g data-movement="5">
+        <path d="M26 126 C1 102 7 55 47 53" marker-end="url(#ka-arrow)" />
+      </g>
+      <g data-movement="6">
+        <path d="M71 53 H182" marker-end="url(#ka-arrow)" />
+      </g>
+      <g data-movement="7">
+        <path d="M215 53 C252 73 252 110 227 136" marker-end="url(#ka-arrow)" />
+      </g>
+    </g>
+    <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
+      <g data-movement="1">
+        <circle cx="143" cy="4" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="143" y="8">1</text>
+      </g>
+      <g data-movement="2">
+        <circle cx="129" cy="149" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="129" y="153">2</text>
+      </g>
+      <g data-movement="3">
+        <circle cx="114" cy="93" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="114" y="97">3</text>
+      </g>
+      <g data-movement="4">
+        <circle cx="68" cy="96" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="68" y="100">4</text>
+      </g>
+      <g data-movement="5">
+        <circle cx="9" cy="97" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="9" y="101">5</text>
+      </g>
+      <g data-movement="6">
+        <circle cx="175" cy="41" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="175" y="45">6</text>
+      </g>
+      <g data-movement="7">
+        <circle cx="249" cy="96" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="249" y="100">7</text>
+      </g>
+    </g>
+  </g>
+</svg>

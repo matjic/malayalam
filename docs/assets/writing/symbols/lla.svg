@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-55 -55 305 330" role="img" aria-labelledby="lla-title lla-description" data-source-page="41">
+  <title id="lla-title">ള — writing diagram</title>
+  <desc id="lla-description">Redrawn from Moag, PDF page 41. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
+  <g data-symbol="lla">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <path d="M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95" data-part="loop" data-movement="1" />
+      <path d="M40 95 C15 15 140 11 139 64 C139 78 128 81 111 81" data-part="upper arch and bowl" data-movement="2" />
+      <path d="M111 81 C159 82 169 141 108 153 H52" data-part="lower bowl and return" data-movement="3" />
+      <path d="M52 153 C13 153 13 185 52 185 H172" data-part="baseline turn" data-movement="4" />
+    </g>
+    <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">
+      <defs>
+        <marker id="lla-arrow" markerUnits="userSpaceOnUse" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="10" markerHeight="10" orient="auto">
+          <path d="M1 1 L8 5 L1 9" fill="none" stroke="#557467" stroke-width="1.6" style="stroke:var(--writing-guide-ink,#557467)" />
+        </marker>
+      </defs>
+      <g data-movement="1">
+        <path d="M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99" marker-end="url(#lla-arrow)" />
+      </g>
+      <g data-movement="2">
+        <path d="M24 87 C6 0 156 0 151 62 C151 74 146 81 138 87" marker-end="url(#lla-arrow)" />
+      </g>
+      <g data-movement="3">
+        <path d="M146 90 C187 126 159 163 92 164" marker-end="url(#lla-arrow)" />
+      </g>
+      <g data-movement="4">
+        <path d="M33 151 C0 157 5 200 64 200" marker-end="url(#lla-arrow)" />
+      </g>
+    </g>
+    <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
+      <g data-movement="1">
+        <circle cx="56" cy="96" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="56" y="100">1</text>
+      </g>
+      <g data-movement="2">
+        <circle cx="105" cy="14" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="105" y="18">2</text>
+      </g>
+      <g data-movement="3">
+        <circle cx="181" cy="127" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="181" y="131">3</text>
+      </g>
+      <g data-movement="4">
+        <circle cx="12" cy="180" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="12" y="184">4</text>
+      </g>
+    </g>
+  </g>
+</svg>

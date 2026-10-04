@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-55 -55 220 310" role="img" aria-labelledby="sign-u-title sign-u-description" data-source-page="31">
+  <title id="sign-u-title">ു — writing diagram</title>
+  <desc id="sign-u-description">Redrawn from Moag, PDF page 31. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
+  <g data-symbol="sign-u">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <path d="M32 25 C98 -5 65 70 65 118" data-part="curved descent" data-movement="1" />
+      <path d="M65 118 C29 118 34 162 65 162" data-part="lower loop left" data-movement="2" />
+      <path d="M65 162 C99 162 97 118 65 118" data-part="lower loop right" data-movement="3" />
+    </g>
+    <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">
+      <defs>
+        <marker id="sign-u-arrow" markerUnits="userSpaceOnUse" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="10" markerHeight="10" orient="auto">
+          <path d="M1 1 L8 5 L1 9" fill="none" stroke="#557467" stroke-width="1.6" style="stroke:var(--writing-guide-ink,#557467)" />
+        </marker>
+      </defs>
+      <g data-movement="1">
+        <path d="M40 12 C109 -8 79 77 78 108" marker-end="url(#sign-u-arrow)" />
+      </g>
+      <g data-movement="2">
+        <path d="M43 117 C20 135 23 172 54 175" marker-end="url(#sign-u-arrow)" />
+      </g>
+      <g data-movement="3">
+        <path d="M77 175 C109 157 108 135 94 118" marker-end="url(#sign-u-arrow)" />
+      </g>
+    </g>
+    <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
+      <g data-movement="1">
+        <circle cx="99" cy="69" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="99" y="73">1</text>
+      </g>
+      <g data-movement="2">
+        <circle cx="20" cy="145" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="20" y="149">2</text>
+      </g>
+      <g data-movement="3">
+        <circle cx="111" cy="146" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="111" y="150">3</text>
+      </g>
+    </g>
+  </g>
+</svg>

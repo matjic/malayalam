@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-55 -55 350 290" role="img" aria-labelledby="tha-title tha-description" data-source-page="38">
+  <title id="tha-title">ത — writing diagram</title>
+  <desc id="tha-description">Redrawn from Moag, PDF page 38. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
+  <g data-symbol="tha">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <path d="M41 131 C-5 105 1 26 60 26 C98 26 120 65 115 94" data-part="left arch" data-movement="1" />
+      <path d="M115 94 C108 141 59 142 56 92" data-part="central loop down" data-movement="2" />
+      <path d="M56 92 C51 52 89 17 130 26 C184 35 191 101 158 130" data-part="central loop up and right arch" data-movement="3" />
+      <path d="M158 130 C171 119 181 104 181 85" data-part="right descent" data-movement="4" />
+    </g>
+    <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">
+      <defs>
+        <marker id="tha-arrow" markerUnits="userSpaceOnUse" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="10" markerHeight="10" orient="auto">
+          <path d="M1 1 L8 5 L1 9" fill="none" stroke="#557467" stroke-width="1.6" style="stroke:var(--writing-guide-ink,#557467)" />
+        </marker>
+      </defs>
+      <g data-movement="1">
+        <path d="M25 130 C-23 85 -3 13 55 13" marker-end="url(#tha-arrow)" />
+      </g>
+      <g data-movement="2">
+        <path d="M105 49 C127 94 109 130 86 143" marker-end="url(#tha-arrow)" />
+      </g>
+      <g data-movement="3">
+        <path d="M45 119 C27 59 73 4 125 13" marker-end="url(#tha-arrow)" />
+      </g>
+      <g data-movement="4">
+        <path d="M183 30 C217 75 203 111 179 138" marker-end="url(#tha-arrow)" />
+      </g>
+    </g>
+    <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
+      <g data-movement="1">
+        <circle cx="0" cy="72" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="0" y="76">1</text>
+      </g>
+      <g data-movement="2">
+        <circle cx="121" cy="115" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="121" y="119">2</text>
+      </g>
+      <g data-movement="3">
+        <circle cx="76" cy="17" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="76" y="21">3</text>
+      </g>
+      <g data-movement="4">
+        <circle cx="208" cy="94" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="208" y="98">4</text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,560 @@
+[
+  {
+    "id": "vowel-a",
+    "symbol": "അ",
+    "sourcePage": 27,
+    "movements": 8
+  },
+  {
+    "id": "vowel-aa",
+    "symbol": "ആ",
+    "sourcePage": 27,
+    "movements": 9
+  },
+  {
+    "id": "vowel-i",
+    "symbol": "ഇ",
+    "sourcePage": 27,
+    "movements": 5
+  },
+  {
+    "id": "vowel-ii",
+    "symbol": "ഈ",
+    "sourcePage": 27,
+    "movements": 7
+  },
+  {
+    "id": "vowel-u",
+    "symbol": "ഉ",
+    "sourcePage": 27,
+    "movements": 3
+  },
+  {
+    "id": "vowel-uu",
+    "symbol": "ഊ",
+    "sourcePage": 27,
+    "movements": 5
+  },
+  {
+    "id": "vowel-r",
+    "symbol": "ഋ",
+    "sourcePage": 28,
+    "movements": 5
+  },
+  {
+    "id": "vowel-e",
+    "symbol": "എ",
+    "sourcePage": 28,
+    "movements": 6
+  },
+  {
+    "id": "vowel-ee",
+    "symbol": "ഏ",
+    "sourcePage": 28,
+    "movements": 7
+  },
+  {
+    "id": "vowel-ai",
+    "symbol": "ഐ",
+    "sourcePage": 28,
+    "movements": 8
+  },
+  {
+    "id": "vowel-o",
+    "symbol": "ഒ",
+    "sourcePage": 28,
+    "movements": 3
+  },
+  {
+    "id": "vowel-oo",
+    "symbol": "ഓ",
+    "sourcePage": 28,
+    "movements": 4
+  },
+  {
+    "id": "vowel-au",
+    "symbol": "ഔ",
+    "sourcePage": 29,
+    "movements": 5
+  },
+  {
+    "id": "vowel-am",
+    "symbol": "അം",
+    "sourcePage": 29,
+    "movements": 9
+  },
+  {
+    "id": "vowel-ah",
+    "symbol": "അഃ",
+    "sourcePage": 29,
+    "movements": 10
+  },
+  {
+    "id": "sign-aa",
+    "symbol": "ാ",
+    "sourcePage": 30,
+    "movements": 1
+  },
+  {
+    "id": "sign-i",
+    "symbol": "ി",
+    "sourcePage": 30,
+    "movements": 1
+  },
+  {
+    "id": "sign-ii",
+    "symbol": "ീ",
+    "sourcePage": 30,
+    "movements": 2
+  },
+  {
+    "id": "sign-u",
+    "symbol": "ു",
+    "sourcePage": 31,
+    "movements": 3
+  },
+  {
+    "id": "sign-uu",
+    "symbol": "ൂ",
+    "sourcePage": 31,
+    "movements": 4
+  },
+  {
+    "id": "sign-r",
+    "symbol": "ൃ",
+    "sourcePage": 31,
+    "movements": 2
+  },
+  {
+    "id": "sign-e",
+    "symbol": "െ",
+    "sourcePage": 32,
+    "movements": 2
+  },
+  {
+    "id": "sign-ee",
+    "symbol": "േ",
+    "sourcePage": 32,
+    "movements": 3
+  },
+  {
+    "id": "sign-ai",
+    "symbol": "ൈ",
+    "sourcePage": 32,
+    "movements": 4
+  },
+  {
+    "id": "sign-o",
+    "symbol": "ൊ",
+    "sourcePage": 33,
+    "movements": 3
+  },
+  {
+    "id": "sign-oo",
+    "symbol": "ോ",
+    "sourcePage": 33,
+    "movements": 4
+  },
+  {
+    "id": "sign-au",
+    "symbol": "ൗ",
+    "sourcePage": 33,
+    "movements": 2
+  },
+  {
+    "id": "sign-am",
+    "symbol": "ം",
+    "sourcePage": 34,
+    "movements": 1
+  },
+  {
+    "id": "sign-ah",
+    "symbol": "ഃ",
+    "sourcePage": 34,
+    "movements": 2
+  },
+  {
+    "id": "ka",
+    "symbol": "ക",
+    "sourcePage": 35,
+    "movements": 7
+  },
+  {
+    "id": "kha",
+    "symbol": "ഖ",
+    "sourcePage": 35,
+    "movements": 4
+  },
+  {
+    "id": "ga",
+    "symbol": "ഗ",
+    "sourcePage": 35,
+    "movements": 3
+  },
+  {
+    "id": "gha",
+    "symbol": "ഘ",
+    "sourcePage": 35,
+    "movements": 6
+  },
+  {
+    "id": "nga",
+    "symbol": "ങ",
+    "sourcePage": 35,
+    "movements": 5
+  },
+  {
+    "id": "cha",
+    "symbol": "ച",
+    "sourcePage": 36,
+    "movements": 4
+  },
+  {
+    "id": "chha",
+    "symbol": "ഛ",
+    "sourcePage": 36,
+    "movements": 5
+  },
+  {
+    "id": "ja",
+    "symbol": "ജ",
+    "sourcePage": 36,
+    "movements": 6
+  },
+  {
+    "id": "jha",
+    "symbol": "ഝ",
+    "sourcePage": 36,
+    "movements": 7
+  },
+  {
+    "id": "nya",
+    "symbol": "ഞ",
+    "sourcePage": 36,
+    "movements": 7
+  },
+  {
+    "id": "tta",
+    "symbol": "ട",
+    "sourcePage": 37,
+    "movements": 2
+  },
+  {
+    "id": "ttha",
+    "symbol": "ഠ",
+    "sourcePage": 37,
+    "movements": 1
+  },
+  {
+    "id": "dda",
+    "symbol": "ഡ",
+    "sourcePage": 37,
+    "movements": 5
+  },
+  {
+    "id": "ddha",
+    "symbol": "ഢ",
+    "sourcePage": 37,
+    "movements": 6
+  },
+  {
+    "id": "nna",
+    "symbol": "ണ",
+    "sourcePage": 37,
+    "movements": 7
+  },
+  {
+    "id": "tha",
+    "symbol": "ത",
+    "sourcePage": 38,
+    "movements": 4
+  },
+  {
+    "id": "thha",
+    "symbol": "ഥ",
+    "sourcePage": 38,
+    "movements": 3
+  },
+  {
+    "id": "da",
+    "symbol": "ദ",
+    "sourcePage": 38,
+    "movements": 3
+  },
+  {
+    "id": "dha",
+    "symbol": "ധ",
+    "sourcePage": 38,
+    "movements": 4
+  },
+  {
+    "id": "na",
+    "symbol": "ന",
+    "sourcePage": 38,
+    "movements": 4
+  },
+  {
+    "id": "pa",
+    "symbol": "പ",
+    "sourcePage": 39,
+    "movements": 3
+  },
+  {
+    "id": "pha",
+    "symbol": "ഫ",
+    "sourcePage": 39,
+    "movements": 3
+  },
+  {
+    "id": "ba",
+    "symbol": "ബ",
+    "sourcePage": 39,
+    "movements": 7
+  },
+  {
+    "id": "bha",
+    "symbol": "ഭ",
+    "sourcePage": 39,
+    "movements": 4
+  },
+  {
+    "id": "ma",
+    "symbol": "മ",
+    "sourcePage": 39,
+    "movements": 4
+  },
+  {
+    "id": "ya",
+    "symbol": "യ",
+    "sourcePage": 40,
+    "movements": 4
+  },
+  {
+    "id": "ra",
+    "symbol": "ര",
+    "sourcePage": 40,
+    "movements": 3
+  },
+  {
+    "id": "la",
+    "symbol": "ല",
+    "sourcePage": 40,
+    "movements": 5
+  },
+  {
+    "id": "va",
+    "symbol": "വ",
+    "sourcePage": 40,
+    "movements": 3
+  },
+  {
+    "id": "sha",
+    "symbol": "ശ",
+    "sourcePage": 40,
+    "movements": 4
+  },
+  {
+    "id": "ssa",
+    "symbol": "ഷ",
+    "sourcePage": 40,
+    "movements": 6
+  },
+  {
+    "id": "sa",
+    "symbol": "സ",
+    "sourcePage": 41,
+    "movements": 5
+  },
+  {
+    "id": "ha",
+    "symbol": "ഹ",
+    "sourcePage": 41,
+    "movements": 3
+  },
+  {
+    "id": "lla",
+    "symbol": "ള",
+    "sourcePage": 41,
+    "movements": 4
+  },
+  {
+    "id": "zha",
+    "symbol": "ഴ",
+    "sourcePage": 41,
+    "movements": 3
+  },
+  {
+    "id": "rra",
+    "symbol": "റ",
+    "sourcePage": 41,
+    "movements": 1
+  },
+  {
+    "id": "chillu-nn",
+    "symbol": "ൺ",
+    "sourcePage": 42,
+    "movements": 9
+  },
+  {
+    "id": "chillu-n",
+    "symbol": "ൻ",
+    "sourcePage": 42,
+    "movements": 6
+  },
+  {
+    "id": "chillu-r",
+    "symbol": "ർ",
+    "sourcePage": 42,
+    "movements": 4
+  },
+  {
+    "id": "chillu-l",
+    "symbol": "ൽ",
+    "sourcePage": 43,
+    "movements": 6
+  },
+  {
+    "id": "chillu-ll",
+    "symbol": "ൾ",
+    "sourcePage": 43,
+    "movements": 4
+  },
+  {
+    "id": "bare-ka",
+    "symbol": "ക്",
+    "sourcePage": 43,
+    "movements": 0
+  },
+  {
+    "id": "bare-cha",
+    "symbol": "ച്",
+    "sourcePage": 43,
+    "movements": 0
+  },
+  {
+    "id": "bare-tta",
+    "symbol": "ട്",
+    "sourcePage": 43,
+    "movements": 0
+  },
+  {
+    "id": "bare-tha",
+    "symbol": "ത്",
+    "sourcePage": 43,
+    "movements": 0
+  },
+  {
+    "id": "bare-pa",
+    "symbol": "പ്",
+    "sourcePage": 43,
+    "movements": 0
+  },
+  {
+    "id": "double-ka",
+    "symbol": "ക്ക",
+    "sourcePage": 44,
+    "movements": 6
+  },
+  {
+    "id": "double-nga",
+    "symbol": "ങ്ങ",
+    "sourcePage": 44,
+    "movements": 7
+  },
+  {
+    "id": "double-cha",
+    "symbol": "ച്ച",
+    "sourcePage": 44,
+    "movements": 7
+  },
+  {
+    "id": "double-tha",
+    "symbol": "ത്ത",
+    "sourcePage": 44,
+    "movements": 8
+  },
+  {
+    "id": "double-tta",
+    "symbol": "ട്ട",
+    "sourcePage": 44,
+    "movements": 3
+  },
+  {
+    "id": "double-nna",
+    "symbol": "ണ്ണ",
+    "sourcePage": 44,
+    "movements": 11
+  },
+  {
+    "id": "double-na",
+    "symbol": "ന്ന",
+    "sourcePage": 44,
+    "movements": 6
+  },
+  {
+    "id": "double-ba",
+    "symbol": "ബ്ബ",
+    "sourcePage": 44,
+    "movements": 7
+  },
+  {
+    "id": "double-ma",
+    "symbol": "മ്മ",
+    "sourcePage": 45,
+    "movements": 7
+  },
+  {
+    "id": "double-ya",
+    "symbol": "യ്യ",
+    "sourcePage": 45,
+    "movements": 7
+  },
+  {
+    "id": "double-la",
+    "symbol": "ല്ല",
+    "sourcePage": 45,
+    "movements": 7
+  },
+  {
+    "id": "double-va",
+    "symbol": "വ്വ",
+    "sourcePage": 45,
+    "movements": 6
+  },
+  {
+    "id": "double-pa",
+    "symbol": "പ്പ",
+    "sourcePage": 45,
+    "movements": 6
+  },
+  {
+    "id": "double-lla",
+    "symbol": "ള്ള",
+    "sourcePage": 45,
+    "movements": 8
+  },
+  {
+    "id": "join-ya",
+    "symbol": "ത്യ",
+    "sourcePage": 46,
+    "movements": 1
+  },
+  {
+    "id": "join-ra",
+    "symbol": "പ്ര",
+    "sourcePage": 46,
+    "movements": 1
+  },
+  {
+    "id": "join-la",
+    "symbol": "പ്ല",
+    "sourcePage": 46,
+    "movements": 3
+  },
+  {
+    "id": "join-va",
+    "symbol": "സ്വ",
+    "sourcePage": 46,
+    "movements": 2
+  }
+]

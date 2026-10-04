@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-55 -55 425 290" role="img" aria-labelledby="double-ma-title double-ma-description" data-source-page="45">
+  <title id="double-ma-title">മ്മ — writing diagram</title>
+  <desc id="double-ma-description">Redrawn from Moag, PDF page 45. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
+  <g data-symbol="double-ma">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <path d="M31 134 V63 C31 34 46 25 79 25" data-part="left arch" data-movement="1" />
+      <path d="M79 25 C128 25 152 35 152 70 V134" data-part="right arch" data-movement="2" />
+      <path d="M152 134 H31" data-part="baseline" data-movement="3" />
+      <path d="M53 134 C108 132 123 69 79 25" data-part="inner bowl" data-movement="4" />
+      <path d="M152 134 V63 C152 34 167 25 200 25 C249 25 273 35 273 70 V134" data-part="second arch" data-movement="5" />
+      <path d="M152 134 H31" data-part="baseline" transform="translate(121 0) scale(1)" data-movement="6" />
+      <path d="M53 134 C108 132 123 69 79 25" data-part="inner bowl" transform="translate(121 0) scale(1)" data-movement="7" />
+    </g>
+    <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">
+      <defs>
+        <marker id="double-ma-arrow" markerUnits="userSpaceOnUse" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="10" markerHeight="10" orient="auto">
+          <path d="M1 1 L8 5 L1 9" fill="none" stroke="#557467" stroke-width="1.6" style="stroke:var(--writing-guide-ink,#557467)" />
+        </marker>
+      </defs>
+      <g data-movement="1">
+        <path d="M18 125 V64 C18 25 40 11 67 11" marker-end="url(#double-ma-arrow)" />
+      </g>
+      <g data-movement="2">
+        <path d="M95 10 C152 10 167 33 167 70 V122" marker-end="url(#double-ma-arrow)" />
+      </g>
+      <g data-movement="3">
+        <path d="M140 149 H40" marker-end="url(#double-ma-arrow)" />
+      </g>
+      <g data-movement="4">
+        <path d="M51 122 C96 118 99 70 84 47" marker-end="url(#double-ma-arrow)" />
+      </g>
+      <g data-movement="5">
+        <path d="M140 122 V64 C140 -7 285 -4 285 70 V122" marker-end="url(#double-ma-arrow)" />
+      </g>
+      <g transform="translate(121 0) scale(1)" data-movement="6">
+        <path d="M140 149 H40" marker-end="url(#double-ma-arrow)" />
+      </g>
+      <g transform="translate(121 0) scale(1)" data-movement="7">
+        <path d="M51 122 C96 118 99 70 84 47" marker-end="url(#double-ma-arrow)" />
+      </g>
+    </g>
+    <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
+      <g data-movement="1">
+        <circle cx="11" cy="64" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="11" y="68">1</text>
+      </g>
+      <g data-movement="2">
+        <circle cx="170" cy="64" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="170" y="68">2</text>
+      </g>
+      <g data-movement="3">
+        <circle cx="86" cy="162" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="86" y="166">3</text>
+      </g>
+      <g data-movement="4">
+        <circle cx="99" cy="88" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="99" y="92">4</text>
+      </g>
+      <g data-movement="5">
+        <circle cx="287" cy="61" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="287" y="65">5</text>
+      </g>
+      <g transform="translate(121 0) scale(1)" data-movement="6">
+        <circle cx="86" cy="162" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="86" y="166">6</text>
+      </g>
+      <g transform="translate(121 0) scale(1)" data-movement="7">
+        <circle cx="99" cy="88" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="99" y="92">7</text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-55 -55 600 290" role="img" aria-labelledby="double-nna-title double-nna-description" data-source-page="44">
+  <title id="double-nna-title">ണ്ണ — writing diagram</title>
+  <desc id="double-nna-description">Redrawn from Moag, PDF page 44. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
+  <g data-symbol="double-nna">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <path d="M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95" data-part="loop" data-movement="1" />
+      <path d="M40 95 C12 15 118 7 121 48" data-part="left arch" data-movement="2" />
+      <path d="M121 48 V132" data-part="first stem" data-movement="3" />
+      <path d="M121 132 V48 C121 12 181 12 181 48" data-part="middle arch" data-movement="4" />
+      <path d="M181 48 V132" data-part="second stem" data-movement="5" />
+      <path d="M181 132 V48 C181 9 249 12 271 59" data-part="right arch" data-movement="6" />
+      <path d="M271 59 V133" data-part="third stem" data-movement="7" />
+      <path d="M271 133 V59 C271 9 380 12 380 78" data-part="third arch" data-movement="8" />
+      <path d="M380 78 C381 132 329 153 320 114" data-part="third loop return" data-movement="9" />
+      <path d="M320 114 C307 62 359 5 405 24" data-part="third loop ascent" data-movement="10" />
+      <path d="M405 24 C459 43 472 99 437 136" data-part="right descent" data-movement="11" />
+    </g>
+    <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">
+      <defs>
+        <marker id="double-nna-arrow" markerUnits="userSpaceOnUse" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="10" markerHeight="10" orient="auto">
+          <path d="M1 1 L8 5 L1 9" fill="none" stroke="#557467" stroke-width="1.6" style="stroke:var(--writing-guide-ink,#557467)" />
+        </marker>
+      </defs>
+      <g data-movement="1">
+        <path d="M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99" marker-end="url(#double-nna-arrow)" />
+      </g>
+      <g data-movement="2">
+        <path d="M24 87 C4 0 89 -9 109 14" marker-end="url(#double-nna-arrow)" />
+      </g>
+      <g data-movement="3">
+        <path d="M110 51 V123" marker-end="url(#double-nna-arrow)" />
+      </g>
+      <g data-movement="4">
+        <path d="M134 123 V52 C134 30 145 27 154 29" marker-end="url(#double-nna-arrow)" />
+      </g>
+      <g data-movement="5">
+        <path d="M169 51 V123" marker-end="url(#double-nna-arrow)" />
+      </g>
+      <g data-movement="6">
+        <path d="M194 123 V53 C194 30 209 25 222 29" marker-end="url(#double-nna-arrow)" />
+      </g>
+      <g data-movement="7">
+        <path d="M258 61 V124" marker-end="url(#double-nna-arrow)" />
+      </g>
+      <g data-movement="8">
+        <path d="M285 122 V60 C285 34 308 29 322 30" marker-end="url(#double-nna-arrow)" />
+      </g>
+      <g data-movement="9">
+        <path d="M367 58 C395 99 373 143 351 153" marker-end="url(#double-nna-arrow)" />
+      </g>
+      <g data-movement="10">
+        <path d="M305 122 C280 54 346 -6 384 8" marker-end="url(#double-nna-arrow)" />
+      </g>
+      <g data-movement="11">
+        <path d="M420 9 C490 32 500 108 460 147" marker-end="url(#double-nna-arrow)" />
+      </g>
+    </g>
+    <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
+      <g data-movement="1">
+        <circle cx="56" cy="96" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="56" y="100">1</text>
+      </g>
+      <g data-movement="2">
+        <circle cx="67" cy="3" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="67" y="7">2</text>
+      </g>
+      <g data-movement="3">
+        <circle cx="99" cy="91" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="99" y="95">3</text>
+      </g>
+      <g data-movement="4">
+        <circle cx="142" cy="68" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="142" y="72">4</text>
+      </g>
+      <g data-movement="5">
+        <circle cx="159" cy="91" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="159" y="95">5</text>
+      </g>
+      <g data-movement="6">
+        <circle cx="204" cy="68" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="204" y="72">6</text>
+      </g>
+      <g data-movement="7">
+        <circle cx="247" cy="96" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="247" y="100">7</text>
+      </g>
+      <g data-movement="8">
+        <circle cx="299" cy="66" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="299" y="70">8</text>
+      </g>
+      <g data-movement="9">
+        <circle cx="390" cy="108" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="390" y="112">9</text>
+      </g>
+      <g data-movement="10">
+        <circle cx="323" cy="52" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="323" y="56">10</text>
+      </g>
+      <g data-movement="11">
+        <circle cx="490" cy="81" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="490" y="85">11</text>
+      </g>
+    </g>
+  </g>
+</svg>

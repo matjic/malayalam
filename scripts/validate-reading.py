@@ -45,7 +45,9 @@ def main():
         repeated = [key for key, count in Counter(pages).items() if count > 1]
         errors.append(f'Source pages must occur exactly once: missing={missing}, repeated={repeated}')
     for path, text in texts.items():
-        for target in re.findall(r'\]\(([^)]+)\)', text):
+        targets = re.findall(r'\]\(([^)]+)\)', text)
+        targets += re.findall(r'<(?:img|a)\b[^>]*\b(?:src|href)="([^"]+)"', text)
+        for target in targets:
             if re.match(r'(?:https?:|mailto:|data:|//)', target):
                 continue
             links += 1

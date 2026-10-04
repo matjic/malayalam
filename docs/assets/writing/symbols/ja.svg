@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-55 -55 330 290" role="img" aria-labelledby="ja-title ja-description" data-source-page="36">
+  <title id="ja-title">ജ — writing diagram</title>
+  <desc id="ja-description">Redrawn from Moag, PDF page 36. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
+  <g data-symbol="ja">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <path d="M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95" data-part="loop" transform="translate(0 -52) scale(0.8)" data-movement="1" />
+      <path d="M32 24 C14 -6 101 -7 101 23 V53" data-part="left arch" data-movement="2" />
+      <path d="M101 53 V23 C101 -6 171 -8 171 24 C171 36 163 41 142 47" data-part="right arch" data-movement="3" />
+      <path d="M142 47 L44 82 C-1 97 34 124 61 111" data-part="diagonal return" data-movement="4" />
+      <path d="M61 111 L141 77 C155 70 174 72 174 89" data-part="lower diagonal" data-movement="5" />
+      <path d="M174 89 C174 112 142 112 142 89 C142 65 174 65 174 89" data-part="right loop" data-movement="6" />
+    </g>
+    <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">
+      <defs>
+        <marker id="ja-arrow" markerUnits="userSpaceOnUse" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="10" markerHeight="10" orient="auto">
+          <path d="M1 1 L8 5 L1 9" fill="none" stroke="#557467" stroke-width="1.6" style="stroke:var(--writing-guide-ink,#557467)" />
+        </marker>
+      </defs>
+      <g transform="translate(0 -52) scale(0.8)" data-movement="1">
+        <path d="M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99" marker-end="url(#ja-arrow)" />
+      </g>
+      <g data-movement="2">
+        <path d="M20 26 C7 -18 72 -22 91 -4" marker-end="url(#ja-arrow)" />
+      </g>
+      <g data-movement="3">
+        <path d="M113 46 V23 C113 4 155 6 158 21" marker-end="url(#ja-arrow)" />
+      </g>
+      <g data-movement="4">
+        <path d="M148 59 L41 95 C17 106 26 126 46 126" marker-end="url(#ja-arrow)" />
+      </g>
+      <g data-movement="5">
+        <path d="M58 99 L140 65 C151 59 167 58 178 62" marker-end="url(#ja-arrow)" />
+      </g>
+      <g data-movement="6">
+        <path d="M187 84 C199 119 140 138 128 103" marker-end="url(#ja-arrow)" />
+      </g>
+    </g>
+    <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
+      <g transform="translate(0 -52) scale(0.8)" data-movement="1">
+        <circle cx="56" cy="96" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="56" y="100">1</text>
+      </g>
+      <g data-movement="2">
+        <circle cx="54" cy="-16" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="54" y="-12">2</text>
+      </g>
+      <g data-movement="3">
+        <circle cx="142" cy="9" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="142" y="13">3</text>
+      </g>
+      <g data-movement="4">
+        <circle cx="15" cy="106" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="15" y="110">4</text>
+      </g>
+      <g data-movement="5">
+        <circle cx="107" cy="76" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="107" y="80">5</text>
+      </g>
+      <g data-movement="6">
+        <circle cx="178" cy="123" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="178" y="127">6</text>
+      </g>
+    </g>
+  </g>
+</svg>

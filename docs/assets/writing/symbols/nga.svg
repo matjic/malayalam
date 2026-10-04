@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-55 -55 355 290" role="img" aria-labelledby="nga-title nga-description" data-source-page="35">
+  <title id="nga-title">ങ — writing diagram</title>
+  <desc id="nga-description">Redrawn from Moag, PDF page 35. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
+  <g data-symbol="nga">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <path d="M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95" data-part="loop" data-movement="1" />
+      <path d="M40 95 C12 12 127 3 127 52" data-part="left arch" data-movement="2" />
+      <path d="M127 52 V134" data-part="middle descent" data-movement="3" />
+      <path d="M127 134 V52 C127 11 217 4 217 54 C217 74 198 75 172 75" data-part="upper right bowl" data-movement="4" />
+      <path d="M172 75 C232 73 231 135 180 135 H172" data-part="lower right bowl" data-movement="5" />
+    </g>
+    <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">
+      <defs>
+        <marker id="nga-arrow" markerUnits="userSpaceOnUse" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="10" markerHeight="10" orient="auto">
+          <path d="M1 1 L8 5 L1 9" fill="none" stroke="#557467" stroke-width="1.6" style="stroke:var(--writing-guide-ink,#557467)" />
+        </marker>
+      </defs>
+      <g data-movement="1">
+        <path d="M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99" marker-end="url(#nga-arrow)" />
+      </g>
+      <g data-movement="2">
+        <path d="M22 84 C5 -1 89 -10 117 16" marker-end="url(#nga-arrow)" />
+      </g>
+      <g data-movement="3">
+        <path d="M115 54 V126" marker-end="url(#nga-arrow)" />
+      </g>
+      <g data-movement="4">
+        <path d="M140 125 V52 C140 26 200 17 204 51 C205 61 199 62 188 63" marker-end="url(#nga-arrow)" />
+      </g>
+      <g data-movement="5">
+        <path d="M185 87 C215 87 213 123 184 123" marker-end="url(#nga-arrow)" />
+      </g>
+    </g>
+    <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
+      <g data-movement="1">
+        <circle cx="56" cy="96" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="56" y="100">1</text>
+      </g>
+      <g data-movement="2">
+        <circle cx="79" cy="1" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="79" y="5">2</text>
+      </g>
+      <g data-movement="3">
+        <circle cx="105" cy="95" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="105" y="99">3</text>
+      </g>
+      <g data-movement="4">
+        <circle cx="162" cy="47" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="162" y="51">4</text>
+      </g>
+      <g data-movement="5">
+        <circle cx="204" cy="105" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="204" y="109">5</text>
+      </g>
+    </g>
+  </g>
+</svg>

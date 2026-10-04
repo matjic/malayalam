@@ -11,11 +11,18 @@ section anchors, chapter navigation, contents, and the sidebar.
 Run `bun run docs:check-navigation` and `bun run docs:check-reading` to validate
 reading navigation, links, source-page coverage, and Markdown structure.
 
-The symbols chapter uses standalone SVG writing tables, preserving the original
-handwriting, stroke numbers, and arrows as vector paths. Rebuild them with
-`python3 scripts/vectorize-writing-tables.py` (requires ImageMagick and Potrace).
-The JPEGs remain archival inputs and are not loaded by that chapter.
-`docs/assets/writing.css` controls size, ink, and background through
-`--writing-max-width`, `--writing-ink`, and `--writing-background`. The Docsify
-plugin inlines the SVGs to inherit theme colors; ordinary SVG images remain the
-fallback. These are traced outlines, not separate animated pen strokes.
+The symbols chapter uses 93 individually redrawn SVG models in responsive cards.
+Edit centerlines, guide curves, and number positions in `scripts/writing_shapes.py`;
+run `python3 scripts/build-writing-symbols.py` to regenerate SVGs and chapter grids,
+or add `--check` to verify generated files. This build only needs Python's standard
+library. The JPEG scans are archival references and are not loaded by the chapter.
+
+Each SVG separates `.writing-ink`, `.writing-guides`, and `.writing-labels`.
+Ink paths have named `data-part` attributes and numbered `data-movement`
+attributes where the source supplies writing directions. These numbered movements
+can be parts of a continuous stroke; they do not imply separate pen lifts.
+The chapter controls toggle guides and adjust line weight and card size.
+`docs/assets/writing.css` also exposes `--writing-ink`, `--writing-guide-ink`,
+`--writing-background`, `--writing-stroke-width`, and `--writing-card-size`.
+The Docsify plugin inlines the SVGs to inherit styling; standalone images remain
+the fallback. The original table URLs now assemble the same redrawn models.

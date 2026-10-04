@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-55 -55 245 290" role="img" aria-labelledby="sign-au-title sign-au-description" data-source-page="33">
+  <title id="sign-au-title">ൗ — writing diagram</title>
+  <desc id="sign-au-description">Redrawn from Moag, PDF page 33. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
+  <g data-symbol="sign-au">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <path d="M20 85 V52 C20 24 54 24 54 52 V85" data-part="first arch" data-movement="1" />
+      <path d="M54 52 C54 24 88 24 88 52 V110 C88 138 42 138 42 110" data-part="second arch and bowl" data-movement="2" />
+    </g>
+    <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">
+      <defs>
+        <marker id="sign-au-arrow" markerUnits="userSpaceOnUse" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="10" markerHeight="10" orient="auto">
+          <path d="M1 1 L8 5 L1 9" fill="none" stroke="#557467" stroke-width="1.6" style="stroke:var(--writing-guide-ink,#557467)" />
+        </marker>
+      </defs>
+      <g data-movement="1">
+        <path d="M28 78 V52 C28 34 46 34 46 52 V78" marker-end="url(#sign-au-arrow)" />
+      </g>
+      <g data-movement="2">
+        <path d="M62 78 V52 C62 34 80 34 80 52 V108 C80 128 53 130 51 116" marker-end="url(#sign-au-arrow)" />
+      </g>
+    </g>
+    <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
+      <g data-movement="1">
+        <circle cx="37" cy="58" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="37" y="62">1</text>
+      </g>
+      <g data-movement="2">
+        <circle cx="72" cy="94" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="72" y="98">2</text>
+      </g>
+    </g>
+  </g>
+</svg>

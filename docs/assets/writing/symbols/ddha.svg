@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-55 -55 390 290" role="img" aria-labelledby="ddha-title ddha-description" data-source-page="37">
+  <title id="ddha-title">ഢ — writing diagram</title>
+  <desc id="ddha-description">Redrawn from Moag, PDF page 37. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
+  <g data-symbol="ddha">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <path d="M40 132 C-9 104 8 21 58 24 C84 25 97 43 97 74" data-part="left arch" data-movement="1" />
+      <path d="M97 74 V106 C97 142 151 142 151 106" data-part="left descent" data-movement="2" />
+      <path d="M151 106 V24" data-part="middle ascent" data-movement="3" />
+      <path d="M151 24 V106 C151 142 205 142 213 112" data-part="right bowl" data-movement="4" />
+      <path d="M213 112 C241 89 241 26 211 24" data-part="right loop ascent" data-movement="5" />
+      <path d="M211 24 C177 24 179 69 211 69 C237 69 241 24 211 24" data-part="right loop" data-movement="6" />
+    </g>
+    <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">
+      <defs>
+        <marker id="ddha-arrow" markerUnits="userSpaceOnUse" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="10" markerHeight="10" orient="auto">
+          <path d="M1 1 L8 5 L1 9" fill="none" stroke="#557467" stroke-width="1.6" style="stroke:var(--writing-guide-ink,#557467)" />
+        </marker>
+      </defs>
+      <g data-movement="1">
+        <path d="M24 132 C-25 83 0 12 53 11" marker-end="url(#ddha-arrow)" />
+      </g>
+      <g data-movement="2">
+        <path d="M89 32 C114 39 108 83 108 99" marker-end="url(#ddha-arrow)" />
+      </g>
+      <g data-movement="3">
+        <path d="M139 112 V32" marker-end="url(#ddha-arrow)" />
+      </g>
+      <g data-movement="4">
+        <path d="M164 33 V91 C164 109 176 120 188 121" marker-end="url(#ddha-arrow)" />
+      </g>
+      <g data-movement="5">
+        <path d="M183 123 C209 127 228 101 228 86" marker-end="url(#ddha-arrow)" />
+      </g>
+      <g data-movement="6">
+        <path d="M221 35 C212 24 193 32 195 46 C196 57 215 60 218 52" marker-end="url(#ddha-arrow)" />
+      </g>
+    </g>
+    <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
+      <g data-movement="1">
+        <circle cx="0" cy="72" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="0" y="76">1</text>
+      </g>
+      <g data-movement="2">
+        <circle cx="112" cy="67" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="112" y="71">2</text>
+      </g>
+      <g data-movement="3">
+        <circle cx="128" cy="73" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="128" y="77">3</text>
+      </g>
+      <g data-movement="4">
+        <circle cx="174" cy="100" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="174" y="104">4</text>
+      </g>
+      <g data-movement="5">
+        <circle cx="219" cy="117" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="219" y="121">5</text>
+      </g>
+      <g data-movement="6">
+        <circle cx="209" cy="44" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="209" y="48">6</text>
+      </g>
+    </g>
+  </g>
+</svg>

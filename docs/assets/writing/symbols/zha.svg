@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-55 -55 300 320" role="img" aria-labelledby="zha-title zha-description" data-source-page="41">
+  <title id="zha-title">ഴ — writing diagram</title>
+  <desc id="zha-description">Redrawn from Moag, PDF page 41. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
+  <g data-symbol="zha">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <path d="M40 25 C-8 50 7 99 75 99 H113" data-part="left bowl" data-movement="1" />
+      <path d="M113 99 C152 92 149 23 102 23 C53 23 62 98 113 99" data-part="upper loop" data-movement="2" />
+      <path d="M113 99 C163 166 69 175 50 142" data-part="lower bowl" data-movement="3" />
+    </g>
+    <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">
+      <defs>
+        <marker id="zha-arrow" markerUnits="userSpaceOnUse" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="10" markerHeight="10" orient="auto">
+          <path d="M1 1 L8 5 L1 9" fill="none" stroke="#557467" stroke-width="1.6" style="stroke:var(--writing-guide-ink,#557467)" />
+        </marker>
+      </defs>
+      <g data-movement="1">
+        <path d="M22 28 C-32 73 4 114 86 114" marker-end="url(#zha-arrow)" />
+      </g>
+      <g data-movement="2">
+        <path d="M146 89 C185 7 54 -17 56 65" marker-end="url(#zha-arrow)" />
+      </g>
+      <g data-movement="3">
+        <path d="M126 117 C167 166 89 200 57 161" marker-end="url(#zha-arrow)" />
+      </g>
+    </g>
+    <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
+      <g data-movement="1">
+        <circle cx="0" cy="79" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="0" y="83">1</text>
+      </g>
+      <g data-movement="2">
+        <circle cx="94" cy="8" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="94" y="12">2</text>
+      </g>
+      <g data-movement="3">
+        <circle cx="155" cy="166" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="155" y="170">3</text>
+      </g>
+    </g>
+  </g>
+</svg>

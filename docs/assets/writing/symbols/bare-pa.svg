@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-55 -55 370 300" role="img" aria-labelledby="bare-pa-title bare-pa-description" data-source-page="43">
+  <title id="bare-pa-title">പ് — writing diagram</title>
+  <desc id="bare-pa-description">Redrawn from Moag, PDF page 43. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
+  <g data-symbol="bare-pa">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <path d="M43 130 C-10 100 16 41 54 46 C100 47 111 104 86 127" data-part="left curl" transform="translate(0 0) scale(1)" />
+      <path d="M86 127 H222" data-part="baseline" transform="translate(0 0) scale(1)" />
+      <path d="M222 127 V20" data-part="right ascent" transform="translate(0 0) scale(1)" />
+      <path d="M12 4 C22 31 48 31 58 4" data-part="virama" transform="translate(180 -24) scale(1)" />
+    </g>
+    <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">
+      <defs>
+        <marker id="bare-pa-arrow" markerUnits="userSpaceOnUse" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="10" markerHeight="10" orient="auto">
+          <path d="M1 1 L8 5 L1 9" fill="none" stroke="#557467" stroke-width="1.6" style="stroke:var(--writing-guide-ink,#557467)" />
+        </marker>
+      </defs>
+    </g>
+    <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)" />
+  </g>
+</svg>

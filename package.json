@@ -5,7 +5,9 @@
         "docs:check-sidebar": "python3 scripts/generate-sidebar.py --check",
         "docs:navigation": "python3 scripts/generate-reading-navigation.py && python3 scripts/generate-sidebar.py",
         "docs:check-navigation": "python3 scripts/generate-reading-navigation.py --check && python3 scripts/generate-sidebar.py --check",
-        "docs:check-reading": "python3 scripts/validate-reading.py"
+        "docs:check-reading": "python3 scripts/validate-reading.py",
+        "docs:writing": "python3 scripts/build-writing-symbols.py",
+        "docs:check-writing": "python3 scripts/build-writing-symbols.py --check && python3 scripts/validate-writing-symbols.py"
     },
     "dependencies": {
         "docsify-cli": "^4.4.3"

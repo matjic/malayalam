@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-55 -55 350 315" role="img" aria-labelledby="vowel-ee-title vowel-ee-description" data-source-page="28">
+  <title id="vowel-ee-title">ഏ — writing diagram</title>
+  <desc id="vowel-ee-description">Redrawn from Moag, PDF page 28. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
+  <g data-symbol="vowel-ee">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <path d="M35 113 C-14 87 6 24 48 35 C78 42 82 88 63 111" data-part="left curl" data-movement="1" />
+      <path d="M63 111 H166" data-part="crossbar" data-movement="2" />
+      <path d="M166 111 V40" data-part="central ascent" data-movement="3" />
+      <path d="M166 40 V143 C166 192 108 166 108 115" data-part="central descent and turn" data-movement="4" />
+      <path d="M108 115 C99 48 119 16 156 17 C192 17 216 52 218 103" data-part="large arch" data-movement="5" />
+      <path d="M218 103 C218 123 208 128 199 128" data-part="upper right bowl" data-movement="6" />
+      <path d="M199 128 C228 130 233 157 211 174" data-part="lower right bowl" data-movement="7" />
+    </g>
+    <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">
+      <defs>
+        <marker id="vowel-ee-arrow" markerUnits="userSpaceOnUse" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="10" markerHeight="10" orient="auto">
+          <path d="M1 1 L8 5 L1 9" fill="none" stroke="#557467" stroke-width="1.6" style="stroke:var(--writing-guide-ink,#557467)" />
+        </marker>
+      </defs>
+      <g data-movement="1">
+        <path d="M15 111 C-21 64 5 13 52 22 C85 27 97 73 80 99" marker-end="url(#vowel-ee-arrow)" />
+      </g>
+      <g data-movement="2">
+        <path d="M71 125 H155" marker-end="url(#vowel-ee-arrow)" />
+      </g>
+      <g data-movement="3">
+        <path d="M155 101 V48" marker-end="url(#vowel-ee-arrow)" />
+      </g>
+      <g data-movement="4">
+        <path d="M178 48 V142" marker-end="url(#vowel-ee-arrow)" />
+      </g>
+      <g data-movement="5">
+        <path d="M98 111 C94 38 117 4 153 4" marker-end="url(#vowel-ee-arrow)" />
+      </g>
+      <g data-movement="6">
+        <path d="M223 30 C251 70 244 114 219 125" marker-end="url(#vowel-ee-arrow)" />
+      </g>
+      <g data-movement="7">
+        <path d="M219 135 C242 148 242 166 226 182" marker-end="url(#vowel-ee-arrow)" />
+      </g>
+    </g>
+    <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
+      <g data-movement="1">
+        <circle cx="56" cy="14" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="56" y="18">1</text>
+      </g>
+      <g data-movement="2">
+        <circle cx="116" cy="136" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="116" y="140">2</text>
+      </g>
+      <g data-movement="3">
+        <circle cx="144" cy="75" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="144" y="79">3</text>
+      </g>
+      <g data-movement="4">
+        <circle cx="189" cy="97" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="189" y="101">4</text>
+      </g>
+      <g data-movement="5">
+        <circle cx="108" cy="25" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="108" y="29">5</text>
+      </g>
+      <g data-movement="6">
+        <circle cx="241" cy="86" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="241" y="90">6</text>
+      </g>
+      <g data-movement="7">
+        <circle cx="247" cy="157" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="247" y="161">7</text>
+      </g>
+    </g>
+  </g>
+</svg>

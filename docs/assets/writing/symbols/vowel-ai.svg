@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-55 -55 500 315" role="img" aria-labelledby="vowel-ai-title vowel-ai-description" data-source-page="28">
+  <title id="vowel-ai-title">ഐ — writing diagram</title>
+  <desc id="vowel-ai-description">Redrawn from Moag, PDF page 28. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
+  <g data-symbol="vowel-ai">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <path d="M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95" data-part="loop" data-movement="1" />
+      <path d="M40 95 C17 12 149 14 133 95 C130 112 118 125 107 131" data-part="outer arch" data-movement="2" />
+      <path d="M35 113 C-14 87 6 24 48 35 C78 42 82 88 63 111" data-part="left curl" transform="translate(150 0) scale(1)" data-movement="3" />
+      <path d="M63 111 H166" data-part="crossbar" transform="translate(150 0) scale(1)" data-movement="4" />
+      <path d="M166 111 V40" data-part="central ascent" transform="translate(150 0) scale(1)" data-movement="5" />
+      <path d="M166 40 V143 C166 192 108 166 108 115" data-part="central descent and turn" transform="translate(150 0) scale(1)" data-movement="6" />
+      <path d="M108 115 C99 48 119 16 156 17 C192 17 216 52 218 103" data-part="large arch" transform="translate(150 0) scale(1)" data-movement="7" />
+      <path d="M218 103 C220 135 213 157 205 174" data-part="right descent" transform="translate(150 0) scale(1)" data-movement="8" />
+    </g>
+    <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">
+      <defs>
+        <marker id="vowel-ai-arrow" markerUnits="userSpaceOnUse" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="10" markerHeight="10" orient="auto">
+          <path d="M1 1 L8 5 L1 9" fill="none" stroke="#557467" stroke-width="1.6" style="stroke:var(--writing-guide-ink,#557467)" />
+        </marker>
+      </defs>
+      <g data-movement="1">
+        <path d="M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99" marker-end="url(#vowel-ai-arrow)" />
+      </g>
+      <g data-movement="2">
+        <path d="M23 87 C8 0 160 1 147 89 C145 107 133 127 121 137" marker-end="url(#vowel-ai-arrow)" />
+      </g>
+      <g transform="translate(150 0) scale(1)" data-movement="3">
+        <path d="M15 111 C-21 64 5 13 52 22 C85 27 97 73 80 99" marker-end="url(#vowel-ai-arrow)" />
+      </g>
+      <g transform="translate(150 0) scale(1)" data-movement="4">
+        <path d="M71 125 H155" marker-end="url(#vowel-ai-arrow)" />
+      </g>
+      <g transform="translate(150 0) scale(1)" data-movement="5">
+        <path d="M155 101 V48" marker-end="url(#vowel-ai-arrow)" />
+      </g>
+      <g transform="translate(150 0) scale(1)" data-movement="6">
+        <path d="M178 48 V142" marker-end="url(#vowel-ai-arrow)" />
+      </g>
+      <g transform="translate(150 0) scale(1)" data-movement="7">
+        <path d="M98 111 C94 38 117 4 153 4" marker-end="url(#vowel-ai-arrow)" />
+      </g>
+      <g transform="translate(150 0) scale(1)" data-movement="8">
+        <path d="M221 30 C245 68 245 135 221 174" marker-end="url(#vowel-ai-arrow)" />
+      </g>
+    </g>
+    <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
+      <g data-movement="1">
+        <circle cx="56" cy="96" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="56" y="100">1</text>
+      </g>
+      <g data-movement="2">
+        <circle cx="136" cy="23" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="136" y="27">2</text>
+      </g>
+      <g transform="translate(150 0) scale(1)" data-movement="3">
+        <circle cx="56" cy="14" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="56" y="18">3</text>
+      </g>
+      <g transform="translate(150 0) scale(1)" data-movement="4">
+        <circle cx="116" cy="136" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="116" y="140">4</text>
+      </g>
+      <g transform="translate(150 0) scale(1)" data-movement="5">
+        <circle cx="144" cy="75" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="144" y="79">5</text>
+      </g>
+      <g transform="translate(150 0) scale(1)" data-movement="6">
+        <circle cx="189" cy="97" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="189" y="101">6</text>
+      </g>
+      <g transform="translate(150 0) scale(1)" data-movement="7">
+        <circle cx="108" cy="25" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="108" y="29">7</text>
+      </g>
+      <g transform="translate(150 0) scale(1)" data-movement="8">
+        <circle cx="242" cy="101" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="242" y="105">8</text>
+      </g>
+    </g>
+  </g>
+</svg>

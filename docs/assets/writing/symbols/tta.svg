@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-55 -55 270 290" role="img" aria-labelledby="tta-title tta-description" data-source-page="37">
+  <title id="tta-title">ട — writing diagram</title>
+  <desc id="tta-description">Redrawn from Moag, PDF page 37. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
+  <g data-symbol="tta">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <path d="M131 43 C98 1 25 11 25 56 C25 76 48 80 76 80" data-part="upper curl" data-movement="1" />
+      <path d="M76 80 C139 77 153 137 88 137 C57 137 36 130 27 115" data-part="lower curl" data-movement="2" />
+    </g>
+    <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">
+      <defs>
+        <marker id="tta-arrow" markerUnits="userSpaceOnUse" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="10" markerHeight="10" orient="auto">
+          <path d="M1 1 L8 5 L1 9" fill="none" stroke="#557467" stroke-width="1.6" style="stroke:var(--writing-guide-ink,#557467)" />
+        </marker>
+      </defs>
+      <g data-movement="1">
+        <path d="M119 17 C72 -7 19 7 13 45" marker-end="url(#tta-arrow)" />
+      </g>
+      <g data-movement="2">
+        <path d="M31 94 C163 75 151 128 65 125" marker-end="url(#tta-arrow)" />
+      </g>
+    </g>
+    <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
+      <g data-movement="1">
+        <circle cx="26" cy="3" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="26" y="7">1</text>
+      </g>
+      <g data-movement="2">
+        <circle cx="90" cy="109" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="90" y="113">2</text>
+      </g>
+    </g>
+  </g>
+</svg>

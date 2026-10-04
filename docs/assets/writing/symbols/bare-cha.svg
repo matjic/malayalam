@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-55 -55 360 300" role="img" aria-labelledby="bare-cha-title bare-cha-description" data-source-page="43">
+  <title id="bare-cha-title">ച് — writing diagram</title>
+  <desc id="bare-cha-description">Redrawn from Moag, PDF page 43. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
+  <g data-symbol="bare-cha">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <path d="M51 81 C17 64 32 16 66 23 C87 27 101 45 104 63" data-part="upper curl" transform="translate(0 0) scale(1)" />
+      <path d="M104 63 C110 101 77 129 23 129" data-part="curl and leftward baseline" transform="translate(0 0) scale(1)" />
+      <path d="M23 129 H219" data-part="baseline" transform="translate(0 0) scale(1)" />
+      <path d="M219 129 V18" data-part="right ascent" transform="translate(0 0) scale(1)" />
+      <path d="M12 4 C22 31 48 31 58 4" data-part="virama" transform="translate(170 -24) scale(1)" />
+    </g>
+    <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">
+      <defs>
+        <marker id="bare-cha-arrow" markerUnits="userSpaceOnUse" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="10" markerHeight="10" orient="auto">
+          <path d="M1 1 L8 5 L1 9" fill="none" stroke="#557467" stroke-width="1.6" style="stroke:var(--writing-guide-ink,#557467)" />
+        </marker>
+      </defs>
+    </g>
+    <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)" />
+  </g>
+</svg>

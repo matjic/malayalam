@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-55 -55 375 320" role="img" aria-labelledby="chillu-n-title chillu-n-description" data-source-page="42">
+  <title id="chillu-n-title">ൻ — writing diagram</title>
+  <desc id="chillu-n-description">Redrawn from Moag, PDF page 42. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
+  <g data-symbol="chillu-n">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <path d="M40 131 C-9 105 6 25 58 25 C89 25 105 47 105 73" data-part="left arch" data-movement="1" />
+      <path d="M105 73 V130" data-part="middle descent" data-movement="2" />
+      <path d="M105 130 V73 C105 11 207 13 207 73" data-part="right arch" data-movement="3" />
+      <path d="M207 73 C232 125 176 156 174 130" data-part="right loop" data-movement="4" />
+      <path d="M0 0 C-24 -36 24 -62 24 -89" data-part="tail ascent" transform="translate(174 130) scale(0.8)" data-movement="5" />
+      <path d="M24 -89 C24 -128 -25 -129 -25 -103" data-part="tail curl" transform="translate(174 130) scale(0.8)" data-movement="6" />
+    </g>
+    <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">
+      <defs>
+        <marker id="chillu-n-arrow" markerUnits="userSpaceOnUse" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="10" markerHeight="10" orient="auto">
+          <path d="M1 1 L8 5 L1 9" fill="none" stroke="#557467" stroke-width="1.6" style="stroke:var(--writing-guide-ink,#557467)" />
+        </marker>
+      </defs>
+      <g data-movement="1">
+        <path d="M22 133 C-30 86 -6 11 54 12" marker-end="url(#chillu-n-arrow)" />
+      </g>
+      <g data-movement="2">
+        <path d="M94 49 V120" marker-end="url(#chillu-n-arrow)" />
+      </g>
+      <g data-movement="3">
+        <path d="M118 119 V74 C118 39 136 31 146 33" marker-end="url(#chillu-n-arrow)" />
+      </g>
+      <g data-movement="4">
+        <path d="M220 80 C246 106 218 147 193 147" marker-end="url(#chillu-n-arrow)" />
+      </g>
+      <g transform="translate(174 130) scale(0.8)" data-movement="5">
+        <path d="M-10 -12 C-23 -42 29 -69 37 -90" marker-end="url(#chillu-n-arrow)" />
+      </g>
+      <g transform="translate(174 130) scale(0.8)" data-movement="6">
+        <path d="M37 -104 C29 -155 -43 -143 -39 -112" marker-end="url(#chillu-n-arrow)" />
+      </g>
+    </g>
+    <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
+      <g data-movement="1">
+        <circle cx="0" cy="69" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="0" y="73">1</text>
+      </g>
+      <g data-movement="2">
+        <circle cx="83" cy="89" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="83" y="93">2</text>
+      </g>
+      <g data-movement="3">
+        <circle cx="135" cy="65" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="135" y="69">3</text>
+      </g>
+      <g data-movement="4">
+        <circle cx="251" cy="115" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="251" y="119">4</text>
+      </g>
+      <g transform="translate(174 130) scale(0.8)" data-movement="5">
+        <circle cx="31" cy="-64" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="31" y="-60">5</text>
+      </g>
+      <g transform="translate(174 130) scale(0.8)" data-movement="6">
+        <circle cx="4" cy="-151" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="4" y="-147">6</text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-55 -55 415 290" role="img" aria-labelledby="ssa-title ssa-description" data-source-page="40">
+  <title id="ssa-title">ഷ — writing diagram</title>
+  <desc id="ssa-description">Redrawn from Moag, PDF page 40. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
+  <g data-symbol="ssa">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <path d="M43 130 C-10 100 16 41 54 46 C100 47 111 104 86 127" data-part="left curl" data-movement="1" />
+      <path d="M86 127 H222" data-part="baseline" data-movement="2" />
+      <path d="M222 127 V10" data-part="right ascent" data-movement="3" />
+      <path d="M222 10 L123 69" data-part="diagonal return" data-movement="4" />
+      <path d="M123 69 C65 108 68 -29 120 16 C133 27 137 50 123 69" data-part="upper loop" data-movement="5" />
+      <path d="M123 69 V127" data-part="middle descent" data-movement="6" />
+    </g>
+    <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">
+      <defs>
+        <marker id="ssa-arrow" markerUnits="userSpaceOnUse" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="10" markerHeight="10" orient="auto">
+          <path d="M1 1 L8 5 L1 9" fill="none" stroke="#557467" stroke-width="1.6" style="stroke:var(--writing-guide-ink,#557467)" />
+        </marker>
+      </defs>
+      <g data-movement="1">
+        <path d="M24 130 C-29 83 10 29 61 32 C104 36 123 79 109 106" marker-end="url(#ssa-arrow)" />
+      </g>
+      <g data-movement="2">
+        <path d="M95 141 H213" marker-end="url(#ssa-arrow)" />
+      </g>
+      <g data-movement="3">
+        <path d="M237 120 V17" marker-end="url(#ssa-arrow)" />
+      </g>
+      <g data-movement="4">
+        <path d="M217 28 L124 84" marker-end="url(#ssa-arrow)" />
+      </g>
+      <g data-movement="5">
+        <path d="M83 41 C50 4 97 -34 123 -3 C135 12 144 29 144 40" marker-end="url(#ssa-arrow)" />
+      </g>
+      <g data-movement="6">
+        <path d="M137 78 V119" marker-end="url(#ssa-arrow)" />
+      </g>
+    </g>
+    <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
+      <g data-movement="1">
+        <circle cx="102" cy="52" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="102" y="56">1</text>
+      </g>
+      <g data-movement="2">
+        <circle cx="154" cy="155" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="154" y="159">2</text>
+      </g>
+      <g data-movement="3">
+        <circle cx="252" cy="67" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="252" y="71">3</text>
+      </g>
+      <g data-movement="4">
+        <circle cx="162" cy="61" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="162" y="65">4</text>
+      </g>
+      <g data-movement="5">
+        <circle cx="107" cy="-15" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="107" y="-11">5</text>
+      </g>
+      <g data-movement="6">
+        <circle cx="151" cy="105" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="151" y="109">6</text>
+      </g>
+    </g>
+  </g>
+</svg>

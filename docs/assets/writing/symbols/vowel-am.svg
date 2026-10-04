@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-55 -55 445 290" role="img" aria-labelledby="vowel-am-title vowel-am-description" data-source-page="29">
+  <title id="vowel-am-title">അം — writing diagram</title>
+  <desc id="vowel-am-description">Redrawn from Moag, PDF page 29. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
+  <g data-symbol="vowel-am">
+    <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
+      <path d="M40 125 C-8 100 1 32 64 32" data-part="left arch" data-movement="1" />
+      <path d="M64 32 C109 32 114 75 76 76" data-part="upper inner bowl" data-movement="2" />
+      <path d="M76 76 C120 79 109 133 74 125" data-part="lower inner bowl" data-movement="3" />
+      <path d="M74 125 C31 116 27 58 64 32" data-part="inner return" data-movement="4" />
+      <path d="M64 32 C87 5 142 20 142 54 V125" data-part="middle arch and downstroke" data-movement="5" />
+      <path d="M142 125 V54 C142 12 196 13 218 54" data-part="right arch" data-movement="6" />
+      <path d="M218 54 C235 81 233 125 211 125" data-part="right loop down" data-movement="7" />
+      <path d="M211 125 C178 125 179 59 218 54" data-part="right loop return" data-movement="8" />
+      <path d="M32 75 C32 42 76 42 76 75 C76 108 32 108 32 75" data-part="anusvara circle" transform="translate(253 31) scale(1)" data-movement="9" />
+    </g>
+    <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">
+      <defs>
+        <marker id="vowel-am-arrow" markerUnits="userSpaceOnUse" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="10" markerHeight="10" orient="auto">
+          <path d="M1 1 L8 5 L1 9" fill="none" stroke="#557467" stroke-width="1.6" style="stroke:var(--writing-guide-ink,#557467)" />
+        </marker>
+      </defs>
+      <g data-movement="1">
+        <path d="M25 127 C-22 90 -5 18 55 18" marker-end="url(#vowel-am-arrow)" />
+      </g>
+      <g data-movement="2">
+        <path d="M73 44 C101 47 102 66 84 67" marker-end="url(#vowel-am-arrow)" />
+      </g>
+      <g data-movement="3">
+        <path d="M84 87 C104 100 97 115 84 115" marker-end="url(#vowel-am-arrow)" />
+      </g>
+      <g data-movement="4">
+        <path d="M56 113 C32 85 36 60 49 46" marker-end="url(#vowel-am-arrow)" />
+      </g>
+      <g data-movement="5">
+        <path d="M112 38 C129 44 131 63 131 116" marker-end="url(#vowel-am-arrow)" />
+      </g>
+      <g data-movement="6">
+        <path d="M153 116 V60 C153 34 170 28 184 29" marker-end="url(#vowel-am-arrow)" />
+      </g>
+      <g data-movement="7">
+        <path d="M219 69 C224 87 224 108 215 116" marker-end="url(#vowel-am-arrow)" />
+      </g>
+      <g data-movement="8">
+        <path d="M201 113 C184 96 192 72 206 66" marker-end="url(#vowel-am-arrow)" />
+      </g>
+      <g transform="translate(253 31) scale(1)" data-movement="9">
+        <path d="M44 64 C62 50 74 76 57 87 C46 94 42 82 43 77" marker-end="url(#vowel-am-arrow)" />
+      </g>
+    </g>
+    <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
+      <g data-movement="1">
+        <circle cx="0" cy="79" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="0" y="83">1</text>
+      </g>
+      <g data-movement="2">
+        <circle cx="86" cy="55" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="86" y="59">2</text>
+      </g>
+      <g data-movement="3">
+        <circle cx="93" cy="102" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="93" y="106">3</text>
+      </g>
+      <g data-movement="4">
+        <circle cx="36" cy="89" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="36" y="93">4</text>
+      </g>
+      <g data-movement="5">
+        <circle cx="122" cy="82" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="122" y="86">5</text>
+      </g>
+      <g data-movement="6">
+        <circle cx="159" cy="83" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="159" y="87">6</text>
+      </g>
+      <g data-movement="7">
+        <circle cx="222" cy="95" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="222" y="99">7</text>
+      </g>
+      <g data-movement="8">
+        <circle cx="190" cy="92" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="190" y="96">8</text>
+      </g>
+      <g transform="translate(253 31) scale(1)" data-movement="9">
+        <circle cx="55" cy="75" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
+        <text x="55" y="79">9</text>
+      </g>
+    </g>
+  </g>
+</svg>
