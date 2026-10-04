@@ -1,4 +1,4 @@
-# Malayalam
+# Malayalam: A University Course
 
 A proofread transcription of *Malayalam: A University Course and Reference Grammar* by Rodney F. Moag, fourth edition, from `Moag-Malayalam-CompleteTextbook.pdf`.
 

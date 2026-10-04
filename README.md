@@ -1,4 +1,4 @@
-# Malayalam
+# Malayalam: A University Course
 
 Install dependencies with `bun install`, then run `bun run dev` to preview the
 site locally. The static site is served from `docs/`.
