@@ -3,11 +3,8 @@
     hook.mounted(function () {
       const button = document.querySelector('.sidebar-toggle');
       const sidebar = document.querySelector('.sidebar');
-      const mobile = window.matchMedia('(max-width: 600px)');
-      const label = document.createElement('strong');
+      const mobile = window.matchMedia('(max-width: 768px)');
       const backdrop = document.createElement('div');
-      label.textContent = 'Menu';
-      button.append(label);
       button.type = 'button';
       button.querySelector('.sidebar-toggle-button').setAttribute('aria-hidden', 'true');
       sidebar.id = 'site-navigation';
@@ -15,7 +12,7 @@
       button.setAttribute('aria-controls', sidebar.id);
       backdrop.className = 'sidebar-backdrop';
       backdrop.setAttribute('aria-hidden', 'true');
-      document.body.append(backdrop);
+      document.querySelector('main').append(backdrop);
 
       function isOpen() {
         return document.body.classList.contains('close') === mobile.matches;
@@ -24,7 +21,9 @@
         const open = isOpen();
         button.setAttribute('aria-expanded', String(open));
         button.setAttribute('aria-label', open ? 'Close navigation menu' : 'Open navigation menu');
-        label.textContent = open ? 'Close menu' : 'Menu';
+        button.title = open ? 'Close navigation menu' : 'Open navigation menu';
+        document.body.classList.toggle('navigation-open', mobile.matches && open);
+        document.querySelector('.content').inert = mobile.matches && open;
         sidebar.inert = !open;
       }
       function close() {
@@ -39,7 +38,10 @@
       }, true);
       sidebar.addEventListener('click', function (event) {
         event.stopPropagation();
-        if (mobile.matches && event.target.closest('a[href]')) close();
+        if (mobile.matches && event.target.closest('a[href]')) {
+          close();
+          button.focus();
+        }
       });
       backdrop.addEventListener('click', function (event) {
         event.stopPropagation();
@@ -47,6 +49,19 @@
         button.focus();
       });
       document.addEventListener('keydown', function (event) {
+        if (event.key === 'Tab' && mobile.matches && isOpen()) {
+          const focusable = [button, ...sidebar.querySelectorAll('a[href], input, button, [tabindex="0"]')]
+            .filter(function (element) { return !element.disabled && element.getClientRects().length; });
+          const first = focusable[0];
+          const last = focusable[focusable.length - 1];
+          if (event.shiftKey && document.activeElement === first) {
+            event.preventDefault();
+            last.focus();
+          } else if (!event.shiftKey && document.activeElement === last) {
+            event.preventDefault();
+            first.focus();
+          }
+        }
         if (event.key === 'Escape' && isOpen()) {
           close();
           button.focus();
