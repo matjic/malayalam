@@ -1,188 +1,224 @@
-# How to Write Symbols
+# How to Write Malayalam Symbols
 
-## Vowels
+<!-- Source: PDF page 27; printed page xvii. -->
 
-### Row 1
-#### അ
-![assets/images/vowels/a.png](assets/images/vowels/a.png)
-#### ആ
-![assets/images/vowels/aa.png](assets/images/vowels/aa.png)
-#### ഇ
-![assets/images/vowels/i.png](assets/images/vowels/i.png)
-#### ഈ
-![assets/images/vowels/ii.png](assets/images/vowels/ii.png)
-#### ഉ
-![assets/images/vowels/u.png](assets/images/vowels/u.png)
-#### ഊ
-![assets/images/vowels/uu.png](assets/images/vowels/uu.png)
+### Table II: How to Write Word-Initial Vowel Symbols
 
-### Row 2
-#### ഋ  	 
-![assets/images/vowels/ru.png](assets/images/vowels/ru.png)
-#### എ  	 
-![assets/images/vowels/e.png](assets/images/vowels/e.png)
-#### ഏ  	 
-![assets/images/vowels/ee.png](assets/images/vowels/ee.png)
-#### ഐ  	
-![assets/images/vowels/ai.png](assets/images/vowels/ai.png)
+![Stroke-order diagrams for അ, ആ, ഇ, ഈ, ഉ, ഊ](assets/images/front-writing-027.jpg)
 
-### Row 3
-#### ഒ  	 
-![assets/images/vowels/o.png](assets/images/vowels/o.png)
-#### ഓ  	 
-![assets/images/vowels/oo.png](assets/images/vowels/oo.png)
-#### ഔ  	 
-![assets/images/vowels/au.png](assets/images/vowels/au.png)
-#### അം 	 
-![assets/images/vowels/am.png](assets/images/vowels/am.png)
-#### അഃ
-![assets/images/vowels/aha.png](assets/images/vowels/aha.png)
+<!-- Source: PDF page 28; printed page xviii. -->
 
-## Consonants
-### Velar
-#### ക
-![assets/images/consonants/ka.png](assets/images/consonants/ka.png)
-#### ഖ
-![assets/images/consonants/kha.png](assets/images/consonants/kha.png)
-#### ഗ
-![assets/images/consonants/ga.png](assets/images/consonants/ga.png)
-#### ഘ
-![assets/images/consonants/gha.png](assets/images/consonants/gha.png)
-#### ങ
-![assets/images/consonants/nga.png](assets/images/consonants/nga.png)
+### Table II: Continued
 
-### Postalveolar or Alveolo-palatal
-#### ച
-![assets/images/consonants/ca.png](assets/images/consonants/ca.png)
-#### ഛ
-![assets/images/consonants/cha.png](assets/images/consonants/cha.png)
-#### ജ
-![assets/images/consonants/ja.png](assets/images/consonants/ja.png)
-#### ഝ
-![assets/images/consonants/jha.png](assets/images/consonants/jha.png)
-#### ഞ
-![assets/images/consonants/ña.png](assets/images/consonants/ña.png)
+![Stroke-order diagrams for ഋ, എ, ഏ, ഐ, ഒ, ഓ](assets/images/front-writing-028.jpg)
 
-### Retroflex
-#### ട
+<!-- Source: PDF page 29; printed page xix. -->
 
-![assets/images/consonants/Retroflex%20Ta.png](assets/images/consonants/Retroflex%20Ta.png)
+### Table II: Continued
 
-#### ഠ
-![assets/images/consonants/Retroflex%20Tha.png](assets/images/consonants/Retroflex%20Tha.png)
-#### ഡ
-![assets/images/consonants/Retroflex%20Da.png](assets/images/consonants/Retroflex%20Da.png)
-#### ഢ
-![assets/images/consonants/Retroflex%20Dha.png](assets/images/consonants/Retroflex%20Dha.png)
-#### ണ
-![assets/images/consonants/Retroflex%20Na.png](assets/images/consonants/Retroflex%20Na.png)
+![Stroke-order diagrams for ഔ, അം, അഃ](assets/images/front-writing-029.jpg)
 
-### Dental
-#### ത
-![assets/images/consonants/Dental%20ta.png](assets/images/consonants/Dental%20ta.png)
-#### ഥ
-![assets/images/consonants/Dental%20tha.png](assets/images/consonants/Dental%20tha.png)
-#### ദ
-![assets/images/consonants/Dental%20da.png](assets/images/consonants/Dental%20da.png)
-#### ധ
-![assets/images/consonants/Dental%20dha.png](assets/images/consonants/Dental%20dha.png)
-#### ന
-![assets/images/consonants/Dental%20na.png](assets/images/consonants/Dental%20na.png)
+<!-- Source: PDF page 30; printed page xx. -->
 
-### Labial
-#### പ
-![assets/images/consonants/pa.png](assets/images/consonants/pa.png)
-#### ഫ
-![assets/images/consonants/pha.png](assets/images/consonants/pha.png)
-#### ബ
-![assets/images/consonants/ba.png](assets/images/consonants/ba.png)
-#### ഭ
-![assets/images/consonants/bha.png](assets/images/consonants/bha.png)
-#### മ
-![assets/images/consonants/ma.png](assets/images/consonants/ma.png)
+### Table III: How to Write Internal Vowel Symbols
 
-### Other
-#### യ
-![assets/images/consonants/ya.png](assets/images/consonants/ya.png)
-#### ര
-![assets/images/consonants/ra1.png](assets/images/consonants/ra1.png)
-#### ല
-![assets/images/consonants/la1.png](assets/images/consonants/la1.png)
-#### വ
-![assets/images/consonants/va.png](assets/images/consonants/va.png)
-#### ശ
-![assets/images/consonants/sha1.png](assets/images/consonants/sha1.png)
-#### ഷ
-![assets/images/consonants/sha2.png](assets/images/consonants/sha2.png)
-#### സ
-![assets/images/consonants/sa.png](assets/images/consonants/sa.png)
-#### ഹ
-![assets/images/consonants/ha.png](assets/images/consonants/ha.png)
-#### ള
-![assets/images/consonants/la2.png](assets/images/consonants/la2.png)
-#### ഴ
-![assets/images/consonants/ra_zha.png](assets/images/consonants/ra_zha.png)
-#### റ
-![assets/images/consonants/ra2.png](assets/images/consonants/ra2.png)
+![Stroke-order diagrams for internal vowel symbols ാ, ി, ീ](assets/images/front-writing-030.jpg)
 
-## Internal Vowel Symbols
+- ാ — as in കാ, ചാ, ടാ, താ, പാ…
+- ി — as in കി, ചി, ടി, തി, പി, മി…
+- ീ — as in കീ, ചീ, ടീ, തീ, പീ, മീ…
 
-#### ാ
+<!-- Source: PDF page 31; printed page xxi. -->
 
-![assets/images/vowel%20symbols/aa.png](assets/images/vowel%20symbols/aa.png)
+### Table III: Continued
 
-#### ി
-![assets/images/vowel%20symbols/i.png](assets/images/vowel%20symbols/i.png)
-#### ീ
-![assets/images/vowel%20symbols/ii.png](assets/images/vowel%20symbols/ii.png)
-#### ു
-![assets/images/vowel%20symbols/u.png](assets/images/vowel%20symbols/u.png)
-#### ൂ
-![assets/images/vowel%20symbols/uu.png](assets/images/vowel%20symbols/uu.png)
-#### ൃ
-![assets/images/vowel%20symbols/ru.png](assets/images/vowel%20symbols/ru.png)
-#### െ
-![assets/images/vowel%20symbols/e.png](assets/images/vowel%20symbols/e.png)
-#### േ
-![assets/images/vowel%20symbols/ee.png](assets/images/vowel%20symbols/ee.png)
-#### ൈ
-![assets/images/vowel%20symbols/ai.png](assets/images/vowel%20symbols/ai.png)
-#### ൊ
-![assets/images/vowel%20symbols/o.png](assets/images/vowel%20symbols/o.png)
-#### ോ
-TODO find way to present symbol properly
-![assets/images/vowel%20symbols/oo.png](assets/images/vowel%20symbols/oo.png)
-#### ൈ
+![Stroke-order diagrams for internal vowel symbols ു, ൂ, ൃ](assets/images/front-writing-031.jpg)
 
-![assets/images/vowel%20symbols/ai.png](assets/images/vowel%20symbols/ai.png)
+- ു — as in കു, ചു, ടു, തു, പു, മു…
+- ൂ — as in കൂ, ചൂ, ടൂ, തൂ, പൂ, മൂ…
+- ൃ — as in കൃ, ചൃ, ടൃ, തൃ, പൃ, മൃ…
 
-#### ൗ
+<!-- Source: PDF page 32; printed page xxii. -->
 
-![assets/images/vowel%20symbols/au.png](assets/images/vowel%20symbols/au.png)
+### Table III: Continued
 
-#### ം
+![Stroke-order diagrams for internal vowel symbols െ, േ, ൈ](assets/images/front-writing-032.jpg)
 
-![assets/images/vowel%20symbols/am.png](assets/images/vowel%20symbols/am.png)
+- െ — as in കെ, ചെ, ടെ, തെ, പെ, മെ
+- േ — as in കേ, ചേ, ടേ, തേ, പേ…
+- ൈ — as in കൈ, ചൈ, ടൈ, തൈ…
 
-#### ഃ
+<!-- Source: PDF page 33; printed page xxiii. -->
 
-![assets/images/vowel%20symbols/aha.png](assets/images/vowel%20symbols/aha.png)
+### Table III: Continued
 
-## Chillus
+| Vowel sign | Examples |
+|---|---|
+| ൊ | കൊ, ചൊ, ടൊ, തൊ... |
+| ോ | കോ, ചോ, ടോ, തോ... |
+| ൌ | കൗ, ചൗ, ടൗ, തൗ, പൗ, മൗ... |
 
-#### ൺ
-![assets/images/chillus/retroflex%20n.png](assets/images/chillus/retroflex%20n.png)
+![Source writing table with numbered strokes and direction arrows](assets/images/front-writing-033.jpg)
 
-#### ൻ
-![assets/images/chillus/dental%20n.png](assets/images/chillus/dental%20n.png)
+<!-- Source: PDF page 34; printed page xxiv. -->
 
-#### ർ
-![assets/images/chillus/r.png](assets/images/chillus/r.png)
+### Table III: Continued
 
-#### ൽ
-![assets/images/chillus/l1.png](assets/images/chillus/l1.png)
+| Sign | Examples |
+|---|---|
+| ം | കം, ചം, ടം, തം, പം... |
+| ഃ | കഃ, ചഃ, ടഃ, തഃ, പഃ, മഃ... |
 
-#### ൾ
-TODO update to be consistent with typed character
+![Source writing table with numbered strokes and direction arrows](assets/images/front-writing-034.jpg)
 
-![assets/images/chillus/l2.png](assets/images/chillus/l2.png)
+<!-- Source: PDF page 35; printed page xxv. -->
+
+### Table IV: How to Write Consonant Symbols
+
+ക, ഖ, ഗ, ഘ, ങ
+
+![Source writing table with numbered strokes and direction arrows](assets/images/front-writing-035.jpg)
+
+<!-- Source: PDF page 36; printed page xxvi. -->
+
+### Table IV: Continued
+
+ച, ഛ, ജ, ഝ, ഞ
+
+![Source writing table with numbered strokes and direction arrows](assets/images/front-writing-036.jpg)
+
+<!-- Source: PDF page 37; printed page xxvii. -->
+
+### Table IV: Continued
+
+ട, ഠ, ഡ, ഢ, ണ
+
+![Source writing table with numbered strokes and direction arrows](assets/images/front-writing-037.jpg)
+
+<!-- Source: PDF page 38; printed page xxviii. -->
+
+### Table IV: Continued
+
+ത, ഥ, ദ, ധ, ന
+
+![Source writing table with numbered strokes and direction arrows](assets/images/front-writing-038.jpg)
+
+<!-- Source: PDF page 39; printed page xxix. -->
+
+### Table IV: Continued
+
+പ, ഫ, ബ, ഭ, മ
+
+![Source writing table with numbered strokes and direction arrows](assets/images/front-writing-039.jpg)
+
+<!-- Source: PDF page 40; printed page xxx. -->
+
+### Table IV: Continued
+
+യ, ര, ല, വ, ശ, ഷ
+
+![Source writing table with numbered strokes and direction arrows](assets/images/front-writing-040.jpg)
+
+<!-- Source: PDF page 41; printed page xxxi. -->
+
+### Table IV: Continued
+
+സ, ഹ, ള, ഴ, റ
+
+![Source writing table with numbered strokes and direction arrows](assets/images/front-writing-041.jpg)
+
+<!-- Source: PDF page 42; printed page xxxii. -->
+
+### Table V: How to Write Consonants without the Inherent Vowel
+
+A. For three of the consonants, the inherent vowel -അ is suppressed by the addition of a “tail” as follows.
+
+ണ becomes ൺ
+
+ന becomes ൻ
+
+ര becomes ർ
+
+![Source writing table with numbered strokes and direction arrows](assets/images/front-writing-042.jpg)
+
+<!-- Source: PDF page 43; printed page xxxiii. -->
+
+### Table V: Continued
+
+B. For two other consonants, the inherent vowel is suppressed through the use of a completely different character as follows.
+
+ല becomes ൽ
+
+ള becomes ൾ
+
+C. For all other consonants, the inherent vowel is suppressed by the use of the echo vowel (-്), which is written at the upper right-hand corner of the consonant, as in the following examples:
+
+ക്, ച്, ട്, ത്, പ്
+
+![Source writing table with numbered strokes and direction arrows](assets/images/front-writing-043.jpg)
+
+<!-- Source: PDF page 44; printed page xxxiv. -->
+
+### Table VI: How to Write the Common Double Consonants
+
+| Components | Double consonant |
+|---|---|
+| ക് + ക | ക്ക |
+| ങ് + ങ | ങ്ങ |
+| ച് + ച | ച്ച |
+| ത് + ത | ത്ത |
+| ട് + ട | ട്ട |
+| ണ് + ണ | ണ്ണ |
+| ന് + ന | ന്ന |
+| ബ് + ബ | ബ്ബ |
+
+![Source writing table with numbered strokes and direction arrows](assets/images/front-writing-044.jpg)
+
+<!-- Source: PDF page 45; printed page xxxv. -->
+
+### Table VI: Continued
+
+| Components | Double consonant |
+|---|---|
+| മ് + മ | മ്മ |
+| യ് + യ | യ്യ |
+| ല് + ല | ല്ല |
+| വ് + വ | വ്വ |
+| പ് + പ | പ്പ |
+| ള് + ള | ള്ള |
+
+![Source writing table with numbered strokes and direction arrows](assets/images/front-writing-045.jpg)
+
+<!-- Source: PDF page 46; printed page xxxvii. -->
+
+### Table VIII: How to Join യ, ര, റ, ല, and വ to Preceding Consonants
+
+A. When യ is the second component of a conjunct, it is represented by the symbol shown in the diagram, which is placed to the right of the preceding consonant, as in ത്യ
+
+ത് + യ = ത്യ
+
+eg. സത്യം (“truth”)
+
+B. When either ര or റ is the second component of a conjunct, that component is uniformly represented by the symbol shown in the diagram, which is placed to the left of the preceding consonant, as in പ്ര
+
+പ + ര = പ്ര
+
+eg. പ്രിയം (“beloved”)
+
+പ + റ = പ്ര
+
+eg. പ്രോക്ടർ (for English “proctor”)
+
+C. When ല is the second component of a conjunct, it is represented by the symbol shown in the diagram, which is placed underneath the preceding consonant, as in പ്ല
+
+പ + ല = പ്ല
+
+eg. പ്ലാവ് (“jackfruit tree”)
+
+D. When വ is the second component of a conjunct, it is represented by the symbol shown in the diagram, which is placed to the right of the preceding consonant, as in സ്വ
+
+സ + വ = സ്വ
+
+eg. സ്വന്തം (“one’s own”)
+
+![Source writing table with numbered strokes and direction arrows](assets/images/front-writing-046.jpg)
