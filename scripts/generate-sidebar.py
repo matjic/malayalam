@@ -36,6 +36,12 @@ def generate():
         *[link for _, _, link in sorted(book)],
     ]
     if supplements:
+        practice = [item for item in supplements if item[0] == 'practice.md' or item[0].startswith('practice-')]
+        if practice:
+            lines.extend(["", "* Supplementary practice"])
+            lines.extend(f"  {link}" for _, link in sorted(practice, key=lambda item: (item[0] != 'practice.md', item[0])))
+        supplements = [item for item in supplements if item not in practice]
+    if supplements:
         lines.extend(["", "* Review and supporting material"])
         lines.extend(f"  {link}" for _, link in sorted(supplements))
     return "\n".join(lines) + "\n"

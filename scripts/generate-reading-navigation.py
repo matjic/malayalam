@@ -86,6 +86,12 @@ def generate():
         if path.stem.startswith(('appendix-', 'minilesson-')) and subheading:
             title += f': {subheading}'
         lines.append(f'- [{title}]({path.name})')
+    practice = sorted(DOCS.glob('practice*.md'), key=lambda path: (path.name != 'practice.md', path.name))
+    if practice:
+        lines += ['', '## Supplementary Practice', '', 'Optional additions to the digital edition, based on selected UT Austin learning resources.', '']
+        for path in practice:
+            title = re.search(r'^# (.+)$', path.read_text(), re.M)[1]
+            lines.append(f'- [{title}]({path.name})')
     lines += ['', '## Sections', '']
     for path in documents:
         lines += [f'### [{chapter_titles[path]}]({path.name})', '']

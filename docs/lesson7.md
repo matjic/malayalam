@@ -1,6 +1,8 @@
 <a id="lesson7"></a><!-- reading-anchor -->
 # Lesson 7: Future and Habitual Actions, Time, and “Let’s”
 
+> **Supplementary practice:** Use the [market conversation](practice-dialogues.md#3-buying-food-at-the-market) to practice numbers, prices, വേണം, and കിട്ടുമോ.
+
 <!-- Source: PDF page 136; printed page 86. -->
 
 <a id="lesson7-reference-list"></a><!-- reading-anchor -->

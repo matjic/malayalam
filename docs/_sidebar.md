@@ -50,5 +50,11 @@
 * [Malayalam-English Glossary](glossary.md)
 * [Index](book-index.md)
 
+* Supplementary practice
+  * [Supplementary Practice](practice.md)
+  * [Everyday Conversation Practice](practice-dialogues.md)
+  * [Listening and Pronunciation Practice](practice-pronunciation.md)
+  * [Joining Words and Endings: Sandhi Practice](practice-sandhi.md)
+
 * Review and supporting material
   * [Textbook Proofreading Review](proofreading-review.md)

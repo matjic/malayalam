@@ -3,6 +3,8 @@
 <a id="alphabet"></a><!-- reading-anchor -->
 # The Malayalam Script
 
+> **Supplementary practice:** For a guided first listen, use [Listening and Pronunciation Practice](practice-pronunciation.md), with local alphabet and vowel recordings.
+
 <a id="alphabet-table-i-the-malayalam-alphabet"></a><!-- reading-anchor -->
 ### Table I: The Malayalam Alphabet
 

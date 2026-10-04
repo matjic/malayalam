@@ -55,6 +55,15 @@ See [Reading the digital edition](digital-edition.md) for page references and st
 - [Malayalam-English Glossary](glossary.md)
 - [Index](book-index.md)
 
+## Supplementary Practice
+
+Optional additions to the digital edition, based on selected UT Austin learning resources.
+
+- [Supplementary Practice](practice.md)
+- [Everyday Conversation Practice](practice-dialogues.md)
+- [Listening and Pronunciation Practice](practice-pronunciation.md)
+- [Joining Words and Endings: Sandhi Practice](practice-sandhi.md)
+
 ## Sections
 
 ### [Front Matter](front-matter.md)

@@ -10,4 +10,6 @@ Start with [the book and how to use it](usage.md), [the Malayalam alphabet](alph
 
 Read [Reading the digital edition](digital-edition.md) for how page references work, how to look up words and topics, and how to use the exercises. Digital pages depend on screen and font size; use chapter and section links to navigate.
 
+Add [supplementary practice](practice.md) to your study: listen to pronunciation recordings, work through common spelling joins, and practice everyday conversations with translations and exercises. These optional pages adapt selected UT Austin resources and link back to the relevant textbook lessons.
+
 Obvious spelling and transcription errors have been corrected. Editorial notes distinguish learner guidance and substantive source corrections from the original text. See the [proofreading review](proofreading-review.md) for remaining source issues and the scope of the checks.

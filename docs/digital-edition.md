@@ -20,7 +20,7 @@ On the website, use the **Open navigation menu** button (the hamburger icon) to 
 
 ## Exercises, Images, and Source Context
 
-Exercise blanks and models are retained for study. Write answers in a notebook or a separate document; the blanks are not interactive form fields, and the website does not save answers. Tasks asking for an instructor or partner still require someone to speak or check the response. References to recordings in the source do not imply that this website provides a complete linked audio course.
+Exercise blanks and models are retained for study. Write answers in a notebook or a separate document; the blanks are not interactive form fields, and the website does not save answers. Tasks asking for an instructor or partner still require someone to speak or check the response. References to recordings in the source do not imply that this website provides a complete linked audio course. The [supplementary pronunciation page](practice-pronunciation.md) provides selected UT Austin recordings. The [sandhi](practice-sandhi.md) and [conversation](practice-dialogues.md) supplements add exercises with expandable reading answers. These pages have their own source credits and reuse terms, listed in [Supplementary Practice](practice.md).
 
 Writing diagrams and photographs remain images, while vocabulary and grammar tables remain selectable text. On a narrow screen, wide tables can be scrolled horizontally. Image descriptions identify their content, but some handwriting diagrams and captioned photographs still require viewing the image itself.
 

@@ -2,6 +2,8 @@
 <a id="lesson2"></a><!-- reading-anchor -->
 # Lesson 2: Location and Yes–No Questions
 
+> **Supplementary practice:** Use [Listening and Pronunciation Practice](practice-pronunciation.md) for the dental–retroflex sound contrast, and [Sandhi Practice](practice-sandhi.md) to review how words join with endings.
+
 <a id="lesson2-reference-list"></a><!-- reading-anchor -->
 ## Reference List
 
