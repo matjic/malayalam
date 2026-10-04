@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-55 -55 420 330" role="img" aria-labelledby="join-ya-title join-ya-description" data-source-page="46">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-55 -55 380 330" role="img" aria-labelledby="join-ya-title join-ya-description" data-source-page="46">
   <title id="join-ya-title">ത്യ — writing diagram</title>
   <desc id="join-ya-description">Redrawn from Moag, PDF page 46. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="join-ya">
     <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
       <path d="M41 131 C-5 105 1 26 60 26 C98 26 120 65 115 94" data-part="left arch" transform="translate(0 0) scale(1)" />
       <path d="M115 94 C108 141 59 142 56 92" data-part="central loop down" transform="translate(0 0) scale(1)" />
-      <path d="M56 92 C51 52 89 17 130 26 C184 35 191 101 158 130" data-part="central loop up and right arch" transform="translate(0 0) scale(1)" />
-      <path d="M158 130 C171 119 181 104 181 85" data-part="right descent" transform="translate(0 0) scale(1)" />
-      <path d="M31 21 C23 88 66 126 30 149 C7 165 -6 144 9 133" data-part="postposed ya" transform="translate(234 0) scale(1)" data-movement="1" />
+      <path d="M56 92 C51 52 89 17 130 26 C164 32 181 53 181 85" data-part="central loop up and right arch" transform="translate(0 0) scale(1)" />
+      <path d="M181 85 C181 104 171 119 158 130" data-part="right descent" transform="translate(0 0) scale(1)" />
+      <path d="M31 21 C23 88 66 126 30 149 C7 165 -6 144 9 133" data-part="postposed ya" transform="translate(186 0) scale(1)" data-movement="1" />
     </g>
     <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">
       <defs>
@@ -15,14 +15,13 @@
           <path d="M1 1 L8 5 L1 9" fill="none" stroke="#557467" stroke-width="1.6" style="stroke:var(--writing-guide-ink,#557467)" />
         </marker>
       </defs>
-      <g transform="translate(234 0) scale(1)" data-movement="1">
+      <g transform="translate(186 0) scale(1)" data-movement="1">
         <path d="M44 25 C32 89 87 125 44 165 C12 190 -29 151 -4 136" marker-end="url(#join-ya-arrow)" />
       </g>
     </g>
     <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
-      <g transform="translate(234 0) scale(1)" data-movement="1">
-        <circle cx="71" cy="134" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-        <text x="71" y="138">1</text>
+      <g transform="translate(186 0) scale(1)" data-movement="1">
+        <text x="71" y="138" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">1</text>
       </g>
     </g>
   </g>

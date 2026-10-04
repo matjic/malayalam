@@ -55,25 +55,39 @@ def draw(parent, key):
         tag(ink, 'path', attrs)
         if not stroke['guide']:
             continue
+        arrow_id = f'{key}-arrow'
+        if stroke.get('arrow_size'):
+            arrow_id = f'{key}-arrow-{index}'
+            small_marker = ET.SubElement(defs, marker.tag, dict(marker.attrib, id=arrow_id,
+                markerWidth=str(stroke['arrow_size']), markerHeight=str(stroke['arrow_size'])))
+            for child in marker:
+                ET.SubElement(small_marker, child.tag, child.attrib)
         guide = tag(guides, 'g', dict(transform, **{'data-movement': str(number)}))
-        tag(guide, 'path', {'d': stroke['guide'], 'marker-end': f'url(#{key}-arrow)'})
+        tag(guide, 'path', {'d': stroke['guide'], 'marker-end': f'url(#{arrow_id})'})
         label = tag(labels, 'g', dict(transform, **{'data-movement': str(number)}))
         x, y = stroke['label']
-        tag(label, 'circle', {'cx': str(x), 'cy': str(y), 'r': '9', 'fill': '#fff',
-                             'style': 'fill:var(--writing-background,#fff)'})
-        tag(label, 'text', {'x': str(x), 'y': str(y + 4)}, str(number))
+        tag(label, 'text', {'x': str(x), 'y': str(y + 4),
+                            'paint-order': 'stroke fill', 'stroke': '#fff',
+                            'stroke-width': '3', 'stroke-linejoin': 'round',
+                            'style': 'stroke:var(--writing-background,#fff)'}, str(number))
 
 
 def svg(key):
     shape = SHAPES[key]
+    top = shape.get('viewTop', -55)
     root = ET.Element(f'{{{NAMESPACE}}}svg', {
-        'viewBox': f'-55 -55 {shape["width"] + 110} {shape["height"] + 110}',
+        'viewBox': f'-55 {top} {shape["width"] + 110} {shape["height"] + 55 - top}',
         'role': 'img', 'aria-labelledby': f'{key}-title {key}-description',
         'data-source-page': str(shape['page']),
     })
     tag(root, 'title', {'id': f'{key}-title'}, f'{shape["symbol"]} — writing diagram')
+    reference = (f'Modern form of {shape["symbol"]}, with editorial drawing movements. '
+                 f'Moag PDF page {shape["page"]} contains an older form.'
+                 if shape.get('form') == 'modern' else f'Redrawn from Moag, PDF page {shape["page"]}.')
+    if shape.get('form'):
+        root.set('data-form', shape['form'])
     tag(root, 'desc', {'id': f'{key}-description'},
-        f'Redrawn from Moag, PDF page {shape["page"]}. Separate centerline paths '
+        reference + ' Separate centerline paths '
         'represent the letter; thin arrows and numbers show writing movements.')
     draw(root, key)
     ET.indent(root)
@@ -95,7 +109,8 @@ def table_svg(page):
         scale = min(1, (cell_width - 50) / (shape['width'] + 110),
                     (cell_height - 60) / (shape['height'] + 110))
         offset_x = x + (cell_width - shape['width'] * scale) / 2
-        group = tag(root, 'g', {'transform': f'translate({offset_x:g} {y + 55}) scale({scale:g})'})
+        offset_y = y + 55 + max(0, -55 - shape.get('viewTop', -55)) * scale
+        group = tag(root, 'g', {'transform': f'translate({offset_x:g} {offset_y:g}) scale({scale:g})'})
         draw(group, key)
         tag(root, 'text', {'x': str(x + cell_width / 2), 'y': str(y + cell_height - 12),
                            'font-size': '22', 'text-anchor': 'middle'}, shape['caption'])

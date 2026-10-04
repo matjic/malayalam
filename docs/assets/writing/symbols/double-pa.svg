@@ -3,10 +3,10 @@
   <desc id="double-pa-description">Redrawn from Moag, PDF page 45. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="double-pa">
     <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
-      <path d="M43 130 C-10 100 16 41 54 46 C100 47 111 104 86 127" data-part="left curl" data-movement="1" />
+      <path d="M43 130 C9 112 20 70 55 71 C94 72 106 104 86 127" data-part="left curl" data-movement="1" />
       <path d="M86 127 H222" data-part="baseline" data-movement="2" />
       <path d="M222 127 V20" data-part="right ascent" data-movement="3" />
-      <path d="M43 130 C-10 100 16 41 54 46 C100 47 111 104 86 127" data-part="left curl" transform="translate(0 69) scale(1)" data-movement="4" />
+      <path d="M43 130 C9 112 20 70 55 71 C94 72 106 104 86 127" data-part="left curl" transform="translate(0 69) scale(1)" data-movement="4" />
       <path d="M86 127 H222" data-part="baseline" transform="translate(0 69) scale(1)" data-movement="5" />
       <path d="M222 196 V20" data-part="second ascent" data-movement="6" />
     </g>
@@ -17,7 +17,7 @@
         </marker>
       </defs>
       <g data-movement="1">
-        <path d="M24 130 C-29 83 10 29 61 32 C104 36 123 79 109 106" marker-end="url(#double-pa-arrow)" />
+        <path d="M24 130 C-15 104 19 53 61 57 C104 62 119 96 106 116" marker-end="url(#double-pa-arrow)" />
       </g>
       <g data-movement="2">
         <path d="M95 141 H213" marker-end="url(#double-pa-arrow)" />
@@ -26,7 +26,7 @@
         <path d="M235 125 V28" marker-end="url(#double-pa-arrow)" />
       </g>
       <g transform="translate(0 69) scale(1)" data-movement="4">
-        <path d="M24 130 C-29 83 10 29 61 32 C104 36 123 79 109 106" marker-end="url(#double-pa-arrow)" />
+        <path d="M24 130 C-15 104 19 53 61 57 C104 62 119 96 106 116" marker-end="url(#double-pa-arrow)" />
       </g>
       <g transform="translate(0 69) scale(1)" data-movement="5">
         <path d="M95 141 H213" marker-end="url(#double-pa-arrow)" />
@@ -37,28 +37,22 @@
     </g>
     <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
       <g data-movement="1">
-        <circle cx="102" cy="52" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-        <text x="102" y="56">1</text>
+        <text x="91" y="59" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">1</text>
       </g>
       <g data-movement="2">
-        <circle cx="154" cy="155" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-        <text x="154" y="159">2</text>
+        <text x="154" y="159" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">2</text>
       </g>
       <g data-movement="3">
-        <circle cx="248" cy="80" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-        <text x="248" y="84">3</text>
+        <text x="248" y="84" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">3</text>
       </g>
       <g transform="translate(0 69) scale(1)" data-movement="4">
-        <circle cx="102" cy="52" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-        <text x="102" y="56">4</text>
+        <text x="91" y="59" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">4</text>
       </g>
       <g transform="translate(0 69) scale(1)" data-movement="5">
-        <circle cx="154" cy="155" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-        <text x="154" y="159">5</text>
+        <text x="154" y="159" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">5</text>
       </g>
       <g data-movement="6">
-        <circle cx="262" cy="102" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-        <text x="262" y="106">6</text>
+        <text x="262" y="106" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">6</text>
       </g>
     </g>
   </g>

@@ -2,6 +2,9 @@
 
 Counts below were read from PDF pp. 27–46, independently of generated SVGs.
 The bare-consonant examples on p. 43 have no numbered directions in the source.
+The modern chillu-ll diagram has four editorial movements instead of the older
+crossed-loop form in the book. The modern stacked double-nna has fourteen
+editorial movements instead of the eleven in the linear source form.
 """
 
 from pathlib import Path
@@ -28,7 +31,7 @@ EXPECTED = {
     41: [('sa', 5), ('ha', 3), ('lla', 4), ('zha', 3), ('rra', 1)],
     42: [('chillu-nn', 9), ('chillu-n', 6), ('chillu-r', 4)],
     43: [('chillu-l', 6), ('chillu-ll', 4), ('bare-ka', 0), ('bare-cha', 0), ('bare-tta', 0), ('bare-tha', 0), ('bare-pa', 0)],
-    44: [('double-ka', 6), ('double-nga', 7), ('double-cha', 7), ('double-tha', 8), ('double-tta', 3), ('double-nna', 11), ('double-na', 6), ('double-ba', 7)],
+    44: [('double-ka', 6), ('double-nga', 7), ('double-cha', 7), ('double-tha', 8), ('double-tta', 3), ('double-nna', 14), ('double-na', 6), ('double-ba', 7)],
     45: [('double-ma', 7), ('double-ya', 7), ('double-la', 7), ('double-va', 6), ('double-pa', 6), ('double-lla', 8)],
     46: [('join-ya', 1), ('join-ra', 1), ('join-la', 3), ('join-va', 2)],
 }
@@ -47,6 +50,8 @@ def main():
             root = ET.parse(path).getroot()
             if root.get('data-source-page') != str(page):
                 errors.append(f'{key}: wrong source page')
+            if key in ('chillu-ll', 'double-nna', 'double-tha') and root.get('data-form') != 'modern':
+                errors.append(f'{key}: expected the modern form')
             if root.findall(f'.//{SVG}image') or root.findall(f'.//{SVG}script'):
                 errors.append(f'{key}: raster or script in symbol')
             layers = {g.get('class'): g for g in root.findall(f'.//{SVG}g') if g.get('class')}
@@ -66,7 +71,7 @@ def main():
                     errors.append(f'{key}: unnamed or missing centerline')
     if errors:
         raise SystemExit('\n'.join(errors))
-    print(f'Checked {len(expected_ids)} symbol models against 20 source tables: coverage, movements, layers, and raster-free assets passed.')
+    print(f'Checked {len(expected_ids)} symbol models against 20 source tables: coverage, source/editorial movement counts, layers, and raster-free assets passed.')
 
 
 if __name__ == '__main__':

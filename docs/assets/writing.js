@@ -50,6 +50,9 @@
           svg.classList.add(img.closest('.writing-card') ? 'writing-symbol' : 'writing-table');
           svg.setAttribute('aria-label', img.alt);
           svg.removeAttribute('aria-labelledby');
+          // The image already has an accessible label; avoid a tooltip covering guides.
+          const title = svg.querySelector('title');
+          if (title) title.remove();
           img.replaceWith(document.importNode(svg, true));
         } catch (error) {
           cache.delete(url.href);

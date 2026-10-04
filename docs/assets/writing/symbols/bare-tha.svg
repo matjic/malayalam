@@ -5,8 +5,8 @@
     <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
       <path d="M41 131 C-5 105 1 26 60 26 C98 26 120 65 115 94" data-part="left arch" transform="translate(0 0) scale(1)" />
       <path d="M115 94 C108 141 59 142 56 92" data-part="central loop down" transform="translate(0 0) scale(1)" />
-      <path d="M56 92 C51 52 89 17 130 26 C184 35 191 101 158 130" data-part="central loop up and right arch" transform="translate(0 0) scale(1)" />
-      <path d="M158 130 C171 119 181 104 181 85" data-part="right descent" transform="translate(0 0) scale(1)" />
+      <path d="M56 92 C51 52 89 17 130 26 C164 32 181 53 181 85" data-part="central loop up and right arch" transform="translate(0 0) scale(1)" />
+      <path d="M181 85 C181 104 171 119 158 130" data-part="right descent" transform="translate(0 0) scale(1)" />
       <path d="M12 4 C22 31 48 31 58 4" data-part="virama" transform="translate(160 -24) scale(1)" />
     </g>
     <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">

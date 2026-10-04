@@ -29,20 +29,16 @@
     </g>
     <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
       <g data-movement="1">
-        <circle cx="0" cy="75" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-        <text x="0" y="79">1</text>
+        <text x="0" y="79" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">1</text>
       </g>
       <g data-movement="2">
-        <circle cx="165" cy="72" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-        <text x="165" y="76">2</text>
+        <text x="165" y="76" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">2</text>
       </g>
       <g data-movement="3">
-        <circle cx="76" cy="76" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-        <text x="76" y="80">3</text>
+        <text x="76" y="80" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">3</text>
       </g>
       <g data-movement="4">
-        <circle cx="272" cy="89" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-        <text x="272" y="93">4</text>
+        <text x="272" y="93" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">4</text>
       </g>
     </g>
   </g>

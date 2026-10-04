@@ -32,24 +32,19 @@
       </g>
       <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
         <g data-movement="1">
-          <circle cx="54" cy="43" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="54" y="47">1</text>
+          <text x="54" y="47" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">1</text>
         </g>
         <g data-movement="2">
-          <circle cx="44" cy="87" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="44" y="91">2</text>
+          <text x="44" y="91" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">2</text>
         </g>
         <g data-movement="3">
-          <circle cx="153" cy="143" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="153" y="147">3</text>
+          <text x="153" y="147" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">3</text>
         </g>
         <g data-movement="4">
-          <circle cx="112" cy="98" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="112" y="102">4</text>
+          <text x="112" y="102" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">4</text>
         </g>
         <g data-movement="5">
-          <circle cx="136" cy="44" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="136" y="48">5</text>
+          <text x="136" y="48" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">5</text>
         </g>
       </g>
     </g>
@@ -58,7 +53,7 @@
   <g transform="translate(532.619 55) scale(0.936508)">
     <g data-symbol="vowel-e">
       <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
-        <path d="M35 113 C-14 87 6 24 48 35 C78 42 82 88 63 111" data-part="left curl" data-movement="1" />
+        <path d="M35 111 C9 98 13 53 47 59 C74 64 81 96 63 111" data-part="left curl" data-movement="1" />
         <path d="M63 111 H166" data-part="crossbar" data-movement="2" />
         <path d="M166 111 V40" data-part="central ascent" data-movement="3" />
         <path d="M166 40 V143 C166 192 108 166 108 115" data-part="central descent and turn" data-movement="4" />
@@ -72,7 +67,7 @@
           </marker>
         </defs>
         <g data-movement="1">
-          <path d="M15 111 C-21 64 5 13 52 22 C85 27 97 73 80 99" marker-end="url(#vowel-e-arrow)" />
+          <path d="M20 111 C-5 92 17 40 48 50 C86 55 96 93 80 99" marker-end="url(#vowel-e-arrow)" />
         </g>
         <g data-movement="2">
           <path d="M71 125 H155" marker-end="url(#vowel-e-arrow)" />
@@ -92,28 +87,22 @@
       </g>
       <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
         <g data-movement="1">
-          <circle cx="56" cy="14" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="56" y="18">1</text>
+          <text x="47" y="42" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">1</text>
         </g>
         <g data-movement="2">
-          <circle cx="116" cy="136" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="116" y="140">2</text>
+          <text x="116" y="140" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">2</text>
         </g>
         <g data-movement="3">
-          <circle cx="144" cy="75" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="144" y="79">3</text>
+          <text x="144" y="79" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">3</text>
         </g>
         <g data-movement="4">
-          <circle cx="189" cy="97" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="189" y="101">4</text>
+          <text x="189" y="101" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">4</text>
         </g>
         <g data-movement="5">
-          <circle cx="108" cy="25" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="108" y="29">5</text>
+          <text x="108" y="29" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">5</text>
         </g>
         <g data-movement="6">
-          <circle cx="242" cy="101" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="242" y="105">6</text>
+          <text x="242" y="105" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">6</text>
         </g>
       </g>
     </g>
@@ -122,7 +111,7 @@
   <g transform="translate(102.619 410) scale(0.936508)">
     <g data-symbol="vowel-ee">
       <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
-        <path d="M35 113 C-14 87 6 24 48 35 C78 42 82 88 63 111" data-part="left curl" data-movement="1" />
+        <path d="M35 111 C9 98 13 53 47 59 C74 64 81 96 63 111" data-part="left curl" data-movement="1" />
         <path d="M63 111 H166" data-part="crossbar" data-movement="2" />
         <path d="M166 111 V40" data-part="central ascent" data-movement="3" />
         <path d="M166 40 V143 C166 192 108 166 108 115" data-part="central descent and turn" data-movement="4" />
@@ -137,7 +126,7 @@
           </marker>
         </defs>
         <g data-movement="1">
-          <path d="M15 111 C-21 64 5 13 52 22 C85 27 97 73 80 99" marker-end="url(#vowel-ee-arrow)" />
+          <path d="M20 111 C-5 92 17 40 48 50 C86 55 96 93 80 99" marker-end="url(#vowel-ee-arrow)" />
         </g>
         <g data-movement="2">
           <path d="M71 125 H155" marker-end="url(#vowel-ee-arrow)" />
@@ -160,32 +149,25 @@
       </g>
       <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
         <g data-movement="1">
-          <circle cx="56" cy="14" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="56" y="18">1</text>
+          <text x="47" y="42" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">1</text>
         </g>
         <g data-movement="2">
-          <circle cx="116" cy="136" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="116" y="140">2</text>
+          <text x="116" y="140" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">2</text>
         </g>
         <g data-movement="3">
-          <circle cx="144" cy="75" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="144" y="79">3</text>
+          <text x="144" y="79" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">3</text>
         </g>
         <g data-movement="4">
-          <circle cx="189" cy="97" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="189" y="101">4</text>
+          <text x="189" y="101" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">4</text>
         </g>
         <g data-movement="5">
-          <circle cx="108" cy="25" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="108" y="29">5</text>
+          <text x="108" y="29" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">5</text>
         </g>
         <g data-movement="6">
-          <circle cx="241" cy="86" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="241" y="90">6</text>
+          <text x="241" y="90" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">6</text>
         </g>
         <g data-movement="7">
-          <circle cx="247" cy="157" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="247" y="161">7</text>
+          <text x="247" y="161" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">7</text>
         </g>
       </g>
     </g>
@@ -196,7 +178,7 @@
       <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
         <path d="M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95" data-part="loop" data-movement="1" />
         <path d="M40 95 C17 12 149 14 133 95 C130 112 118 125 107 131" data-part="outer arch" data-movement="2" />
-        <path d="M35 113 C-14 87 6 24 48 35 C78 42 82 88 63 111" data-part="left curl" transform="translate(150 0) scale(1)" data-movement="3" />
+        <path d="M35 111 C9 98 13 53 47 59 C74 64 81 96 63 111" data-part="left curl" transform="translate(150 0) scale(1)" data-movement="3" />
         <path d="M63 111 H166" data-part="crossbar" transform="translate(150 0) scale(1)" data-movement="4" />
         <path d="M166 111 V40" data-part="central ascent" transform="translate(150 0) scale(1)" data-movement="5" />
         <path d="M166 40 V143 C166 192 108 166 108 115" data-part="central descent and turn" transform="translate(150 0) scale(1)" data-movement="6" />
@@ -208,15 +190,18 @@
           <marker id="vowel-ai-arrow" markerUnits="userSpaceOnUse" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="10" markerHeight="10" orient="auto">
             <path d="M1 1 L8 5 L1 9" fill="none" stroke="#557467" stroke-width="1.6" style="stroke:var(--writing-guide-ink,#557467)" />
           </marker>
+          <marker id="vowel-ai-arrow-0" markerUnits="userSpaceOnUse" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+            <path d="M1 1 L8 5 L1 9" fill="none" stroke="#557467" stroke-width="1.6" style="stroke:var(--writing-guide-ink,#557467)" />
+          </marker>
         </defs>
         <g data-movement="1">
-          <path d="M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99" marker-end="url(#vowel-ai-arrow)" />
+          <path d="M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99" marker-end="url(#vowel-ai-arrow-0)" />
         </g>
         <g data-movement="2">
           <path d="M23 87 C8 0 160 1 147 89 C145 107 133 127 121 137" marker-end="url(#vowel-ai-arrow)" />
         </g>
         <g transform="translate(150 0) scale(1)" data-movement="3">
-          <path d="M15 111 C-21 64 5 13 52 22 C85 27 97 73 80 99" marker-end="url(#vowel-ai-arrow)" />
+          <path d="M20 111 C-5 92 17 40 48 50 C86 55 96 93 80 99" marker-end="url(#vowel-ai-arrow)" />
         </g>
         <g transform="translate(150 0) scale(1)" data-movement="4">
           <path d="M71 125 H155" marker-end="url(#vowel-ai-arrow)" />
@@ -236,36 +221,28 @@
       </g>
       <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
         <g data-movement="1">
-          <circle cx="56" cy="96" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="56" y="100">1</text>
+          <text x="56" y="100" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">1</text>
         </g>
         <g data-movement="2">
-          <circle cx="136" cy="23" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="136" y="27">2</text>
+          <text x="136" y="27" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">2</text>
         </g>
         <g transform="translate(150 0) scale(1)" data-movement="3">
-          <circle cx="56" cy="14" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="56" y="18">3</text>
+          <text x="47" y="42" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">3</text>
         </g>
         <g transform="translate(150 0) scale(1)" data-movement="4">
-          <circle cx="116" cy="136" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="116" y="140">4</text>
+          <text x="116" y="140" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">4</text>
         </g>
         <g transform="translate(150 0) scale(1)" data-movement="5">
-          <circle cx="144" cy="75" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="144" y="79">5</text>
+          <text x="144" y="79" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">5</text>
         </g>
         <g transform="translate(150 0) scale(1)" data-movement="6">
-          <circle cx="189" cy="97" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="189" y="101">6</text>
+          <text x="189" y="101" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">6</text>
         </g>
         <g transform="translate(150 0) scale(1)" data-movement="7">
-          <circle cx="108" cy="25" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="108" y="29">7</text>
+          <text x="108" y="29" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">7</text>
         </g>
         <g transform="translate(150 0) scale(1)" data-movement="8">
-          <circle cx="242" cy="101" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="242" y="105">8</text>
+          <text x="242" y="105" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">8</text>
         </g>
       </g>
     </g>
@@ -283,9 +260,12 @@
           <marker id="vowel-o-arrow" markerUnits="userSpaceOnUse" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="10" markerHeight="10" orient="auto">
             <path d="M1 1 L8 5 L1 9" fill="none" stroke="#557467" stroke-width="1.6" style="stroke:var(--writing-guide-ink,#557467)" />
           </marker>
+          <marker id="vowel-o-arrow-0" markerUnits="userSpaceOnUse" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+            <path d="M1 1 L8 5 L1 9" fill="none" stroke="#557467" stroke-width="1.6" style="stroke:var(--writing-guide-ink,#557467)" />
+          </marker>
         </defs>
         <g data-movement="1">
-          <path d="M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99" marker-end="url(#vowel-o-arrow)" />
+          <path d="M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99" marker-end="url(#vowel-o-arrow-0)" />
         </g>
         <g data-movement="2">
           <path d="M24 87 C6 0 156 0 151 62 C151 74 146 81 138 87" marker-end="url(#vowel-o-arrow)" />
@@ -296,16 +276,13 @@
       </g>
       <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
         <g data-movement="1">
-          <circle cx="56" cy="96" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="56" y="100">1</text>
+          <text x="56" y="100" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">1</text>
         </g>
         <g data-movement="2">
-          <circle cx="105" cy="14" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="105" y="18">2</text>
+          <text x="105" y="18" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">2</text>
         </g>
         <g data-movement="3">
-          <circle cx="164" cy="119" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="164" y="123">3</text>
+          <text x="164" y="123" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">3</text>
         </g>
       </g>
     </g>
@@ -324,9 +301,12 @@
           <marker id="vowel-oo-arrow" markerUnits="userSpaceOnUse" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="10" markerHeight="10" orient="auto">
             <path d="M1 1 L8 5 L1 9" fill="none" stroke="#557467" stroke-width="1.6" style="stroke:var(--writing-guide-ink,#557467)" />
           </marker>
+          <marker id="vowel-oo-arrow-0" markerUnits="userSpaceOnUse" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+            <path d="M1 1 L8 5 L1 9" fill="none" stroke="#557467" stroke-width="1.6" style="stroke:var(--writing-guide-ink,#557467)" />
+          </marker>
         </defs>
         <g data-movement="1">
-          <path d="M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99" marker-end="url(#vowel-oo-arrow)" />
+          <path d="M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99" marker-end="url(#vowel-oo-arrow-0)" />
         </g>
         <g data-movement="2">
           <path d="M24 87 C6 0 156 0 151 62 C151 74 146 81 138 87" marker-end="url(#vowel-oo-arrow)" />
@@ -340,20 +320,16 @@
       </g>
       <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
         <g data-movement="1">
-          <circle cx="56" cy="96" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="56" y="100">1</text>
+          <text x="56" y="100" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">1</text>
         </g>
         <g data-movement="2">
-          <circle cx="105" cy="14" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="105" y="18">2</text>
+          <text x="105" y="18" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">2</text>
         </g>
         <g data-movement="3">
-          <circle cx="164" cy="119" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="164" y="123">3</text>
+          <text x="164" y="123" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">3</text>
         </g>
         <g transform="translate(160 0) scale(1)" data-movement="4">
-          <circle cx="93" cy="82" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="93" y="86">4</text>
+          <text x="93" y="86" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">4</text>
         </g>
       </g>
     </g>

@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 1420" role="img" aria-label="Malayalam writing symbols, Moag PDF page 43">
-  <g transform="translate(96.553 55) scale(0.893939)">
+  <g transform="translate(89.8485 90.7576) scale(0.893939)">
     <g data-symbol="chillu-l">
       <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
         <path d="M41 131 C-5 105 1 26 60 26 C98 26 120 65 115 94" data-part="left arch" data-movement="1" />
         <path d="M115 94 C108 141 59 142 56 92" data-part="central loop down" data-movement="2" />
-        <path d="M56 92 C51 52 89 17 130 26 C184 35 191 101 158 130" data-part="central loop up and right arch" data-movement="3" />
-        <path d="M158 130 C171 119 181 104 181 85" data-part="right descent" data-movement="4" />
-        <path d="M0 0 C-24 -36 24 -62 24 -89" data-part="tail ascent" transform="translate(158 130) scale(0.9)" data-movement="5" />
-        <path d="M24 -89 C24 -128 -25 -129 -25 -103" data-part="tail curl" transform="translate(158 130) scale(0.9)" data-movement="6" />
+        <path d="M56 92 C51 52 89 17 130 26 C164 32 181 53 181 85" data-part="central loop up and right arch" data-movement="3" />
+        <path d="M181 85 C181 104 171 119 158 130" data-part="right loop down" data-movement="4" />
+        <path d="M158 130 C114 132 112 88 162 58 C193 37 204 24 204 10" data-part="tail ascent" data-movement="5" />
+        <path d="M204 10 C204 -44 150 -49 159 -22" data-part="raised curl" data-movement="6" />
       </g>
       <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">
         <defs>
@@ -25,51 +25,45 @@
           <path d="M45 119 C27 59 73 4 125 13" marker-end="url(#chillu-l-arrow)" />
         </g>
         <g data-movement="4">
-          <path d="M183 30 C217 75 203 111 179 138" marker-end="url(#chillu-l-arrow)" />
+          <path d="M160 14 C216 55 210 108 180 142" marker-end="url(#chillu-l-arrow)" />
         </g>
-        <g transform="translate(158 130) scale(0.9)" data-movement="5">
-          <path d="M-10 -12 C-23 -42 29 -69 37 -90" marker-end="url(#chillu-l-arrow)" />
+        <g data-movement="5">
+          <path d="M142 122 C94 101 120 69 168 43 C201 25 219 15 217 6" marker-end="url(#chillu-l-arrow)" />
         </g>
-        <g transform="translate(158 130) scale(0.9)" data-movement="6">
-          <path d="M37 -104 C29 -155 -43 -143 -39 -112" marker-end="url(#chillu-l-arrow)" />
+        <g data-movement="6">
+          <path d="M218 -5 C221 -66 133 -67 143 -26" marker-end="url(#chillu-l-arrow)" />
         </g>
       </g>
       <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
         <g data-movement="1">
-          <circle cx="0" cy="72" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="0" y="76">1</text>
+          <text x="0" y="76" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">1</text>
         </g>
         <g data-movement="2">
-          <circle cx="121" cy="115" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="121" y="119">2</text>
+          <text x="121" y="119" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">2</text>
         </g>
         <g data-movement="3">
-          <circle cx="76" cy="17" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="76" y="21">3</text>
+          <text x="76" y="21" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">3</text>
         </g>
         <g data-movement="4">
-          <circle cx="208" cy="94" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="208" y="98">4</text>
+          <text x="221" y="99" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">4</text>
         </g>
-        <g transform="translate(158 130) scale(0.9)" data-movement="5">
-          <circle cx="31" cy="-64" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="31" y="-60">5</text>
+        <g data-movement="5">
+          <text x="230" y="47" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">5</text>
         </g>
-        <g transform="translate(158 130) scale(0.9)" data-movement="6">
-          <circle cx="4" cy="-151" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="4" y="-147">6</text>
+        <g data-movement="6">
+          <text x="188" y="-63" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">6</text>
         </g>
       </g>
     </g>
   </g>
   <text x="215.0" y="343" font-size="22" text-anchor="middle">ല → ൽ</text>
-  <g transform="translate(511.328 55) scale(0.921875)">
+  <g transform="translate(518.242 91.875) scale(0.921875)">
     <g data-symbol="chillu-ll">
       <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
-        <path d="M50 82 C-6 109 14 160 69 159 C92 159 110 146 137 123" data-part="left bowl" data-movement="1" />
-        <path d="M137 123 L191 74 C221 43 264 57 264 97" data-part="diagonal ascent" data-movement="2" />
-        <path d="M264 97 C264 141 231 154 202 123 L126 46" data-part="right bowl" data-movement="3" />
-        <path d="M126 46 L74 -1 C45 -29 24 15 43 23" data-part="upper left curl" data-movement="4" />
+        <path d="M40 35 C-8 55 9 140 66 135 C110 132 113 103 113 80" data-part="left bowl" data-movement="1" />
+        <path d="M113 80 V69 C113 16 211 21 227 76" data-part="middle ascent and right arch" data-movement="2" />
+        <path d="M227 76 C247 128 209 155 178 132" data-part="right loop down" data-movement="3" />
+        <path d="M178 132 C140 105 178 55 197 35 C240 -2 226 -40 183 -29" data-part="inner loop and raised curl" data-movement="4" />
       </g>
       <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">
         <defs>
@@ -78,34 +72,30 @@
           </marker>
         </defs>
         <g data-movement="1">
-          <path d="M23 84 C-23 115 10 176 67 173" marker-end="url(#chillu-ll-arrow)" />
+          <path d="M25 33 C-32 70 -4 149 47 152" marker-end="url(#chillu-ll-arrow)" />
         </g>
         <g data-movement="2">
-          <path d="M101 137 L186 60 C211 30 249 33 263 51" marker-end="url(#chillu-ll-arrow)" />
+          <path d="M101 96 V62 C101 10 187 3 216 34" marker-end="url(#chillu-ll-arrow)" />
         </g>
         <g data-movement="3">
-          <path d="M278 75 C304 134 252 183 206 151" marker-end="url(#chillu-ll-arrow)" />
+          <path d="M240 64 C270 131 221 175 190 154" marker-end="url(#chillu-ll-arrow)" />
         </g>
         <g data-movement="4">
-          <path d="M152 56 L69 -21 C21 -60 -2 4 16 21" marker-end="url(#chillu-ll-arrow)" />
+          <path d="M166 123 C141 93 199 43 217 13 C242 -47 198 -62 183 -44" marker-end="url(#chillu-ll-arrow)" />
         </g>
       </g>
       <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
         <g data-movement="1">
-          <circle cx="0" cy="133" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="0" y="137">1</text>
+          <text x="0" y="104" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">1</text>
         </g>
         <g data-movement="2">
-          <circle cx="217" cy="33" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="217" y="37">2</text>
+          <text x="151" y="11" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">2</text>
         </g>
         <g data-movement="3">
-          <circle cx="284" cy="137" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="284" y="141">3</text>
+          <text x="271" y="122" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">3</text>
         </g>
         <g data-movement="4">
-          <circle cx="77" cy="-22" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-          <text x="77" y="-18">4</text>
+          <text x="239" y="-31" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">4</text>
         </g>
       </g>
     </g>
@@ -137,8 +127,8 @@
   <g transform="translate(522.083 410) scale(0.983333)">
     <g data-symbol="bare-cha">
       <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
-        <path d="M51 81 C17 64 32 16 66 23 C87 27 101 45 104 63" data-part="upper curl" transform="translate(0 0) scale(1)" />
-        <path d="M104 63 C110 101 77 129 23 129" data-part="curl and leftward baseline" transform="translate(0 0) scale(1)" />
+        <path d="M51 100 C23 85 34 53 66 60 C87 64 103 77 104 92" data-part="upper curl" transform="translate(0 0) scale(1)" />
+        <path d="M104 92 C110 116 77 129 23 129" data-part="curl and leftward baseline" transform="translate(0 0) scale(1)" />
         <path d="M23 129 H219" data-part="baseline" transform="translate(0 0) scale(1)" />
         <path d="M219 129 V18" data-part="right ascent" transform="translate(0 0) scale(1)" />
         <path d="M12 4 C22 31 48 31 58 4" data-part="virama" transform="translate(170 -24) scale(1)" />
@@ -177,8 +167,8 @@
       <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
         <path d="M41 131 C-5 105 1 26 60 26 C98 26 120 65 115 94" data-part="left arch" transform="translate(0 0) scale(1)" />
         <path d="M115 94 C108 141 59 142 56 92" data-part="central loop down" transform="translate(0 0) scale(1)" />
-        <path d="M56 92 C51 52 89 17 130 26 C184 35 191 101 158 130" data-part="central loop up and right arch" transform="translate(0 0) scale(1)" />
-        <path d="M158 130 C171 119 181 104 181 85" data-part="right descent" transform="translate(0 0) scale(1)" />
+        <path d="M56 92 C51 52 89 17 130 26 C164 32 181 53 181 85" data-part="central loop up and right arch" transform="translate(0 0) scale(1)" />
+        <path d="M181 85 C181 104 171 119 158 130" data-part="right descent" transform="translate(0 0) scale(1)" />
         <path d="M12 4 C22 31 48 31 58 4" data-part="virama" transform="translate(160 -24) scale(1)" />
       </g>
       <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">
@@ -195,7 +185,7 @@
   <g transform="translate(87.1667 1120) scale(0.983333)">
     <g data-symbol="bare-pa">
       <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
-        <path d="M43 130 C-10 100 16 41 54 46 C100 47 111 104 86 127" data-part="left curl" transform="translate(0 0) scale(1)" />
+        <path d="M43 130 C9 112 20 70 55 71 C94 72 106 104 86 127" data-part="left curl" transform="translate(0 0) scale(1)" />
         <path d="M86 127 H222" data-part="baseline" transform="translate(0 0) scale(1)" />
         <path d="M222 127 V20" data-part="right ascent" transform="translate(0 0) scale(1)" />
         <path d="M12 4 C22 31 48 31 58 4" data-part="virama" transform="translate(180 -24) scale(1)" />

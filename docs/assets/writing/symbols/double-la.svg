@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-55 -55 360 395" role="img" aria-labelledby="double-la-title double-la-description" data-source-page="45">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-55 -55 360 375" role="img" aria-labelledby="double-la-title double-la-description" data-source-page="45">
   <title id="double-la-title">ല്ല — writing diagram</title>
   <desc id="double-la-description">Redrawn from Moag, PDF page 45. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="double-la">
@@ -8,8 +8,8 @@
       <path d="M31 78 V138" data-part="left descent" data-movement="3" />
       <path d="M31 138 H209" data-part="baseline" data-movement="4" />
       <path d="M209 138 V24" data-part="right ascent" data-movement="5" />
-      <path d="M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95 M40 95 C14 33 95 25 95 72 V100" data-part="lower loop and arch" transform="translate(27 116) scale(0.9)" data-movement="6" />
-      <path d="M95 100 C95 154 178 161 176 79" data-part="lower bowl" transform="translate(27 116) scale(0.9)" data-movement="7" />
+      <path d="M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95 M40 95 C14 33 95 25 95 72 V100" data-part="lower loop and arch" transform="translate(27 92) scale(0.9)" data-movement="6" />
+      <path d="M95 100 C95 154 178 161 176 79" data-part="lower bowl" transform="translate(27 92) scale(0.9)" data-movement="7" />
     </g>
     <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">
       <defs>
@@ -32,41 +32,34 @@
       <g data-movement="5">
         <path d="M222 135 V31" marker-end="url(#double-la-arrow)" />
       </g>
-      <g transform="translate(27 116) scale(0.9)" data-movement="6">
+      <g transform="translate(27 92) scale(0.9)" data-movement="6">
         <path d="M32 57 C14 27 103 9 107 65 V87" marker-end="url(#double-la-arrow)" />
       </g>
-      <g transform="translate(27 116) scale(0.9)" data-movement="7">
+      <g transform="translate(27 92) scale(0.9)" data-movement="7">
         <path d="M107 112 C132 169 198 149 190 86" marker-end="url(#double-la-arrow)" />
       </g>
     </g>
     <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
       <g data-movement="1">
-        <circle cx="82" cy="108" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-        <text x="82" y="112">1</text>
+        <text x="82" y="112" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">1</text>
       </g>
       <g data-movement="2">
-        <circle cx="74" cy="3" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-        <text x="74" y="7">2</text>
+        <text x="74" y="7" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">2</text>
       </g>
       <g data-movement="3">
-        <circle cx="4" cy="114" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-        <text x="4" y="118">3</text>
+        <text x="4" y="118" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">3</text>
       </g>
       <g data-movement="4">
-        <circle cx="123" cy="168" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-        <text x="123" y="172">4</text>
+        <text x="123" y="172" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">4</text>
       </g>
       <g data-movement="5">
-        <circle cx="237" cy="84" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-        <text x="237" y="88">5</text>
+        <text x="237" y="88" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">5</text>
       </g>
-      <g transform="translate(27 116) scale(0.9)" data-movement="6">
-        <circle cx="93" cy="28" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-        <text x="93" y="32">6</text>
+      <g transform="translate(27 92) scale(0.9)" data-movement="6">
+        <text x="93" y="32" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">6</text>
       </g>
-      <g transform="translate(27 116) scale(0.9)" data-movement="7">
-        <circle cx="173" cy="151" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-        <text x="173" y="155">7</text>
+      <g transform="translate(27 92) scale(0.9)" data-movement="7">
+        <text x="173" y="155" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">7</text>
       </g>
     </g>
   </g>

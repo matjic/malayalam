@@ -41,32 +41,25 @@
     </g>
     <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
       <g data-movement="1">
-        <circle cx="143" cy="4" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-        <text x="143" y="8">1</text>
+        <text x="143" y="8" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">1</text>
       </g>
       <g data-movement="2">
-        <circle cx="129" cy="149" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-        <text x="129" y="153">2</text>
+        <text x="129" y="153" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">2</text>
       </g>
       <g data-movement="3">
-        <circle cx="114" cy="93" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-        <text x="114" y="97">3</text>
+        <text x="114" y="97" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">3</text>
       </g>
       <g data-movement="4">
-        <circle cx="68" cy="96" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-        <text x="68" y="100">4</text>
+        <text x="68" y="100" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">4</text>
       </g>
       <g data-movement="5">
-        <circle cx="9" cy="97" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-        <text x="9" y="101">5</text>
+        <text x="9" y="101" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">5</text>
       </g>
       <g data-movement="6">
-        <circle cx="175" cy="41" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-        <text x="175" y="45">6</text>
+        <text x="175" y="45" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">6</text>
       </g>
       <g data-movement="7">
-        <circle cx="249" cy="96" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-        <text x="249" y="100">7</text>
+        <text x="249" y="100" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">7</text>
       </g>
     </g>
   </g>

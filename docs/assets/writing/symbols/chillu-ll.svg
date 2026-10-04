@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-55 -55 400 320" role="img" aria-labelledby="chillu-ll-title chillu-ll-description" data-source-page="43">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-55 -95 385 360" role="img" aria-labelledby="chillu-ll-title chillu-ll-description" data-source-page="43" data-form="modern">
   <title id="chillu-ll-title">ൾ — writing diagram</title>
-  <desc id="chillu-ll-description">Redrawn from Moag, PDF page 43. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
+  <desc id="chillu-ll-description">Modern form of ൾ, with editorial drawing movements. Moag PDF page 43 contains an older form. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="chillu-ll">
     <g class="writing-ink" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" style="stroke-width:var(--writing-stroke-width,8)">
-      <path d="M50 82 C-6 109 14 160 69 159 C92 159 110 146 137 123" data-part="left bowl" data-movement="1" />
-      <path d="M137 123 L191 74 C221 43 264 57 264 97" data-part="diagonal ascent" data-movement="2" />
-      <path d="M264 97 C264 141 231 154 202 123 L126 46" data-part="right bowl" data-movement="3" />
-      <path d="M126 46 L74 -1 C45 -29 24 15 43 23" data-part="upper left curl" data-movement="4" />
+      <path d="M40 35 C-8 55 9 140 66 135 C110 132 113 103 113 80" data-part="left bowl" data-movement="1" />
+      <path d="M113 80 V69 C113 16 211 21 227 76" data-part="middle ascent and right arch" data-movement="2" />
+      <path d="M227 76 C247 128 209 155 178 132" data-part="right loop down" data-movement="3" />
+      <path d="M178 132 C140 105 178 55 197 35 C240 -2 226 -40 183 -29" data-part="inner loop and raised curl" data-movement="4" />
     </g>
     <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">
       <defs>
@@ -15,34 +15,30 @@
         </marker>
       </defs>
       <g data-movement="1">
-        <path d="M23 84 C-23 115 10 176 67 173" marker-end="url(#chillu-ll-arrow)" />
+        <path d="M25 33 C-32 70 -4 149 47 152" marker-end="url(#chillu-ll-arrow)" />
       </g>
       <g data-movement="2">
-        <path d="M101 137 L186 60 C211 30 249 33 263 51" marker-end="url(#chillu-ll-arrow)" />
+        <path d="M101 96 V62 C101 10 187 3 216 34" marker-end="url(#chillu-ll-arrow)" />
       </g>
       <g data-movement="3">
-        <path d="M278 75 C304 134 252 183 206 151" marker-end="url(#chillu-ll-arrow)" />
+        <path d="M240 64 C270 131 221 175 190 154" marker-end="url(#chillu-ll-arrow)" />
       </g>
       <g data-movement="4">
-        <path d="M152 56 L69 -21 C21 -60 -2 4 16 21" marker-end="url(#chillu-ll-arrow)" />
+        <path d="M166 123 C141 93 199 43 217 13 C242 -47 198 -62 183 -44" marker-end="url(#chillu-ll-arrow)" />
       </g>
     </g>
     <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
       <g data-movement="1">
-        <circle cx="0" cy="133" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-        <text x="0" y="137">1</text>
+        <text x="0" y="104" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">1</text>
       </g>
       <g data-movement="2">
-        <circle cx="217" cy="33" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-        <text x="217" y="37">2</text>
+        <text x="151" y="11" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">2</text>
       </g>
       <g data-movement="3">
-        <circle cx="284" cy="137" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-        <text x="284" y="141">3</text>
+        <text x="271" y="122" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">3</text>
       </g>
       <g data-movement="4">
-        <circle cx="77" cy="-22" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-        <text x="77" y="-18">4</text>
+        <text x="239" y="-31" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">4</text>
       </g>
     </g>
   </g>

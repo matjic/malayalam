@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-55 -55 525 320" role="img" aria-labelledby="join-va-title join-va-description" data-source-page="46">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-55 -55 495 320" role="img" aria-labelledby="join-va-title join-va-description" data-source-page="46">
   <title id="join-va-title">സ്വ — writing diagram</title>
   <desc id="join-va-description">Redrawn from Moag, PDF page 46. Separate centerline paths represent the letter; thin arrows and numbers show writing movements.</desc>
   <g data-symbol="join-va">
@@ -8,8 +8,8 @@
       <path d="M105 130 V73 C105 11 207 13 207 73" data-part="right arch" transform="translate(0 0) scale(1)" />
       <path d="M207 73 V98 C207 143 270 145 277 103" data-part="right descent" transform="translate(0 0) scale(1)" />
       <path d="M277 103 C290 75 282 44 257 23" data-part="right bowl return" transform="translate(0 0) scale(1)" />
-      <path d="M13 136 H70" data-part="joining baseline" transform="translate(314 0) scale(1)" data-movement="1" />
-      <path d="M70 136 V25" data-part="joining ascent" transform="translate(314 0) scale(1)" data-movement="2" />
+      <path d="M13 136 H70" data-part="joining baseline" transform="translate(286 0) scale(1)" data-movement="1" />
+      <path d="M70 136 V25" data-part="joining ascent" transform="translate(286 0) scale(1)" data-movement="2" />
     </g>
     <g class="writing-guides" fill="none" stroke="#557467" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" style="stroke:var(--writing-guide-ink,#557467)">
       <defs>
@@ -17,21 +17,19 @@
           <path d="M1 1 L8 5 L1 9" fill="none" stroke="#557467" stroke-width="1.6" style="stroke:var(--writing-guide-ink,#557467)" />
         </marker>
       </defs>
-      <g transform="translate(314 0) scale(1)" data-movement="1">
+      <g transform="translate(286 0) scale(1)" data-movement="1">
         <path d="M19 151 H62" marker-end="url(#join-va-arrow)" />
       </g>
-      <g transform="translate(314 0) scale(1)" data-movement="2">
+      <g transform="translate(286 0) scale(1)" data-movement="2">
         <path d="M83 131 V33" marker-end="url(#join-va-arrow)" />
       </g>
     </g>
     <g class="writing-labels" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#557467" style="fill:var(--writing-guide-ink,#557467)">
-      <g transform="translate(314 0) scale(1)" data-movement="1">
-        <circle cx="43" cy="165" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-        <text x="43" y="169">1</text>
+      <g transform="translate(286 0) scale(1)" data-movement="1">
+        <text x="43" y="169" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">1</text>
       </g>
-      <g transform="translate(314 0) scale(1)" data-movement="2">
-        <circle cx="96" cy="81" r="9" fill="#fff" style="fill:var(--writing-background,#fff)" />
-        <text x="96" y="85">2</text>
+      <g transform="translate(286 0) scale(1)" data-movement="2">
+        <text x="96" y="85" paint-order="stroke fill" stroke="#fff" stroke-width="3" stroke-linejoin="round" style="stroke:var(--writing-background,#fff)">2</text>
       </g>
     </g>
   </g>

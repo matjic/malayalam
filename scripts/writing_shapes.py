@@ -1,7 +1,8 @@
 """Hand-authored centerlines, guide curves, and label positions.
 
 Reference: Moag, PDF pp. 27–46. Coordinates are design units, not scan pixels.
-Each S() is a numbered movement in the source, not necessarily a pen lift.
+Each S() is a numbered drawing movement, not necessarily a pen lift.
+Modern-form replacements use editorial movements; other counts follow the source.
 Shared components are transformed geometrically; no raster tracing or font
 outlines are used. Unnumbered context strokes have no guide or label.
 """
@@ -9,8 +10,11 @@ outlines are used. Unnumbered context strokes have no guide or label.
 from copy import deepcopy
 
 
-def S(name, ink, guide, x, y):
-    return {'name': name, 'path': ink, 'guide': guide, 'label': [x, y]}
+def S(name, ink, guide, x, y, arrow_size=10):
+    stroke = {'name': name, 'path': ink, 'guide': guide, 'label': [x, y]}
+    if arrow_size != 10:
+        stroke['arrow_size'] = arrow_size
+    return stroke
 
 
 def move(strokes, x=0, y=0, scale=1, context=False):
@@ -37,7 +41,7 @@ def add(key, symbol, page, width, strokes, caption=None, height=180):
 
 # Common counterclockwise loop, and the two movements of the tall au mark.
 LOOP = [S('loop', 'M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95',
-          'M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99', 56, 96)]
+          'M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99', 56, 96, arrow_size=6)]
 AU_MARK = [
     S('first arch', 'M20 85 V52 C20 24 54 24 54 52 V85',
       'M28 78 V52 C28 34 46 34 46 52 V78', 37, 58),
@@ -101,8 +105,8 @@ add('vowel-r', 'ഋ', 28, 190, [
       'M145 38 C138 25 123 30 125 44 C128 58 146 56 145 45', 136, 44),
 ], height=200)
 E = add('vowel-e', 'എ', 28, 240, [
-    S('left curl', 'M35 113 C-14 87 6 24 48 35 C78 42 82 88 63 111',
-      'M15 111 C-21 64 5 13 52 22 C85 27 97 73 80 99', 56, 14),
+    S('left curl', 'M35 111 C9 98 13 53 47 59 C74 64 81 96 63 111',
+      'M20 111 C-5 92 17 40 48 50 C86 55 96 93 80 99', 47, 38),
     S('crossbar', 'M63 111 H166', 'M71 125 H155', 116, 136),
     S('central ascent', 'M166 111 V40', 'M155 101 V48', 144, 75),
     S('central descent and turn', 'M166 40 V143 C166 192 108 166 108 115',
@@ -134,7 +138,7 @@ AA_MARK = [S('long-a bowl', 'M33 40 C74 -5 119 104 63 128 C42 137 29 126 25 114'
 add('vowel-oo', 'ഓ', 28, 295, O + move(AA_MARK, 160))
 add('vowel-au', 'ഔ', 29, 300, O + move(AU_MARK, 172, 8, 1.1))
 DOT = [S('anusvara circle', 'M32 75 C32 42 76 42 76 75 C76 108 32 108 32 75',
-         'M44 64 C62 50 74 76 57 87 C46 94 42 82 43 77', 55, 75)]
+         'M44 64 C62 50 74 76 57 87 C46 94 42 82 43 77', 55, 75, arrow_size=6)]
 COLON = move(DOT, 0, -25, .75) + move(DOT, 0, 55, .75)
 add('vowel-am', 'അം', 29, 335, A + move(DOT, 253, 31))
 add('vowel-ah', 'അഃ', 29, 335, A + move(COLON, 256, 10))
@@ -159,7 +163,10 @@ SIGN_U = add('sign-u', 'ു', 31, 110, [
     S('lower loop right', 'M65 162 C99 162 97 118 65 118',
       'M77 175 C109 157 108 135 94 118', 111, 146),
 ], height=200)
-add('sign-uu', 'ൂ', 31, 120, SIGN_U + move(LOOP, 29, 81, .53), height=200)
+add('sign-uu', 'ൂ', 31, 120, SIGN_U + [
+    S('inner return', 'M65 118 C43 118 41 143 65 143 C84 143 86 128 76 123',
+      'M59 126 C47 128 52 137 64 136', 112, 147, arrow_size=6),
+], height=200)
 add('sign-r', 'ൃ', 31, 110, [
     S('curved descent', 'M76 20 C40 18 67 72 74 123',
       'M84 28 C54 27 81 75 86 125', 101, 88),
@@ -169,7 +176,7 @@ add('sign-r', 'ൃ', 31, 110, [
 add('sign-e', 'െ', 32, 175, PRE_E)
 PRE_EE = add('sign-ee', 'േ', 32, 140, [
     S('upper loop', 'M85 43 C110 43 109 15 85 15 C59 15 62 44 85 43',
-      'M84 21 C94 19 100 35 89 36 C79 37 76 30 79 25', 91, 29),
+      'M87 23 C98 21 101 33 91 36 C81 39 75 33 78 27', 121, 29, arrow_size=6),
     S('left arc', 'M85 15 C8 6 9 138 82 138',
       'M87 1 C-10 -3 -8 154 69 154', 4, 89),
     S('lower loop', 'M82 138 C118 138 109 98 87 104 C69 107 64 126 82 138',
@@ -228,10 +235,10 @@ NGA = add('nga', 'ങ', 35, 245, [*LOOP,
       'M185 87 C215 87 213 123 184 123', 204, 105),
 ])
 CHA = add('cha', 'ച', 36, 250, [
-    S('upper curl', 'M51 81 C17 64 32 16 66 23 C87 27 101 45 104 63',
-      'M30 75 C12 42 29 8 66 9', 29, 25),
-    S('curl and leftward baseline', 'M104 63 C110 101 77 129 23 129',
-      'M92 57 C99 92 69 116 30 116', 58, 108),
+    S('upper curl', 'M51 100 C23 85 34 53 66 60 C87 64 103 77 104 92',
+      'M34 102 C15 70 36 39 79 54', 25, 51),
+    S('curl and leftward baseline', 'M104 92 C110 116 77 129 23 129',
+      'M93 90 C101 107 66 116 30 116', 65, 107),
     S('baseline', 'M23 129 H219', 'M28 143 H211', 114, 155),
     S('right ascent', 'M219 129 V18', 'M232 129 V26', 245, 80),
 ])
@@ -258,9 +265,9 @@ THA = [
       'M25 130 C-23 85 -3 13 55 13', 0, 72),
     S('central loop down', 'M115 94 C108 141 59 142 56 92',
       'M105 49 C127 94 109 130 86 143', 121, 115),
-    S('central loop up and right arch', 'M56 92 C51 52 89 17 130 26 C184 35 191 101 158 130',
+    S('central loop up and right arch', 'M56 92 C51 52 89 17 130 26 C164 32 181 53 181 85',
       'M45 119 C27 59 73 4 125 13', 76, 17),
-    S('right descent', 'M158 130 C171 119 181 104 181 85',
+    S('right descent', 'M181 85 C181 104 171 119 158 130',
       'M183 30 C217 75 203 111 179 138', 208, 94),
 ]
 DDA = [
@@ -274,7 +281,12 @@ DDA = [
     S('right return', 'M213 112 C233 78 225 42 199 24',
       'M203 145 C251 126 250 62 226 34', 248, 95),
 ]
-add('jha', 'ഝ', 36, 310, THA + move(DDA[2:], 30))
+add('jha', 'ഝ', 36, 350, THA[:2] + [
+    S('central loop ascent', 'M56 92 C51 52 89 17 130 26',
+      'M45 119 C27 59 73 4 125 13', 76, 17),
+    S('joining arch and left bowl', 'M130 26 C167 35 181 53 181 78 V106 C181 142 235 142 235 106',
+      'M144 13 C200 30 194 67 194 103 C194 150 218 151 229 130', 199, 70),
+] + move(DDA[2:], 84))
 NYA = add('nya', 'ഞ', 36, 350, [*LOOP,
     S('left arch', 'M40 95 C13 17 116 6 119 52',
       'M23 87 C6 0 83 -6 106 14', 67, 2),
@@ -294,7 +306,10 @@ TTA = add('tta', 'ട', 37, 160, [
     S('lower curl', 'M76 80 C139 77 153 137 88 137 C57 137 36 130 27 115',
       'M31 94 C163 75 151 128 65 125', 90, 109),
 ])
-add('ttha', 'ഠ', 37, 145, move(DOT, -19, -21, 1.9))
+add('ttha', 'ഠ', 37, 145, [
+    S('oval', 'M30 85 C30 30 110 30 110 85 C110 140 30 140 30 85',
+      'M42 83 C41 54 100 54 99 85 C97 114 45 115 43 83', 71, 86),
+])
 add('dda', 'ഡ', 37, 270, DDA)
 add('ddha', 'ഢ', 37, 280, DDA[:-1] + [
     S('right loop ascent', 'M213 112 C241 89 241 26 211 24',
@@ -322,9 +337,9 @@ add('thha', 'ഥ', 38, 260, [
       'M243 119 V66 C243 -7 108 -7 108 66 V116', 186, 8),
 ])
 DA = add('da', 'ദ', 38, 180, [
-    S('left arch', 'M45 131 C-9 102 0 20 71 21',
-      'M27 136 C-34 94 -8 7 56 8', 0, 70),
-    S('upper bowl', 'M71 21 C143 14 168 76 87 76',
+    S('left arch', 'M40 131 C28 26 53 16 85 22',
+      'M26 136 C8 32 36 2 69 8', 12, 70),
+    S('upper bowl', 'M85 22 C143 14 168 76 87 76',
       'M101 9 C171 33 163 69 135 79', 169, 48),
     S('lower bowl', 'M87 76 C165 71 167 132 87 132',
       'M135 89 C167 111 142 147 97 146', 169, 121),
@@ -349,8 +364,8 @@ NA = add('na', 'ന', 38, 240, [
       'M179 15 C237 44 237 108 197 139', 230, 82),
 ])
 PA = add('pa', 'പ', 39, 260, [
-    S('left curl', 'M43 130 C-10 100 16 41 54 46 C100 47 111 104 86 127',
-      'M24 130 C-29 83 10 29 61 32 C104 36 123 79 109 106', 102, 52),
+    S('left curl', 'M43 130 C9 112 20 70 55 71 C94 72 106 104 86 127',
+      'M24 130 C-15 104 19 53 61 57 C104 62 119 96 106 116', 91, 55),
     S('baseline', 'M86 127 H222', 'M95 141 H213', 154, 155),
     S('right ascent', 'M222 127 V20', 'M235 125 V28', 248, 80),
 ])
@@ -370,8 +385,8 @@ BA = add('ba', 'ബ', 39, 300, [*LOOP,
     S('right ascent', 'M279 131 V22', 'M292 128 V29', 304, 78),
 ])
 add('bha', 'ഭ', 39, 175, [
-    S('left arch', 'M46 133 C-10 103 -3 20 75 22',
-      'M27 139 C-37 90 -6 5 61 9', 0, 73),
+    S('left arch', 'M39 133 C24 30 50 17 75 22',
+      'M25 139 C6 37 30 4 61 9', 10, 73),
     S('top bowl', 'M75 22 C128 20 133 59 112 60',
       'M105 9 C154 32 148 57 136 67', 159, 43),
     S('middle curl', 'M112 60 H78 C40 60 42 91 78 91 H102',
@@ -385,7 +400,7 @@ MA = add('ma', 'മ', 39, 185, [
     S('right arch', 'M79 25 C128 25 152 35 152 70 V134',
       'M95 10 C152 10 167 33 167 70 V122', 170, 64),
     S('baseline', 'M152 134 H31', 'M140 149 H40', 86, 162),
-    S('inner bowl', 'M53 134 C108 132 123 69 79 25',
+    S('inner bowl', 'M31 134 C108 132 123 69 79 25',
       'M51 122 C96 118 99 70 84 47', 99, 88),
 ])
 YA = add('ya', 'യ', 40, 270, [
@@ -463,39 +478,55 @@ RRA = add('rra', 'റ', 41, 185, [
 ])
 
 
-# Chillus, pp. 42–43: a loop plus rising tail, with separate final curl.
-def tail(x, y, scale=1):
-    return move([
-        S('tail ascent', 'M0 0 C-24 -36 24 -62 24 -89',
-          'M-10 -12 C-23 -42 29 -69 37 -90', 31, -64),
-        S('tail curl', 'M24 -89 C24 -128 -25 -129 -25 -103',
-          'M37 -104 C29 -155 -43 -143 -39 -112', 4, -151),
-    ], x, y, scale)
+# Chillus: independently positioned tails cross the upper right-hand arch.
+# Their curls sit above the body, not inside the right counter.
+add('chillu-nn', 'ൺ', 42, 340, NNA[:-1] + [
+    S('right loop down', 'M271 59 C289 97 277 133 251 133',
+      'M288 64 C308 100 298 137 277 145', 312, 111),
+    S('tail ascent', 'M251 133 C205 133 210 91 252 63 C282 43 291 22 291 10',
+      'M234 121 C188 102 219 69 266 42 C291 27 306 20 306 9', 319, 41),
+    S('raised curl', 'M291 10 C291 -43 239 -48 249 -20',
+      'M305 -3 C307 -68 221 -63 233 -27', 270, -64),
+], caption='ണ → ൺ', height=210)
+add('chillu-n', 'ൻ', 42, 275, NA[:-1] + [
+    S('right loop down', 'M207 73 C214 115 198 133 174 130',
+      'M220 80 C242 115 218 149 193 147', 251, 115),
+    S('tail ascent', 'M174 130 C130 130 132 84 180 57 C211 40 218 23 218 9',
+      'M158 119 C116 111 139 73 180 43 C215 23 233 8 231 -4', 245, 42),
+    S('raised curl', 'M218 9 C218 -42 169 -45 174 -19',
+      'M231 -5 C234 -63 152 -65 160 -24', 200, -62),
+], caption='ന → ൻ', height=210)
+add('chillu-r', 'ർ', 42, 205, RA[:2] + [
+    S('inner loop and tail ascent', 'M101 132 C64 133 62 83 103 50 C135 31 160 15 160 -15',
+      'M88 122 C48 94 73 52 128 22', 58, 101),
+    S('raised curl', 'M160 -15 C160 -56 119 -57 119 -32',
+      'M174 -17 C174 -81 96 -76 103 -39', 144, -77),
+], caption='ര → ർ', height=210)
+add('chillu-l', 'ൽ', 43, 280, THA[:3] + [
+    S('right loop down', 'M181 85 C181 104 171 119 158 130',
+      'M160 14 C216 55 210 108 180 142', 221, 95),
+    S('tail ascent', 'M158 130 C114 132 112 88 162 58 C193 37 204 24 204 10',
+      'M142 122 C94 101 120 69 168 43 C201 25 219 15 217 6', 230, 43),
+    S('raised curl', 'M204 10 C204 -44 150 -49 159 -22',
+      'M218 -5 C221 -66 133 -67 143 -26', 188, -67),
+], caption='ല → ൽ', height=220)
 
-add('chillu-nn', 'ൺ', 42, 320, NNA[:-1] + [
-    S('right loop', 'M271 59 C303 123 245 170 249 133',
-      'M280 64 C306 92 290 130 274 142', 312, 111),
-] + tail(249, 133, .8), caption='ണ → ൺ', height=210)
-add('chillu-n', 'ൻ', 42, 265, NA[:-1] + [
-    S('right loop', 'M207 73 C232 125 176 156 174 130',
-      'M220 80 C246 106 218 147 193 147', 251, 115),
-] + tail(174, 130, .8), caption='ന → ൻ', height=210)
-add('chillu-r', 'ർ', 42, 200, RA[:2] + [
-    S('inner loop and tail ascent',
-      'M101 132 C62 114 75 57 131 65 M101 132 C82 103 120 82 120 61',
-      'M95 118 C68 86 89 61 111 56', 76, 90),
-] + tail(101, 132, .8)[-1:], caption='ര → ർ', height=210)
-add('chillu-l', 'ൽ', 43, 265, THA + tail(158, 130, .9), caption='ല → ൽ', height=220)
-add('chillu-ll', 'ൾ', 43, 290, [
-    S('left bowl', 'M50 82 C-6 109 14 160 69 159 C92 159 110 146 137 123',
-      'M23 84 C-23 115 10 176 67 173', 0, 133),
-    S('diagonal ascent', 'M137 123 L191 74 C221 43 264 57 264 97',
-      'M101 137 L186 60 C211 30 249 33 263 51', 217, 33),
-    S('right bowl', 'M264 97 C264 141 231 154 202 123 L126 46',
-      'M278 75 C304 134 252 183 206 151', 284, 137),
-    S('upper left curl', 'M126 46 L74 -1 C45 -29 24 15 43 23',
-      'M152 56 L69 -21 C21 -60 -2 4 16 21', 77, -22),
+# Modern atomic chillu LL, U+0D7E. The source's crossed-loop variant is obsolete
+# for this diagram. These four numbered drawing movements are editorial, based
+# on the modern form visible in the site's Noto Sans Malayalam captions.
+add('chillu-ll', 'ൾ', 43, 275, [
+    S('left bowl', 'M40 35 C-8 55 9 140 66 135 C110 132 113 103 113 80',
+      'M25 33 C-32 70 -4 149 47 152', 0, 100),
+    S('middle ascent and right arch', 'M113 80 V69 C113 16 211 21 227 76',
+      'M101 96 V62 C101 10 187 3 216 34', 151, 7),
+    S('right loop down', 'M227 76 C247 128 209 155 178 132',
+      'M240 64 C270 131 221 175 190 154', 271, 118),
+    S('inner loop and raised curl', 'M178 132 C140 105 178 55 197 35 C240 -2 226 -40 183 -29',
+      'M166 123 C141 93 199 43 217 13 C242 -47 198 -62 183 -44', 239, -35),
 ], caption='ള → ൾ', height=210)
+for key in ('chillu-nn', 'chillu-n', 'chillu-r', 'chillu-l', 'chillu-ll'):
+    SHAPES[key]['viewTop'] = -95
+SHAPES['chillu-ll']['form'] = 'modern'
 VIRAMA = [S('virama', 'M12 4 C22 31 48 31 58 4',
             'M20 0 C30 17 41 17 51 0', 34, 28)]
 for key, base in [('ka', KA), ('cha', CHA), ('tta', TTA), ('tha', THA), ('pa', PA)]:
@@ -514,15 +545,19 @@ add('double-ka', 'ക്ക', 44, 340, KA[:2] + [
     S('right arch', 'M65 65 H188 C235 11 300 43 294 95 C293 110 288 119 278 128',
       'M200 43 C263 2 326 59 309 103 C306 117 302 126 294 135', 327, 89),
 ])
-add('double-nga', 'ങ്ങ', 44, 345, NGA[:3] + [
-    S('middle upper bowl', 'M127 52 C127 11 217 4 217 54 C217 74 198 75 172 75',
-      'M140 48 C140 23 198 15 204 50 C205 61 199 62 188 63', 192, 37),
-    S('middle lower bowl', 'M172 75 C224 75 232 135 179 135',
-      'M184 87 C215 87 213 124 184 123', 205, 106),
-    S('right arch and upper bowl', 'M217 54 C222 -5 307 11 307 54 C307 74 288 75 262 75',
-      'M231 50 C228 25 287 15 294 48', 295, 16),
-    S('right lower bowl', 'M262 75 C321 73 322 135 270 135 H262',
-      'M302 88 C332 114 306 148 280 148', 335, 121),
+add('double-nga', 'ങ്ങ', 44, 370, [*LOOP,
+    S('left arch', 'M40 95 C15 10 127 6 154 32',
+      'M24 87 C-2 0 98 -9 133 13', 89, 1),
+    S('middle upper bowl', 'M154 32 C202 38 217 83 174 83',
+      'M168 42 C197 49 201 72 184 73', 205, 63),
+    S('middle lower bowl and loop return', 'M174 83 C221 83 216 133 178 133 C123 133 106 61 154 32',
+      'M185 94 C209 106 199 122 180 120', 191, 108),
+    S('joining arch and stem', 'M154 32 C189 6 243 18 243 56 V134',
+      'M128 100 C112 33 171 -7 214 9', 189, -2),
+    S('right upper bowl', 'M243 56 C243 10 332 5 332 54 C332 74 313 75 287 75',
+      'M260 40 C273 -8 351 8 345 51 C345 64 339 72 332 79', 352, 42),
+    S('right lower bowl', 'M287 75 C346 73 347 135 295 135 H287',
+      'M332 88 C362 114 336 148 310 148', 365, 121),
 ])
 
 
@@ -535,32 +570,24 @@ def wedge(x=0, y=0):
 
 
 add('double-cha', 'ച്ച', 44, 265, CHA + wedge(9), height=230)
-add('double-tha', 'ത്ത', 44, 390, THA[:3] + [
-    S('first stem', 'M181 85 V131', 'M194 89 V124', 206, 112),
-    S('second arch', 'M181 131 V85 C181 25 263 9 296 49',
-      'M168 121 V88 C168 5 246 -3 267 11', 224, 3),
-    S('second loop down', 'M296 49 C351 112 286 159 265 119',
-      'M310 53 C348 98 330 137 312 146', 345, 103),
-    S('second loop return', 'M265 119 C244 79 277 21 318 27',
-      'M250 115 C224 58 275 1 309 11', 258, 50),
-    S('right descent', 'M318 27 C374 43 383 96 353 132',
-      'M335 13 C404 31 410 108 375 143', 401, 84),
-])
-add('double-tta', 'ട്ട', 44, 165, TTA + [
-    S('additional lower bowl', 'M88 137 C160 128 156 191 88 191 C57 191 36 184 27 169',
-      'M32 148 C161 131 151 182 66 179', 92, 163),
+double_tha = move(THA) + move(THA, 130)
+double_tha[3]['label'] = [208, 155]
+double_tha[4]['label'] = [16, -9]
+add('double-tha', 'ത്ത', 44, 365, double_tha)
+SHAPES['double-tha']['form'] = 'modern'
+add('double-tta', 'ട്ട', 44, 165, TTA[:1] + [
+    S('middle bowl and baseline', 'M76 80 C139 77 153 137 88 137 H27',
+      'M31 94 C163 75 151 128 65 125', 90, 109),
+    S('lower bowl', 'M27 137 H76 C139 134 153 191 88 191 C57 191 36 184 27 169',
+      'M39 150 C171 134 156 182 60 179', 92, 163),
 ], height=225)
-add('double-nna', 'ണ്ണ', 44, 490, NNA[:6] + [
-    S('third stem', 'M271 59 V133', 'M258 61 V124', 247, 96),
-    S('third arch', 'M271 133 V59 C271 9 380 12 380 78',
-      'M285 122 V60 C285 34 308 29 322 30', 299, 66),
-    S('third loop return', 'M380 78 C381 132 329 153 320 114',
-      'M367 58 C395 99 373 143 351 153', 390, 108),
-    S('third loop ascent', 'M320 114 C307 62 359 5 405 24',
-      'M305 122 C280 54 346 -6 384 8', 323, 52),
-    S('right descent', 'M405 24 C459 43 472 99 437 136',
-      'M420 9 C490 32 500 108 460 147', 490, 81),
-])
+# The printed conjunct stacks two nna forms; the source uses an older linear form.
+stacked_nna = move(NNA)
+stacked_nna[0]['path'] += ' M40 95 V190'
+stacked_nna[2]['path'] = 'M121 48 V227'
+stacked_nna[4]['path'] = 'M181 48 V227'
+add('double-nna', 'ണ്ണ', 44, 310, stacked_nna + move(NNA, 0, 95), height=285)
+SHAPES['double-nna']['form'] = 'modern'
 add('double-na', 'ന്ന', 44, 320, NA[:3] + [
     S('second stem', 'M207 73 V131', 'M194 76 V123', 183, 105),
     S('right arch', 'M207 131 V73 C207 10 292 17 292 73',
@@ -580,7 +607,7 @@ add('double-ma', 'മ്മ', 45, 315, MA + [
     S('second arch', 'M152 134 V63 C152 34 167 25 200 25 C249 25 273 35 273 70 V134',
       'M140 122 V64 C140 -7 285 -4 285 70 V122', 287, 61),
 ] + move(MA[2:], 121))
-add('double-ya', 'യ്യ', 45, 280, YA + wedge(41), height=230)
+add('double-ya', 'യ്യ', 45, 280, YA + wedge(29), height=230)
 SUB_LA = [
     S('lower loop', 'M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95',
       'M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99', 56, 96),
@@ -595,7 +622,7 @@ add('double-la', 'ല്ല', 45, 250, LA + move([
       'M40 95 C14 33 95 25 95 72 V100',
       'M32 57 C14 27 103 9 107 65 V87', 93, 28),
     SUB_LA[2],
-], 27, 116, .9), height=285)
+], 27, 92, .9), height=265)
 add('double-va', 'വ്വ', 45, 260, VA + wedge(), height=230)
 add('double-pa', 'പ്പ', 45, 265, PA + move(PA[:2], 0, 69) + [
     S('second ascent', 'M222 196 V20', 'M249 188 V28', 262, 102),
@@ -615,11 +642,11 @@ JOIN_VA = [
     S('joining baseline', 'M13 136 H70', 'M19 151 H62', 43, 165),
     S('joining ascent', 'M70 136 V25', 'M83 131 V33', 96, 81),
 ]
-add('join-ya', 'ത്യ', 46, 310, move(THA, context=True) + move(JOIN_YA, 234),
+add('join-ya', 'ത്യ', 46, 270, move(THA, context=True) + move(JOIN_YA, 186),
     caption='ത് + യ = ത്യ', height=220)
 add('join-ra', 'പ്ര', 46, 360, move(PA, 92, context=True) + JOIN_RA,
     caption='പ + ര / റ = പ്ര', height=210)
-add('join-la', 'പ്ല', 46, 265, move(PA, context=True) + move(SUB_LA, 54, 101, .95),
+add('join-la', 'പ്ല', 46, 265, move(PA, context=True) + move(SUB_LA, 54, 80, .95),
     caption='പ + ല = പ്ല', height=285)
-add('join-va', 'സ്വ', 46, 415, move(SA, context=True) + move(JOIN_VA, 314),
+add('join-va', 'സ്വ', 46, 385, move(SA, context=True) + move(JOIN_VA, 286),
     caption='സ + വ = സ്വ', height=210)
