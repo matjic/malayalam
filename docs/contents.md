@@ -14,38 +14,38 @@ See [Reading the digital edition](digital-edition.md) for page references and st
 - [The Book And How To Use It](usage.md)
 - [The Malayalam Script](alphabet.md)
 - [How to Write Malayalam Symbols](symbols.md)
-- [Lesson 1](lesson1.md)
-- [Lesson 2](lesson2.md)
-- [Lesson 3](lesson3.md)
-- [Lesson 4](lesson4.md)
-- [Lesson 5](lesson5.md)
-- [Lesson 6](lesson6.md)
-- [Lesson 7](lesson7.md)
-- [Lesson 8](lesson8.md)
+- [Lesson 1: What Is Your Name?](lesson1.md)
+- [Lesson 2: At Mr. Thomas’s Office](lesson2.md)
+- [Lesson 3: Lending and Borrowing](lesson3.md)
+- [Lesson 4: At the Tea Shop](lesson4.md)
+- [Lesson 5: Going to the Movies](lesson5.md)
+- [Lesson 6: Asking for Directions](lesson6.md)
+- [Lesson 7: Catching the Kollam Bus](lesson7.md)
+- [Lesson 8: Asking James for Help](lesson8.md)
 - [Minilesson A: ട്രെയിനിലെ ഒരു രംഗം](minilesson-a.md)
-- [Lesson 9](lesson9.md)
-- [Lesson 10](lesson10.md)
-- [Lesson 11](lesson11.md)
+- [Lesson 9: Sharing Saris](lesson9.md)
+- [Lesson 10: The Geography of Kerala](lesson10.md)
+- [Lesson 11: Sending a Younger Brother to the Market](lesson11.md)
 - [Minilesson B: Kerala Foods](minilesson-b.md)
-- [Lesson 12](lesson12.md)
-- [Lesson 13](lesson13.md)
-- [Lesson 14](lesson14.md)
+- [Lesson 12: Family Plans and Responsibilities](lesson12.md)
+- [Lesson 13: Filling Out a Loan Application](lesson13.md)
+- [Lesson 14: Reading the Newspaper](lesson14.md)
 - [Minilesson C: Time Expressions with “for”, “ago”, “in”, “since”, etc.](minilesson-c.md)
-- [Lesson 15](lesson15.md)
+- [Lesson 15: A Meeting at the Bus Station](lesson15.md)
 - [Minilesson D: Again, Another, and other necessary words](minilesson-d.md)
-- [Lesson 16](lesson16.md)
+- [Lesson 16: Newspapers in Kerala](lesson16.md)
 - [Minilesson E: Another Way to Express Obligation](minilesson-e.md)
-- [Lesson 17](lesson17.md)
-- [Lesson 18](lesson18.md)
-- [Lesson 19](lesson19.md)
-- [Lesson 20](lesson20.md)
-- [Lesson 21](lesson21.md)
-- [Lesson 22](lesson22.md)
-- [Lesson 23](lesson23.md)
+- [Lesson 17: Recognizing an Old School Friend](lesson17.md)
+- [Lesson 18: Visiting Leela’s Home](lesson18.md)
+- [Lesson 19: An Argument at the Office](lesson19.md)
+- [Lesson 20: Onam: The Story and the Celebrations](lesson20.md)
+- [Lesson 21: Help with an English Lesson](lesson21.md)
+- [Lesson 22: Rain, Farming, and Rising Prices](lesson22.md)
+- [Lesson 23: Planning a Tour of Kerala](lesson23.md)
 - [Minilesson F: Different Ways to Say “With”](minilesson-f.md)
-- [Lesson 24](lesson24.md)
+- [Lesson 24: Discussing Marriage Customs](lesson24.md)
 - [Minilesson G: Pronunciation Changes in Casual Speech](minilesson-g.md)
-- [Lesson 25](lesson25.md)
+- [Lesson 25: Kerala: Land, Life, and Culture](lesson25.md)
 - [Appendix A: Pronouns and Address Forms](appendix-a.md)
 - [Appendix B: A Compendium of Malayalam Verbforms](appendix-b.md)
 - [Appendix C: All About Time](appendix-c.md)
@@ -111,7 +111,7 @@ See [Reading the digital edition](digital-edition.md) for page references and st
   - [Table VI: Continued](symbols.md#symbols-table-vi-continued)
   - [Table VIII: How to Join യ, ര, റ, ല, and വ to Preceding Consonants](symbols.md#symbols-table-viii-how-to-join-u0d2f-u0d30-u0d31-u0d32-and-u0d35-to-preceding-consonants)
 
-### [Lesson 1](lesson1.md)
+### [Lesson 1: What Is Your Name?](lesson1.md)
 
 - [Reference List](lesson1.md#lesson1-reference-list)
   - [Classroom Expressions](lesson1.md#lesson1-classroom-expressions)
@@ -127,7 +127,7 @@ See [Reading the digital edition](digital-edition.md) for page references and st
   - [1.5. The Quotative or Citation Particle എന്ന്](lesson1.md#section-1-5)
   - [1.6. Social Dimensions of the Personal Pronouns](lesson1.md#section-1-6)
 
-### [Lesson 2](lesson2.md)
+### [Lesson 2: At Mr. Thomas’s Office](lesson2.md)
 
 - [Reference List](lesson2.md#lesson2-reference-list)
   - [A. Personal Pronouns](lesson2.md#lesson2-a-personal-pronouns)
@@ -146,7 +146,7 @@ See [Reading the digital edition](digital-edition.md) for page references and st
   - [2.5. Changing the Order of Sentence Elements for Emphasis](lesson2.md#section-2-5)
   - [2.6 Spelling and Pronunciation Changes when Joining -ഉം](lesson2.md#section-2-6)
 
-### [Lesson 3](lesson3.md)
+### [Lesson 3: Lending and Borrowing](lesson3.md)
 
 - [Reference List](lesson3.md#lesson3-reference-list)
   - [Demonstratives](lesson3.md#lesson3-demonstratives)
@@ -164,7 +164,7 @@ See [Reading the digital edition](digital-edition.md) for page references and st
   - [3.6. Coordinate Conjunctions “...and...and”](lesson3.md#section-3-6)
 - [Illustrations](lesson3.md#lesson3-illustrations)
 
-### [Lesson 4](lesson4.md)
+### [Lesson 4: At the Tea Shop](lesson4.md)
 
 - [Reference List](lesson4.md#lesson4-reference-list)
   - [Dative of Personal Pronouns](lesson4.md#lesson4-dative-of-personal-pronouns)
@@ -180,7 +180,7 @@ See [Reading the digital edition](digital-edition.md) for page references and st
   - [4.5 Differences in the Dative Ending](lesson4.md#section-4-5)
   - [4.6 Two Kinds of Giving](lesson4.md#section-4-6)
 
-### [Lesson 5](lesson5.md)
+### [Lesson 5: Going to the Movies](lesson5.md)
 
 - [Vocabulary](lesson5.md#lesson5-vocabulary)
 - [Reading Practice](lesson5.md#lesson5-reading-practice)
@@ -197,7 +197,7 @@ See [Reading the digital edition](digital-edition.md) for page references and st
   - [5.6 The Plural Marker for Nouns and its Spelling Changes](lesson5.md#section-5-6)
   - [5.7 The Hint of [y] യ with Verbstems and Nouns.](lesson5.md#section-5-7)
 
-### [Lesson 6](lesson6.md)
+### [Lesson 6: Asking for Directions](lesson6.md)
 
 - [Reference List](lesson6.md#lesson6-reference-list)
   - [Possessive of Personal Pronouns](lesson6.md#lesson6-possessive-of-personal-pronouns)
@@ -217,7 +217,7 @@ See [Reading the digital edition](digital-edition.md) for page references and st
   - [6.7. More Uses of the -ാൻ verbform.](lesson6.md#section-6-7)
   - [6.8 Colloquial forms of Words with “From.”](lesson6.md#section-6-8)
 
-### [Lesson 7](lesson7.md)
+### [Lesson 7: Catching the Kollam Bus](lesson7.md)
 
 - [Reference List](lesson7.md#lesson7-reference-list)
   - [Numbers](lesson7.md#lesson7-numbers)
@@ -237,7 +237,7 @@ See [Reading the digital edition](digital-edition.md) for page references and st
   - [7.6 Spelling Changes When Joining -ഏയുള്ളു and -എങ്കിൽ](lesson7.md#section-7-6)
   - [7.7 The Hortative “Let's” Verbform](lesson7.md#section-7-7)
 
-### [Lesson 8](lesson8.md)
+### [Lesson 8: Asking James for Help](lesson8.md)
 
 - [Reference List](lesson8.md#lesson8-reference-list)
   - [All Forms of the Personal Pronouns](lesson8.md#lesson8-all-forms-of-the-personal-pronouns)
@@ -264,7 +264,7 @@ See [Reading the digital edition](digital-edition.md) for page references and st
 - [Vocabulary](minilesson-a.md#minilesson-a-vocabulary)
 - [Conversation](minilesson-a.md#minilesson-a-conversation)
 
-### [Lesson 9](lesson9.md)
+### [Lesson 9: Sharing Saris](lesson9.md)
 
 - [Reference List](lesson9.md#lesson9-reference-list)
   - [All Forms of Nouns](lesson9.md#lesson9-all-forms-of-nouns)
@@ -282,7 +282,7 @@ See [Reading the digital edition](digital-edition.md) for page references and st
   - [9.5 The Absolutive and Other Meanings of the Particle -ഉം](lesson9.md#section-9-5)
 - [Map and Photographs](lesson9.md#lesson9-map-and-photographs)
 
-### [Lesson 10](lesson10.md)
+### [Lesson 10: The Geography of Kerala](lesson10.md)
 
 - [Vocabulary](lesson10.md#lesson10-vocabulary)
 - [Reading Practice](lesson10.md#lesson10-reading-practice)
@@ -300,7 +300,7 @@ See [Reading the digital edition](digital-edition.md) for page references and st
   - [10.7 The Deletion of Halfmoon in Connected Text](lesson10.md#section-10-7)
   - [10.8 Clefting sentences with Desiderative Verbs](lesson10.md#section-10-8)
 
-### [Lesson 11](lesson11.md)
+### [Lesson 11: Sending a Younger Brother to the Market](lesson11.md)
 
 - [Reference List](lesson11.md#lesson11-reference-list)
   - [Past Tense Endings](lesson11.md#lesson11-past-tense-endings)
@@ -324,7 +324,7 @@ See [Reading the digital edition](digital-edition.md) for page references and st
   - [Other Items Associated with Meals](minilesson-b.md#minilesson-b-other-items-associated-with-meals)
   - [Snack Items](minilesson-b.md#minilesson-b-snack-items)
 
-### [Lesson 12](lesson12.md)
+### [Lesson 12: Family Plans and Responsibilities](lesson12.md)
 
 - [Reference List](lesson12.md#lesson12-reference-list)
   - [Simple Forms of the Verb](lesson12.md#lesson12-simple-forms-of-the-verb)
@@ -343,7 +343,7 @@ See [Reading the digital edition](digital-edition.md) for page references and st
   - [12.5 The Permissive Form of the Verb](lesson12.md#section-12-5)
   - [12.6 The verb അറിയുക With Nominative Subjects.](lesson12.md#section-12-6)
 
-### [Lesson 13](lesson13.md)
+### [Lesson 13: Filling Out a Loan Application](lesson13.md)
 
 - [Vocabulary](lesson13.md#lesson13-vocabulary)
 - [Reading Practice](lesson13.md#lesson13-reading-practice)
@@ -360,7 +360,7 @@ See [Reading the digital edition](digital-edition.md) for page references and st
   - [13.6 Postpositions Requiring Nominative Case](lesson13.md#section-13-6)
   - [13.7 Accusative as Indirect Object](lesson13.md#section-13-7)
 
-### [Lesson 14](lesson14.md)
+### [Lesson 14: Reading the Newspaper](lesson14.md)
 
 - [Reference List](lesson14.md#lesson14-reference-list)
   - [Section Titles in Malayalam Newspapers](lesson14.md#lesson14-section-titles-in-malayalam-newspapers)
@@ -383,7 +383,7 @@ See [Reading the digital edition](digital-edition.md) for page references and st
 
 - [Time Expressions with “for”, “ago”, “in”, “since”, etc.](minilesson-c.md#minilesson-c-time-expressions-with-for-ago-in-since-etc)
 
-### [Lesson 15](lesson15.md)
+### [Lesson 15: A Meeting at the Bus Station](lesson15.md)
 
 - [Reference List](lesson15.md#lesson15-reference-list)
 - [Vocabulary](lesson15.md#lesson15-vocabulary)
@@ -405,7 +405,7 @@ See [Reading the digital edition](digital-edition.md) for page references and st
 
 - [Again, Another, and other necessary words](minilesson-d.md#minilesson-d-again-another-and-other-necessary-words)
 
-### [Lesson 16](lesson16.md)
+### [Lesson 16: Newspapers in Kerala](lesson16.md)
 
 - [Reference List](lesson16.md#lesson16-reference-list)
   - [Negative Verbforms with Emphasis added.](lesson16.md#lesson16-negative-verbforms-with-emphasis-added)
@@ -427,7 +427,7 @@ See [Reading the digital edition](digital-edition.md) for page references and st
 
 - [Another Way to Express Obligation](minilesson-e.md#minilesson-e-another-way-to-express-obligation)
 
-### [Lesson 17](lesson17.md)
+### [Lesson 17: Recognizing an Old School Friend](lesson17.md)
 
 - [Vocabulary](lesson17.md#lesson17-vocabulary)
 - [Reading Practice](lesson17.md#lesson17-reading-practice)
@@ -444,7 +444,7 @@ See [Reading the digital edition](digital-edition.md) for page references and st
   - [17.4 Familiar and Formal Commands](lesson17.md#section-17-4)
   - [17.5 The Emphatic Present Verbform with -ന്നുണ്ട്](lesson17.md#section-17-5)
 
-### [Lesson 18](lesson18.md)
+### [Lesson 18: Visiting Leela’s Home](lesson18.md)
 
 - [Vocabulary](lesson18.md#lesson18-vocabulary)
 - [Reading Practice](lesson18.md#lesson18-reading-practice)
@@ -464,7 +464,7 @@ See [Reading the digital edition](digital-edition.md) for page references and st
   - [18.7 Equational and Cleft Sentences with ഉള്ളത്](lesson18.md#section-18-7)
   - [18.8 Rhetorical Questions as Emphatic Statements](lesson18.md#section-18-8)
 
-### [Lesson 19](lesson19.md)
+### [Lesson 19: An Argument at the Office](lesson19.md)
 
 - [Vocabulary](lesson19.md#lesson19-vocabulary)
 - [Reading Practice](lesson19.md#lesson19-reading-practice)
@@ -482,7 +482,7 @@ See [Reading the digital edition](digital-edition.md) for page references and st
   - [19.7 The Present Perfect Verbform](lesson19.md#section-19-7)
   - [19.8 Statements and Commands Using the Double Negative](lesson19.md#section-19-8)
 
-### [Lesson 20](lesson20.md)
+### [Lesson 20: Onam: The Story and the Celebrations](lesson20.md)
 
 - [Reference List](lesson20.md#lesson20-reference-list)
   - [Causative Verbs](lesson20.md#lesson20-causative-verbs)
@@ -509,7 +509,7 @@ See [Reading the digital edition](digital-edition.md) for page references and st
   - [20.6 Joining Two Clauses Showing Simultaneous Action Over Time](lesson20.md#section-20-6)
   - [20.7 Causative and Double Causative Verbs](lesson20.md#section-20-7)
 
-### [Lesson 21](lesson21.md)
+### [Lesson 21: Help with an English Lesson](lesson21.md)
 
 - [Reference List](lesson21.md#lesson21-reference-list)
   - [A Full List of Forms with ആയിരിക്കുക](lesson21.md#lesson21-a-full-list-of-forms-with-u0d06u0d2fu0d30u0d15u0d15u0d15)
@@ -530,7 +530,7 @@ See [Reading the digital edition](digital-edition.md) for page references and st
   - [21.6 The Progressive Aspect of the Verb](lesson21.md#section-21-6)
   - [21.7 A Close Look at Compound Verbs.](lesson21.md#section-21-7)
 
-### [Lesson 22](lesson22.md)
+### [Lesson 22: Rain, Farming, and Rising Prices](lesson22.md)
 
 - [Reference List](lesson22.md#lesson22-reference-list)
   - [Pronouns Made from Question Words](lesson22.md#lesson22-pronouns-made-from-question-words)
@@ -549,7 +549,7 @@ See [Reading the digital edition](digital-edition.md) for page references and st
   - [22.5 The Adverb Marker -ആയി](lesson22.md#section-22-5)
   - [22.6 The “about to” Verbform](lesson22.md#section-22-6)
 
-### [Lesson 23](lesson23.md)
+### [Lesson 23: Planning a Tour of Kerala](lesson23.md)
 
 - [Reference List](lesson23.md#lesson23-reference-list)
   - [Antonyms Formed with Negative Prefixes](lesson23.md#lesson23-antonyms-formed-with-negative-prefixes)
@@ -571,7 +571,7 @@ See [Reading the digital edition](digital-edition.md) for page references and st
 
 - [Different Ways to Say “With”](minilesson-f.md#minilesson-f-different-ways-to-say-with)
 
-### [Lesson 24](lesson24.md)
+### [Lesson 24: Discussing Marriage Customs](lesson24.md)
 
 - [Reference List](lesson24.md#lesson24-reference-list)
 - [Vocabulary](lesson24.md#lesson24-vocabulary)
@@ -604,7 +604,7 @@ See [Reading the digital edition](digital-edition.md) for page references and st
 
 - [Pronunciation Changes in Casual Speech](minilesson-g.md#minilesson-g-pronunciation-changes-in-casual-speech)
 
-### [Lesson 25](lesson25.md)
+### [Lesson 25: Kerala: Land, Life, and Culture](lesson25.md)
 
 - [Reference List](lesson25.md#lesson25-reference-list)
   - [Compound Verbs and Their Meanings](lesson25.md#lesson25-compound-verbs-and-their-meanings)

@@ -1,6 +1,6 @@
 <!-- Source: PDF page 89; printed page 39. -->
 <a id="lesson4"></a><!-- reading-anchor -->
-# Lesson 4
+# Lesson 4: At the Tea Shop
 
 <a id="lesson4-reference-list"></a><!-- reading-anchor -->
 ## Reference List
@@ -460,6 +460,6 @@ C. After word final -ൻ the ending ിന് is shortened to avoid reduplicatio
 
 ---
 
-[← Previous: Lesson 3](lesson3.md) · [Contents](contents.md) · [Next: Lesson 5 →](lesson5.md)
+[← Previous: Lesson 3: Lending and Borrowing](lesson3.md) · [Contents](contents.md) · [Next: Lesson 5: Going to the Movies →](lesson5.md)
 
 <!-- /reading-navigation -->

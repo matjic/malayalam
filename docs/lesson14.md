@@ -1,5 +1,5 @@
 <a id="lesson14"></a><!-- reading-anchor -->
-# Lesson 14
+# Lesson 14: Reading the Newspaper
 
 <!-- Source: PDF page 253; printed page 199. -->
 
@@ -392,6 +392,6 @@ The number of words taking this ending is very small, but some of them are very 
 
 ---
 
-[← Previous: Lesson 13](lesson13.md) · [Contents](contents.md) · [Next: Minilesson C →](minilesson-c.md)
+[← Previous: Lesson 13: Filling Out a Loan Application](lesson13.md) · [Contents](contents.md) · [Next: Minilesson C →](minilesson-c.md)
 
 <!-- /reading-navigation -->

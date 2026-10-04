@@ -40,6 +40,6 @@ The auxiliary verb വരുക is often used to express external obligation or 
 
 ---
 
-[← Previous: Lesson 16](lesson16.md) · [Contents](contents.md) · [Next: Lesson 17 →](lesson17.md)
+[← Previous: Lesson 16: Newspapers in Kerala](lesson16.md) · [Contents](contents.md) · [Next: Lesson 17: Recognizing an Old School Friend →](lesson17.md)
 
 <!-- /reading-navigation -->

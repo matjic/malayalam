@@ -1,5 +1,5 @@
 <a id="lesson21"></a><!-- reading-anchor -->
-# Lesson 21
+# Lesson 21: Help with an English Lesson
 
 <!-- Source: PDF page 371; printed page 312. -->
 
@@ -593,6 +593,6 @@ Compound verbs are usually written as units. Note that the initial consonant of 
 
 ---
 
-[← Previous: Lesson 20](lesson20.md) · [Contents](contents.md) · [Next: Lesson 22 →](lesson22.md)
+[← Previous: Lesson 20: Onam: The Story and the Celebrations](lesson20.md) · [Contents](contents.md) · [Next: Lesson 22: Rain, Farming, and Rising Prices →](lesson22.md)
 
 <!-- /reading-navigation -->

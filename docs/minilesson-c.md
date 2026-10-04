@@ -61,6 +61,6 @@ Note the difference in order in Malayalam between positive and negative sentence
 
 ---
 
-[← Previous: Lesson 14](lesson14.md) · [Contents](contents.md) · [Next: Lesson 15 →](lesson15.md)
+[← Previous: Lesson 14: Reading the Newspaper](lesson14.md) · [Contents](contents.md) · [Next: Lesson 15: A Meeting at the Bus Station →](lesson15.md)
 
 <!-- /reading-navigation -->

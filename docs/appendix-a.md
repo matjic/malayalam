@@ -78,6 +78,6 @@
 
 ---
 
-[← Previous: Lesson 25](lesson25.md) · [Contents](contents.md) · [Next: Appendix B →](appendix-b.md)
+[← Previous: Lesson 25: Kerala: Land, Life, and Culture](lesson25.md) · [Contents](contents.md) · [Next: Appendix B →](appendix-b.md)
 
 <!-- /reading-navigation -->

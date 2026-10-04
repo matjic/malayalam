@@ -1,6 +1,6 @@
 <!-- Source: PDF page 47; printed page 1. -->
 <a id="lesson1"></a><!-- reading-anchor -->
-# Lesson 1
+# Lesson 1: What Is Your Name?
 
 <a id="lesson1-reference-list"></a><!-- reading-anchor -->
 ## Reference List
@@ -251,6 +251,6 @@ The contextual situation is complicated, however, by the universal convention of
 
 ---
 
-[← Previous: How to Write Malayalam Symbols](symbols.md) · [Contents](contents.md) · [Next: Lesson 2 →](lesson2.md)
+[← Previous: How to Write Malayalam Symbols](symbols.md) · [Contents](contents.md) · [Next: Lesson 2: At Mr. Thomas’s Office →](lesson2.md)
 
 <!-- /reading-navigation -->

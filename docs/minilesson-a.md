@@ -71,6 +71,6 @@
 
 ---
 
-[← Previous: Lesson 8](lesson8.md) · [Contents](contents.md) · [Next: Lesson 9 →](lesson9.md)
+[← Previous: Lesson 8: Asking James for Help](lesson8.md) · [Contents](contents.md) · [Next: Lesson 9: Sharing Saris →](lesson9.md)
 
 <!-- /reading-navigation -->

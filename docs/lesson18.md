@@ -1,5 +1,5 @@
 <a id="lesson18"></a><!-- reading-anchor -->
-# Lesson 18
+# Lesson 18: Visiting Leela’s Home
 
 <!-- Source: PDF page 310; printed page 253. -->
 
@@ -542,6 +542,6 @@ This could either be used to a fellow shopper, or to the shopkeeper whom, one wo
 
 ---
 
-[← Previous: Lesson 17](lesson17.md) · [Contents](contents.md) · [Next: Lesson 19 →](lesson19.md)
+[← Previous: Lesson 17: Recognizing an Old School Friend](lesson17.md) · [Contents](contents.md) · [Next: Lesson 19: An Argument at the Office →](lesson19.md)
 
 <!-- /reading-navigation -->

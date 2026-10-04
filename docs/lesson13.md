@@ -1,5 +1,5 @@
 <a id="lesson13"></a><!-- reading-anchor -->
-# Lesson 13
+# Lesson 13: Filling Out a Loan Application
 
 <!-- Source: PDF page 239; printed page 185. -->
 
@@ -440,6 +440,6 @@ Malayalam is one of the few languages in the world having such double accusative
 
 ---
 
-[← Previous: Lesson 12](lesson12.md) · [Contents](contents.md) · [Next: Lesson 14 →](lesson14.md)
+[← Previous: Lesson 12: Family Plans and Responsibilities](lesson12.md) · [Contents](contents.md) · [Next: Lesson 14: Reading the Newspaper →](lesson14.md)
 
 <!-- /reading-navigation -->

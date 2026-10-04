@@ -1,5 +1,5 @@
 <a id="lesson17"></a><!-- reading-anchor -->
-# Lesson 17
+# Lesson 17: Recognizing an Old School Friend
 
 <!-- Source: PDF page 297; printed page 240. -->
 
@@ -452,6 +452,6 @@ Note that Example 4 can either mean, “is he doing his homework at the moment,�
 
 ---
 
-[← Previous: Minilesson E](minilesson-e.md) · [Contents](contents.md) · [Next: Lesson 18 →](lesson18.md)
+[← Previous: Minilesson E](minilesson-e.md) · [Contents](contents.md) · [Next: Lesson 18: Visiting Leela’s Home →](lesson18.md)
 
 <!-- /reading-navigation -->

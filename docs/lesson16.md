@@ -1,5 +1,5 @@
 <a id="lesson16"></a><!-- reading-anchor -->
-# Lesson 16
+# Lesson 16: Newspapers in Kerala
 
 <!-- Source: PDF page 282; printed page 228. -->
 

@@ -248,6 +248,6 @@ eg. സ്വന്തം (“one’s own”)
 
 ---
 
-[← Previous: The Malayalam Script](alphabet.md) · [Contents](contents.md) · [Next: Lesson 1 →](lesson1.md)
+[← Previous: The Malayalam Script](alphabet.md) · [Contents](contents.md) · [Next: Lesson 1: What Is Your Name? →](lesson1.md)
 
 <!-- /reading-navigation -->

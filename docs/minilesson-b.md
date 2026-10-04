@@ -60,6 +60,6 @@
 
 ---
 
-[← Previous: Lesson 11](lesson11.md) · [Contents](contents.md) · [Next: Lesson 12 →](lesson12.md)
+[← Previous: Lesson 11: Sending a Younger Brother to the Market](lesson11.md) · [Contents](contents.md) · [Next: Lesson 12: Family Plans and Responsibilities →](lesson12.md)
 
 <!-- /reading-navigation -->

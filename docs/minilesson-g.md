@@ -44,6 +44,6 @@ The next weakest consonant is ച which turns into a sound close to യ particul
 
 ---
 
-[← Previous: Lesson 24](lesson24.md) · [Contents](contents.md) · [Next: Lesson 25 →](lesson25.md)
+[← Previous: Lesson 24: Discussing Marriage Customs](lesson24.md) · [Contents](contents.md) · [Next: Lesson 25: Kerala: Land, Life, and Culture →](lesson25.md)
 
 <!-- /reading-navigation -->

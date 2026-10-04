@@ -1,5 +1,5 @@
 <a id="lesson8"></a><!-- reading-anchor -->
-# Lesson 8
+# Lesson 8: Asking James for Help
 
 <!-- Source: PDF page 153; printed page 103. -->
 
@@ -855,6 +855,6 @@ See also:
 
 ---
 
-[← Previous: Lesson 7](lesson7.md) · [Contents](contents.md) · [Next: Minilesson A →](minilesson-a.md)
+[← Previous: Lesson 7: Catching the Kollam Bus](lesson7.md) · [Contents](contents.md) · [Next: Minilesson A →](minilesson-a.md)
 
 <!-- /reading-navigation -->
