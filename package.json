@@ -1,6 +1,8 @@
 {
     "scripts": {
-        "dev": "docsify serve ./docs"
+        "dev": "docsify serve ./docs",
+        "docs:sidebar": "python3 scripts/generate-sidebar.py",
+        "docs:check-sidebar": "python3 scripts/generate-sidebar.py --check"
     },
     "dependencies": {
         "docsify-cli": "^4.4.3"
