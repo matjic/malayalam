@@ -37,6 +37,15 @@
 <a id="lesson12-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Vocabulary audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 12: Vocabulary audio" src="assets/audio/moag/sections/lesson_12_vocabulary_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_12_vocabulary_0.mp3" aria-pressed="true">Listen · 10:35</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 | Malayalam | Meaning |
 |---|---|
 | ഭർത്താവ് | husband |
@@ -115,6 +124,15 @@
 <a id="lesson12-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Conversation audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 12: Conversation audio" src="assets/audio/moag/sections/lesson_12_conversation_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_12_conversation_0.mp3" aria-pressed="true">Normal-speed conversation · 01:57</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_12_conversation_1.mp3" aria-pressed="false">Role practice · 02:59</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 ഭർത്താവ്: ചേച്ചിയുടെ മകൾക്ക് നല്ല സുഖമില്ല.
 
 ഭാര്യ: ഓ! അതു ഞാനറിഞ്ഞില്ലല്ലോ. എന്താണ് അസുഖം?
@@ -139,6 +157,15 @@
 
 <a id="lesson12-exercises"></a><!-- reading-anchor -->
 ## Exercises
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Exercises audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 12: Exercises audio" src="assets/audio/moag/sections/lesson_12_exercise_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_12_exercise_0.mp3" aria-pressed="true">Listen · 06:50</button></div>
+<p class="lesson-audio-note">Recorded exercise numbers and order may differ. Some answers require teacher review. Section boundaries are approximate.</p>
+</div>
+<!-- /moag-audio -->
 
 **1.** Form phrases by adding കൂടെ and putting the words provided into the appropriate (possessive) form as in the model.
 

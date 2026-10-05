@@ -158,6 +158,15 @@
 <a id="lesson7-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Vocabulary audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 7: Vocabulary audio" src="assets/audio/moag/sections/lesson_07_vocabulary_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_07_vocabulary_0.mp3" aria-pressed="true">Listen · 01:40</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 | Malayalam | English |
 |---|---|
 | കൊല്ലം | Kollam, city in Kerala |
@@ -186,6 +195,15 @@
 
 <a id="lesson7-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Reading Practice audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 7: Reading Practice audio" src="assets/audio/moag/sections/lesson_07_reading_practice_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_07_reading_practice_0.mp3" aria-pressed="true">Listen · 02:07</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
 
 <a id="lesson7-a"></a><!-- reading-anchor -->
 ### A.
@@ -242,6 +260,15 @@ Note how **-ഏയുള്ളു** (see §7.5, “The Two Part Qualifier -ഏ�
 <a id="lesson7-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Conversation audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 7: Conversation audio" src="assets/audio/moag/sections/lesson_07_conversation_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_07_conversation_0.mp3" aria-pressed="true">Slower conversation · 00:42</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_07_conversation_1.mp3" aria-pressed="false">Normal-speed conversation · 00:29</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_07_conversation_2.mp3" aria-pressed="false">Repeat with the speaker · 04:04</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_07_conversation_3.mp3" aria-pressed="false">Role practice 1 · 00:40</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_07_conversation_4.mp3" aria-pressed="false">Role practice 2 · 00:41</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 A: കൊല്ലം ബസ് എപ്പോൾ കിട്ടും?
 
 B: കുറച്ച് കഴിഞ്ഞ് കിട്ടും. അടുത്ത ബസ് ആറ് മണിക്കാണ്.
@@ -262,6 +289,15 @@ A: വേണ്ട, വേണ്ട. നടന്ന് പോകാം.
 
 <a id="lesson7-exercises"></a><!-- reading-anchor -->
 ## Exercises
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Exercises audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 7: Exercises audio" src="assets/audio/moag/sections/lesson_07_exercise_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_07_exercise_0.mp3" aria-pressed="true">Listen · 19:01</button></div>
+<p class="lesson-audio-note">Recorded exercise numbers and order may differ. Some answers require teacher review. Section boundaries are approximate.</p>
+</div>
+<!-- /moag-audio -->
 
 **1. A.** Practice counting from eleven to twenty until you know the numbers by heart.
 

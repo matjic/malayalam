@@ -23,6 +23,15 @@
 <a id="lesson9-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Vocabulary audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 9: Vocabulary audio" src="assets/audio/moag/sections/lesson_09_vocabulary_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_09_vocabulary_0.mp3" aria-pressed="true">Listen · 01:52</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 | Malayalam | English |
 |---|---|
 | നല്ല | good |
@@ -58,6 +67,15 @@
 
 <a id="lesson9-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Reading Practice audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 9: Reading Practice audio" src="assets/audio/moag/sections/lesson_09_reading_practice_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_09_reading_practice_0.mp3" aria-pressed="true">Listen · 04:07</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
 
 <a id="lesson9-a"></a><!-- reading-anchor -->
 ### A.
@@ -125,6 +143,15 @@ Note the written versus colloquial forms of these future negative verbforms.
 <a id="lesson9-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Conversation audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 9: Conversation audio" src="assets/audio/moag/sections/lesson_09_conversation_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_09_conversation_0.mp3" aria-pressed="true">Slower conversation · 01:00</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_09_conversation_1.mp3" aria-pressed="false">Normal-speed conversation · 00:43</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_09_conversation_2.mp3" aria-pressed="false">Repeat with the speaker · 05:03</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_09_conversation_3.mp3" aria-pressed="false">Role practice 1 · 00:45</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_09_conversation_4.mp3" aria-pressed="false">Role practice 2 · 00:57</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 ഗീത: ഇത് നല്ല സാരിയാണല്ലോ. ആരുടേതാണ്?
 
 കമല: ഇത് ചേച്ചിയുടേതാണ്.
@@ -153,6 +180,15 @@ Note the written versus colloquial forms of these future negative verbforms.
 
 <a id="lesson9-exercises"></a><!-- reading-anchor -->
 ## Exercises
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Exercises audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 9: Exercises audio" src="assets/audio/moag/sections/lesson_09_exercise_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_09_exercise_0.mp3" aria-pressed="true">Listen · 16:22</button></div>
+<p class="lesson-audio-note">Recorded exercise numbers and order may differ. Some answers require teacher review. Section boundaries are approximate.</p>
+</div>
+<!-- /moag-audio -->
 
 **1. A.** Change the adjectives to nouns in the following sentences, making other necessary changes, as in the model:
 

@@ -48,6 +48,15 @@
 <a id="lesson14-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Vocabulary audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 14: Vocabulary audio" src="assets/audio/moag/sections/lesson_14_vocabulary_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_14_vocabulary_0.mp3" aria-pressed="true">Listen · 04:18</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 | Malayalam | Meaning |
 |---|---|
 | പത്രം | newspaper |
@@ -136,6 +145,15 @@ Read through the reference list once again, this time placing a ര beside each 
 <a id="lesson14-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Conversation audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 14: Conversation audio" src="assets/audio/moag/sections/lesson_14_conversation_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_14_conversation_0.mp3" aria-pressed="true">Slower conversation · 01:03</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_14_conversation_1.mp3" aria-pressed="false">Normal-speed conversation · 00:47</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 രാമാ! നീ പത്രം വായിക്കണം. പത്രം വായിച്ചാൽ എല്ലാ വാർത്തയും അറിയാം. പത്രത്തിൽ ജില്ലാവാർത്തയും തലസ്ഥാന വാർത്തയും കാണും. യുവതികൾക്കും യുവാക്കന്മാർക്കും ഇഷ്ടമുള്ള കാര്യങ്ങൾ യുവരംഗത്തിൽ വായിക്കാം. സ്പോർട്സ് രംഗത്തിൽ കളികളെ പറ്റിയുള്ള വാർത്തകളുണ്ട്. നിനക്ക് സാഹിത്യത്തെ പറ്റിയോ കലയെ പറ്റിയോ അറിയണമെങ്കിൽ സാഹിത്യവേദിയോ കലാരംഗമോ വായിച്ചാൽ മതി. താരാപഥം വായിച്ചാൽ പുതിയ സിനിമകളെ പറ്റിയും താരങ്ങളെ പറ്റിയും അറിയാം. ഇന്നത്തെ പരിപാടിയിൽ പട്ടണത്തിൽ ഇന്നു നടക്കുന്ന കാര്യങ്ങളെ പറ്റി വായിക്കാം.
 
 പത്രത്തിൽ പരസ്യങ്ങളും ഉണ്ട്. തരാതരം പരസ്യങ്ങളിൽ വിൽപ്പന പരസ്യങ്ങളും, വൈവാഹിക പരസ്യങ്ങളും കാണും. എന്താ! ഇപ്പോൾ മനസ്സിലായില്ലേ, പത്രം വായിക്കുന്നത് നല്ലതാണെന്ന്. ഇതാ ഇന്നത്തെ പത്രം. വീട്ടിൽ പോയിട്ട് വായിച്ചു നോക്കു.
@@ -144,6 +162,15 @@ Read through the reference list once again, this time placing a ര beside each 
 
 <a id="lesson14-exercises"></a><!-- reading-anchor -->
 ## Exercises
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Exercises audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 14: Exercises audio" src="assets/audio/moag/sections/lesson_14_exercise_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_14_exercise_0.mp3" aria-pressed="true">Listen · 06:08</button></div>
+<p class="lesson-audio-note">Recorded exercise numbers and order may differ. Some answers require teacher review. Section boundaries are approximate.</p>
+</div>
+<!-- /moag-audio -->
 
 **1.** Use the items below to form answers to questions put by the teacher or by classmates as in the model.
 

@@ -52,6 +52,15 @@
 <a id="lesson23-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Vocabulary audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 23: Vocabulary audio" src="assets/audio/moag/sections/lesson_23_vocabulary_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_23_vocabulary_0.mp3" aria-pressed="true">Listen · 05:15</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 | Malayalam | Meaning |
 |---|---|
 | വിനോദം | pleasure |
@@ -111,6 +120,15 @@
 <a id="lesson23-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Reading Practice audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 23: Reading Practice audio" src="assets/audio/moag/sections/lesson_23_reading_practice_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_23_reading_practice_0.mp3" aria-pressed="true">Listen · 14:24</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 <a id="lesson23-a"></a><!-- reading-anchor -->
 ### A.
 
@@ -136,6 +154,15 @@ Read the following sentences expressing a change of state with -ആയി.
 
 <a id="lesson23-conversation"></a><!-- reading-anchor -->
 ## Conversation
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Conversation audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 23: Conversation audio" src="assets/audio/moag/sections/lesson_23_conversation_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_23_conversation_0.mp3" aria-pressed="true">Slower conversation · 03:23</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_23_conversation_1.mp3" aria-pressed="false">Normal-speed conversation · 02:37</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
 
 **കമല:** ബിൽ അടുത്തയാഴ്ചയല്ലേ അമേരിക്കയിൽ നിന്നു വരുന്നത്. നമുക്ക് അയാളെ കേരളം കാണിക്കുവാൻ വേണ്ടി ഒരു വിനോദയാത്രക്ക് കൊണ്ടുപോകണമല്ലോ?
 
@@ -183,6 +210,15 @@ Read the following sentences expressing a change of state with -ആയി.
 
 <a id="lesson23-exercises"></a><!-- reading-anchor -->
 ## Exercises
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Exercises audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 23: Exercises audio" src="assets/audio/moag/sections/lesson_23_exercise_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_23_exercise_0.mp3" aria-pressed="true">Listen · 11:41</button></div>
+<p class="lesson-audio-note">Recorded exercise numbers and order may differ. Some answers require teacher review. Section boundaries are approximate.</p>
+</div>
+<!-- /moag-audio -->
 
 **1.** Write the following sentences changing the negative item in parentheses to positive, and adding the appropriate negative prefix to the underlined word as in the model.
 

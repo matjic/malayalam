@@ -42,6 +42,15 @@
 <a id="lesson11-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Vocabulary audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 11: Vocabulary audio" src="assets/audio/moag/sections/lesson_11_vocabulary_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_11_vocabulary_0.mp3" aria-pressed="true">Listen · 03:05</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 | Malayalam | Meaning |
 |---|---|
 | ആയിരുന്നു | was, were (past of ആണ്) |
@@ -80,6 +89,15 @@
 
 <a id="lesson11-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Reading Practice audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 11: Reading Practice audio" src="assets/audio/moag/sections/lesson_11_reading_practice_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_11_reading_practice_0.mp3" aria-pressed="true">Listen · 02:05</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
 
 <a id="lesson11-1-double-consonants"></a><!-- reading-anchor -->
 ### 1. Double Consonants
@@ -128,6 +146,15 @@ Read the following cleft sentences. Note the change in the order of the sentence
 <a id="lesson11-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Conversation audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 11: Conversation audio" src="assets/audio/moag/sections/lesson_11_conversation_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_11_conversation_0.mp3" aria-pressed="true">Slower conversation · 00:59</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_11_conversation_1.mp3" aria-pressed="false">Normal-speed conversation · 00:47</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_11_conversation_2.mp3" aria-pressed="false">Role practice 1 · 01:17</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_11_conversation_3.mp3" aria-pressed="false">Role practice 2 · 01:04</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 ചേച്ചി: അനിയൻ ആ മുറിയിൽ ആയിരുന്നല്ലോ. ഇപ്പോൾ അവനെ കാണുന്നില്ല. എവിടെ പോയി?
 
 അമ്മ: ഞാൻ അവനെ ചന്തയിൽ അയച്ചു.
@@ -160,6 +187,15 @@ Read the following cleft sentences. Note the change in the order of the sentence
 
 <a id="lesson11-exercises"></a><!-- reading-anchor -->
 ## Exercises
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Exercises audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 11: Exercises audio" src="assets/audio/moag/sections/lesson_11_exercise_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_11_exercise_0.mp3" aria-pressed="true">Listen · 06:17</button></div>
+<p class="lesson-audio-note">Recorded exercise numbers and order may differ. Some answers require teacher review. Section boundaries are approximate.</p>
+</div>
+<!-- /moag-audio -->
 
 **1. A.** Change the past tense verbforms to present as in the models.
 

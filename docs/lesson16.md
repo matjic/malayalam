@@ -32,6 +32,15 @@ Note how the emphatic particle can be added to negative verbforms.
 <a id="lesson16-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Vocabulary audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 16: Vocabulary audio" src="assets/audio/moag/sections/lesson_16_vocabulary_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_16_vocabulary_0.mp3" aria-pressed="true">Listen · 03:39</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 | Malayalam | Meaning |
 |---|---|
 | മിക്കവാറും | nearly, almost |
@@ -80,6 +89,15 @@ Note how the emphatic particle can be added to negative verbforms.
 <a id="lesson16-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Reading Practice audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 16: Reading Practice audio" src="assets/audio/moag/sections/lesson_16_reading_practice_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_16_reading_practice_0.mp3" aria-pressed="true">Listen · 01:53</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 <a id="lesson16-a"></a><!-- reading-anchor -->
 ### A.
 
@@ -125,6 +143,15 @@ Note the changes when ഏ....-ഉള്ളു is added to the following verb for
 <a id="lesson16-text"></a><!-- reading-anchor -->
 ## Text
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Text audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 16: Text audio" src="assets/audio/moag/sections/lesson_16_text_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_16_text_0.mp3" aria-pressed="true">Listen · 05:51</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 കേരളത്തിൽ മിക്കവാറും എല്ലാവരും എന്നും പത്രം വായിക്കും. അവിടെ പല മലയാള ദിനപ്പത്രങ്ങൾ കിട്ടും. കേരള കൗമുദി, മലയാള മനോരമ, മാതൃഭൂമി എന്നിവയാണ് അവിടുത്തെ മൂന്നു വലിയ പത്രങ്ങൾ.
 
 ഇവയിൽ പലതരം വാർത്തകൾ അച്ചടിച്ചു വരും. സാധാരണയായി അന്താരാഷ്ട്രിയ വാർത്തകളും തലസ്ഥാന വാർത്തകളും ആദ്യത്തെ പേജിൽ കാണും. ലോകത്തെ ഏത് കോണിലും നടക്കുന്ന സംഭവങ്ങളെ പറ്റി മലയാള ഭാഷയിൽ ഈ പത്രങ്ങളിൽ വായിക്കാം. അമേരിക്കയിലെ രാഷ്ട്രപതി എന്ത് പറഞ്ഞുവെന്ന് തർജ്ജമ ചെയ്ത് ഇവയിൽ എഴുതി വരും.
@@ -142,6 +169,15 @@ Note the changes when ഏ....-ഉള്ളു is added to the following verb for
 
 <a id="lesson16-exercises"></a><!-- reading-anchor -->
 ## Exercises
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Exercises audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 16: Exercises audio" src="assets/audio/moag/sections/lesson_16_exercise_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_16_exercise_0.mp3" aria-pressed="true">Listen · 08:03</button></div>
+<p class="lesson-audio-note">Recorded exercise numbers and order may differ. Some answers require teacher review. Section boundaries are approximate.</p>
+</div>
+<!-- /moag-audio -->
 
 **1.** Join the words in the pairs below as in the model.
 

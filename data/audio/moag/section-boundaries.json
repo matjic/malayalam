@@ -1,0 +1,2378 @@
+{
+  "method": "Section announcements rechecked in short windows with local Whisper large-v3-turbo word timestamps; independent Whisper small rechecks recorded for comparison. Nearest pause ends around the predicted word onset are used where available, with a 0.25-second lead-in. These are ASR- and acoustically checked announcement boundaries, not fluent sentence-level verification.",
+  "tracks": [
+    {
+      "lesson": 1,
+      "duration_seconds": 856.99925,
+      "section_candidates": [
+        {
+          "kind": "vocabulary",
+          "start_seconds": 34.24,
+          "recognition_excerpt": "Vocabulary Practice Repeat each item after the speaker. Each item is given twice. Ready? Listen and repeat. Bill Bill Ramon Ramon Ningaludae Pair Pair",
+          "small_model_agreement_seconds": 0.2,
+          "asr_start_seconds": 35.06,
+          "preceding_pause_end_seconds": 34.49,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 304.69,
+          "recognition_excerpt": "Exercise 2b. This will be the same as a, except that the pronoun avala, she, will be used. Ready? Listen, respond, then repeat. Avala adana, money. Avala moneyana. you",
+          "small_model_agreement_seconds": 0.22,
+          "asr_start_seconds": 304.94,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 404.144,
+          "recognition_excerpt": "Exercise 6. Join ana to each of the items given. Make sure to speak the resulting sentences as single units, that is with no pause before the ana. Listen to the model. speaker, nyan. student, nyanana. After you've made y",
+          "small_model_agreement_seconds": 0.02,
+          "asr_start_seconds": 404.74,
+          "preceding_pause_end_seconds": 404.394,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "conversation",
+          "start_seconds": 545.49,
+          "recognition_excerpt": "Conversation 1. Repetition practice. Repeat each",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 545.74,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "repetition_practice",
+          "start_seconds": 547.37,
+          "recognition_excerpt": "Repetition practice. Repeat each",
+          "small_model_agreement_seconds": 0.36,
+          "asr_start_seconds": 547.62,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "slower_reading",
+          "start_seconds": 705.43,
+          "recognition_excerpt": "Listen to the conversation enacted at slightly slower than normal speed. Ready? Listen. NINGULUDE PEERENDA Ende PEER",
+          "small_model_agreement_seconds": 1.58,
+          "asr_start_seconds": 705.68,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "normal_speed",
+          "start_seconds": 740.052,
+          "recognition_excerpt": "Now listen to the conversation enacted at normal speed. Ready?",
+          "small_model_agreement_seconds": 0.72,
+          "asr_start_seconds": 740.82,
+          "preceding_pause_end_seconds": 740.302,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "role_play",
+          "start_seconds": 765.272,
+          "recognition_excerpt": "Conversational practice. The speaker will give Bill's lines and you respond with Raman's lines. for example when you hear Ninglu di perinda you respond",
+          "small_model_agreement_seconds": 0.24,
+          "asr_start_seconds": 766.12,
+          "preceding_pause_end_seconds": 765.522,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "role_play",
+          "start_seconds": 814.55,
+          "recognition_excerpt": "you will take Bill's part and the speaker will fill in Raman's lines so when I say begin, you come in with",
+          "small_model_agreement_seconds": 0.0,
+          "asr_start_seconds": 814.8,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        }
+      ]
+    },
+    {
+      "lesson": 2,
+      "duration_seconds": 1659.846625,
+      "section_candidates": [
+        {
+          "kind": "exercise",
+          "start_seconds": 442.83,
+          "recognition_excerpt": "Exercise 2A. Form responses using the words provided. Listen to the model. Ayaludejoliinda. Doctor. Student. Ayaludaktaana. After the space in which you give your response, the correct form of the response will be given",
+          "small_model_agreement_seconds": 0.28,
+          "asr_start_seconds": 443.08,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 545.81,
+          "recognition_excerpt": "Exercise 2. B. Give positive responses to the questions. Listen to the model. Speaker. Avarthi charaano. Student. Addeh. Avarthi charaana. After you've given your response, the correct form will be given for you to compa",
+          "small_model_agreement_seconds": 0.18,
+          "asr_start_seconds": 546.06,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 645.323,
+          "recognition_excerpt": "Exercise 3. Reading Practice. Follow along as the sentences are read. Ready?",
+          "small_model_agreement_seconds": 0.38,
+          "asr_start_seconds": 646.3,
+          "preceding_pause_end_seconds": 645.573,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 845.887,
+          "recognition_excerpt": "Exercise 5. Follow with your eyes as the speaker reads out the sentences. Try to recognize the words by units. Ready? Read along. You can see the book and the book.",
+          "small_model_agreement_seconds": 0.08,
+          "asr_start_seconds": 846.8,
+          "preceding_pause_end_seconds": 846.137,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 918.763,
+          "recognition_excerpt": "Exercise 6. Add um to the underlined words in the following sentences. On the tape, the underlining will be indicated by the sound after the word.",
+          "small_model_agreement_seconds": 0.6,
+          "asr_start_seconds": 919.37,
+          "preceding_pause_end_seconds": 919.013,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "conversation",
+          "start_seconds": 1050.318,
+          "recognition_excerpt": "Conversation 2. Repetition practice. Repeat each line or part of line after the speaker. Each item is given twice. When appropriate, you are asked to listen to the full line before repeating parts of it. Listen to the in",
+          "small_model_agreement_seconds": 0.02,
+          "asr_start_seconds": 1050.7,
+          "preceding_pause_end_seconds": 1050.568,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "repetition_practice",
+          "start_seconds": 1051.884,
+          "recognition_excerpt": "Repetition Practice. Repeat each line or part of line after the speaker. Each item is given twice. When appropriate, you are asked to listen to the full line before repeating.",
+          "small_model_agreement_seconds": 0.22,
+          "asr_start_seconds": 1052.84,
+          "preceding_pause_end_seconds": 1052.134,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "slower_reading",
+          "start_seconds": 1417.629,
+          "recognition_excerpt": "Listen to the conversation enacted at slightly slower than normal speed. Ready? Listen. Sarande office iwade anon? Ade, iwade tanne. Iale manesilaayo. Y'all that.",
+          "small_model_agreement_seconds": 0.24,
+          "asr_start_seconds": 1418.16,
+          "preceding_pause_end_seconds": 1417.879,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "normal_speed",
+          "start_seconds": 1474.252,
+          "recognition_excerpt": "Now listen to the conversation at normal speed. Ready? Listen. Saranday office is here? That's it? Here? Why are you in the man? No. This is the Bye.",
+          "small_model_agreement_seconds": 0.36,
+          "asr_start_seconds": 1474.66,
+          "preceding_pause_end_seconds": 1474.502,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "role_play",
+          "start_seconds": 1513.285,
+          "recognition_excerpt": "Conversational Practice This conversation is a bit tricky because there are four speakers. You will take Hamid's part and for the most part Thomas's lines. so that",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 1513.64,
+          "preceding_pause_end_seconds": 1513.535,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        }
+      ]
+    },
+    {
+      "lesson": 3,
+      "duration_seconds": 1739.02375,
+      "section_candidates": [
+        {
+          "kind": "vocabulary",
+          "start_seconds": 28.713,
+          "recognition_excerpt": "Vocabulary practice Repeat each item after the speaker. Each item is given twice. Ready? Listen and repeat. Unde, unde. Anujan, anujan. O, o, kai, kai.",
+          "small_model_agreement_seconds": 0.04,
+          "asr_start_seconds": 29.78,
+          "preceding_pause_end_seconds": 28.963,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 162.72,
+          "recognition_excerpt": "Exercise 1 Number Practice Repeat the numbers 1 through 10 after the speaker. Ready? Listen and repeat. Onna Randa Muna Nala Anja Ara Eja Et tu, on badu",
+          "small_model_agreement_seconds": 0.0,
+          "asr_start_seconds": 163.06,
+          "preceding_pause_end_seconds": 162.97,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 224.85,
+          "recognition_excerpt": "exercise 1c form answers to the question by reporting the number of clicks you hear try to count the clicks in Malayalam listen to the model speaker here today student other moon",
+          "small_model_agreement_seconds": 0.18,
+          "asr_start_seconds": 225.1,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 349.318,
+          "recognition_excerpt": "Exercise 2. Select an appropriate pronoun to match the kinship terms or names provided. Listen to the model. Speaker. Anujan. Student. Avan. After you have selected your pronoun,",
+          "small_model_agreement_seconds": 0.3,
+          "asr_start_seconds": 350.42,
+          "preceding_pause_end_seconds": 349.568,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 562.871,
+          "recognition_excerpt": "exercise three follow along as the sentences are read out try to recognize word units ready begin amayum acanum teacher ana",
+          "small_model_agreement_seconds": 0.26,
+          "asr_start_seconds": 563.64,
+          "preceding_pause_end_seconds": 563.121,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 907.277,
+          "recognition_excerpt": "Exercise 4. You will hear an interchange between two imaginary speakers. The second speaker will report the names of one or more persons who are present. Then you prepare a response stating the number of persons. Listen",
+          "small_model_agreement_seconds": 0.02,
+          "asr_start_seconds": 908.0,
+          "preceding_pause_end_seconds": 907.527,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 1043.622,
+          "recognition_excerpt": "Exercise 7c. Join the pairs of words provided using the conjunction um. Listen to the model. Speaker. Pena pustagam. Student. Pena yum pustagavum. Ready, listen, and",
+          "small_model_agreement_seconds": 0.22,
+          "asr_start_seconds": 1044.0,
+          "preceding_pause_end_seconds": 1043.872,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "conversation",
+          "start_seconds": 1133.009,
+          "recognition_excerpt": "Conversation 3. Repetition Practice. Repeat each line or part of line after the speaker. Each item is given twice. Where appropriate, you will be asked to listen first to a long line before",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 1133.62,
+          "preceding_pause_end_seconds": 1133.259,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "repetition_practice",
+          "start_seconds": 1134.81,
+          "recognition_excerpt": "Repetition Practice. Repeat each line or part of line after the speaker. Each item is given twice. Where appropriate, you will be asked to listen first to a long line before",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 1135.06,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "conversation",
+          "start_seconds": 1496.636,
+          "recognition_excerpt": "Conversation 3. Listening Practice. Listen to the conversation enacted at slightly slower than normal speed. Ready? Listen. James, you're not. Oh, you're not. You're not. You're not. You're not. You're not. You're not. Y",
+          "small_model_agreement_seconds": 0.0,
+          "asr_start_seconds": 1497.06,
+          "preceding_pause_end_seconds": 1496.886,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "slower_reading",
+          "start_seconds": 1500.49,
+          "recognition_excerpt": "Listen to the conversation enacted at slightly slower than normal speed. Ready? Listen. James, you're not. Oh, you're not. You're not. You're not. You're not. You're not. You're not. You're not. Okay.",
+          "small_model_agreement_seconds": 0.28,
+          "asr_start_seconds": 1500.74,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "normal_speed",
+          "start_seconds": 1559.75,
+          "recognition_excerpt": "Now listen to the conversation enacted at normal speed. Ready? Listen. James, what's up? Yes. What's up? What's up? No. Come on.",
+          "small_model_agreement_seconds": 1.08,
+          "asr_start_seconds": 1560.0,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "role_play",
+          "start_seconds": 1675.23,
+          "recognition_excerpt": "Now let's reverse roles. You take John's part and the speaker will provide Anujan's lines and James' lines. When I say begin, you start with James undo, etc. to the end of the conversation. Ready? Begin. He is a man. He",
+          "small_model_agreement_seconds": 0.74,
+          "asr_start_seconds": 1675.48,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        }
+      ]
+    },
+    {
+      "lesson": 4,
+      "duration_seconds": 1556.845875,
+      "section_candidates": [
+        {
+          "kind": "vocabulary",
+          "start_seconds": 50.69,
+          "recognition_excerpt": "Vocabulary practice. Repeat each item after the speaker. Each item is given twice. Ready? Listen and repeat. Uru Uru Chaya Chaya Toda Toda End under.",
+          "small_model_agreement_seconds": 0.26,
+          "asr_start_seconds": 50.94,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 299.39,
+          "recognition_excerpt": "Exercise 2B Replace the word PAYAM by the new words given. Listen to the model. Speaker NINGALKA PAYAM ISHTAMAANO MANGA Student student.",
+          "small_model_agreement_seconds": 0.06,
+          "asr_start_seconds": 299.64,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 416.55,
+          "recognition_excerpt": "Exercise 3. Follow along as the practice sentences are read out. Try to recognize word units. ready begin on that every day",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 416.8,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "repetition_practice",
+          "start_seconds": 510.17,
+          "recognition_excerpt": "repeat each line or part of line after the speaker. Each item is given twice. Don't read but practice oral comprehension. Ready? Listen and repeat.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 510.42,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 714.81,
+          "recognition_excerpt": "Exercise 4. Change the following sentences to negatives as in the model. Listen. Adayam tamasarana. student a day from a star Allah after you have negated",
+          "small_model_agreement_seconds": 0.3,
+          "asr_start_seconds": 715.06,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "conversation",
+          "start_seconds": 852.651,
+          "recognition_excerpt": "Conversation 4. Repetition practice. Repeat each line or part of line after the speaker. Each item is given twice. Where appropriate, you will be asked to listen to the full line.",
+          "small_model_agreement_seconds": 0.26,
+          "asr_start_seconds": 852.98,
+          "preceding_pause_end_seconds": 852.901,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "repetition_practice",
+          "start_seconds": 854.13,
+          "recognition_excerpt": "Repetition practice. Repeat each line or part of line after the speaker. Each item is given twice. Where appropriate, you will be asked to listen to the full line.",
+          "small_model_agreement_seconds": 0.56,
+          "asr_start_seconds": 854.38,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "conversation",
+          "start_seconds": 1315.017,
+          "recognition_excerpt": "Conversation 4. Listening Practice. Listen to the conversation enacted at slightly slower than normal speed. Ready? Listen. That's a good thing. Come on. What's this? What's this? What's this? I am going to get a little",
+          "small_model_agreement_seconds": 0.26,
+          "asr_start_seconds": 1316.06,
+          "preceding_pause_end_seconds": 1315.267,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "slower_reading",
+          "start_seconds": 1318.91,
+          "recognition_excerpt": "Listen to the conversation enacted at slightly slower than normal speed. Ready? Listen. That's a good thing. Come on. What's this? What's this? What's this? I am going to get a little bit of a drink. I am going to get a",
+          "small_model_agreement_seconds": 0.52,
+          "asr_start_seconds": 1319.16,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "normal_speed",
+          "start_seconds": 1369.55,
+          "recognition_excerpt": "Now listen to the conversation at normal speed. Ready? Listen.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 1369.8,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "role_play",
+          "start_seconds": 1411.669,
+          "recognition_excerpt": "conversational practice the speaker will provide the mother lealys lines and you fill in bills lines for example when the Malayali says",
+          "small_model_agreement_seconds": 3.04,
+          "asr_start_seconds": 1412.2,
+          "preceding_pause_end_seconds": 1411.919,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        }
+      ]
+    },
+    {
+      "lesson": 5,
+      "duration_seconds": 1414.165,
+      "section_candidates": [
+        {
+          "kind": "vocabulary",
+          "start_seconds": 6.67,
+          "recognition_excerpt": "Vocabulary. Repeat each item after the speaker. Each item is given twice. Ready? Listen and repeat. Krishna Krishna Muri Irikinnu Cheyennu",
+          "small_model_agreement_seconds": 0.16,
+          "asr_start_seconds": 6.92,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "reading_practice",
+          "start_seconds": 116.93,
+          "recognition_excerpt": "Reading practice. Follow along as each column is read out. One of the important functions of the reading exercise is to train you to recognize suffixes or specific parts of words. Therefore, we will read down rather than",
+          "small_model_agreement_seconds": 0.14,
+          "asr_start_seconds": 117.18,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 236.23,
+          "recognition_excerpt": "exercise one change the following commands to simple present verb forms as in the model listen after the space where you say the present form the correct form will be given for you to check and to repeat. Ready? Listen.",
+          "small_model_agreement_seconds": 0.0,
+          "asr_start_seconds": 236.48,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 322.65,
+          "recognition_excerpt": "Exercise 2. Follow along as the sentences are read out. Try to recognize word units. Ravi Joli Chayannu",
+          "small_model_agreement_seconds": 0.1,
+          "asr_start_seconds": 322.9,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 581.33,
+          "recognition_excerpt": "Exercise 3. Change the sentences into negatives as in the model. Listen, speaker. I will tell you.",
+          "small_model_agreement_seconds": 0.42,
+          "asr_start_seconds": 581.58,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 718.65,
+          "recognition_excerpt": "exercise five you have prepared responses at home to the questions in exercise five and have had them validated in class. Use these validated",
+          "small_model_agreement_seconds": 0.08,
+          "asr_start_seconds": 718.9,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "conversation",
+          "start_seconds": 863.73,
+          "recognition_excerpt": "Conversation 5. Repetition Practice. Repeat each line or part of line after the speaker. Each item is given twice. When appropriate, you will be asked to listen to the full line before it's broken up into pieces. Ready?",
+          "small_model_agreement_seconds": 0.02,
+          "asr_start_seconds": 863.98,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "repetition_practice",
+          "start_seconds": 864.81,
+          "recognition_excerpt": "Repetition practice. Repeat each line or part of line after the speaker. Each item is given twice. When appropriate, you will be asked to listen to the full line before it's broken up into pieces.",
+          "small_model_agreement_seconds": 0.48,
+          "asr_start_seconds": 865.06,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "conversation",
+          "start_seconds": 1215.09,
+          "recognition_excerpt": "Conversation 5. Listening Practice. Listen to the conversation and act it at slightly slower than normal speed. Ready? Listen. Krishna's everyday, Aamuri'il ishi kinnu.",
+          "small_model_agreement_seconds": 0.32,
+          "asr_start_seconds": 1215.34,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "slower_reading",
+          "start_seconds": 1219.024,
+          "recognition_excerpt": "Listen to the conversation and act it at slightly slower than normal speed. Ready? Listen. Krishna's everyday, Aamuri'il ishi kinnu.",
+          "small_model_agreement_seconds": 1.0,
+          "asr_start_seconds": 1219.62,
+          "preceding_pause_end_seconds": 1219.274,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "normal_speed",
+          "start_seconds": 1265.15,
+          "recognition_excerpt": "Now listen to the conversation at normal speed. Ready? Listen. Christian, who is? He is in the middle of the day. What are you doing? I am teaching. What are you doing?",
+          "small_model_agreement_seconds": 0.28,
+          "asr_start_seconds": 1265.4,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "role_play",
+          "start_seconds": 1303.36,
+          "recognition_excerpt": "Conversational practice. The speaker will provide A's lines and you provide B's speeches in the pauses given. So, when you hear, Kristen, Evide Aana? You answer, Amuriya Lirikindu and so forth to the end of the conversat",
+          "small_model_agreement_seconds": 0.13,
+          "asr_start_seconds": 1303.61,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        }
+      ]
+    },
+    {
+      "lesson": 6,
+      "duration_seconds": 1799.18375,
+      "section_candidates": [
+        {
+          "kind": "vocabulary",
+          "start_seconds": 140.637,
+          "recognition_excerpt": "Vocabulary Practice. Repeat each item after the speaker. Each item is given twice. Ready? Listen and repeat. Aduttu, Aduttu. Chanda, Chanda. Undulo, Undulo. Brahman Hotel",
+          "small_model_agreement_seconds": 0.06,
+          "asr_start_seconds": 141.5,
+          "preceding_pause_end_seconds": 140.887,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 344.97,
+          "recognition_excerpt": "Exercise 2. This is similar to Exercise 2 in the text of Lesson 6, but has been altered to meet the needs of oral work. Fill in the appropriate",
+          "small_model_agreement_seconds": 0.3,
+          "asr_start_seconds": 345.22,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 1116.41,
+          "recognition_excerpt": "Exercise 5. Give negative responses to the following negative questions, as in the model. Listen. Speaker. Nibar nille. Student. Illa. Niambar nilla. After the space for your answer, the correct form will be given.",
+          "small_model_agreement_seconds": 0.12,
+          "asr_start_seconds": 1116.66,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "slower_reading",
+          "start_seconds": 1291.926,
+          "recognition_excerpt": "Listen to the conversation enacted at slightly slower than normal speed. Ready? Listen.",
+          "small_model_agreement_seconds": 0.0,
+          "asr_start_seconds": 1293.32,
+          "preceding_pause_end_seconds": 1292.176,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "normal_speed",
+          "start_seconds": 1333.83,
+          "recognition_excerpt": "Now listen to the conversation enacted at normal speed.",
+          "small_model_agreement_seconds": 0.28,
+          "asr_start_seconds": 1334.08,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "repetition_practice",
+          "start_seconds": 1368.945,
+          "recognition_excerpt": "Conversation repetition practice. Repeat each line or part of line after the speaker. Each item is given twice. Sometimes you'll be asked to listen to the full line before it's broken up.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 1369.26,
+          "preceding_pause_end_seconds": 1369.195,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "role_play",
+          "start_seconds": 1712.255,
+          "recognition_excerpt": "Conversational Practice A's lines will be provided on the tape and you respond with B's lines in turn through the end of the conversation. Ready? Listen and converse. Iwadai adat chandayundo? Arayam",
+          "small_model_agreement_seconds": 0.02,
+          "asr_start_seconds": 1712.98,
+          "preceding_pause_end_seconds": 1712.505,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "role_play",
+          "start_seconds": 1755.09,
+          "recognition_excerpt": "Now we'll reverse roles. B's lines will be provided by the tape and you furnish A's lines. So when I say begin, start with Iwade Aruthi Chanda Yundo.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 1755.34,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        }
+      ]
+    },
+    {
+      "lesson": 7,
+      "duration_seconds": 1691.76825,
+      "section_candidates": [
+        {
+          "kind": "vocabulary",
+          "start_seconds": 322.014,
+          "recognition_excerpt": "Vocabulary Practice Repeat each item after the speaker, each item is given twice Ready? Listen and repeat Kollam, Kollam Bas, Bas Epole, Epole Kittum, Kittum Good to you.",
+          "small_model_agreement_seconds": 0.16,
+          "asr_start_seconds": 322.96,
+          "preceding_pause_end_seconds": 322.264,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "reading_practice",
+          "start_seconds": 422.621,
+          "recognition_excerpt": "reading practice note how engel is joined to the following words follow along across the two columns venom",
+          "small_model_agreement_seconds": 0.08,
+          "asr_start_seconds": 423.36,
+          "preceding_pause_end_seconds": 422.871,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 549.952,
+          "recognition_excerpt": "Exercise 1. Change the following verb forms to the let's, shall type, as in the model. Listen, speaker, pognu, student. Namo k pognam. As usual, the correct form will be given afterward for you to check and to repeat I'l",
+          "small_model_agreement_seconds": 0.06,
+          "asr_start_seconds": 550.84,
+          "preceding_pause_end_seconds": 550.202,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 626.461,
+          "recognition_excerpt": "Exercise 2. Substitute the items in the possessive sentence as in the model. Listen. Speaker. Enik kar undar? Randa chetan maar? Student. Enik kar andar chetan maar undar? ready",
+          "small_model_agreement_seconds": 0.4,
+          "asr_start_seconds": 627.18,
+          "preceding_pause_end_seconds": 626.711,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 714.93,
+          "recognition_excerpt": "exercise 3 before we do telling time practice the numbers 10 through 20 repeating after the speaker. Ready? Listen and repeat.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 715.18,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 798.17,
+          "recognition_excerpt": "exercise 3a. Form new sentences by substituting the items provided in the model. Listen, speaker, bus armanikiana, class, student, class armanikiana. This time...",
+          "small_model_agreement_seconds": 0.12,
+          "asr_start_seconds": 798.42,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 931.19,
+          "recognition_excerpt": "Exercise 4. Follow along as the practice sentences are read out. Ready? Listen and read. 1. ENDEY CHETTA NNA MOO NALA TAXI YUNDA. 2. ENDEY VEETTA LNINNA SKOOLIL LEEKYA URU MAYILA YULLU. Muna.",
+          "small_model_agreement_seconds": 0.08,
+          "asr_start_seconds": 931.44,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "repetition_practice",
+          "start_seconds": 1018.568,
+          "recognition_excerpt": "repeat each line or part of line after the speaker. Each item is given twice. When appropriate you'll be asked to listen to longer sentences before they're broken.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 1018.92,
+          "preceding_pause_end_seconds": 1018.818,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "slower_reading",
+          "start_seconds": 1293.33,
+          "recognition_excerpt": "Listen to the conversation enacted at slightly slower than normal speed. Ready? Listen. Kolambas eppol kittum? Korachikarinyakittum. Adatta bas aramani kiyana. Eppol mani yatriyaay? Anjamaniyai. Apoor bus stand",
+          "small_model_agreement_seconds": 0.28,
+          "asr_start_seconds": 1293.58,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "normal_speed",
+          "start_seconds": 1336.17,
+          "recognition_excerpt": "Now listen to the dialogue enacted at normal speed. What did you say? What did you say? What did you say? What did you say? What did you say? What did you say? What did you say? What did you say? What did you say?",
+          "small_model_agreement_seconds": 0.04,
+          "asr_start_seconds": 1336.42,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "repetition_practice",
+          "start_seconds": 1365.207,
+          "recognition_excerpt": "Repetition practice. Repeat each line or part of line after the speaker. Each item is given twice. Ready? Listen and repeat.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 1365.56,
+          "preceding_pause_end_seconds": 1365.457,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "role_play",
+          "start_seconds": 1609.47,
+          "recognition_excerpt": "Conversational practice. A's lines will be provided on tape. And you fill in the gaps by responding with B's lines. Ready? Listen and respond. Columbus, eh pookittum? Epo manu, eh thiriyai?",
+          "small_model_agreement_seconds": 0.0,
+          "asr_start_seconds": 1609.72,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "role_play",
+          "start_seconds": 1650.25,
+          "recognition_excerpt": "Now let's reverse roles. This time B's lines will be provided by the tape and you fill in A's lines so when I say begin start with",
+          "small_model_agreement_seconds": 2.5,
+          "asr_start_seconds": 1650.5,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        }
+      ]
+    },
+    {
+      "lesson": 8,
+      "duration_seconds": 1695.477625,
+      "section_candidates": [
+        {
+          "kind": "vocabulary",
+          "start_seconds": 137.828,
+          "recognition_excerpt": "Vocabulary Practice Repeat each item after the speaker. Each item is given twice. Ready? Listen and repeat He, he Ninaka, ninaka Revye, revye Klaas, klaas",
+          "small_model_agreement_seconds": 0.12,
+          "asr_start_seconds": 138.68,
+          "preceding_pause_end_seconds": 138.078,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 251.952,
+          "recognition_excerpt": "Exercise 1 Form new sentences using the words provided, as in the model. Listen. Speaker Inikyorukaryam parayanam Hayal Student Hayal kyorukaryam parayanam After you form your",
+          "small_model_agreement_seconds": 0.08,
+          "asr_start_seconds": 252.74,
+          "preceding_pause_end_seconds": 252.202,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 347.33,
+          "recognition_excerpt": "Exercise 2 Complete these sentences by making the desiderative, that is, anam form of the verbs provided. Listen to the model. Speaker Enikikorcha Malayalam Patikyuga Student, Enikikorakcha Malayalam Patikinam.",
+          "small_model_agreement_seconds": 0.08,
+          "asr_start_seconds": 348.78,
+          "preceding_pause_end_seconds": 347.58,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "repetition_practice",
+          "start_seconds": 856.863,
+          "recognition_excerpt": "repeat each line or part of line after the speaker. Each item is given twice. In some cases you'll be asked to listen to the full sentence before it's broken into parts, so listen to the instructions carefully.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 857.26,
+          "preceding_pause_end_seconds": 857.113,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "slower_reading",
+          "start_seconds": 1411.26,
+          "recognition_excerpt": "Listen to the dialogue enacted at slightly slower than normal speed. Ready? Listen. Hey James, nini kka revi ay arayamo. Yehdi revi ana?",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 1411.51,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "normal_speed",
+          "start_seconds": 1471.63,
+          "recognition_excerpt": "Now listen to the conversation at normal speed. Hey James sir, you are a revy? What are you doing? We are going to get a revy. Oh, you are a revy. What are you doing? So, you are going to be in the car.",
+          "small_model_agreement_seconds": 0.1,
+          "asr_start_seconds": 1471.88,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "repetition_practice",
+          "start_seconds": 1511.87,
+          "recognition_excerpt": "Repetition Practice. Repeat each line or part of line after the speaker. Each item is given twice. Ready? Listen and repeat.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 1512.12,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        }
+      ]
+    },
+    {
+      "lesson": 9,
+      "duration_seconds": 1971.095625,
+      "section_candidates": [
+        {
+          "kind": "vocabulary",
+          "start_seconds": 115.19,
+          "recognition_excerpt": "Vocabulary Practice Repeat each item after the speaker. Each item is given twice. Ready? Listen and repeat. Nalla Harude Harude Haru-led. Haru-led. Cheech.",
+          "small_model_agreement_seconds": 0.02,
+          "asr_start_seconds": 115.96,
+          "preceding_pause_end_seconds": 115.44,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "reading_practice",
+          "start_seconds": 228.178,
+          "recognition_excerpt": "Reading Practice, Part A. Nota Ileke and Ilnina are joined to the following items. First we'll read across columns 1 and 2. Adh, Adhileke. Idh, Idhileke. it.",
+          "small_model_agreement_seconds": 0.3,
+          "asr_start_seconds": 229.52,
+          "preceding_pause_end_seconds": 228.428,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "reading_practice",
+          "start_seconds": 312.95,
+          "recognition_excerpt": "Reading Practice Part B. Note the differences between the written versus colloquial forms of these future negative verb forms. We'll read a question.",
+          "small_model_agreement_seconds": 0.6,
+          "asr_start_seconds": 313.2,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 475.461,
+          "recognition_excerpt": "Exercise 1. Transform the sentences as in the model. Listen. Ida nalasadhyana. Student. I sari naladhana. Now you do the same with these. and after you have transformed the sentence, the correct form will be given for yo",
+          "small_model_agreement_seconds": 0.02,
+          "asr_start_seconds": 476.38,
+          "preceding_pause_end_seconds": 475.711,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 590.53,
+          "recognition_excerpt": "Exercise 1b has been removed from lesson 9 and was included in the tape for lesson 7. Exercise 2. Number Practice. For purposes of the tape, this exercise will diverge somewhat from that in the printed copy of the book.",
+          "small_model_agreement_seconds": 0.12,
+          "asr_start_seconds": 590.78,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 599.23,
+          "recognition_excerpt": "Exercise 2. Number Practice. For purposes of the tape, this exercise will diverge somewhat from that in the printed copy of the book. Re-",
+          "small_model_agreement_seconds": 0.06,
+          "asr_start_seconds": 599.48,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 784.67,
+          "recognition_excerpt": "Exercise 3. In preparation for this exercise, we'll do a transformation exercise in which you will change the verb forms to the definite future habitual, that is, um form. Listen to the model.",
+          "small_model_agreement_seconds": 0.3,
+          "asr_start_seconds": 784.92,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 870.905,
+          "recognition_excerpt": "exercise 3.",
+          "small_model_agreement_seconds": 1.0,
+          "asr_start_seconds": 871.32,
+          "preceding_pause_end_seconds": 871.155,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 1032.095,
+          "recognition_excerpt": "Exercise 4. Follow along as the sentences are read out. 1. Columbo 2. 3. 10.",
+          "small_model_agreement_seconds": 0.04,
+          "asr_start_seconds": 1032.66,
+          "preceding_pause_end_seconds": 1032.345,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "repetition_practice",
+          "start_seconds": 1100.7,
+          "recognition_excerpt": "repeat each line or part of the line.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 1101.14,
+          "preceding_pause_end_seconds": 1100.95,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "conversation",
+          "start_seconds": 1457.588,
+          "recognition_excerpt": "Conversation 9. Listening Practice. Listen to the dialogue and act at it slightly slower than normal speed. Ready? Listen.",
+          "small_model_agreement_seconds": 0.04,
+          "asr_start_seconds": 1458.06,
+          "preceding_pause_end_seconds": 1457.838,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "slower_reading",
+          "start_seconds": 1460.67,
+          "recognition_excerpt": "Listen to the dialogue and act at it slightly slower than normal speed. Ready? Listen.",
+          "small_model_agreement_seconds": 0.52,
+          "asr_start_seconds": 1460.92,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "normal_speed",
+          "start_seconds": 1520.69,
+          "recognition_excerpt": "Now listen to the conversation at normal speed. Ready? Listen.",
+          "small_model_agreement_seconds": 0.58,
+          "asr_start_seconds": 1520.94,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "repetition_practice",
+          "start_seconds": 1563.788,
+          "recognition_excerpt": "Repetition practice. Now repeat each line or part of line after the speaker. Each item is given twice. In some cases you will be asked to listen to the full line before it's broken up.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 1564.04,
+          "preceding_pause_end_seconds": 1564.038,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "role_play",
+          "start_seconds": 1867.45,
+          "recognition_excerpt": "Conversational practice. The first speaker's lines will be provided on tape, and you respond with the second speaker's lines. Ready?",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 1867.7,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "role_play",
+          "start_seconds": 1913.393,
+          "recognition_excerpt": "Now let's reverse roles. This time, B's speeches will be provided on tape and gaps left for A's speeches. When I say begin,",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 1913.86,
+          "preceding_pause_end_seconds": 1913.643,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        }
+      ]
+    },
+    {
+      "lesson": 10,
+      "duration_seconds": 1750.674375,
+      "section_candidates": [
+        {
+          "kind": "vocabulary",
+          "start_seconds": 0.037,
+          "recognition_excerpt": "Vocabulary Practice. Repeat each item after the speaker. Each item is given twice. Ready? Listen and repeat. Keralam. Keralam. State. State. Agannu. Agannu. Tekk. Tekk. Tekke. Tekke. BHAGAM BHAGAM ALGAAL",
+          "small_model_agreement_seconds": 0.32,
+          "asr_start_seconds": 1.28,
+          "preceding_pause_end_seconds": 0.287,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "reading_practice",
+          "start_seconds": 144.01,
+          "recognition_excerpt": "Reading Practice Follow along as the special locative forms of the Kerala district and city names are read out. Thirvanandu puratthu Kollatthu Kottayatthu Alapurayil Eranakalatthu Thank you.",
+          "small_model_agreement_seconds": 0.06,
+          "asr_start_seconds": 144.26,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "text",
+          "start_seconds": 345.907,
+          "recognition_excerpt": "text. Follow along as the text is read out at relative",
+          "small_model_agreement_seconds": 3.54,
+          "asr_start_seconds": 346.4,
+          "preceding_pause_end_seconds": 346.157,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "text",
+          "start_seconds": 348.729,
+          "recognition_excerpt": "text is read out at relative",
+          "small_model_agreement_seconds": 0.02,
+          "asr_start_seconds": 349.92,
+          "preceding_pause_end_seconds": 348.979,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "normal_speed",
+          "start_seconds": 485.09,
+          "recognition_excerpt": "Now read along or listen as the piece is read out at more normal speed.",
+          "small_model_agreement_seconds": 0.04,
+          "asr_start_seconds": 485.34,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 700.95,
+          "recognition_excerpt": "Exercise 2 You'll be given two place names. State the location of the second of the pair in relationship to the first.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 701.2,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 820.71,
+          "recognition_excerpt": "Exercise 3b. Now do the reverse by stating the relationship of the first member of the place name pair to the second.",
+          "small_model_agreement_seconds": 0.52,
+          "asr_start_seconds": 820.96,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 920.966,
+          "recognition_excerpt": "Exercise 3a. Make the following sentences more formal in style by changing ana to agannu. Listen to the model. Speaker. Student. Now you do the same with these, and after you have changed the sentence, the correct form w",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 922.24,
+          "preceding_pause_end_seconds": 921.216,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 1122.81,
+          "recognition_excerpt": "exercise 4 Follow along as the sentences are read out. Ready? Begin.",
+          "small_model_agreement_seconds": 1.2,
+          "asr_start_seconds": 1123.06,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "repetition_practice",
+          "start_seconds": 1239.102,
+          "recognition_excerpt": "repeat each line or part of line after the speaker.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 1239.44,
+          "preceding_pause_end_seconds": 1239.352,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        }
+      ]
+    },
+    {
+      "lesson": 11,
+      "duration_seconds": 1039.543,
+      "section_candidates": [
+        {
+          "kind": "vocabulary",
+          "start_seconds": 99.395,
+          "recognition_excerpt": "Vocabulary Practice Repeat each item after the speaker. Each item is given twice. Ready? Listen and repeat. はえるの",
+          "small_model_agreement_seconds": 0.08,
+          "asr_start_seconds": 100.2,
+          "preceding_pause_end_seconds": 99.645,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "reading_practice",
+          "start_seconds": 285.278,
+          "recognition_excerpt": "Reading Practice. Listen while the speaker reads out the various items.",
+          "small_model_agreement_seconds": 0.08,
+          "asr_start_seconds": 285.84,
+          "preceding_pause_end_seconds": 285.528,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "conversation",
+          "start_seconds": 411.201,
+          "recognition_excerpt": "Conversation 11. Listening Practice. Listen to the conversation and act it at slightly slower than normal speed. Ready? Listen. I am going to go. I am going to go. Where are you? I am going to go. What do you want to go?",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 411.46,
+          "preceding_pause_end_seconds": 411.451,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "slower_reading",
+          "start_seconds": 413.075,
+          "recognition_excerpt": "Listen to the conversation and act it at slightly slower than normal speed. Ready? Listen. I am going to go. I am going to go. Where are you? I am going to go. What do you want to go? Go. I am going to go.",
+          "small_model_agreement_seconds": 0.26,
+          "asr_start_seconds": 414.4,
+          "preceding_pause_end_seconds": 413.325,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "normal_speed",
+          "start_seconds": 472.23,
+          "recognition_excerpt": "Now listen to the conversation at normal speed.",
+          "small_model_agreement_seconds": 0.2,
+          "asr_start_seconds": 472.48,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "role_play",
+          "start_seconds": 519.617,
+          "recognition_excerpt": "Conversational Practice The speaker will provide Ceci's lines and you respond first with Amma's lines",
+          "small_model_agreement_seconds": 0.28,
+          "asr_start_seconds": 521.04,
+          "preceding_pause_end_seconds": 519.867,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "role_play",
+          "start_seconds": 597.54,
+          "recognition_excerpt": "Now let's reverse roles. And you take Ceci's lines and the speaker will provide Amma's",
+          "small_model_agreement_seconds": 5.92,
+          "asr_start_seconds": 598.9,
+          "preceding_pause_end_seconds": 597.79,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 661.665,
+          "recognition_excerpt": "Exercise 1 A Change the past tense verb forms to present as in the models. Listen. Model A. .",
+          "small_model_agreement_seconds": 0.3,
+          "asr_start_seconds": 662.44,
+          "preceding_pause_end_seconds": 661.915,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 1012.088,
+          "recognition_excerpt": "Exercise 4a. Change the sentences in exercise 2 to the cleft type. Listen to the model. Speaker. Ni everyday poe? Student. Ni everyday anna poe adha. Exercise 4b. Change the present tense sentences in exercise 3 to cleft",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 1012.54,
+          "preceding_pause_end_seconds": 1012.338,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 1023.91,
+          "recognition_excerpt": "Exercise 4b. Change the present tense sentences in exercise 3 to cleft type, as in the model. Listen. Speaker. Avan ni poe adhanu. Student. of an Ippodhana veranada. Time does not permit inclusion in the world.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 1024.16,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 1036.87,
+          "recognition_excerpt": "exercises on the tape. End of lesson.",
+          "small_model_agreement_seconds": 0.02,
+          "asr_start_seconds": 1037.12,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        }
+      ]
+    },
+    {
+      "lesson": 12,
+      "duration_seconds": 1262.524125,
+      "section_candidates": [
+        {
+          "kind": "vocabulary",
+          "start_seconds": 216.19,
+          "recognition_excerpt": "vocabulary",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 216.44,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "vocabulary",
+          "start_seconds": 230.93,
+          "recognition_excerpt": "Vocabulary Practice Repeat each item after the speaker. Each item is given twice. Ready? Listen and repeat. Bhartaav Bhartaav Bharya Bharya Magal Magal Magan Magan Magan.",
+          "small_model_agreement_seconds": 0.48,
+          "asr_start_seconds": 231.18,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "normal_speed",
+          "start_seconds": 554.477,
+          "recognition_excerpt": "Now listen to the conversation at normal speed. I'm not happy to talk to you. Oh, I'm not happy to talk to you.",
+          "small_model_agreement_seconds": 0.2,
+          "asr_start_seconds": 555.22,
+          "preceding_pause_end_seconds": 554.727,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "role_play",
+          "start_seconds": 671.815,
+          "recognition_excerpt": "you take lines of partava and various lines will be provided on the tape. When I say begin, you come in with, Chechchita Magalka Nalla Sukhamilla.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 672.08,
+          "preceding_pause_end_seconds": 672.065,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 851.699,
+          "recognition_excerpt": "Exercise 2. Change the following sentences to negatives as in the model. listen",
+          "small_model_agreement_seconds": 0.04,
+          "asr_start_seconds": 853.12,
+          "preceding_pause_end_seconds": 851.949,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 1004.619,
+          "recognition_excerpt": "Exercise number 3. Make the codes below into reported",
+          "small_model_agreement_seconds": 0.06,
+          "asr_start_seconds": 1005.78,
+          "preceding_pause_end_seconds": 1004.869,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 1122.19,
+          "recognition_excerpt": "Exercise number 4. Read the following sentences, making sure you understand the meaning, then practice them all.",
+          "small_model_agreement_seconds": 0.12,
+          "asr_start_seconds": 1122.44,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        }
+      ]
+    },
+    {
+      "lesson": 13,
+      "duration_seconds": 1045.185375,
+      "section_candidates": [
+        {
+          "kind": "vocabulary",
+          "start_seconds": 3.09,
+          "recognition_excerpt": "Vocabulary Practice. Repeat each item after the speaker. Each item is given twice. Ready? Listen and repeat. NERTHAY ANUVADAM VANGITZTUNDA",
+          "small_model_agreement_seconds": 0.02,
+          "asr_start_seconds": 3.34,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "reading_practice",
+          "start_seconds": 241.05,
+          "recognition_excerpt": "Reading Practice Read along as the following words are read out. Try to recognize words and or parts of words. Note how it combines with the following verbs. Patti Kyuga Patti Chitta",
+          "small_model_agreement_seconds": 0.29,
+          "asr_start_seconds": 241.3,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "reading_practice",
+          "start_seconds": 333.515,
+          "recognition_excerpt": "Reading Practice B. Note how it unda joins to these verbs. P P",
+          "small_model_agreement_seconds": 0.6,
+          "asr_start_seconds": 333.86,
+          "preceding_pause_end_seconds": 333.765,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "conversation",
+          "start_seconds": 391.51,
+          "recognition_excerpt": "Conversation 13. Listening Practice. Listen to the conversation enacted at a slightly slower than normal speed. Now ready, listen. The name is the name of the name of the name of the name of the name of the name of the n",
+          "small_model_agreement_seconds": 1.3,
+          "asr_start_seconds": 391.76,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "slower_reading",
+          "start_seconds": 396.045,
+          "recognition_excerpt": "Listen to the conversation enacted at a slightly slower than normal speed. Now ready, listen. The name is the name of the name of the name of the name of the name of the name of the name of the name of the name of the na",
+          "small_model_agreement_seconds": 0.48,
+          "asr_start_seconds": 396.38,
+          "preceding_pause_end_seconds": 396.295,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "normal_speed",
+          "start_seconds": 482.641,
+          "recognition_excerpt": "Now listen to the conversation at normal speed.",
+          "small_model_agreement_seconds": 0.58,
+          "asr_start_seconds": 483.52,
+          "preceding_pause_end_seconds": 482.891,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "role_play",
+          "start_seconds": 548.757,
+          "recognition_excerpt": "Conversational practice. The lines of Mathaven will be",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 549.38,
+          "preceding_pause_end_seconds": 549.007,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "role_play",
+          "start_seconds": 622.995,
+          "recognition_excerpt": "Now let's reverse roles. You take the lines of Mathavon and the lines of Clark and Menon are will be provided on the tip",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 624.22,
+          "preceding_pause_end_seconds": 623.245,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 713.065,
+          "recognition_excerpt": "Exercises",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 713.4,
+          "preceding_pause_end_seconds": 713.315,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        }
+      ]
+    },
+    {
+      "lesson": 14,
+      "duration_seconds": 908.852375,
+      "section_candidates": [
+        {
+          "kind": "vocabulary",
+          "start_seconds": 165.652,
+          "recognition_excerpt": "vocabulary practice.",
+          "small_model_agreement_seconds": 3.24,
+          "asr_start_seconds": 166.86,
+          "preceding_pause_end_seconds": 165.902,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "vocabulary",
+          "start_seconds": 170.37,
+          "recognition_excerpt": "Vocabulary Practice Repeat each item after the speaker. Each item is given twice. Ready? Listen and repeat. Varta Churukkam Vatta 1 0",
+          "small_model_agreement_seconds": 0.52,
+          "asr_start_seconds": 170.62,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "conversation",
+          "start_seconds": 423.902,
+          "recognition_excerpt": "Conversation 14 Listening Practice Listen to the conversation enacted at a slightly slower than normal speed.",
+          "small_model_agreement_seconds": 3.32,
+          "asr_start_seconds": 424.78,
+          "preceding_pause_end_seconds": 424.152,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "slower_reading",
+          "start_seconds": 429.28,
+          "recognition_excerpt": "Listen to the conversation enacted at a slightly slower than normal speed.",
+          "small_model_agreement_seconds": 2.05,
+          "asr_start_seconds": 429.53,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "normal_speed",
+          "start_seconds": 492.85,
+          "recognition_excerpt": "Now listen to the conversation at the normal speed. Rama, nee patraam vayikanaam. Patraam vayichal ellala vahartheiyam ariyam. Patraatthil jillala vahartheiyam thalasana vahartheiyam kaaanam.",
+          "small_model_agreement_seconds": 0.02,
+          "asr_start_seconds": 493.1,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 540.25,
+          "recognition_excerpt": "Exercise part 2 Form the plurals of the singular nouns given below. The speaker will give each word then you give the plural form after which you will be given the correct plural form for you to compare and repeat. liste",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 540.5,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        }
+      ]
+    },
+    {
+      "lesson": 15,
+      "duration_seconds": 1291.964125,
+      "section_candidates": [
+        {
+          "kind": "vocabulary",
+          "start_seconds": 45.456,
+          "recognition_excerpt": "Vocabulary Practice Repeat each item after the speaker.",
+          "small_model_agreement_seconds": 0.88,
+          "asr_start_seconds": 46.08,
+          "preceding_pause_end_seconds": 45.706,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "reading_practice",
+          "start_seconds": 273.467,
+          "recognition_excerpt": "Reading Practice. Read along as the past tense and the past conditional forms of the verbs are read out. Samsayarichu, Samsayarichal, Ayachu",
+          "small_model_agreement_seconds": 0.32,
+          "asr_start_seconds": 274.46,
+          "preceding_pause_end_seconds": 273.717,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "conversation",
+          "start_seconds": 403.134,
+          "recognition_excerpt": "Conversation 15. Listening Practice Listen to the conversation enacted and",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 404.2,
+          "preceding_pause_end_seconds": 403.384,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "slower_reading",
+          "start_seconds": 408.77,
+          "recognition_excerpt": "Listen to the conversation, enacted at a slightly slower than normal speed. Bus stand ills one day Aha! This is a case of the night. You can do what you do here. I am trying to get my own house. What house is the house?",
+          "small_model_agreement_seconds": 0.04,
+          "asr_start_seconds": 409.02,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "normal_speed",
+          "start_seconds": 487.862,
+          "recognition_excerpt": "Now listen to the conversation at normal speed.",
+          "small_model_agreement_seconds": 0.02,
+          "asr_start_seconds": 488.34,
+          "preceding_pause_end_seconds": 488.112,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "role_play",
+          "start_seconds": 621.05,
+          "recognition_excerpt": "You take the lines of Varughi Sir and the lines of Varughi Sir.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 621.3,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 691.57,
+          "recognition_excerpt": "Exercise number 15 Part 1 Fill in the blanks with the appropriate form of the verbs in parenthesis as in the model. After which you will be given the correct form to compare. model Hippol RRL",
+          "small_model_agreement_seconds": 0.26,
+          "asr_start_seconds": 691.82,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 770.49,
+          "recognition_excerpt": "Exercise 15 Part B Fill in the blanks with the appropriate form Past Verbal Adjective Provided as in the Moral Moral Ippol All are now. And so on. All are now. All are now. That's the same thing.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 770.74,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 991.97,
+          "recognition_excerpt": "Exercise 15 continued. Transpose the following sentences as in the model given below. The bus is a bus.",
+          "small_model_agreement_seconds": 0.5,
+          "asr_start_seconds": 992.22,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 1134.31,
+          "recognition_excerpt": "Exercise 15 continued. Read the following, making sure you understand the meaning. Then practice orally by repeating after the teacher. Now read, listen and repeat. They are looking for a new site.",
+          "small_model_agreement_seconds": 0.32,
+          "asr_start_seconds": 1134.56,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        }
+      ]
+    },
+    {
+      "lesson": 16,
+      "duration_seconds": 1171.383,
+      "section_candidates": [
+        {
+          "kind": "vocabulary",
+          "start_seconds": 2.45,
+          "recognition_excerpt": "Vocabulary Practice. Repeat each item after the speaker. Each item is given twice. Ready, listen and repeat. I am a friend. I am a friend. I am a friend. I am a friend. I am a friend. I am a friend. I am a friend. I am a",
+          "small_model_agreement_seconds": 1.18,
+          "asr_start_seconds": 2.7,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "reading_practice",
+          "start_seconds": 221.85,
+          "recognition_excerpt": "Reading Practice Lesson 16 Part A Note how the nouns in the left hand column",
+          "small_model_agreement_seconds": 0.1,
+          "asr_start_seconds": 222.1,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "reading_practice",
+          "start_seconds": 276.771,
+          "recognition_excerpt": "Reading Practice Part B Note the various changes including in some verb forms when AULU is added to these sentences. Note and repeat the words.",
+          "small_model_agreement_seconds": 0.6,
+          "asr_start_seconds": 277.34,
+          "preceding_pause_end_seconds": 277.021,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "text",
+          "start_seconds": 335.783,
+          "recognition_excerpt": "text for lesson 16. Listen to the text at a slightly slower than normal speed.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 336.72,
+          "preceding_pause_end_seconds": 336.033,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "slower_reading",
+          "start_seconds": 345.576,
+          "recognition_excerpt": "Listen to the text at a slightly slower than normal speed.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 346.0,
+          "preceding_pause_end_seconds": 345.826,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "normal_speed",
+          "start_seconds": 469.13,
+          "recognition_excerpt": "Now, listen to the text at normal speed.",
+          "small_model_agreement_seconds": 0.22,
+          "asr_start_seconds": 469.38,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 687.483,
+          "recognition_excerpt": "Exercise number 16 part 2. Listen to the phrases given below. Change them as in the model. Then compare with the correct expression given by the speaker and then repeat. Moral Patra ngalil ellaam Ella patra ngalil ellaam",
+          "small_model_agreement_seconds": 0.37,
+          "asr_start_seconds": 688.48,
+          "preceding_pause_end_seconds": 687.733,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 797.935,
+          "recognition_excerpt": "Exercise 16. Part 3",
+          "small_model_agreement_seconds": 0.44,
+          "asr_start_seconds": 798.32,
+          "preceding_pause_end_seconds": 798.185,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        }
+      ]
+    },
+    {
+      "lesson": 17,
+      "duration_seconds": 1442.37725,
+      "section_candidates": [
+        {
+          "kind": "vocabulary",
+          "start_seconds": 2.811,
+          "recognition_excerpt": "Vocabulary practice. Repeat each item after the speaker. Each item is given twice. Ready, listen and repeat. Unnam Mol Makar Lila",
+          "small_model_agreement_seconds": 0.4,
+          "asr_start_seconds": 3.32,
+          "preceding_pause_end_seconds": 3.061,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "reading_practice",
+          "start_seconds": 210.022,
+          "recognition_excerpt": "Reading Practice Part B Note how A is added when Kaal and Mukkaal are joined to whole numbers Repeat after this.",
+          "small_model_agreement_seconds": 0.14,
+          "asr_start_seconds": 210.46,
+          "preceding_pause_end_seconds": 210.272,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "conversation",
+          "start_seconds": 301.714,
+          "recognition_excerpt": "Conversation 17. Listen to the conversation enacted at a slightly slower than normal speed. He is a man. He is a man. He is a man.",
+          "small_model_agreement_seconds": 0.6,
+          "asr_start_seconds": 302.42,
+          "preceding_pause_end_seconds": 301.964,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "slower_reading",
+          "start_seconds": 305.45,
+          "recognition_excerpt": "Listen to the conversation enacted at a slightly slower than normal speed. He is a man. He is a man. He is a man.",
+          "small_model_agreement_seconds": 0.34,
+          "asr_start_seconds": 305.7,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "normal_speed",
+          "start_seconds": 362.529,
+          "recognition_excerpt": "Now listen to the conversation at normal speed. One hour, my mother. My name is Lila. My name is Kaliyani. I'm a man. I'm a man.",
+          "small_model_agreement_seconds": 0.4,
+          "asr_start_seconds": 362.84,
+          "preceding_pause_end_seconds": 362.779,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "role_play",
+          "start_seconds": 408.693,
+          "recognition_excerpt": "Conversational Practice Amma's lines will be provided on the tape. You respond to the text.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 410.06,
+          "preceding_pause_end_seconds": 408.943,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "role_play",
+          "start_seconds": 461.449,
+          "recognition_excerpt": "Now let's reverse roles. You take the lines of Amma and Leela's lines will be provided on the tape. When I say begin, you come in with Mole, Leela, you are the teacher's name.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 461.94,
+          "preceding_pause_end_seconds": 461.699,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "conversation",
+          "start_seconds": 511.054,
+          "recognition_excerpt": "Conversation 17 Randaam Brangam Listening practice. Listen to the conversation enacted at slightly slower than normal speed. Randaam Brangam Aduttho",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 512.22,
+          "preceding_pause_end_seconds": 511.304,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "slower_reading",
+          "start_seconds": 515.901,
+          "recognition_excerpt": "Listen to the conversation enacted at slightly slower than normal speed. Randaam Brangam Aduttho",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 517.06,
+          "preceding_pause_end_seconds": 516.151,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "normal_speed",
+          "start_seconds": 568.903,
+          "recognition_excerpt": "Now listen to the conversation at normal speed. I am a teacher and I am a teacher at a high school. I am a teacher and I am a teacher.",
+          "small_model_agreement_seconds": 0.04,
+          "asr_start_seconds": 569.7,
+          "preceding_pause_end_seconds": 569.153,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "role_play",
+          "start_seconds": 608.302,
+          "recognition_excerpt": "Conversational Practice Leela's lines will be provided on the tape. You respond with Amma's lines in the spaces provided. Ready, listen and respond.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 608.72,
+          "preceding_pause_end_seconds": 608.552,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "role_play",
+          "start_seconds": 655.09,
+          "recognition_excerpt": "You take Leela's lines and Amma's lines will be provided on the tape. When I say begin, you come in with And so on. Ready?",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 655.34,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 704.35,
+          "recognition_excerpt": "Exercise 17 Part 1. Change the following commands to the familiar form as in the model. Model.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 704.6,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 719.353,
+          "recognition_excerpt": "listen to the commands. Make the change. Compare with the correct form given by the speaker.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 719.74,
+          "preceding_pause_end_seconds": 719.603,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 815.246,
+          "recognition_excerpt": "Exercise 17 part 2 Change the verbs in the following sentences to end in Nund",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 815.74,
+          "preceding_pause_end_seconds": 815.496,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 979.25,
+          "recognition_excerpt": "Exercise 17 Part 3. Change the verbs into sentences below to remote past as in the model. I am going to talk to you.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 979.68,
+          "preceding_pause_end_seconds": 979.5,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 1170.263,
+          "recognition_excerpt": "Exercise 17 Part 4 Read the following making sure you understand the meaning. Then listen and repeat after the speaker. Begin 1",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 1170.94,
+          "preceding_pause_end_seconds": 1170.513,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        }
+      ]
+    },
+    {
+      "lesson": 18,
+      "duration_seconds": 966.609125,
+      "section_candidates": [
+        {
+          "kind": "vocabulary",
+          "start_seconds": 1.899,
+          "recognition_excerpt": "Vocabulary Practice. Repeat each item after the speaker. Each item is given twice. Ready, listen and repeat. Mathiam Mathiam Varimadhyay Iniyim Cinema Shalom",
+          "small_model_agreement_seconds": 1.08,
+          "asr_start_seconds": 2.76,
+          "preceding_pause_end_seconds": 2.149,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "reading_practice",
+          "start_seconds": 170.884,
+          "recognition_excerpt": "Reading Practice, Lesson 18 Read along as the following are read out. Try to recognize words or parts of words. Part A Kaanade Patikyade Kudikyade Pohkade Kaelkade Okay.",
+          "small_model_agreement_seconds": 0.08,
+          "asr_start_seconds": 171.62,
+          "preceding_pause_end_seconds": 171.134,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "conversation",
+          "start_seconds": 261.908,
+          "recognition_excerpt": "Conversation 18 Listening Practice Listen to the conversation enacted at slightly slower than normal speed Leelayoda vietilake, vadi madhye In the way, you can't walk away No teacher, you can't walk away from cinema Ther",
+          "small_model_agreement_seconds": 0.06,
+          "asr_start_seconds": 262.74,
+          "preceding_pause_end_seconds": 262.158,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "slower_reading",
+          "start_seconds": 265.241,
+          "recognition_excerpt": "Listen to the conversation enacted at slightly slower than normal speed Leelayoda vietilake, vadi madhye In the way, you can't walk away No teacher, you can't walk away from cinema There's a place where you can walk away",
+          "small_model_agreement_seconds": 0.72,
+          "asr_start_seconds": 266.14,
+          "preceding_pause_end_seconds": 265.491,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "normal_speed",
+          "start_seconds": 320.463,
+          "recognition_excerpt": "Now listen to the conversation at normal speed.",
+          "small_model_agreement_seconds": 0.12,
+          "asr_start_seconds": 320.86,
+          "preceding_pause_end_seconds": 320.713,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "role_play",
+          "start_seconds": 419.63,
+          "recognition_excerpt": "You take the lines of teacher and Leela's lines will be provided on the tape. When I say begin, you come in with And so on. Ready? Begin.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 419.88,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 470.484,
+          "recognition_excerpt": "Exercise number 18 part 1 change the verbs to negative commands in the following sentences as in the model Now listen, change, compare with the speaker and repeat",
+          "small_model_agreement_seconds": 0.02,
+          "asr_start_seconds": 471.46,
+          "preceding_pause_end_seconds": 470.734,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        }
+      ]
+    },
+    {
+      "lesson": 19,
+      "duration_seconds": 1792.418125,
+      "section_candidates": [
+        {
+          "kind": "vocabulary",
+          "start_seconds": 2.05,
+          "recognition_excerpt": "Vocabulary practice. Repeat each item after the speaker. Each item is given twice. Ready, listen and repeat. manager piwn piwn boyrick you guy iron boyrick you guy",
+          "small_model_agreement_seconds": 0.72,
+          "asr_start_seconds": 2.3,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "reading_practice",
+          "start_seconds": 244.89,
+          "recognition_excerpt": "Reading Practice Read along as the following are read out. Try to recognize words or parts of words. Note how the noun alukar or people may be replaced in the following phrase.",
+          "small_model_agreement_seconds": 0.42,
+          "asr_start_seconds": 245.14,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "conversation",
+          "start_seconds": 359.93,
+          "recognition_excerpt": "Conversation 19. Listening Practice. Listen to the conversation, enacted at slightly slower than normal speed. Office is one day. Thomas, you are going to go to the place? I'm going to go to the other side.",
+          "small_model_agreement_seconds": 0.16,
+          "asr_start_seconds": 360.18,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "slower_reading",
+          "start_seconds": 363.967,
+          "recognition_excerpt": "Listen to the conversation, enacted at slightly slower than normal speed. Office is one day. Thomas, you are going to go to the place? I'm going to go to the other side.",
+          "small_model_agreement_seconds": 0.39,
+          "asr_start_seconds": 364.52,
+          "preceding_pause_end_seconds": 364.217,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "normal_speed",
+          "start_seconds": 454.27,
+          "recognition_excerpt": "Now listen to the conversation at normal speed. Thomas, where are you going? You're going to be outside.",
+          "small_model_agreement_seconds": 0.08,
+          "asr_start_seconds": 455.18,
+          "preceding_pause_end_seconds": 454.52,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "role_play",
+          "start_seconds": 520.988,
+          "recognition_excerpt": "Conversational Practice. The lines of Menon and Nair will be provided on the tape. You respond with the lines of Thomas in the spaces provided.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 522.0,
+          "preceding_pause_end_seconds": 521.238,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "role_play",
+          "start_seconds": 607.129,
+          "recognition_excerpt": "Now let's reverse roles. You take the lines of",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 608.16,
+          "preceding_pause_end_seconds": 607.379,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 693.833,
+          "recognition_excerpt": "Exercise 19 Part 1. Change the following sentences to negative commands as in the model. Nii vida irikanam, nii vida iriku,",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 695.06,
+          "preceding_pause_end_seconds": 694.083,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 1165.765,
+          "recognition_excerpt": "Exercise number 19 part 3a make cleft sentences from the following by nominalizing",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 1166.14,
+          "preceding_pause_end_seconds": 1166.015,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 1535.178,
+          "recognition_excerpt": "exercise 19 part 4a combine the sentences in the pairs below by making the first into a dependent because clause as in the model",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 1535.9,
+          "preceding_pause_end_seconds": 1535.428,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        }
+      ]
+    },
+    {
+      "lesson": 20,
+      "duration_seconds": 1165.7405,
+      "section_candidates": [
+        {
+          "kind": "vocabulary",
+          "start_seconds": 94.483,
+          "recognition_excerpt": "Vokabulary Practice Part 1 Repeat each item after the speaker. Each item is given twice. Ready, listen and repeat. Honeam Honeam Willa Vidup",
+          "small_model_agreement_seconds": 0.24,
+          "asr_start_seconds": 94.9,
+          "preceding_pause_end_seconds": 94.733,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "reading_practice",
+          "start_seconds": 436.827,
+          "recognition_excerpt": "reading practice read along as",
+          "small_model_agreement_seconds": 1.08,
+          "asr_start_seconds": 437.68,
+          "preceding_pause_end_seconds": 437.077,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "text",
+          "start_seconds": 550.085,
+          "recognition_excerpt": "Text Part 1 Listen to the text at slightly slower than normal speed. Onatinde Katha Thank you.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 551.02,
+          "preceding_pause_end_seconds": 550.335,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "slower_reading",
+          "start_seconds": 553.174,
+          "recognition_excerpt": "Listen to the text at slightly slower than normal speed. Onatinde Katha Thank you.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 553.56,
+          "preceding_pause_end_seconds": 553.424,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "text",
+          "start_seconds": 644.49,
+          "recognition_excerpt": "Text 20 Part 2 On a kochaner.",
+          "small_model_agreement_seconds": 0.02,
+          "asr_start_seconds": 644.74,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 727.91,
+          "recognition_excerpt": "Exercise 20. Make the first noun in each pair into an adjective describing the second noun by using ayah as in the reading practice. Now listen, respond, compare and compare.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 728.16,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        }
+      ]
+    },
+    {
+      "lesson": 21,
+      "duration_seconds": 1338.9585,
+      "section_candidates": [
+        {
+          "kind": "conversation",
+          "start_seconds": 468.674,
+          "recognition_excerpt": "Conversation 21. Listening Practice.",
+          "small_model_agreement_seconds": 0.34,
+          "asr_start_seconds": 469.94,
+          "preceding_pause_end_seconds": 468.924,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "slower_reading",
+          "start_seconds": 474.266,
+          "recognition_excerpt": "Now listen to the conversation at slightly slower than normal speed. Chichi, chetananda ille, Ebbadei pōri kiyo ana? Yemadana baiigatta uri ing.",
+          "small_model_agreement_seconds": 0.56,
+          "asr_start_seconds": 474.9,
+          "preceding_pause_end_seconds": 474.516,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "normal_speed",
+          "start_seconds": 591.362,
+          "recognition_excerpt": "Now listen to the conversation at normal speed.",
+          "small_model_agreement_seconds": 0.28,
+          "asr_start_seconds": 591.88,
+          "preceding_pause_end_seconds": 591.612,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "role_play",
+          "start_seconds": 680.65,
+          "recognition_excerpt": "Conversational Practice. The lines of Rajan and Rajan.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 680.9,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "role_play",
+          "start_seconds": 786.55,
+          "recognition_excerpt": "Now let's reverse roles. You take the lines of Rajin and Chaitan.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 786.8,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 896.585,
+          "recognition_excerpt": "exercise 21 part 1a combine the pairs of sentences below using pole as in the model",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 898.0,
+          "preceding_pause_end_seconds": 896.835,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 1160.409,
+          "recognition_excerpt": "Exercise 21 Part 5. Change the sentences below to the continuous using Ukayana. Now listen, change, compare and repeat after the speaker. 1. The first one is the third one.",
+          "small_model_agreement_seconds": 0.06,
+          "asr_start_seconds": 1161.2,
+          "preceding_pause_end_seconds": 1160.659,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        }
+      ]
+    },
+    {
+      "lesson": 22,
+      "duration_seconds": 1431.37975,
+      "section_candidates": [
+        {
+          "kind": "vocabulary",
+          "start_seconds": 8.01,
+          "recognition_excerpt": "Vocabulary. Repeat each item after the speaker. Each item is given twice. Ready? Listen and repeat.",
+          "small_model_agreement_seconds": 0.02,
+          "asr_start_seconds": 8.26,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "reading_practice",
+          "start_seconds": 422.776,
+          "recognition_excerpt": "Reading Practice B This time read along as the personal nouns of experience are given. Since they are a little more challenging to pronounce, each item is given twice. Ready? Read and repeat. customer tower",
+          "small_model_agreement_seconds": 0.3,
+          "asr_start_seconds": 423.78,
+          "preceding_pause_end_seconds": 423.026,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "conversation",
+          "start_seconds": 510.663,
+          "recognition_excerpt": "Conversation 22. Listening Practice. Listen to the dialogue enacted at slightly slower than normal speed. Ready? Listen. I have to go to the table. I have to go to the table. I have to go to the table. I have to go to th",
+          "small_model_agreement_seconds": 0.34,
+          "asr_start_seconds": 511.14,
+          "preceding_pause_end_seconds": 510.913,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "slower_reading",
+          "start_seconds": 513.49,
+          "recognition_excerpt": "Listen to the dialogue enacted at slightly slower than normal speed. Ready? Listen. I have to go to the table. I have to go to the table. I have to go to the table. I have to go to the table. Hey. Don't go my-",
+          "small_model_agreement_seconds": 0.36,
+          "asr_start_seconds": 513.74,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "normal_speed",
+          "start_seconds": 635.913,
+          "recognition_excerpt": "Now listen to the dialogue at normal speed. Ready? Listen.",
+          "small_model_agreement_seconds": 0.02,
+          "asr_start_seconds": 636.18,
+          "preceding_pause_end_seconds": 636.163,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 725.741,
+          "recognition_excerpt": "Exercises, Lesson 22. Exercise 1. Reform the following sentences, making the specified phrases into nouns carrying karan, kari or kar. This is the first time.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 726.78,
+          "preceding_pause_end_seconds": 725.991,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 1056.061,
+          "recognition_excerpt": "Exercise 3 has been modified from the form in the book for oral oral practice. Form the about to form from the following verbs. Listen to the model. theorem.",
+          "small_model_agreement_seconds": 0.0,
+          "asr_start_seconds": 1056.36,
+          "preceding_pause_end_seconds": 1056.311,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 1143.996,
+          "recognition_excerpt": "Exercise 4 Reading Practice Read along with the speaker as he reads out the following sentences. Then re-read the sentence aloud or repeat it aloud as you like in the space provided. Ready? Listen.",
+          "small_model_agreement_seconds": 0.25,
+          "asr_start_seconds": 1144.52,
+          "preceding_pause_end_seconds": 1144.246,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 1311.09,
+          "recognition_excerpt": "Exercise 5. Form responses to these questions stating the ages of the various persons involved. Listen to the model. Now you do the same with these. And after each question.",
+          "small_model_agreement_seconds": 0.04,
+          "asr_start_seconds": 1311.34,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        }
+      ]
+    },
+    {
+      "lesson": 23,
+      "duration_seconds": 2077.04825,
+      "section_candidates": [
+        {
+          "kind": "vocabulary",
+          "start_seconds": 196.167,
+          "recognition_excerpt": "Vocabulary Repeat after the speaker. We know that.",
+          "small_model_agreement_seconds": 1.38,
+          "asr_start_seconds": 196.48,
+          "preceding_pause_end_seconds": 196.417,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "reading_practice",
+          "start_seconds": 511.645,
+          "recognition_excerpt": "Reading Practice A. Read these adverbs formed with Aai. Each word is given twice. Listen to the speaker and repeat. Satharneai",
+          "small_model_agreement_seconds": 0.02,
+          "asr_start_seconds": 512.56,
+          "preceding_pause_end_seconds": 511.895,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "reading_practice",
+          "start_seconds": 663.395,
+          "recognition_excerpt": "Reading practice B. Read the following sentences expressing a change of state with I. Now this is reading practice",
+          "small_model_agreement_seconds": 3.36,
+          "asr_start_seconds": 664.34,
+          "preceding_pause_end_seconds": 663.645,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "reading_practice",
+          "start_seconds": 672.872,
+          "recognition_excerpt": "reading practice",
+          "small_model_agreement_seconds": 0.02,
+          "asr_start_seconds": 673.64,
+          "preceding_pause_end_seconds": 673.122,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "slower_reading",
+          "start_seconds": 1015.23,
+          "recognition_excerpt": "First the conversation is given at slightly slower than normal speed, followed by conversation in normal speed. Listen",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 1015.48,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "normal_speed",
+          "start_seconds": 1218.606,
+          "recognition_excerpt": "Now the conversation is at normal speed. I'm going to get to America.",
+          "small_model_agreement_seconds": 0.38,
+          "asr_start_seconds": 1218.98,
+          "preceding_pause_end_seconds": 1218.856,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 1375.97,
+          "recognition_excerpt": "Exercise No. 1 Reform the following sentences, changing the negative item in parentheses.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 1376.9,
+          "preceding_pause_end_seconds": 1376.22,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 1520.839,
+          "recognition_excerpt": "Exercise No. 2 Make the pairs of sentences below into single past conditional sentences as in the model. I will tell you, I will tell you, I will tell you, I will tell you, I will tell you, I will tell you, I will tell y",
+          "small_model_agreement_seconds": 0.44,
+          "asr_start_seconds": 1521.8,
+          "preceding_pause_end_seconds": 1521.089,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 1664.501,
+          "recognition_excerpt": "Exercise No. 4 Read along the following sentences, making sure you understand the...",
+          "small_model_agreement_seconds": 0.22,
+          "asr_start_seconds": 1665.64,
+          "preceding_pause_end_seconds": 1664.751,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 1811.498,
+          "recognition_excerpt": "Exercise No. 5 Use the words in parentheses to form adverbs to fill in the blanks in these sentences. differences.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 1812.4,
+          "preceding_pause_end_seconds": 1811.748,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 1989.41,
+          "recognition_excerpt": "Exercise No. 6. Repeat the sentences below after the teacher. Then change them as in the model. Aad dosha jnan tinnnengya.",
+          "small_model_agreement_seconds": 0.54,
+          "asr_start_seconds": 1989.66,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        }
+      ]
+    },
+    {
+      "lesson": 24,
+      "duration_seconds": 2371.030375,
+      "section_candidates": [
+        {
+          "kind": "vocabulary",
+          "start_seconds": 228.751,
+          "recognition_excerpt": "Vocabulary Practice Repeat each item after the speaker. Each item is given twice. Ready? Listen and repeat. PALARI VATTAM Janata Junction Sameebam Kidapp Kidapp get up",
+          "small_model_agreement_seconds": 0.14,
+          "asr_start_seconds": 229.4,
+          "preceding_pause_end_seconds": 229.001,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "reading_practice",
+          "start_seconds": 732.75,
+          "recognition_excerpt": "Reading Practice B. Superlatives. Listen and repeat after the speaker as before. Number 1",
+          "small_model_agreement_seconds": 0.5,
+          "asr_start_seconds": 733.0,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "text",
+          "start_seconds": 943.99,
+          "recognition_excerpt": "Text. Follow along as the sample newspaper advertisements are read out. Each one will be read at slow speed, then...",
+          "small_model_agreement_seconds": 0.12,
+          "asr_start_seconds": 944.24,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "normal_speed",
+          "start_seconds": 975.694,
+          "recognition_excerpt": "Now at normal speed. The",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 976.08,
+          "preceding_pause_end_seconds": 975.944,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "normal_speed",
+          "start_seconds": 1005.14,
+          "recognition_excerpt": "Now at normal speed. VATAK PPERASYEM NAAGAMPATATTH ELLLAHAVITTH SAUGHARINGOLOVLUK OUDAIYE URU VEED VATAK KODU KANUNDA",
+          "small_model_agreement_seconds": 0.84,
+          "asr_start_seconds": 1006.16,
+          "preceding_pause_end_seconds": 1005.39,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "normal_speed",
+          "start_seconds": 1043.93,
+          "recognition_excerpt": "Now at normal speed. VAYVAHYAK PPERASYAM Bombay, 48 Jody YULLA, 27 VAYAS, 580 POKKAM, 12 NIRAM, VANNAM KURANJUDUMAAY, NAYER YUDIKKAK UR EENGINEERW, DOCTORW, AYAR,",
+          "small_model_agreement_seconds": 0.12,
+          "asr_start_seconds": 1044.18,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "slower_reading",
+          "start_seconds": 1067.671,
+          "recognition_excerpt": "listen as you'd like as the conversation is read out first at slightly slower than normal speed, then at normal speed. Ready? Listen and read along. I will talk to you about the same thing. I will talk to you about the s",
+          "small_model_agreement_seconds": 0.04,
+          "asr_start_seconds": 1067.98,
+          "preceding_pause_end_seconds": 1067.921,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "normal_speed",
+          "start_seconds": 1179.898,
+          "recognition_excerpt": "Now at normal speed. Kamala, I'm going to get a car. I'm going to get a car. I'm going to get a car. I'm going to get a car. I'm going to get a car.",
+          "small_model_agreement_seconds": 0.6,
+          "asr_start_seconds": 1180.38,
+          "preceding_pause_end_seconds": 1180.148,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 1266.75,
+          "recognition_excerpt": "Exercises Lesson 24. Exercise 1. Combine the two sentences into a single comparative sentence. Listen to the model.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 1267.0,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 1495.286,
+          "recognition_excerpt": "Exercise 2. Reform the following sentences using the derived noun of the verb which in the book is underlined and here will be given after the sentence. You may also need to make some other changes.",
+          "small_model_agreement_seconds": 0.06,
+          "asr_start_seconds": 1496.06,
+          "preceding_pause_end_seconds": 1495.536,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 1744.472,
+          "recognition_excerpt": "Exercise 2, Section D. Listen to this model. Now listen, reform and repeat. Number 1. Kuttingal",
+          "small_model_agreement_seconds": 0.0,
+          "asr_start_seconds": 1744.88,
+          "preceding_pause_end_seconds": 1744.722,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 1790.439,
+          "recognition_excerpt": "Exercise 3 uses a common set of 5 sentences for the 3 sections. Each section gives you practice in saying can't in a different way. Listen to the model for section A. Now you do the same with these. and after you've form",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 1791.16,
+          "preceding_pause_end_seconds": 1790.689,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 2121.884,
+          "recognition_excerpt": "Exercise 4. Add the meaning of can to the following sentences as in the model. Listen. Now you do the same with these and after you've reformed the sentence, the correct form will be given for you to check and to repeat",
+          "small_model_agreement_seconds": 0.14,
+          "asr_start_seconds": 2122.32,
+          "preceding_pause_end_seconds": 2122.134,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 2239.981,
+          "recognition_excerpt": "Exercise 5. Follow along as the speaker reads out the comprehension sentences. Ready? Begin.",
+          "small_model_agreement_seconds": 0.48,
+          "asr_start_seconds": 2240.56,
+          "preceding_pause_end_seconds": 2240.231,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        }
+      ]
+    },
+    {
+      "lesson": 25,
+      "duration_seconds": 2060.17325,
+      "section_candidates": [
+        {
+          "kind": "reading_practice",
+          "start_seconds": 631.36,
+          "recognition_excerpt": "Reading Practice Note the noun and adjective forms of colors in these sentences and repeat after the speaker. Nirangal Veluppu Idhinda niram veluppu aaana",
+          "small_model_agreement_seconds": 0.57,
+          "asr_start_seconds": 631.61,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "text",
+          "start_seconds": 725.77,
+          "recognition_excerpt": "Text. Read along with the speaker. Malayali guys are in the world of Kerala.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 726.02,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 883.962,
+          "recognition_excerpt": "Exercise No. 1. Give Malayalam responses to the questions below based on the text Next.",
+          "small_model_agreement_seconds": null,
+          "asr_start_seconds": 884.68,
+          "preceding_pause_end_seconds": 884.212,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 1133.792,
+          "recognition_excerpt": "exercise 2 give the derived noun equal to the verbal noun in other as in the model Kanananda kalcha now give the correct form and repeat after the speaker Abhi praya padunno the. Abhi prayaam.",
+          "small_model_agreement_seconds": 0.02,
+          "asr_start_seconds": 1134.62,
+          "preceding_pause_end_seconds": 1134.042,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 1481.778,
+          "recognition_excerpt": "Exercise number 4. A. Make relative clauses from the pairs of nouns as in the models. Be sure to add the relative pronoun of the right gender",
+          "small_model_agreement_seconds": 0.96,
+          "asr_start_seconds": 1482.88,
+          "preceding_pause_end_seconds": 1482.028,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        },
+        {
+          "kind": "exercise",
+          "start_seconds": 1907.25,
+          "recognition_excerpt": "Exercise 6. Read these sentences, making sure",
+          "small_model_agreement_seconds": 0.68,
+          "asr_start_seconds": 1907.5,
+          "preceding_pause_end_seconds": null,
+          "timestamp_mode": "Whisper large-v3-turbo word timestamp, preceding pause within 1.2 seconds when available, 0.25-second lead-in"
+        }
+      ]
+    }
+  ]
+}

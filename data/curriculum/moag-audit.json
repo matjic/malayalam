@@ -1,0 +1,3386 @@
+{
+  "schema_version": 1,
+  "reviewed_on": "2026-10-04",
+  "purpose": "Map the current improved Moag edition and identify companion learning support without editing the transcription.",
+  "scope": {
+    "lessons": 25,
+    "minilessons": 7,
+    "support_resources": 10
+  },
+  "method": "Inspected all lesson and minilesson headings, vocabulary/reading organization and exercise sections; sampled explanatory and contextual passages; inspected script tools, reference resources, digital guidance and the existing proofreading review. This is a curriculum support audit, not a sentence-by-sentence linguistic proofread, listening audit, learner trial or proficiency validation.",
+  "interpretation": "Coverage and existing practice describe inspected material. Practical objectives, prerequisite links, priorities and proposed supplements are editorial judgments. Not identified means not found in the reviewed local edition, not proof that no external resource exists.",
+  "audio": {
+    "tracks": 25,
+    "duration_seconds": 37500.26725,
+    "alignment": "Unverified; no recordings listened to in this audit.",
+    "inventory": "data/audio/moag/manifest.json",
+    "license": "Reuse license not verified in inventory."
+  },
+  "source_snapshot": [
+    {
+      "path": "docs/lesson1.md",
+      "sha256": "d710f755f3c4bb3898296017c96b5320e8a247d365420a5e89da86e88bef89c9"
+    },
+    {
+      "path": "docs/lesson2.md",
+      "sha256": "06fa43410d62d5b1f650c5a0d78257791442c2830a8c506243d7ad273c4b2e44"
+    },
+    {
+      "path": "docs/lesson3.md",
+      "sha256": "e503f3eedc74daf496e2c85d7b5152aa12cdf9bd6b91fbefda0a32efd4a6718b"
+    },
+    {
+      "path": "docs/lesson4.md",
+      "sha256": "2cb97046346331244785e2ffbc645d1d6d9f9062969ce7732685cf87aca14732"
+    },
+    {
+      "path": "docs/lesson5.md",
+      "sha256": "bf79b5ccd1aa032eba611b0a4afc855327e59d457b9c2e740d915ea52e2b239d"
+    },
+    {
+      "path": "docs/lesson6.md",
+      "sha256": "fe6c0c2f3d65f90da82a28e7b81534d3f1f71734ad097ed70b98bc7fea50e0c5"
+    },
+    {
+      "path": "docs/lesson7.md",
+      "sha256": "5171dfc5a25f6243cb846bbef62806d7c0502876d4bcc9448c8b73664eeb3b9b"
+    },
+    {
+      "path": "docs/lesson8.md",
+      "sha256": "3cb566b1e7bc290efc35727be467f1986fbced7be26ad836a08a6e85103d0683"
+    },
+    {
+      "path": "docs/lesson9.md",
+      "sha256": "8fea0a007b7e411d202bb52f84f7f757828c169abfdb9bc078b5f0e6bf57d860"
+    },
+    {
+      "path": "docs/lesson10.md",
+      "sha256": "d7af45335857006f7df74abc33067c1471c0c6a2491e1717b1ba66ad69e6b09a"
+    },
+    {
+      "path": "docs/lesson11.md",
+      "sha256": "9c5e0d7a0757843cc4447b81370b55ddbcd2fd55061070925e4604c08bb556c2"
+    },
+    {
+      "path": "docs/lesson12.md",
+      "sha256": "a6103c01b9aa5fc0e353d9024a6cef162e078f801ccd63b11e9a4c3182fe6bf2"
+    },
+    {
+      "path": "docs/lesson13.md",
+      "sha256": "108c76a9acfc8d7ebcbc372760cc3f58d068d1ca5ed409bbb79f8e75501d0d91"
+    },
+    {
+      "path": "docs/lesson14.md",
+      "sha256": "190883f9bc217318482202daae99dd221d897141e2171d5c4ef285992b658a23"
+    },
+    {
+      "path": "docs/lesson15.md",
+      "sha256": "e2af7e86e85391f518c7533eda4d7868222e8bf0b2cb3ef6f49c20453581500d"
+    },
+    {
+      "path": "docs/lesson16.md",
+      "sha256": "acf261be8355776bfd929cf36658dbb3a9937ae4b4be0ce2b3386a1103a2f0e6"
+    },
+    {
+      "path": "docs/lesson17.md",
+      "sha256": "122d7b9d332e9425c8009dc316f06a5be0063e7847db879dc6dedf2e443b93e2"
+    },
+    {
+      "path": "docs/lesson18.md",
+      "sha256": "c4da3afa61ff72be6daabcd7663d9b7fd9bd16a9b516bd8a966450f801c16be9"
+    },
+    {
+      "path": "docs/lesson19.md",
+      "sha256": "fa93dbfe919c496f9710735e2c714d2bd8753d86fd874f116c5f4f88cc09f78f"
+    },
+    {
+      "path": "docs/lesson20.md",
+      "sha256": "001932617accb2cfcbf64f2f59f908a11dc54a91d9440897c536df004290636c"
+    },
+    {
+      "path": "docs/lesson21.md",
+      "sha256": "8fa9dbe2e3b7ff893869759320b90bdc9b64dbcd9221e3c4ea4bf4335b3766f7"
+    },
+    {
+      "path": "docs/lesson22.md",
+      "sha256": "fc42ed1d305575670ebd0d52115bd457b613171a44b96c8f02697020266a8fe1"
+    },
+    {
+      "path": "docs/lesson23.md",
+      "sha256": "fdf381a37c050a3a8445ebba03aa92ed9bf7f40bc1c1c0acb492e0ab2aeddf86"
+    },
+    {
+      "path": "docs/lesson24.md",
+      "sha256": "0bfa1f6767e7fbe40c3cc647982a63160ebb004aa0acb28cf4c538f69dea845f"
+    },
+    {
+      "path": "docs/lesson25.md",
+      "sha256": "229c2fbdd9eb4980edd2a09ef14b304de0cab198fec75f8abd1c1f9f74c7b0ee"
+    },
+    {
+      "path": "docs/minilesson-a.md",
+      "sha256": "7b3738f51a430a18b3222b6177514b1dcaba2f5323cbd2249a511d6b21cc2773"
+    },
+    {
+      "path": "docs/minilesson-b.md",
+      "sha256": "ae69852b4341983473b99104847d0a3928e6eb63f710d31845efa63f6bb7d54c"
+    },
+    {
+      "path": "docs/minilesson-c.md",
+      "sha256": "864190f6c1f2b7ccff0c893df8b7043625724e0c7e24c3226de73bc8e53404e2"
+    },
+    {
+      "path": "docs/minilesson-d.md",
+      "sha256": "f763a207401027e6e08ffa3f49cd1ba99a3db2be26cfbe75ed05f937c0e1453f"
+    },
+    {
+      "path": "docs/minilesson-e.md",
+      "sha256": "5a4fde56ee19a177296ca782824ad0945b49a1c08a0ff8459ec6c4eff9cd3ca6"
+    },
+    {
+      "path": "docs/minilesson-f.md",
+      "sha256": "e52b65d2b7994d57289fada27f6c8038d45ccf7f1693b0f739321157da44eb6b"
+    },
+    {
+      "path": "docs/minilesson-g.md",
+      "sha256": "8c33d3ad644353047fdcf27471f7b92dbcc51820bd3e7576586af415670ed799"
+    },
+    {
+      "path": "docs/alphabet.md",
+      "sha256": "8d607196924a8e01100f2584422ac95cad2854307d37f81e7a2dd1d98f355ed4"
+    },
+    {
+      "path": "docs/symbols.md",
+      "sha256": "ac14f399ae3c84a868dd80da8ff974ac9c8480ed65a898e7fa3350f6fb0a478b"
+    },
+    {
+      "path": "docs/appendix-a.md",
+      "sha256": "e9c27b6fc8e5d35b915e3d03db325af578ef7ed58d8506f37f00fdf24f80245c"
+    },
+    {
+      "path": "docs/appendix-b.md",
+      "sha256": "6f857d4119b9c9be5094a60ab94c457c21a8f1b095415e1008d1b94cd3291132"
+    },
+    {
+      "path": "docs/appendix-c.md",
+      "sha256": "6c7cf407ca65ba2c35ccdc4cf48808aa1185fe49d4ae9b7a1825fe9912e4bdda"
+    },
+    {
+      "path": "docs/appendix-d.md",
+      "sha256": "2734eea8c8ab430e92d2edbe47baa1a7e92eaf3c48709ca082e3b95667da5500"
+    },
+    {
+      "path": "docs/appendix-e.md",
+      "sha256": "61d44bde2eec4421a8865bd82429792fccd9b3d630ddf1661bf5752fefbb68cc"
+    },
+    {
+      "path": "docs/appendix-f.md",
+      "sha256": "e62b8ed015f789e62d5d8c11948a5e7b59587f81b21f8c5b33e547dd3770febf"
+    },
+    {
+      "path": "docs/glossary.md",
+      "sha256": "ba38148a11e1946edd04f8121bac2ac924768de9bb4cfdb3a177592208d93a29"
+    },
+    {
+      "path": "docs/book-index.md",
+      "sha256": "45e68f99ea87f3d81a8b51b3f3c0663b6e1098571647b5a4cf31e67adc96752c"
+    },
+    {
+      "path": "docs/usage.md",
+      "sha256": "a690790120cbdbe1ac18f910879bc0d11c79b971414f1a112f98d89f50ddbce9"
+    },
+    {
+      "path": "docs/digital-edition.md",
+      "sha256": "22f70b536e3150868e52723b48b8fd67d2085301f8a0d853891f1ea4d2148486"
+    },
+    {
+      "path": "docs/proofreading-review.md",
+      "sha256": "d4957eac1cc50b11b055003a338966547f50fe7249c34118baf56319e67cbd0b"
+    },
+    {
+      "path": "docs/README.md",
+      "sha256": "66d5017638e42991df0eb7e8da4256fb342e69fd5070b6f8c503d988361fce94"
+    },
+    {
+      "path": "docs/contents.md",
+      "sha256": "f9dc0ef3b3197df9acb338d75666f1ced6fe4e5791baa15956e8ebd673dd06e5"
+    },
+    {
+      "path": "docs/assets/writing.js",
+      "sha256": "e84719565a3ca364a892ef188420fa15a6a212aed4ee231bd536e3b477c6847d"
+    },
+    {
+      "path": "docs/assets/writing/manifest.json",
+      "sha256": "e63977bdf3951e9cab7726fc8eda1f396b2c89c7e9ea43777c9d253c82fa8e15"
+    },
+    {
+      "path": "data/audio/moag/README.md",
+      "sha256": "50214fee1f0951ae814ae5df717ae1dca2d0b347a64be6c1fb77e0a6810e94c9"
+    },
+    {
+      "path": "data/audio/moag/manifest.json",
+      "sha256": "d37ffc220d21bddc60f1fdb253eeb7e69a6ba4b105d09e55433661eeee1bb37b"
+    },
+    {
+      "path": "README.md",
+      "sha256": "1b7005eae7877bf9c709b31dd5aefebbfdd8a6964cab6b32a6c97c07da31e456"
+    }
+  ],
+  "units": [
+    {
+      "id": "lesson_1",
+      "kind": "lesson",
+      "number": 1,
+      "title": "Lesson 1: Introductions and Equative Sentences",
+      "path": "docs/lesson1.md",
+      "coverage": {
+        "practical_objective": "Introduce yourself and identify a person or object.",
+        "objective_status": "Editorial interpretation of the supplied material",
+        "topics": "Equative sentences, sentence order, shortened naming sentences, quotation marker, and social pronoun choices.",
+        "observed_practice": "Naming and identification with classmates; repetition; translation; written responses; joining words; dental versus alveolar production and recognition."
+      },
+      "prerequisites": {
+        "status": "Recommended prerequisite links, not a formal dependency proof",
+        "items": [
+          "Basic recognition of the letters used in this lesson; supported script entry can run alongside it."
+        ]
+      },
+      "support": {
+        "english_explanation": "Present: numbered grammar notes.",
+        "examples": "Present: reading patterns, models and grammar examples.",
+        "vocabulary": "Present: English-glossed lesson list.",
+        "reading": "Present: reading practice and conversation/text.",
+        "exercises": "Present: exercise section.",
+        "listening": "Printed instructor-led recognition/test activity present; recording alignment unverified.",
+        "pronunciation": "Dental versus alveolar stops/clusters; production and recognition.",
+        "speaking": "Explicit personal or classmate responses; also modeled text.",
+        "writing": "Present: written responses and/or written form practice; this is not handwriting assessment.",
+        "feedback": "Models and examples present; no complete independent answer key identified."
+      },
+      "proposed_supplement": "A small first-session route, an independently usable pronunciation activity, and contextual feedback on address choices. The editorial note already supplies early pronouns and question forms.",
+      "gap_ids": [
+        "G01",
+        "G03",
+        "G04",
+        "G08"
+      ],
+      "evidence": [
+        {
+          "path": "docs/lesson1.md#lesson1-vocabulary",
+          "section": "Vocabulary"
+        },
+        {
+          "path": "docs/lesson1.md#lesson1-reading-practice",
+          "section": "Reading Practice"
+        },
+        {
+          "path": "docs/lesson1.md#lesson1-conversation",
+          "section": "Conversation"
+        },
+        {
+          "path": "docs/lesson1.md#lesson1-exercises",
+          "section": "Exercises"
+        },
+        {
+          "path": "docs/lesson1.md#lesson1-lesson-one-grammar-notes",
+          "section": "Lesson One Grammar Notes"
+        },
+        {
+          "path": "docs/lesson1.md#section-1-1",
+          "section": "1.1. How to Use Grammatical Explanations"
+        },
+        {
+          "path": "docs/lesson1.md#section-1-2",
+          "section": "1.2. The Order of Elements Within the Sentence"
+        },
+        {
+          "path": "docs/lesson1.md#section-1-3",
+          "section": "1.3. Equative Sentences"
+        },
+        {
+          "path": "docs/lesson1.md#section-1-4",
+          "section": "1.4. Copula Deletion in Short Sentences Giving Names"
+        },
+        {
+          "path": "docs/lesson1.md#section-1-5",
+          "section": "1.5. The Quotative or Citation Particle എന്ന്"
+        },
+        {
+          "path": "docs/lesson1.md#section-1-6",
+          "section": "1.6. Social Dimensions of the Personal Pronouns"
+        }
+      ],
+      "audio": {
+        "path": "data/audio/moag/lesson_01.mp3",
+        "inventory_status": "Present",
+        "alignment_status": "Unverified",
+        "reuse_status": "Not verified in audio inventory",
+        "followup_status": "Course/lesson association supported by recognized announcements and topic comparison; exact fourth-edition alignment remains unverified."
+      }
+    },
+    {
+      "id": "lesson_2",
+      "kind": "lesson",
+      "number": 2,
+      "title": "Lesson 2: Location and Yes–No Questions",
+      "path": "docs/lesson2.md",
+      "coverage": {
+        "practical_objective": "Say where you live, identify occupations, and ask yes/no questions.",
+        "objective_status": "Editorial interpretation of the supplied material",
+        "topics": "Locative case, suffix spelling, near/far expressions, yes/no marking, emphasis, and additive joining.",
+        "observed_practice": "Personal hometown and occupation responses; introducing classmates; matching; written replies; suffix joining and splitting; dental versus retroflex pronunciation."
+      },
+      "prerequisites": {
+        "status": "Recommended prerequisite links, not a formal dependency proof",
+        "items": [
+          "Lesson 1 identity sentences and pronoun/address guidance."
+        ]
+      },
+      "support": {
+        "english_explanation": "Present: numbered grammar notes.",
+        "examples": "Present: reading patterns, models and grammar examples.",
+        "vocabulary": "Present: English-glossed lesson list.",
+        "reading": "Present: reading practice and conversation/text.",
+        "exercises": "Present: exercise section.",
+        "listening": "Lesson-named recording exists; task and text alignment unverified.",
+        "pronunciation": "Dental versus retroflex consonants.",
+        "speaking": "Explicit personal or classmate responses; also modeled text.",
+        "writing": "Present: written responses and/or written form practice; this is not handwriting assessment.",
+        "feedback": "Models and examples present; no complete independent answer key identified."
+      },
+      "proposed_supplement": "Use a fresh location task to check meaning and response selection; make question formation and suffix changes easy to check independently.",
+      "gap_ids": [
+        "G01",
+        "G05",
+        "G08"
+      ],
+      "evidence": [
+        {
+          "path": "docs/lesson2.md#lesson2-vocabulary",
+          "section": "Vocabulary"
+        },
+        {
+          "path": "docs/lesson2.md#lesson2-reading-practice",
+          "section": "Reading Practice"
+        },
+        {
+          "path": "docs/lesson2.md#lesson2-conversation",
+          "section": "Conversation"
+        },
+        {
+          "path": "docs/lesson2.md#lesson2-exercises",
+          "section": "Exercises"
+        },
+        {
+          "path": "docs/lesson2.md#lesson2-lesson-two-grammar-notes",
+          "section": "Lesson Two Grammar Notes"
+        },
+        {
+          "path": "docs/lesson2.md#section-2-1",
+          "section": "2.1. The Locative Case of Nouns"
+        },
+        {
+          "path": "docs/lesson2.md#section-2-2",
+          "section": "2.2 Spelling Changes in Adding Vowel-Initial Suffixes"
+        },
+        {
+          "path": "docs/lesson2.md#section-2-3",
+          "section": "2.3. -ഓ as a Marker for Yes-No Questions"
+        },
+        {
+          "path": "docs/lesson2.md#section-2-4",
+          "section": "2.4. Verbal Cues for the Near-Far Distinction"
+        },
+        {
+          "path": "docs/lesson2.md#section-2-5",
+          "section": "2.5. Changing the Order of Sentence Elements for Emphasis"
+        },
+        {
+          "path": "docs/lesson2.md#section-2-6",
+          "section": "2.6 Spelling and Pronunciation Changes when Joining -ഉം"
+        }
+      ],
+      "audio": {
+        "path": "data/audio/moag/lesson_02.mp3",
+        "inventory_status": "Present",
+        "alignment_status": "Unverified",
+        "reuse_status": "Not verified in audio inventory",
+        "followup_status": "Course/lesson association supported by recognized announcements and topic comparison; exact fourth-edition alignment remains unverified."
+      }
+    },
+    {
+      "id": "lesson_3",
+      "kind": "lesson",
+      "number": 3,
+      "title": "Lesson 3: Existence, Possession, and Polite Commands",
+      "path": "docs/lesson3.md",
+      "coverage": {
+        "practical_objective": "Say what is present or possessed, count people, and make polite requests.",
+        "objective_status": "Editorial interpretation of the supplied material",
+        "topics": "Existence and possession, possession types, polite commands, health expressions, and coordination.",
+        "observed_practice": "Counting 1–10; kinship/pronoun matching; possession questions; translation; written answers; joining/splitting; single versus double retroflex sounds."
+      },
+      "prerequisites": {
+        "status": "Recommended prerequisite links, not a formal dependency proof",
+        "items": [
+          "Lessons 1–2; location questions and basic suffix joining."
+        ]
+      },
+      "support": {
+        "english_explanation": "Present: numbered grammar notes.",
+        "examples": "Present: reading patterns, models and grammar examples.",
+        "vocabulary": "Present: English-glossed lesson list.",
+        "reading": "Present: reading practice and conversation/text.",
+        "exercises": "Present: exercise section.",
+        "listening": "Printed instructor-led recognition/test activity present; recording alignment unverified.",
+        "pronunciation": "Single versus double retroflex consonants; recognition game.",
+        "speaking": "Explicit personal or classmate responses; also modeled text.",
+        "writing": "Present: written responses and/or written form practice; this is not handwriting assessment.",
+        "feedback": "Models and examples present; no complete independent answer key identified."
+      },
+      "proposed_supplement": "Contrast identity with existence in new contexts, and supply feedback for possession and commands. Existing number games and family interaction should be retained as coverage.",
+      "gap_ids": [
+        "G01",
+        "G05",
+        "G08"
+      ],
+      "evidence": [
+        {
+          "path": "docs/lesson3.md#lesson3-vocabulary",
+          "section": "Vocabulary"
+        },
+        {
+          "path": "docs/lesson3.md#lesson3-reading-practice",
+          "section": "Reading Practice"
+        },
+        {
+          "path": "docs/lesson3.md#lesson3-conversation",
+          "section": "Conversation"
+        },
+        {
+          "path": "docs/lesson3.md#lesson3-exercises",
+          "section": "Exercises"
+        },
+        {
+          "path": "docs/lesson3.md#lesson3-lesson-three-grammar-notes",
+          "section": "Lesson Three Grammar Notes"
+        },
+        {
+          "path": "docs/lesson3.md#section-3-1",
+          "section": "3.1 Existive/Locative Sentences with ഉണ്ട്"
+        },
+        {
+          "path": "docs/lesson3.md#section-3-2",
+          "section": "3.2 “One of Your” Possessive Phrases"
+        },
+        {
+          "path": "docs/lesson3.md#section-3-3",
+          "section": "3.3 Possessive Sentences: Alienable versus Inalienable Possession"
+        },
+        {
+          "path": "docs/lesson3.md#section-3-4",
+          "section": "3.4. The Polite Command and Citation Forms of Verbs"
+        },
+        {
+          "path": "docs/lesson3.md#section-3-5",
+          "section": "3.5. Impersonal Expressions for Health and Welfare"
+        },
+        {
+          "path": "docs/lesson3.md#section-3-6",
+          "section": "3.6. Coordinate Conjunctions “...and...and”"
+        }
+      ],
+      "audio": {
+        "path": "data/audio/moag/lesson_03.mp3",
+        "inventory_status": "Present",
+        "alignment_status": "Unverified",
+        "reuse_status": "Not verified in audio inventory",
+        "followup_status": "Course/lesson association supported by recognized announcements and topic comparison; exact fourth-edition alignment remains unverified."
+      }
+    },
+    {
+      "id": "lesson_4",
+      "kind": "lesson",
+      "number": 4,
+      "title": "Lesson 4: Wants, Likes, and the Dative Case",
+      "path": "docs/lesson4.md",
+      "coverage": {
+        "practical_objective": "Express preferences and wants, offer food, and give something to someone.",
+        "objective_status": "Editorial interpretation of the supplied material",
+        "topics": "Dative experiencers and recipients, wants versus likes, verb-dependent yes/no replies, and two giving verbs.",
+        "observed_practice": "Substitution and personal preference questions; negative transformations; translation; written responses; aspiration practice; choosing identity/existence forms."
+      },
+      "prerequisites": {
+        "status": "Recommended prerequisite links, not a formal dependency proof",
+        "items": [
+          "Lessons 1–3; identity/existence and positive/negative responses."
+        ]
+      },
+      "support": {
+        "english_explanation": "Present: numbered grammar notes.",
+        "examples": "Present: reading patterns, models and grammar examples.",
+        "vocabulary": "Present: English-glossed lesson list.",
+        "reading": "Present: reading practice and conversation/text.",
+        "exercises": "Present: exercise section.",
+        "listening": "Lesson-named recording exists; task and text alignment unverified.",
+        "pronunciation": "Aspiration and unaspirated consonants.",
+        "speaking": "Explicit personal or classmate responses; also modeled text.",
+        "writing": "Present: written responses and/or written form practice; this is not handwriting assessment.",
+        "feedback": "Models and examples present; no complete independent answer key identified."
+      },
+      "proposed_supplement": "A short meaning-and-response decision aid, followed by an original offer/accept/decline task with explanations of acceptable alternatives.",
+      "gap_ids": [
+        "G01",
+        "G05",
+        "G08"
+      ],
+      "evidence": [
+        {
+          "path": "docs/lesson4.md#lesson4-vocabulary",
+          "section": "Vocabulary"
+        },
+        {
+          "path": "docs/lesson4.md#lesson4-reading-practice",
+          "section": "Reading Practice"
+        },
+        {
+          "path": "docs/lesson4.md#lesson4-conversation",
+          "section": "Conversation"
+        },
+        {
+          "path": "docs/lesson4.md#lesson4-exercises",
+          "section": "Exercises"
+        },
+        {
+          "path": "docs/lesson4.md#lesson4-lesson-four-grammar-notes",
+          "section": "Lesson Four Grammar Notes"
+        },
+        {
+          "path": "docs/lesson4.md#section-4-1",
+          "section": "4.1. Wishes and Desires: The Indirect വേണം"
+        },
+        {
+          "path": "docs/lesson4.md#section-4-2",
+          "section": "4.2. Likes and Desires: Indirect Sentences with ഇഷ്ടമാണ്"
+        },
+        {
+          "path": "docs/lesson4.md#section-4-3",
+          "section": "4.3 Differing Responses to Yes-No Questions According to the Verb"
+        },
+        {
+          "path": "docs/lesson4.md#section-4-4",
+          "section": "4.4 The Dative for Indirect Objects"
+        },
+        {
+          "path": "docs/lesson4.md#section-4-5",
+          "section": "4.5 Differences in the Dative Ending"
+        },
+        {
+          "path": "docs/lesson4.md#section-4-6",
+          "section": "4.6 Two Kinds of Giving"
+        }
+      ],
+      "audio": {
+        "path": "data/audio/moag/lesson_04.mp3",
+        "inventory_status": "Present",
+        "alignment_status": "Unverified",
+        "reuse_status": "Not verified in audio inventory",
+        "followup_status": "Course/lesson association supported by recognized announcements and topic comparison; exact fourth-edition alignment remains unverified."
+      }
+    },
+    {
+      "id": "lesson_5",
+      "kind": "lesson",
+      "number": 5,
+      "title": "Lesson 5: Present Tense and Infinitives",
+      "path": "docs/lesson5.md",
+      "coverage": {
+        "practical_objective": "Describe an action, explain a purpose, and accept or decline an invitation.",
+        "objective_status": "Editorial interpretation of the supplied material",
+        "topics": "Simple present, infinitives, further possession patterns, negative questions, plurals, and linking sounds.",
+        "observed_practice": "Verb formation; negative transformations; translation; written replies; blanks; dental versus alveolar nasal pronunciation."
+      },
+      "prerequisites": {
+        "status": "Recommended prerequisite links, not a formal dependency proof",
+        "items": [
+          "Lessons 1–4; polite/citation forms, possession and preferences."
+        ]
+      },
+      "support": {
+        "english_explanation": "Present: numbered grammar notes.",
+        "examples": "Present: reading patterns, models and grammar examples.",
+        "vocabulary": "Present: English-glossed lesson list.",
+        "reading": "Present: reading practice and conversation/text.",
+        "exercises": "Present: exercise section.",
+        "listening": "Lesson-named recording exists; task and text alignment unverified.",
+        "pronunciation": "Dental versus alveolar nasals.",
+        "speaking": "Explicit repetition or reading aloud; open interaction needs adaptation.",
+        "writing": "Present: written responses and/or written form practice; this is not handwriting assessment.",
+        "feedback": "Models and examples present; no complete independent answer key identified."
+      },
+      "proposed_supplement": "Separate verb formation from choosing the form for a situation. Use original short scenes rather than adding another long conjugation table.",
+      "gap_ids": [
+        "G01",
+        "G04",
+        "G05",
+        "G08"
+      ],
+      "evidence": [
+        {
+          "path": "docs/lesson5.md#lesson5-vocabulary",
+          "section": "Vocabulary"
+        },
+        {
+          "path": "docs/lesson5.md#lesson5-reading-practice",
+          "section": "Reading Practice"
+        },
+        {
+          "path": "docs/lesson5.md#lesson5-conversation",
+          "section": "Conversation"
+        },
+        {
+          "path": "docs/lesson5.md#lesson5-exercises",
+          "section": "Exercises"
+        },
+        {
+          "path": "docs/lesson5.md#lesson5-lesson-five-grammar-notes",
+          "section": "Lesson Five Grammar Notes"
+        },
+        {
+          "path": "docs/lesson5.md#section-5-1",
+          "section": "5.1 The Simple Present Tense"
+        },
+        {
+          "path": "docs/lesson5.md#section-5-2",
+          "section": "5.2 The Gerund and Infinitive of Purpose"
+        },
+        {
+          "path": "docs/lesson5.md#section-5-3",
+          "section": "5.3 More Possessives With ഉണ്ട്"
+        },
+        {
+          "path": "docs/lesson5.md#section-5-4",
+          "section": "5.4 Changing the Order of Elements in the Sentence for Emphasis"
+        },
+        {
+          "path": "docs/lesson5.md#section-5-5",
+          "section": "5.5 The Negative Question Marker -േ-"
+        },
+        {
+          "path": "docs/lesson5.md#section-5-6",
+          "section": "5.6 The Plural Marker for Nouns and its Spelling Changes"
+        },
+        {
+          "path": "docs/lesson5.md#section-5-7",
+          "section": "5.7 The Hint of [y] യ with Verbstems and Nouns."
+        }
+      ],
+      "audio": {
+        "path": "data/audio/moag/lesson_05.mp3",
+        "inventory_status": "Present",
+        "alignment_status": "Unverified",
+        "reuse_status": "Not verified in audio inventory",
+        "followup_status": "Course/lesson association supported by recognized announcements and topic comparison; exact fourth-edition alignment remains unverified."
+      }
+    },
+    {
+      "id": "lesson_6",
+      "kind": "lesson",
+      "number": 6,
+      "title": "Lesson 6: Possessives, Postpositions, and Ability",
+      "path": "docs/lesson6.md",
+      "coverage": {
+        "practical_objective": "Describe nearby places and possession, and discuss what someone can or intends to do.",
+        "objective_status": "Editorial interpretation of the supplied material",
+        "topics": "Postposition case requirements, possessives, potential/intention forms, knowing, rhetorical questions, and infinitive constructions.",
+        "observed_practice": "Location sentences; tense transformations; translation; negative answers; quotation practice; vowel-length contrasts."
+      },
+      "prerequisites": {
+        "status": "Recommended prerequisite links, not a formal dependency proof",
+        "items": [
+          "Lessons 2–5; locative, dative and infinitive patterns."
+        ]
+      },
+      "support": {
+        "english_explanation": "Present: numbered grammar notes.",
+        "examples": "Present: reading patterns, models and grammar examples.",
+        "vocabulary": "Present: English-glossed lesson list.",
+        "reading": "Present: reading practice and conversation/text.",
+        "exercises": "Present: exercise section.",
+        "listening": "Lesson-named recording exists; task and text alignment unverified.",
+        "pronunciation": "Short versus long vowels.",
+        "speaking": "Explicit repetition or reading aloud; open interaction needs adaptation.",
+        "writing": "Present: written responses and/or written form practice; this is not handwriting assessment.",
+        "feedback": "Models and examples present; no complete independent answer key identified."
+      },
+      "proposed_supplement": "A visual location-and-case aid and contextual practice distinguishing knowing, ability, and intention. Coordinate around the already flagged incomplete explanation in §6.7.",
+      "gap_ids": [
+        "G01",
+        "G05",
+        "G08"
+      ],
+      "evidence": [
+        {
+          "path": "docs/lesson6.md#lesson6-vocabulary",
+          "section": "Vocabulary"
+        },
+        {
+          "path": "docs/lesson6.md#lesson6-reading-practice",
+          "section": "Reading Practice"
+        },
+        {
+          "path": "docs/lesson6.md#lesson6-conversation",
+          "section": "Conversation"
+        },
+        {
+          "path": "docs/lesson6.md#lesson6-exercises",
+          "section": "Exercises"
+        },
+        {
+          "path": "docs/lesson6.md#lesson6-lesson-six-grammar-notes",
+          "section": "Lesson Six Grammar Notes"
+        },
+        {
+          "path": "docs/lesson6.md#section-6-1",
+          "section": "6.1 The Polite Assertive Marker -അല്ലോ"
+        },
+        {
+          "path": "docs/lesson6.md#section-6-2",
+          "section": "6.2 The Negative Question as a Signposting and Rhetorical Device"
+        },
+        {
+          "path": "docs/lesson6.md#section-6-3",
+          "section": "6.3 The Intentive or Potential Verb Ending -ാം"
+        },
+        {
+          "path": "docs/lesson6.md#section-6-4",
+          "section": "6.4 The Dative Subject Requirement For അറിയുക (“to know”)"
+        },
+        {
+          "path": "docs/lesson6.md#section-6-5",
+          "section": "6.5 The Postpositions and Their Case Requirements"
+        },
+        {
+          "path": "docs/lesson6.md#section-6-6",
+          "section": "6.6 The Possessive Form (Case) of the Noun"
+        },
+        {
+          "path": "docs/lesson6.md#section-6-7",
+          "section": "6.7. More Uses of the -ാൻ verbform."
+        },
+        {
+          "path": "docs/lesson6.md#section-6-8",
+          "section": "6.8 Colloquial forms of Words with “From.”"
+        }
+      ],
+      "audio": {
+        "path": "data/audio/moag/lesson_06.mp3",
+        "inventory_status": "Present",
+        "alignment_status": "Unverified",
+        "reuse_status": "Not verified in audio inventory",
+        "followup_status": "Course/lesson association supported by recognized announcements and topic comparison; exact fourth-edition alignment remains unverified."
+      }
+    },
+    {
+      "id": "lesson_7",
+      "kind": "lesson",
+      "number": 7,
+      "title": "Lesson 7: Future and Habitual Actions, Time, and “Let’s”",
+      "path": "docs/lesson7.md",
+      "coverage": {
+        "practical_objective": "Arrange a journey, tell time, count larger numbers, and propose doing something together.",
+        "objective_status": "Editorial interpretation of the supplied material",
+        "topics": "Future/habitual forms, obtaining, motion destinations, time, limiting expressions, and hortatives.",
+        "observed_practice": "Number recall; clock and timetable responses; translation; written replies; joining; single versus double dental sounds; hortative formation."
+      },
+      "prerequisites": {
+        "status": "Recommended prerequisite links, not a formal dependency proof",
+        "items": [
+          "Lessons 3, 5–6; counting, verbs, potential forms and location."
+        ]
+      },
+      "support": {
+        "english_explanation": "Present: numbered grammar notes.",
+        "examples": "Present: reading patterns, models and grammar examples.",
+        "vocabulary": "Present: English-glossed lesson list.",
+        "reading": "Present: reading practice and conversation/text.",
+        "exercises": "Present: exercise section.",
+        "listening": "Lesson-named recording exists; task and text alignment unverified.",
+        "pronunciation": "Single versus double dental consonants.",
+        "speaking": "Explicit personal or classmate responses; also modeled text.",
+        "writing": "Present: written responses and/or written form practice; this is not handwriting assessment.",
+        "feedback": "Models and examples present; no complete independent answer key identified."
+      },
+      "proposed_supplement": "Break the very large number reference into task-sized selections. Add a contextual future/intention contrast and feedback on time expressions; the early conditional chunk is already glossed.",
+      "gap_ids": [
+        "G01",
+        "G04",
+        "G05",
+        "G08"
+      ],
+      "evidence": [
+        {
+          "path": "docs/lesson7.md#lesson7-vocabulary",
+          "section": "Vocabulary"
+        },
+        {
+          "path": "docs/lesson7.md#lesson7-reading-practice",
+          "section": "Reading Practice"
+        },
+        {
+          "path": "docs/lesson7.md#lesson7-conversation",
+          "section": "Conversation"
+        },
+        {
+          "path": "docs/lesson7.md#lesson7-exercises",
+          "section": "Exercises"
+        },
+        {
+          "path": "docs/lesson7.md#lesson7-grammar-notes",
+          "section": "Grammar Notes"
+        },
+        {
+          "path": "docs/lesson7.md#section-7-1",
+          "section": "7.1 The General Future and Habitual Verb Ending -ഉം"
+        },
+        {
+          "path": "docs/lesson7.md#section-7-2",
+          "section": "7.2 The Impersonal Verb കിട്ടുക"
+        },
+        {
+          "path": "docs/lesson7.md#section-7-3",
+          "section": "7.3 Asking and Telling Time"
+        },
+        {
+          "path": "docs/lesson7.md#section-7-4",
+          "section": "7.4 The Locative Requirement with Verbs of Motion"
+        },
+        {
+          "path": "docs/lesson7.md#section-7-5",
+          "section": "7.5 The Two Part Qualifier -ഏയുള്ളു"
+        },
+        {
+          "path": "docs/lesson7.md#section-7-6",
+          "section": "7.6 Spelling Changes When Joining -ഏയുള്ളു and -എങ്കിൽ"
+        },
+        {
+          "path": "docs/lesson7.md#section-7-7",
+          "section": "7.7 The Hortative “Let's” Verbform"
+        }
+      ],
+      "audio": {
+        "path": "data/audio/moag/lesson_07.mp3",
+        "inventory_status": "Present",
+        "alignment_status": "Unverified",
+        "reuse_status": "Not verified in audio inventory",
+        "followup_status": "Course/lesson association supported by recognized announcements and topic comparison; exact fourth-edition alignment remains unverified."
+      }
+    },
+    {
+      "id": "lesson_8",
+      "kind": "lesson",
+      "number": 8,
+      "title": "Lesson 8: Accusative Case, Relative Clauses, and Obligation",
+      "path": "docs/lesson8.md",
+      "coverage": {
+        "practical_objective": "Identify someone by what they do, express obligation, and pass on an instruction.",
+        "objective_status": "Editorial interpretation of the supplied material",
+        "topics": "Accusative and associative cases, present relative clauses, desideratives, reported commands, tag questions, and times of day.",
+        "observed_practice": "Case and obligation substitutions; blanks; translation; written responses; case writing; clause combination; reported commands; nasal discrimination game."
+      },
+      "prerequisites": {
+        "status": "Recommended prerequisite links, not a formal dependency proof",
+        "items": [
+          "Lessons 3–7; commands, dative, infinitives, future/intention and cases."
+        ]
+      },
+      "support": {
+        "english_explanation": "Present: numbered grammar notes.",
+        "examples": "Present: reading patterns, models and grammar examples.",
+        "vocabulary": "Present: English-glossed lesson list.",
+        "reading": "Present: reading practice and conversation/text.",
+        "exercises": "Present: exercise section.",
+        "listening": "Printed instructor-led recognition/test activity present; recording alignment unverified.",
+        "pronunciation": "Retroflex versus dental/alveolar nasals; discrimination game.",
+        "speaking": "Explicit personal or classmate responses; also modeled text.",
+        "writing": "Present: written responses and/or written form practice; this is not handwriting assessment.",
+        "feedback": "Models and examples present; no complete independent answer key identified."
+      },
+      "proposed_supplement": "Use a simple actor/recipient/object diagram and new context choices for wants, obligations, permission, and contradiction. The reported-command restriction in §8.5 remains an editorial dependency.",
+      "gap_ids": [
+        "G01",
+        "G04",
+        "G05",
+        "G08"
+      ],
+      "evidence": [
+        {
+          "path": "docs/lesson8.md#lesson8-vocabulary",
+          "section": "Vocabulary"
+        },
+        {
+          "path": "docs/lesson8.md#lesson8-reading-practice",
+          "section": "Reading Practice"
+        },
+        {
+          "path": "docs/lesson8.md#lesson8-conversation",
+          "section": "Conversation"
+        },
+        {
+          "path": "docs/lesson8.md#lesson8-exercises",
+          "section": "Exercises"
+        },
+        {
+          "path": "docs/lesson8.md#lesson8-grammar-notes",
+          "section": "Grammar Notes"
+        },
+        {
+          "path": "docs/lesson8.md#section-8-1",
+          "section": "8.1 Uses and Forms of the Accusative Form (Case) of the Noun"
+        },
+        {
+          "path": "docs/lesson8.md#section-8-2",
+          "section": "8.2 Adjective or Relative Clauses Made with Present Verbforms"
+        },
+        {
+          "path": "docs/lesson8.md#section-8-3",
+          "section": "8.3 The Addressive or Associative Form of the Noun"
+        },
+        {
+          "path": "docs/lesson8.md#section-8-4",
+          "section": "8.4 The Desiderative Form of the Verb with -ണം"
+        },
+        {
+          "path": "docs/lesson8.md#section-8-5",
+          "section": "8.5 Reported Commands with the Infinitive"
+        },
+        {
+          "path": "docs/lesson8.md#section-8-6",
+          "section": "8.6 Tag Questions"
+        },
+        {
+          "path": "docs/lesson8.md#section-8-7",
+          "section": "8.7 Times of the Day"
+        }
+      ],
+      "audio": {
+        "path": "data/audio/moag/lesson_08.mp3",
+        "inventory_status": "Present",
+        "alignment_status": "Unverified",
+        "reuse_status": "Not verified in audio inventory",
+        "followup_status": "Course/lesson association supported by recognized announcements and topic comparison; exact fourth-edition alignment remains unverified."
+      }
+    },
+    {
+      "id": "lesson_9",
+      "kind": "lesson",
+      "number": 9,
+      "title": "Lesson 9: Adjectives, Pronouns, and Qualities",
+      "path": "docs/lesson9.md",
+      "coverage": {
+        "practical_objective": "Describe qualities, choose an item, and refer to the good or large one.",
+        "objective_status": "Editorial interpretation of the supplied material",
+        "topics": "Adjectives becoming noun phrases, complex copula, kinds of goodness, evaluation, and positive/negative meanings of the additive particle.",
+        "observed_practice": "Adjective-to-noun transformations; figure prompts; future transformations; translation; written replies; plurals; dental/retroflex double sounds; negative replies."
+      },
+      "prerequisites": {
+        "status": "Recommended prerequisite links, not a formal dependency proof",
+        "items": [
+          "Lessons 1–8; equative predicates, plurals, negation and noun case forms."
+        ]
+      },
+      "support": {
+        "english_explanation": "Present: numbered grammar notes.",
+        "examples": "Present: reading patterns, models and grammar examples.",
+        "vocabulary": "Present: English-glossed lesson list.",
+        "reading": "Present: reading practice and conversation/text.",
+        "exercises": "Present: exercise section.",
+        "listening": "Lesson-named recording exists; task and text alignment unverified.",
+        "pronunciation": "Double dental versus double retroflex consonants.",
+        "speaking": "Explicit personal or classmate responses; also modeled text.",
+        "writing": "Present: written responses and/or written form practice; this is not handwriting assessment.",
+        "feedback": "Models and examples present; no complete independent answer key identified."
+      },
+      "proposed_supplement": "Add meaning choices that distinguish an adjective, a noun phrase, and an evaluation. Photos and the map are already available for contextual work.",
+      "gap_ids": [
+        "G01",
+        "G05",
+        "G08"
+      ],
+      "evidence": [
+        {
+          "path": "docs/lesson9.md#lesson9-vocabulary",
+          "section": "Vocabulary"
+        },
+        {
+          "path": "docs/lesson9.md#lesson9-reading-practice",
+          "section": "Reading Practice"
+        },
+        {
+          "path": "docs/lesson9.md#lesson9-conversation",
+          "section": "Conversation"
+        },
+        {
+          "path": "docs/lesson9.md#lesson9-exercises",
+          "section": "Exercises"
+        },
+        {
+          "path": "docs/lesson9.md#lesson9-grammar-notes",
+          "section": "Grammar Notes"
+        },
+        {
+          "path": "docs/lesson9.md#section-9-1",
+          "section": "9.1 Making Pronouns and Noun Phrases from Adjectives"
+        },
+        {
+          "path": "docs/lesson9.md#section-9-2",
+          "section": "9.2 The Complex Verb ആയിരിക്കുക"
+        },
+        {
+          "path": "docs/lesson9.md#section-9-3",
+          "section": "9.3 Temporary versus Inherent Good"
+        },
+        {
+          "path": "docs/lesson9.md#section-9-4",
+          "section": "9.4 The Special Expression കൊള്ളാം"
+        },
+        {
+          "path": "docs/lesson9.md#section-9-5",
+          "section": "9.5 The Absolutive and Other Meanings of the Particle -ഉം"
+        }
+      ],
+      "audio": {
+        "path": "data/audio/moag/lesson_09.mp3",
+        "inventory_status": "Present",
+        "alignment_status": "Unverified",
+        "reuse_status": "Not verified in audio inventory",
+        "followup_status": "Course/lesson association supported by recognized announcements and topic comparison; exact fourth-edition alignment remains unverified."
+      }
+    },
+    {
+      "id": "lesson_10",
+      "kind": "lesson",
+      "number": 10,
+      "title": "Lesson 10: Place Names, Directions, and Formal Style",
+      "path": "docs/lesson10.md",
+      "coverage": {
+        "practical_objective": "Read a short geographical description and describe relative locations in a more formal style.",
+        "objective_status": "Editorial interpretation of the supplied material",
+        "topics": "Place-name locatives, formal markers, directions, distance, list marking, connected spelling, and focus.",
+        "observed_practice": "Map-based locations; formalization; reading/repetition; translation; written answers; spelling; lateral contrasts in reading practice."
+      },
+      "prerequisites": {
+        "status": "Recommended prerequisite links, not a formal dependency proof",
+        "items": [
+          "Lessons 2, 6–9; location, postpositions, noun phrases and obligation."
+        ]
+      },
+      "support": {
+        "english_explanation": "Present: numbered grammar notes.",
+        "examples": "Present: reading patterns, models and grammar examples.",
+        "vocabulary": "Present: English-glossed lesson list.",
+        "reading": "Present: reading practice and conversation/text.",
+        "exercises": "Present: exercise section.",
+        "listening": "Lesson-named recording exists; task and text alignment unverified.",
+        "pronunciation": "Dental versus retroflex laterals in reading practice.",
+        "speaking": "Explicit repetition or reading aloud; open interaction needs adaptation.",
+        "writing": "Present: written responses and/or written form practice; this is not handwriting assessment.",
+        "feedback": "Models and examples present; no complete independent answer key identified."
+      },
+      "proposed_supplement": "Offer a small original map task and a spoken/formal comparison with feedback. Existing geography discrepancies and list-marker mismatch belong to the transcription review.",
+      "gap_ids": [
+        "G01",
+        "G05",
+        "G11"
+      ],
+      "evidence": [
+        {
+          "path": "docs/lesson10.md#lesson10-vocabulary",
+          "section": "Vocabulary"
+        },
+        {
+          "path": "docs/lesson10.md#lesson10-reading-practice",
+          "section": "Reading Practice"
+        },
+        {
+          "path": "docs/lesson10.md#lesson10-text",
+          "section": "Text"
+        },
+        {
+          "path": "docs/lesson10.md#lesson10-exercises",
+          "section": "Exercises"
+        },
+        {
+          "path": "docs/lesson10.md#lesson10-grammar-notes",
+          "section": "Grammar Notes"
+        },
+        {
+          "path": "docs/lesson10.md#section-10-1",
+          "section": "10.1 Special Locative Forms for Kerala Placenames"
+        },
+        {
+          "path": "docs/lesson10.md#section-10-2",
+          "section": "10.2 Markers of Formal Style in Malayalam"
+        },
+        {
+          "path": "docs/lesson10.md#section-10-3",
+          "section": "10.3 Directions : How To Express and Write Them."
+        },
+        {
+          "path": "docs/lesson10.md#section-10-4",
+          "section": "10.4 Special Adjective Forms of the Directions"
+        },
+        {
+          "path": "docs/lesson10.md#section-10-5",
+          "section": "10.5 The Citation Marker എന്ന് with a Series"
+        },
+        {
+          "path": "docs/lesson10.md#section-10-6",
+          "section": "10.6 Expressions of Distance"
+        },
+        {
+          "path": "docs/lesson10.md#section-10-7",
+          "section": "10.7 The Deletion of Halfmoon in Connected Text"
+        },
+        {
+          "path": "docs/lesson10.md#section-10-8",
+          "section": "10.8 Clefting sentences with Desiderative Verbs"
+        }
+      ],
+      "audio": {
+        "path": "data/audio/moag/lesson_10.mp3",
+        "inventory_status": "Present",
+        "alignment_status": "Unverified",
+        "reuse_status": "Not verified in audio inventory",
+        "followup_status": "Course/lesson association supported by recognized announcements and topic comparison; exact fourth-edition alignment remains unverified."
+      }
+    },
+    {
+      "id": "lesson_11",
+      "kind": "lesson",
+      "number": 11,
+      "title": "Lesson 11: Past Tense, Focus, and Completed Actions",
+      "path": "docs/lesson11.md",
+      "coverage": {
+        "practical_objective": "Describe what happened, focus on who or what, and indicate completion.",
+        "objective_status": "Editorial interpretation of the supplied material",
+        "topics": "Past-tense classes, cleft focus, completive compounds, irregular past states, and past obligation/wants.",
+        "observed_practice": "Present/past transformations; cleft transformations; translation; written replies; joining; lateral pronunciation and listening test."
+      },
+      "prerequisites": {
+        "status": "Recommended prerequisite links, not a formal dependency proof",
+        "items": [
+          "Lessons 5–10; verb stems, tense, case and focus foundations."
+        ]
+      },
+      "support": {
+        "english_explanation": "Present: numbered grammar notes.",
+        "examples": "Present: reading patterns, models and grammar examples.",
+        "vocabulary": "Present: English-glossed lesson list.",
+        "reading": "Present: reading practice and conversation/text.",
+        "exercises": "Present: exercise section.",
+        "listening": "Printed instructor-led recognition/test activity present; recording alignment unverified.",
+        "pronunciation": "Lateral contrasts with a listening test.",
+        "speaking": "Modeled conversation available; exercise section does not supply a structured open interaction.",
+        "writing": "Present: written responses and/or written form practice; this is not handwriting assessment.",
+        "feedback": "Models and examples present; no complete independent answer key identified."
+      },
+      "proposed_supplement": "Make past-form practice smaller and contextual, then ask for a short original event account. A timeline can support the tense distinctions without replacing the existing tables.",
+      "gap_ids": [
+        "G01",
+        "G05",
+        "G07",
+        "G08"
+      ],
+      "evidence": [
+        {
+          "path": "docs/lesson11.md#lesson11-vocabulary",
+          "section": "Vocabulary"
+        },
+        {
+          "path": "docs/lesson11.md#lesson11-reading-practice",
+          "section": "Reading Practice"
+        },
+        {
+          "path": "docs/lesson11.md#lesson11-conversation",
+          "section": "Conversation"
+        },
+        {
+          "path": "docs/lesson11.md#lesson11-exercises",
+          "section": "Exercises"
+        },
+        {
+          "path": "docs/lesson11.md#lesson11-grammar-notes",
+          "section": "Grammar Notes"
+        },
+        {
+          "path": "docs/lesson11.md#section-11-1",
+          "section": "11.1 The Simple Past Tense Form of the Verb"
+        },
+        {
+          "path": "docs/lesson11.md#section-11-2",
+          "section": "11.2 The Cleft Sentence as a Means of Focus"
+        },
+        {
+          "path": "docs/lesson11.md#section-11-3",
+          "section": "11.3 The Compound Verb with the Completive Meaning"
+        },
+        {
+          "path": "docs/lesson11.md#section-11-4",
+          "section": "11.4 Irregular Past Forms of ആണ്, ഉണ്ട് and നന്നായിരിക്കുക and their Uses:"
+        },
+        {
+          "path": "docs/lesson11.md#section-11-5",
+          "section": "11.5 The Past Tense of Desiderative Forms"
+        }
+      ],
+      "audio": {
+        "path": "data/audio/moag/lesson_11.mp3",
+        "inventory_status": "Present",
+        "alignment_status": "Unverified",
+        "reuse_status": "Not verified in audio inventory",
+        "followup_status": "Course/lesson association supported by recognized announcements and topic comparison; exact fourth-edition alignment remains unverified."
+      }
+    },
+    {
+      "id": "lesson_12",
+      "kind": "lesson",
+      "number": 12,
+      "title": "Lesson 12: Reported Speech, Permission, and Verbal Nouns",
+      "path": "docs/lesson12.md",
+      "coverage": {
+        "practical_objective": "Report what someone said, ask permission, and sequence actions using verbal nouns.",
+        "objective_status": "Editorial interpretation of the supplied material",
+        "topics": "Reported statements/questions, permission, verbal nouns plus postpositions, knowing with different subjects, spouse address, and suffix spelling.",
+        "observed_practice": "Reported-speech formation; negatives; translation; written replies; simple-form production; trill versus tap pronunciation."
+      },
+      "prerequisites": {
+        "status": "Recommended prerequisite links, not a formal dependency proof",
+        "items": [
+          "Lessons 6, 8, 11; quotation, commands, infinitives and past forms."
+        ]
+      },
+      "support": {
+        "english_explanation": "Present: numbered grammar notes.",
+        "examples": "Present: reading patterns, models and grammar examples.",
+        "vocabulary": "Present: English-glossed lesson list.",
+        "reading": "Present: reading practice and conversation/text.",
+        "exercises": "Present: exercise section.",
+        "listening": "Lesson-named recording exists; task and text alignment unverified.",
+        "pronunciation": "Trill versus tap rhotics.",
+        "speaking": "Explicit repetition or reading aloud; open interaction needs adaptation.",
+        "writing": "Present: written responses and/or written form practice; this is not handwriting assessment.",
+        "feedback": "Models and examples present; no complete independent answer key identified."
+      },
+      "proposed_supplement": "Add a context aid separating permission from ability and an original message-relay activity. Social address is covered; contemporary alternatives need speaker review rather than a new blanket rule.",
+      "gap_ids": [
+        "G01",
+        "G05",
+        "G07",
+        "G08"
+      ],
+      "evidence": [
+        {
+          "path": "docs/lesson12.md#lesson12-vocabulary",
+          "section": "Vocabulary"
+        },
+        {
+          "path": "docs/lesson12.md#lesson12-reading-practice",
+          "section": "Reading Practice"
+        },
+        {
+          "path": "docs/lesson12.md#lesson12-conversation",
+          "section": "Conversation"
+        },
+        {
+          "path": "docs/lesson12.md#lesson12-exercises",
+          "section": "Exercises"
+        },
+        {
+          "path": "docs/lesson12.md#lesson12-grammar-notes",
+          "section": "Grammar Notes"
+        },
+        {
+          "path": "docs/lesson12.md#section-12-1",
+          "section": "12.1 Consonant Doubling in Caseforms of Words in റ്"
+        },
+        {
+          "path": "docs/lesson12.md#section-12-2",
+          "section": "12.2 Indirect Quotes with the Quotative Marker എന്ന്"
+        },
+        {
+          "path": "docs/lesson12.md#section-12-3",
+          "section": "12.3 Norms of Address and Reference for Husbands and Wives"
+        },
+        {
+          "path": "docs/lesson12.md#section-12-4",
+          "section": "12.4 Verbal Nouns with Postpositions"
+        },
+        {
+          "path": "docs/lesson12.md#section-12-5",
+          "section": "12.5 The Permissive Form of the Verb"
+        },
+        {
+          "path": "docs/lesson12.md#section-12-6",
+          "section": "12.6 The verb അറിയുക With Nominative Subjects."
+        }
+      ],
+      "audio": {
+        "path": "data/audio/moag/lesson_12.mp3",
+        "inventory_status": "Present",
+        "alignment_status": "Unverified",
+        "reuse_status": "Not verified in audio inventory",
+        "followup_status": "Course/lesson association supported by recognized announcements and topic comparison; exact fourth-edition alignment remains unverified."
+      }
+    },
+    {
+      "id": "lesson_13",
+      "kind": "lesson",
+      "number": 13,
+      "title": "Lesson 13: Stative Perfect and Linked Actions",
+      "path": "docs/lesson13.md",
+      "coverage": {
+        "practical_objective": "Say what has been done and connect actions in sequence.",
+        "objective_status": "Editorial interpretation of the supplied material",
+        "topics": "Stative perfect, conjunctive participles, before/after interpretation, past relatives, intensification, postpositions and indirect objects.",
+        "observed_practice": "Oral counting and number challenges; clause combination; reading/repetition; matching; written replies; participle formation; joining."
+      },
+      "prerequisites": {
+        "status": "Recommended prerequisite links, not a formal dependency proof",
+        "items": [
+          "Lessons 7–12; numbers, past forms, relatives and postpositions."
+        ]
+      },
+      "support": {
+        "english_explanation": "Present: numbered grammar notes.",
+        "examples": "Present: reading patterns, models and grammar examples.",
+        "vocabulary": "Present: English-glossed lesson list.",
+        "reading": "Present: reading practice and conversation/text.",
+        "exercises": "Present: exercise section.",
+        "listening": "Lesson-named recording exists; task and text alignment unverified.",
+        "pronunciation": "No dedicated sound exercise identified in this lesson; earlier sound work remains available.",
+        "speaking": "Explicit personal or classmate responses; also modeled text.",
+        "writing": "Present: written responses and/or written form practice; this is not handwriting assessment.",
+        "feedback": "Models and examples present; no complete independent answer key identified."
+      },
+      "proposed_supplement": "Use event timelines and explain alternative readings in context. The incomplete §13.3 prose is already flagged; do not build a categorical rule from it.",
+      "gap_ids": [
+        "G01",
+        "G05",
+        "G07"
+      ],
+      "evidence": [
+        {
+          "path": "docs/lesson13.md#lesson13-vocabulary",
+          "section": "Vocabulary"
+        },
+        {
+          "path": "docs/lesson13.md#lesson13-reading-practice",
+          "section": "Reading Practice"
+        },
+        {
+          "path": "docs/lesson13.md#lesson13-conversation",
+          "section": "Conversation"
+        },
+        {
+          "path": "docs/lesson13.md#lesson13-exercises",
+          "section": "Exercises"
+        },
+        {
+          "path": "docs/lesson13.md#lesson13-grammar-notes",
+          "section": "Grammar Notes"
+        },
+        {
+          "path": "docs/lesson13.md#section-13-1",
+          "section": "13.1 The Stative Perfect Form of the Verb"
+        },
+        {
+          "path": "docs/lesson13.md#section-13-2",
+          "section": "13.2 The Conjunctive Verbform (Participle)"
+        },
+        {
+          "path": "docs/lesson13.md#section-13-3",
+          "section": "13.3 The Conjunctive Verbform in Complex Sentences"
+        },
+        {
+          "path": "docs/lesson13.md#section-13-4",
+          "section": "13.4 The Intensifying Prefix അതി-"
+        },
+        {
+          "path": "docs/lesson13.md#section-13-5",
+          "section": "13.5 The Past Verbal Adjective"
+        },
+        {
+          "path": "docs/lesson13.md#section-13-6",
+          "section": "13.6 Postpositions Requiring Nominative Case"
+        },
+        {
+          "path": "docs/lesson13.md#section-13-7",
+          "section": "13.7 Accusative as Indirect Object"
+        }
+      ],
+      "audio": {
+        "path": "data/audio/moag/lesson_13.mp3",
+        "inventory_status": "Present",
+        "alignment_status": "Unverified",
+        "reuse_status": "Not verified in audio inventory",
+        "followup_status": "Course/lesson association supported by recognized announcements and topic comparison; exact fourth-edition alignment remains unverified."
+      }
+    },
+    {
+      "id": "lesson_14",
+      "kind": "lesson",
+      "number": 14,
+      "title": "Lesson 14: Conditions, Alternatives, and Relative Clauses",
+      "path": "docs/lesson14.md",
+      "coverage": {
+        "practical_objective": "Choose reading material and express conditions, alternatives, and descriptions.",
+        "objective_status": "Editorial interpretation of the supplied material",
+        "topics": "Positive all/each forms, present conditionals, either/or, relatives with possession/existence, and irregular possessives.",
+        "observed_practice": "Newspaper-section response frame; plural formation; nine reading items. Reading practice and grammar notes illustrate conditionals and relatives, but the exercise section has only three numbered activities."
+      },
+      "prerequisites": {
+        "status": "Recommended prerequisite links, not a formal dependency proof",
+        "items": [
+          "Lessons 7–13; conditional chunks, relatives, possession and participles."
+        ]
+      },
+      "support": {
+        "english_explanation": "Present: numbered grammar notes.",
+        "examples": "Present: reading patterns, models and grammar examples.",
+        "vocabulary": "Present: English-glossed lesson list.",
+        "reading": "Present: reading practice and conversation/text.",
+        "exercises": "Present: exercise section.",
+        "listening": "Lesson-named recording exists; task and text alignment unverified.",
+        "pronunciation": "No dedicated sound exercise identified in this lesson; earlier sound work remains available.",
+        "speaking": "Explicit personal or classmate responses; also modeled text.",
+        "writing": "Present: written responses and/or written form practice; this is not handwriting assessment.",
+        "feedback": "Models and examples present; no complete independent answer key identified."
+      },
+      "proposed_supplement": "Add original conditional choices, either/or responses, and descriptive clause production; check them independently. This is a local practice imbalance, not missing grammatical instruction.",
+      "gap_ids": [
+        "G01",
+        "G06"
+      ],
+      "evidence": [
+        {
+          "path": "docs/lesson14.md#lesson14-vocabulary",
+          "section": "Vocabulary"
+        },
+        {
+          "path": "docs/lesson14.md#lesson14-vocabulary-from-reference-list-and-exercises",
+          "section": "Vocabulary from “Reference List” and “Exercises”"
+        },
+        {
+          "path": "docs/lesson14.md#lesson14-reading-practice",
+          "section": "Reading Practice"
+        },
+        {
+          "path": "docs/lesson14.md#lesson14-conversation",
+          "section": "Conversation"
+        },
+        {
+          "path": "docs/lesson14.md#lesson14-exercises",
+          "section": "Exercises"
+        },
+        {
+          "path": "docs/lesson14.md#lesson14-grammar-notes",
+          "section": "Grammar Notes"
+        },
+        {
+          "path": "docs/lesson14.md#section-14-1",
+          "section": "14.1 The Absolutive Particle -ഉം with “All”, “Each” and Other Positive Expressions"
+        },
+        {
+          "path": "docs/lesson14.md#section-14-2",
+          "section": "14.2 Uses of Present Conditional Sentences"
+        },
+        {
+          "path": "docs/lesson14.md#section-14-3",
+          "section": "14.3 The “Either...Or” Construction"
+        },
+        {
+          "path": "docs/lesson14.md#section-14-4",
+          "section": "14.4 Relative and Descriptive Clauses Formed with -ഉള്ള"
+        },
+        {
+          "path": "docs/lesson14.md#section-14-5",
+          "section": "14.5 Irregular Possessive Forms in -ത്തെ"
+        }
+      ],
+      "audio": {
+        "path": "data/audio/moag/lesson_14.mp3",
+        "inventory_status": "Present",
+        "alignment_status": "Unverified",
+        "reuse_status": "Not verified in audio inventory",
+        "followup_status": "Course/lesson association supported by recognized announcements and topic comparison; exact fourth-edition alignment remains unverified."
+      }
+    },
+    {
+      "id": "lesson_15",
+      "kind": "lesson",
+      "number": 15,
+      "title": "Lesson 15: Verb Emphasis, Feelings, and Verbal Nouns",
+      "path": "docs/lesson15.md",
+      "coverage": {
+        "practical_objective": "Identify people by their actions and express impressions, wishes, and feelings.",
+        "objective_status": "Editorial interpretation of the supplied material",
+        "topics": "Verb focus, both, tense-marked relatives, indirect desire, seeming/thinking, and verbal-noun case forms.",
+        "observed_practice": "Relative blanks and combinations; sentence transposition; reading/repetition; translation; written replies; verbal-noun paradigms."
+      },
+      "prerequisites": {
+        "status": "Recommended prerequisite links, not a formal dependency proof",
+        "items": [
+          "Lessons 8–14; relatives, conditional, past, dative and verbal nouns."
+        ]
+      },
+      "support": {
+        "english_explanation": "Present: numbered grammar notes.",
+        "examples": "Present: reading patterns, models and grammar examples.",
+        "vocabulary": "Present: English-glossed lesson list.",
+        "reading": "Present: reading practice and conversation/text.",
+        "exercises": "Present: exercise section.",
+        "listening": "Lesson-named recording exists; task and text alignment unverified.",
+        "pronunciation": "No dedicated sound exercise identified in this lesson; earlier sound work remains available.",
+        "speaking": "Explicit repetition or reading aloud; open interaction needs adaptation.",
+        "writing": "Present: written responses and/or written form practice; this is not handwriting assessment.",
+        "feedback": "Models and examples present; no complete independent answer key identified."
+      },
+      "proposed_supplement": "Provide context-rich feeling/impression choices and an original describe-the-person task. The early word for letter already has an editorial gloss.",
+      "gap_ids": [
+        "G01",
+        "G05",
+        "G07"
+      ],
+      "evidence": [
+        {
+          "path": "docs/lesson15.md#lesson15-vocabulary",
+          "section": "Vocabulary"
+        },
+        {
+          "path": "docs/lesson15.md#lesson15-reading-practice",
+          "section": "Reading Practice"
+        },
+        {
+          "path": "docs/lesson15.md#lesson15-conversation",
+          "section": "Conversation"
+        },
+        {
+          "path": "docs/lesson15.md#lesson15-exercises",
+          "section": "Exercises"
+        },
+        {
+          "path": "docs/lesson15.md#lesson15-grammar-notes",
+          "section": "Grammar Notes"
+        },
+        {
+          "path": "docs/lesson15.md#section-15-1",
+          "section": "15.1 Cleft Sentences with Emphasis on the Verb"
+        },
+        {
+          "path": "docs/lesson15.md#section-15-2",
+          "section": "15.2 The Discontinuous -ഉം Required with “Both”"
+        },
+        {
+          "path": "docs/lesson15.md#section-15-3",
+          "section": "15.3 The Verbal Adjective in Relative Clauses"
+        },
+        {
+          "path": "docs/lesson15.md#section-15-4",
+          "section": "15.4 Indirect Expressions of Pleasure and Desire"
+        },
+        {
+          "path": "docs/lesson15.md#section-15-5",
+          "section": "15.5 The Indirect Verb തോന്നുക"
+        },
+        {
+          "path": "docs/lesson15.md#section-15-6",
+          "section": "15.6 Inflected Forms of the Verbal Noun"
+        }
+      ],
+      "audio": {
+        "path": "data/audio/moag/lesson_15.mp3",
+        "inventory_status": "Present",
+        "alignment_status": "Unverified",
+        "reuse_status": "Not verified in audio inventory",
+        "followup_status": "Course/lesson association supported by recognized announcements and topic comparison; exact fourth-edition alignment remains unverified."
+      }
+    },
+    {
+      "id": "lesson_16",
+      "kind": "lesson",
+      "number": 16,
+      "title": "Lesson 16: Subjectless Sentences and Limiting Expressions",
+      "path": "docs/lesson16.md",
+      "coverage": {
+        "practical_objective": "Read informational prose and distinguish what is limited or presented without an explicit agent.",
+        "objective_status": "Editorial interpretation of the supplied material",
+        "topics": "Derived adjectives, subjectless constructions, place possessives, and the limiter applied to verbs.",
+        "observed_practice": "Word/phrase joining; phrase transformations; reading; limiter transformations; adjective formation in a newspaper text context."
+      },
+      "prerequisites": {
+        "status": "Recommended prerequisite links, not a formal dependency proof",
+        "items": [
+          "Lessons 6–15; possessives, nominalization, limiting and clause structures."
+        ]
+      },
+      "support": {
+        "english_explanation": "Present: numbered grammar notes.",
+        "examples": "Present: reading patterns, models and grammar examples.",
+        "vocabulary": "Present: English-glossed lesson list.",
+        "reading": "Present: reading practice and conversation/text.",
+        "exercises": "Present: exercise section.",
+        "listening": "Lesson-named recording exists; task and text alignment unverified.",
+        "pronunciation": "No dedicated sound exercise identified in this lesson; earlier sound work remains available.",
+        "speaking": "Reading text available; no structured speaking task identified in the exercise section.",
+        "writing": "Present: written responses and/or written form practice; this is not handwriting assessment.",
+        "feedback": "Models and examples present; no complete independent answer key identified."
+      },
+      "proposed_supplement": "Add focused subjectless-versus-agentive interpretation and a short original information summary. The current exercises emphasize form manipulation; period facts are already flagged.",
+      "gap_ids": [
+        "G01",
+        "G05",
+        "G11"
+      ],
+      "evidence": [
+        {
+          "path": "docs/lesson16.md#lesson16-vocabulary",
+          "section": "Vocabulary"
+        },
+        {
+          "path": "docs/lesson16.md#lesson16-reading-practice",
+          "section": "Reading Practice"
+        },
+        {
+          "path": "docs/lesson16.md#lesson16-text",
+          "section": "Text"
+        },
+        {
+          "path": "docs/lesson16.md#lesson16-exercises",
+          "section": "Exercises"
+        },
+        {
+          "path": "docs/lesson16.md#lesson16-grammar-notes",
+          "section": "Grammar Notes"
+        },
+        {
+          "path": "docs/lesson16.md#section-16-1",
+          "section": "16.1 The Special Adjective of -ം Final Nouns"
+        },
+        {
+          "path": "docs/lesson16.md#section-16-2",
+          "section": "16.2 The Subjectless Construction with വരുക"
+        },
+        {
+          "path": "docs/lesson16.md#section-16-3",
+          "section": "16.3 The Use of കാണുക as a Subjectless Verb"
+        },
+        {
+          "path": "docs/lesson16.md#section-16-4",
+          "section": "16.4 The Special Possessive Ending -ിലെ for Placewords"
+        },
+        {
+          "path": "docs/lesson16.md#section-16-5",
+          "section": "16.5 Adding -ഏ...-ഉള്ളു to Verbforms"
+        }
+      ],
+      "audio": {
+        "path": "data/audio/moag/lesson_16.mp3",
+        "inventory_status": "Present",
+        "alignment_status": "Unverified",
+        "reuse_status": "Not verified in audio inventory",
+        "followup_status": "Course/lesson association supported by recognized announcements and topic comparison; exact fourth-edition alignment remains unverified."
+      }
+    },
+    {
+      "id": "lesson_17",
+      "kind": "lesson",
+      "number": 17,
+      "title": "Lesson 17: Precise Time, Remote Past, and Commands",
+      "path": "docs/lesson17.md",
+      "coverage": {
+        "practical_objective": "State precise times, place an event before another, and choose a suitable command.",
+        "objective_status": "Editorial interpretation of the supplied material",
+        "topics": "Quarter/half hours, ordinals, remote past, familiar/formal commands, and emphatic present.",
+        "observed_practice": "Command transformations; emphatic-present and remote-past changes; reading; translation matching; written replies in a family/school dialogue context."
+      },
+      "prerequisites": {
+        "status": "Recommended prerequisite links, not a formal dependency proof",
+        "items": [
+          "Lessons 3, 7, 11–16; commands, time, past/perfect and noun clauses."
+        ]
+      },
+      "support": {
+        "english_explanation": "Present: numbered grammar notes.",
+        "examples": "Present: reading patterns, models and grammar examples.",
+        "vocabulary": "Present: English-glossed lesson list.",
+        "reading": "Present: reading practice and conversation/text.",
+        "exercises": "Present: exercise section.",
+        "listening": "Lesson-named recording exists; task and text alignment unverified.",
+        "pronunciation": "No dedicated sound exercise identified in this lesson; earlier sound work remains available.",
+        "speaking": "Modeled conversation available; exercise section does not supply a structured open interaction.",
+        "writing": "Present: written responses and/or written form practice; this is not handwriting assessment.",
+        "feedback": "Models and examples present; no complete independent answer key identified."
+      },
+      "proposed_supplement": "Add an event timeline and relationship-based command choices with feedback. The previewed negative participle already has guidance; the address-particle source defect remains separate.",
+      "gap_ids": [
+        "G01",
+        "G05",
+        "G07"
+      ],
+      "evidence": [
+        {
+          "path": "docs/lesson17.md#lesson17-vocabulary",
+          "section": "Vocabulary"
+        },
+        {
+          "path": "docs/lesson17.md#lesson17-reading-practice",
+          "section": "Reading Practice"
+        },
+        {
+          "path": "docs/lesson17.md#lesson17-conversation",
+          "section": "Conversation"
+        },
+        {
+          "path": "docs/lesson17.md#lesson17-exercises",
+          "section": "Exercises"
+        },
+        {
+          "path": "docs/lesson17.md#lesson17-grammar-notes",
+          "section": "Grammar Notes"
+        },
+        {
+          "path": "docs/lesson17.md#section-17-1",
+          "section": "17.1 Half and Quarter Hours, and Other Precise Times"
+        },
+        {
+          "path": "docs/lesson17.md#section-17-2",
+          "section": "17.2 Numbers: Ordinals, Adjectives, and Adverbs"
+        },
+        {
+          "path": "docs/lesson17.md#section-17-3",
+          "section": "17.3 The Remote Past Verbform"
+        },
+        {
+          "path": "docs/lesson17.md#section-17-4",
+          "section": "17.4 Familiar and Formal Commands"
+        },
+        {
+          "path": "docs/lesson17.md#section-17-5",
+          "section": "17.5 The Emphatic Present Verbform with -ന്നുണ്ട്"
+        }
+      ],
+      "audio": {
+        "path": "data/audio/moag/lesson_17.mp3",
+        "inventory_status": "Present",
+        "alignment_status": "Unverified",
+        "reuse_status": "Not verified in audio inventory",
+        "followup_status": "Course/lesson association supported by recognized announcements and topic comparison; exact fourth-edition alignment remains unverified."
+      }
+    },
+    {
+      "id": "lesson_18",
+      "kind": "lesson",
+      "number": 18,
+      "title": "Lesson 18: Negative Participles, Commands, and Rhetorical Questions",
+      "path": "docs/lesson18.md",
+      "coverage": {
+        "practical_objective": "Follow directions, explain doing something without another action, and make negative requests.",
+        "objective_status": "Editorial interpretation of the supplied material",
+        "topics": "Colloquial locatives, left/right, name address, negative participles/commands, unintentional compounds, clefts, and rhetorical questions.",
+        "observed_practice": "Negative-command changes; participle blanks; rhetorical transformations; route-map drawing; translation; written replies."
+      },
+      "prerequisites": {
+        "status": "Recommended prerequisite links, not a formal dependency proof",
+        "items": [
+          "Lessons 3, 6–8, 13, 17; directions, commands, participles and focus."
+        ]
+      },
+      "support": {
+        "english_explanation": "Present: numbered grammar notes.",
+        "examples": "Present: reading patterns, models and grammar examples.",
+        "vocabulary": "Present: English-glossed lesson list.",
+        "reading": "Present: reading practice and conversation/text.",
+        "exercises": "Present: exercise section.",
+        "listening": "Lesson-named recording exists; task and text alignment unverified.",
+        "pronunciation": "No dedicated sound exercise identified in this lesson; earlier sound work remains available.",
+        "speaking": "Modeled conversation available; exercise section does not supply a structured open interaction.",
+        "writing": "Present: written responses and/or written form practice; this is not handwriting assessment.",
+        "feedback": "Models and examples present; no complete independent answer key identified."
+      },
+      "proposed_supplement": "Convert the already present route task into an independently checkable listening or partner activity using new directions, and give contextual feedback on negative commands.",
+      "gap_ids": [
+        "G01",
+        "G07",
+        "G12"
+      ],
+      "evidence": [
+        {
+          "path": "docs/lesson18.md#lesson18-vocabulary",
+          "section": "Vocabulary"
+        },
+        {
+          "path": "docs/lesson18.md#lesson18-reading-practice",
+          "section": "Reading Practice"
+        },
+        {
+          "path": "docs/lesson18.md#lesson18-conversation",
+          "section": "Conversation"
+        },
+        {
+          "path": "docs/lesson18.md#lesson18-exercises",
+          "section": "Exercises"
+        },
+        {
+          "path": "docs/lesson18.md#lesson18-grammar-notes",
+          "section": "Grammar Notes"
+        },
+        {
+          "path": "docs/lesson18.md#section-18-1",
+          "section": "18.1 The Colloquial Locative Ending ഏ"
+        },
+        {
+          "path": "docs/lesson18.md#section-18-2",
+          "section": "18.2 How to Tell Your Left Hand from Your Right"
+        },
+        {
+          "path": "docs/lesson18.md#section-18-3",
+          "section": "18.3 Using the Name as a Term of Address"
+        },
+        {
+          "path": "docs/lesson18.md#section-18-4",
+          "section": "18.4 The Negative Conjunctive Verbform"
+        },
+        {
+          "path": "docs/lesson18.md#section-18-5",
+          "section": "18.5 Polite Negative Commands"
+        },
+        {
+          "path": "docs/lesson18.md#section-18-6",
+          "section": "18.6 Compound Verbs Showing Unintentional Involvement"
+        },
+        {
+          "path": "docs/lesson18.md#section-18-7",
+          "section": "18.7 Equational and Cleft Sentences with ഉള്ളത്"
+        },
+        {
+          "path": "docs/lesson18.md#section-18-8",
+          "section": "18.8 Rhetorical Questions as Emphatic Statements"
+        }
+      ],
+      "audio": {
+        "path": "data/audio/moag/lesson_18.mp3",
+        "inventory_status": "Present",
+        "alignment_status": "Unverified",
+        "reuse_status": "Not verified in audio inventory",
+        "followup_status": "Course/lesson association supported by recognized announcements and topic comparison; exact fourth-edition alignment remains unverified."
+      }
+    },
+    {
+      "id": "lesson_19",
+      "kind": "lesson",
+      "number": 19,
+      "title": "Lesson 19: Present Perfect, Repeated Actions, and Negation",
+      "path": "docs/lesson19.md",
+      "coverage": {
+        "practical_objective": "Discuss repeated actions and resulting states, and interpret confrontation and emphatic negation.",
+        "objective_status": "Editorial interpretation of the supplied material",
+        "topics": "Deference, forceful negatives, verbal nouns, habitual repetition, negative relatives, personal relatives, present perfect, and double negatives.",
+        "observed_practice": "Negative commands; nominalization and focus; relative/clause combination; translation; reading; address-form rewriting in an office dialogue context."
+      },
+      "prerequisites": {
+        "status": "Recommended prerequisite links, not a formal dependency proof",
+        "items": [
+          "Lessons 11–18; past/perfect, participles, relative clauses and address."
+        ]
+      },
+      "support": {
+        "english_explanation": "Present: numbered grammar notes.",
+        "examples": "Present: reading patterns, models and grammar examples.",
+        "vocabulary": "Present: English-glossed lesson list.",
+        "reading": "Present: reading practice and conversation/text.",
+        "exercises": "Present: exercise section.",
+        "listening": "Lesson-named recording exists; task and text alignment unverified.",
+        "pronunciation": "No dedicated sound exercise identified in this lesson; earlier sound work remains available.",
+        "speaking": "Modeled conversation available; exercise section does not supply a structured open interaction.",
+        "writing": "Present: written responses and/or written form practice; this is not handwriting assessment.",
+        "feedback": "Models and examples present; no complete independent answer key identified."
+      },
+      "proposed_supplement": "Contrast past, perfect/state and habitual repetition with timelines and scenarios. Add an original constructive disagreement task rather than generalizing the office hierarchy as universal.",
+      "gap_ids": [
+        "G01",
+        "G05",
+        "G07"
+      ],
+      "evidence": [
+        {
+          "path": "docs/lesson19.md#lesson19-vocabulary",
+          "section": "Vocabulary"
+        },
+        {
+          "path": "docs/lesson19.md#lesson19-reading-practice",
+          "section": "Reading Practice"
+        },
+        {
+          "path": "docs/lesson19.md#lesson19-conversation",
+          "section": "Conversation"
+        },
+        {
+          "path": "docs/lesson19.md#lesson19-exercises",
+          "section": "Exercises"
+        },
+        {
+          "path": "docs/lesson19.md#lesson19-grammar-notes",
+          "section": "Grammar Notes"
+        },
+        {
+          "path": "docs/lesson19.md#section-19-1",
+          "section": "19.1 Mildness and Deference During Confrontation"
+        },
+        {
+          "path": "docs/lesson19.md#section-19-2",
+          "section": "19.2 The Familiar/Forceful Negative Command Form"
+        },
+        {
+          "path": "docs/lesson19.md#section-19-3",
+          "section": "19.3 Summing Up the Uses of the Verbal Noun in -അത്"
+        },
+        {
+          "path": "docs/lesson19.md#section-19-4",
+          "section": "19.4 The Repetitive Verbform with -ാറുണ്ട്"
+        },
+        {
+          "path": "docs/lesson19.md#section-19-5",
+          "section": "19.5 Negative Verbal Adjectives and Nouns"
+        },
+        {
+          "path": "docs/lesson19.md#section-19-6",
+          "section": "19.6 Relative Clauses with Personal Relative Pronouns"
+        },
+        {
+          "path": "docs/lesson19.md#section-19-7",
+          "section": "19.7 The Present Perfect Verbform"
+        },
+        {
+          "path": "docs/lesson19.md#section-19-8",
+          "section": "19.8 Statements and Commands Using the Double Negative"
+        }
+      ],
+      "audio": {
+        "path": "data/audio/moag/lesson_19.mp3",
+        "inventory_status": "Present",
+        "alignment_status": "Unverified",
+        "reuse_status": "Not verified in audio inventory",
+        "followup_status": "Course/lesson association supported by recognized announcements and topic comparison; exact fourth-edition alignment remains unverified."
+      }
+    },
+    {
+      "id": "lesson_20",
+      "kind": "lesson",
+      "number": 20,
+      "title": "Lesson 20: Relative Clauses, Passive Voice, and Causatives",
+      "path": "docs/lesson20.md",
+      "coverage": {
+        "practical_objective": "Read a cultural account and describe agency, passive events, and causing someone to act.",
+        "objective_status": "Editorial interpretation of the supplied material",
+        "topics": "Relatives with copula, impersonal liking, instrumental roles, passive voice, simultaneous actions, and causatives/double causatives.",
+        "observed_practice": "Causative and passive transformations; adjective formation; translation; relative rewriting; lateral sound extraction and reading aloud; two Onam texts."
+      },
+      "prerequisites": {
+        "status": "Recommended prerequisite links, not a formal dependency proof",
+        "items": [
+          "Lessons 8–19; cases, relatives, participles, tense and compound verbs."
+        ]
+      },
+      "support": {
+        "english_explanation": "Present: numbered grammar notes.",
+        "examples": "Present: reading patterns, models and grammar examples.",
+        "vocabulary": "Present: English-glossed lesson list.",
+        "reading": "Present: reading practice and conversation/text.",
+        "exercises": "Present: exercise section.",
+        "listening": "Lesson-named recording exists; task and text alignment unverified.",
+        "pronunciation": "Find and pronounce the retroflex lateral in the reading.",
+        "speaking": "Explicit repetition or reading aloud; open interaction needs adaptation.",
+        "writing": "Present: written responses and/or written form practice; this is not handwriting assessment.",
+        "feedback": "Models and examples present; no complete independent answer key identified."
+      },
+      "proposed_supplement": "Use visual actor/action diagrams before contextual production. Existing cultural reading is substantial; additions should target agency and task transfer.",
+      "gap_ids": [
+        "G01",
+        "G04",
+        "G05",
+        "G07"
+      ],
+      "evidence": [
+        {
+          "path": "docs/lesson20.md#lesson20-vocabulary",
+          "section": "Vocabulary"
+        },
+        {
+          "path": "docs/lesson20.md#lesson20-reading-practice",
+          "section": "Reading Practice"
+        },
+        {
+          "path": "docs/lesson20.md#lesson20-text-part-i",
+          "section": "Text, Part I"
+        },
+        {
+          "path": "docs/lesson20.md#lesson20-text-part-ii",
+          "section": "Text, Part II"
+        },
+        {
+          "path": "docs/lesson20.md#lesson20-exercises",
+          "section": "Exercises"
+        },
+        {
+          "path": "docs/lesson20.md#lesson20-grammar-notes",
+          "section": "Grammar Notes"
+        },
+        {
+          "path": "docs/lesson20.md#section-20-1",
+          "section": "20.1 Adjectival/Relative Clauses Formed with -ആയ"
+        },
+        {
+          "path": "docs/lesson20.md#section-20-2",
+          "section": "20.2 Another Impersonal Expression of Liking"
+        },
+        {
+          "path": "docs/lesson20.md#section-20-3",
+          "section": "20.3 Spelling Changes: Miscellaneous Changes with പ Initial Postpositions"
+        },
+        {
+          "path": "docs/lesson20.md#section-20-4",
+          "section": "20.4 The Instrumental Form of the Noun, and the Instrumental Case Role in the Sentence"
+        },
+        {
+          "path": "docs/lesson20.md#section-20-5",
+          "section": "20.5 The Passive Voice Construction"
+        },
+        {
+          "path": "docs/lesson20.md#section-20-6",
+          "section": "20.6 Joining Two Clauses Showing Simultaneous Action Over Time"
+        },
+        {
+          "path": "docs/lesson20.md#section-20-7",
+          "section": "20.7 Causative and Double Causative Verbs"
+        }
+      ],
+      "audio": {
+        "path": "data/audio/moag/lesson_20.mp3",
+        "inventory_status": "Present",
+        "alignment_status": "Unverified",
+        "reuse_status": "Not verified in audio inventory",
+        "followup_status": "Course/lesson association supported by recognized announcements and topic comparison; exact fourth-edition alignment remains unverified."
+      }
+    },
+    {
+      "id": "lesson_21",
+      "kind": "lesson",
+      "number": 21,
+      "title": "Lesson 21: Time Clauses, Probability, and Progressive Aspect",
+      "path": "docs/lesson21.md",
+      "coverage": {
+        "practical_objective": "Sequence events, express probability, and describe an action in progress.",
+        "objective_status": "Editorial interpretation of the supplied material",
+        "topics": "When/as-soon-as/by-the-time/as-long-as clauses, vocatives, probability, physical/emotional states, progressive aspect, and compound verbs.",
+        "observed_practice": "Time-clause combination; compound formation; progressive/probability paradigms; continuous transformations; future-perfect combinations."
+      },
+      "prerequisites": {
+        "status": "Recommended prerequisite links, not a formal dependency proof",
+        "items": [
+          "Lessons 11–20; tense/perfect, clauses, compounds and address."
+        ]
+      },
+      "support": {
+        "english_explanation": "Present: numbered grammar notes.",
+        "examples": "Present: reading patterns, models and grammar examples.",
+        "vocabulary": "Present: English-glossed lesson list.",
+        "reading": "Present: reading practice and conversation/text.",
+        "exercises": "Present: exercise section.",
+        "listening": "Lesson-named recording exists; task and text alignment unverified.",
+        "pronunciation": "No dedicated sound exercise identified in this lesson; earlier sound work remains available.",
+        "speaking": "Modeled conversation available; exercise section does not supply a structured open interaction.",
+        "writing": "Present: written responses and/or written form practice; this is not handwriting assessment.",
+        "feedback": "Models and examples present; no complete independent answer key identified."
+      },
+      "proposed_supplement": "Break the large form inventory into timeline and probability decisions before full paradigms. Earlier vocabulary and future-perfect support have already been added; a mismatched tense example remains flagged.",
+      "gap_ids": [
+        "G01",
+        "G04",
+        "G05",
+        "G07"
+      ],
+      "evidence": [
+        {
+          "path": "docs/lesson21.md#lesson21-vocabulary",
+          "section": "Vocabulary"
+        },
+        {
+          "path": "docs/lesson21.md#lesson21-reading-practice",
+          "section": "Reading Practice"
+        },
+        {
+          "path": "docs/lesson21.md#lesson21-conversation",
+          "section": "Conversation"
+        },
+        {
+          "path": "docs/lesson21.md#lesson21-exercises",
+          "section": "Exercises"
+        },
+        {
+          "path": "docs/lesson21.md#lesson21-grammar-notes",
+          "section": "Grammar Notes"
+        },
+        {
+          "path": "docs/lesson21.md#section-21-1",
+          "section": "21.1 Time Adverbial Clauses with -പ്പോൾ and -ഉടൻ"
+        },
+        {
+          "path": "docs/lesson21.md#section-21-2",
+          "section": "21.2 Time Adverbial Clauses with “by the time” and “as long as”"
+        },
+        {
+          "path": "docs/lesson21.md#section-21-3",
+          "section": "21.3 The Vocative Form of the Noun"
+        },
+        {
+          "path": "docs/lesson21.md#section-21-4",
+          "section": "21.4 Degrees of Probability with the Modal Auxiliary"
+        },
+        {
+          "path": "docs/lesson21.md#section-21-5",
+          "section": "21.5 Impersonal Expressions for Physical and Emotional Conditions"
+        },
+        {
+          "path": "docs/lesson21.md#section-21-6",
+          "section": "21.6 The Progressive Aspect of the Verb"
+        },
+        {
+          "path": "docs/lesson21.md#section-21-7",
+          "section": "21.7 A Close Look at Compound Verbs."
+        }
+      ],
+      "audio": {
+        "path": "data/audio/moag/lesson_21.mp3",
+        "inventory_status": "Present",
+        "alignment_status": "Unverified",
+        "reuse_status": "Not verified in audio inventory",
+        "followup_status": "Course/lesson association supported by recognized announcements and topic comparison; exact fourth-edition alignment remains unverified."
+      }
+    },
+    {
+      "id": "lesson_22",
+      "kind": "lesson",
+      "number": 22,
+      "title": "Lesson 22: Indefinite Pronouns, Adverbs, and Experience",
+      "path": "docs/lesson22.md",
+      "coverage": {
+        "practical_objective": "Refer to someone or something unspecified and describe experiences or imminent actions.",
+        "objective_status": "Editorial interpretation of the supplied material",
+        "topics": "Hypothetical/actual indefinite pronouns, one-or-another, person suffixes, experience compounds, adverbs, and about-to forms.",
+        "observed_practice": "Noun derivation; about-to transformations; reading; personal age questions with classmates; translation."
+      },
+      "prerequisites": {
+        "status": "Recommended prerequisite links, not a formal dependency proof",
+        "items": [
+          "Lessons 9, 15, 19–21; noun phrases, experience, tense/aspect and probability."
+        ]
+      },
+      "support": {
+        "english_explanation": "Present: numbered grammar notes.",
+        "examples": "Present: reading patterns, models and grammar examples.",
+        "vocabulary": "Present: English-glossed lesson list.",
+        "reading": "Present: reading practice and conversation/text.",
+        "exercises": "Present: exercise section.",
+        "listening": "Lesson-named recording exists; task and text alignment unverified.",
+        "pronunciation": "No dedicated sound exercise identified in this lesson; earlier sound work remains available.",
+        "speaking": "Explicit personal or classmate responses; also modeled text.",
+        "writing": "Present: written responses and/or written form practice; this is not handwriting assessment.",
+        "feedback": "Models and examples present; no complete independent answer key identified."
+      },
+      "proposed_supplement": "Contrast hypothetical versus actual referents in concrete situations and add retrieval for adverb choices. Age conversation is already interactive practice.",
+      "gap_ids": [
+        "G01",
+        "G05",
+        "G07"
+      ],
+      "evidence": [
+        {
+          "path": "docs/lesson22.md#lesson22-vocabulary",
+          "section": "Vocabulary"
+        },
+        {
+          "path": "docs/lesson22.md#lesson22-reading-practice",
+          "section": "Reading Practice"
+        },
+        {
+          "path": "docs/lesson22.md#lesson22-conversation",
+          "section": "Conversation"
+        },
+        {
+          "path": "docs/lesson22.md#lesson22-exercises",
+          "section": "Exercises"
+        },
+        {
+          "path": "docs/lesson22.md#lesson22-grammar-notes",
+          "section": "Grammar Notes"
+        },
+        {
+          "path": "docs/lesson22.md#section-22-1",
+          "section": "22.1 Indefinite Pronouns with Hypothetical versus Actual Referents"
+        },
+        {
+          "path": "docs/lesson22.md#section-22-2",
+          "section": "22.2 One Member of the Class or the Other"
+        },
+        {
+          "path": "docs/lesson22.md#section-22-3",
+          "section": "22.3 The Human Suffix of Association or Agency"
+        },
+        {
+          "path": "docs/lesson22.md#section-22-4",
+          "section": "22.4 Verbs and Nouns of Experience formed with പെടുക"
+        },
+        {
+          "path": "docs/lesson22.md#section-22-5",
+          "section": "22.5 The Adverb Marker -ആയി"
+        },
+        {
+          "path": "docs/lesson22.md#section-22-6",
+          "section": "22.6 The “about to” Verbform"
+        }
+      ],
+      "audio": {
+        "path": "data/audio/moag/lesson_22.mp3",
+        "inventory_status": "Present",
+        "alignment_status": "Unverified",
+        "reuse_status": "Not verified in audio inventory",
+        "followup_status": "Course/lesson association supported by recognized announcements and topic comparison; exact fourth-edition alignment remains unverified."
+      }
+    },
+    {
+      "id": "lesson_23",
+      "kind": "lesson",
+      "number": 23,
+      "title": "Lesson 23: Negative Prefixes, Conditions, and Emphasis",
+      "path": "docs/lesson23.md",
+      "coverage": {
+        "practical_objective": "Plan a journey, consider alternatives and unreal conditions, and agree with appropriate emphasis.",
+        "objective_status": "Editorial interpretation of the supplied material",
+        "topics": "Negative prefixes, conditional recap, verb emphasis, festival context, agreement/probability compounds, and deferential agreement.",
+        "observed_practice": "Prefix transformations; past-conditional combinations; structured itinerary writing; reading; adverb blanks; oral agreement transformations."
+      },
+      "prerequisites": {
+        "status": "Recommended prerequisite links, not a formal dependency proof",
+        "items": [
+          "Lessons 7, 14–22; conditionals, past auxiliaries, probability and adverbs."
+        ]
+      },
+      "support": {
+        "english_explanation": "Present: numbered grammar notes.",
+        "examples": "Present: reading patterns, models and grammar examples.",
+        "vocabulary": "Present: English-glossed lesson list.",
+        "reading": "Present: reading practice and conversation/text.",
+        "exercises": "Present: exercise section.",
+        "listening": "Lesson-named recording exists; task and text alignment unverified.",
+        "pronunciation": "No dedicated sound exercise identified in this lesson; earlier sound work remains available.",
+        "speaking": "Explicit repetition or reading aloud; open interaction needs adaptation.",
+        "writing": "Present: written responses and/or written form practice; this is not handwriting assessment.",
+        "feedback": "Models and examples present; no complete independent answer key identified."
+      },
+      "proposed_supplement": "Build original if/if-not/counterfactual situation choices and a flexible itinerary task. The inconsistent counterfactual example needs review before it serves as a model.",
+      "gap_ids": [
+        "G01",
+        "G05",
+        "G07"
+      ],
+      "evidence": [
+        {
+          "path": "docs/lesson23.md#lesson23-vocabulary",
+          "section": "Vocabulary"
+        },
+        {
+          "path": "docs/lesson23.md#lesson23-reading-practice",
+          "section": "Reading Practice"
+        },
+        {
+          "path": "docs/lesson23.md#lesson23-conversation",
+          "section": "Conversation"
+        },
+        {
+          "path": "docs/lesson23.md#lesson23-exercises",
+          "section": "Exercises"
+        },
+        {
+          "path": "docs/lesson23.md#lesson23-lesson-twenty-three-grammar-notes",
+          "section": "Lesson Twenty-Three Grammar Notes"
+        },
+        {
+          "path": "docs/lesson23.md#section-23-1",
+          "section": "23.1 Three Negative Prefixes"
+        },
+        {
+          "path": "docs/lesson23.md#section-23-2",
+          "section": "23.2 Summing Up on Conditional Sentences"
+        },
+        {
+          "path": "docs/lesson23.md#section-23-3",
+          "section": "23.3 Emphasis using the Citation Form of the Verb"
+        },
+        {
+          "path": "docs/lesson23.md#section-23-4",
+          "section": "23.4 Kerala Temple Festivals"
+        },
+        {
+          "path": "docs/lesson23.md#section-23-5",
+          "section": "23.5 Compound Verbs signifying Agreement or Probability"
+        },
+        {
+          "path": "docs/lesson23.md#section-23-6",
+          "section": "23.6 Deferential Agreement with -ഏ"
+        }
+      ],
+      "audio": {
+        "path": "data/audio/moag/lesson_23.mp3",
+        "inventory_status": "Present",
+        "alignment_status": "Unverified",
+        "reuse_status": "Not verified in audio inventory",
+        "followup_status": "Course/lesson association supported by recognized announcements and topic comparison; exact fourth-edition alignment remains unverified."
+      }
+    },
+    {
+      "id": "lesson_24",
+      "kind": "lesson",
+      "number": 24,
+      "title": "Lesson 24: Comparison, Ability, and Noun Phrases",
+      "path": "docs/lesson24.md",
+      "coverage": {
+        "practical_objective": "Compare options and explain ability, inability, or restrictions.",
+        "objective_status": "Editorial interpretation of the supplied material",
+        "topics": "Derived nouns, comparatives/superlatives, self-benefit compounds, noun-phrase order, postposition relatives, ability auxiliaries, and associative roles.",
+        "observed_practice": "Comparative combinations; noun derivation; inability/prohibition transformations; ability substitutions; reading; advertisements and a cultural dialogue."
+      },
+      "prerequisites": {
+        "status": "Recommended prerequisite links, not a formal dependency proof",
+        "items": [
+          "Lessons 6, 8–23; cases, noun phrases, relative clauses, compounds and modals."
+        ]
+      },
+      "support": {
+        "english_explanation": "Present: numbered grammar notes.",
+        "examples": "Present: reading patterns, models and grammar examples.",
+        "vocabulary": "Present: English-glossed lesson list.",
+        "reading": "Present: reading practice and conversation/text.",
+        "exercises": "Present: exercise section.",
+        "listening": "Lesson-named recording exists; task and text alignment unverified.",
+        "pronunciation": "No dedicated sound exercise identified in this lesson; earlier sound work remains available.",
+        "speaking": "Modeled conversation available; exercise section does not supply a structured open interaction.",
+        "writing": "Present: written responses and/or written form practice; this is not handwriting assessment.",
+        "feedback": "Models and examples present; no complete independent answer key identified."
+      },
+      "proposed_supplement": "Use comparison and ability choices with explanations of meaning differences. Grammar is covered; comparative and inability source prose already has visible caveats.",
+      "gap_ids": [
+        "G01",
+        "G05",
+        "G07"
+      ],
+      "evidence": [
+        {
+          "path": "docs/lesson24.md#lesson24-vocabulary",
+          "section": "Vocabulary"
+        },
+        {
+          "path": "docs/lesson24.md#lesson24-reading-practice",
+          "section": "Reading Practice"
+        },
+        {
+          "path": "docs/lesson24.md#lesson24-conversation",
+          "section": "Conversation"
+        },
+        {
+          "path": "docs/lesson24.md#lesson24-exercises",
+          "section": "Exercises"
+        },
+        {
+          "path": "docs/lesson24.md#lesson24-lesson-twenty-four-grammar-notes",
+          "section": "Lesson Twenty-Four Grammar Notes"
+        },
+        {
+          "path": "docs/lesson24.md#section-24-1",
+          "section": "24.1 Nouns Derived from Verbs"
+        },
+        {
+          "path": "docs/lesson24.md#section-24-2",
+          "section": "24.2 How to Form Comparatives and Superlatives"
+        },
+        {
+          "path": "docs/lesson24.md#section-24-3",
+          "section": "24.3 The Compound Verb Showing Self-Benefit"
+        },
+        {
+          "path": "docs/lesson24.md#section-24-4",
+          "section": "24.4 Placement of Articles and Other Elements in the Noun Phrase"
+        },
+        {
+          "path": "docs/lesson24.md#section-24-5",
+          "section": "24.5 Alternative Ways to Make Relative Clauses from Postpositions"
+        },
+        {
+          "path": "docs/lesson24.md#section-24-6",
+          "section": "24.6 Several More Ways to Say “Can”"
+        },
+        {
+          "path": "docs/lesson24.md#section-24-7",
+          "section": "24.7 Additional Uses of the Addressive/Associative Form of the Noun"
+        }
+      ],
+      "audio": {
+        "path": "data/audio/moag/lesson_24.mp3",
+        "inventory_status": "Present",
+        "alignment_status": "Unverified",
+        "reuse_status": "Not verified in audio inventory",
+        "followup_status": "Course/lesson association supported by recognized announcements and topic comparison; exact fourth-edition alignment remains unverified."
+      }
+    },
+    {
+      "id": "lesson_25",
+      "kind": "lesson",
+      "number": 25,
+      "title": "Lesson 25: Result Clauses, Titles, and Written Style",
+      "path": "docs/lesson25.md",
+      "coverage": {
+        "practical_objective": "Understand a longer formal description and explain results, concessions, and shades of compound meaning.",
+        "objective_status": "Editorial interpretation of the supplied material",
+        "topics": "Result clauses, titles, written-style features; exercises also consolidate concession, relatives, derived nouns and compound verbs.",
+        "observed_practice": "Text comprehension answers; derived nouns; even-though combinations; relative formation; compound selection; reading, with color vocabulary in reading practice."
+      },
+      "prerequisites": {
+        "status": "Recommended prerequisite links, not a formal dependency proof",
+        "items": [
+          "Lessons 10, 16, 20–24; formal register, compound verbs and complex noun/clause forms."
+        ]
+      },
+      "support": {
+        "english_explanation": "Present: numbered grammar notes.",
+        "examples": "Present: reading patterns, models and grammar examples.",
+        "vocabulary": "Present: English-glossed lesson list.",
+        "reading": "Present: reading practice and conversation/text.",
+        "exercises": "Present: exercise section.",
+        "listening": "Lesson-named recording exists; task and text alignment unverified.",
+        "pronunciation": "No dedicated sound exercise identified in this lesson; earlier sound work remains available.",
+        "speaking": "Reading text available; no structured speaking task identified in the exercise section.",
+        "writing": "Present: written responses and/or written form practice; this is not handwriting assessment.",
+        "feedback": "Models and examples present; no complete independent answer key identified."
+      },
+      "proposed_supplement": "Offer an original shorter passage, then a supported summary and spoken/formal comparison. This is reading scaffolding; formal reading and comprehension already exist.",
+      "gap_ids": [
+        "G01",
+        "G04",
+        "G11"
+      ],
+      "evidence": [
+        {
+          "path": "docs/lesson25.md#lesson25-vocabulary",
+          "section": "Vocabulary"
+        },
+        {
+          "path": "docs/lesson25.md#lesson25-reading-practice",
+          "section": "Reading Practice"
+        },
+        {
+          "path": "docs/lesson25.md#lesson25-text",
+          "section": "Text"
+        },
+        {
+          "path": "docs/lesson25.md#lesson25-exercises",
+          "section": "Exercises"
+        },
+        {
+          "path": "docs/lesson25.md#lesson25-lesson-twenty-five-grammar-notes",
+          "section": "Lesson Twenty-Five Grammar Notes"
+        },
+        {
+          "path": "docs/lesson25.md#section-25-1",
+          "section": "25.1 Complement of Result Clauses"
+        },
+        {
+          "path": "docs/lesson25.md#section-25-2",
+          "section": "25.2 Common Titles in Modern Kerala Life"
+        },
+        {
+          "path": "docs/lesson25.md#section-25-3",
+          "section": "25.3 Characteristics of Written Style in Malayalam"
+        }
+      ],
+      "audio": {
+        "path": "data/audio/moag/lesson_25.mp3",
+        "inventory_status": "Present",
+        "alignment_status": "Unverified",
+        "reuse_status": "Not verified in audio inventory",
+        "followup_status": "Topic association supported; no spoken lesson number recovered. Exact alignment remains unverified."
+      }
+    },
+    {
+      "id": "minilesson_a",
+      "kind": "minilesson",
+      "letter": "a",
+      "title": "Minilesson A",
+      "path": "docs/minilesson-a.md",
+      "coverage": {
+        "practical_objective": "Manage a brief train conversation and identify where to get off.",
+        "objective_status": "Editorial interpretation of the supplied material",
+        "topics": "A travel dialogue with a short English-glossed vocabulary list.",
+        "observed_practice": "Vocabulary and dialogue; no separate exercise section."
+      },
+      "prerequisites": {
+        "status": "Recommended prerequisite links, not a formal dependency proof",
+        "items": [
+          "Placed after Lesson 8; earlier identity, place, ability, time and obligation patterns."
+        ]
+      },
+      "support": {
+        "english_explanation": "English vocabulary glosses present; no numbered grammar discussion.",
+        "examples": "Dialogue present.",
+        "vocabulary": "Dedicated list present.",
+        "reading": "Dialogue or reference/explanatory text present.",
+        "exercises": "No separate exercise section identified.",
+        "listening": "Coverage in the 25 lesson-named recordings unverified.",
+        "pronunciation": "No dedicated sound activity identified.",
+        "speaking": "Dialogue model available; no separate partner activity.",
+        "writing": "No separate written practice identified.",
+        "feedback": "Translations/glosses support examples; no assessed practice identified."
+      },
+      "proposed_supplement": "Add an original destination-check task with a small phrase aid and feedback. Some dialogue forms anticipate later analysis; treat them as glossed chunks.",
+      "gap_ids": [
+        "G01",
+        "G07",
+        "G12"
+      ],
+      "evidence": [
+        {
+          "path": "docs/minilesson-a.md#minilesson-a-vocabulary",
+          "section": "Vocabulary"
+        },
+        {
+          "path": "docs/minilesson-a.md#minilesson-a-conversation",
+          "section": "Conversation"
+        }
+      ]
+    },
+    {
+      "id": "minilesson_b",
+      "kind": "minilesson",
+      "letter": "b",
+      "title": "Minilesson B",
+      "path": "docs/minilesson-b.md",
+      "coverage": {
+        "practical_objective": "Recognize common Kerala meal and snack terms.",
+        "objective_status": "Editorial interpretation of the supplied material",
+        "topics": "English-glossed food lists in three groups.",
+        "observed_practice": "Vocabulary reference; no dialogue, dedicated exercises, or linked pronunciation model."
+      },
+      "prerequisites": {
+        "status": "Recommended prerequisite links, not a formal dependency proof",
+        "items": [
+          "Placed after Lesson 11; selected words can support Lesson 4 with new glosses."
+        ]
+      },
+      "support": {
+        "english_explanation": "English vocabulary glosses present; no numbered grammar discussion.",
+        "examples": "Word lists present.",
+        "vocabulary": "Dedicated list present.",
+        "reading": "Dialogue or reference/explanatory text present.",
+        "exercises": "No separate exercise section identified.",
+        "listening": "Coverage in the 25 lesson-named recordings unverified.",
+        "pronunciation": "No dedicated sound activity identified.",
+        "speaking": "No structured speaking task identified.",
+        "writing": "No separate written practice identified.",
+        "feedback": "Translations/glosses support examples; no assessed practice identified."
+      },
+      "proposed_supplement": "Attach a small recognition-and-preference task to Lesson 4, with a chosen subset of food words rather than the whole list at once.",
+      "gap_ids": [
+        "G08",
+        "G10"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "minilesson_c",
+      "kind": "minilesson",
+      "letter": "c",
+      "title": "Minilesson C",
+      "path": "docs/minilesson-c.md",
+      "coverage": {
+        "practical_objective": "Explain elapsed time and distinguish for, ago, in and since.",
+        "objective_status": "Editorial interpretation of the supplied material",
+        "topics": "Short explanations with translated example sentences and English usage comparisons.",
+        "observed_practice": "Worked examples; no separate practice or feedback section."
+      },
+      "prerequisites": {
+        "status": "Recommended prerequisite links, not a formal dependency proof",
+        "items": [
+          "Placed after Lesson 14; time, past/perfect and clause forms. Some examples preview later aspect."
+        ]
+      },
+      "support": {
+        "english_explanation": "Short explanation present.",
+        "examples": "Illustrative examples present.",
+        "vocabulary": "English support in explanations/examples; no dedicated list.",
+        "reading": "Dialogue or reference/explanatory text present.",
+        "exercises": "No separate exercise section identified.",
+        "listening": "Coverage in the 25 lesson-named recordings unverified.",
+        "pronunciation": "No dedicated sound activity identified.",
+        "speaking": "No structured speaking task identified.",
+        "writing": "No separate written practice identified.",
+        "feedback": "Translations/glosses support examples; no assessed practice identified."
+      },
+      "proposed_supplement": "Add original event timelines with meaning choices and self-checks, sequencing advanced examples with their required tense forms.",
+      "gap_ids": [
+        "G01",
+        "G05"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "minilesson_d",
+      "kind": "minilesson",
+      "letter": "d",
+      "title": "Minilesson D",
+      "path": "docs/minilesson-d.md",
+      "coverage": {
+        "practical_objective": "Choose between repeating, returning, adding another, and continuing.",
+        "objective_status": "Editorial interpretation of the supplied material",
+        "topics": "Explanations and translated examples for again, back, another, more and still.",
+        "observed_practice": "Worked examples; no separate exercise section."
+      },
+      "prerequisites": {
+        "status": "Recommended prerequisite links, not a formal dependency proof",
+        "items": [
+          "Placed after Lesson 15; basic verbs, tense and context."
+        ]
+      },
+      "support": {
+        "english_explanation": "Short explanation present.",
+        "examples": "Illustrative examples present.",
+        "vocabulary": "English support in explanations/examples; no dedicated list.",
+        "reading": "Dialogue or reference/explanatory text present.",
+        "exercises": "No separate exercise section identified.",
+        "listening": "Coverage in the 25 lesson-named recordings unverified.",
+        "pronunciation": "No dedicated sound activity identified.",
+        "speaking": "No structured speaking task identified.",
+        "writing": "No separate written practice identified.",
+        "feedback": "Translations/glosses support examples; no assessed practice identified."
+      },
+      "proposed_supplement": "Add new contrasting scenes requiring a choice of expression, with explanations rather than a synonym list.",
+      "gap_ids": [
+        "G01",
+        "G05"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "minilesson_e",
+      "kind": "minilesson",
+      "letter": "e",
+      "title": "Minilesson E",
+      "path": "docs/minilesson-e.md",
+      "coverage": {
+        "practical_objective": "Recognize external obligation or compulsion.",
+        "objective_status": "Editorial interpretation of the supplied material",
+        "topics": "A short auxiliary explanation with examples across tenses.",
+        "observed_practice": "Three translated examples; no separate exercises. A visible note flags a contradiction about subject case."
+      },
+      "prerequisites": {
+        "status": "Recommended prerequisite links, not a formal dependency proof",
+        "items": [
+          "Placed after Lesson 16; desideratives, case and tense."
+        ]
+      },
+      "support": {
+        "english_explanation": "Short explanation present.",
+        "examples": "Illustrative examples present.",
+        "vocabulary": "English support in explanations/examples; no dedicated list.",
+        "reading": "Dialogue or reference/explanatory text present.",
+        "exercises": "No separate exercise section identified.",
+        "listening": "Coverage in the 25 lesson-named recordings unverified.",
+        "pronunciation": "No dedicated sound activity identified.",
+        "speaking": "No structured speaking task identified.",
+        "writing": "No separate written practice identified.",
+        "feedback": "Translations/glosses support examples; no assessed practice identified."
+      },
+      "proposed_supplement": "Coordinate the case requirement with the transcription review before writing assessed exercises; then build original contextual practice.",
+      "gap_ids": [
+        "G01",
+        "G05"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "minilesson_f",
+      "kind": "minilesson",
+      "letter": "f",
+      "title": "Minilesson F",
+      "path": "docs/minilesson-f.md",
+      "coverage": {
+        "practical_objective": "Distinguish accompaniment, association, and instrumental meanings of with.",
+        "objective_status": "Editorial interpretation of the supplied material",
+        "topics": "Explanations and translated contrasts using postpositions, associative forms and instrumental expressions.",
+        "observed_practice": "Worked contrasting examples; no separate exercises."
+      },
+      "prerequisites": {
+        "status": "Recommended prerequisite links, not a formal dependency proof",
+        "items": [
+          "Placed after Lesson 23; Lessons 8, 12, 20 and case/postposition references."
+        ]
+      },
+      "support": {
+        "english_explanation": "Short explanation present.",
+        "examples": "Illustrative examples present.",
+        "vocabulary": "English support in explanations/examples; no dedicated list.",
+        "reading": "Dialogue or reference/explanatory text present.",
+        "exercises": "No separate exercise section identified.",
+        "listening": "Coverage in the 25 lesson-named recordings unverified.",
+        "pronunciation": "No dedicated sound activity identified.",
+        "speaking": "No structured speaking task identified.",
+        "writing": "No separate written practice identified.",
+        "feedback": "Translations/glosses support examples; no assessed practice identified."
+      },
+      "proposed_supplement": "Use original actor/tool/companion scenes and ask which relationship is intended, with feedback on case choice.",
+      "gap_ids": [
+        "G01",
+        "G05"
+      ],
+      "evidence": []
+    },
+    {
+      "id": "minilesson_g",
+      "kind": "minilesson",
+      "letter": "g",
+      "title": "Minilesson G",
+      "path": "docs/minilesson-g.md",
+      "coverage": {
+        "practical_objective": "Recognize selected reductions and joining in casual speech.",
+        "objective_status": "Editorial interpretation of the supplied material",
+        "topics": "English explanation of connected-speech changes with Malayalam examples.",
+        "observed_practice": "Illustrations and instruction to listen to an instructor; no standalone recognition test or verified linked audio."
+      },
+      "prerequisites": {
+        "status": "Recommended prerequisite links, not a formal dependency proof",
+        "items": [
+          "Placed after Lesson 24; choose earlier subsets only where vocabulary and forms are supported."
+        ]
+      },
+      "support": {
+        "english_explanation": "Short explanation present.",
+        "examples": "Illustrative examples present.",
+        "vocabulary": "English support in explanations/examples; no dedicated list.",
+        "reading": "Dialogue or reference/explanatory text present.",
+        "exercises": "No separate exercise section identified.",
+        "listening": "Instructor model requested; audio coverage unverified.",
+        "pronunciation": "Connected-speech discussion present; production/recognition feedback not supplied.",
+        "speaking": "No structured speaking task identified.",
+        "writing": "No separate written practice identified.",
+        "feedback": "Translations/glosses support examples; no assessed practice identified."
+      },
+      "proposed_supplement": "Introduce small listening bridges at earlier relevant lessons, with speaker-reviewed models. Keep variety and register labels explicit; do not turn these descriptions into universal sound rules.",
+      "gap_ids": [
+        "G02",
+        "G08",
+        "G12"
+      ],
+      "evidence": []
+    }
+  ],
+  "support_resources": [
+    {
+      "id": "alphabet",
+      "path": "docs/alphabet.md",
+      "title": "The Malayalam Script",
+      "objective": "Recognize vowel and consonant symbols and their reference Romanization.",
+      "observed_support": "Letter tables and pronunciation/Unicode notes.",
+      "assessment": "No staged mastery checks or linked sound inventory identified. Build a small script entry route alongside Lesson 1; the book advises learning symbols as needed.",
+      "gap_ids": [
+        "G03",
+        "G08"
+      ],
+      "evidence": [
+        {
+          "path": "docs/alphabet.md"
+        }
+      ]
+    },
+    {
+      "id": "symbols",
+      "path": "docs/symbols.md",
+      "title": "How to Write Malayalam Symbols",
+      "objective": "Learn how symbols, vowel signs, bare consonants and common combinations are written.",
+      "observed_support": "93 individually redrawn SVG models, responsive cards, numbered guides where supplied, and controls for guides, line weight and size.",
+      "assessment": "The models already exist. The remaining opportunity is sequenced practice, learner attempts and feedback; no handwriting capture or evaluation found in the inspected plugin.",
+      "gap_ids": [
+        "G03"
+      ],
+      "evidence": [
+        {
+          "path": "docs/symbols.md"
+        }
+      ]
+    },
+    {
+      "id": "appendix_a",
+      "path": "docs/appendix-a.md",
+      "title": "Appendix A",
+      "objective": "Look up pronouns and address forms.",
+      "observed_support": "Tables grouped by person, number, familiarity and respect.",
+      "assessment": "Link to scenario-based usage practice; contemporary speaker review can refine social context without replacing the reference.",
+      "gap_ids": [
+        "G05",
+        "G13"
+      ],
+      "evidence": [
+        {
+          "path": "docs/appendix-a.md"
+        }
+      ]
+    },
+    {
+      "id": "appendix_b",
+      "path": "docs/appendix-b.md",
+      "title": "Appendix B",
+      "objective": "Look up verb forms.",
+      "observed_support": "Large verbform compendium with explanations and examples.",
+      "assessment": "Provide lesson-relevant subsets and contrasts before asking for full paradigm recall.",
+      "gap_ids": [
+        "G04",
+        "G05"
+      ],
+      "evidence": [
+        {
+          "path": "docs/appendix-b.md"
+        }
+      ]
+    },
+    {
+      "id": "appendix_c",
+      "path": "docs/appendix-c.md",
+      "title": "Appendix C",
+      "objective": "Look up calendar, clock, duration and frequency expressions.",
+      "observed_support": "Time words, weekdays, months, seasons and conjunctions.",
+      "assessment": "Link selected entries to original clock, calendar and timeline tasks.",
+      "gap_ids": [
+        "G05",
+        "G10"
+      ],
+      "evidence": [
+        {
+          "path": "docs/appendix-c.md"
+        }
+      ]
+    },
+    {
+      "id": "appendix_d",
+      "path": "docs/appendix-d.md",
+      "title": "Appendix D",
+      "objective": "Check the noun cases required by postpositions.",
+      "observed_support": "Postposition lists grouped by case.",
+      "assessment": "Add a small visual relationship guide and contextual choice exercises rather than another unsorted list.",
+      "gap_ids": [
+        "G05"
+      ],
+      "evidence": [
+        {
+          "path": "docs/appendix-d.md"
+        }
+      ]
+    },
+    {
+      "id": "appendix_e",
+      "path": "docs/appendix-e.md",
+      "title": "Appendix E",
+      "objective": "Look up opposites.",
+      "observed_support": "Bilingual antonym pairs.",
+      "assessment": "Choose a small set for contextual vocabulary retrieval; opposite pairs alone do not establish usage.",
+      "gap_ids": [
+        "G09",
+        "G10"
+      ],
+      "evidence": [
+        {
+          "path": "docs/appendix-e.md"
+        }
+      ]
+    },
+    {
+      "id": "appendix_f",
+      "path": "docs/appendix-f.md",
+      "title": "Appendix F",
+      "objective": "Understand associative case roles and multi-argument frames.",
+      "observed_support": "Grouped verb/noun frames, explanations and examples.",
+      "assessment": "Provide actor/recipient diagrams for selected lesson tasks. Three missing example sentences already belong to the proofreading review.",
+      "gap_ids": [
+        "G05"
+      ],
+      "evidence": [
+        {
+          "path": "docs/appendix-f.md"
+        }
+      ]
+    },
+    {
+      "id": "glossary",
+      "path": "docs/glossary.md",
+      "title": "Malayalam-English Glossary",
+      "objective": "Look up course vocabulary from Malayalam to English.",
+      "observed_support": "Searchable, letter-linked entries with lesson-vocabulary links and editorial corrections.",
+      "assessment": "It is not a complete first-occurrence or all-example inventory. English-side search helps, but no curated English-to-Malayalam course index or review schedule was identified.",
+      "gap_ids": [
+        "G09",
+        "G10"
+      ],
+      "evidence": [
+        {
+          "path": "docs/glossary.md"
+        }
+      ]
+    },
+    {
+      "id": "index",
+      "path": "docs/book-index.md",
+      "title": "Index",
+      "objective": "Find explanations by meaning or grammar topic.",
+      "observed_support": "Verified digital links for selected meanings/topics plus retained historical indexes.",
+      "assessment": "Navigation is substantially implemented. Remaining outdated historical references are tracked editorially; learner routes are a separate supplement.",
+      "gap_ids": [
+        "G04"
+      ],
+      "evidence": [
+        {
+          "path": "docs/book-index.md"
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "id": "G01",
+      "title": "Independent feedback on exercises",
+      "kind": "Missing support",
+      "priority": "First",
+      "scope": "All 25 lessons; minilessons A–F as new practice is added",
+      "finding": "Exercise models, translated examples and teacher/partner checking exist. No complete answer key with explanations of acceptable alternatives was identified; the digital guide explicitly says layout adaptation does not supply an answer key.",
+      "effect": "Independent learners cannot reliably distinguish a valid alternative from a mistake, especially in open responses and translation.",
+      "proposal": "Start with Lesson 1: original checks or companion answers with reasoning, common errors and acceptable variants. Separate fixed answers from sample open responses.",
+      "acceptance": "Each pilot task has a verified model or answer, a short reason, and a clear note where other answers can be valid. Open tasks have a simple self-check rubric.",
+      "depends": [],
+      "evidence": [
+        "docs/digital-edition.md",
+        "docs/lesson1.md#lesson1-exercises",
+        "docs/usage.md#usage-how-to-use-the-lessons"
+      ]
+    },
+    {
+      "id": "G02",
+      "title": "Match existing recordings to current lessons",
+      "kind": "Unverified asset and access gap",
+      "priority": "First",
+      "scope": "Lessons 1–25; coverage of script and minilessons unknown",
+      "finding": "There are 25 lesson-named MP3s. Inventory metadata points to 1985; the text is the fourth edition. No section timestamp map or verified text alignment was identified. The digital edition does not claim a complete linked audio course.",
+      "effect": "A track filename does not tell a learner which current dialogue, word list or exercise it supports.",
+      "proposal": "Audit one track at a time against the current lesson, recording timestamps, matched sections, wording differences and uncovered sections. Decide on embedding or new recordings after alignment and reuse status are established.",
+      "acceptance": "The pilot lesson has a section-to-timestamp map; unmatched sections are explicit. Audio availability and text alignment remain separate statuses.",
+      "depends": [],
+      "evidence": [
+        "data/audio/moag/README.md",
+        "data/audio/moag/manifest.json",
+        "docs/digital-edition.md"
+      ]
+    },
+    {
+      "id": "G03",
+      "title": "Script practice alongside the first lessons",
+      "kind": "Presentation and scaffolding",
+      "priority": "First",
+      "scope": "Alphabet and symbols; Lessons 1–3, then later joining patterns",
+      "finding": "The alphabet, reading-pattern exercises and 93 redrawn writing models are present. The usage guide advises learning the script as needed, but no task-sized entry sequence with independent recognition and writing checks was identified.",
+      "effect": "A new learner must choose a manageable set of symbols and connect the models to actual lesson words.",
+      "proposal": "Create a Lesson 1 script route using a limited symbol set, reading recognition, writing from a model, and reading without the model. Reuse existing diagram capabilities rather than commissioning replacement diagrams.",
+      "acceptance": "Every practice word is glossed; required symbols are named; recognition and writing are checked separately. Learners can use paper, and digital writing is optional.",
+      "depends": [
+        "G04"
+      ],
+      "evidence": [
+        "docs/alphabet.md",
+        "docs/symbols.md",
+        "docs/assets/writing.js",
+        "README.md",
+        "docs/usage.md#usage-how-to-use-the-lessons"
+      ]
+    },
+    {
+      "id": "G04",
+      "title": "Smaller study units and prerequisites",
+      "kind": "Presentation and scaffolding",
+      "priority": "First",
+      "scope": "All lessons; especially 1, 7, 8, 20, 21 and 25",
+      "finding": "The book explicitly advises treating each substantial lesson as several sessions and offers both model-led and analytic study. Navigation and prerequisite notes have improved. No explicit per-session objective, practice selection and readiness check was identified.",
+      "effect": "Learners still have to decide what to study today and whether they are ready for the next step.",
+      "proposal": "Add a small companion route for each pilot lesson: objective, prerequisites, relevant explanation/model, selected practice and a short exit check. Mark reference material separately from first-pass requirements.",
+      "acceptance": "A route states what the learner should do and how to check it. Time estimates are provisional, and it does not require reading every grammar note before speaking.",
+      "depends": [],
+      "evidence": [
+        "docs/usage.md#usage-how-to-use-the-lessons",
+        "docs/digital-edition.md",
+        "docs/lesson7.md",
+        "docs/lesson21.md"
+      ]
+    },
+    {
+      "id": "G05",
+      "title": "Choose forms by meaning and situation",
+      "kind": "Underdeveloped support for transfer",
+      "priority": "First for early contrasts then Later",
+      "scope": "Lessons 2–9, 11–13, 15–17, 19–24; minilessons C–F",
+      "finding": "The source explains many contrasts and supplies examples and transformations. Form production is often easier to locate than independently checkable decisions about which form fits a new context.",
+      "effect": "Correctly changing an ending does not demonstrate that a learner can choose the expression needed in an interaction.",
+      "proposal": "Write original short situations with feedback: identity/existence, want/like, intention/future, giving, permission/ability, event sequence and tense/aspect. Use simple diagrams where they clarify case roles or timelines.",
+      "acceptance": "Each contrast is backed by current reviewed explanations and speaker-checked examples. Feedback explains the meaning or context rather than only marking an ending wrong.",
+      "depends": [
+        "G01"
+      ],
+      "evidence": [
+        "docs/lesson3.md#section-3-3",
+        "docs/lesson4.md#section-4-3",
+        "docs/lesson6.md#section-6-3",
+        "docs/lesson7.md#section-7-1",
+        "docs/lesson19.md#section-19-7",
+        "docs/lesson24.md#section-24-6"
+      ]
+    },
+    {
+      "id": "G06",
+      "title": "Dedicated practice for Lesson 14 structures",
+      "kind": "Local practice gap",
+      "priority": "First",
+      "scope": "Lesson 14",
+      "finding": "The exercise section contains a newspaper-section response frame, plurals and reading items. Conditionals, either/or and relatives with possession/existence are explained and illustrated, but have little dedicated production practice in that section.",
+      "effect": "The amount of practice does not match the range of new structures introduced.",
+      "proposal": "Create three small original activities: conditional decisions, alternative choices, and descriptions identifying which person or object is meant. Add supported production after recognition.",
+      "acceptance": "Each of the three objectives has recognition and production practice with feedback. The unclear all/each source prose is not used as an unqualified rule.",
+      "depends": [
+        "G01"
+      ],
+      "evidence": [
+        "docs/lesson14.md#lesson14-exercises",
+        "docs/lesson14.md#section-14-2",
+        "docs/lesson14.md#section-14-3",
+        "docs/lesson14.md#section-14-4"
+      ]
+    },
+    {
+      "id": "G07",
+      "title": "Use grammar to complete a communicative task",
+      "kind": "Underdeveloped support for transfer",
+      "priority": "Later",
+      "scope": "Selected lessons, especially 11–13 and 15–24; minilesson A",
+      "finding": "Classmate responses, introductions, number games, age exchanges, route drawing and itinerary writing already occur. Many later exercises primarily manipulate forms or translate sentences; spontaneous interaction needs teacher adaptation.",
+      "effect": "Learners need a bridge from controlled practice to achieving a purpose with their own information.",
+      "proposal": "Add one original task where useful: relay a message, resolve a schedule conflict, explain a route, describe an event, or compare options. Supply roles and enough language support for a partner or solo recording.",
+      "acceptance": "The task has a practical outcome, uses supported vocabulary/forms, and includes a simple rubric for meaning and appropriateness. It extends existing interaction rather than claiming the course has none.",
+      "depends": [
+        "G01",
+        "G04"
+      ],
+      "evidence": [
+        "docs/lesson2.md#lesson2-exercises",
+        "docs/lesson13.md#lesson13-exercises",
+        "docs/lesson18.md#lesson18-exercises",
+        "docs/lesson22.md#lesson22-exercises",
+        "docs/lesson23.md#lesson23-exercises"
+      ]
+    },
+    {
+      "id": "G08",
+      "title": "Independent pronunciation practice and feedback",
+      "kind": "Access and feedback gap",
+      "priority": "First",
+      "scope": "Alphabet; Lessons 1–12 and 20; minilessons B and G",
+      "finding": "Explicit pronunciation work covers dental/alveolar/retroflex contrasts, aspiration, vowel and consonant length, nasals, laterals and rhotics. Several exercises require an instructor to speak or judge. The recordings have not been aligned to these activities.",
+      "effect": "A print description alone cannot establish that a learner hears or produces a contrast.",
+      "proposal": "After checking existing audio, supply short speaker-verified listening trials and spoken models for selected contrasts. Offer record-and-compare practice and specific partner/teacher feedback prompts.",
+      "acceptance": "Listening trials have validated recordings and answers. Production is not auto-certified without a reliable assessment method; learners receive observable cues and a feedback route.",
+      "depends": [
+        "G02",
+        "G01"
+      ],
+      "evidence": [
+        "docs/lesson1.md#lesson1-exercises",
+        "docs/lesson8.md#lesson8-exercises",
+        "docs/lesson11.md#lesson11-exercises",
+        "docs/lesson12.md#lesson12-exercises",
+        "docs/lesson20.md#lesson20-exercises"
+      ]
+    },
+    {
+      "id": "G09",
+      "title": "Cumulative retrieval and readiness checks",
+      "kind": "Missing explicit learning support",
+      "priority": "Later",
+      "scope": "Checkpoints after selected lesson groups; vocabulary across lessons",
+      "finding": "The author recommends revisiting reading practice, and exercises reuse earlier forms. No explicit schedule of cumulative checks or learner progress record was identified in the inspected edition.",
+      "effect": "Finishing a page does not show whether previously learned material is still usable.",
+      "proposal": "Create original mixed review checks with feedback, delayed vocabulary retrieval and clear next-study suggestions. Keep these separate from claims of standardized proficiency levels.",
+      "acceptance": "Checks mix recognition and production from prior lessons, revisit items after a delay, and identify what to review. Thresholds are pilot choices rather than validated proficiency cutoffs.",
+      "depends": [
+        "G01",
+        "G04"
+      ],
+      "evidence": [
+        "docs/usage.md#usage-how-to-use-the-lessons",
+        "docs/digital-edition.md",
+        "docs/lesson8.md#lesson8-exercises"
+      ]
+    },
+    {
+      "id": "G10",
+      "title": "Vocabulary support by task and direction",
+      "kind": "Coverage and retrieval support",
+      "priority": "Later",
+      "scope": "All lessons, reference lists and minilesson B",
+      "finding": "Bilingual vocabulary and a Malayalam-to-English glossary exist. The author says extra grammar-example and reference vocabulary is not comprehensively included; current notes already gloss several confirmed early items. Search by English works, but that is not a curated reverse course vocabulary index.",
+      "effect": "Learners may find a meaning without knowing which equivalent is appropriate or where it was practiced.",
+      "proposal": "Maintain a curated course vocabulary record linking senses, supporting examples, relevant lesson and optional audio. Add English-side task lookup and short retrieval sets. Use Olam only where a specific gap exists and retain applicable attribution/license provenance.",
+      "acceptance": "New items have a checked sense, context and provenance; introduction status distinguishes a glossed chunk from a fully taught form. Raw glossary lesson numbers are not treated as first-use proof.",
+      "depends": [
+        "G04"
+      ],
+      "evidence": [
+        "docs/usage.md#usage-as-a-reference-grammar",
+        "docs/glossary.md",
+        "docs/proofreading-review.md",
+        "docs/minilesson-b.md",
+        "data/olam/README.md"
+      ]
+    },
+    {
+      "id": "G11",
+      "title": "Supported reading between dialogues and formal prose",
+      "kind": "Presentation and extension",
+      "priority": "Later",
+      "scope": "Lessons 10, 16, 20 and 25; optional additions elsewhere",
+      "finding": "The course already contains formal geographical, newspaper and cultural prose, advertisements and comprehension work. It does not lack reading material. A separate ladder of short original passages with bounded vocabulary and independent feedback was not identified.",
+      "effect": "Some learners would benefit from smaller passages before tackling the longer formal texts.",
+      "proposal": "Write original short passages on familiar topics, with selective glosses, a few comprehension checks and a summary task. Link each to existing grammar and show spoken/formal alternatives when appropriate.",
+      "acceptance": "Each passage states its prerequisite forms and glosses other language. Text and artwork are original or specifically licensed; school grade is not used as an L2 proficiency label.",
+      "depends": [
+        "G01",
+        "G04",
+        "G10"
+      ],
+      "evidence": [
+        "docs/lesson10.md#lesson10-text",
+        "docs/lesson16.md#lesson16-text",
+        "docs/lesson20.md#lesson20-text-part-i",
+        "docs/lesson24.md#lesson24-sample-newspaper-advertisements",
+        "docs/lesson25.md#lesson25-text"
+      ]
+    },
+    {
+      "id": "G12",
+      "title": "Earlier listening bridges into casual speech",
+      "kind": "Sequencing and access",
+      "priority": "Later",
+      "scope": "Early dialogues, directions in Lesson 18 and minilesson G",
+      "finding": "Early vocabulary and dialogues already include conversational short forms. Minilesson G explains several casual-speech changes but is placed after Lesson 24 and asks an instructor to model them.",
+      "effect": "Learners encounter natural reductions well before reaching the dedicated explanation.",
+      "proposal": "Select a few already relevant phrases per early lesson and provide careful-versus-conversational listening with speaker, variety and register notes. Audit the existing recordings first.",
+      "acceptance": "Every phrase is supported or glossed; recordings are checked against a transcript. Variation is labeled, and learners are not told that one reduction is universal.",
+      "depends": [
+        "G02",
+        "G08"
+      ],
+      "evidence": [
+        "docs/lesson1.md#lesson1-vocabulary",
+        "docs/lesson2.md#lesson2-conversation",
+        "docs/lesson18.md#lesson18-conversation",
+        "docs/minilesson-g.md"
+      ]
+    },
+    {
+      "id": "G13",
+      "title": "Routes for different ages and existing abilities",
+      "kind": "Audience extension",
+      "priority": "Optional after the core pilot",
+      "scope": "Course-wide",
+      "finding": "The usage guide discusses university/research learners, heritage undergraduates and self-study, and permits model-led or analytic study. It is not an age-specific family, child or teen curriculum, and no entry diagnostic was identified.",
+      "effect": "Age alone does not reveal whether someone needs speaking, listening, script or grammar support.",
+      "proposal": "Use separate entry choices for age, Malayalam understanding/speaking, script literacy, purpose and activity preference. Develop versions of the same objective: caregiver game, teen project, independent adult task, or explicit grammar study.",
+      "acceptance": "Routes respond to demonstrated needs and preferences, not fixed learning-style labels. Heritage learners can enter literacy work without repeating skills they already have; beginners still receive prerequisite support.",
+      "depends": [
+        "G03",
+        "G04",
+        "G09"
+      ],
+      "evidence": [
+        "docs/usage.md#usage-a-brief-overview",
+        "docs/usage.md#usage-how-to-use-the-lessons"
+      ]
+    },
+    {
+      "id": "G14",
+      "title": "Additional contemporary communication contexts",
+      "kind": "Audience and topic extension",
+      "priority": "Optional after the core pilot",
+      "scope": "Selected early and intermediate lessons",
+      "finding": "The source period is explicit and several historical facts are already flagged. Existing family, food, travel, office and cultural contexts cover many practical functions. Dedicated activities for current messaging, calls and other learner-selected situations were not identified in the reviewed teaching units.",
+      "effect": "Learners with different purposes may want to apply known forms to situations outside the textbook.",
+      "proposal": "Choose contexts from learner requests, then create original scripts and tasks using known forms plus a few checked new words. A communication-repair activity can build on existing understanding questions.",
+      "acceptance": "Each extension identifies which existing objective it serves and why its audience needs it. Contemporary factual or usage claims are checked when drafted; updating historical source passages remains separate.",
+      "depends": [
+        "G04",
+        "G07",
+        "G10"
+      ],
+      "evidence": [
+        "docs/lesson1.md#lesson1-classroom-expressions",
+        "docs/usage.md#usage-a-brief-overview",
+        "docs/proofreading-review.md"
+      ]
+    }
+  ],
+  "existing_editorial_dependencies": [
+    {
+      "location": "Lesson 6, 6.7",
+      "path": "docs/lesson6.md",
+      "physical_pdf_pages": "133",
+      "issue": "“Construction with -ാൻ” repeats the infinitive ending instead of naming its partner. A note identifies the illustrated infinitive + ഉണ്ട് construction; the source wording remains.",
+      "status": "Existing transcription review item; recheck current passage before assigning work"
+    },
+    {
+      "location": "Lesson 7, 7.6",
+      "path": "docs/lesson7.md",
+      "physical_pdf_pages": "151",
+      "issue": "The list “-ന്നു or എന്ന്” does not reliably describe which forms take the limiter. The intended replacement is uncertain.",
+      "status": "Existing transcription review item; recheck current passage before assigning work"
+    },
+    {
+      "location": "Lesson 8, 8.5",
+      "path": "docs/lesson8.md",
+      "physical_pdf_pages": "171",
+      "issue": "Missing wording in the restriction on ചോദിക്കുക. The same paragraph also glosses a future example as “I asked.”",
+      "status": "Existing transcription review item; recheck current passage before assigning work"
+    },
+    {
+      "location": "Lesson 10, 10.5",
+      "path": "docs/lesson10.md",
+      "physical_pdf_pages": "203",
+      "issue": "Explanation discusses എന്ന് lists, while the revised reading uses എന്നിവയാണ്.",
+      "status": "Existing transcription review item; recheck current passage before assigning work"
+    },
+    {
+      "location": "Lesson 13, 13.3",
+      "path": "docs/lesson13.md",
+      "physical_pdf_pages": "249",
+      "issue": "Incomplete sentence about the relationship between clauses. The translated examples still illustrate the intended contrast.",
+      "status": "Existing transcription review item; recheck current passage before assigning work"
+    },
+    {
+      "location": "Lesson 14, 14.1",
+      "path": "docs/lesson14.md",
+      "physical_pdf_pages": "259",
+      "issue": "Garbled wording in the explanation of “each”; a note points learners to the translated pronoun and noun-phrase examples.",
+      "status": "Existing transcription review item; recheck current passage before assigning work"
+    },
+    {
+      "location": "Lesson 17, 17.4",
+      "path": "docs/lesson17.md",
+      "physical_pdf_pages": "307",
+      "issue": "Missing prose between നീ and “attention”; address-particle examples remain usable.",
+      "status": "Existing transcription review item; recheck current passage before assigning work"
+    },
+    {
+      "location": "Minilesson E",
+      "path": "docs/minilesson-e.md",
+      "physical_pdf_pages": "293",
+      "issue": "Claimed nominative requirement conflicts with example 1’s dative എനിക്ക്.",
+      "status": "Existing transcription review item; recheck current passage before assigning work"
+    },
+    {
+      "location": "Lesson 19, 19.3",
+      "path": "docs/lesson19.md",
+      "physical_pdf_pages": "336",
+      "issue": "Promised treatment of obligation in 24.6 does not match that section’s ability/inability focus.",
+      "status": "Existing transcription review item; recheck current passage before assigning work"
+    },
+    {
+      "location": "Lesson 21, 21.3",
+      "path": "docs/lesson21.md",
+      "physical_pdf_pages": "384",
+      "issue": "“Past” dependent-clause example still uses present negative കിട്ടാത്തത്.",
+      "status": "Existing transcription review item; recheck current passage before assigning work"
+    },
+    {
+      "location": "Lesson 22, 22.5",
+      "path": "docs/lesson22.md",
+      "physical_pdf_pages": "407",
+      "issue": "Reference to 24.3 for emphasis with -ആയിട്ട് points to a section about self-benefit compounds.",
+      "status": "Existing transcription review item; recheck current passage before assigning work"
+    },
+    {
+      "location": "Lesson 23, 23.2",
+      "path": "docs/lesson23.md",
+      "physical_pdf_pages": "426",
+      "issue": "Past-counterfactual English rendering lacks a corresponding past auxiliary in the Malayalam result clause.",
+      "status": "Existing transcription review item; recheck current passage before assigning work"
+    },
+    {
+      "location": "Lesson 24, 24.2",
+      "path": "docs/lesson24.md",
+      "physical_pdf_pages": "442",
+      "issue": "Comparative explanation promises four elements but enumerates only two.",
+      "status": "Existing transcription review item; recheck current passage before assigning work"
+    },
+    {
+      "location": "Lesson 24, 24.6",
+      "path": "docs/lesson24.md",
+      "physical_pdf_pages": "453",
+      "issue": "Introductory wording for വയ്യ is missing; a note points to 6.7 and the examples.",
+      "status": "Existing transcription review item; recheck current passage before assigning work"
+    },
+    {
+      "location": "Lesson 25, vocabulary",
+      "path": "docs/lesson25.md",
+      "physical_pdf_pages": "461",
+      "issue": "ധാന്യം glossed “richness” conflicts with ധന്യമായ/ധന്യമാണ് in the reading and exercise.",
+      "status": "Existing transcription review item; recheck current passage before assigning work"
+    },
+    {
+      "location": "Appendix F, three-argument expressions",
+      "path": "docs/appendix-f.md",
+      "physical_pdf_pages": "500",
+      "issue": "Three entries contain English translations without Malayalam example sentences, also absent in the PDF.",
+      "status": "Existing transcription review item; recheck current passage before assigning work"
+    },
+    {
+      "location": "Glossary",
+      "path": "docs/glossary.md",
+      "physical_pdf_pages": "516, 531",
+      "issue": "Original editor queries remain unresolved, including the intended form and translation of പോയിരിക്കുകയായിരിന്നു. They are now labeled as queries.",
+      "status": "Existing transcription review item; recheck current passage before assigning work"
+    },
+    {
+      "location": "Index",
+      "path": "docs/book-index.md",
+      "physical_pdf_pages": "545–557",
+      "issue": "Some source page references use obsolete pagination. For example, “Can” cites 399–402, while 24.6 starts on printed page 389. The digital index now supplies verified links for English meanings and selected grammar topics. The historical printed index is retained separately and has not been comprehensively remapped.",
+      "status": "Existing transcription review item; recheck current passage before assigning work"
+    }
+  ],
+  "boundaries": "Create original supplemental content around learning objectives; use the current transcription and its reference links as the core. This audit does not determine publication rights, create supplements, change source wording or authorize publishing any recordings.",
+  "audio_followup": {
+    "reviewed_on": "2026-10-04",
+    "report": "data/audio/moag/audit.json",
+    "guide": "data/audio/moag/AUDIO-AUDIT.md",
+    "integrity": "25 complete decodes and import checksums passed.",
+    "alignment": "ASR-assisted structural association and provisional cue map; exact text alignment remains unverified.",
+    "planning_change": "Selected recorded models, slower/normal readings, role practice and spoken feedback exist; prioritize organizing and verifying them rather than assuming they must all be newly produced."
+  }
+}

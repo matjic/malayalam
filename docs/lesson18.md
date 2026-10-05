@@ -6,6 +6,15 @@
 <a id="lesson18-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Vocabulary audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 18: Vocabulary audio" src="assets/audio/moag/sections/lesson_18_vocabulary_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_18_vocabulary_0.mp3" aria-pressed="true">Listen · 02:48</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 | Malayalam | English |
 |---|---|
 | മദ്ധ്യം | middle, in between |
@@ -41,6 +50,15 @@
 
 <a id="lesson18-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Reading Practice audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 18: Reading Practice audio" src="assets/audio/moag/sections/lesson_18_reading_practice_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_18_reading_practice_0.mp3" aria-pressed="true">Listen · 01:31</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
 
 <a id="lesson18-a"></a><!-- reading-anchor -->
 ### A.
@@ -97,6 +115,15 @@ Note how ‘ര’ joins to preceding consonants in these examples.
 <a id="lesson18-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Conversation audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 18: Conversation audio" src="assets/audio/moag/sections/lesson_18_conversation_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_18_conversation_0.mp3" aria-pressed="true">Slower conversation · 00:55</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_18_conversation_1.mp3" aria-pressed="false">Normal-speed conversation · 01:39</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_18_conversation_2.mp3" aria-pressed="false">Role practice · 00:50</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 <a id="lesson18-u0d32u0d32u0d2fu0d1f-u0d35u0d1fu0d1fu0d32u0d15u0d15---u0d35u0d34u0d2eu0d26u0d27u0d2f"></a><!-- reading-anchor -->
 ### ലീലയുടെ വീട്ടിലേക്ക് - വഴിമദ്ധ്യേ
 
@@ -119,6 +146,15 @@ Note how ‘ര’ joins to preceding consonants in these examples.
 
 <a id="lesson18-exercises"></a><!-- reading-anchor -->
 ## Exercises
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Exercises audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 18: Exercises audio" src="assets/audio/moag/sections/lesson_18_exercise_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_18_exercise_0.mp3" aria-pressed="true">Listen · 08:16</button></div>
+<p class="lesson-audio-note">Recorded exercise numbers and order may differ. Some answers require teacher review. Section boundaries are approximate.</p>
+</div>
+<!-- /moag-audio -->
 
 **1.** Change the verbs in the following sentences to the negative requests and commands forms shown in Section A of this lesson’s reading practice:
 

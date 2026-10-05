@@ -20,6 +20,15 @@
 <a id="lesson1-vocabulary"></a><!-- reading-anchor -->
 ### Vocabulary
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Vocabulary audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 1: Vocabulary audio" src="assets/audio/moag/sections/lesson_01_vocabulary_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_01_vocabulary_0.mp3" aria-pressed="true">Listen · 04:30</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 | Malayalam | English |
 |---|---|
 | ശരി | okay, fine, good |
@@ -77,6 +86,15 @@ Note how **ആണ്** joins to the following items.
 <a id="lesson1-conversation"></a><!-- reading-anchor -->
 ### Conversation
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Conversation audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 1: Conversation audio" src="assets/audio/moag/sections/lesson_01_conversation_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_01_conversation_0.mp3" aria-pressed="true">Repeat with the speaker · 02:38</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_01_conversation_1.mp3" aria-pressed="false">Slower conversation · 00:34</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_01_conversation_2.mp3" aria-pressed="false">Normal-speed conversation · 00:25</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_01_conversation_3.mp3" aria-pressed="false">Role practice 1 · 00:49</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_01_conversation_4.mp3" aria-pressed="false">Role practice 2 · 00:42</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 **ബിൽ**: നിങ്ങളുടെ പേര് എന്താ?
 
 **രാമൻ**: എന്റെ പേര് രാമൻ എന്നാണ്. നിങ്ങളുടെ പേര് എന്താ?
@@ -102,6 +120,15 @@ Note how **ആണ്** joins to the following items.
 
 <a id="lesson1-exercises"></a><!-- reading-anchor -->
 ## Exercises
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Exercises audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 1: Exercises audio" src="assets/audio/moag/sections/lesson_01_exercise_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_01_exercise_0.mp3" aria-pressed="true">Listen · 04:00</button></div>
+<p class="lesson-audio-note">Recorded exercise numbers and order may differ. Some answers require teacher review. Section boundaries are approximate.</p>
+</div>
+<!-- /moag-audio -->
 
 > **Learner note (editorial):** The exercises use ഞാൻ (“I”), ഞങ്ങൾ (“we,” excluding the listener), and അവർ (“they” or respectful “she”). These are introduced more fully in Lesson 2. ആണോ is the yes/no question form of ആണ്; for example, ബിൽ ആണോ? means “Is it Bill?” See Lesson 2, §2.3.
 

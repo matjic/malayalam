@@ -1,0 +1,23 @@
+.lesson-audio {
+  margin: 1rem 0 1.5rem;
+  padding: 0.8rem 1rem;
+  border: 1px solid #d6dfe5;
+  border-radius: 6px;
+  background: #f8fafb;
+}
+.lesson-audio p { margin: 0.35rem 0; }
+.lesson-audio audio { display: block; width: 100%; max-width: 38rem; margin: 0.65rem 0; }
+.lesson-audio-cues { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+.lesson-audio-cues button {
+  padding: 0.45rem 0.7rem;
+  border: 1px solid #697b88;
+  border-radius: 4px;
+  color: #253a48;
+  background: white;
+  font: inherit;
+  cursor: pointer;
+}
+.lesson-audio-cues button:hover { background: #e9f0f4; }
+.lesson-audio-cues button[aria-pressed="true"] { background: #e0edf4; border-color: #166a98; }
+.lesson-audio-cues button:focus-visible { outline: 2px solid #166a98; outline-offset: 2px; }
+.lesson-audio-note { font-size: 0.9em; color: #4c5b65; }

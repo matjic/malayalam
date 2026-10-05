@@ -25,6 +25,15 @@ Note: Meanings given here apply only when the verbal nouns appear without postpo
 <a id="lesson15-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Vocabulary audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 15: Vocabulary audio" src="assets/audio/moag/sections/lesson_15_vocabulary_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_15_vocabulary_0.mp3" aria-pressed="true">Listen · 03:48</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 | Malayalam | Meaning |
 |---|---|
 | ബസ്സ്റ്റാൻഡിലെ | at/of the bus stop |
@@ -56,6 +65,15 @@ Note: Meanings given here apply only when the verbal nouns appear without postpo
 
 <a id="lesson15-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Reading Practice audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 15: Reading Practice audio" src="assets/audio/moag/sections/lesson_15_reading_practice_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_15_reading_practice_0.mp3" aria-pressed="true">Listen · 02:09</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
 
 <a id="lesson15-a-read-the-past-conditional-forms-of-the-verbs-below"></a><!-- reading-anchor -->
 ### A. Read the past conditional forms of the verbs below.
@@ -111,6 +129,15 @@ Note: Meanings given here apply only when the verbal nouns appear without postpo
 <a id="lesson15-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Conversation audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 15: Conversation audio" src="assets/audio/moag/sections/lesson_15_conversation_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_15_conversation_0.mp3" aria-pressed="true">Slower conversation · 01:19</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_15_conversation_1.mp3" aria-pressed="false">Normal-speed conversation · 02:13</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_15_conversation_2.mp3" aria-pressed="false">Role practice · 01:10</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 *ബസ്സ്റ്റാൻഡിലെ ഒരു രംഗം*
 
 **വറുഗീസ്:** ആഹാ! ഇത് കേശവൻ നായരാണല്ലോ! നിങ്ങൾ ഇവിടെ എന്ത് ചെയ്യുന്നു?
@@ -131,6 +158,15 @@ Note: Meanings given here apply only when the verbal nouns appear without postpo
 
 <a id="lesson15-exercises"></a><!-- reading-anchor -->
 ## Exercises
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Exercises audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 15: Exercises audio" src="assets/audio/moag/sections/lesson_15_exercise_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_15_exercise_0.mp3" aria-pressed="true">Listen · 10:00</button></div>
+<p class="lesson-audio-note">Recorded exercise numbers and order may differ. Some answers require teacher review. Section boundaries are approximate.</p>
+</div>
+<!-- /moag-audio -->
 
 **1.** A. Fill in the blanks with the appropriate form of the verbs in parentheses.
 

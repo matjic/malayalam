@@ -27,6 +27,15 @@
 <a id="lesson6-vocabulary"></a><!-- reading-anchor -->
 ### Vocabulary
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Vocabulary audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 6: Vocabulary audio" src="assets/audio/moag/sections/lesson_06_vocabulary_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_06_vocabulary_0.mp3" aria-pressed="true">Listen · 03:24</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 | Malayalam | English |
 |---|---|
 | അടുത്ത് | (adverb) near, close by, next to, close to (postposition) |
@@ -93,6 +102,15 @@ Note the future potential forms of the verbs you have learned so far.
 <a id="lesson6-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Conversation audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 6: Conversation audio" src="assets/audio/moag/sections/lesson_06_conversation_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_06_conversation_0.mp3" aria-pressed="true">Slower conversation · 00:41</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_06_conversation_1.mp3" aria-pressed="false">Normal-speed conversation · 00:35</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_06_conversation_2.mp3" aria-pressed="false">Repeat with the speaker · 05:43</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_06_conversation_3.mp3" aria-pressed="false">Role practice 1 · 00:42</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_06_conversation_4.mp3" aria-pressed="false">Role practice 2 · 00:44</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 **A:** ഇവിടെ അടുത്ത് ചന്ത ഉണ്ടോ?
 
 **B:** ഓ, ഉണ്ടല്ലോ, നിങ്ങൾക്ക് ബ്രാഹ്മണഹോട്ടൽ അറിയില്ലേ?
@@ -115,6 +133,15 @@ Note the future potential forms of the verbs you have learned so far.
 
 <a id="lesson6-exercises"></a><!-- reading-anchor -->
 ## Exercises
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Exercises audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 6: Exercises audio" src="assets/audio/moag/sections/lesson_06_exercise_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_06_exercise_0.mp3" aria-pressed="true">Listen · 24:14</button></div>
+<p class="lesson-audio-note">Recorded exercise numbers and order may differ. Some answers require teacher review. Section boundaries are approximate.</p>
+</div>
+<!-- /moag-audio -->
 
 **1.** Change the present verbforms to future as in the model:
 

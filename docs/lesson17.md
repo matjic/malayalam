@@ -6,6 +6,15 @@
 <a id="lesson17-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Vocabulary audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 17: Vocabulary audio" src="assets/audio/moag/sections/lesson_17_vocabulary_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_17_vocabulary_0.mp3" aria-pressed="true">Listen · 03:27</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 | Malayalam | Meaning |
 |---|---|
 | ഒന്നാം | first |
@@ -37,6 +46,15 @@
 
 <a id="lesson17-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Reading Practice audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 17: Reading Practice audio" src="assets/audio/moag/sections/lesson_17_reading_practice_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_17_reading_practice_0.mp3" aria-pressed="true">Listen · 01:31</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
 
 <a id="lesson17-a"></a><!-- reading-anchor -->
 ### A.
@@ -84,6 +102,15 @@ Note how േ-- is added when കാൽ, quarter past (for time) or plus one quar
 <a id="lesson17-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Conversation audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 17: Conversation audio" src="assets/audio/moag/sections/lesson_17_conversation_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_17_conversation_0.mp3" aria-pressed="true">Slower conversation 1 · 00:57</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_17_conversation_1.mp3" aria-pressed="false">Normal-speed conversation 1 · 00:46</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_17_conversation_2.mp3" aria-pressed="false">Role practice 1 · 00:52</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_17_conversation_3.mp3" aria-pressed="false">Role practice 2 · 00:49</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_17_conversation_4.mp3" aria-pressed="false">Slower conversation 2 · 00:53</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_17_conversation_5.mp3" aria-pressed="false">Normal-speed conversation 2 · 00:39</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_17_conversation_6.mp3" aria-pressed="false">Role practice 3 · 00:46</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_17_conversation_7.mp3" aria-pressed="false">Role practice 4 · 00:49</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 <a id="lesson17-u0d12u0d28u0d28-u0d30u0d17"></a><!-- reading-anchor -->
 ### ഒന്നാം രംഗം
 
@@ -130,6 +157,15 @@ Note how േ-- is added when കാൽ, quarter past (for time) or plus one quar
 
 <a id="lesson17-exercises"></a><!-- reading-anchor -->
 ## Exercises
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Exercises audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 17: Exercises audio" src="assets/audio/moag/sections/lesson_17_exercise_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_17_exercise_0.mp3" aria-pressed="true">Listen · 12:18</button></div>
+<p class="lesson-audio-note">Recorded exercise numbers and order may differ. Some answers require teacher review. Section boundaries are approximate.</p>
+</div>
+<!-- /moag-audio -->
 
 **1.** Change the following commands to the familiar form as in the model.
 

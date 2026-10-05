@@ -147,6 +147,15 @@
 <a id="lesson2-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Conversation audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 2: Conversation audio" src="assets/audio/moag/sections/lesson_02_conversation_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_02_conversation_0.mp3" aria-pressed="true">Repeat with the speaker · 06:05</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_02_conversation_1.mp3" aria-pressed="false">Slower conversation · 00:56</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_02_conversation_2.mp3" aria-pressed="false">Normal-speed conversation · 00:39</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_02_conversation_3.mp3" aria-pressed="false">Role practice · 02:26</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 **രാമൻ**: സാറിന്റെ ആഫീസ് ഇവിടെയാണോ?
 
 **ഹമീദ്**: അതെ, ഇവിടെത്തന്നെ.
@@ -188,6 +197,15 @@
 
 <a id="lesson2-exercises"></a><!-- reading-anchor -->
 ## Exercises
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Exercises audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 2: Exercises audio" src="assets/audio/moag/sections/lesson_02_exercise_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_02_exercise_0.mp3" aria-pressed="true">Listen · 10:07</button></div>
+<p class="lesson-audio-note">Recorded exercise numbers and order may differ. Some answers require teacher review. Section boundaries are approximate.</p>
+</div>
+<!-- /moag-audio -->
 
 1. Respond to questions from the teacher or from classmates by giving your own home town or state.
 

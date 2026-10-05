@@ -7,6 +7,15 @@
 <a id="lesson5-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Vocabulary audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 5: Vocabulary audio" src="assets/audio/moag/sections/lesson_05_vocabulary_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_05_vocabulary_0.mp3" aria-pressed="true">Listen · 01:50</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 | Malayalam | English |
 |---|---|
 | കൃഷ്ണൻ | a male name |
@@ -34,6 +43,15 @@
 <!-- Source: PDF page 104; printed page 54. -->
 <a id="lesson5-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Reading Practice audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 5: Reading Practice audio" src="assets/audio/moag/sections/lesson_05_reading_practice_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_05_reading_practice_0.mp3" aria-pressed="true">Listen · 01:59</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
 
 <a id="lesson5-a-note-the-infinitive-forms-of-the-verbs-you-have-learned-so-far"></a><!-- reading-anchor -->
 ### A. Note the infinitive forms of the verbs you have learned so far.
@@ -72,6 +90,15 @@
 <a id="lesson5-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Conversation audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 5: Conversation audio" src="assets/audio/moag/sections/lesson_05_conversation_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_05_conversation_0.mp3" aria-pressed="true">Repeat with the speaker · 05:50</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_05_conversation_1.mp3" aria-pressed="false">Slower conversation · 00:46</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_05_conversation_2.mp3" aria-pressed="false">Normal-speed conversation · 00:38</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_05_conversation_3.mp3" aria-pressed="false">Role practice · 01:50</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 **A:** കൃഷ്ണൻ എവിടെയാണ്?
 
 **B:** ആ മുറിയിൽ ഇരിക്കുന്നു.
@@ -102,6 +129,15 @@
 
 <a id="lesson5-exercises"></a><!-- reading-anchor -->
 ## Exercises
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Exercises audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 5: Exercises audio" src="assets/audio/moag/sections/lesson_05_exercise_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_05_exercise_0.mp3" aria-pressed="true">Listen · 10:27</button></div>
+<p class="lesson-audio-note">Recorded exercise numbers and order may differ. Some answers require teacher review. Section boundaries are approximate.</p>
+</div>
+<!-- /moag-audio -->
 
 **1.** Make present tense forms from the commands below as in the model:
 

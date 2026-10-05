@@ -162,6 +162,15 @@ Note how the various forms of കൊണ്ടിരിക്കുക can be add
 <a id="lesson21-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Conversation audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 21: Conversation audio" src="assets/audio/moag/sections/lesson_21_conversation_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_21_conversation_0.mp3" aria-pressed="true">Slower conversation · 01:57</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_21_conversation_1.mp3" aria-pressed="false">Normal-speed conversation · 01:29</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_21_conversation_2.mp3" aria-pressed="false">Role practice 1 · 01:45</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_21_conversation_3.mp3" aria-pressed="false">Role practice 2 · 01:50</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 **രാജൻ:** ചേച്ചി, ചേട്ടൻ ഇവിടെയില്ലെ? എവിടെ പോയിരിക്കുകയാണ്?
 
 **ചേച്ചി:** ഞങ്ങൾ ഇന്നു വൈകിട്ട് ഒരു ഇംഗ്ലീഷ് സിനിമ കാണാൻ പോകുന്നുണ്ട്. അതിന് നേരത്തെ ടിക്കറ്റ് വാങ്ങിക്കാൻ പോയിരിക്കുകയാണ്. പത്ത് മിനിട്ടിനകം തിരിച്ചുവരുമായിരിക്കും. എന്താ കാര്യം രാജാ, ചേട്ടനോട് വല്ലതും പറയാനുണ്ടോ?
@@ -198,6 +207,15 @@ Note how the various forms of കൊണ്ടിരിക്കുക can be add
 
 <a id="lesson21-exercises"></a><!-- reading-anchor -->
 ## Exercises
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Exercises audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 21: Exercises audio" src="assets/audio/moag/sections/lesson_21_exercise_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_21_exercise_0.mp3" aria-pressed="true">Listen · 07:22</button></div>
+<p class="lesson-audio-note">Recorded exercise numbers and order may differ. Some answers require teacher review. Section boundaries are approximate.</p>
+</div>
+<!-- /moag-audio -->
 
 **1. A.** Combine the pairs of sentences below using -പ്പോൾ as in the model.
 

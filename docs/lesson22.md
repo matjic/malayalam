@@ -49,6 +49,15 @@
 <a id="lesson22-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Vocabulary audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 22: Vocabulary audio" src="assets/audio/moag/sections/lesson_22_vocabulary_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_22_vocabulary_0.mp3" aria-pressed="true">Listen · 06:54</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 | Malayalam | English |
 | --- | --- |
 | മത്തായി | Malayalam form of Matthew |
@@ -108,6 +117,15 @@
 <a id="lesson22-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Reading Practice audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 22: Reading Practice audio" src="assets/audio/moag/sections/lesson_22_reading_practice_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_22_reading_practice_0.mp3" aria-pressed="true">Listen · 01:27</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 <a id="lesson22-a"></a><!-- reading-anchor -->
 ### A
 
@@ -153,6 +171,15 @@ Note how the ‘about to’ form is made from these verbs.
 <a id="lesson22-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Conversation audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 22: Conversation audio" src="assets/audio/moag/sections/lesson_22_conversation_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_22_conversation_0.mp3" aria-pressed="true">Slower conversation · 02:02</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_22_conversation_1.mp3" aria-pressed="false">Normal-speed conversation · 01:29</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 **കല്യാണിയമ്മ:** മത്തായിച്ചനാണല്ലോ. അകത്ത് കയറി വരു. ചേട്ടൻ അകത്ത് കിടപ്പുണ്ട്. തങ്കമ്മ കൂടെ വന്നില്ലേ?
 
 **മത്തായി:** തങ്കമ്മ പള്ളിയിൽ പോയിരിക്കുകയാണ്. അപ്പോൾ ഞാൻ വിചാരിച്ചു പിള്ളയെ ഒന്നു വന്നു കാണാമെന്ന്.
@@ -185,6 +212,15 @@ Note how the ‘about to’ form is made from these verbs.
 
 <a id="lesson22-exercises"></a><!-- reading-anchor -->
 ## Exercises
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Exercises audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 22: Exercises audio" src="assets/audio/moag/sections/lesson_22_exercise_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_22_exercise_0.mp3" aria-pressed="true">Listen · 11:45</button></div>
+<p class="lesson-audio-note">Recorded exercise numbers and order may differ. Some answers require teacher review. Section boundaries are approximate.</p>
+</div>
+<!-- /moag-audio -->
 
 **1.** Rewrite the following sentences by replacing the underlined phrase with a noun in -കാർ plus ആണ് or ഉണ്ട് as in the model.
 

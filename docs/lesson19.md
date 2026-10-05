@@ -6,6 +6,15 @@
 <a id="lesson19-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Vocabulary audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 19: Vocabulary audio" src="assets/audio/moag/sections/lesson_19_vocabulary_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_19_vocabulary_0.mp3" aria-pressed="true">Listen · 04:02</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 | Malayalam | Meaning |
 |---|---|
 | മാനേജർ | manager |
@@ -49,6 +58,15 @@
 <a id="lesson19-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Reading Practice audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 19: Reading Practice audio" src="assets/audio/moag/sections/lesson_19_reading_practice_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_19_reading_practice_0.mp3" aria-pressed="true">Listen · 01:55</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 <a id="lesson19-a"></a><!-- reading-anchor -->
 ### A.
 
@@ -85,6 +103,15 @@ Note how the nouns referring to male and female persons may be replaced in the f
 <a id="lesson19-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Conversation audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 19: Conversation audio" src="assets/audio/moag/sections/lesson_19_conversation_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_19_conversation_0.mp3" aria-pressed="true">Slower conversation · 01:30</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_19_conversation_1.mp3" aria-pressed="false">Normal-speed conversation · 01:06</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_19_conversation_2.mp3" aria-pressed="false">Role practice 1 · 01:26</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_19_conversation_3.mp3" aria-pressed="false">Role practice 2 · 01:26</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 *മേനോൻ സാർ - മാനേജർ*  
 *രാമൻ നായർ - ക്ലാർക്ക്*  
 *തോമസ് - പ്യൂൺ*
@@ -115,6 +142,15 @@ Note how the nouns referring to male and female persons may be replaced in the f
 
 <a id="lesson19-exercises"></a><!-- reading-anchor -->
 ## Exercises
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Exercises audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 19: Exercises audio" src="assets/audio/moag/sections/lesson_19_exercise_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_19_exercise_0.mp3" aria-pressed="true">Listen · 18:18</button></div>
+<p class="lesson-audio-note">Recorded exercise numbers and order may differ. Some answers require teacher review. Section boundaries are approximate.</p>
+</div>
+<!-- /moag-audio -->
 
 **1.** Change the following to negative commands as in the model.
 

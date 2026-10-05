@@ -146,6 +146,15 @@
 <a id="lesson25-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Reading Practice audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 25: Reading Practice audio" src="assets/audio/moag/sections/lesson_25_reading_practice_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_25_reading_practice_0.mp3" aria-pressed="true">Listen · 01:34</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 Note the noun and adjective forms of colors in these sentences.*
 
 <a id="lesson25-white"></a><!-- reading-anchor -->
@@ -197,6 +206,15 @@ Note: For other colors, the English words are normally used.
 <a id="lesson25-text"></a><!-- reading-anchor -->
 ## Text
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Text audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 25: Text audio" src="assets/audio/moag/sections/lesson_25_text_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_25_text_0.mp3" aria-pressed="true">Listen · 02:38</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 മലയാളികളുടെ ജന്മദേശമായ കേരളം ഇൻഡ്യയുടെ തെക്കു പടിഞ്ഞാറെ കോണിൽ സ്ഥിതി ചെയ്യുന്നു. സഹ്യപർവ്വതത്തിനും അറബിക്കടലിനും മദ്ധ്യേ കിടക്കുന്ന ഈ ചെറിയ സംസ്ഥാനം പ്രകൃതിസുന്ദരമാണ്. നദികളും കായലുകളും അരുവികളും ഗ്രാമങ്ങളും പട്ടണങ്ങളും തെങ്ങിൻതോപ്പുകളും വനങ്ങളും നിറഞ്ഞ ഈ നാട് ആരുടേയും ഹൃദയം കവരും.
 
 ഭൂപ്രകൃതിയനുസരിച്ച് മലനാട്, ഇടനാട്, സമതലം എന്ന് മൂന്നായി കേരളത്തെ ഭാഗിക്കാം. പർവ്വതപ്രദേശമായ മലനാട്ടിൽ റബ്ബർ, തേയില, കാപ്പി, ഏലം എന്നിവ കൃഷി ചെയ്യുന്നു. ഇടനാട്ടിൽ ഇഞ്ചി, മഞ്ഞൾ, കുരുമുളക്, മരച്ചീനി മുതലായവയും, സമതലത്തിൽ തെങ്ങും നെല്ലും ആണ് പ്രധാന വിളവുകൾ. ഈ ധന്യമായ വിളവുകൾ പാശ്ചാത്യരായ കച്ചവടക്കാരെ ആകർഷിച്ചിരുന്നു.
@@ -213,6 +231,15 @@ Note: For other colors, the English words are normally used.
 
 <a id="lesson25-exercises"></a><!-- reading-anchor -->
 ## Exercises
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Exercises audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 25: Exercises audio" src="assets/audio/moag/sections/lesson_25_exercise_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_25_exercise_0.mp3" aria-pressed="true">Listen · 19:36</button></div>
+<p class="lesson-audio-note">Recorded exercise numbers and order may differ. Some answers require teacher review. Section boundaries are approximate.</p>
+</div>
+<!-- /moag-audio -->
 
 **1.** Give Malayalam responses to the questions below based on the Text of this lesson.
 

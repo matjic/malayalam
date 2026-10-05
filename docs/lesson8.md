@@ -61,6 +61,15 @@
 <a id="lesson8-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Vocabulary audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 8: Vocabulary audio" src="assets/audio/moag/sections/lesson_08_vocabulary_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_08_vocabulary_0.mp3" aria-pressed="true">Listen · 01:54</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 | Malayalam | English |
 |---|---|
 | ഏയ് | hey |
@@ -173,6 +182,15 @@
 <a id="lesson8-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Conversation audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 8: Conversation audio" src="assets/audio/moag/sections/lesson_08_conversation_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_08_conversation_0.mp3" aria-pressed="true">Slower conversation · 01:00</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_08_conversation_1.mp3" aria-pressed="false">Normal-speed conversation · 00:40</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_08_conversation_2.mp3" aria-pressed="false">Repeat with the speaker · 03:03</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 A: ഏയ്! ജെയിംസ്, തനിക്ക് രവിയെ അറിയാമോ?
 
 James: ഏത് രവിയാണ്?
@@ -199,6 +217,15 @@ A: ശരി, പിന്നെക്കാണാം.
 
 <a id="lesson8-exercises"></a><!-- reading-anchor -->
 ## Exercises
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Exercises audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 8: Exercises audio" src="assets/audio/moag/sections/lesson_08_exercise_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_08_exercise_0.mp3" aria-pressed="true">Listen · 24:03</button></div>
+<p class="lesson-audio-note">Recorded exercise numbers and order may differ. Some answers require teacher review. Section boundaries are approximate.</p>
+</div>
+<!-- /moag-audio -->
 
 **1.** Substitute the correct form of the words provided keeping the frame sentence constant.
 

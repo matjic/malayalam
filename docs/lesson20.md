@@ -40,6 +40,15 @@
 <a id="lesson20-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Vocabulary audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 20: Vocabulary audio" src="assets/audio/moag/sections/lesson_20_vocabulary_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_20_vocabulary_0.mp3" aria-pressed="true">Listen · 05:42</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 <a id="lesson20-part-i"></a><!-- reading-anchor -->
 ### Part I
 
@@ -120,6 +129,15 @@
 
 <a id="lesson20-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Reading Practice audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 20: Reading Practice audio" src="assets/audio/moag/sections/lesson_20_reading_practice_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_20_reading_practice_0.mp3" aria-pressed="true">Listen · 01:53</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
 
 <a id="lesson20-a"></a><!-- reading-anchor -->
 ### A.
@@ -204,6 +222,15 @@ Note that the following can take only -ആയ.
 
 <a id="lesson20-exercises"></a><!-- reading-anchor -->
 ## Exercises
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Exercises audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 20: Exercises audio" src="assets/audio/moag/sections/lesson_20_exercise_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_20_exercise_0.mp3" aria-pressed="true">Listen · 07:17</button></div>
+<p class="lesson-audio-note">Recorded exercise numbers and order may differ. Some answers require teacher review. Section boundaries are approximate.</p>
+</div>
+<!-- /moag-audio -->
 
 **1.** Make the first noun in each pair into an adjective describing the second noun by using -ആയ as in the Reading Practice.
 

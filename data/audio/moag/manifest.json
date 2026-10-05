@@ -1,0 +1,432 @@
+{
+  "local_source": "/Users/mathewjacob/Downloads/malayalam.zip",
+  "imported_on": "2026-10-02",
+  "identification": "Rodney Moag companion audio, confirmed by embedded artist and album metadata",
+  "tracks": [
+    {
+      "path": "lesson_01.mp3",
+      "bytes": 6858234,
+      "sha256": "66a7117b4a67033d9559dc9d5cc6c3ff6b004845f2dee5ebf126500bf916956d",
+      "duration_seconds": 856.99925,
+      "codec": "mp3",
+      "tags": {
+        "title": "Lesson 01",
+        "artist": "Rodney Moag",
+        "album": "MM-0-02 Malayalam: A University Course and Reference Grammar",
+        "TT1": "Malayalam 506 & 507",
+        "iTunNORM": " 00000820 00000000 000108A0 00000000 000CCFCB 00000000 00008C4A 00000000 000D0A78 00000000",
+        "genre": "Language Aid",
+        "encoded_by": "iTunes v4.8",
+        "date": "1985"
+      }
+    },
+    {
+      "path": "lesson_02.mp3",
+      "bytes": 13281013,
+      "sha256": "9e58c3c97ef93e34c4e9e32b0e07a3af60209d0a4d2e94da64f935ca95a73a50",
+      "duration_seconds": 1659.846625,
+      "codec": "mp3",
+      "tags": {
+        "title": "Lesson 02",
+        "artist": "Rodney Moag",
+        "album": "MM-0-02 Malayalam: A University Course and Reference Grammar",
+        "TT1": "Malayalam 506 & 507",
+        "iTunNORM": " 0000073A 00000000 0001273D 00000000 00166D87 00000000 00008D5B 00000000 000F156D 00000000",
+        "genre": "Language Aid",
+        "encoded_by": "iTunes v4.8",
+        "date": "1985"
+      }
+    },
+    {
+      "path": "lesson_03.mp3",
+      "bytes": 13914430,
+      "sha256": "d6c3998e760e7ffc4625857d89263d0d40ad02611987f88279120676494f15a9",
+      "duration_seconds": 1739.02375,
+      "codec": "mp3",
+      "tags": {
+        "title": "Lesson 03",
+        "artist": "Rodney Moag",
+        "album": "MM-0-02 Malayalam: A University Course and Reference Grammar",
+        "TT1": "Malayalam 506 & 507",
+        "iTunNORM": " 000005F5 00000000 0000A370 00000000 0004E3BC 00000000 0000894B 00000000 0005A7DB 00000000",
+        "genre": "Language Aid",
+        "encoded_by": "iTunes v4.8",
+        "date": "1985"
+      }
+    },
+    {
+      "path": "lesson_04.mp3",
+      "bytes": 12457007,
+      "sha256": "be900b7fd30b34e5c9e489a6e3ac38c2e121043fbc065046ee02f7bc62660810",
+      "duration_seconds": 1556.845875,
+      "codec": "mp3",
+      "tags": {
+        "title": "Lesson 04",
+        "artist": "Rodney Moag",
+        "album": "MM-0-02 Malayalam: A University Course and Reference Grammar",
+        "TT1": "Malayalam 506 & 507",
+        "iTunNORM": " 00000456 00000000 00007327 00000000 0005618D 00000000 00008723 00000000 000B8E92 00000000",
+        "genre": "Language Aid",
+        "encoded_by": "iTunes v4.8",
+        "date": "1985"
+      }
+    },
+    {
+      "path": "lesson_05.mp3",
+      "bytes": 11315560,
+      "sha256": "efdc12ed9b0f2f9842265ee5aa2ad1cf41f7eb17bbb6e6e58824d47e9b5e5721",
+      "duration_seconds": 1414.165,
+      "codec": "mp3",
+      "tags": {
+        "title": "Lesson 05",
+        "artist": "Rodney Moag",
+        "album": "MM-0-02 Malayalam: A University Course and Reference Grammar",
+        "TT1": "Malayalam 506 & 507",
+        "iTunNORM": " 00000643 00000000 0000BC0A 00000000 000DF458 00000000 00008C8E 00000000 0003F29C 00000000",
+        "genre": "Language Aid",
+        "encoded_by": "iTunes v4.8",
+        "date": "1985"
+      }
+    },
+    {
+      "path": "lesson_06.mp3",
+      "bytes": 14395710,
+      "sha256": "eab412c070e47e67de0206f9cf61b0e9db71ed8a9b25d65c953d0d7f0cad7055",
+      "duration_seconds": 1799.18375,
+      "codec": "mp3",
+      "tags": {
+        "title": "Lesson 06",
+        "artist": "Rodney Moag",
+        "album": "MM-0-02 Malayalam: A University Course and Reference Grammar",
+        "TT1": "Malayalam 506 & 507",
+        "iTunNORM": " 00000223 00000000 000049BD 00000000 00180FB1 00000000 00007A7B 00000000 0008F4A7 00000000",
+        "genre": "Language Aid",
+        "encoded_by": "iTunes v4.8",
+        "date": "1985"
+      }
+    },
+    {
+      "path": "lesson_07.mp3",
+      "bytes": 13536386,
+      "sha256": "3f4df69e5a84fdf48acef1ff8d7ff9ad6c554b1361207e5464a4db779751f4b1",
+      "duration_seconds": 1691.76825,
+      "codec": "mp3",
+      "tags": {
+        "title": "Lesson 07",
+        "artist": "Rodney Moag",
+        "album": "MM-0-02 Malayalam: A University Course and Reference Grammar",
+        "TT1": "Malayalam 506 & 507",
+        "iTunNORM": " 000001D9 00000000 0000247D 00000000 00003BB1 00000000 00007322 00000000 000D5282 00000000",
+        "genre": "Language Aid",
+        "encoded_by": "iTunes v4.8",
+        "date": "1985"
+      }
+    },
+    {
+      "path": "lesson_08.mp3",
+      "bytes": 13566061,
+      "sha256": "f855e64281346a1765e3854fd5394d14a192006ffb0e9aeddc25bbb97d4c50a4",
+      "duration_seconds": 1695.477625,
+      "codec": "mp3",
+      "tags": {
+        "title": "Lesson 08",
+        "artist": "Rodney Moag",
+        "album": "MM-0-02 Malayalam: A University Course and Reference Grammar",
+        "TT1": "Malayalam 506 & 507",
+        "iTunNORM": " 00000239 00000000 00002C73 00000000 0009A4E0 00000000 00008121 00000000 0007FD9C 00000000",
+        "genre": "Language Aid",
+        "encoded_by": "iTunes v4.8",
+        "date": "1985"
+      }
+    },
+    {
+      "path": "lesson_09.mp3",
+      "bytes": 15771005,
+      "sha256": "15d5bc582352a1a25ea6b3a9adcb79f406d469d8a5f8ae6c50658096457585dc",
+      "duration_seconds": 1971.095625,
+      "codec": "mp3",
+      "tags": {
+        "title": "Lesson 09",
+        "artist": "Rodney Moag",
+        "album": "MM-0-02 Malayalam: A University Course and Reference Grammar",
+        "TT1": "Malayalam 506 & 507",
+        "iTunNORM": " 000001EA 00000000 00002044 00000000 000F8D87 00000000 00006B81 00000000 00164744 00000000",
+        "genre": "Language Aid",
+        "encoded_by": "iTunes v4.8",
+        "date": "1985"
+      }
+    },
+    {
+      "path": "lesson_10.mp3",
+      "bytes": 14007635,
+      "sha256": "18ebd6383255f2d20a33172e05a2bd5e3b2106056b8d0ac732c44250e9c6f456",
+      "duration_seconds": 1750.674375,
+      "codec": "mp3",
+      "tags": {
+        "title": "Lesson 10",
+        "artist": "Rodney Moag",
+        "album": "MM-0-02 Malayalam: A University Course and Reference Grammar",
+        "TT1": "Malayalam 506 & 507",
+        "iTunNORM": " 00000207 00000000 00001EC0 00000000 0000110A 00000000 0000632C 00000000 00142678 00000000",
+        "genre": "Language Aid",
+        "encoded_by": "iTunes v4.8",
+        "date": "1985"
+      }
+    },
+    {
+      "path": "lesson_11.mp3",
+      "bytes": 8318584,
+      "sha256": "3ddb760456c6e6c294382f70f97c11fe506689c822b37c23c323911ae7e8266c",
+      "duration_seconds": 1039.543,
+      "codec": "mp3",
+      "tags": {
+        "title": "Lesson 11",
+        "artist": "Rodney Moag",
+        "album": "MM-0-02 Malayalam: A University Course and Reference Grammar",
+        "TT1": "Malayalam 506 & 507",
+        "iTunNORM": " 000001E9 00000000 000026BC 00000000 0007D6A1 00000000 00006F96 00000000 0003567D 00000000",
+        "genre": "Language Aid",
+        "encoded_by": "iTunes v4.8",
+        "date": "1985"
+      }
+    },
+    {
+      "path": "lesson_12.mp3",
+      "bytes": 10102433,
+      "sha256": "7157984c9ec83a627488f2b8319337572ebf0b0a616656db008c6d488a09a9d7",
+      "duration_seconds": 1262.524125,
+      "codec": "mp3",
+      "tags": {
+        "title": "Lesson 12",
+        "artist": "Rodney Moag",
+        "album": "MM-0-02 Malayalam: A University Course and Reference Grammar",
+        "TT1": "Malayalam 506 & 507",
+        "iTunNORM": " 000001DE 00000000 000032DC 00000000 000F0A82 00000000 000071B9 00000000 0011C71F 00000000",
+        "genre": "Language Aid",
+        "encoded_by": "iTunes v4.8",
+        "date": "1985"
+      }
+    },
+    {
+      "path": "lesson_13.mp3",
+      "bytes": 8363723,
+      "sha256": "4ac11f92764a56330d8e80cd01ea63caa72b8c80a48b9af996dc0f0db272e27d",
+      "duration_seconds": 1045.185375,
+      "codec": "mp3",
+      "tags": {
+        "title": "Lesson 13",
+        "artist": "Rodney Moag",
+        "album": "MM-0-02 Malayalam: A University Course and Reference Grammar",
+        "TT1": "Malayalam 506 & 507",
+        "iTunNORM": " 00000166 00000000 000032B6 00000000 000C47FA 00000000 000070A0 00000000 0009A45E 00000000",
+        "genre": "Language Aid",
+        "encoded_by": "iTunes v4.8",
+        "date": "1985"
+      }
+    },
+    {
+      "path": "lesson_14.mp3",
+      "bytes": 7273059,
+      "sha256": "b370ccaf6922f1346b7bee0f379809f3fbca140d01b3ca92881b2eeeeddeb81e",
+      "duration_seconds": 908.852375,
+      "codec": "mp3",
+      "tags": {
+        "title": "Lesson 14",
+        "artist": "Rodney Moag",
+        "album": "MM-0-02 Malayalam: A University Course and Reference Grammar",
+        "TT1": "Malayalam 506 & 507",
+        "iTunNORM": " 000001B9 00000000 00002465 00000000 0008A62F 00000000 00006EA2 00000000 0000F7A7 00000000",
+        "genre": "Language Aid",
+        "encoded_by": "iTunes v4.8",
+        "date": "1985"
+      }
+    },
+    {
+      "path": "lesson_15.mp3",
+      "bytes": 10337953,
+      "sha256": "2352fe74eeefedd0526adca7fd378af2e95fca4694c223c9ed1b9985b07cb80c",
+      "duration_seconds": 1291.964125,
+      "codec": "mp3",
+      "tags": {
+        "title": "Lesson 15",
+        "artist": "Rodney Moag",
+        "album": "MM-0-02 Malayalam: A University Course and Reference Grammar",
+        "TT1": "Malayalam 506 & 507",
+        "iTunNORM": " 0000037A 00000000 00003795 00000000 0009C01F 00000000 00007C72 00000000 000CBFC6 00000000",
+        "genre": "Language Aid",
+        "encoded_by": "iTunes v4.8",
+        "date": "1985"
+      }
+    },
+    {
+      "path": "lesson_16.mp3",
+      "bytes": 9373304,
+      "sha256": "1da01dfd25951b2d745677c3b35f04aaa2d61404c10cc46ba8cb6eb2bbe3c118",
+      "duration_seconds": 1171.383,
+      "codec": "mp3",
+      "tags": {
+        "title": "Lesson 16",
+        "artist": "Rodney Moag",
+        "album": "MM-0-02 Malayalam: A University Course and Reference Grammar",
+        "TT1": "Malayalam 506 & 507",
+        "iTunNORM": " 00000248 00000000 0000373F 00000000 001147E0 00000000 00007135 00000000 000FAD43 00000000",
+        "genre": "Language Aid",
+        "encoded_by": "iTunes v4.8",
+        "date": "1985"
+      }
+    },
+    {
+      "path": "lesson_17.mp3",
+      "bytes": 11541258,
+      "sha256": "eac5972c844c6c45fdef6b0bbea7ab1541ceb84fb72df8c5203e7659d00c8a97",
+      "duration_seconds": 1442.37725,
+      "codec": "mp3",
+      "tags": {
+        "title": "Lesson 17",
+        "artist": "Rodney Moag",
+        "album": "MM-0-02 Malayalam: A University Course and Reference Grammar",
+        "TT1": "Malayalam 506 & 507",
+        "iTunNORM": " 0000024B 00000000 00004B36 00000000 00086014 00000000 00006D8F 00000000 000644B1 00000000",
+        "genre": "Language Aid",
+        "encoded_by": "iTunes v4.8",
+        "date": "1985"
+      }
+    },
+    {
+      "path": "lesson_18.mp3",
+      "bytes": 7735113,
+      "sha256": "8c43cb3c69d6a18ef99a346d19522ae99b6f03e9487a8da6026b21bceaa6dae0",
+      "duration_seconds": 966.609125,
+      "codec": "mp3",
+      "tags": {
+        "title": "Lesson 18",
+        "artist": "Rodney Moag",
+        "album": "MM-0-02 Malayalam: A University Course and Reference Grammar",
+        "TT1": "Malayalam 506 & 507",
+        "iTunNORM": " 0000023E 00000000 000037D0 00000000 000BBC63 00000000 000070B5 00000000 000BE7F5 00000000",
+        "genre": "Language Aid",
+        "encoded_by": "iTunes v4.8",
+        "date": "1985"
+      }
+    },
+    {
+      "path": "lesson_19.mp3",
+      "bytes": 14341585,
+      "sha256": "18f80132bc6239da64726cf20389e3378cfa93aff04547e4c6cea945006ed775",
+      "duration_seconds": 1792.418125,
+      "codec": "mp3",
+      "tags": {
+        "title": "Lesson 19",
+        "artist": "Rodney Moag",
+        "album": "MM-0-02 Malayalam: A University Course and Reference Grammar",
+        "TT1": "Malayalam 506 & 507",
+        "iTunNORM": " 000000FE 00000000 00001115 00000000 0007EF05 00000000 0000562B 00000000 000A86B1 00000000",
+        "genre": "Language Aid",
+        "encoded_by": "iTunes v4.8",
+        "date": "1985"
+      }
+    },
+    {
+      "path": "lesson_20.mp3",
+      "bytes": 9328164,
+      "sha256": "0bf08563117114a3806984386edf4d708727d5112b34c108e23e5a00dbaf467b",
+      "duration_seconds": 1165.7405,
+      "codec": "mp3",
+      "tags": {
+        "title": "Lesson 20",
+        "artist": "Rodney Moag",
+        "album": "MM-0-02 Malayalam: A University Course and Reference Grammar",
+        "TT1": "Malayalam 506 & 507",
+        "iTunNORM": " 000000F0 00000000 00000DB0 00000000 0007F91F 00000000 00004BE9 00000000 000A17FA 00000000",
+        "genre": "Language Aid",
+        "encoded_by": "iTunes v4.8",
+        "date": "1985"
+      }
+    },
+    {
+      "path": "lesson_21.mp3",
+      "bytes": 10713908,
+      "sha256": "cbc2a05d83a9c88832e98f5b236b2c9837a214104fe7d0ccb950ca59f61d6b4f",
+      "duration_seconds": 1338.9585,
+      "codec": "mp3",
+      "tags": {
+        "title": "Lesson 21",
+        "artist": "Rodney Moag",
+        "album": "MM-0-02 Malayalam: A University Course and Reference Grammar",
+        "TT1": "Malayalam 506 & 507",
+        "iTunNORM": " 000000E9 00000000 00001246 00000000 000882AC 00000000 00004ADF 00000000 0008AC68 00000000",
+        "genre": "Language Aid",
+        "encoded_by": "iTunes v4.8",
+        "date": "1985"
+      }
+    },
+    {
+      "path": "lesson_22.mp3",
+      "bytes": 11453278,
+      "sha256": "cddc58f2a296eac549c65c77cdb8209741edb59fda0b6c5581ce1fb7e7003eff",
+      "duration_seconds": 1431.37975,
+      "codec": "mp3",
+      "tags": {
+        "title": "Lesson 22",
+        "artist": "Rodney Moag",
+        "album": "MM-0-02 Malayalam: A University Course and Reference Grammar",
+        "TT1": "Malayalam 506 & 507",
+        "iTunNORM": " 000000FD 00000000 0000314D 00000000 0008368D 00000000 00008136 00000000 00083658 00000000",
+        "genre": "Language Aid",
+        "encoded_by": "iTunes v4.8",
+        "date": "1985"
+      }
+    },
+    {
+      "path": "lesson_23.mp3",
+      "bytes": 16618626,
+      "sha256": "afcbc7de601e0b9cf3c347e69fc6142b963cbae2333c98d874bc2a8350253ad1",
+      "duration_seconds": 2077.04825,
+      "codec": "mp3",
+      "tags": {
+        "title": "Lesson 23",
+        "artist": "Rodney Moag",
+        "album": "MM-0-02 Malayalam: A University Course and Reference Grammar",
+        "TT1": "Malayalam 506 & 507",
+        "iTunNORM": " 0000024D 00000000 000022F5 00000000 000715C6 00000000 00006E48 00000000 0017A592 00000000",
+        "genre": "Language Aid",
+        "encoded_by": "iTunes v4.8",
+        "date": "1985"
+      }
+    },
+    {
+      "path": "lesson_24.mp3",
+      "bytes": 18970483,
+      "sha256": "4df4ed4cccde3be5057a6eeaf54073d8526cbbe92538b35f414d4969feb96d55",
+      "duration_seconds": 2371.030375,
+      "codec": "mp3",
+      "tags": {
+        "title": "Lesson 24",
+        "artist": "Rodney Moag",
+        "album": "MM-0-02 Malayalam: A University Course and Reference Grammar",
+        "TT1": "Malayalam 506 & 507",
+        "iTunNORM": " 0000018E 00000000 00002255 00000000 000D500F 00000000 00007681 00000000 000D4F72 00000000",
+        "genre": "Language Aid",
+        "encoded_by": "iTunes v4.8",
+        "date": "1985"
+      }
+    },
+    {
+      "path": "lesson_25.mp3",
+      "bytes": 16483626,
+      "sha256": "0c03cc36d68177f447d2c2cce5835f75ebf929f818e1de62d36f69239f2524b1",
+      "duration_seconds": 2060.17325,
+      "codec": "mp3",
+      "tags": {
+        "title": "Lesson 25",
+        "artist": "Rodney Moag",
+        "album": "MM-0-02 Malayalam: A University Course and Reference Grammar",
+        "TT1": "Malayalam 506 & 507",
+        "iTunNORM": " 00000184 00000000 00001E6F 00000000 00152234 00000000 000067C3 00000000 0014EF97 00000000",
+        "genre": "Language Aid",
+        "encoded_by": "iTunes v4.8",
+        "date": "1985"
+      }
+    }
+  ]
+}

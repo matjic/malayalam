@@ -1,0 +1,1319 @@
+{
+  "method": "Section announcements rechecked with Whisper large-v3-turbo word timestamps and independent Whisper small comparisons, with preceding pauses used where available. MP3 frames copied without re-encoding; sentence-level Malayalam alignment remains unverified.",
+  "clips": [
+    {
+      "lesson": 1,
+      "kind": "vocabulary",
+      "label": "Listen",
+      "start": 34.24,
+      "end": 304.69,
+      "path": "docs/assets/audio/moag/sections/lesson_01_vocabulary_0.mp3",
+      "sha256": "9caa013e70609cf8719e2c7523a69df44ab2373ef0ca92b20375aca5e48eb897"
+    },
+    {
+      "lesson": 1,
+      "kind": "conversation",
+      "label": "Repeat with the speaker",
+      "start": 547.37,
+      "end": 705.43,
+      "path": "docs/assets/audio/moag/sections/lesson_01_conversation_0.mp3",
+      "sha256": "f2a1c5c41652e77239a304ffea3bbae550786747350c3069fea5dc803eb57792"
+    },
+    {
+      "lesson": 1,
+      "kind": "conversation",
+      "label": "Slower conversation",
+      "start": 705.43,
+      "end": 740.05,
+      "path": "docs/assets/audio/moag/sections/lesson_01_conversation_1.mp3",
+      "sha256": "918105d0e58c184feca00402bd279371fee63f96631a54368f7061ddebc2a019"
+    },
+    {
+      "lesson": 1,
+      "kind": "conversation",
+      "label": "Normal-speed conversation",
+      "start": 740.05,
+      "end": 765.27,
+      "path": "docs/assets/audio/moag/sections/lesson_01_conversation_2.mp3",
+      "sha256": "7251a4f8c9aea790d8ebfd68adccdd8e1264128ef18f81bcb3c4e14e587ef0e2"
+    },
+    {
+      "lesson": 1,
+      "kind": "conversation",
+      "label": "Role practice 1",
+      "start": 765.27,
+      "end": 814.55,
+      "path": "docs/assets/audio/moag/sections/lesson_01_conversation_3.mp3",
+      "sha256": "a77d8b10e8ee5364fe4f044e70874b24919b20a609401662baa20aa9638a57f5"
+    },
+    {
+      "lesson": 1,
+      "kind": "conversation",
+      "label": "Role practice 2",
+      "start": 814.55,
+      "end": 857.0,
+      "path": "docs/assets/audio/moag/sections/lesson_01_conversation_4.mp3",
+      "sha256": "f89a2183b7a1c5954a1ed30f8c022f680cdbb7a428217d5afec8f03711eed219"
+    },
+    {
+      "lesson": 1,
+      "kind": "exercise",
+      "label": "Listen",
+      "start": 304.69,
+      "end": 545.49,
+      "path": "docs/assets/audio/moag/sections/lesson_01_exercise_0.mp3",
+      "sha256": "3a6fe62038b06f794d94897c22cd65e93fcd388d97af7aa75e19d2d05ad427c8"
+    },
+    {
+      "lesson": 2,
+      "kind": "conversation",
+      "label": "Repeat with the speaker",
+      "start": 1051.88,
+      "end": 1417.63,
+      "path": "docs/assets/audio/moag/sections/lesson_02_conversation_0.mp3",
+      "sha256": "f6ba2cddf2c3cfe9948f1e9af232455688dfc910331ba378aa59b880df8bd15f"
+    },
+    {
+      "lesson": 2,
+      "kind": "conversation",
+      "label": "Slower conversation",
+      "start": 1417.63,
+      "end": 1474.25,
+      "path": "docs/assets/audio/moag/sections/lesson_02_conversation_1.mp3",
+      "sha256": "4ab06251abefeb59e2d806f66507fbfbade5657e2406c8261d37d74ebb3d751a"
+    },
+    {
+      "lesson": 2,
+      "kind": "conversation",
+      "label": "Normal-speed conversation",
+      "start": 1474.25,
+      "end": 1513.29,
+      "path": "docs/assets/audio/moag/sections/lesson_02_conversation_2.mp3",
+      "sha256": "aacc5a4c945d7a4b72bbe65c26dde4bfd796c4133d53076b894fd93454e8a44c"
+    },
+    {
+      "lesson": 2,
+      "kind": "conversation",
+      "label": "Role practice",
+      "start": 1513.29,
+      "end": 1659.85,
+      "path": "docs/assets/audio/moag/sections/lesson_02_conversation_3.mp3",
+      "sha256": "c502a41f5aad4bba1509fac46750d72ec80910df89df48c16da3b12eb6f6030c"
+    },
+    {
+      "lesson": 2,
+      "kind": "exercise",
+      "label": "Listen",
+      "start": 442.83,
+      "end": 1050.32,
+      "path": "docs/assets/audio/moag/sections/lesson_02_exercise_0.mp3",
+      "sha256": "3a8bd0b83474097aa5c8abf3d66b4177fcf31d2fd3b91063f57112838c30bf4c"
+    },
+    {
+      "lesson": 3,
+      "kind": "vocabulary",
+      "label": "Listen",
+      "start": 28.71,
+      "end": 162.72,
+      "path": "docs/assets/audio/moag/sections/lesson_03_vocabulary_0.mp3",
+      "sha256": "462d9f327cad4fe7cadebb6c2cb4febfcaa584bc09be23a02c96b8627281dcc3"
+    },
+    {
+      "lesson": 3,
+      "kind": "conversation",
+      "label": "Repeat with the speaker",
+      "start": 1134.81,
+      "end": 1496.64,
+      "path": "docs/assets/audio/moag/sections/lesson_03_conversation_0.mp3",
+      "sha256": "16f81ad383c7bd19ee5ab17e5306fb39bd0692e392bb8d87e696c805d59b12ad"
+    },
+    {
+      "lesson": 3,
+      "kind": "conversation",
+      "label": "Slower conversation",
+      "start": 1500.49,
+      "end": 1559.75,
+      "path": "docs/assets/audio/moag/sections/lesson_03_conversation_1.mp3",
+      "sha256": "7329319cb67dba637c8374efd7c854e04b2f066409605dafd40e20e36db2f3d8"
+    },
+    {
+      "lesson": 3,
+      "kind": "conversation",
+      "label": "Normal-speed conversation",
+      "start": 1559.75,
+      "end": 1675.23,
+      "path": "docs/assets/audio/moag/sections/lesson_03_conversation_2.mp3",
+      "sha256": "9136922b3de9223acb94ab9a1eb32aa43ff5882a82e1f0bdec87ab2ddd98704e"
+    },
+    {
+      "lesson": 3,
+      "kind": "conversation",
+      "label": "Role practice",
+      "start": 1675.23,
+      "end": 1739.02,
+      "path": "docs/assets/audio/moag/sections/lesson_03_conversation_3.mp3",
+      "sha256": "397879afffe267498bd554db6f315e5a9beb0dbf9ea254211e8ad0920f91f954"
+    },
+    {
+      "lesson": 3,
+      "kind": "exercise",
+      "label": "Listen",
+      "start": 162.72,
+      "end": 1133.01,
+      "path": "docs/assets/audio/moag/sections/lesson_03_exercise_0.mp3",
+      "sha256": "6ece29476040e9e08e247a8934d5269828dc7e588417bf77d5103df7acc79333"
+    },
+    {
+      "lesson": 4,
+      "kind": "vocabulary",
+      "label": "Listen",
+      "start": 50.69,
+      "end": 299.39,
+      "path": "docs/assets/audio/moag/sections/lesson_04_vocabulary_0.mp3",
+      "sha256": "843e722f56d18ac8b42cdab19074819a3ee23de3547d2d56a27e3a47d609da9e"
+    },
+    {
+      "lesson": 4,
+      "kind": "conversation",
+      "label": "Repeat with the speaker",
+      "start": 854.13,
+      "end": 1315.02,
+      "path": "docs/assets/audio/moag/sections/lesson_04_conversation_0.mp3",
+      "sha256": "cc938705f29b857b9dc9993604ea7e55854491aa94ce9d3d5e1fa32fb2473bef"
+    },
+    {
+      "lesson": 4,
+      "kind": "conversation",
+      "label": "Slower conversation",
+      "start": 1318.91,
+      "end": 1369.55,
+      "path": "docs/assets/audio/moag/sections/lesson_04_conversation_1.mp3",
+      "sha256": "53980588e57d8f6839aba3e996f60c5f2ad1706122c86afd86ae7158d1e910dc"
+    },
+    {
+      "lesson": 4,
+      "kind": "conversation",
+      "label": "Normal-speed conversation",
+      "start": 1369.55,
+      "end": 1411.67,
+      "path": "docs/assets/audio/moag/sections/lesson_04_conversation_2.mp3",
+      "sha256": "0f1177e21070a322a79c263412b959e065f95a2732760260823179c37d1715aa"
+    },
+    {
+      "lesson": 4,
+      "kind": "conversation",
+      "label": "Role practice",
+      "start": 1411.67,
+      "end": 1556.85,
+      "path": "docs/assets/audio/moag/sections/lesson_04_conversation_3.mp3",
+      "sha256": "e8a2d665d3b9bc3466f843b1f06ce3b2049ad3aca6d78773c78e344d46da8840"
+    },
+    {
+      "lesson": 4,
+      "kind": "exercise",
+      "label": "Listen",
+      "start": 299.39,
+      "end": 852.65,
+      "path": "docs/assets/audio/moag/sections/lesson_04_exercise_0.mp3",
+      "sha256": "daea770cd91438c122cc389a07d8ded7d01c8d9b5d461ceb9cc1ca9498505dfe"
+    },
+    {
+      "lesson": 5,
+      "kind": "vocabulary",
+      "label": "Listen",
+      "start": 6.67,
+      "end": 116.93,
+      "path": "docs/assets/audio/moag/sections/lesson_05_vocabulary_0.mp3",
+      "sha256": "339e56cc17ee47ee300186a34a03595925ce0d5d18886b8057a4c52aa7ea6dd0"
+    },
+    {
+      "lesson": 5,
+      "kind": "reading_practice",
+      "label": "Listen",
+      "start": 116.93,
+      "end": 236.23,
+      "path": "docs/assets/audio/moag/sections/lesson_05_reading_practice_0.mp3",
+      "sha256": "6f7bb71f2d4e477e6ef01a10b1fd12a13b44b0260aa329051dac9895f01002ce"
+    },
+    {
+      "lesson": 5,
+      "kind": "conversation",
+      "label": "Repeat with the speaker",
+      "start": 864.81,
+      "end": 1215.09,
+      "path": "docs/assets/audio/moag/sections/lesson_05_conversation_0.mp3",
+      "sha256": "afbde0f4b39c0b470f208243efb105e1a4263e06c262577cc4d0df411e85efb5"
+    },
+    {
+      "lesson": 5,
+      "kind": "conversation",
+      "label": "Slower conversation",
+      "start": 1219.02,
+      "end": 1265.15,
+      "path": "docs/assets/audio/moag/sections/lesson_05_conversation_1.mp3",
+      "sha256": "acb35b0d4120da1dd5799266d1785b2d560683127a2c9fc5ec305175801a8f9c"
+    },
+    {
+      "lesson": 5,
+      "kind": "conversation",
+      "label": "Normal-speed conversation",
+      "start": 1265.15,
+      "end": 1303.36,
+      "path": "docs/assets/audio/moag/sections/lesson_05_conversation_2.mp3",
+      "sha256": "4a00f7defa3d81194ff11bf140eaf1fd20c1deb23a29610b823ff08f07206342"
+    },
+    {
+      "lesson": 5,
+      "kind": "conversation",
+      "label": "Role practice",
+      "start": 1303.36,
+      "end": 1414.16,
+      "path": "docs/assets/audio/moag/sections/lesson_05_conversation_3.mp3",
+      "sha256": "c9e6b9542b8b245c479af970335818d064bc035d0cd8cf476dababff0066e032"
+    },
+    {
+      "lesson": 5,
+      "kind": "exercise",
+      "label": "Listen",
+      "start": 236.23,
+      "end": 863.73,
+      "path": "docs/assets/audio/moag/sections/lesson_05_exercise_0.mp3",
+      "sha256": "035f6e2ec1c8856572529d5557955f0f6f82805e0c40e7780c3a3a9d43552e9b"
+    },
+    {
+      "lesson": 6,
+      "kind": "vocabulary",
+      "label": "Listen",
+      "start": 140.64,
+      "end": 344.97,
+      "path": "docs/assets/audio/moag/sections/lesson_06_vocabulary_0.mp3",
+      "sha256": "70d1c78b1e2fabddc9bbe4aa29d44312f778a954a7b8421bd7344cf86c7d71d7"
+    },
+    {
+      "lesson": 6,
+      "kind": "conversation",
+      "label": "Slower conversation",
+      "start": 1291.93,
+      "end": 1333.83,
+      "path": "docs/assets/audio/moag/sections/lesson_06_conversation_0.mp3",
+      "sha256": "cf63387d64998a0657f42221bd7eb7ecc94cb9effcd4e48e160ff7345be9942e"
+    },
+    {
+      "lesson": 6,
+      "kind": "conversation",
+      "label": "Normal-speed conversation",
+      "start": 1333.83,
+      "end": 1368.94,
+      "path": "docs/assets/audio/moag/sections/lesson_06_conversation_1.mp3",
+      "sha256": "7dddf3109c7605a1fabb25e7b29960263132b1a86424148833196abb31381bbb"
+    },
+    {
+      "lesson": 6,
+      "kind": "conversation",
+      "label": "Repeat with the speaker",
+      "start": 1368.94,
+      "end": 1712.26,
+      "path": "docs/assets/audio/moag/sections/lesson_06_conversation_2.mp3",
+      "sha256": "12977ec02988c18b6c358459131b3e2ec02d0bd2057e005b710ce935b20026ae"
+    },
+    {
+      "lesson": 6,
+      "kind": "conversation",
+      "label": "Role practice 1",
+      "start": 1712.26,
+      "end": 1755.09,
+      "path": "docs/assets/audio/moag/sections/lesson_06_conversation_3.mp3",
+      "sha256": "3a6c81c0a5e2e02ef3a901e706dca3767214b7da7a7d79d6a6a48ad7bd2c5d02"
+    },
+    {
+      "lesson": 6,
+      "kind": "conversation",
+      "label": "Role practice 2",
+      "start": 1755.09,
+      "end": 1799.18,
+      "path": "docs/assets/audio/moag/sections/lesson_06_conversation_4.mp3",
+      "sha256": "70c00a5a8865df6dbe6e6c93e5e3ace38cf4bb6a538354156565186e79bad45f"
+    },
+    {
+      "lesson": 6,
+      "kind": "exercise",
+      "label": "Listen",
+      "start": 344.97,
+      "end": 1799.18,
+      "path": "docs/assets/audio/moag/sections/lesson_06_exercise_0.mp3",
+      "sha256": "46df52bae96659b6dfefa74744f8e19e8144cd6fd9a5256aada2ddc660d29f09"
+    },
+    {
+      "lesson": 7,
+      "kind": "vocabulary",
+      "label": "Listen",
+      "start": 322.01,
+      "end": 422.62,
+      "path": "docs/assets/audio/moag/sections/lesson_07_vocabulary_0.mp3",
+      "sha256": "5fddc6bf116f599c42645b6acab4df0ed8ea06f79a7a58b72f74cd573d47ba25"
+    },
+    {
+      "lesson": 7,
+      "kind": "reading_practice",
+      "label": "Listen",
+      "start": 422.62,
+      "end": 549.95,
+      "path": "docs/assets/audio/moag/sections/lesson_07_reading_practice_0.mp3",
+      "sha256": "2324b0daba98894a158f0ab509786c2082d63c6ccf79b63fe7fb3187e6c4dbe7"
+    },
+    {
+      "lesson": 7,
+      "kind": "conversation",
+      "label": "Slower conversation",
+      "start": 1293.33,
+      "end": 1336.17,
+      "path": "docs/assets/audio/moag/sections/lesson_07_conversation_0.mp3",
+      "sha256": "9246524c8c8fc0bbf91fd2b109e7024dd9728c8a7d8501d0d5ff78b148046b85"
+    },
+    {
+      "lesson": 7,
+      "kind": "conversation",
+      "label": "Normal-speed conversation",
+      "start": 1336.17,
+      "end": 1365.21,
+      "path": "docs/assets/audio/moag/sections/lesson_07_conversation_1.mp3",
+      "sha256": "66411ad1fd6b4b2165e28baefd4075513c09fede49dd331bbd1ef81f7b5868b2"
+    },
+    {
+      "lesson": 7,
+      "kind": "conversation",
+      "label": "Repeat with the speaker",
+      "start": 1365.21,
+      "end": 1609.47,
+      "path": "docs/assets/audio/moag/sections/lesson_07_conversation_2.mp3",
+      "sha256": "20696218d5bc5509dd6583ff22f3e2a05e65a4c888fb01188764fa5d46a3034a"
+    },
+    {
+      "lesson": 7,
+      "kind": "conversation",
+      "label": "Role practice 1",
+      "start": 1609.47,
+      "end": 1650.25,
+      "path": "docs/assets/audio/moag/sections/lesson_07_conversation_3.mp3",
+      "sha256": "fdd08e7bc8ff2ba84442986cfaaec20961fbc6c187bac9fea3a57783465be1a6"
+    },
+    {
+      "lesson": 7,
+      "kind": "conversation",
+      "label": "Role practice 2",
+      "start": 1650.25,
+      "end": 1691.77,
+      "path": "docs/assets/audio/moag/sections/lesson_07_conversation_4.mp3",
+      "sha256": "95563a688fd7599343965922c46be146ee3ac3507d948a5d33a5594b5f340aa0"
+    },
+    {
+      "lesson": 7,
+      "kind": "exercise",
+      "label": "Listen",
+      "start": 549.95,
+      "end": 1691.77,
+      "path": "docs/assets/audio/moag/sections/lesson_07_exercise_0.mp3",
+      "sha256": "1f0be0b0e6361fa1955118c397aa04afe1a8cbdc41979c5e3480fc37928bc455"
+    },
+    {
+      "lesson": 8,
+      "kind": "vocabulary",
+      "label": "Listen",
+      "start": 137.83,
+      "end": 251.95,
+      "path": "docs/assets/audio/moag/sections/lesson_08_vocabulary_0.mp3",
+      "sha256": "dac376f3dd66e477fa61248bdf3b21c50c8cfcd6fbd137293fc599ef849f2945"
+    },
+    {
+      "lesson": 8,
+      "kind": "conversation",
+      "label": "Slower conversation",
+      "start": 1411.26,
+      "end": 1471.63,
+      "path": "docs/assets/audio/moag/sections/lesson_08_conversation_0.mp3",
+      "sha256": "1ef175454c4eb77a9695d23b5342f4cbc870ac8e4f776298d40cb639f4182410"
+    },
+    {
+      "lesson": 8,
+      "kind": "conversation",
+      "label": "Normal-speed conversation",
+      "start": 1471.63,
+      "end": 1511.87,
+      "path": "docs/assets/audio/moag/sections/lesson_08_conversation_1.mp3",
+      "sha256": "cadef57cbd55cc51b77a2e0e5aad2ef4dda3d0ea983cbcce517c23b4232c02fb"
+    },
+    {
+      "lesson": 8,
+      "kind": "conversation",
+      "label": "Repeat with the speaker",
+      "start": 1511.87,
+      "end": 1695.48,
+      "path": "docs/assets/audio/moag/sections/lesson_08_conversation_2.mp3",
+      "sha256": "13abe8e8794fbf06abc095acee9105584069784782705f60269430f256edfdf3"
+    },
+    {
+      "lesson": 8,
+      "kind": "exercise",
+      "label": "Listen",
+      "start": 251.95,
+      "end": 1695.48,
+      "path": "docs/assets/audio/moag/sections/lesson_08_exercise_0.mp3",
+      "sha256": "fc7846c585e75e5725bc752fefdaff30ae7b9ca9c5eb2a241342686cad2f7b46"
+    },
+    {
+      "lesson": 9,
+      "kind": "vocabulary",
+      "label": "Listen",
+      "start": 115.19,
+      "end": 228.18,
+      "path": "docs/assets/audio/moag/sections/lesson_09_vocabulary_0.mp3",
+      "sha256": "865204d50126ddfac8aa00fbd35231477481d7f8449a0fbda9148950554f9ac6"
+    },
+    {
+      "lesson": 9,
+      "kind": "reading_practice",
+      "label": "Listen",
+      "start": 228.18,
+      "end": 475.46,
+      "path": "docs/assets/audio/moag/sections/lesson_09_reading_practice_0.mp3",
+      "sha256": "483f907276460f270fe1ff93538a8f00628297ccd2f8828cac26693db570f437"
+    },
+    {
+      "lesson": 9,
+      "kind": "conversation",
+      "label": "Slower conversation",
+      "start": 1460.67,
+      "end": 1520.69,
+      "path": "docs/assets/audio/moag/sections/lesson_09_conversation_0.mp3",
+      "sha256": "d0241f0dc7783c6ae1b6273165a27ba5a7233a8a40f04cb165bb198e6c2d1335"
+    },
+    {
+      "lesson": 9,
+      "kind": "conversation",
+      "label": "Normal-speed conversation",
+      "start": 1520.69,
+      "end": 1563.79,
+      "path": "docs/assets/audio/moag/sections/lesson_09_conversation_1.mp3",
+      "sha256": "0370ea1e982995463479410dc14cefcaee1e186968a2370bda1fdd1b946b1761"
+    },
+    {
+      "lesson": 9,
+      "kind": "conversation",
+      "label": "Repeat with the speaker",
+      "start": 1563.79,
+      "end": 1867.45,
+      "path": "docs/assets/audio/moag/sections/lesson_09_conversation_2.mp3",
+      "sha256": "53ca09eb8b220f53f6692b826a46de7ac706e368bf854e0ece33da8e3999e89a"
+    },
+    {
+      "lesson": 9,
+      "kind": "conversation",
+      "label": "Role practice 1",
+      "start": 1867.45,
+      "end": 1913.39,
+      "path": "docs/assets/audio/moag/sections/lesson_09_conversation_3.mp3",
+      "sha256": "c9f1ef741c2c4840e47f614aae7f0b62abf87590bd5f42743e28d651bef47ce5"
+    },
+    {
+      "lesson": 9,
+      "kind": "conversation",
+      "label": "Role practice 2",
+      "start": 1913.39,
+      "end": 1971.1,
+      "path": "docs/assets/audio/moag/sections/lesson_09_conversation_4.mp3",
+      "sha256": "8b5dcd0bd0ce45f87313cb30760f635d4fbba515b9f6431910a3c374de43609b"
+    },
+    {
+      "lesson": 9,
+      "kind": "exercise",
+      "label": "Listen",
+      "start": 475.46,
+      "end": 1457.59,
+      "path": "docs/assets/audio/moag/sections/lesson_09_exercise_0.mp3",
+      "sha256": "6144e0935ab1806d4d14cb7fd7125998bc8007e24602c8cf9ad6b40003811c5f"
+    },
+    {
+      "lesson": 10,
+      "kind": "vocabulary",
+      "label": "Listen",
+      "start": 0.04,
+      "end": 144.01,
+      "path": "docs/assets/audio/moag/sections/lesson_10_vocabulary_0.mp3",
+      "sha256": "90e6b32964c3f34b702ca2438ba91471fe883bef8ac48d880736d54429f8472d"
+    },
+    {
+      "lesson": 10,
+      "kind": "reading_practice",
+      "label": "Listen",
+      "start": 144.01,
+      "end": 345.91,
+      "path": "docs/assets/audio/moag/sections/lesson_10_reading_practice_0.mp3",
+      "sha256": "91bfbada15373796824a4a4716f1588d3aef28954b60b5c54f97f410a8f29a06"
+    },
+    {
+      "lesson": 10,
+      "kind": "text",
+      "label": "Listen",
+      "start": 345.91,
+      "end": 700.95,
+      "path": "docs/assets/audio/moag/sections/lesson_10_text_0.mp3",
+      "sha256": "9e5e59e12cc6d2b55f1d895257159ac710f19473dbb4f495d6ff9be38da60973"
+    },
+    {
+      "lesson": 10,
+      "kind": "exercise",
+      "label": "Listen",
+      "start": 700.95,
+      "end": 1750.67,
+      "path": "docs/assets/audio/moag/sections/lesson_10_exercise_0.mp3",
+      "sha256": "d68510e779f98a40d5ed092101e95e8860e245d693d61b1922df34557295ca36"
+    },
+    {
+      "lesson": 11,
+      "kind": "vocabulary",
+      "label": "Listen",
+      "start": 99.39,
+      "end": 285.28,
+      "path": "docs/assets/audio/moag/sections/lesson_11_vocabulary_0.mp3",
+      "sha256": "40300121571293467f729f821e56c3fda7fcd27bb6dd9ce7d34d2e59c2833097"
+    },
+    {
+      "lesson": 11,
+      "kind": "reading_practice",
+      "label": "Listen",
+      "start": 285.28,
+      "end": 411.2,
+      "path": "docs/assets/audio/moag/sections/lesson_11_reading_practice_0.mp3",
+      "sha256": "b74c372b4dde35ace5b9891f659070b456dd1699612306dce17c92940790ed63"
+    },
+    {
+      "lesson": 11,
+      "kind": "conversation",
+      "label": "Slower conversation",
+      "start": 413.07,
+      "end": 472.23,
+      "path": "docs/assets/audio/moag/sections/lesson_11_conversation_0.mp3",
+      "sha256": "62ee039bdb9bfd4d58dd9e6f63fa98f8b82fd1aacbc84b4ecdd82059ce293913"
+    },
+    {
+      "lesson": 11,
+      "kind": "conversation",
+      "label": "Normal-speed conversation",
+      "start": 472.23,
+      "end": 519.62,
+      "path": "docs/assets/audio/moag/sections/lesson_11_conversation_1.mp3",
+      "sha256": "b2785f15969fbf870daa4f2f4d4c1bf1e72f09a9e47ebce8701bef466d357b67"
+    },
+    {
+      "lesson": 11,
+      "kind": "conversation",
+      "label": "Role practice 1",
+      "start": 519.62,
+      "end": 597.54,
+      "path": "docs/assets/audio/moag/sections/lesson_11_conversation_2.mp3",
+      "sha256": "d4c279d62cdd5b3648dd80ea0e33e1c18a712109ed11defc3ad2846f2ccee509"
+    },
+    {
+      "lesson": 11,
+      "kind": "conversation",
+      "label": "Role practice 2",
+      "start": 597.54,
+      "end": 661.66,
+      "path": "docs/assets/audio/moag/sections/lesson_11_conversation_3.mp3",
+      "sha256": "930058ac29fe951f2a6e8da698c73cc6eb4a749f471141108bc3938271b7f4bd"
+    },
+    {
+      "lesson": 11,
+      "kind": "exercise",
+      "label": "Listen",
+      "start": 661.66,
+      "end": 1039.54,
+      "path": "docs/assets/audio/moag/sections/lesson_11_exercise_0.mp3",
+      "sha256": "193069985e5008e825adf8a8f432aa27ba75b51724071779b664fbc9f07e534b"
+    },
+    {
+      "lesson": 12,
+      "kind": "vocabulary",
+      "label": "Listen",
+      "start": 216.19,
+      "end": 851.7,
+      "path": "docs/assets/audio/moag/sections/lesson_12_vocabulary_0.mp3",
+      "sha256": "24d4f5297e64b8baa9d96437d7ddd180ada66304d187e350644611a136c555ac"
+    },
+    {
+      "lesson": 12,
+      "kind": "conversation",
+      "label": "Normal-speed conversation",
+      "start": 554.48,
+      "end": 671.82,
+      "path": "docs/assets/audio/moag/sections/lesson_12_conversation_0.mp3",
+      "sha256": "d714be9010d2138915ce4215d2ad8daee55aca3a5b79f15b4d101a2a090ebd25"
+    },
+    {
+      "lesson": 12,
+      "kind": "conversation",
+      "label": "Role practice",
+      "start": 671.82,
+      "end": 851.7,
+      "path": "docs/assets/audio/moag/sections/lesson_12_conversation_1.mp3",
+      "sha256": "482c66af4c36b88a088298f1045c43a5ca0744a0af23601ecd99d1d08ed12738"
+    },
+    {
+      "lesson": 12,
+      "kind": "exercise",
+      "label": "Listen",
+      "start": 851.7,
+      "end": 1262.52,
+      "path": "docs/assets/audio/moag/sections/lesson_12_exercise_0.mp3",
+      "sha256": "c9f9d20ffbcf1390ca1670ed66a8215eeb8eeced2496ccf0252ec2eb776a893b"
+    },
+    {
+      "lesson": 13,
+      "kind": "vocabulary",
+      "label": "Listen",
+      "start": 3.09,
+      "end": 241.05,
+      "path": "docs/assets/audio/moag/sections/lesson_13_vocabulary_0.mp3",
+      "sha256": "20710ae3eafc0ea6e5978da03ebd09170389721454c95e534189aee5396782e6"
+    },
+    {
+      "lesson": 13,
+      "kind": "reading_practice",
+      "label": "Listen",
+      "start": 241.05,
+      "end": 391.51,
+      "path": "docs/assets/audio/moag/sections/lesson_13_reading_practice_0.mp3",
+      "sha256": "b9be489206f2a93218c7641cdd08efb6cd5f4a4df427f6eb8eee7ca422d3b9e6"
+    },
+    {
+      "lesson": 13,
+      "kind": "conversation",
+      "label": "Slower conversation",
+      "start": 396.05,
+      "end": 482.64,
+      "path": "docs/assets/audio/moag/sections/lesson_13_conversation_0.mp3",
+      "sha256": "65f11e9090c707c270bc5f08ef44b81a078397a74cb67bcc3bb4fdafdd6373c2"
+    },
+    {
+      "lesson": 13,
+      "kind": "conversation",
+      "label": "Normal-speed conversation",
+      "start": 482.64,
+      "end": 548.76,
+      "path": "docs/assets/audio/moag/sections/lesson_13_conversation_1.mp3",
+      "sha256": "22540782c065e27f7ee64acec11c61f5fca01d5b01838318ae0f79bc581f03d6"
+    },
+    {
+      "lesson": 13,
+      "kind": "conversation",
+      "label": "Role practice 1",
+      "start": 548.76,
+      "end": 623.0,
+      "path": "docs/assets/audio/moag/sections/lesson_13_conversation_2.mp3",
+      "sha256": "1e3ae5af0a5bb26d7bf45c24fce8250be6c9d586f036f8e267bed4207724b202"
+    },
+    {
+      "lesson": 13,
+      "kind": "conversation",
+      "label": "Role practice 2",
+      "start": 623.0,
+      "end": 713.07,
+      "path": "docs/assets/audio/moag/sections/lesson_13_conversation_3.mp3",
+      "sha256": "da61a32f2f3ac5d77064ff604b2e6b73f3c86b9a4a1dbfde27c7cdf16961fc11"
+    },
+    {
+      "lesson": 13,
+      "kind": "exercise",
+      "label": "Listen",
+      "start": 713.07,
+      "end": 1045.19,
+      "path": "docs/assets/audio/moag/sections/lesson_13_exercise_0.mp3",
+      "sha256": "61a7ee316dd1e225e85c1770cfbe9c0e85f7f215267e7e599ddb74879636c31f"
+    },
+    {
+      "lesson": 14,
+      "kind": "vocabulary",
+      "label": "Listen",
+      "start": 165.65,
+      "end": 423.9,
+      "path": "docs/assets/audio/moag/sections/lesson_14_vocabulary_0.mp3",
+      "sha256": "b2cb5582c4a78b000808250a5f9ef77baf641eaf551da2a11764756dd63118c7"
+    },
+    {
+      "lesson": 14,
+      "kind": "conversation",
+      "label": "Slower conversation",
+      "start": 429.28,
+      "end": 492.85,
+      "path": "docs/assets/audio/moag/sections/lesson_14_conversation_0.mp3",
+      "sha256": "be25cffc82951a69809d9ce0df3e603ffa410e76533ffe651d7a89e424e05f63"
+    },
+    {
+      "lesson": 14,
+      "kind": "conversation",
+      "label": "Normal-speed conversation",
+      "start": 492.85,
+      "end": 540.25,
+      "path": "docs/assets/audio/moag/sections/lesson_14_conversation_1.mp3",
+      "sha256": "13aa2ea00c0837f4de0f3d47113b3d132414f67b3f6d159bc7aec52fd41bfb78"
+    },
+    {
+      "lesson": 14,
+      "kind": "exercise",
+      "label": "Listen",
+      "start": 540.25,
+      "end": 908.85,
+      "path": "docs/assets/audio/moag/sections/lesson_14_exercise_0.mp3",
+      "sha256": "a0c237fb9ea751727d625b980582b591f482f027db2fda34b5d6ea2a8c7c6781"
+    },
+    {
+      "lesson": 15,
+      "kind": "vocabulary",
+      "label": "Listen",
+      "start": 45.46,
+      "end": 273.47,
+      "path": "docs/assets/audio/moag/sections/lesson_15_vocabulary_0.mp3",
+      "sha256": "9411aa5fadffd1694849b0ac9beee62e85688bdaa0dcef700cd190f18b1ef400"
+    },
+    {
+      "lesson": 15,
+      "kind": "reading_practice",
+      "label": "Listen",
+      "start": 273.47,
+      "end": 403.13,
+      "path": "docs/assets/audio/moag/sections/lesson_15_reading_practice_0.mp3",
+      "sha256": "2c78447d13c81d3c02c6abd19b9bb45e2f912d46610af13c99b42ecd762d9227"
+    },
+    {
+      "lesson": 15,
+      "kind": "conversation",
+      "label": "Slower conversation",
+      "start": 408.77,
+      "end": 487.86,
+      "path": "docs/assets/audio/moag/sections/lesson_15_conversation_0.mp3",
+      "sha256": "640a99c08017f7b875e16f98f71691fdab2fd9285838b8c021eb14dbb2c670b0"
+    },
+    {
+      "lesson": 15,
+      "kind": "conversation",
+      "label": "Normal-speed conversation",
+      "start": 487.86,
+      "end": 621.05,
+      "path": "docs/assets/audio/moag/sections/lesson_15_conversation_1.mp3",
+      "sha256": "07fce778fa21d35305e5c4318da0eeeb3e53fdd98fa0534cef1557d159d86c83"
+    },
+    {
+      "lesson": 15,
+      "kind": "conversation",
+      "label": "Role practice",
+      "start": 621.05,
+      "end": 691.57,
+      "path": "docs/assets/audio/moag/sections/lesson_15_conversation_2.mp3",
+      "sha256": "05aebad2a5a6ce9cd737ff897a4181053c7c885a25cfc280ded79cbdd995754d"
+    },
+    {
+      "lesson": 15,
+      "kind": "exercise",
+      "label": "Listen",
+      "start": 691.57,
+      "end": 1291.96,
+      "path": "docs/assets/audio/moag/sections/lesson_15_exercise_0.mp3",
+      "sha256": "7037f1bc09aacb8f09a042a8f8f06f11e8fd2ea0a3c107a4e4553e0627f06168"
+    },
+    {
+      "lesson": 16,
+      "kind": "vocabulary",
+      "label": "Listen",
+      "start": 2.45,
+      "end": 221.85,
+      "path": "docs/assets/audio/moag/sections/lesson_16_vocabulary_0.mp3",
+      "sha256": "767a6ad85bf88fa7994563e89bd38ad735e69f46cf594a1671122bc3774eaa19"
+    },
+    {
+      "lesson": 16,
+      "kind": "reading_practice",
+      "label": "Listen",
+      "start": 221.85,
+      "end": 335.78,
+      "path": "docs/assets/audio/moag/sections/lesson_16_reading_practice_0.mp3",
+      "sha256": "b5a494c05267aefc97c3716140746c768783559b55d9a69b47f8c844d1a2afb5"
+    },
+    {
+      "lesson": 16,
+      "kind": "text",
+      "label": "Listen",
+      "start": 335.78,
+      "end": 687.48,
+      "path": "docs/assets/audio/moag/sections/lesson_16_text_0.mp3",
+      "sha256": "1bed8aefc1e0b91d3e6da1f4295ee6bbf17aff25fd88372dbbfdfb161965fdc0"
+    },
+    {
+      "lesson": 16,
+      "kind": "exercise",
+      "label": "Listen",
+      "start": 687.48,
+      "end": 1171.38,
+      "path": "docs/assets/audio/moag/sections/lesson_16_exercise_0.mp3",
+      "sha256": "d1747f6448a2de1479059ad149d4502617d9bc7de917b882cd293178543a0158"
+    },
+    {
+      "lesson": 17,
+      "kind": "vocabulary",
+      "label": "Listen",
+      "start": 2.81,
+      "end": 210.02,
+      "path": "docs/assets/audio/moag/sections/lesson_17_vocabulary_0.mp3",
+      "sha256": "3de1b0db2fb1e454006ee2276421d3d3b9afd4510312a3e6f69dec508acc06bb"
+    },
+    {
+      "lesson": 17,
+      "kind": "reading_practice",
+      "label": "Listen",
+      "start": 210.02,
+      "end": 301.71,
+      "path": "docs/assets/audio/moag/sections/lesson_17_reading_practice_0.mp3",
+      "sha256": "439a8889b9464cefc9fc8700439e1bccc2190818bb97c34b8a80844222dfc16f"
+    },
+    {
+      "lesson": 17,
+      "kind": "conversation",
+      "label": "Slower conversation 1",
+      "start": 305.45,
+      "end": 362.53,
+      "path": "docs/assets/audio/moag/sections/lesson_17_conversation_0.mp3",
+      "sha256": "77186456d5b2ea2e12024d17602089d39d15f01ddcd92f996f19d2879c8ead80"
+    },
+    {
+      "lesson": 17,
+      "kind": "conversation",
+      "label": "Normal-speed conversation 1",
+      "start": 362.53,
+      "end": 408.69,
+      "path": "docs/assets/audio/moag/sections/lesson_17_conversation_1.mp3",
+      "sha256": "1ccdfdd8d1cd09a8aa7e71d4ad401772eb3a6219f7b844dcf0a03a7615943c10"
+    },
+    {
+      "lesson": 17,
+      "kind": "conversation",
+      "label": "Role practice 1",
+      "start": 408.69,
+      "end": 461.45,
+      "path": "docs/assets/audio/moag/sections/lesson_17_conversation_2.mp3",
+      "sha256": "ef727b6b56fcaff049be92c6048cd5c6ae8bc87d6bf83163cf704ccd0560cda0"
+    },
+    {
+      "lesson": 17,
+      "kind": "conversation",
+      "label": "Role practice 2",
+      "start": 461.45,
+      "end": 511.05,
+      "path": "docs/assets/audio/moag/sections/lesson_17_conversation_3.mp3",
+      "sha256": "797eb918d86085060ea2a8fcac35775b87a2d055022fda03da6d430870c2a7ef"
+    },
+    {
+      "lesson": 17,
+      "kind": "conversation",
+      "label": "Slower conversation 2",
+      "start": 515.9,
+      "end": 568.9,
+      "path": "docs/assets/audio/moag/sections/lesson_17_conversation_4.mp3",
+      "sha256": "07e1b444b1cb7b9c24568f74e51f9c3022bbb6380c399cedab0dd5db4ede8cab"
+    },
+    {
+      "lesson": 17,
+      "kind": "conversation",
+      "label": "Normal-speed conversation 2",
+      "start": 568.9,
+      "end": 608.3,
+      "path": "docs/assets/audio/moag/sections/lesson_17_conversation_5.mp3",
+      "sha256": "f2f66f8127caeea7c060db63253e2926f23126d0201019f2b4cca07983f6babd"
+    },
+    {
+      "lesson": 17,
+      "kind": "conversation",
+      "label": "Role practice 3",
+      "start": 608.3,
+      "end": 655.09,
+      "path": "docs/assets/audio/moag/sections/lesson_17_conversation_6.mp3",
+      "sha256": "1b4671202c5401f8a77735d87f345ad85db5fd580fcc3229a708a0c032113982"
+    },
+    {
+      "lesson": 17,
+      "kind": "conversation",
+      "label": "Role practice 4",
+      "start": 655.09,
+      "end": 704.35,
+      "path": "docs/assets/audio/moag/sections/lesson_17_conversation_7.mp3",
+      "sha256": "332e61e2c7a444ff1af55c058ee254b113fffa8df2c54a173b4074832aa656e5"
+    },
+    {
+      "lesson": 17,
+      "kind": "exercise",
+      "label": "Listen",
+      "start": 704.35,
+      "end": 1442.38,
+      "path": "docs/assets/audio/moag/sections/lesson_17_exercise_0.mp3",
+      "sha256": "d241bcfae809d811541341ee575c985ccbf8d26406f8478d5f10400fc1bda7f7"
+    },
+    {
+      "lesson": 18,
+      "kind": "vocabulary",
+      "label": "Listen",
+      "start": 1.9,
+      "end": 170.88,
+      "path": "docs/assets/audio/moag/sections/lesson_18_vocabulary_0.mp3",
+      "sha256": "b40620dbd14ec943f63c39b6fd0773ab5d85ecdf029a7716a550842489972911"
+    },
+    {
+      "lesson": 18,
+      "kind": "reading_practice",
+      "label": "Listen",
+      "start": 170.88,
+      "end": 261.91,
+      "path": "docs/assets/audio/moag/sections/lesson_18_reading_practice_0.mp3",
+      "sha256": "28dc67c27cd1c013c5bff7ba44a94fdd117b8b54799dd07c54751c9b19e20aaa"
+    },
+    {
+      "lesson": 18,
+      "kind": "conversation",
+      "label": "Slower conversation",
+      "start": 265.24,
+      "end": 320.46,
+      "path": "docs/assets/audio/moag/sections/lesson_18_conversation_0.mp3",
+      "sha256": "14918f8ef7db6ce56feb4eae2157b6d011a7c2a21e86e8b08d2bfa82a8c02db6"
+    },
+    {
+      "lesson": 18,
+      "kind": "conversation",
+      "label": "Normal-speed conversation",
+      "start": 320.46,
+      "end": 419.63,
+      "path": "docs/assets/audio/moag/sections/lesson_18_conversation_1.mp3",
+      "sha256": "e5f2c8e15bdb228ff004ecde3ff6332d2687a15b8cd79c3b1d4a4b59b2337338"
+    },
+    {
+      "lesson": 18,
+      "kind": "conversation",
+      "label": "Role practice",
+      "start": 419.63,
+      "end": 470.48,
+      "path": "docs/assets/audio/moag/sections/lesson_18_conversation_2.mp3",
+      "sha256": "50bcbfb5b23ba901d012f6685b08869dbff8ab5357352e03b04ee1515b163395"
+    },
+    {
+      "lesson": 18,
+      "kind": "exercise",
+      "label": "Listen",
+      "start": 470.48,
+      "end": 966.61,
+      "path": "docs/assets/audio/moag/sections/lesson_18_exercise_0.mp3",
+      "sha256": "9f1507445aecf93fc91480c5568223a80ecd3a9e6b4d33146e17d2a40597539f"
+    },
+    {
+      "lesson": 19,
+      "kind": "vocabulary",
+      "label": "Listen",
+      "start": 2.05,
+      "end": 244.89,
+      "path": "docs/assets/audio/moag/sections/lesson_19_vocabulary_0.mp3",
+      "sha256": "2740a840fb00ff9cae2e4fa865c166c0563d3ce732aeaef8f07c8e27f3f54130"
+    },
+    {
+      "lesson": 19,
+      "kind": "reading_practice",
+      "label": "Listen",
+      "start": 244.89,
+      "end": 359.93,
+      "path": "docs/assets/audio/moag/sections/lesson_19_reading_practice_0.mp3",
+      "sha256": "7538d30ec6a3e282ff0a091b4bcf0e6917897c97514ef55fa9619225486fc7f8"
+    },
+    {
+      "lesson": 19,
+      "kind": "conversation",
+      "label": "Slower conversation",
+      "start": 363.97,
+      "end": 454.27,
+      "path": "docs/assets/audio/moag/sections/lesson_19_conversation_0.mp3",
+      "sha256": "4ef32ec6d481e9915c52f90e39928bc847db7f8c264d674b30d9792b813c9236"
+    },
+    {
+      "lesson": 19,
+      "kind": "conversation",
+      "label": "Normal-speed conversation",
+      "start": 454.27,
+      "end": 520.99,
+      "path": "docs/assets/audio/moag/sections/lesson_19_conversation_1.mp3",
+      "sha256": "e9993a8182a6ce8862d815c229e94457d79ad5ce0fd5c0eeecdbc8032f67715d"
+    },
+    {
+      "lesson": 19,
+      "kind": "conversation",
+      "label": "Role practice 1",
+      "start": 520.99,
+      "end": 607.13,
+      "path": "docs/assets/audio/moag/sections/lesson_19_conversation_2.mp3",
+      "sha256": "3dd7532cef6a9265c60ea51c209b702af5530475c88e106062b25663770146b6"
+    },
+    {
+      "lesson": 19,
+      "kind": "conversation",
+      "label": "Role practice 2",
+      "start": 607.13,
+      "end": 693.83,
+      "path": "docs/assets/audio/moag/sections/lesson_19_conversation_3.mp3",
+      "sha256": "71e7f036902b0f113089101f3b8d66d6f755fa85f5210a5e4aa588411383168c"
+    },
+    {
+      "lesson": 19,
+      "kind": "exercise",
+      "label": "Listen",
+      "start": 693.83,
+      "end": 1792.42,
+      "path": "docs/assets/audio/moag/sections/lesson_19_exercise_0.mp3",
+      "sha256": "c8a7696edcf74214d446a2374a905359cba94b06b0c4cf1d9c7d805723d4a467"
+    },
+    {
+      "lesson": 20,
+      "kind": "vocabulary",
+      "label": "Listen",
+      "start": 94.48,
+      "end": 436.83,
+      "path": "docs/assets/audio/moag/sections/lesson_20_vocabulary_0.mp3",
+      "sha256": "3592be0a6fceda993201dfa8ad31eb0071fd8bdf9709b2377559d17d102ba3e1"
+    },
+    {
+      "lesson": 20,
+      "kind": "reading_practice",
+      "label": "Listen",
+      "start": 436.83,
+      "end": 550.09,
+      "path": "docs/assets/audio/moag/sections/lesson_20_reading_practice_0.mp3",
+      "sha256": "b4e02bea6dcdc69368a6e292e8b24777ade54c5aaed4ab8023556b9a96b98530"
+    },
+    {
+      "lesson": 20,
+      "kind": "exercise",
+      "label": "Listen",
+      "start": 727.91,
+      "end": 1165.74,
+      "path": "docs/assets/audio/moag/sections/lesson_20_exercise_0.mp3",
+      "sha256": "1857a91ecb9b29eafbcb5ff08abc72fcc1ef899ac69fa40aba9d2bbd043b78de"
+    },
+    {
+      "lesson": 21,
+      "kind": "conversation",
+      "label": "Slower conversation",
+      "start": 474.27,
+      "end": 591.36,
+      "path": "docs/assets/audio/moag/sections/lesson_21_conversation_0.mp3",
+      "sha256": "5c207a0dcde2022c5f35457967d9727529fd421e6635d7f647e863cbe5b56b70"
+    },
+    {
+      "lesson": 21,
+      "kind": "conversation",
+      "label": "Normal-speed conversation",
+      "start": 591.36,
+      "end": 680.65,
+      "path": "docs/assets/audio/moag/sections/lesson_21_conversation_1.mp3",
+      "sha256": "0f08c51d7f7e88d676bef612b529aecbf6bfcd8bfe4e919a006cd49b524ef0b6"
+    },
+    {
+      "lesson": 21,
+      "kind": "conversation",
+      "label": "Role practice 1",
+      "start": 680.65,
+      "end": 786.55,
+      "path": "docs/assets/audio/moag/sections/lesson_21_conversation_2.mp3",
+      "sha256": "01d8058e1b2ef220058692a56ea281242e00bf1b5bb586c836f46cca333f373b"
+    },
+    {
+      "lesson": 21,
+      "kind": "conversation",
+      "label": "Role practice 2",
+      "start": 786.55,
+      "end": 896.59,
+      "path": "docs/assets/audio/moag/sections/lesson_21_conversation_3.mp3",
+      "sha256": "81cc2530e7981b8364830f3ff6a3a57e6418148daf3ecf461f652bb658c6df92"
+    },
+    {
+      "lesson": 21,
+      "kind": "exercise",
+      "label": "Listen",
+      "start": 896.59,
+      "end": 1338.96,
+      "path": "docs/assets/audio/moag/sections/lesson_21_exercise_0.mp3",
+      "sha256": "8e4a47fb969bfc6a8b4050fb0f93dbe482afcb8d73e97fbd04cefeaad2ce7f2f"
+    },
+    {
+      "lesson": 22,
+      "kind": "vocabulary",
+      "label": "Listen",
+      "start": 8.01,
+      "end": 422.78,
+      "path": "docs/assets/audio/moag/sections/lesson_22_vocabulary_0.mp3",
+      "sha256": "813650976364b8ae86e8590f7b768cff60d233109e746ecba4be1f41d79a17a7"
+    },
+    {
+      "lesson": 22,
+      "kind": "reading_practice",
+      "label": "Listen",
+      "start": 422.78,
+      "end": 510.66,
+      "path": "docs/assets/audio/moag/sections/lesson_22_reading_practice_0.mp3",
+      "sha256": "d7ffebcb730bb205ceed4d57fd36c076df1f792c3e107240294b6db26e2b8654"
+    },
+    {
+      "lesson": 22,
+      "kind": "conversation",
+      "label": "Slower conversation",
+      "start": 513.49,
+      "end": 635.91,
+      "path": "docs/assets/audio/moag/sections/lesson_22_conversation_0.mp3",
+      "sha256": "b46ecbf942a9ff960eaf77fe789f34b61bfe3c3575b87876c2e94492d7a94f5c"
+    },
+    {
+      "lesson": 22,
+      "kind": "conversation",
+      "label": "Normal-speed conversation",
+      "start": 635.91,
+      "end": 725.74,
+      "path": "docs/assets/audio/moag/sections/lesson_22_conversation_1.mp3",
+      "sha256": "b0c3ab97f5c0b87043cb833b8eb5c98663c182187d2c654e1b21bbbc0dde724b"
+    },
+    {
+      "lesson": 22,
+      "kind": "exercise",
+      "label": "Listen",
+      "start": 725.74,
+      "end": 1431.38,
+      "path": "docs/assets/audio/moag/sections/lesson_22_exercise_0.mp3",
+      "sha256": "3622aea0cf1a4a7a554bcac49d2858f54dd16c23c67e4a95cc14c02555a2ca32"
+    },
+    {
+      "lesson": 23,
+      "kind": "vocabulary",
+      "label": "Listen",
+      "start": 196.17,
+      "end": 511.64,
+      "path": "docs/assets/audio/moag/sections/lesson_23_vocabulary_0.mp3",
+      "sha256": "7b6fadbe21ec9325fef756c691fa691572f785b02cb4a35522f744b263eb9b3b"
+    },
+    {
+      "lesson": 23,
+      "kind": "reading_practice",
+      "label": "Listen",
+      "start": 511.64,
+      "end": 1375.97,
+      "path": "docs/assets/audio/moag/sections/lesson_23_reading_practice_0.mp3",
+      "sha256": "e7643f71940652bf12d984262ebbb77d3bb35d93be0e02d399301b8b6508a120"
+    },
+    {
+      "lesson": 23,
+      "kind": "conversation",
+      "label": "Slower conversation",
+      "start": 1015.23,
+      "end": 1218.61,
+      "path": "docs/assets/audio/moag/sections/lesson_23_conversation_0.mp3",
+      "sha256": "8df53dda55d348dacbe77e8f606b1772b5c8cfc8c236629540160c7e8f1f01e2"
+    },
+    {
+      "lesson": 23,
+      "kind": "conversation",
+      "label": "Normal-speed conversation",
+      "start": 1218.61,
+      "end": 1375.97,
+      "path": "docs/assets/audio/moag/sections/lesson_23_conversation_1.mp3",
+      "sha256": "8af3abbf051607d561af09358caf5150afade9bb9f9a2e7a169a638f4b744fac"
+    },
+    {
+      "lesson": 23,
+      "kind": "exercise",
+      "label": "Listen",
+      "start": 1375.97,
+      "end": 2077.05,
+      "path": "docs/assets/audio/moag/sections/lesson_23_exercise_0.mp3",
+      "sha256": "3900916ff067359966a7fcaa67eb0048042ce393f5eb4ab60f2c7a22bb9d4cc3"
+    },
+    {
+      "lesson": 24,
+      "kind": "vocabulary",
+      "label": "Listen",
+      "start": 228.75,
+      "end": 732.75,
+      "path": "docs/assets/audio/moag/sections/lesson_24_vocabulary_0.mp3",
+      "sha256": "6a4ab68fe9a4d985cd99fab1c8fda7ea50e687d6341e72b54923b1444a3a2009"
+    },
+    {
+      "lesson": 24,
+      "kind": "reading_practice",
+      "label": "Listen",
+      "start": 732.75,
+      "end": 943.99,
+      "path": "docs/assets/audio/moag/sections/lesson_24_reading_practice_0.mp3",
+      "sha256": "cf54c2a1f69182be6ae7570eddba5da2572c355d6e82b4562da805b96321470f"
+    },
+    {
+      "lesson": 24,
+      "kind": "conversation",
+      "label": "Slower conversation",
+      "start": 1067.67,
+      "end": 1179.9,
+      "path": "docs/assets/audio/moag/sections/lesson_24_conversation_0.mp3",
+      "sha256": "509804dd0ac3d80bb92066a66127a52bb7cba7e224ca7bc2250eb9c03af8e843"
+    },
+    {
+      "lesson": 24,
+      "kind": "conversation",
+      "label": "Normal-speed conversation",
+      "start": 1179.9,
+      "end": 1266.75,
+      "path": "docs/assets/audio/moag/sections/lesson_24_conversation_1.mp3",
+      "sha256": "2d8c84309941e3d3c7e71a091cc441ee541aa675692b54521f7d03ed4cabe25c"
+    },
+    {
+      "lesson": 24,
+      "kind": "text",
+      "label": "Listen",
+      "start": 943.99,
+      "end": 1266.75,
+      "path": "docs/assets/audio/moag/sections/lesson_24_text_0.mp3",
+      "sha256": "ac9a917ada7afe7c0d75e704e4d130407f97fc97234fb7df714a4e2d39d2c07a"
+    },
+    {
+      "lesson": 24,
+      "kind": "exercise",
+      "label": "Listen",
+      "start": 1266.75,
+      "end": 2371.03,
+      "path": "docs/assets/audio/moag/sections/lesson_24_exercise_0.mp3",
+      "sha256": "28be97a18516a3c8e15ac20452e5fd4fe9eb0ec149a5cb4e2b4a9b364ad6a2ad"
+    },
+    {
+      "lesson": 25,
+      "kind": "reading_practice",
+      "label": "Listen",
+      "start": 631.36,
+      "end": 725.77,
+      "path": "docs/assets/audio/moag/sections/lesson_25_reading_practice_0.mp3",
+      "sha256": "1e3eb9f267f6377121886f0ac9c3f008cfd52b924943d4f6f334681c8cef36bf"
+    },
+    {
+      "lesson": 25,
+      "kind": "text",
+      "label": "Listen",
+      "start": 725.77,
+      "end": 883.96,
+      "path": "docs/assets/audio/moag/sections/lesson_25_text_0.mp3",
+      "sha256": "10842f3115dc2d142708aa9b8f63599f2a01e2e29ca86dcb7bd27750bcba88fb"
+    },
+    {
+      "lesson": 25,
+      "kind": "exercise",
+      "label": "Listen",
+      "start": 883.96,
+      "end": 2060.17,
+      "path": "docs/assets/audio/moag/sections/lesson_25_exercise_0.mp3",
+      "sha256": "98512adec643fc8dbb6b7acb02a04047a1fe6763aaa7f6d7cc34f2b47671de03"
+    }
+  ]
+}

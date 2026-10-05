@@ -8,6 +8,15 @@
 <a id="lesson10-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Vocabulary audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 10: Vocabulary audio" src="assets/audio/moag/sections/lesson_10_vocabulary_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_10_vocabulary_0.mp3" aria-pressed="true">Listen · 02:23</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 | Malayalam | English |
 |---|---|
 | കേരളം | Kerala |
@@ -53,6 +62,15 @@
 
 <a id="lesson10-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Reading Practice audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 10: Reading Practice audio" src="assets/audio/moag/sections/lesson_10_reading_practice_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_10_reading_practice_0.mp3" aria-pressed="true">Listen · 03:21</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
 
 <a id="lesson10-a-note-how-the-locative-forms-pattern-in-the-sentences-below"></a><!-- reading-anchor -->
 ### A. Note how the locative forms pattern in the sentences below.
@@ -115,6 +133,15 @@
 <a id="lesson10-text"></a><!-- reading-anchor -->
 ## Text
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Text audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 10: Text audio" src="assets/audio/moag/sections/lesson_10_text_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_10_text_0.mp3" aria-pressed="true">Listen · 05:55</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 കേരളം ഇൻഡ്യയുടെ തെക്കുഭാഗത്താണ്. ഇത് ഒരു ചെറിയ സ്റ്റേറ്റ് ആകുന്നു. പക്ഷേ, അവിടെ ധാരാളം ആളുകൾ താമസിക്കുന്നു. കേരളത്തിന് പടിഞ്ഞാറു വശത്ത് അറബിക്കടലും കിഴക്കുവശത്ത് സഹ്യപർവ്വതവും സ്ഥിതിചെയ്യുന്നു. കേരളത്തിൽ പതിനാല് ജില്ലകളുണ്ട്. തിരുവനന്തപുരം, കൊല്ലം, കോട്ടയം, ഇടുക്കി, പത്തനംതിട്ട, ആലപ്പുഴ, എറണാകുളം, തൃശ്ശൂർ, പാലക്കാട്, കോഴിക്കോട്, വയനാട്, മലപ്പുറം, കണ്ണൂർ, കാസർഗോഡ് എന്നിവയാണ് ജില്ലകൾ. എല്ലാ ജില്ലകൾക്കും തലസ്ഥാനമുണ്ട്. വയനാടും ഇടുക്കിയും ഒഴികെ ബാക്കി ജില്ലകളിൽ തലസ്ഥാനപ്പട്ടണത്തിന്റെ പേരും ജില്ലയുടെ പേരും ഒരുപോലെയാണ്. കേരളത്തിൽ മൂന്നു വലിയ പട്ടണങ്ങൾ ഉണ്ട്. അവ തിരുവനന്തപുരം, കൊച്ചി, കോഴിക്കോട് എന്നിവയാണ്. തിരുവനന്തപുരമാണ് സ്റ്റേറ്റിന്റെ തലസ്ഥാനം. കൊച്ചി ഒരു തുറമുഖമാണ്. അത് കേരളത്തിന്റെ മദ്ധ്യ ഭാഗത്താണ്. കോഴിക്കോടും
 
 <!-- Source: PDF page 198; printed page 144. -->
@@ -123,6 +150,15 @@
 
 <a id="lesson10-exercises"></a><!-- reading-anchor -->
 ## Exercises
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Exercises audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 10: Exercises audio" src="assets/audio/moag/sections/lesson_10_exercise_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_10_exercise_0.mp3" aria-pressed="true">Listen · 17:29</button></div>
+<p class="lesson-audio-note">Recorded exercise numbers and order may differ. Some answers require teacher review. Section boundaries are approximate.</p>
+</div>
+<!-- /moag-audio -->
 
 **1.** Provide the proper locative forms in the frame sentence below as in the model.
 

@@ -1,5 +1,7 @@
 {
     "scripts": {
+        "docs:audio": "python3 scripts/integrate-moag-audio.py",
+        "docs:check-audio": "python3 scripts/integrate-moag-audio.py --check",
         "dev": "docsify serve ./docs",
         "docs:sidebar": "python3 scripts/generate-sidebar.py",
         "docs:check-sidebar": "python3 scripts/generate-sidebar.py --check",

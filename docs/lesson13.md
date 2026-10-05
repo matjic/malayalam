@@ -6,6 +6,15 @@
 <a id="lesson13-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Vocabulary audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 13: Vocabulary audio" src="assets/audio/moag/sections/lesson_13_vocabulary_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_13_vocabulary_0.mp3" aria-pressed="true">Listen · 03:57</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 | Malayalam | Meaning |
 |---|---|
 | നേരത്തെ | before, previously, early |
@@ -40,6 +49,15 @@
 
 <a id="lesson13-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Reading Practice audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 13: Reading Practice audio" src="assets/audio/moag/sections/lesson_13_reading_practice_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_13_reading_practice_0.mp3" aria-pressed="true">Listen · 02:30</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
 
 <a id="lesson13-a-note-how--u0d1fu0d1f-combines-with-the-following-verbs"></a><!-- reading-anchor -->
 ### A. Note how -ിട്ട് combines with the following verbs.
@@ -79,6 +97,15 @@
 <a id="lesson13-conversation"></a><!-- reading-anchor -->
 ## Conversation
 
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Conversation audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 13: Conversation audio" src="assets/audio/moag/sections/lesson_13_conversation_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_13_conversation_0.mp3" aria-pressed="true">Slower conversation · 01:26</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_13_conversation_1.mp3" aria-pressed="false">Normal-speed conversation · 01:06</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_13_conversation_2.mp3" aria-pressed="false">Role practice 1 · 01:14</button><button type="button" data-audio-src="assets/audio/moag/sections/lesson_13_conversation_3.mp3" aria-pressed="false">Role practice 2 · 01:30</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
 മാധവൻ: മേനോൻ സാറിനെ ഒന്ന് കാണണം.  
 ക്ലാർക്ക്: സാറിനെ കാണാൻ നിങ്ങൾ നേരത്തെ അനുവാദം വാങ്ങിച്ചിട്ടുണ്ടോ?  
 മാധവൻ: ഇല്ല. പക്ഷേ ഒരു അത്യാവശ്യ കാര്യത്തിന് സാറിനെ കാണാനാണ് ഞാൻ വന്നത്.  
@@ -95,6 +122,15 @@
 
 <a id="lesson13-exercises"></a><!-- reading-anchor -->
 ## Exercises
+
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Exercises audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 13: Exercises audio" src="assets/audio/moag/sections/lesson_13_exercise_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_13_exercise_0.mp3" aria-pressed="true">Listen · 05:32</button></div>
+<p class="lesson-audio-note">Recorded exercise numbers and order may differ. Some answers require teacher review. Section boundaries are approximate.</p>
+</div>
+<!-- /moag-audio -->
 
 **1.** A. Repeat after the teacher, counting by tens from ten to one hundred.
 

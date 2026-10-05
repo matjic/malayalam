@@ -1,0 +1,9 @@
+# Moag companion audio
+
+Imported from the user-provided `/Users/mathewjacob/Downloads/malayalam.zip` on 2026-10-02. Embedded MP3 tags identify Rodney Moag and the album *Malayalam: A University Course and Reference Grammar* (1985).
+
+Contains `lesson_01.mp3` through `lesson_25.mp3`, approximately 625 minutes (10 hours 25 minutes). Original filenames retained. macOS metadata files were excluded. ZIP entries passed CRC checking during extraction; all 25 MP3 files were readable by `ffprobe`. A full-file automatic recognition scan has now compared English section announcements and task descriptions with the current lessons; exact Malayalam text alignment remains unverified. See the [recording audit and provisional cue map](AUDIO-AUDIT.md).
+
+`manifest.json` records track checksums, sizes, durations, codecs, and embedded metadata. Original ZIP remains in Downloads. Reuse license not verified.
+
+Lessons 1–25 in `docs/` embed section clips in `docs/assets/audio/moag/sections/`. Players stop at the clip end; conversation buttons select separate slower, normal-speed, or role practice clips where cues were recovered. Boundaries were rechecked with local Whisper large-v3-turbo word timestamps, independent Whisper small comparisons, and nearby pauses; they remain machine-aligned rather than fluently reviewed. [section-boundaries.json](section-boundaries.json) records the recheck evidence. MP3 frames are copied without re-encoding. The original tracks remain here. `docs/assets/audio/moag/sections.json` records every clip range and checksum. Run `python3 scripts/integrate-moag-audio.py` to refresh generated audio blocks and clips from `audit.json` and `section-boundaries.json`, or pass `--check` to validate the integration and checksums. The script preserves all lesson content outside its labeled audio blocks.
