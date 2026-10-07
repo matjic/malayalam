@@ -4,7 +4,28 @@
 }
 body { font-family: 'Noto Sans Malayalam', sans-serif; line-height: 1.5; }
 img { max-width: 100%; height: auto; }
-table { border-collapse: collapse; width: 100%; font-size: 0.85em; }
+table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.85em;
+  /* Long tables may continue between rows. */
+  page-break-inside: auto;
+  break-inside: auto;
+}
+tbody { page-break-inside: auto; break-inside: auto; }
+tr {
+  /* Cover both paged readers and readers that paginate with columns. */
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+thead {
+  display: table-header-group;
+  page-break-inside: avoid;
+  break-inside: avoid;
+  page-break-after: avoid;
+  break-after: avoid;
+}
+tfoot { display: table-footer-group; }
 th, td { padding: 0.3em; border: 1px solid #888; vertical-align: top; }
 h1, h2, h3 { page-break-after: avoid; }
 a { overflow-wrap: break-word; }
