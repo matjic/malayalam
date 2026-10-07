@@ -10,6 +10,7 @@
         ? 'https://creativecommons.org/licenses/by-sa/4.0/'
         : 'https://github.com/matjic/malayalam/blob/main/LICENSE.md';
       footer.innerHTML = 'An open-source digital edition · ' +
+        '<a href="malayalam.epub" download data-ignore>Download EPUB</a> · ' +
         '<a href="https://github.com/matjic/malayalam">Source on GitHub</a> · ' +
         '<a href="' + license + '">' + (supplement ? 'Supplement license' : 'License') + '</a>';
       section.append(footer);

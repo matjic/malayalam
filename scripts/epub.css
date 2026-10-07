@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Noto Sans Malayalam';
+  src: url('../fonts/sJoi3K5XjsSdcnzn071rL37lpAOsUThnDZIfPdbeSNzVakglNM-Qw8EaeB8Nss-_RuDNG1bFn6E.woff2');
+}
+body { font-family: 'Noto Sans Malayalam', sans-serif; line-height: 1.5; }
+img { max-width: 100%; height: auto; }
+table { border-collapse: collapse; width: 100%; font-size: 0.85em; }
+th, td { padding: 0.3em; border: 1px solid #888; vertical-align: top; }
+h1, h2, h3 { page-break-after: avoid; }
+a { overflow-wrap: break-word; }

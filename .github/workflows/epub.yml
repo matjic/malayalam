@@ -1,0 +1,77 @@
+name: Build EPUB and deploy site
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'docs/**'
+      - 'scripts/build-epub.py'
+      - 'scripts/reading_order.py'
+      - 'scripts/epub.css'
+      - '.github/workflows/epub.yml'
+  pull_request:
+    paths:
+      - 'docs/**'
+      - 'scripts/build-epub.py'
+      - 'scripts/reading_order.py'
+      - 'scripts/epub.css'
+      - '.github/workflows/epub.yml'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  epub:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Pandoc and EPUBCheck
+        run: |
+          sudo apt-get update
+          sudo apt-get install --no-install-recommends -y pandoc default-jre-headless unzip
+          curl -fL https://github.com/w3c/epubcheck/releases/download/v5.3.0/epubcheck-5.3.0.zip -o "$RUNNER_TEMP/epubcheck.zip"
+          unzip -q "$RUNNER_TEMP/epubcheck.zip" -d "$RUNNER_TEMP"
+      - name: Build EPUB from docs
+        run: python3 scripts/build-epub.py
+      - name: Validate EPUB
+        run: java -jar "$RUNNER_TEMP/epubcheck-5.3.0/epubcheck.jar" dist/malayalam.epub
+      - uses: actions/upload-artifact@v4
+        with:
+          name: malayalam-epub
+          path: dist/malayalam.epub
+          if-no-files-found: error
+
+      - name: Assemble site with EPUB download
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+        run: |
+          mkdir -p dist/site
+          cp -a docs/. dist/site/
+          cp dist/malayalam.epub dist/site/malayalam.epub
+      - name: Configure GitHub Pages
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+        uses: actions/configure-pages@v5
+      - name: Upload site
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist/site
+
+  deploy:
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    needs: epub
+    runs-on: ubuntu-24.04
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy site
+        id: deployment
+        uses: actions/deploy-pages@v4

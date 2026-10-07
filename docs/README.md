@@ -1,5 +1,9 @@
 # Malayalam: A University Course
 
+<!-- epub-download -->
+<a href="https://ml.matj.io/malayalam.epub" download data-ignore>Download the EPUB</a> for offline reading. Recordings remain online links.
+<!-- /epub-download -->
+
 A proofread transcription of *Malayalam: A University Course and Reference Grammar* by Rodney F. Moag, fourth edition, from `Moag-Malayalam-CompleteTextbook.pdf`.
 
 The transcription covers all 557 PDF pages: opening material, 25 lessons, seven minilessons, six appendices, the glossary and the index. Source-page comments connect the text to the PDF. The writing diagrams have been redrawn as editable, scalable symbols; original photographs are retained as images.

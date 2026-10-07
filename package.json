@@ -1,5 +1,6 @@
 {
     "scripts": {
+        "docs:epub": "python3 scripts/build-epub.py",
         "docs:audio": "python3 scripts/integrate-moag-audio.py",
         "docs:check-audio": "python3 scripts/integrate-moag-audio.py --check",
         "dev": "docsify serve ./docs",

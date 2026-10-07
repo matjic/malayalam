@@ -26,3 +26,31 @@ Diagrams show numbers and arrows with a thin line weight and responsive card siz
 `--writing-background`, `--writing-stroke-width`, and `--writing-card-size`.
 The Docsify plugin inlines the SVGs to inherit styling; standalone images remain
 the fallback. The original table URLs now assemble the same redrawn models.
+
+Build an EPUB from `docs/` with `bun run docs:epub` (requires Python 3 and
+Pandoc 3). The result is `dist/malayalam.epub`; pass `--output PATH` directly to
+`python3 scripts/build-epub.py` to choose another destination.
+The **Build EPUB and deploy site** GitHub Action runs on docs/exporter changes
+and can also be started manually. It validates the book with EPUBCheck and uploads
+the `malayalam-epub` artifact. On `main`, it also deploys `docs/` and the generated
+book together to GitHub Pages, making the EPUB available at
+`https://ml.matj.io/malayalam.epub` through the homepage and footer download links.
+Pull requests build and validate without deploying.
+
+For the initial switch from branch publishing, set **Settings → Pages → Build and
+deployment → Source** to **GitHub Actions** after merging this workflow. Keep the
+existing custom domain `ml.matj.io`. The EPUB is generated during deployment and
+does not need to be committed. It becomes available after the first successful
+deployment. Local `bun run dev` previews do not include the generated download;
+to serve it locally, build the EPUB, assemble `dist/site` as the workflow does,
+and run `python3 -m http.server --directory dist/site`.
+
+EPUB adaptations happen in a temporary copy; the website's Markdown is unchanged.
+The export includes the textbook in reading order, Practice Lessons A–C, the
+edition/practice guides, contents, and proofreading review. Chapter and section
+links, photographs, SVG writing diagrams, source credits, and reuse terms are
+retained. Audio players and all clip-selection buttons become online recording
+links (internet required); expandable answers become always-visible text.
+Docsify search, navigation controls, and JavaScript are replaced by the reader's
+own controls. A Malayalam font is embedded, but font support and wide-table
+layout vary between readers. No companion audio files are bundled.
