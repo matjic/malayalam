@@ -20,6 +20,9 @@ def heading_slug(title):
 
 def prepare(path, chapters):
     text = path.read_text(encoding='utf-8')
+    if path.name == 'contents.md':
+        # Keep the chapter list; section anchors remain in the chapters themselves.
+        text = re.sub(r'^## Sections\n.*', '', text, flags=re.M | re.S)
     text = re.sub(r'<!-- epub-download -->.*?<!-- /epub-download -->', '', text, flags=re.S)
     # Give Pandoc the existing section IDs so it can rewrite cross-chapter links.
     text = re.sub(
