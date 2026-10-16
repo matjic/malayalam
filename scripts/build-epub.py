@@ -24,6 +24,20 @@ def prepare(path, chapters):
         # Keep the chapter list; section anchors remain in the chapters themselves.
         text = re.sub(r'^## Sections\n.*', '', text, flags=re.M | re.S)
     text = re.sub(r'<!-- epub-download -->.*?<!-- /epub-download -->', '', text, flags=re.S)
+    # Raw browser links can contain boolean attributes invalid in EPUB XHTML.
+    # Let Pandoc serialize anchors, and keep non-book resources as online links.
+    def web_link(match):
+        attributes, label = match[1], match[2]
+        target = re.search(r'href=["\']([^"\']+)["\']', attributes)
+        if not target:
+            return match[0]
+        href = html.unescape(target[1])
+        if not re.match(r'(?:[a-zA-Z][\w+.-]*:|#|/)', href):
+            if not re.match(r'[\w-]+\.md(?:#|$)', href):
+                href = 'https://ml.matj.io/' + href
+        return '[' + html.unescape(re.sub(r'<[^>]+>', '', label)) + '](' + href + ')'
+
+    text = re.sub(r'<a\b([^>]*)>(.*?)</a>', web_link, text, flags=re.S)
     # Give Pandoc the existing section IDs so it can rewrite cross-chapter links.
     text = re.sub(
         r'<a id="([^"]+)"></a><!-- reading-anchor -->\n(#{1,6} [^\n]+)',
@@ -35,7 +49,7 @@ def prepare(path, chapters):
     # Pandoc's EPUB writer also assigns IDs to headings without explicit IDs.
     text = re.sub(r'^(#{1,6} [^\n]+)$',
                   lambda m: m[0] if re.search(r'\{#[^}]+\}$', m[0]) else
-                  f'{m[0]} {{#{path.stem}-{heading_slug(m[0].split(' ', 1)[1])}}}', text, flags=re.M)
+                  f'{m[0]} {{#{path.stem}-{heading_slug(m[0].split(" ", 1)[1])}}}', text, flags=re.M)
     # Raw HTML void tags must be well-formed XHTML in EPUB.
     text = re.sub(r'<br\s*/?>', '<br />', text)
 
@@ -66,6 +80,17 @@ def prepare(path, chapters):
 
     text = re.sub(r'<div class="lesson-audio">.*?</div>\s*</div>', audio_links, text, flags=re.S)
     text = re.sub(r'<audio\b.*?</audio>', audio_links, text, flags=re.S)
+    # Word/letter table controls are not inside the section-player blocks.
+    def table_audio(match):
+        attributes = match[1]
+        source = re.search(r'data-row-audio-src="([^"]+)"', attributes)
+        if not source:
+            return match[0]
+        label = re.search(r'data-audio-label="([^"]+)"', attributes)
+        title = html.unescape(label[1]) if label else 'Recording'
+        return '[' + title + '](' + AUDIO_BASE + html.unescape(source[1]) + ')'
+
+    text = re.sub(r'<button\b([^>]*)>.*?</button>', table_audio, text, flags=re.S)
     text = re.sub(r'</?details[^>]*>', '', text)
     text = re.sub(r'<summary>(.*?)</summary>', r'\n\n**\1**\n\n', text)
     # Use ordinary images: ebook readers do not run the SVG-inlining plugin.

@@ -7,6 +7,7 @@ on:
     paths:
       - 'docs/**'
       - 'scripts/build-epub.py'
+      - 'scripts/test_epub_export.py'
       - 'scripts/reading_order.py'
       - 'scripts/epub.css'
       - '.github/workflows/epub.yml'
@@ -14,6 +15,7 @@ on:
     paths:
       - 'docs/**'
       - 'scripts/build-epub.py'
+      - 'scripts/test_epub_export.py'
       - 'scripts/reading_order.py'
       - 'scripts/epub.css'
       - '.github/workflows/epub.yml'
@@ -36,6 +38,8 @@ jobs:
           sudo apt-get install --no-install-recommends -y pandoc default-jre-headless unzip
           curl -fL https://github.com/w3c/epubcheck/releases/download/v5.3.0/epubcheck-5.3.0.zip -o "$RUNNER_TEMP/epubcheck.zip"
           unzip -q "$RUNNER_TEMP/epubcheck.zip" -d "$RUNNER_TEMP"
+      - name: Check EPUB link and audio conversions
+        run: python3 scripts/test_epub_export.py
       - name: Build EPUB from docs
         run: python3 scripts/build-epub.py
       - name: Validate EPUB
