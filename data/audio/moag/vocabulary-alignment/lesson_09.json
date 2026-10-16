@@ -1,0 +1,940 @@
+{
+  "pipeline_version": 6,
+  "lesson": 9,
+  "source": "data/audio/moag/lesson_09.mp3",
+  "model": "Whisper large-v3 (32 encoder and 32 decoder layers), MLX",
+  "range_start": 122.99,
+  "range_end": 228.18,
+  "method": "Acoustic cepstrum comparison pairs repeated utterances independently of textbook order; large-v3 word end timestamps matched to pauses, then global spelling assignment against printed vocabulary (order is only a weak tie-breaker). Low-confidence labels require review. Raw recognizer text retained.",
+  "words": [
+    {
+      "utterances": [
+        {
+          "start": 123.6922,
+          "end": 124.2969
+        },
+        {
+          "start": 125.2761,
+          "end": 125.9249
+        }
+      ],
+      "raw_texts": [
+        "നല്ല്ല്",
+        "നല്ല്ല്"
+      ],
+      "english_segments": [
+        {
+          "start": 122.99,
+          "end": 135.99,
+          "text": " nalla nalla arude arude arude arude arude arude arude arude arude arude arude arude arude"
+        }
+      ],
+      "transcript": "നല്ല",
+      "meaning": "good",
+      "textbook_row": 0,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_09_word_001"
+    },
+    {
+      "utterances": [
+        {
+          "start": 126.9164,
+          "end": 127.6311
+        },
+        {
+          "start": 128.5796,
+          "end": 129.2868
+        }
+      ],
+      "raw_texts": [
+        "ആരുഡേ",
+        "ആരുഡേ"
+      ],
+      "english_segments": [
+        {
+          "start": 122.99,
+          "end": 135.99,
+          "text": " nalla nalla arude arude arude arude arude arude arude arude arude arude arude arude arude"
+        }
+      ],
+      "transcript": "ആരുടെ",
+      "meaning": "whose (adjective)",
+      "textbook_row": 1,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_09_word_002"
+    },
+    {
+      "utterances": [
+        {
+          "start": 129.9323,
+          "end": 130.9805
+        },
+        {
+          "start": 131.9132,
+          "end": 132.6829
+        }
+      ],
+      "raw_texts": [
+        "ആരുഡേദ്",
+        "ആരുഡേദ്"
+      ],
+      "english_segments": [
+        {
+          "start": 122.99,
+          "end": 135.99,
+          "text": " nalla nalla arude arude arude arude arude arude arude arude arude arude arude arude arude"
+        }
+      ],
+      "transcript": "ആരുടേത്",
+      "meaning": "whose (pronoun)",
+      "textbook_row": 2,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_09_word_003"
+    },
+    {
+      "utterances": [
+        {
+          "start": 133.6094,
+          "end": 134.5795
+        },
+        {
+          "start": 135.4515,
+          "end": 136.3982
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 122.99,
+          "end": 135.99,
+          "text": " nalla nalla arude arude arude arude arude arude arude arude arude arude arude arude arude"
+        },
+        {
+          "start": 135.99,
+          "end": 142.99,
+          "text": " arude arude arude arude arude arude arude arude arude arude arude arude arude arude arude"
+        }
+      ],
+      "transcript": "ചേച്ചിയുടേത്",
+      "meaning": "sister's (one)",
+      "textbook_row": 3,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_09_word_004"
+    },
+    {
+      "utterances": [
+        {
+          "start": 138.802,
+          "end": 139.9023
+        },
+        {
+          "start": 140.7849,
+          "end": 141.8199
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 135.99,
+          "end": 142.99,
+          "text": " arude arude arude arude arude arude arude arude arude arude arude arude arude arude arude"
+        }
+      ],
+      "transcript": "നന്നായിരിക്കുന്നു",
+      "meaning": "it is very nice",
+      "textbook_row": 4,
+      "similarity": 0.109,
+      "status": "review",
+      "id": "lesson_09_word_005"
+    },
+    {
+      "utterances": [
+        {
+          "start": 142.9142,
+          "end": 143.5387
+        }
+      ],
+      "raw_texts": [
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 142.99,
+          "end": 148.83,
+          "text": " Pudhia Pudhia da Pudhia da"
+        }
+      ],
+      "transcript": "പുതിയ",
+      "meaning": "new",
+      "textbook_row": 5,
+      "similarity": 0.38,
+      "status": "review",
+      "id": "lesson_09_word_006"
+    },
+    {
+      "utterances": [
+        {
+          "start": 145.1543,
+          "end": 145.8988
+        },
+        {
+          "start": 146.9705,
+          "end": 147.6866
+        }
+      ],
+      "raw_texts": [
+        "ചേച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച",
+        "പുദ്യദ്"
+      ],
+      "english_segments": [
+        {
+          "start": 142.99,
+          "end": 148.83,
+          "text": " Pudhia Pudhia da Pudhia da"
+        }
+      ],
+      "transcript": "പുതിയത്",
+      "meaning": "the new one",
+      "textbook_row": 6,
+      "similarity": 0.909,
+      "status": "matched",
+      "id": "lesson_09_word_007"
+    },
+    {
+      "utterances": [
+        {
+          "start": 148.7403,
+          "end": 149.3976
+        },
+        {
+          "start": 150.666,
+          "end": 151.3575
+        }
+      ],
+      "raw_texts": [
+        "പള്യാം",
+        "പള്യാം"
+      ],
+      "english_segments": [
+        {
+          "start": 148.83,
+          "end": 155.53,
+          "text": " Pajaiya Pajaiya Pajaiya da Pajaiya da"
+        }
+      ],
+      "transcript": "പഴയ",
+      "meaning": "old",
+      "textbook_row": 7,
+      "similarity": 0.75,
+      "status": "matched",
+      "id": "lesson_09_word_008"
+    },
+    {
+      "utterances": [
+        {
+          "start": 152.2834,
+          "end": 153.0049
+        },
+        {
+          "start": 153.8691,
+          "end": 154.5916
+        }
+      ],
+      "raw_texts": [
+        "പള്യാദ്",
+        "പള്യാദ്"
+      ],
+      "english_segments": [
+        {
+          "start": 148.83,
+          "end": 155.53,
+          "text": " Pajaiya Pajaiya Pajaiya da Pajaiya da"
+        }
+      ],
+      "transcript": "പഴയത്",
+      "meaning": "old one",
+      "textbook_row": 8,
+      "similarity": 0.889,
+      "status": "matched",
+      "id": "lesson_09_word_009"
+    },
+    {
+      "utterances": [
+        {
+          "start": 155.4437,
+          "end": 156.1765
+        },
+        {
+          "start": 157.1371,
+          "end": 157.8504
+        }
+      ],
+      "raw_texts": [
+        "കോല്ലാം",
+        "കോല്ലാം"
+      ],
+      "english_segments": [
+        {
+          "start": 155.53,
+          "end": 158.85,
+          "text": " Kollam Kollam"
+        }
+      ],
+      "transcript": "കൊള്ളാം",
+      "meaning": "that's nice, that's fine",
+      "textbook_row": 9,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_09_word_010"
+    },
+    {
+      "utterances": [
+        {
+          "start": 158.7642,
+          "end": 159.4047
+        },
+        {
+          "start": 160.1823,
+          "end": 160.8135
+        }
+      ],
+      "raw_texts": [
+        "രന്ഡും",
+        "രന്ഡും"
+      ],
+      "english_segments": [
+        {
+          "start": 158.85,
+          "end": 162.31,
+          "text": " Randum Randum"
+        }
+      ],
+      "transcript": "രണ്ടും",
+      "meaning": "both",
+      "textbook_row": 10,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_09_word_011"
+    },
+    {
+      "utterances": [
+        {
+          "start": 162.219,
+          "end": 162.9443
+        },
+        {
+          "start": 163.7954,
+          "end": 164.5842
+        }
+      ],
+      "raw_texts": [
+        "നിന്ഡ്ദ്",
+        "നിന്ഡ്ദ്"
+      ],
+      "english_segments": [
+        {
+          "start": 162.31,
+          "end": 166.31,
+          "text": " Nindia Nindia da"
+        }
+      ],
+      "transcript": "നിന്റേത്",
+      "meaning": "yours",
+      "textbook_row": 11,
+      "similarity": 0.727,
+      "status": "matched",
+      "id": "lesson_09_word_012"
+    },
+    {
+      "utterances": [
+        {
+          "start": 166.2269,
+          "end": 167.0219
+        },
+        {
+          "start": 167.7963,
+          "end": 168.6355
+        }
+      ],
+      "raw_texts": [
+        "ഉഡുകുക്ക്",
+        "ഉഡുകുകാ"
+      ],
+      "english_segments": [
+        {
+          "start": 166.31,
+          "end": 169.69,
+          "text": " Udukuga Udukuga"
+        }
+      ],
+      "transcript": "ഉടുക്കുക",
+      "meaning": "wrap, wear, put on (sari, skirt, dhoti, lungi)",
+      "textbook_row": 12,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_09_word_013"
+    },
+    {
+      "utterances": [
+        {
+          "start": 169.5995,
+          "end": 170.4903
+        },
+        {
+          "start": 171.3608,
+          "end": 172.2059
+        }
+      ],
+      "raw_texts": [
+        "ഉഡുതോള്ളു",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 169.69,
+          "end": 173.49,
+          "text": " uduthollu"
+        }
+      ],
+      "transcript": "ഉടുത്തോളു",
+      "meaning": "go ahead and put it on",
+      "textbook_row": 14,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_09_word_014"
+    },
+    {
+      "utterances": [
+        {
+          "start": 173.401,
+          "end": 174.0988
+        },
+        {
+          "start": 175.0943,
+          "end": 175.8192
+        }
+      ],
+      "raw_texts": [
+        "ഉണ്നും",
+        "അന്നും"
+      ],
+      "english_segments": [
+        {
+          "start": 173.49,
+          "end": 176.99,
+          "text": " onnum"
+        }
+      ],
+      "transcript": "ഒന്നും",
+      "meaning": "anything, nothing (with a negative verb)",
+      "textbook_row": 15,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_09_word_015"
+    },
+    {
+      "utterances": [
+        {
+          "start": 176.9115,
+          "end": 177.8438
+        },
+        {
+          "start": 178.9048,
+          "end": 179.9268
+        }
+      ],
+      "raw_texts": [
+        "അന്നും പരയല്ല",
+        "അന്നും പരയല്ല"
+      ],
+      "english_segments": [
+        {
+          "start": 176.99,
+          "end": 181.73,
+          "text": " onnum parayella"
+        }
+      ],
+      "transcript": "ഒന്നും പറയില്ല",
+      "meaning": "won't say anything",
+      "textbook_row": 16,
+      "similarity": 0.871,
+      "status": "matched",
+      "id": "lesson_09_word_016"
+    },
+    {
+      "utterances": [
+        {
+          "start": 181.6489,
+          "end": 182.4759
+        },
+        {
+          "start": 183.3561,
+          "end": 184.1255
+        }
+      ],
+      "raw_texts": [
+        "ഏപോജും",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 181.73,
+          "end": 187.79,
+          "text": " eppozhum"
+        }
+      ],
+      "transcript": "എപ്പോഴും",
+      "meaning": "always",
+      "textbook_row": 17,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_09_word_017"
+    },
+    {
+      "utterances": [
+        {
+          "start": 187.6933,
+          "end": 188.5957
+        },
+        {
+          "start": 189.5387,
+          "end": 190.3673
+        }
+      ],
+      "raw_texts": [
+        "കൂട്ടുകാരൻ",
+        "കൂട്ടുകാരൻ"
+      ],
+      "english_segments": [
+        {
+          "start": 187.79,
+          "end": 192.65,
+          "text": " kootu gari"
+        }
+      ],
+      "transcript": "കൂട്ടുകാരൻ",
+      "meaning": "friend (masculine)",
+      "textbook_row": 19,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_09_word_018"
+    },
+    {
+      "utterances": [
+        {
+          "start": 192.5687,
+          "end": 193.4912
+        },
+        {
+          "start": 194.2195,
+          "end": 195.06
+        }
+      ],
+      "raw_texts": [
+        "കൂട്ടുകാരൻ ക",
+        "കൂട്ടുകാരണ്"
+      ],
+      "english_segments": [
+        {
+          "start": 192.65,
+          "end": 196.59,
+          "text": " kootu garan"
+        }
+      ],
+      "transcript": "കൂട്ടുകാരി",
+      "meaning": "friend (feminine)",
+      "textbook_row": 18,
+      "similarity": 0.875,
+      "status": "matched",
+      "id": "lesson_09_word_019"
+    },
+    {
+      "utterances": [
+        {
+          "start": 196.5104,
+          "end": 197.491
+        },
+        {
+          "start": 198.5246,
+          "end": 199.4376
+        }
+      ],
+      "raw_texts": [
+        "നന്നായ്രിക്കും",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 196.59,
+          "end": 202.29,
+          "text": " Nanna irikyum."
+        }
+      ],
+      "transcript": "നന്നായിരിക്കും",
+      "meaning": "it will be nice",
+      "textbook_row": 13,
+      "similarity": 0.941,
+      "status": "matched",
+      "id": "lesson_09_word_020"
+    },
+    {
+      "utterances": [
+        {
+          "start": 202.1828,
+          "end": 202.9173
+        },
+        {
+          "start": 203.421,
+          "end": 204.5824
+        }
+      ],
+      "raw_texts": [
+        "കോഡുകും",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 202.29,
+          "end": 205.77,
+          "text": " Kodukkum."
+        }
+      ],
+      "transcript": "കൊടുക്കും",
+      "meaning": "will give, give (habitual)",
+      "textbook_row": 20,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_09_word_021"
+    },
+    {
+      "utterances": [
+        {
+          "start": 205.6767,
+          "end": 206.4799
+        },
+        {
+          "start": 207.3616,
+          "end": 208.2146
+        }
+      ],
+      "raw_texts": [
+        "ബ്ലോസ്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 205.77,
+          "end": 209.87,
+          "text": " Blouse."
+        }
+      ],
+      "transcript": "ബ്ലൗസ്",
+      "meaning": "blouse",
+      "textbook_row": 21,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_09_word_022"
+    },
+    {
+      "utterances": [
+        {
+          "start": 209.7804,
+          "end": 210.5064
+        },
+        {
+          "start": 211.4717,
+          "end": 212.2318
+        }
+      ],
+      "raw_texts": [
+        "ഇദനോട്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 209.87,
+          "end": 212.89,
+          "text": " Idinoda."
+        }
+      ],
+      "transcript": "ഇതിനോട്",
+      "meaning": "with this, with it",
+      "textbook_row": 22,
+      "similarity": 0.909,
+      "status": "matched",
+      "id": "lesson_09_word_023"
+    },
+    {
+      "utterances": [
+        {
+          "start": 212.8136,
+          "end": 213.4476
+        },
+        {
+          "start": 214.0447,
+          "end": 215.1742
+        }
+      ],
+      "raw_texts": [
+        "ചേരും",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 212.89,
+          "end": 216.07,
+          "text": " Cherum."
+        }
+      ],
+      "transcript": "ചേരും",
+      "meaning": "will match, will fit (match, fit) (habitual)",
+      "textbook_row": 23,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_09_word_024"
+    },
+    {
+      "utterances": [
+        {
+          "start": 215.9891,
+          "end": 216.6992
+        },
+        {
+          "start": 217.6332,
+          "end": 218.4285
+        }
+      ],
+      "raw_texts": [
+        "വേഗം",
+        "വേഗം"
+      ],
+      "english_segments": [
+        {
+          "start": 216.07,
+          "end": 219.49,
+          "text": " Vegam."
+        }
+      ],
+      "transcript": "വേഗം",
+      "meaning": "quickly",
+      "textbook_row": 24,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_09_word_025"
+    },
+    {
+      "utterances": [
+        {
+          "start": 219.4142,
+          "end": 220.3304
+        },
+        {
+          "start": 221.3312,
+          "end": 222.2126
+        }
+      ],
+      "raw_texts": [
+        "സമയമായി",
+        "സമയമായി"
+      ],
+      "english_segments": [
+        {
+          "start": 219.49,
+          "end": 223.49,
+          "text": " Sameyamai."
+        }
+      ],
+      "transcript": "സമയമായി",
+      "meaning": "the time has come, it's time",
+      "textbook_row": 25,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_09_word_026"
+    },
+    {
+      "utterances": [
+        {
+          "start": 223.4002,
+          "end": 224.4989
+        },
+        {
+          "start": 225.6237,
+          "end": 226.708
+        }
+      ],
+      "raw_texts": [
+        "തയ്യാരുകുക്ക",
+        "തയ്യാരുകുക്ക"
+      ],
+      "english_segments": [
+        {
+          "start": 223.49,
+          "end": 224.25,
+          "text": " Tayaar aaguga."
+        },
+        {
+          "start": 225.63,
+          "end": 226.45,
+          "text": " Tayaar aaguga."
+        }
+      ],
+      "transcript": "തയ്യാറാകുക",
+      "meaning": "to be ready",
+      "textbook_row": 26,
+      "similarity": 0.875,
+      "status": "matched",
+      "id": "lesson_09_word_027"
+    }
+  ],
+  "textbook_vocabulary": [
+    {
+      "malayalam": "നല്ല",
+      "meaning": "good"
+    },
+    {
+      "malayalam": "ആരുടെ",
+      "meaning": "whose (adjective)"
+    },
+    {
+      "malayalam": "ആരുടേത്",
+      "meaning": "whose (pronoun)"
+    },
+    {
+      "malayalam": "ചേച്ചിയുടേത്",
+      "meaning": "sister's (one)"
+    },
+    {
+      "malayalam": "നന്നായിരിക്കുന്നു",
+      "meaning": "it is very nice"
+    },
+    {
+      "malayalam": "പുതിയ",
+      "meaning": "new"
+    },
+    {
+      "malayalam": "പുതിയത്",
+      "meaning": "the new one"
+    },
+    {
+      "malayalam": "പഴയ",
+      "meaning": "old"
+    },
+    {
+      "malayalam": "പഴയത്",
+      "meaning": "old one"
+    },
+    {
+      "malayalam": "കൊള്ളാം",
+      "meaning": "that's nice, that's fine"
+    },
+    {
+      "malayalam": "രണ്ടും",
+      "meaning": "both"
+    },
+    {
+      "malayalam": "നിന്റേത്",
+      "meaning": "yours"
+    },
+    {
+      "malayalam": "ഉടുക്കുക",
+      "meaning": "wrap, wear, put on (sari, skirt, dhoti, lungi)"
+    },
+    {
+      "malayalam": "നന്നായിരിക്കും",
+      "meaning": "it will be nice"
+    },
+    {
+      "malayalam": "ഉടുത്തോളു",
+      "meaning": "go ahead and put it on"
+    },
+    {
+      "malayalam": "ഒന്നും",
+      "meaning": "anything, nothing (with a negative verb)"
+    },
+    {
+      "malayalam": "ഒന്നും പറയില്ല",
+      "meaning": "won't say anything"
+    },
+    {
+      "malayalam": "എപ്പോഴും",
+      "meaning": "always"
+    },
+    {
+      "malayalam": "കൂട്ടുകാരി",
+      "meaning": "friend (feminine)"
+    },
+    {
+      "malayalam": "കൂട്ടുകാരൻ",
+      "meaning": "friend (masculine)"
+    },
+    {
+      "malayalam": "കൊടുക്കും",
+      "meaning": "will give, give (habitual)"
+    },
+    {
+      "malayalam": "ബ്ലൗസ്",
+      "meaning": "blouse"
+    },
+    {
+      "malayalam": "ഇതിനോട്",
+      "meaning": "with this, with it"
+    },
+    {
+      "malayalam": "ചേരും",
+      "meaning": "will match, will fit (match, fit) (habitual)"
+    },
+    {
+      "malayalam": "വേഗം",
+      "meaning": "quickly"
+    },
+    {
+      "malayalam": "സമയമായി",
+      "meaning": "the time has come, it's time"
+    },
+    {
+      "malayalam": "തയ്യാറാകുക",
+      "meaning": "to be ready"
+    },
+    {
+      "malayalam": "പള്ളി",
+      "meaning": "church"
+    },
+    {
+      "malayalam": "ചെറുത് (variant of ചെറിയത്)",
+      "meaning": "little one, small one"
+    },
+    {
+      "malayalam": "കൊള്ളുക",
+      "meaning": "to fit inside of something, to stick (as an arrow)"
+    }
+  ],
+  "unmatched_textbook_rows": [
+    {
+      "index": 27,
+      "malayalam": "പള്ളി",
+      "meaning": "church"
+    },
+    {
+      "index": 28,
+      "malayalam": "ചെറുത് (variant of ചെറിയത്)",
+      "meaning": "little one, small one"
+    },
+    {
+      "index": 29,
+      "malayalam": "കൊള്ളുക",
+      "meaning": "to fit inside of something, to stick (as an arrow)"
+    }
+  ],
+  "recognition_sha256": "b280054aaf526f6788f5ac24341415b76b8ebf406cf041d519a80bab491d0dbe",
+  "boundary_sha256": "fd831f3abdc3a0fae223735593ba8c4db012c4cc3fb18ac078b18effe275166a"
+}

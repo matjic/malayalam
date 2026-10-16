@@ -1,0 +1,1143 @@
+{
+  "format": "koyal-word-timestamps-v1",
+  "lesson": 5,
+  "source": "data/audio/moag/lesson_05.mp3",
+  "model": "adalat-ai/koyal-ml-120m-1.0",
+  "checkpoint": "/private/tmp/koyal-ml-120m-1.0/koyal-ml-120m-1.0.nemo",
+  "nemo_version": "3.0.0",
+  "sample_rate": 16000,
+  "vocabulary_range": {
+    "lesson": 5,
+    "start": 6.67,
+    "end": 114.8783
+  },
+  "transcription_range": {
+    "start": 5.67,
+    "end": 115.8783125
+  },
+  "time_basis": "start/end are seconds in source MP3; section_start/end are relative to transcription_range.start",
+  "caveats": [
+    "Automatic ASR, not verified text or phonetic boundaries; preserve repeated words.",
+    "TDT timestamps approximate speech positions. Use nearby silence and padding for final cuts.",
+    "near_chunk_edge flags words within 0.25 seconds of a recognition chunk boundary.",
+    "Chunks meet at low-energy windows; no audio is omitted. A forced split can still divide speech.",
+    "English section announcements may be misrecognized by the Malayalam model."
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "start": 5.67,
+      "end": 29.82,
+      "text": "വോക്കേ അബിലൈ. റിപ്പീറ്റ് ഈച്ച് ഐഡം ആഫ്റ്റർ ദി സ്പീക്കർ. ഈച്ച് ഐഡം ഈസ് ഗിവിൻ റ്റ് വൈസ്. റെഡി. ലിസൺ ഞാൻ റിപ്പീറ്റ്. കൃഷ്ണൻ, കൃഷ്ണൻ. മുറി മുറി ഇരിക്കുന്നു ഇരിക്കുന്നു, ചെയ്യുന്നു.",
+      "raw_word_timestamps": [
+        {
+          "word": "വോക്കേ",
+          "start_offset": 31,
+          "end_offset": 38,
+          "start": 1.24,
+          "end": 1.52
+        },
+        {
+          "word": "അബിലൈ.",
+          "start_offset": 38,
+          "end_offset": 48,
+          "start": 1.52,
+          "end": 1.92
+        },
+        {
+          "word": "റിപ്പീറ്റ്",
+          "start_offset": 74,
+          "end_offset": 82,
+          "start": 2.96,
+          "end": 3.2800000000000002
+        },
+        {
+          "word": "ഈച്ച്",
+          "start_offset": 84,
+          "end_offset": 87,
+          "start": 3.36,
+          "end": 3.48
+        },
+        {
+          "word": "ഐഡം",
+          "start_offset": 88,
+          "end_offset": 94,
+          "start": 3.52,
+          "end": 3.7600000000000002
+        },
+        {
+          "word": "ആഫ്റ്റർ",
+          "start_offset": 96,
+          "end_offset": 103,
+          "start": 3.84,
+          "end": 4.12
+        },
+        {
+          "word": "ദി",
+          "start_offset": 103,
+          "end_offset": 105,
+          "start": 4.12,
+          "end": 4.2
+        },
+        {
+          "word": "സ്പീക്കർ.",
+          "start_offset": 105,
+          "end_offset": 117,
+          "start": 4.2,
+          "end": 4.68
+        },
+        {
+          "word": "ഈച്ച്",
+          "start_offset": 121,
+          "end_offset": 125,
+          "start": 4.84,
+          "end": 5.0
+        },
+        {
+          "word": "ഐഡം",
+          "start_offset": 127,
+          "end_offset": 133,
+          "start": 5.08,
+          "end": 5.32
+        },
+        {
+          "word": "ഈസ്",
+          "start_offset": 135,
+          "end_offset": 139,
+          "start": 5.4,
+          "end": 5.5600000000000005
+        },
+        {
+          "word": "ഗിവിൻ",
+          "start_offset": 139,
+          "end_offset": 144,
+          "start": 5.5600000000000005,
+          "end": 5.76
+        },
+        {
+          "word": "റ്റ്",
+          "start_offset": 145,
+          "end_offset": 148,
+          "start": 5.8,
+          "end": 5.92
+        },
+        {
+          "word": "വൈസ്.",
+          "start_offset": 149,
+          "end_offset": 158,
+          "start": 5.96,
+          "end": 6.32
+        },
+        {
+          "word": "റെഡി.",
+          "start_offset": 180,
+          "end_offset": 190,
+          "start": 7.2,
+          "end": 7.6000000000000005
+        },
+        {
+          "word": "ലിസൺ",
+          "start_offset": 203,
+          "end_offset": 209,
+          "start": 8.120000000000001,
+          "end": 8.36
+        },
+        {
+          "word": "ഞാൻ",
+          "start_offset": 211,
+          "end_offset": 212,
+          "start": 8.44,
+          "end": 8.48
+        },
+        {
+          "word": "റിപ്പീറ്റ്.",
+          "start_offset": 215,
+          "end_offset": 225,
+          "start": 8.6,
+          "end": 9.0
+        },
+        {
+          "word": "കൃഷ്ണൻ,",
+          "start_offset": 255,
+          "end_offset": 268,
+          "start": 10.200000000000001,
+          "end": 10.72
+        },
+        {
+          "word": "കൃഷ്ണൻ.",
+          "start_offset": 306,
+          "end_offset": 319,
+          "start": 12.24,
+          "end": 12.76
+        },
+        {
+          "word": "മുറി",
+          "start_offset": 361,
+          "end_offset": 369,
+          "start": 14.44,
+          "end": 14.76
+        },
+        {
+          "word": "മുറി",
+          "start_offset": 409,
+          "end_offset": 414,
+          "start": 16.36,
+          "end": 16.56
+        },
+        {
+          "word": "ഇരിക്കുന്നു",
+          "start_offset": 460,
+          "end_offset": 472,
+          "start": 18.400000000000002,
+          "end": 18.88
+        },
+        {
+          "word": "ഇരിക്കുന്നു,",
+          "start_offset": 516,
+          "end_offset": 528,
+          "start": 20.64,
+          "end": 21.12
+        },
+        {
+          "word": "ചെയ്യുന്നു.",
+          "start_offset": 590,
+          "end_offset": 601,
+          "start": 23.6,
+          "end": 24.04
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "start": 29.82,
+      "end": 52.77,
+      "text": "ചെയ്യുന്നു, പഠിക്കുന്നു, പഠിക്കുന്നു, വായിക്കുന്നു, വായിക്കുന്നു. സിനിമ, സിനിമ, കാണാൻ, കാണാൻ പോകുന്നു, പോകുന്നു.",
+      "raw_word_timestamps": [
+        {
+          "word": "ചെയ്യുന്നു,",
+          "start_offset": 40,
+          "end_offset": 51,
+          "start": 1.6,
+          "end": 2.04
+        },
+        {
+          "word": "പഠിക്കുന്നു,",
+          "start_offset": 93,
+          "end_offset": 107,
+          "start": 3.72,
+          "end": 4.28
+        },
+        {
+          "word": "പഠിക്കുന്നു,",
+          "start_offset": 141,
+          "end_offset": 155,
+          "start": 5.64,
+          "end": 6.2
+        },
+        {
+          "word": "വായിക്കുന്നു,",
+          "start_offset": 204,
+          "end_offset": 217,
+          "start": 8.16,
+          "end": 8.68
+        },
+        {
+          "word": "വായിക്കുന്നു.",
+          "start_offset": 255,
+          "end_offset": 268,
+          "start": 10.200000000000001,
+          "end": 10.72
+        },
+        {
+          "word": "സിനിമ,",
+          "start_offset": 310,
+          "end_offset": 321,
+          "start": 12.4,
+          "end": 12.84
+        },
+        {
+          "word": "സിനിമ,",
+          "start_offset": 357,
+          "end_offset": 368,
+          "start": 14.280000000000001,
+          "end": 14.72
+        },
+        {
+          "word": "കാണാൻ,",
+          "start_offset": 398,
+          "end_offset": 410,
+          "start": 15.92,
+          "end": 16.4
+        },
+        {
+          "word": "കാണാൻ",
+          "start_offset": 443,
+          "end_offset": 455,
+          "start": 17.72,
+          "end": 18.2
+        },
+        {
+          "word": "പോകുന്നു,",
+          "start_offset": 487,
+          "end_offset": 499,
+          "start": 19.48,
+          "end": 19.96
+        },
+        {
+          "word": "പോകുന്നു.",
+          "start_offset": 536,
+          "end_offset": 548,
+          "start": 21.44,
+          "end": 21.92
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "start": 52.77,
+      "end": 77.42,
+      "text": "ഇല്ല ഇല്ല ഇല്ലേ? ഇല്ലേ? വരുന്നില്ല. വരുന്നില്ല. കാര്യം കാര്യം എനിക്ക് കുറച്ച് ജോലിയുണ്ട്. എനിക്ക് കുറച്ച് ജോലിയുണ്ട്.",
+      "raw_word_timestamps": [
+        {
+          "word": "ഇല്ല",
+          "start_offset": 54,
+          "end_offset": 60,
+          "start": 2.16,
+          "end": 2.4
+        },
+        {
+          "word": "ഇല്ല",
+          "start_offset": 99,
+          "end_offset": 105,
+          "start": 3.96,
+          "end": 4.2
+        },
+        {
+          "word": "ഇല്ലേ?",
+          "start_offset": 156,
+          "end_offset": 167,
+          "start": 6.24,
+          "end": 6.68
+        },
+        {
+          "word": "ഇല്ലേ?",
+          "start_offset": 210,
+          "end_offset": 219,
+          "start": 8.4,
+          "end": 8.76
+        },
+        {
+          "word": "വരുന്നില്ല.",
+          "start_offset": 276,
+          "end_offset": 290,
+          "start": 11.040000000000001,
+          "end": 11.6
+        },
+        {
+          "word": "വരുന്നില്ല.",
+          "start_offset": 331,
+          "end_offset": 345,
+          "start": 13.24,
+          "end": 13.8
+        },
+        {
+          "word": "കാര്യം",
+          "start_offset": 384,
+          "end_offset": 396,
+          "start": 15.36,
+          "end": 15.84
+        },
+        {
+          "word": "കാര്യം",
+          "start_offset": 432,
+          "end_offset": 444,
+          "start": 17.28,
+          "end": 17.76
+        },
+        {
+          "word": "എനിക്ക്",
+          "start_offset": 495,
+          "end_offset": 498,
+          "start": 19.8,
+          "end": 19.92
+        },
+        {
+          "word": "കുറച്ച്",
+          "start_offset": 505,
+          "end_offset": 513,
+          "start": 20.2,
+          "end": 20.52
+        },
+        {
+          "word": "ജോലിയുണ്ട്.",
+          "start_offset": 513,
+          "end_offset": 526,
+          "start": 20.52,
+          "end": 21.04
+        },
+        {
+          "word": "എനിക്ക്",
+          "start_offset": 579,
+          "end_offset": 582,
+          "start": 23.16,
+          "end": 23.28
+        },
+        {
+          "word": "കുറച്ച്",
+          "start_offset": 588,
+          "end_offset": 595,
+          "start": 23.52,
+          "end": 23.8
+        },
+        {
+          "word": "ജോലിയുണ്ട്.",
+          "start_offset": 595,
+          "end_offset": 608,
+          "start": 23.8,
+          "end": 24.32
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "start": 77.42,
+      "end": 101.17,
+      "text": "അല്ലേ, അല്ലേ? അങ്ങനെ പക്ഷേ പക്ഷേ മലയാളം മലയാളം എന്നാൽ എന്നാൽ.",
+      "raw_word_timestamps": [
+        {
+          "word": "അല്ലേ,",
+          "start_offset": 58,
+          "end_offset": 67,
+          "start": 2.32,
+          "end": 2.68
+        },
+        {
+          "word": "അല്ലേ?",
+          "start_offset": 110,
+          "end_offset": 120,
+          "start": 4.4,
+          "end": 4.8
+        },
+        {
+          "word": "അങ്ങനെ",
+          "start_offset": 170,
+          "end_offset": 173,
+          "start": 6.8,
+          "end": 6.92
+        },
+        {
+          "word": "പക്ഷേ",
+          "start_offset": 292,
+          "end_offset": 299,
+          "start": 11.68,
+          "end": 11.96
+        },
+        {
+          "word": "പക്ഷേ",
+          "start_offset": 343,
+          "end_offset": 351,
+          "start": 13.72,
+          "end": 14.040000000000001
+        },
+        {
+          "word": "മലയാളം",
+          "start_offset": 417,
+          "end_offset": 434,
+          "start": 16.68,
+          "end": 17.36
+        },
+        {
+          "word": "മലയാളം",
+          "start_offset": 465,
+          "end_offset": 483,
+          "start": 18.6,
+          "end": 19.32
+        },
+        {
+          "word": "എന്നാൽ",
+          "start_offset": 525,
+          "end_offset": 536,
+          "start": 21.0,
+          "end": 21.44
+        },
+        {
+          "word": "എന്നാൽ.",
+          "start_offset": 575,
+          "end_offset": 587,
+          "start": 23.0,
+          "end": 23.48
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "start": 101.17,
+      "end": 115.8783125,
+      "text": "പിന്നെ പിന്നെ കാണാം കാണാം, പിന്നെ കാണാം, പിന്നെ കാണാം.",
+      "raw_word_timestamps": [
+        {
+          "word": "പിന്നെ",
+          "start_offset": 40,
+          "end_offset": 44,
+          "start": 1.6,
+          "end": 1.76
+        },
+        {
+          "word": "പിന്നെ",
+          "start_offset": 90,
+          "end_offset": 94,
+          "start": 3.6,
+          "end": 3.7600000000000002
+        },
+        {
+          "word": "കാണാം",
+          "start_offset": 174,
+          "end_offset": 186,
+          "start": 6.96,
+          "end": 7.44
+        },
+        {
+          "word": "കാണാം,",
+          "start_offset": 221,
+          "end_offset": 233,
+          "start": 8.84,
+          "end": 9.32
+        },
+        {
+          "word": "പിന്നെ",
+          "start_offset": 267,
+          "end_offset": 271,
+          "start": 10.68,
+          "end": 10.84
+        },
+        {
+          "word": "കാണാം,",
+          "start_offset": 274,
+          "end_offset": 282,
+          "start": 10.96,
+          "end": 11.28
+        },
+        {
+          "word": "പിന്നെ",
+          "start_offset": 319,
+          "end_offset": 323,
+          "start": 12.76,
+          "end": 12.92
+        },
+        {
+          "word": "കാണാം.",
+          "start_offset": 327,
+          "end_offset": 335,
+          "start": 13.08,
+          "end": 13.4
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "word": "വോക്കേ",
+      "start": 6.91,
+      "end": 7.19,
+      "section_start": 1.24,
+      "section_end": 1.52,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അബിലൈ.",
+      "start": 7.19,
+      "end": 7.59,
+      "section_start": 1.52,
+      "section_end": 1.92,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "റിപ്പീറ്റ്",
+      "start": 8.63,
+      "end": 8.95,
+      "section_start": 2.96,
+      "section_end": 3.28,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഈച്ച്",
+      "start": 9.03,
+      "end": 9.15,
+      "section_start": 3.36,
+      "section_end": 3.48,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഐഡം",
+      "start": 9.19,
+      "end": 9.43,
+      "section_start": 3.52,
+      "section_end": 3.76,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ആഫ്റ്റർ",
+      "start": 9.51,
+      "end": 9.79,
+      "section_start": 3.84,
+      "section_end": 4.12,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ദി",
+      "start": 9.79,
+      "end": 9.87,
+      "section_start": 4.12,
+      "section_end": 4.2,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സ്പീക്കർ.",
+      "start": 9.87,
+      "end": 10.35,
+      "section_start": 4.2,
+      "section_end": 4.68,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഈച്ച്",
+      "start": 10.51,
+      "end": 10.67,
+      "section_start": 4.84,
+      "section_end": 5.0,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഐഡം",
+      "start": 10.75,
+      "end": 10.99,
+      "section_start": 5.08,
+      "section_end": 5.32,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഈസ്",
+      "start": 11.07,
+      "end": 11.23,
+      "section_start": 5.4,
+      "section_end": 5.56,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഗിവിൻ",
+      "start": 11.23,
+      "end": 11.43,
+      "section_start": 5.56,
+      "section_end": 5.76,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "റ്റ്",
+      "start": 11.47,
+      "end": 11.59,
+      "section_start": 5.8,
+      "section_end": 5.92,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വൈസ്.",
+      "start": 11.63,
+      "end": 11.99,
+      "section_start": 5.96,
+      "section_end": 6.32,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "റെഡി.",
+      "start": 12.87,
+      "end": 13.27,
+      "section_start": 7.2,
+      "section_end": 7.6,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ലിസൺ",
+      "start": 13.79,
+      "end": 14.03,
+      "section_start": 8.12,
+      "section_end": 8.36,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഞാൻ",
+      "start": 14.11,
+      "end": 14.15,
+      "section_start": 8.44,
+      "section_end": 8.48,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "റിപ്പീറ്റ്.",
+      "start": 14.27,
+      "end": 14.67,
+      "section_start": 8.6,
+      "section_end": 9.0,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൃഷ്ണൻ,",
+      "start": 15.87,
+      "end": 16.39,
+      "section_start": 10.2,
+      "section_end": 10.72,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൃഷ്ണൻ.",
+      "start": 17.91,
+      "end": 18.43,
+      "section_start": 12.24,
+      "section_end": 12.76,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "മുറി",
+      "start": 20.11,
+      "end": 20.43,
+      "section_start": 14.44,
+      "section_end": 14.76,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "മുറി",
+      "start": 22.03,
+      "end": 22.23,
+      "section_start": 16.36,
+      "section_end": 16.56,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഇരിക്കുന്നു",
+      "start": 24.07,
+      "end": 24.55,
+      "section_start": 18.4,
+      "section_end": 18.88,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഇരിക്കുന്നു,",
+      "start": 26.31,
+      "end": 26.79,
+      "section_start": 20.64,
+      "section_end": 21.12,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ചെയ്യുന്നു.",
+      "start": 29.27,
+      "end": 29.71,
+      "section_start": 23.6,
+      "section_end": 24.04,
+      "chunk": 0,
+      "near_chunk_edge": true
+    },
+    {
+      "word": "ചെയ്യുന്നു,",
+      "start": 31.42,
+      "end": 31.86,
+      "section_start": 25.75,
+      "section_end": 26.19,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പഠിക്കുന്നു,",
+      "start": 33.54,
+      "end": 34.1,
+      "section_start": 27.87,
+      "section_end": 28.43,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പഠിക്കുന്നു,",
+      "start": 35.46,
+      "end": 36.02,
+      "section_start": 29.79,
+      "section_end": 30.35,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വായിക്കുന്നു,",
+      "start": 37.98,
+      "end": 38.5,
+      "section_start": 32.31,
+      "section_end": 32.83,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വായിക്കുന്നു.",
+      "start": 40.02,
+      "end": 40.54,
+      "section_start": 34.35,
+      "section_end": 34.87,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സിനിമ,",
+      "start": 42.22,
+      "end": 42.66,
+      "section_start": 36.55,
+      "section_end": 36.99,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സിനിമ,",
+      "start": 44.1,
+      "end": 44.54,
+      "section_start": 38.43,
+      "section_end": 38.87,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കാണാൻ,",
+      "start": 45.74,
+      "end": 46.22,
+      "section_start": 40.07,
+      "section_end": 40.55,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കാണാൻ",
+      "start": 47.54,
+      "end": 48.02,
+      "section_start": 41.87,
+      "section_end": 42.35,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പോകുന്നു,",
+      "start": 49.3,
+      "end": 49.78,
+      "section_start": 43.63,
+      "section_end": 44.11,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പോകുന്നു.",
+      "start": 51.26,
+      "end": 51.74,
+      "section_start": 45.59,
+      "section_end": 46.07,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഇല്ല",
+      "start": 54.93,
+      "end": 55.17,
+      "section_start": 49.26,
+      "section_end": 49.5,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഇല്ല",
+      "start": 56.73,
+      "end": 56.97,
+      "section_start": 51.06,
+      "section_end": 51.3,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഇല്ലേ?",
+      "start": 59.01,
+      "end": 59.45,
+      "section_start": 53.34,
+      "section_end": 53.78,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഇല്ലേ?",
+      "start": 61.17,
+      "end": 61.53,
+      "section_start": 55.5,
+      "section_end": 55.86,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വരുന്നില്ല.",
+      "start": 63.81,
+      "end": 64.37,
+      "section_start": 58.14,
+      "section_end": 58.7,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വരുന്നില്ല.",
+      "start": 66.01,
+      "end": 66.57,
+      "section_start": 60.34,
+      "section_end": 60.9,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കാര്യം",
+      "start": 68.13,
+      "end": 68.61,
+      "section_start": 62.46,
+      "section_end": 62.94,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കാര്യം",
+      "start": 70.05,
+      "end": 70.53,
+      "section_start": 64.38,
+      "section_end": 64.86,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എനിക്ക്",
+      "start": 72.57,
+      "end": 72.69,
+      "section_start": 66.9,
+      "section_end": 67.02,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കുറച്ച്",
+      "start": 72.97,
+      "end": 73.29,
+      "section_start": 67.3,
+      "section_end": 67.62,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ജോലിയുണ്ട്.",
+      "start": 73.29,
+      "end": 73.81,
+      "section_start": 67.62,
+      "section_end": 68.14,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എനിക്ക്",
+      "start": 75.93,
+      "end": 76.05,
+      "section_start": 70.26,
+      "section_end": 70.38,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കുറച്ച്",
+      "start": 76.29,
+      "end": 76.57,
+      "section_start": 70.62,
+      "section_end": 70.9,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ജോലിയുണ്ട്.",
+      "start": 76.57,
+      "end": 77.09,
+      "section_start": 70.9,
+      "section_end": 71.42,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അല്ലേ,",
+      "start": 79.74,
+      "end": 80.1,
+      "section_start": 74.07,
+      "section_end": 74.43,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അല്ലേ?",
+      "start": 81.82,
+      "end": 82.22,
+      "section_start": 76.15,
+      "section_end": 76.55,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അങ്ങനെ",
+      "start": 84.22,
+      "end": 84.34,
+      "section_start": 78.55,
+      "section_end": 78.67,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പക്ഷേ",
+      "start": 89.1,
+      "end": 89.38,
+      "section_start": 83.43,
+      "section_end": 83.71,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പക്ഷേ",
+      "start": 91.14,
+      "end": 91.46,
+      "section_start": 85.47,
+      "section_end": 85.79,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "മലയാളം",
+      "start": 94.1,
+      "end": 94.78,
+      "section_start": 88.43,
+      "section_end": 89.11,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "മലയാളം",
+      "start": 96.02,
+      "end": 96.74,
+      "section_start": 90.35,
+      "section_end": 91.07,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എന്നാൽ",
+      "start": 98.42,
+      "end": 98.86,
+      "section_start": 92.75,
+      "section_end": 93.19,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എന്നാൽ.",
+      "start": 100.42,
+      "end": 100.9,
+      "section_start": 94.75,
+      "section_end": 95.23,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പിന്നെ",
+      "start": 102.77,
+      "end": 102.93,
+      "section_start": 97.1,
+      "section_end": 97.26,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പിന്നെ",
+      "start": 104.77,
+      "end": 104.93,
+      "section_start": 99.1,
+      "section_end": 99.26,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കാണാം",
+      "start": 108.13,
+      "end": 108.61,
+      "section_start": 102.46,
+      "section_end": 102.94,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കാണാം,",
+      "start": 110.01,
+      "end": 110.49,
+      "section_start": 104.34,
+      "section_end": 104.82,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പിന്നെ",
+      "start": 111.85,
+      "end": 112.01,
+      "section_start": 106.18,
+      "section_end": 106.34,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കാണാം,",
+      "start": 112.13,
+      "end": 112.45,
+      "section_start": 106.46,
+      "section_end": 106.78,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പിന്നെ",
+      "start": 113.93,
+      "end": 114.09,
+      "section_start": 108.26,
+      "section_end": 108.42,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കാണാം.",
+      "start": 114.25,
+      "end": 114.57,
+      "section_start": 108.58,
+      "section_end": 108.9,
+      "chunk": 4,
+      "near_chunk_edge": false
+    }
+  ],
+  "text": "വോക്കേ അബിലൈ. റിപ്പീറ്റ് ഈച്ച് ഐഡം ആഫ്റ്റർ ദി സ്പീക്കർ. ഈച്ച് ഐഡം ഈസ് ഗിവിൻ റ്റ് വൈസ്. റെഡി. ലിസൺ ഞാൻ റിപ്പീറ്റ്. കൃഷ്ണൻ, കൃഷ്ണൻ. മുറി മുറി ഇരിക്കുന്നു ഇരിക്കുന്നു, ചെയ്യുന്നു. ചെയ്യുന്നു, പഠിക്കുന്നു, പഠിക്കുന്നു, വായിക്കുന്നു, വായിക്കുന്നു. സിനിമ, സിനിമ, കാണാൻ, കാണാൻ പോകുന്നു, പോകുന്നു. ഇല്ല ഇല്ല ഇല്ലേ? ഇല്ലേ? വരുന്നില്ല. വരുന്നില്ല. കാര്യം കാര്യം എനിക്ക് കുറച്ച് ജോലിയുണ്ട്. എനിക്ക് കുറച്ച് ജോലിയുണ്ട്. അല്ലേ, അല്ലേ? അങ്ങനെ പക്ഷേ പക്ഷേ മലയാളം മലയാളം എന്നാൽ എന്നാൽ. പിന്നെ പിന്നെ കാണാം കാണാം, പിന്നെ കാണാം, പിന്നെ കാണാം."
+}

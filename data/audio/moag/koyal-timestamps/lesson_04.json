@@ -1,0 +1,1279 @@
+{
+  "format": "koyal-word-timestamps-v1",
+  "lesson": 4,
+  "source": "data/audio/moag/lesson_04.mp3",
+  "model": "adalat-ai/koyal-ml-120m-1.0",
+  "checkpoint": "/private/tmp/koyal-ml-120m-1.0/koyal-ml-120m-1.0.nemo",
+  "nemo_version": "3.0.0",
+  "sample_rate": 16000,
+  "vocabulary_range": {
+    "lesson": 4,
+    "start": 50.69,
+    "end": 182.9397
+  },
+  "transcription_range": {
+    "start": 49.69,
+    "end": 183.9396875
+  },
+  "time_basis": "start/end are seconds in source MP3; section_start/end are relative to transcription_range.start",
+  "caveats": [
+    "Automatic ASR, not verified text or phonetic boundaries; preserve repeated words.",
+    "TDT timestamps approximate speech positions. Use nearby silence and padding for final cuts.",
+    "near_chunk_edge flags words within 0.25 seconds of a recognition chunk boundary.",
+    "Chunks meet at low-energy windows; no audio is omitted. A forced split can still divide speech.",
+    "English section announcements may be misrecognized by the Malayalam model."
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "start": 49.69,
+      "end": 73.94,
+      "text": "വൊക്കാബിയലറി പ്രാക്ടീസ് റിപ്പീറ്റ് ഈച്ച് ഐറ്റം ആഫ്റ്റർ ദി സ്പീക്കർ. ഈച്ച് ഐറ്റം ഈസ് ഗിവ് ആൻഡ് ത് വോയിസ്. വെരി ലിസൺ ആൻഡ് റിപ്പീറ്റ്. ഒരു ചായ ചായ കട കട എന്തുണ്ട്?",
+      "raw_word_timestamps": [
+        {
+          "word": "വൊക്കാബിയലറി",
+          "start_offset": 34,
+          "end_offset": 49,
+          "start": 1.36,
+          "end": 1.96
+        },
+        {
+          "word": "പ്രാക്ടീസ്",
+          "start_offset": 53,
+          "end_offset": 66,
+          "start": 2.12,
+          "end": 2.64
+        },
+        {
+          "word": "റിപ്പീറ്റ്",
+          "start_offset": 85,
+          "end_offset": 94,
+          "start": 3.4,
+          "end": 3.7600000000000002
+        },
+        {
+          "word": "ഈച്ച്",
+          "start_offset": 95,
+          "end_offset": 100,
+          "start": 3.8000000000000003,
+          "end": 4.0
+        },
+        {
+          "word": "ഐറ്റം",
+          "start_offset": 100,
+          "end_offset": 107,
+          "start": 4.0,
+          "end": 4.28
+        },
+        {
+          "word": "ആഫ്റ്റർ",
+          "start_offset": 107,
+          "end_offset": 114,
+          "start": 4.28,
+          "end": 4.5600000000000005
+        },
+        {
+          "word": "ദി",
+          "start_offset": 115,
+          "end_offset": 117,
+          "start": 4.6000000000000005,
+          "end": 4.68
+        },
+        {
+          "word": "സ്പീക്കർ.",
+          "start_offset": 118,
+          "end_offset": 129,
+          "start": 4.72,
+          "end": 5.16
+        },
+        {
+          "word": "ഈച്ച്",
+          "start_offset": 136,
+          "end_offset": 140,
+          "start": 5.44,
+          "end": 5.6000000000000005
+        },
+        {
+          "word": "ഐറ്റം",
+          "start_offset": 141,
+          "end_offset": 148,
+          "start": 5.64,
+          "end": 5.92
+        },
+        {
+          "word": "ഈസ്",
+          "start_offset": 148,
+          "end_offset": 152,
+          "start": 5.92,
+          "end": 6.08
+        },
+        {
+          "word": "ഗിവ്",
+          "start_offset": 152,
+          "end_offset": 156,
+          "start": 6.08,
+          "end": 6.24
+        },
+        {
+          "word": "ആൻഡ്",
+          "start_offset": 156,
+          "end_offset": 159,
+          "start": 6.24,
+          "end": 6.36
+        },
+        {
+          "word": "ത്",
+          "start_offset": 159,
+          "end_offset": 161,
+          "start": 6.36,
+          "end": 6.44
+        },
+        {
+          "word": "വോയിസ്.",
+          "start_offset": 161,
+          "end_offset": 170,
+          "start": 6.44,
+          "end": 6.8
+        },
+        {
+          "word": "വെരി",
+          "start_offset": 176,
+          "end_offset": 183,
+          "start": 7.04,
+          "end": 7.32
+        },
+        {
+          "word": "ലിസൺ",
+          "start_offset": 196,
+          "end_offset": 206,
+          "start": 7.84,
+          "end": 8.24
+        },
+        {
+          "word": "ആൻഡ്",
+          "start_offset": 208,
+          "end_offset": 212,
+          "start": 8.32,
+          "end": 8.48
+        },
+        {
+          "word": "റിപ്പീറ്റ്.",
+          "start_offset": 213,
+          "end_offset": 226,
+          "start": 8.52,
+          "end": 9.040000000000001
+        },
+        {
+          "word": "ഒരു",
+          "start_offset": 306,
+          "end_offset": 310,
+          "start": 12.24,
+          "end": 12.4
+        },
+        {
+          "word": "ചായ",
+          "start_offset": 354,
+          "end_offset": 362,
+          "start": 14.16,
+          "end": 14.48
+        },
+        {
+          "word": "ചായ",
+          "start_offset": 398,
+          "end_offset": 406,
+          "start": 15.92,
+          "end": 16.240000000000002
+        },
+        {
+          "word": "കട",
+          "start_offset": 438,
+          "end_offset": 446,
+          "start": 17.52,
+          "end": 17.84
+        },
+        {
+          "word": "കട",
+          "start_offset": 484,
+          "end_offset": 492,
+          "start": 19.36,
+          "end": 19.68
+        },
+        {
+          "word": "എന്തുണ്ട്?",
+          "start_offset": 589,
+          "end_offset": 599,
+          "start": 23.56,
+          "end": 23.96
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "start": 73.94,
+      "end": 97.28999999999999,
+      "text": "എല്ലാം എല്ലാം വേണം, വേണം. ഇഷ്ടം ഇഷ്ടം ഇഷ്ടമാണ്, ഇഷ്ടമാണ്, അല്ല അപ്പോൾ.",
+      "raw_word_timestamps": [
+        {
+          "word": "എല്ലാം",
+          "start_offset": 35,
+          "end_offset": 43,
+          "start": 1.4000000000000001,
+          "end": 1.72
+        },
+        {
+          "word": "എല്ലാം",
+          "start_offset": 78,
+          "end_offset": 86,
+          "start": 3.12,
+          "end": 3.44
+        },
+        {
+          "word": "വേണം,",
+          "start_offset": 121,
+          "end_offset": 128,
+          "start": 4.84,
+          "end": 5.12
+        },
+        {
+          "word": "വേണം.",
+          "start_offset": 170,
+          "end_offset": 181,
+          "start": 6.8,
+          "end": 7.24
+        },
+        {
+          "word": "ഇഷ്ടം",
+          "start_offset": 219,
+          "end_offset": 230,
+          "start": 8.76,
+          "end": 9.200000000000001
+        },
+        {
+          "word": "ഇഷ്ടം",
+          "start_offset": 268,
+          "end_offset": 280,
+          "start": 10.72,
+          "end": 11.200000000000001
+        },
+        {
+          "word": "ഇഷ്ടമാണ്,",
+          "start_offset": 317,
+          "end_offset": 328,
+          "start": 12.68,
+          "end": 13.120000000000001
+        },
+        {
+          "word": "ഇഷ്ടമാണ്,",
+          "start_offset": 368,
+          "end_offset": 380,
+          "start": 14.72,
+          "end": 15.200000000000001
+        },
+        {
+          "word": "അല്ല",
+          "start_offset": 419,
+          "end_offset": 422,
+          "start": 16.76,
+          "end": 16.88
+        },
+        {
+          "word": "അപ്പോൾ.",
+          "start_offset": 504,
+          "end_offset": 508,
+          "start": 20.16,
+          "end": 20.32
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "start": 97.28999999999999,
+      "end": 121.64,
+      "text": "കാപ്പി കാപ്പി എനിക്ക് വളരെ വളരെ കൊണ്ടുവരൂ, കൊണ്ടുവരൂ. ദോശ, ദോശ, ചമ്മന്തി ചമ്മന്തി ഇഷ്ടമായി.",
+      "raw_word_timestamps": [
+        {
+          "word": "കാപ്പി",
+          "start_offset": 35,
+          "end_offset": 47,
+          "start": 1.4000000000000001,
+          "end": 1.8800000000000001
+        },
+        {
+          "word": "കാപ്പി",
+          "start_offset": 83,
+          "end_offset": 95,
+          "start": 3.3200000000000003,
+          "end": 3.8000000000000003
+        },
+        {
+          "word": "എനിക്ക്",
+          "start_offset": 131,
+          "end_offset": 133,
+          "start": 5.24,
+          "end": 5.32
+        },
+        {
+          "word": "വളരെ",
+          "start_offset": 217,
+          "end_offset": 224,
+          "start": 8.68,
+          "end": 8.96
+        },
+        {
+          "word": "വളരെ",
+          "start_offset": 252,
+          "end_offset": 263,
+          "start": 10.08,
+          "end": 10.52
+        },
+        {
+          "word": "കൊണ്ടുവരൂ,",
+          "start_offset": 311,
+          "end_offset": 325,
+          "start": 12.44,
+          "end": 13.0
+        },
+        {
+          "word": "കൊണ്ടുവരൂ.",
+          "start_offset": 359,
+          "end_offset": 371,
+          "start": 14.36,
+          "end": 14.84
+        },
+        {
+          "word": "ദോശ,",
+          "start_offset": 408,
+          "end_offset": 419,
+          "start": 16.32,
+          "end": 16.76
+        },
+        {
+          "word": "ദോശ,",
+          "start_offset": 455,
+          "end_offset": 465,
+          "start": 18.2,
+          "end": 18.6
+        },
+        {
+          "word": "ചമ്മന്തി",
+          "start_offset": 492,
+          "end_offset": 506,
+          "start": 19.68,
+          "end": 20.240000000000002
+        },
+        {
+          "word": "ചമ്മന്തി",
+          "start_offset": 540,
+          "end_offset": 555,
+          "start": 21.6,
+          "end": 22.2
+        },
+        {
+          "word": "ഇഷ്ടമായി.",
+          "start_offset": 593,
+          "end_offset": 605,
+          "start": 23.72,
+          "end": 24.2
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "start": 121.64,
+      "end": 146.49,
+      "text": "ഇഷ്ടമായി. കുറച്ച് കുറച്ച് കൂടി കൂടി തരൂ, തരൂ, കുടിക്കൂ, കുടിക്കൂ. അങ്ങനെയാകട്ടെ, അങ്ങനെയാകട്ടെ പ്ലേറ്റ്.",
+      "raw_word_timestamps": [
+        {
+          "word": "ഇഷ്ടമായി.",
+          "start_offset": 31,
+          "end_offset": 40,
+          "start": 1.24,
+          "end": 1.6
+        },
+        {
+          "word": "കുറച്ച്",
+          "start_offset": 78,
+          "end_offset": 90,
+          "start": 3.12,
+          "end": 3.6
+        },
+        {
+          "word": "കുറച്ച്",
+          "start_offset": 120,
+          "end_offset": 132,
+          "start": 4.8,
+          "end": 5.28
+        },
+        {
+          "word": "കൂടി",
+          "start_offset": 171,
+          "end_offset": 178,
+          "start": 6.84,
+          "end": 7.12
+        },
+        {
+          "word": "കൂടി",
+          "start_offset": 217,
+          "end_offset": 228,
+          "start": 8.68,
+          "end": 9.120000000000001
+        },
+        {
+          "word": "തരൂ,",
+          "start_offset": 258,
+          "end_offset": 267,
+          "start": 10.32,
+          "end": 10.68
+        },
+        {
+          "word": "തരൂ,",
+          "start_offset": 301,
+          "end_offset": 310,
+          "start": 12.040000000000001,
+          "end": 12.4
+        },
+        {
+          "word": "കുടിക്കൂ,",
+          "start_offset": 347,
+          "end_offset": 361,
+          "start": 13.88,
+          "end": 14.44
+        },
+        {
+          "word": "കുടിക്കൂ.",
+          "start_offset": 393,
+          "end_offset": 406,
+          "start": 15.72,
+          "end": 16.240000000000002
+        },
+        {
+          "word": "അങ്ങനെയാകട്ടെ,",
+          "start_offset": 477,
+          "end_offset": 497,
+          "start": 19.080000000000002,
+          "end": 19.88
+        },
+        {
+          "word": "അങ്ങനെയാകട്ടെ",
+          "start_offset": 539,
+          "end_offset": 557,
+          "start": 21.56,
+          "end": 22.28
+        },
+        {
+          "word": "പ്ലേറ്റ്.",
+          "start_offset": 608,
+          "end_offset": 619,
+          "start": 24.32,
+          "end": 24.76
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "start": 146.49,
+      "end": 171.44,
+      "text": "പ്ലേറ്റ് കൊണ്ടുപോകൂ. കൊണ്ടുപോകൂയാൻ പയ്യൻ വേലക്കാരൻ വേലക്കാരൻ അപന അപന പണം പണം 1.",
+      "raw_word_timestamps": [
+        {
+          "word": "പ്ലേറ്റ്",
+          "start_offset": 38,
+          "end_offset": 50,
+          "start": 1.52,
+          "end": 2.0
+        },
+        {
+          "word": "കൊണ്ടുപോകൂ.",
+          "start_offset": 93,
+          "end_offset": 110,
+          "start": 3.72,
+          "end": 4.4
+        },
+        {
+          "word": "കൊണ്ടുപോകൂയാൻ",
+          "start_offset": 164,
+          "end_offset": 225,
+          "start": 6.5600000000000005,
+          "end": 9.0
+        },
+        {
+          "word": "പയ്യൻ",
+          "start_offset": 262,
+          "end_offset": 272,
+          "start": 10.48,
+          "end": 10.88
+        },
+        {
+          "word": "വേലക്കാരൻ",
+          "start_offset": 323,
+          "end_offset": 339,
+          "start": 12.92,
+          "end": 13.56
+        },
+        {
+          "word": "വേലക്കാരൻ",
+          "start_offset": 376,
+          "end_offset": 394,
+          "start": 15.040000000000001,
+          "end": 15.76
+        },
+        {
+          "word": "അപന",
+          "start_offset": 427,
+          "end_offset": 434,
+          "start": 17.080000000000002,
+          "end": 17.36
+        },
+        {
+          "word": "അപന",
+          "start_offset": 472,
+          "end_offset": 479,
+          "start": 18.88,
+          "end": 19.16
+        },
+        {
+          "word": "പണം",
+          "start_offset": 517,
+          "end_offset": 524,
+          "start": 20.68,
+          "end": 20.96
+        },
+        {
+          "word": "പണം",
+          "start_offset": 566,
+          "end_offset": 574,
+          "start": 22.64,
+          "end": 22.96
+        },
+        {
+          "word": "1.",
+          "start_offset": 604,
+          "end_offset": 611,
+          "start": 24.16,
+          "end": 24.44
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "start": 171.44,
+      "end": 183.9396875,
+      "text": "ഒന്ന് കൊടുക്കൂ കൊടുക്കൂ പോകാം, പോകാം",
+      "raw_word_timestamps": [
+        {
+          "word": "ഒന്ന്",
+          "start_offset": 24,
+          "end_offset": 32,
+          "start": 0.96,
+          "end": 1.28
+        },
+        {
+          "word": "കൊടുക്കൂ",
+          "start_offset": 118,
+          "end_offset": 130,
+          "start": 4.72,
+          "end": 5.2
+        },
+        {
+          "word": "കൊടുക്കൂ",
+          "start_offset": 161,
+          "end_offset": 172,
+          "start": 6.44,
+          "end": 6.88
+        },
+        {
+          "word": "പോകാം,",
+          "start_offset": 217,
+          "end_offset": 229,
+          "start": 8.68,
+          "end": 9.16
+        },
+        {
+          "word": "പോകാം",
+          "start_offset": 269,
+          "end_offset": 281,
+          "start": 10.76,
+          "end": 11.24
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "word": "വൊക്കാബിയലറി",
+      "start": 51.05,
+      "end": 51.65,
+      "section_start": 1.36,
+      "section_end": 1.96,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പ്രാക്ടീസ്",
+      "start": 51.81,
+      "end": 52.33,
+      "section_start": 2.12,
+      "section_end": 2.64,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "റിപ്പീറ്റ്",
+      "start": 53.09,
+      "end": 53.45,
+      "section_start": 3.4,
+      "section_end": 3.76,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഈച്ച്",
+      "start": 53.49,
+      "end": 53.69,
+      "section_start": 3.8,
+      "section_end": 4.0,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഐറ്റം",
+      "start": 53.69,
+      "end": 53.97,
+      "section_start": 4.0,
+      "section_end": 4.28,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ആഫ്റ്റർ",
+      "start": 53.97,
+      "end": 54.25,
+      "section_start": 4.28,
+      "section_end": 4.56,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ദി",
+      "start": 54.29,
+      "end": 54.37,
+      "section_start": 4.6,
+      "section_end": 4.68,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സ്പീക്കർ.",
+      "start": 54.41,
+      "end": 54.85,
+      "section_start": 4.72,
+      "section_end": 5.16,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഈച്ച്",
+      "start": 55.13,
+      "end": 55.29,
+      "section_start": 5.44,
+      "section_end": 5.6,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഐറ്റം",
+      "start": 55.33,
+      "end": 55.61,
+      "section_start": 5.64,
+      "section_end": 5.92,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഈസ്",
+      "start": 55.61,
+      "end": 55.77,
+      "section_start": 5.92,
+      "section_end": 6.08,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഗിവ്",
+      "start": 55.77,
+      "end": 55.93,
+      "section_start": 6.08,
+      "section_end": 6.24,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ആൻഡ്",
+      "start": 55.93,
+      "end": 56.05,
+      "section_start": 6.24,
+      "section_end": 6.36,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ത്",
+      "start": 56.05,
+      "end": 56.13,
+      "section_start": 6.36,
+      "section_end": 6.44,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വോയിസ്.",
+      "start": 56.13,
+      "end": 56.49,
+      "section_start": 6.44,
+      "section_end": 6.8,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വെരി",
+      "start": 56.73,
+      "end": 57.01,
+      "section_start": 7.04,
+      "section_end": 7.32,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ലിസൺ",
+      "start": 57.53,
+      "end": 57.93,
+      "section_start": 7.84,
+      "section_end": 8.24,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ആൻഡ്",
+      "start": 58.01,
+      "end": 58.17,
+      "section_start": 8.32,
+      "section_end": 8.48,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "റിപ്പീറ്റ്.",
+      "start": 58.21,
+      "end": 58.73,
+      "section_start": 8.52,
+      "section_end": 9.04,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഒരു",
+      "start": 61.93,
+      "end": 62.09,
+      "section_start": 12.24,
+      "section_end": 12.4,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ചായ",
+      "start": 63.85,
+      "end": 64.17,
+      "section_start": 14.16,
+      "section_end": 14.48,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ചായ",
+      "start": 65.61,
+      "end": 65.93,
+      "section_start": 15.92,
+      "section_end": 16.24,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കട",
+      "start": 67.21,
+      "end": 67.53,
+      "section_start": 17.52,
+      "section_end": 17.84,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കട",
+      "start": 69.05,
+      "end": 69.37,
+      "section_start": 19.36,
+      "section_end": 19.68,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എന്തുണ്ട്?",
+      "start": 73.25,
+      "end": 73.65,
+      "section_start": 23.56,
+      "section_end": 23.96,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എല്ലാം",
+      "start": 75.34,
+      "end": 75.66,
+      "section_start": 25.65,
+      "section_end": 25.97,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എല്ലാം",
+      "start": 77.06,
+      "end": 77.38,
+      "section_start": 27.37,
+      "section_end": 27.69,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വേണം,",
+      "start": 78.78,
+      "end": 79.06,
+      "section_start": 29.09,
+      "section_end": 29.37,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വേണം.",
+      "start": 80.74,
+      "end": 81.18,
+      "section_start": 31.05,
+      "section_end": 31.49,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഇഷ്ടം",
+      "start": 82.7,
+      "end": 83.14,
+      "section_start": 33.01,
+      "section_end": 33.45,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഇഷ്ടം",
+      "start": 84.66,
+      "end": 85.14,
+      "section_start": 34.97,
+      "section_end": 35.45,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഇഷ്ടമാണ്,",
+      "start": 86.62,
+      "end": 87.06,
+      "section_start": 36.93,
+      "section_end": 37.37,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഇഷ്ടമാണ്,",
+      "start": 88.66,
+      "end": 89.14,
+      "section_start": 38.97,
+      "section_end": 39.45,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അല്ല",
+      "start": 90.7,
+      "end": 90.82,
+      "section_start": 41.01,
+      "section_end": 41.13,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അപ്പോൾ.",
+      "start": 94.1,
+      "end": 94.26,
+      "section_start": 44.41,
+      "section_end": 44.57,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കാപ്പി",
+      "start": 98.69,
+      "end": 99.17,
+      "section_start": 49.0,
+      "section_end": 49.48,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കാപ്പി",
+      "start": 100.61,
+      "end": 101.09,
+      "section_start": 50.92,
+      "section_end": 51.4,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എനിക്ക്",
+      "start": 102.53,
+      "end": 102.61,
+      "section_start": 52.84,
+      "section_end": 52.92,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വളരെ",
+      "start": 105.97,
+      "end": 106.25,
+      "section_start": 56.28,
+      "section_end": 56.56,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വളരെ",
+      "start": 107.37,
+      "end": 107.81,
+      "section_start": 57.68,
+      "section_end": 58.12,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൊണ്ടുവരൂ,",
+      "start": 109.73,
+      "end": 110.29,
+      "section_start": 60.04,
+      "section_end": 60.6,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൊണ്ടുവരൂ.",
+      "start": 111.65,
+      "end": 112.13,
+      "section_start": 61.96,
+      "section_end": 62.44,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ദോശ,",
+      "start": 113.61,
+      "end": 114.05,
+      "section_start": 63.92,
+      "section_end": 64.36,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ദോശ,",
+      "start": 115.49,
+      "end": 115.89,
+      "section_start": 65.8,
+      "section_end": 66.2,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ചമ്മന്തി",
+      "start": 116.97,
+      "end": 117.53,
+      "section_start": 67.28,
+      "section_end": 67.84,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ചമ്മന്തി",
+      "start": 118.89,
+      "end": 119.49,
+      "section_start": 69.2,
+      "section_end": 69.8,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഇഷ്ടമായി.",
+      "start": 121.01,
+      "end": 121.49,
+      "section_start": 71.32,
+      "section_end": 71.8,
+      "chunk": 2,
+      "near_chunk_edge": true
+    },
+    {
+      "word": "ഇഷ്ടമായി.",
+      "start": 122.88,
+      "end": 123.24,
+      "section_start": 73.19,
+      "section_end": 73.55,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കുറച്ച്",
+      "start": 124.76,
+      "end": 125.24,
+      "section_start": 75.07,
+      "section_end": 75.55,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കുറച്ച്",
+      "start": 126.44,
+      "end": 126.92,
+      "section_start": 76.75,
+      "section_end": 77.23,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൂടി",
+      "start": 128.48,
+      "end": 128.76,
+      "section_start": 78.79,
+      "section_end": 79.07,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൂടി",
+      "start": 130.32,
+      "end": 130.76,
+      "section_start": 80.63,
+      "section_end": 81.07,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "തരൂ,",
+      "start": 131.96,
+      "end": 132.32,
+      "section_start": 82.27,
+      "section_end": 82.63,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "തരൂ,",
+      "start": 133.68,
+      "end": 134.04,
+      "section_start": 83.99,
+      "section_end": 84.35,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കുടിക്കൂ,",
+      "start": 135.52,
+      "end": 136.08,
+      "section_start": 85.83,
+      "section_end": 86.39,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കുടിക്കൂ.",
+      "start": 137.36,
+      "end": 137.88,
+      "section_start": 87.67,
+      "section_end": 88.19,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അങ്ങനെയാകട്ടെ,",
+      "start": 140.72,
+      "end": 141.52,
+      "section_start": 91.03,
+      "section_end": 91.83,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അങ്ങനെയാകട്ടെ",
+      "start": 143.2,
+      "end": 143.92,
+      "section_start": 93.51,
+      "section_end": 94.23,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പ്ലേറ്റ്.",
+      "start": 145.96,
+      "end": 146.4,
+      "section_start": 96.27,
+      "section_end": 96.71,
+      "chunk": 3,
+      "near_chunk_edge": true
+    },
+    {
+      "word": "പ്ലേറ്റ്",
+      "start": 148.01,
+      "end": 148.49,
+      "section_start": 98.32,
+      "section_end": 98.8,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൊണ്ടുപോകൂ.",
+      "start": 150.21,
+      "end": 150.89,
+      "section_start": 100.52,
+      "section_end": 101.2,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൊണ്ടുപോകൂയാൻ",
+      "start": 153.05,
+      "end": 155.49,
+      "section_start": 103.36,
+      "section_end": 105.8,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പയ്യൻ",
+      "start": 156.97,
+      "end": 157.37,
+      "section_start": 107.28,
+      "section_end": 107.68,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വേലക്കാരൻ",
+      "start": 159.41,
+      "end": 160.05,
+      "section_start": 109.72,
+      "section_end": 110.36,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വേലക്കാരൻ",
+      "start": 161.53,
+      "end": 162.25,
+      "section_start": 111.84,
+      "section_end": 112.56,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അപന",
+      "start": 163.57,
+      "end": 163.85,
+      "section_start": 113.88,
+      "section_end": 114.16,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അപന",
+      "start": 165.37,
+      "end": 165.65,
+      "section_start": 115.68,
+      "section_end": 115.96,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പണം",
+      "start": 167.17,
+      "end": 167.45,
+      "section_start": 117.48,
+      "section_end": 117.76,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പണം",
+      "start": 169.13,
+      "end": 169.45,
+      "section_start": 119.44,
+      "section_end": 119.76,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "1.",
+      "start": 170.65,
+      "end": 170.93,
+      "section_start": 120.96,
+      "section_end": 121.24,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഒന്ന്",
+      "start": 172.4,
+      "end": 172.72,
+      "section_start": 122.71,
+      "section_end": 123.03,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൊടുക്കൂ",
+      "start": 176.16,
+      "end": 176.64,
+      "section_start": 126.47,
+      "section_end": 126.95,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൊടുക്കൂ",
+      "start": 177.88,
+      "end": 178.32,
+      "section_start": 128.19,
+      "section_end": 128.63,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പോകാം,",
+      "start": 180.12,
+      "end": 180.6,
+      "section_start": 130.43,
+      "section_end": 130.91,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പോകാം",
+      "start": 182.2,
+      "end": 182.68,
+      "section_start": 132.51,
+      "section_end": 132.99,
+      "chunk": 5,
+      "near_chunk_edge": false
+    }
+  ],
+  "text": "വൊക്കാബിയലറി പ്രാക്ടീസ് റിപ്പീറ്റ് ഈച്ച് ഐറ്റം ആഫ്റ്റർ ദി സ്പീക്കർ. ഈച്ച് ഐറ്റം ഈസ് ഗിവ് ആൻഡ് ത് വോയിസ്. വെരി ലിസൺ ആൻഡ് റിപ്പീറ്റ്. ഒരു ചായ ചായ കട കട എന്തുണ്ട്? എല്ലാം എല്ലാം വേണം, വേണം. ഇഷ്ടം ഇഷ്ടം ഇഷ്ടമാണ്, ഇഷ്ടമാണ്, അല്ല അപ്പോൾ. കാപ്പി കാപ്പി എനിക്ക് വളരെ വളരെ കൊണ്ടുവരൂ, കൊണ്ടുവരൂ. ദോശ, ദോശ, ചമ്മന്തി ചമ്മന്തി ഇഷ്ടമായി. ഇഷ്ടമായി. കുറച്ച് കുറച്ച് കൂടി കൂടി തരൂ, തരൂ, കുടിക്കൂ, കുടിക്കൂ. അങ്ങനെയാകട്ടെ, അങ്ങനെയാകട്ടെ പ്ലേറ്റ്. പ്ലേറ്റ് കൊണ്ടുപോകൂ. കൊണ്ടുപോകൂയാൻ പയ്യൻ വേലക്കാരൻ വേലക്കാരൻ അപന അപന പണം പണം 1. ഒന്ന് കൊടുക്കൂ കൊടുക്കൂ പോകാം, പോകാം"
+}

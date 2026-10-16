@@ -1,0 +1,508 @@
+{
+  "scope": "Interpretation of the completed Koyal trial, original-track timestamps and saved BuzzASR sample. Original textbook wording/meanings remain targets; no production cuts or labels changed.",
+  "summary": {
+    "total": 1005,
+    "context_excerpts": 68,
+    "categories": {
+      "automatic_disagreement": 160,
+      "automatic_agreement": 701,
+      "prior_label_agreement": 2,
+      "human_agreement": 99,
+      "human_disagreement": 22,
+      "user_flagged": 21
+    },
+    "empty_koyal": 7,
+    "followup": 207,
+    "clip_inference_seconds": 190.33569120819448,
+    "context_inference_seconds": 19.67321154201636,
+    "shared_buzzasr_sample": {
+      "clips": 16,
+      "koyal_agreements": 13,
+      "buzzasr_agreements": 5,
+      "previous_label_agreements": 8
+    }
+  },
+  "timestamp_summary": {
+    "timestamp_lessons": 25,
+    "timestamped_words": 2296,
+    "words_near_recognition_chunk_edges": 52,
+    "published_clips_examined": 1005,
+    "clips_with_timestamp_crossings": 22,
+    "printed_vocabulary_rows": 941,
+    "printed_rows_with_candidate_spans": 761,
+    "printed_rows_without_exact_span": 180,
+    "production_changes": false
+  },
+  "lessons": [
+    "Koyal is useful as additional evidence and often recovers clear source vocabulary and grammatical forms.",
+    "The 160 disagreements with other automatic labels are not 160 proven errors; many are orthography, numbers, minor recognition errors or added speech.",
+    "The shared 16-clip comparison is 13 Koyal agreements versus 5 BuzzASR agreements with the saved user labels, not a representative accuracy benchmark.",
+    "The 99/121 agreement count excludes the 21 user flags; the 22 disagreements are individually assessed below.",
+    "Longer context resolves some isolated recognition failures but also sometimes omits speech. Source word timestamps can merge neighboring words across long pauses.",
+    "The 22 timestamp-crossing flags are diagnostics; many arise from merged ASR words rather than proven clipping errors.",
+    "The exact printed-row cut proposals preserve all 941 source entries and meanings. Their 761 candidate matches still require waveform/listening checks; the other 180 are unresolved, not proof of missing audio or textbook mistakes.",
+    "Check true printed-text errors separately against the source edition and language evidence. Preserve loanword/historical spelling differences unless a correction is established."
+  ],
+  "individual_cases": [
+    {
+      "id": "lesson_03_word_005",
+      "assessment": "recognition_uncertain",
+      "reason": "Koyal കയ്യൽ and BuzzASR കയ്യല് are imperfect. Keep user കൈയിൽ as reference; do not replace it merely because both models share the same phonetic error.",
+      "published": "കൈയിൽ ഉണ്ട്",
+      "user_reference": "കൈയിൽ",
+      "koyal": "കയ്യൽ കയ്യൽ",
+      "longer_context": "",
+      "notes": ""
+    },
+    {
+      "id": "lesson_03_word_018",
+      "assessment": "number_formatting",
+      "reason": "അഞ്ച് 5 gives the spoken number in words and digits. Exact repetition normalization intentionally does not equate digits with words.",
+      "published": "അഞ്ച്",
+      "user_reference": "അഞ്ച്",
+      "koyal": "അഞ്ച് 5",
+      "longer_context": "",
+      "notes": ""
+    },
+    {
+      "id": "lesson_05_word_001",
+      "assessment": "imperfect_repeat",
+      "reason": "First കൃഷ്ണൻ matches, second കൃഷ്ണാണ് differs. This is not evidence for changing the textbook name.",
+      "published": "കൃഷ്ണൻ",
+      "user_reference": "കൃഷ്ണൻ",
+      "koyal": "കൃഷ്ണൻ കൃഷ്ണാണ്",
+      "longer_context": "",
+      "notes": ""
+    },
+    {
+      "id": "lesson_05_word_005",
+      "assessment": "likely_review_label_error",
+      "reason": "Isolated Koyal and the longer context both place പഠിക്കുന്നു here, between ചെയ്യുന്നു and വായിക്കുന്നു. BuzzASR also leans toward പഠിക്കുന്നു. Preserve the user confirmation in the archive but revisit the published വായിക്കുന്നു label.",
+      "published": "വായിക്കുന്നു",
+      "user_reference": "വായിക്കുന്നു",
+      "koyal": "പഠിക്കുന്നു",
+      "longer_context": "ചെയ്യുന്നു, ചെയ്യുന്നു, പഠിക്കുന്നു, പഠിക്കുന്നു, വായ്ക്കുന്നു",
+      "notes": ""
+    },
+    {
+      "id": "lesson_10_word_014",
+      "assessment": "likely_review_label_error",
+      "reason": "Isolated recognition and original-context sequence agree on കിഴക്ക് then കിഴക്കേ (015). This supports the user’s initial concern about the missing long final vowel.",
+      "published": "കിഴക്കേ",
+      "user_reference": "കിഴക്കേ",
+      "koyal": "കിഴക്ക് കിഴക്ക്",
+      "longer_context": "അറബിക്കടൽ, അറബിക്കടൽ, കിഴക്ക്, കിഴക്ക്, കിഴക്കെ, കിഴക്കേ",
+      "notes": ""
+    },
+    {
+      "id": "lesson_14_word_013",
+      "assessment": "spelling_normalization",
+      "reason": "Both isolated/context Koyal give നിര്യാണം; previous നിരിയാണം was phonetic ASR spelling. The textbook uses ചരമം, a different word meaning death, so keep the printed entry and treat the recorded synonym separately.",
+      "published": "നിരിയാണം",
+      "user_reference": "നിരിയാണം",
+      "koyal": "നിര്യാണം നിര്യാണം",
+      "longer_context": "നിലവാരം നിലവാരം നിര്യാണം നിര്യാണം മരണം മരണം",
+      "notes": ""
+    },
+    {
+      "id": "lesson_15_word_037",
+      "assessment": "sandhi_variant",
+      "reason": "പിന്നെ ആകട്ടെ and പിന്നെയാകട്ടെ differ by joining/elision. Context is compatible; this is not a different vocabulary item.",
+      "published": "തോന്നുക",
+      "user_reference": "പിന്നെ ആകട്ടെ",
+      "koyal": "പിന്നെയാകട്ടെ പിന്നെയാകട്ടെ",
+      "longer_context": "",
+      "notes": ""
+    },
+    {
+      "id": "lesson_16_word_006",
+      "assessment": "orthography_difference",
+      "reason": "ദിനപ്പത്രം versus ദിനപത്രം differs in consonant doubling. Keep the printed source form pending any separate spelling review.",
+      "published": "ദിനപ്പത്രം",
+      "user_reference": "ദിനപ്പത്രം",
+      "koyal": "ദിനപത്രം ദിനപത്രം",
+      "longer_context": "",
+      "notes": ""
+    },
+    {
+      "id": "lesson_16_word_032",
+      "assessment": "orthography_difference",
+      "reason": "ഇൻഡ്യ versus ഇന്ത്യ is an orthographic variant; preserve the textbook spelling for this task.",
+      "published": "ഇൻഡ്യ",
+      "user_reference": "ഇൻഡ്യ",
+      "koyal": "ഇന്ത്യ",
+      "longer_context": "",
+      "notes": ""
+    },
+    {
+      "id": "lesson_16_word_036",
+      "assessment": "probable_koyal_error",
+      "reason": "Koyal നിൽക്കുക conflicts with the user-confirmed വിൽക്കുക, Whisper/BuzzASR evidence, and following വിറ്റു. Do not let Koyal overwrite the reviewed label.",
+      "published": "വിൽക്കുക",
+      "user_reference": "വിൽക്കുക",
+      "koyal": "നിൽക്കുക, നിൽക്കുക",
+      "longer_context": "",
+      "notes": ""
+    },
+    {
+      "id": "lesson_17_word_006",
+      "assessment": "name_joining_variant",
+      "reason": "കല്യാണി അമ്മ versus കല്യാണിയമ്മ differs in joining the name and അമ്മ; no evidence to substitute a different name.",
+      "published": "വലിയ ഇഷ്ടമാണ്",
+      "user_reference": "കല്യാണിയമ്മ",
+      "koyal": "കല്യാണി അമ്മ കല്യാണി അമ്മ",
+      "longer_context": "",
+      "notes": ""
+    },
+    {
+      "id": "lesson_17_word_023",
+      "assessment": "ending_uncertain",
+      "reason": "Koyal emits final long ഈ in കൂട്ടുകാരീ. Keep user-confirmed printed കൂട്ടുകാരി; final-vowel perception is not independently verified.",
+      "published": "കൂട്ടുകാരി",
+      "user_reference": "കൂട്ടുകാരി",
+      "koyal": "കൂട്ടുകാരീ, കൂട്ടുകാരീ",
+      "longer_context": "",
+      "notes": ""
+    },
+    {
+      "id": "lesson_18_word_021",
+      "assessment": "number_and_loanword_spelling",
+      "reason": "4 versus നാല് and ഫെർലോങ്ങ് versus ഫർലാംഗ് explain the strict disagreement. Longer context gives the short expression first, then full phrase, supporting the lesson sequence. Preserve printed wording; timestamp refinement remains provisional.",
+      "published": "വീഴാതെ നോക്കണേ!",
+      "user_reference": "നാല് ഫർലാംഗാണ് ഉള്ളത്",
+      "koyal": "4 ഫെർലോങ്ങാണ് ഉള്ളത്. 4 ഫെർലോങ്ങാണ് ഉള്ളത്.",
+      "longer_context": "4 ഫെർലോങ് ആണ്. 4 ഫെർലോങ് ആണ്. 4 ഫെർലോങ് ആണ് ഉള്ളത്. 4 ഫെർലോങ് ആണ് ഉള്ളത് കൊച്ച് കൊച്ച്.",
+      "notes": ""
+    },
+    {
+      "id": "lesson_20_word_022",
+      "assessment": "likely_review_label_error",
+      "reason": "Isolated and longer-context Koyal say ആകാശം, followed by ആകാശത്തോളം. Whisper English and isolated Malayalam also favor sky. Earlier advice that this was merely a pronunciation of ആഘോഷം was wrong.",
+      "published": "ആഘോഷം",
+      "user_reference": "ആഘോഷം",
+      "koyal": "ആകാശം ആകാശം",
+      "longer_context": "ഉടനെ ഉടനെ ആകാശം ആകാശത്തോളം",
+      "notes": "middle vowel unclear; sounds like agashum"
+    },
+    {
+      "id": "lesson_20_word_041",
+      "assessment": "announcement_unresolved",
+      "reason": "Koyal isolated and context give പാട്ടു; English Whisper gives Part 2 and the location is a section break. A Malayalam-only recognizer may transliterate English Part Two similarly. Neither interpretation is independently heard; keep flagged, do not add a song entry or automatically remove it.",
+      "published": "പിന്നിൽ",
+      "user_reference": "പാട്ട്",
+      "koyal": "പാട്ടു",
+      "longer_context": "ആഘോഷിച്ചു ആഘോഷിച്ചു പാട്ടു ആഘോഷം ആഘോഷം",
+      "notes": "sounds like pattoo for some reason"
+    },
+    {
+      "id": "lesson_20_word_046",
+      "assessment": "morphology_or_recognition_difference",
+      "reason": "The printed ഉണ്ണുക / ഉണ്ടു pair concerns dining. Koyal ഉണ്ട് is not a reason to substitute the existential verb; exact consonant ending remains an audio check.",
+      "published": "ഉണ്ടു",
+      "user_reference": "ഉണ്ടു",
+      "koyal": "ഉണ്ട്, ഉണ്ട്",
+      "longer_context": "",
+      "notes": ""
+    },
+    {
+      "id": "lesson_21_word_023",
+      "assessment": "sandhi_variant",
+      "reason": "പ്രസന്നതയില്ലാത്തത് versus പ്രസന്നത ഇല്ലാത്തത് are joined/unjoined realizations of the same phrase. Preserve the printed form.",
+      "published": "പ്രസന്നതയില്ലാത്തത്",
+      "user_reference": "പ്രസന്നതയില്ലാത്തത്",
+      "koyal": "പ്രസന്നത ഇല്ലാത്തത്",
+      "longer_context": "",
+      "notes": ""
+    },
+    {
+      "id": "lesson_23_word_005",
+      "assessment": "spelling_normalization",
+      "reason": "Printed conditional pattern and Koyal isolated/context support ആയിരുന്നു. Previous ആയ്രണു is ASR spelling, not a textbook form to preserve.",
+      "published": "ആയ്രണു",
+      "user_reference": "ആയ്രണു",
+      "koyal": "ആയിരുന്നു ആയിരുന്നു",
+      "longer_context": "ഉണ്ടായിരുന്നെങ്കിൽ ആയിരുന്നു ആയിരുന്നു വിറ്റാൽ വിറ്റാൽ",
+      "notes": ""
+    },
+    {
+      "id": "lesson_23_word_006",
+      "assessment": "probable_koyal_error",
+      "reason": "Koyal isolated ബിറ്റാൽ ഭിറ്റാൽ is garbled. The longer source context says വിറ്റാൽ വിറ്റാൽ and fits printed വിറ്റാൽ മതിയായിരുന്നു, supporting the user correction.",
+      "published": "ഉണ്ടായിരുന്നെങ്കിൽ ---ആയിരുന്നു",
+      "user_reference": "വിറ്റാൽ",
+      "koyal": "ബിറ്റാൽ ഭിറ്റാൽ",
+      "longer_context": "",
+      "notes": ""
+    },
+    {
+      "id": "lesson_24_word_012",
+      "assessment": "loanword_spelling",
+      "reason": "Koyal നഴ്സ് versus textbook/user നേഴ്സ് refers to nurse. Preserve the lesson’s spelling; recognition is not a reason to rewrite the entry.",
+      "published": "നര്സര്",
+      "user_reference": "നേഴ്സ്",
+      "koyal": "നഴ്സ് നഴ്സ്",
+      "longer_context": "",
+      "notes": ""
+    },
+    {
+      "id": "lesson_24_word_027",
+      "assessment": "boundary_issue_corroborated",
+      "reason": "Isolated, contextual and timed recognition include സ്നേഹം സ്നേഹം തമ്മിൽ. User’s extra-word note is supported. Locate the end before തമ്മിൽ and restore its first repetition to the neighboring entry; do not append തമ്മിൽ to the vocabulary label.",
+      "published": "സ്നേഹിക്കുക",
+      "user_reference": "സ്നേഹം",
+      "koyal": "സ്നേഹം സ്നേഹം തമ്മിൽ",
+      "longer_context": "സ്നേഹിക്കുക, സ്നേഹിക്കുക. സ്നേഹം, സ്നേഹം തമ്മിൽ തമ്മിൽ.",
+      "notes": "sounds liek there's an extra word at the end like tamin or something"
+    },
+    {
+      "id": "lesson_25_word_046",
+      "assessment": "recorded_form_variation",
+      "reason": "Koyal gives കയറ് കയർ, two listed coir forms rather than exact identical repeats. Preserve the vocabulary’s listed variants.",
+      "published": "കയറ്",
+      "user_reference": "കയറ്",
+      "koyal": "കയറ് കയർ",
+      "longer_context": "",
+      "notes": ""
+    },
+    {
+      "id": "lesson_13_word_033",
+      "assessment": "user_review_corroborated",
+      "reason": "Koyal isolated says ഒട്ടിച്ചു ഒട്ടിച്ചു; longer context orders ഒട്ടിക്കുക, ഒട്ടിച്ചു, കാപ്പി കുടിക്കുക. This supports the user confirmation and resolves the earlier Whisper-based coffee conflict provisionally in its favor.",
+      "published": "ഒട്ടിച്ചു",
+      "user_reference": "ഒട്ടിച്ചു",
+      "koyal": "ഒട്ടിച്ചു ഒട്ടിച്ചു",
+      "longer_context": "ഒട്ടിക്കുക ഒട്ടിക്കുക ഒട്ടിച്ചു ഒട്ടിച്ചു കാപ്പി കുടിക്കുക. കാപ്പി കുടിക്കുക",
+      "notes": ""
+    },
+    {
+      "id": "lesson_05_word_006",
+      "assessment": "longer_context_recovers_empty_isolated",
+      "reason": "Isolated Koyal is empty, but both neighboring excerpt and original-timeline recognition say വായിക്കുന്നു here. Empty isolated output is not silence, and the published ഇരിക്കുന്നു appears misplaced.",
+      "published": "ഇരിക്കുന്നു",
+      "user_reference": "",
+      "koyal": "",
+      "longer_context": "പഠിക്കുന്നു, പഠിക്കുന്നു, വായിക്കുന്നു വായിക്കുന്നു സിനിമ, സിനിമ.",
+      "notes": ""
+    },
+    {
+      "id": "lesson_19_word_047",
+      "assessment": "full_sentence_mislabeled",
+      "reason": "Isolated and longer Koyal both give എനിക്ക് നിങ്ങളെ സ്ഥലം മാറ്റേണ്ടതായി വരും, the printed threat. The published plea സ്ഥലം മാറ്റരുതേ belongs to user-reviewed 048.",
+      "published": "സ്ഥലം മാറ്റരുതേ",
+      "user_reference": "",
+      "koyal": "എനിക്ക് നിങ്ങളെ സ്ഥലം മാറ്റേണ്ടതായി വരും. എനിക്ക് നിങ്ങളെ സ്ഥലം മാറ്റേണ്ടതായി വരും.",
+      "longer_context": "വരും വരും. എനിക്ക് നിങ്ങളെ സ്ഥലം മാറ്റേണ്ടതായി വരും. എനിക്ക് നിങ്ങളെ സ്ഥലം മാറ്റേണ്ടതായി വരും. സ്ഥലം മാറ്റരുതേ. സ്ഥലം മാറ്റരുതേ.",
+      "notes": ""
+    },
+    {
+      "id": "lesson_24_word_011",
+      "assessment": "neighbor_label_error",
+      "reason": "Isolated and longer context agree നേരിൽ before nurse. Preserve the existing printed നേരിൽ and നേഴ്സ് rows and attach fitting source spans.",
+      "published": "നേഴ്സ്",
+      "user_reference": "",
+      "koyal": "നേരിൽ നേരിൽ",
+      "longer_context": "വിവരം വിവരം നേരിൽ നേരിൽ നഴ്സ് നഴ്സ്",
+      "notes": ""
+    },
+    {
+      "id": "lesson_25_word_024",
+      "assessment": "neighbor_label_error",
+      "reason": "Isolated and longer context agree മഞ്ഞൾ before കുരുമുളക് at 025. The model should repair the assignment, not change the turmeric or pepper entries.",
+      "published": "കുരുമുളക്",
+      "user_reference": "",
+      "koyal": "മഞ്ഞൾ മഞ്ഞൾ",
+      "longer_context": "ഇഞ്ചി ഇഞ്ചി മഞ്ഞൾ മഞ്ഞൾ കുരുമുളക് കുരുമുളക്",
+      "notes": ""
+    },
+    {
+      "id": "lesson_24_word_051",
+      "assessment": "boundary_issue_corroborated",
+      "reason": "Both isolated and timed recognition include ഗുണം twice then കുറവ്. The next clip contains the later കുറവ് repetition. Candidate recut should separate the existing printed entries.",
+      "published": "ഗുണം",
+      "user_reference": "",
+      "koyal": "ഗുണം ഗുണം കുറവ്",
+      "longer_context": "അപരിചിതം അപരിചിതം ഗുണം. ഗുണം, കുറവ് കുറവ്",
+      "notes": ""
+    },
+    {
+      "id": "lesson_21_word_015",
+      "assessment": "boundary_issue_corroborated",
+      "reason": "Isolated and timed recognition include തരുക തരുക plus first പറഞ്ഞുതരുക; 016 contains the following repetition. Keep printed construction intact and inspect regrouping around its source span.",
+      "published": "പറഞ്ഞുതരുക",
+      "user_reference": "",
+      "koyal": "തരുക, തരുക, പറഞ്ഞു തരുക",
+      "longer_context": "",
+      "notes": ""
+    }
+  ],
+  "user_flags_with_new_evidence": [
+    {
+      "id": "lesson_09_word_004",
+      "user_note": "",
+      "koyal": "ചേച്ചിയുടേത് ചേച്ചിയുടേത്",
+      "longer_context": "ആരുടേത്? ആരുടേത്? ചേച്ചിയുടേത് ചേച്ചിയുടേത് നന്നായിരിക്കുന്നു, നന്നായിരിക്കുന്നു",
+      "candidate_from_context_review": "ചേച്ചിയുടേത്?",
+      "status": "Still a user flag; recognition is evidence, not a new confirmation."
+    },
+    {
+      "id": "lesson_10_word_028",
+      "user_note": "",
+      "koyal": "അത്തം അത്തം",
+      "longer_context": "വടക്കേ വടക്കേ അറ്റം അറ്റം തിരുവനന്തപുരത്ത് തിരുവനന്തപുരത്ത്",
+      "candidate_from_context_review": "അറ്റം",
+      "status": "Still a user flag; recognition is evidence, not a new confirmation."
+    },
+    {
+      "id": "lesson_10_word_035",
+      "user_note": "",
+      "koyal": "ക്രെയിൻ ക്രെയിൻ",
+      "longer_context": "യാത്ര യാത്ര ട്രെയിൻ ട്രെയിൻ ദിവസം ദിവസം",
+      "candidate_from_context_review": "ട്രെയിൻ",
+      "status": "Still a user flag; recognition is evidence, not a new confirmation."
+    },
+    {
+      "id": "lesson_11_word_005",
+      "user_note": "",
+      "koyal": "എന്തിനാണ്?",
+      "longer_context": "എന്തിന് എന്തിനാണ് അയച്ചത് അയച്ചത്?",
+      "candidate_from_context_review": "എന്തിനാണ് അയച്ചത്? (extent uncertain)",
+      "status": "Still a user flag; recognition is evidence, not a new confirmation."
+    },
+    {
+      "id": "lesson_11_word_012",
+      "user_note": "",
+      "koyal": "അത്ര",
+      "longer_context": "അത്ര അത്ര അത്രയും അത്രയും",
+      "candidate_from_context_review": "അത്ര",
+      "status": "Still a user flag; recognition is evidence, not a new confirmation."
+    },
+    {
+      "id": "lesson_11_word_035",
+      "user_note": "nothing",
+      "koyal": "",
+      "longer_context": "അടി വേണോ? അടി വേണോ?",
+      "candidate_from_context_review": "",
+      "status": "Still a user flag; recognition is evidence, not a new confirmation."
+    },
+    {
+      "id": "lesson_14_word_010",
+      "user_note": "",
+      "koyal": "രംഗം രംഗം",
+      "longer_context": "യുവതി, യുവതി, രംഗം, രംഗം, വ്യാപാരം, വ്യാപാരം.",
+      "candidate_from_context_review": "രംഗം",
+      "status": "Still a user flag; recognition is evidence, not a new confirmation."
+    },
+    {
+      "id": "lesson_15_word_005",
+      "user_note": "",
+      "koyal": "അയക്കുക അയക്കുക",
+      "longer_context": "കേശവൻ നായർ അയക്കുക യാത്ര യാത്ര അയക്കുക",
+      "candidate_from_context_review": "അയക്കുക",
+      "status": "Still a user flag; recognition is evidence, not a new confirmation."
+    },
+    {
+      "id": "lesson_15_word_020",
+      "user_note": "nothing",
+      "koyal": "",
+      "longer_context": "വളരെ സന്തോഷം വളരെ സന്തോഷം വളരെ സന്തോഷം ആയി വളരെ സന്തോഷമായി.",
+      "candidate_from_context_review": "",
+      "status": "Still a user flag; recognition is evidence, not a new confirmation."
+    },
+    {
+      "id": "lesson_15_word_034",
+      "user_note": "",
+      "koyal": "തോന്നുക തോന്നുക",
+      "longer_context": "മണിക്കൂർ മണിക്കൂർ തൊന്നുക, തൊന്നുക, തോന്നി, തോന്നി",
+      "candidate_from_context_review": "തോന്നുക",
+      "status": "Still a user flag; recognition is evidence, not a new confirmation."
+    },
+    {
+      "id": "lesson_16_word_029",
+      "user_note": "",
+      "koyal": "എഴുതുക, എഴുതുക",
+      "longer_context": "തർജ്ജിമ ചെയ്തു, തർജ്ജിമ ചെയ്തു. എഴുതുക, എഴുതുക, എഴുതി എഴുതി.",
+      "candidate_from_context_review": "എഴുതുക",
+      "status": "Still a user flag; recognition is evidence, not a new confirmation."
+    },
+    {
+      "id": "lesson_16_word_030",
+      "user_note": "",
+      "koyal": "എഴുതി എഴുതി",
+      "longer_context": "എഴുതുക, എഴുതുക, എഴുതി എഴുതി എഴുതി വരും, എഴുതി വരും.",
+      "candidate_from_context_review": "എഴുതി",
+      "status": "Still a user flag; recognition is evidence, not a new confirmation."
+    },
+    {
+      "id": "lesson_16_word_043",
+      "user_note": "silence",
+      "koyal": "",
+      "longer_context": "പ്രസിദ്ധീകരിക്കപ്പെടുന്നു",
+      "candidate_from_context_review": "",
+      "status": "Still a user flag; recognition is evidence, not a new confirmation."
+    },
+    {
+      "id": "lesson_19_word_022",
+      "user_note": "",
+      "koyal": "ഇല്ലാത്തതുകൊണ്ട് ഇല്ലാത്തതുകൊണ്ട്",
+      "longer_context": "ഓരോ കഥകൾ ഇല്ലാത്തതുകൊണ്ട് വിശ്വാസം വിശ്വാസം.",
+      "candidate_from_context_review": "ഇല്ലാത്തത് കൊണ്ട്",
+      "status": "Still a user flag; recognition is evidence, not a new confirmation."
+    },
+    {
+      "id": "lesson_20_word_070",
+      "user_note": "silence",
+      "koyal": "",
+      "longer_context": "കൂടുക കൂടുക കൂടി കൂടി",
+      "candidate_from_context_review": "",
+      "status": "Still a user flag; recognition is evidence, not a new confirmation."
+    },
+    {
+      "id": "lesson_21_word_002",
+      "user_note": "**sounds like akam; unsure.**",
+      "koyal": "അകം അകം",
+      "longer_context": "ഇംഗ്ലീഷ് ഇംഗ്ലീഷ് അകം അകം 10 മിനിറ്റിനകം 10 മിനിറ്റിനകം.",
+      "candidate_from_context_review": "അകം / -കം",
+      "status": "Still a user flag; recognition is evidence, not a new confirmation."
+    },
+    {
+      "id": "lesson_21_word_013",
+      "user_note": "silence",
+      "koyal": "പിന്നെ",
+      "longer_context": "ചോദിച്ചു കളയാം. അറിയാമായിരിക്കാം അറിയാമായിരിക്കാം",
+      "candidate_from_context_review": "",
+      "status": "Still a user flag; recognition is evidence, not a new confirmation."
+    },
+    {
+      "id": "lesson_21_word_016",
+      "user_note": "",
+      "koyal": "പറഞ്ഞു തരുക",
+      "longer_context": "തരുക, തരുക, പറഞ്ഞു തരുക, പറഞ്ഞു തരുക. പറഞ്ഞുകൊടുക്കുക. പറഞ്ഞുകൊടുക്കുക.",
+      "candidate_from_context_review": "പറഞ്ഞുതരുക?",
+      "status": "Still a user flag; recognition is evidence, not a new confirmation."
+    },
+    {
+      "id": "lesson_21_word_019",
+      "user_note": "",
+      "koyal": "വിപരീത പദം",
+      "longer_context": "ദുഃഖം ദുഃഖം വിപരീതപദം വിപരീത പദം സുഖം സുഖം.",
+      "candidate_from_context_review": "വിപരീതപദം",
+      "status": "Still a user flag; recognition is evidence, not a new confirmation."
+    },
+    {
+      "id": "lesson_22_word_059",
+      "user_note": "just a click (no words)",
+      "koyal": "",
+      "longer_context": "വരാറായി വരാറായി",
+      "candidate_from_context_review": "",
+      "status": "Still a user flag; recognition is evidence, not a new confirmation."
+    },
+    {
+      "id": "lesson_24_word_035",
+      "user_note": "",
+      "koyal": "അന്യോന്യം അന്യോന്യം",
+      "longer_context": "ചില ചില അന്യ അന്യോന്യം നിലനിൽക്കുക നിലനിൽക്കുക",
+      "candidate_from_context_review": "അന്യോന്യം",
+      "status": "Still a user flag; recognition is evidence, not a new confirmation."
+    }
+  ]
+}

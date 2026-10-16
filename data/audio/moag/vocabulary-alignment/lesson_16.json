@@ -1,0 +1,1644 @@
+{
+  "pipeline_version": 6,
+  "lesson": 16,
+  "source": "data/audio/moag/lesson_16.mp3",
+  "model": "Whisper large-v3 (32 encoder and 32 decoder layers), MLX",
+  "range_start": 12.85,
+  "range_end": 221.85,
+  "method": "Acoustic cepstrum comparison pairs repeated utterances independently of textbook order; large-v3 word end timestamps matched to pauses, then global spelling assignment against printed vocabulary (order is only a weak tie-breaker). Low-confidence labels require review. Raw recognizer text retained.",
+  "words": [
+    {
+      "utterances": [
+        {
+          "start": 14.2074,
+          "end": 15.4219
+        },
+        {
+          "start": 15.6469,
+          "end": 16.9161
+        }
+      ],
+      "raw_texts": [
+        "മിക്കവാരും",
+        ""
+      ],
+      "english_segments": [],
+      "transcript": "മിക്കവാറും",
+      "meaning": "nearly, almost",
+      "textbook_row": 0,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_16_word_001"
+    },
+    {
+      "utterances": [
+        {
+          "start": 18.0212,
+          "end": 18.9391
+        },
+        {
+          "start": 19.8734,
+          "end": 20.773
+        }
+      ],
+      "raw_texts": [
+        "എല്ലാവെരും",
+        "എല്ലാവെരും"
+      ],
+      "english_segments": [],
+      "transcript": "എല്ലാവരും",
+      "meaning": "everyone (full form of എല്ലാരും)",
+      "textbook_row": 1,
+      "similarity": 0.933,
+      "status": "matched",
+      "id": "lesson_16_word_002"
+    },
+    {
+      "utterances": [
+        {
+          "start": 21.6578,
+          "end": 22.6302
+        },
+        {
+          "start": 23.606,
+          "end": 24.2847
+        }
+      ],
+      "raw_texts": [
+        "എല്ലാവെരും",
+        ""
+      ],
+      "english_segments": [],
+      "transcript": "എല്ലാ ---ഉം",
+      "meaning": "all",
+      "textbook_row": 41,
+      "similarity": 0.615,
+      "status": "review",
+      "id": "lesson_16_word_003"
+    },
+    {
+      "utterances": [
+        {
+          "start": 25.4585,
+          "end": 26.1862
+        },
+        {
+          "start": 27.0225,
+          "end": 27.72
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [],
+      "transcript": "പല",
+      "meaning": "various (adj) (noun is പലത്)",
+      "textbook_row": 3,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_16_word_004"
+    },
+    {
+      "utterances": [
+        {
+          "start": 28.6645,
+          "end": 29.3601
+        },
+        {
+          "start": 30.3791,
+          "end": 31.0633
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [],
+      "transcript": "എന്തെങ്കിലും",
+      "meaning": "something, anything",
+      "textbook_row": 13,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_16_word_005"
+    },
+    {
+      "utterances": [
+        {
+          "start": 32.2438,
+          "end": 33.2761
+        },
+        {
+          "start": 34.2821,
+          "end": 35.3346
+        }
+      ],
+      "raw_texts": [
+        "",
+        "എല്ലാവെരും എല്"
+      ],
+      "english_segments": [
+        {
+          "start": 32.45,
+          "end": 41.99,
+          "text": " Dinapatram Kerala Kaumudi"
+        }
+      ],
+      "transcript": "ദിനപ്പത്രം",
+      "meaning": "daily newspaper",
+      "textbook_row": 5,
+      "similarity": 0.576,
+      "status": "review",
+      "id": "lesson_16_word_006"
+    },
+    {
+      "utterances": [
+        {
+          "start": 36.7662,
+          "end": 37.9161
+        },
+        {
+          "start": 39.157,
+          "end": 40.38
+        }
+      ],
+      "raw_texts": [
+        "കേരലാ കോമുദീ",
+        "കേരലാ കോമുദീ"
+      ],
+      "english_segments": [
+        {
+          "start": 32.45,
+          "end": 41.99,
+          "text": " Dinapatram Kerala Kaumudi"
+        }
+      ],
+      "transcript": "കേരള കൗമുദി",
+      "meaning": "a Malayalam newspaper (literally, Kerala Moonlight)",
+      "textbook_row": 6,
+      "similarity": 0.857,
+      "status": "matched",
+      "id": "lesson_16_word_007"
+    },
+    {
+      "utterances": [
+        {
+          "start": 41.3912,
+          "end": 43.1402
+        },
+        {
+          "start": 44.5216,
+          "end": 45.9137
+        }
+      ],
+      "raw_texts": [
+        "മല്യാളാ മനോരമാ",
+        "മല്യാളാ മനോരമാ"
+      ],
+      "english_segments": [
+        {
+          "start": 32.45,
+          "end": 41.99,
+          "text": " Dinapatram Kerala Kaumudi"
+        },
+        {
+          "start": 41.99,
+          "end": 52.41,
+          "text": " Malayala Manorama Madhra Bhumi"
+        }
+      ],
+      "transcript": "മലയാള മനോരമ",
+      "meaning": "a Malayalam newspaper (മനോരമ – Mind's Delight)",
+      "textbook_row": 7,
+      "similarity": 0.909,
+      "status": "matched",
+      "id": "lesson_16_word_008"
+    },
+    {
+      "utterances": [
+        {
+          "start": 47.3755,
+          "end": 48.4448
+        },
+        {
+          "start": 49.586,
+          "end": 50.792
+        }
+      ],
+      "raw_texts": [
+        "മാധു�",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 41.99,
+          "end": 52.41,
+          "text": " Malayala Manorama Madhra Bhumi"
+        }
+      ],
+      "transcript": "മാതൃഭൂമി",
+      "meaning": "a Malayalam newspaper (literally, Motherland)",
+      "textbook_row": 8,
+      "similarity": 0.667,
+      "status": "review",
+      "id": "lesson_16_word_009"
+    },
+    {
+      "utterances": [
+        {
+          "start": 52.0242,
+          "end": 53.101
+        },
+        {
+          "start": 54.237,
+          "end": 55.2867
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 41.99,
+          "end": 52.41,
+          "text": " Malayala Manorama Madhra Bhumi"
+        },
+        {
+          "start": 52.41,
+          "end": 61.21,
+          "text": " Avidutthe Achadikyuga"
+        }
+      ],
+      "transcript": "ഇവിടുത്തെ",
+      "meaning": "of this place (genitive of ഇവിടെ)",
+      "textbook_row": 10,
+      "similarity": 0.475,
+      "status": "review",
+      "id": "lesson_16_word_010"
+    },
+    {
+      "utterances": [
+        {
+          "start": 56.4804,
+          "end": 57.406
+        },
+        {
+          "start": 58.3819,
+          "end": 59.7502
+        }
+      ],
+      "raw_texts": [
+        "",
+        "അവുഡുത്തെ"
+      ],
+      "english_segments": [
+        {
+          "start": 52.41,
+          "end": 61.21,
+          "text": " Avidutthe Achadikyuga"
+        }
+      ],
+      "transcript": "അവിടുത്തെ",
+      "meaning": "of that place (genitive of അവിടെ)",
+      "textbook_row": 9,
+      "similarity": 0.857,
+      "status": "matched",
+      "id": "lesson_16_word_011"
+    },
+    {
+      "utterances": [
+        {
+          "start": 61.0592,
+          "end": 62.1428
+        },
+        {
+          "start": 63.1758,
+          "end": 64.1977
+        }
+      ],
+      "raw_texts": [
+        "അച്ചഡീക്യുഗാ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 61.21,
+          "end": 68.21,
+          "text": " achchadikyuga achchadichu achchadichu"
+        }
+      ],
+      "transcript": "അച്ചടിക്കുക",
+      "meaning": "to print",
+      "textbook_row": 11,
+      "similarity": 0.875,
+      "status": "matched",
+      "id": "lesson_16_word_012"
+    },
+    {
+      "utterances": [
+        {
+          "start": 65.3773,
+          "end": 66.2875
+        },
+        {
+          "start": 67.4039,
+          "end": 68.8178
+        }
+      ],
+      "raw_texts": [
+        "അച്ചഡിച്ചു",
+        "അച്ചഡിച്ചു"
+      ],
+      "english_segments": [
+        {
+          "start": 61.21,
+          "end": 68.21,
+          "text": " achchadikyuga achchadichu achchadichu"
+        },
+        {
+          "start": 68.21,
+          "end": 73.77,
+          "text": " achchadichu verum achchadichu verum"
+        }
+      ],
+      "transcript": "അച്ചടിച്ചു",
+      "meaning": "to print",
+      "textbook_row": 11,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_16_word_013"
+    },
+    {
+      "utterances": [
+        {
+          "start": 69.6531,
+          "end": 70.7297
+        },
+        {
+          "start": 71.9864,
+          "end": 74.7604
+        }
+      ],
+      "raw_texts": [
+        "അച്ചഡിച്ചു വിരും അച്ചഡിച്ചു",
+        "വിരും"
+      ],
+      "english_segments": [
+        {
+          "start": 68.21,
+          "end": 73.77,
+          "text": " achchadichu verum achchadichu verum"
+        },
+        {
+          "start": 73.77,
+          "end": 83.89,
+          "text": " saadharana saadharana saadharanayai saadharanayai"
+        }
+      ],
+      "transcript": "അച്ചടിച്ചു വരും",
+      "meaning": "will be, is printed",
+      "textbook_row": 12,
+      "similarity": 0.871,
+      "status": "matched",
+      "id": "lesson_16_word_014"
+    },
+    {
+      "utterances": [
+        {
+          "start": 75.7792,
+          "end": 76.8357
+        }
+      ],
+      "raw_texts": [
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 73.77,
+          "end": 83.89,
+          "text": " saadharana saadharana saadharanayai saadharanayai"
+        }
+      ],
+      "transcript": "സാധാരണയായി",
+      "meaning": "ordinarily, commonly, usually (adverb)",
+      "textbook_row": 15,
+      "similarity": 0.456,
+      "status": "review",
+      "id": "lesson_16_word_015"
+    },
+    {
+      "utterances": [
+        {
+          "start": 78.2336,
+          "end": 79.4959
+        },
+        {
+          "start": 80.841,
+          "end": 82.0858
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 73.77,
+          "end": 83.89,
+          "text": " saadharana saadharana saadharanayai saadharanayai"
+        }
+      ],
+      "transcript": "സാധാരണ",
+      "meaning": "ordinary, common, usual (adjective)",
+      "textbook_row": 14,
+      "similarity": 0.33,
+      "status": "review",
+      "id": "lesson_16_word_016"
+    },
+    {
+      "utterances": [
+        {
+          "start": 83.7527,
+          "end": 85.0364
+        },
+        {
+          "start": 86.3027,
+          "end": 87.6173
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 83.89,
+          "end": 89.41,
+          "text": " Andhra Shtriya"
+        }
+      ],
+      "transcript": "അന്താരാഷ്ട്രിയ",
+      "meaning": "international",
+      "textbook_row": 16,
+      "similarity": 0.909,
+      "status": "matched",
+      "id": "lesson_16_word_017"
+    },
+    {
+      "utterances": [
+        {
+          "start": 89.258,
+          "end": 90.1445
+        },
+        {
+          "start": 91.4468,
+          "end": 92.3539
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 89.41,
+          "end": 94.01,
+          "text": " Adhyatthe"
+        }
+      ],
+      "transcript": "ആദ്യത്തെ",
+      "meaning": "first",
+      "textbook_row": 17,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_16_word_018"
+    },
+    {
+      "utterances": [
+        {
+          "start": 93.8585,
+          "end": 94.582
+        },
+        {
+          "start": 95.4034,
+          "end": 96.1242
+        }
+      ],
+      "raw_texts": [
+        "",
+        "ലോഗമ്"
+      ],
+      "english_segments": [
+        {
+          "start": 94.01,
+          "end": 97.61,
+          "text": " Lokam"
+        }
+      ],
+      "transcript": "ലോകം",
+      "meaning": "world",
+      "textbook_row": 18,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_16_word_019"
+    },
+    {
+      "utterances": [
+        {
+          "start": 97.4779,
+          "end": 98.1853
+        },
+        {
+          "start": 99.1415,
+          "end": 99.8508
+        }
+      ],
+      "raw_texts": [
+        "ഏദ്",
+        "ഏദ്"
+      ],
+      "english_segments": [
+        {
+          "start": 97.61,
+          "end": 101.33,
+          "text": " Edh"
+        }
+      ],
+      "transcript": "ഏത്--- ഉം",
+      "meaning": "every",
+      "textbook_row": 19,
+      "similarity": 0.667,
+      "status": "review",
+      "id": "lesson_16_word_020"
+    },
+    {
+      "utterances": [
+        {
+          "start": 101.1797,
+          "end": 101.88
+        },
+        {
+          "start": 103.0201,
+          "end": 103.7426
+        }
+      ],
+      "raw_texts": [
+        "ഏദും",
+        "ഏദും"
+      ],
+      "english_segments": [
+        {
+          "start": 101.33,
+          "end": 105.09,
+          "text": " Edhum"
+        }
+      ],
+      "transcript": "എന്നും",
+      "meaning": "daily",
+      "textbook_row": 2,
+      "similarity": 0.75,
+      "status": "matched",
+      "id": "lesson_16_word_021"
+    },
+    {
+      "utterances": [
+        {
+          "start": 104.9192,
+          "end": 105.6379
+        },
+        {
+          "start": 106.6479,
+          "end": 107.3001
+        }
+      ],
+      "raw_texts": [
+        "കോണ്",
+        "കോണ്"
+      ],
+      "english_segments": [
+        {
+          "start": 105.09,
+          "end": 108.73,
+          "text": " Kon"
+        }
+      ],
+      "transcript": "കോൺ",
+      "meaning": "corner",
+      "textbook_row": 20,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_16_word_022"
+    },
+    {
+      "utterances": [
+        {
+          "start": 108.6149,
+          "end": 109.4419
+        },
+        {
+          "start": 110.276,
+          "end": 111.1757
+        }
+      ],
+      "raw_texts": [
+        "സംഭവം",
+        "സംഭവം"
+      ],
+      "english_segments": [
+        {
+          "start": 108.73,
+          "end": 112.21,
+          "text": " Sambhavam"
+        }
+      ],
+      "transcript": "സംഭവം",
+      "meaning": "event",
+      "textbook_row": 21,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_16_word_023"
+    },
+    {
+      "utterances": [
+        {
+          "start": 112.0527,
+          "end": 112.8296
+        },
+        {
+          "start": 113.4281,
+          "end": 114.219
+        }
+      ],
+      "raw_texts": [
+        "ഭാഷാ",
+        "ഭാഷാ"
+      ],
+      "english_segments": [
+        {
+          "start": 112.21,
+          "end": 115.21,
+          "text": " Bhaasa"
+        }
+      ],
+      "transcript": "ഭാഷ",
+      "meaning": "language",
+      "textbook_row": 22,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_16_word_024"
+    },
+    {
+      "utterances": [
+        {
+          "start": 115.0964,
+          "end": 116.1575
+        },
+        {
+          "start": 116.9809,
+          "end": 117.9947
+        }
+      ],
+      "raw_texts": [
+        "രാഷ്ടരപ മാട്ട്ടു സിഷ്രിഷ്രിഷ്രിഷ്രിഷ്രിഷ്രിഷ്രിഷ്രിഷ്രിഷ്രിഷ്രിഷ�",
+        "രാഷ്ടരപത്ത്"
+      ],
+      "english_segments": [
+        {
+          "start": 115.21,
+          "end": 119.21,
+          "text": " Raashtrapathi"
+        }
+      ],
+      "transcript": "രാഷ്ട്രപതി",
+      "meaning": "president",
+      "textbook_row": 23,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_16_word_025"
+    },
+    {
+      "utterances": [
+        {
+          "start": 118.9668,
+          "end": 119.8353
+        },
+        {
+          "start": 120.759,
+          "end": 121.5982
+        }
+      ],
+      "raw_texts": [
+        "തര്ജിമ",
+        "തര്ജിമ"
+      ],
+      "english_segments": [
+        {
+          "start": 119.21,
+          "end": 123.21,
+          "text": " Tarjima"
+        }
+      ],
+      "transcript": "തർജ്ജമ",
+      "meaning": "translation",
+      "textbook_row": 24,
+      "similarity": 0.889,
+      "status": "matched",
+      "id": "lesson_16_word_026"
+    },
+    {
+      "utterances": [
+        {
+          "start": 122.9165,
+          "end": 124.1853
+        },
+        {
+          "start": 125.0948,
+          "end": 126.3393
+        }
+      ],
+      "raw_texts": [
+        "തര്ജിമ ചേയുക",
+        "തര്ജിമ ചേയുക"
+      ],
+      "english_segments": [
+        {
+          "start": 119.21,
+          "end": 123.21,
+          "text": " Tarjima"
+        },
+        {
+          "start": 123.21,
+          "end": 127.21,
+          "text": " Tarjima chayuga"
+        }
+      ],
+      "transcript": "തർജ്ജമ ചെയ്യുക",
+      "meaning": "to translate",
+      "textbook_row": 25,
+      "similarity": 0.947,
+      "status": "matched",
+      "id": "lesson_16_word_027"
+    },
+    {
+      "utterances": [
+        {
+          "start": 127.5593,
+          "end": 128.7435
+        },
+        {
+          "start": 129.8359,
+          "end": 131.0171
+        }
+      ],
+      "raw_texts": [
+        "തര്ജിമ ടര്ജീമചേദു",
+        "തര്ജീമചേദു"
+      ],
+      "english_segments": [
+        {
+          "start": 127.21,
+          "end": 132.21,
+          "text": " Tarjima chayidu"
+        }
+      ],
+      "transcript": "തർജ്ജമ ചെയ്തു",
+      "meaning": "to translate",
+      "textbook_row": 25,
+      "similarity": 0.889,
+      "status": "matched",
+      "id": "lesson_16_word_028"
+    },
+    {
+      "utterances": [
+        {
+          "start": 132.49,
+          "end": 133.2434
+        },
+        {
+          "start": 134.162,
+          "end": 134.9875
+        }
+      ],
+      "raw_texts": [
+        "എരുദുക",
+        "എരുദുക"
+      ],
+      "english_segments": [
+        {
+          "start": 132.21,
+          "end": 136.21,
+          "text": " Eruðuga"
+        }
+      ],
+      "transcript": "വിൽക്കുക",
+      "meaning": "to sell",
+      "textbook_row": 30,
+      "similarity": 0.475,
+      "status": "review",
+      "id": "lesson_16_word_029"
+    },
+    {
+      "utterances": [
+        {
+          "start": 135.8716,
+          "end": 136.5759
+        },
+        {
+          "start": 137.314,
+          "end": 138.016
+        }
+      ],
+      "raw_texts": [
+        "എരുദു",
+        "എരുദു"
+      ],
+      "english_segments": [
+        {
+          "start": 132.21,
+          "end": 136.21,
+          "text": " Eruðuga"
+        },
+        {
+          "start": 136.21,
+          "end": 139.21,
+          "text": " Eruði"
+        }
+      ],
+      "transcript": "ഏ--ഉള്ളു",
+      "meaning": "only",
+      "textbook_row": 32,
+      "similarity": 0.475,
+      "status": "review",
+      "id": "lesson_16_word_030"
+    },
+    {
+      "utterances": [
+        {
+          "start": 138.9872,
+          "end": 139.9447
+        },
+        {
+          "start": 140.7676,
+          "end": 141.7469
+        }
+      ],
+      "raw_texts": [
+        "എരുദു എരു",
+        "എരുദ്ദീ വിരും"
+      ],
+      "english_segments": [
+        {
+          "start": 139.21,
+          "end": 149.93,
+          "text": " yudhi varim yudhi varim india india samsthanam samsthanam"
+        }
+      ],
+      "transcript": "എഴുതി വരും",
+      "meaning": "is, will be written",
+      "textbook_row": 26,
+      "similarity": 0.842,
+      "status": "matched",
+      "id": "lesson_16_word_031"
+    },
+    {
+      "utterances": [
+        {
+          "start": 142.6409,
+          "end": 143.4274
+        },
+        {
+          "start": 144.3515,
+          "end": 145.1008
+        }
+      ],
+      "raw_texts": [
+        "ഇന്ദ്യാ",
+        "ഇന്ദ്യാ"
+      ],
+      "english_segments": [
+        {
+          "start": 139.21,
+          "end": 149.93,
+          "text": " yudhi varim yudhi varim india india samsthanam samsthanam"
+        }
+      ],
+      "transcript": "ഇൻഡ്യ",
+      "meaning": "India",
+      "textbook_row": 27,
+      "similarity": 0.667,
+      "status": "review",
+      "id": "lesson_16_word_032"
+    },
+    {
+      "utterances": [
+        {
+          "start": 146.1161,
+          "end": 147.2466
+        },
+        {
+          "start": 147.8716,
+          "end": 148.9512
+        }
+      ],
+      "raw_texts": [
+        "സമ്സ്ഥാന്ന്",
+        "സമ്സ്ഥാന്ന്"
+      ],
+      "english_segments": [
+        {
+          "start": 139.21,
+          "end": 149.93,
+          "text": " yudhi varim yudhi varim india india samsthanam samsthanam"
+        }
+      ],
+      "transcript": "സംസ്ഥാനം",
+      "meaning": "state",
+      "textbook_row": 28,
+      "similarity": 0.923,
+      "status": "matched",
+      "id": "lesson_16_word_033"
+    },
+    {
+      "utterances": [
+        {
+          "start": 149.7993,
+          "end": 151.1725
+        },
+        {
+          "start": 151.6313,
+          "end": 153.5735
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 149.93,
+          "end": 160.25,
+          "text": " vivaham kadikyuga vivaham kadikyuga vivaham kadichu vivaham kadichu"
+        }
+      ],
+      "transcript": "വിവാഹം കഴിക്കുക",
+      "meaning": "to marry (same as കല്യാണം)",
+      "textbook_row": 29,
+      "similarity": 0.364,
+      "status": "review",
+      "id": "lesson_16_word_034"
+    },
+    {
+      "utterances": [
+        {
+          "start": 154.6943,
+          "end": 156.0513
+        },
+        {
+          "start": 157.3535,
+          "end": 158.668
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 149.93,
+          "end": 160.25,
+          "text": " vivaham kadikyuga vivaham kadikyuga vivaham kadichu vivaham kadichu"
+        }
+      ],
+      "transcript": "വിവാഹം കഴിച്ചു",
+      "meaning": "to marry (same as കല്യാണം)",
+      "textbook_row": 29,
+      "similarity": 0.321,
+      "status": "review",
+      "id": "lesson_16_word_035"
+    },
+    {
+      "utterances": [
+        {
+          "start": 160.059,
+          "end": 160.9354
+        },
+        {
+          "start": 161.5679,
+          "end": 162.4463
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 160.25,
+          "end": 174.93,
+          "text": " will cook a will cook a with to with to care earlier care earlier a you look a you look"
+        }
+      ],
+      "transcript": "",
+      "meaning": "",
+      "textbook_row": null,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_16_word_036"
+    },
+    {
+      "utterances": [
+        {
+          "start": 163.0989,
+          "end": 163.8745
+        },
+        {
+          "start": 164.5785,
+          "end": 165.3494
+        }
+      ],
+      "raw_texts": [
+        "വിവാ",
+        "വിട്ടു"
+      ],
+      "english_segments": [
+        {
+          "start": 160.25,
+          "end": 174.93,
+          "text": " will cook a will cook a with to with to care earlier care earlier a you look a you look"
+        }
+      ],
+      "transcript": "വിറ്റു",
+      "meaning": "to sell",
+      "textbook_row": 30,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_16_word_037"
+    },
+    {
+      "utterances": [
+        {
+          "start": 166.2499,
+          "end": 167.1953
+        },
+        {
+          "start": 168.0849,
+          "end": 169.1085
+        }
+      ],
+      "raw_texts": [
+        "കേരലിയര്",
+        "കേരലിയര്"
+      ],
+      "english_segments": [
+        {
+          "start": 160.25,
+          "end": 174.93,
+          "text": " will cook a will cook a with to with to care earlier care earlier a you look a you look"
+        }
+      ],
+      "transcript": "കേരളീയർ",
+      "meaning": "people of Kerala",
+      "textbook_row": 31,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_16_word_038"
+    },
+    {
+      "utterances": [
+        {
+          "start": 170.6332,
+          "end": 171.4948
+        },
+        {
+          "start": 172.1896,
+          "end": 173.3326
+        }
+      ],
+      "raw_texts": [
+        "ഏയുല്ലു",
+        "ഏയുല്ലു"
+      ],
+      "english_segments": [
+        {
+          "start": 160.25,
+          "end": 174.93,
+          "text": " will cook a will cook a with to with to care earlier care earlier a you look a you look"
+        }
+      ],
+      "transcript": "എയുള്ളു",
+      "meaning": "only",
+      "textbook_row": 32,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_16_word_039"
+    },
+    {
+      "utterances": [
+        {
+          "start": 174.6148,
+          "end": 175.7545
+        },
+        {
+          "start": 176.6844,
+          "end": 178.0312
+        }
+      ],
+      "raw_texts": [
+        "ഇന്ദീന്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 160.25,
+          "end": 174.93,
+          "text": " will cook a will cook a with to with to care earlier care earlier a you look a you look"
+        },
+        {
+          "start": 174.93,
+          "end": 186.39,
+          "text": " express Indian Express presidio riqua presidio riqua presidio riqua presidio"
+        }
+      ],
+      "transcript": "ദിനം",
+      "meaning": "day",
+      "textbook_row": 4,
+      "similarity": 0.667,
+      "status": "review",
+      "id": "lesson_16_word_040"
+    },
+    {
+      "utterances": [
+        {
+          "start": 179.5058,
+          "end": 180.8955
+        },
+        {
+          "start": 182.5828,
+          "end": 183.8798
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 174.93,
+          "end": 186.39,
+          "text": " express Indian Express presidio riqua presidio riqua presidio riqua presidio"
+        }
+      ],
+      "transcript": "പ്രസിദ്ധീകരിക്കുക",
+      "meaning": "to publish",
+      "textbook_row": 34,
+      "similarity": 0.261,
+      "status": "review",
+      "id": "lesson_16_word_041"
+    },
+    {
+      "utterances": [
+        {
+          "start": 185.8127,
+          "end": 187.0486
+        },
+        {
+          "start": 188.9566,
+          "end": 190.2011
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 174.93,
+          "end": 186.39,
+          "text": " express Indian Express presidio riqua presidio riqua presidio riqua presidio"
+        },
+        {
+          "start": 186.39,
+          "end": 196.41,
+          "text": " riqua presidio riqua presidio riqua presidio riqua presidio riqua presidio"
+        }
+      ],
+      "transcript": "പ്രസിദ്ധീകരിച്ചു",
+      "meaning": "to publish",
+      "textbook_row": 34,
+      "similarity": 0.219,
+      "status": "review",
+      "id": "lesson_16_word_042"
+    },
+    {
+      "utterances": [
+        {
+          "start": 191.4518,
+          "end": 191.929
+        }
+      ],
+      "raw_texts": [
+        "എക്സ്പ്ര"
+      ],
+      "english_segments": [
+        {
+          "start": 186.39,
+          "end": 196.41,
+          "text": " riqua presidio riqua presidio riqua presidio riqua presidio riqua presidio"
+        }
+      ],
+      "transcript": "ഇൻഡ്യൻ എക്സ്പ്രസ്",
+      "meaning": "“Indian Express” English language newspaper",
+      "textbook_row": 33,
+      "similarity": 0.625,
+      "status": "review",
+      "id": "lesson_16_word_043"
+    },
+    {
+      "utterances": [
+        {
+          "start": 192.1132,
+          "end": 193.8708
+        },
+        {
+          "start": 195.535,
+          "end": 197.39
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 186.39,
+          "end": 196.41,
+          "text": " riqua presidio riqua presidio riqua presidio riqua presidio riqua presidio"
+        },
+        {
+          "start": 196.41,
+          "end": 212.81,
+          "text": " garikya padunnu. Maatram. Maatram. Koodaadhe. Koodaadhe. Hindu. Hindu. Atigam. Atigam. Stalam."
+        }
+      ],
+      "transcript": "പ്രസിദ്ധീകരിക്കപ്പെടുന്നു",
+      "meaning": "is published",
+      "textbook_row": 35,
+      "similarity": 0.317,
+      "status": "review",
+      "id": "lesson_16_word_044"
+    },
+    {
+      "utterances": [
+        {
+          "start": 199.2031,
+          "end": 199.9809
+        },
+        {
+          "start": 200.7451,
+          "end": 201.5528
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 196.41,
+          "end": 212.81,
+          "text": " garikya padunnu. Maatram. Maatram. Koodaadhe. Koodaadhe. Hindu. Hindu. Atigam. Atigam. Stalam."
+        }
+      ],
+      "transcript": "കൂടാതെ",
+      "meaning": "besides",
+      "textbook_row": 37,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_16_word_045"
+    },
+    {
+      "utterances": [
+        {
+          "start": 202.5045,
+          "end": 203.3716
+        },
+        {
+          "start": 204.1229,
+          "end": 204.9686
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 196.41,
+          "end": 212.81,
+          "text": " garikya padunnu. Maatram. Maatram. Koodaadhe. Koodaadhe. Hindu. Hindu. Atigam. Atigam. Stalam."
+        }
+      ],
+      "transcript": "മാത്രം",
+      "meaning": "only (occurs with noun)",
+      "textbook_row": 36,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_16_word_046"
+    },
+    {
+      "utterances": [
+        {
+          "start": 205.825,
+          "end": 206.5474
+        },
+        {
+          "start": 207.4246,
+          "end": 208.1094
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 196.41,
+          "end": 212.81,
+          "text": " garikya padunnu. Maatram. Maatram. Koodaadhe. Koodaadhe. Hindu. Hindu. Atigam. Atigam. Stalam."
+        }
+      ],
+      "transcript": "“ദി ഹിന്ദു”",
+      "meaning": "“The Hindu” an English language newspaper",
+      "textbook_row": 38,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_16_word_047"
+    },
+    {
+      "utterances": [
+        {
+          "start": 209.0996,
+          "end": 209.8644
+        },
+        {
+          "start": 210.7416,
+          "end": 211.783
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 196.41,
+          "end": 212.81,
+          "text": " garikya padunnu. Maatram. Maatram. Koodaadhe. Koodaadhe. Hindu. Hindu. Atigam. Atigam. Stalam."
+        }
+      ],
+      "transcript": "അധികം",
+      "meaning": "a great deal",
+      "textbook_row": 39,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_16_word_048"
+    },
+    {
+      "utterances": [
+        {
+          "start": 212.1686,
+          "end": 213.0176
+        },
+        {
+          "start": 213.8645,
+          "end": 214.6961
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 196.41,
+          "end": 212.81,
+          "text": " garikya padunnu. Maatram. Maatram. Koodaadhe. Koodaadhe. Hindu. Hindu. Atigam. Atigam. Stalam."
+        },
+        {
+          "start": 212.81,
+          "end": 221.83,
+          "text": " Stalam. Ella. Ella. Ellam. Ellam."
+        }
+      ],
+      "transcript": "സ്ഥലം",
+      "meaning": "place",
+      "textbook_row": 40,
+      "similarity": 0.438,
+      "status": "review",
+      "id": "lesson_16_word_049"
+    },
+    {
+      "utterances": [
+        {
+          "start": 215.8486,
+          "end": 216.6033
+        },
+        {
+          "start": 217.1237,
+          "end": 220.2771
+        }
+      ],
+      "raw_texts": [
+        "എല്ലാ എല്ലാ",
+        "എല്ലാ"
+      ],
+      "english_segments": [
+        {
+          "start": 212.81,
+          "end": 221.83,
+          "text": " Stalam. Ella. Ella. Ellam. Ellam."
+        }
+      ],
+      "transcript": "എല്ലാം",
+      "meaning": "all",
+      "textbook_row": 41,
+      "similarity": 0.857,
+      "status": "matched",
+      "id": "lesson_16_word_050"
+    }
+  ],
+  "textbook_vocabulary": [
+    {
+      "malayalam": "മിക്കവാറും",
+      "meaning": "nearly, almost"
+    },
+    {
+      "malayalam": "എല്ലാവരും",
+      "meaning": "everyone (full form of എല്ലാരും)"
+    },
+    {
+      "malayalam": "എന്നും",
+      "meaning": "daily"
+    },
+    {
+      "malayalam": "പല",
+      "meaning": "various (adj) (noun is പലത്)"
+    },
+    {
+      "malayalam": "ദിനം",
+      "meaning": "day"
+    },
+    {
+      "malayalam": "ദിനപ്പത്രം",
+      "meaning": "daily newspaper"
+    },
+    {
+      "malayalam": "കേരള കൗമുദി",
+      "meaning": "a Malayalam newspaper (literally, Kerala Moonlight)"
+    },
+    {
+      "malayalam": "മലയാള മനോരമ",
+      "meaning": "a Malayalam newspaper (മനോരമ – Mind's Delight)"
+    },
+    {
+      "malayalam": "മാതൃഭൂമി",
+      "meaning": "a Malayalam newspaper (literally, Motherland)"
+    },
+    {
+      "malayalam": "അവിടുത്തെ",
+      "meaning": "of that place (genitive of അവിടെ)"
+    },
+    {
+      "malayalam": "ഇവിടുത്തെ",
+      "meaning": "of this place (genitive of ഇവിടെ)"
+    },
+    {
+      "malayalam": "അച്ചടിക്കുക (past tense: അച്ചടിച്ചു)",
+      "meaning": "to print"
+    },
+    {
+      "malayalam": "അച്ചടിച്ചു വരും",
+      "meaning": "will be, is printed"
+    },
+    {
+      "malayalam": "എന്തെങ്കിലും",
+      "meaning": "something, anything"
+    },
+    {
+      "malayalam": "സാധാരണ",
+      "meaning": "ordinary, common, usual (adjective)"
+    },
+    {
+      "malayalam": "സാധാരണയായി",
+      "meaning": "ordinarily, commonly, usually (adverb)"
+    },
+    {
+      "malayalam": "അന്താരാഷ്ട്രിയ",
+      "meaning": "international"
+    },
+    {
+      "malayalam": "ആദ്യത്തെ",
+      "meaning": "first"
+    },
+    {
+      "malayalam": "ലോകം",
+      "meaning": "world"
+    },
+    {
+      "malayalam": "ഏത്--- ഉം",
+      "meaning": "every"
+    },
+    {
+      "malayalam": "കോൺ",
+      "meaning": "corner"
+    },
+    {
+      "malayalam": "സംഭവം",
+      "meaning": "event"
+    },
+    {
+      "malayalam": "ഭാഷ",
+      "meaning": "language"
+    },
+    {
+      "malayalam": "രാഷ്ട്രപതി",
+      "meaning": "president"
+    },
+    {
+      "malayalam": "തർജ്ജമ",
+      "meaning": "translation"
+    },
+    {
+      "malayalam": "തർജ്ജമ ചെയ്യുക (past tense: തർജ്ജമ ചെയ്തു)",
+      "meaning": "to translate"
+    },
+    {
+      "malayalam": "എഴുതി വരും",
+      "meaning": "is, will be written"
+    },
+    {
+      "malayalam": "ഇൻഡ്യ",
+      "meaning": "India"
+    },
+    {
+      "malayalam": "സംസ്ഥാനം",
+      "meaning": "state"
+    },
+    {
+      "malayalam": "വിവാഹം കഴിക്കുക (past tense: വിവാഹം കഴിച്ചു)",
+      "meaning": "to marry (same as കല്യാണം)"
+    },
+    {
+      "malayalam": "വിൽക്കുക (past tense: വിറ്റു)",
+      "meaning": "to sell"
+    },
+    {
+      "malayalam": "കേരളീയർ",
+      "meaning": "people of Kerala"
+    },
+    {
+      "malayalam": "--ഏ--ഉള്ളു, ---എയുള്ളു",
+      "meaning": "only"
+    },
+    {
+      "malayalam": "ഇൻഡ്യൻ എക്സ്പ്രസ്",
+      "meaning": "“Indian Express” English language newspaper"
+    },
+    {
+      "malayalam": "പ്രസിദ്ധീകരിക്കുക (past tense: പ്രസിദ്ധീകരിച്ചു)",
+      "meaning": "to publish"
+    },
+    {
+      "malayalam": "പ്രസിദ്ധീകരിക്കപ്പെടുന്നു",
+      "meaning": "is published"
+    },
+    {
+      "malayalam": "മാത്രം",
+      "meaning": "only (occurs with noun)"
+    },
+    {
+      "malayalam": "കൂടാതെ",
+      "meaning": "besides"
+    },
+    {
+      "malayalam": "“ദി ഹിന്ദു”",
+      "meaning": "“The Hindu” an English language newspaper"
+    },
+    {
+      "malayalam": "അധികം",
+      "meaning": "a great deal"
+    },
+    {
+      "malayalam": "സ്ഥലം",
+      "meaning": "place"
+    },
+    {
+      "malayalam": "എല്ലാ ---ഉം, എല്ലാം",
+      "meaning": "all"
+    }
+  ],
+  "unmatched_textbook_rows": [],
+  "recognition_sha256": "c4041863a2b27ad46d26b586bf8ec2713e6609d591bd8234d760b4cc69fcfbb2",
+  "boundary_sha256": "a3454cee804df4474ca788f67468c2b50f9f4174757e7c2710bd44970b345a3f"
+}

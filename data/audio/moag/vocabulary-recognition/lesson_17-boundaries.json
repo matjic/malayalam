@@ -1,0 +1,164 @@
+{
+  "lesson": 17,
+  "model": "Whisper large-v3",
+  "purpose": "English announcements only; Malayalam transliterations are not teaching transcriptions.",
+  "range_start": 2.81,
+  "range_end": 210.02,
+  "segments": [
+    {
+      "start": 2.81,
+      "end": 13.99,
+      "text": " Vocabulary practice. Repeat each item after the speaker. Each item is given twice. Ready? Listen and repeat."
+    },
+    {
+      "start": 32.81,
+      "end": 40.33,
+      "text": " kalyani kalyani amma kalyani amma"
+    },
+    {
+      "start": 40.33,
+      "end": 45.21,
+      "text": " changan noor changan noor"
+    },
+    {
+      "start": 45.21,
+      "end": 49.41,
+      "text": " mujhavan mujhavan"
+    },
+    {
+      "start": 49.41,
+      "end": 53.57,
+      "text": " varsham varsham"
+    },
+    {
+      "start": 53.57,
+      "end": 58.17,
+      "text": " padichirinu padichirinu"
+    },
+    {
+      "start": 58.17,
+      "end": 70.79,
+      "text": " avaam avaam or kuga or kuga or to or to"
+    },
+    {
+      "start": 70.79,
+      "end": 83.59,
+      "text": " chaiya chaiya chaiyuka chaiyuka aate aate"
+    },
+    {
+      "start": 83.59,
+      "end": 98.75,
+      "text": " orumich orumich innala innala vicharikyuka vicharikyuka vicharichu"
+    },
+    {
+      "start": 98.75,
+      "end": 113.75,
+      "text": " kootukaar kootukaaran kootukaari"
+    },
+    {
+      "start": 113.75,
+      "end": 115.75,
+      "text": " kootu garhi"
+    },
+    {
+      "start": 115.75,
+      "end": 118.75,
+      "text": " nalatanne"
+    },
+    {
+      "start": 118.75,
+      "end": 121.75,
+      "text": " nalatanne"
+    },
+    {
+      "start": 121.75,
+      "end": 124.75,
+      "text": " kshanikyuga"
+    },
+    {
+      "start": 124.75,
+      "end": 126.75,
+      "text": " kshanikyuga"
+    },
+    {
+      "start": 126.75,
+      "end": 128.75,
+      "text": " kshanichu"
+    },
+    {
+      "start": 128.75,
+      "end": 130.75,
+      "text": " kshanichu"
+    },
+    {
+      "start": 130.75,
+      "end": 132.75,
+      "text": " elutha"
+    },
+    {
+      "start": 132.75,
+      "end": 134.75,
+      "text": " elutha"
+    },
+    {
+      "start": 134.75,
+      "end": 136.75,
+      "text": " ara"
+    },
+    {
+      "start": 136.75,
+      "end": 138.75,
+      "text": " ara"
+    },
+    {
+      "start": 138.75,
+      "end": 140.75,
+      "text": " patara"
+    },
+    {
+      "start": 140.75,
+      "end": 142.75,
+      "text": " patara"
+    },
+    {
+      "start": 142.75,
+      "end": 158.63,
+      "text": " patara manikya patara manikya kaanununda kaanununda kootikundu varuga kootikundu varuga valiya"
+    },
+    {
+      "start": 158.63,
+      "end": 171.61,
+      "text": " ishtamana valiya ishtamana lesson 17 reading practice part a note how ara have passed for"
+    },
+    {
+      "start": 171.61,
+      "end": 179.35,
+      "text": " time half or plus one half joins to the whole numbers the following are read out"
+    },
+    {
+      "start": 179.35,
+      "end": 184.37,
+      "text": " and you repeat after the speaker"
+    },
+    {
+      "start": 201.61,
+      "end": 203.05,
+      "text": " 9.30"
+    },
+    {
+      "start": 203.05,
+      "end": 205.17,
+      "text": " 10.30"
+    },
+    {
+      "start": 205.17,
+      "end": 207.39,
+      "text": " 11.30"
+    },
+    {
+      "start": 207.39,
+      "end": 209.31,
+      "text": " 12.30"
+    }
+  ]
+}

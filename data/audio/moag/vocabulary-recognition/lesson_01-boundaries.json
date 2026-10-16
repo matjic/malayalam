@@ -1,0 +1,144 @@
+{
+  "lesson": 1,
+  "model": "Whisper large-v3",
+  "purpose": "English announcements only; Malayalam transliterations are not teaching transcriptions.",
+  "range_start": 34.24,
+  "range_end": 304.69,
+  "segments": [
+    {
+      "start": 34.24,
+      "end": 36.24,
+      "text": " Vocabulary Practice"
+    },
+    {
+      "start": 36.24,
+      "end": 43.24,
+      "text": " Repeat each item after the speaker. Each item is given twice. Ready? Listen and repeat."
+    },
+    {
+      "start": 43.24,
+      "end": 47.24,
+      "text": " bil"
+    },
+    {
+      "start": 47.24,
+      "end": 50.24,
+      "text": " raman"
+    },
+    {
+      "start": 50.24,
+      "end": 54.24,
+      "text": " ningal ude"
+    },
+    {
+      "start": 54.24,
+      "end": 57.24,
+      "text": " per"
+    },
+    {
+      "start": 57.24,
+      "end": 60.24,
+      "text": " end"
+    },
+    {
+      "start": 60.24,
+      "end": 85.88,
+      "text": " What? What? My? My? Today? Today? He? He? Who? Who? Is? Is? King? King? She? She?"
+    },
+    {
+      "start": 85.88,
+      "end": 104.6,
+      "text": " money money a day hum a day hum Thomas our Thomas our either either manga manga"
+    },
+    {
+      "start": 104.6,
+      "end": 114.1,
+      "text": " pangam pustagam"
+    },
+    {
+      "start": 114.1,
+      "end": 120.04,
+      "text": " bukku pena"
+    },
+    {
+      "start": 120.04,
+      "end": 128.36,
+      "text": " mesha kasera"
+    },
+    {
+      "start": 128.36,
+      "end": 130.28,
+      "text": " Exercise 1 Response Drill"
+    },
+    {
+      "start": 130.28,
+      "end": 135.68,
+      "text": " You will be given the question, idenda, followed by the name of an object."
+    },
+    {
+      "start": 136.64,
+      "end": 140.9,
+      "text": " In the pause that follows, recite your response using that object."
+    },
+    {
+      "start": 141.82,
+      "end": 142.56,
+      "text": " Listen to the model."
+    },
+    {
+      "start": 144.22,
+      "end": 146.86,
+      "text": " Question. Idenda manga."
+    },
+    {
+      "start": 148.04,
+      "end": 150.5,
+      "text": " Response. Idemangayana."
+    },
+    {
+      "start": 151.42,
+      "end": 157.1,
+      "text": " After each pause, the correct form of the response will be given for you to compare and to repeat once again."
+    },
+    {
+      "start": 157.1,
+      "end": 160.74,
+      "text": " Ready? Listen and respond."
+    },
+    {
+      "start": 187.1,
+      "end": 210.76,
+      "text": " It is a pen. It is a book. It is a book. It is a book. It is a book. It is a fruit. It is a fruit."
+    },
+    {
+      "start": 210.76,
+      "end": 222.58,
+      "text": " exercise 2a you will be given the question of an adana plus a name in the"
+    },
+    {
+      "start": 222.58,
+      "end": 228.8,
+      "text": " pause that follows give your response to the question using the name given listen"
+    },
+    {
+      "start": 228.8,
+      "end": 240.44,
+      "text": " to the model question of an adana bill response of an bill Anna after the pause"
+    },
+    {
+      "start": 240.44,
+      "end": 244.64,
+      "text": " the correct form of the response will be given for you to compare and to repeat"
+    },
+    {
+      "start": 244.64,
+      "end": 252.44,
+      "text": " once again. Ready? Listen, respond, then repeat."
+    },
+    {
+      "start": 300.44,
+      "end": 301.2,
+      "text": " I'm in Matthew Anna."
+    }
+  ]
+}

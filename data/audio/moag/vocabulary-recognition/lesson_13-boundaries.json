@@ -1,0 +1,139 @@
+{
+  "lesson": 13,
+  "model": "Whisper large-v3",
+  "purpose": "English announcements only; Malayalam transliterations are not teaching transcriptions.",
+  "range_start": 3.09,
+  "range_end": 241.05,
+  "segments": [
+    {
+      "start": 3.09,
+      "end": 13.77,
+      "text": " Vocabulary practice. Repeat each item after the speaker. Each item is given twice. Ready? Listen and repeat."
+    },
+    {
+      "start": 33.09,
+      "end": 39.09,
+      "text": " need"
+    },
+    {
+      "start": 39.09,
+      "end": 46.09,
+      "text": " need"
+    },
+    {
+      "start": 46.09,
+      "end": 51.09,
+      "text": " need"
+    },
+    {
+      "start": 51.09,
+      "end": 58.09,
+      "text": " after meeting"
+    },
+    {
+      "start": 58.09,
+      "end": 63.09,
+      "text": " samayam"
+    },
+    {
+      "start": 63.09,
+      "end": 70.09,
+      "text": " ariyan paadilla"
+    },
+    {
+      "start": 70.09,
+      "end": 77.09,
+      "text": " chodichitte parayam"
+    },
+    {
+      "start": 77.09,
+      "end": 84.09,
+      "text": " kajinya"
+    },
+    {
+      "start": 84.09,
+      "end": 89.09,
+      "text": " Pôle"
+    },
+    {
+      "start": 90.09,
+      "end": 97.09,
+      "text": " Paranyadu pôle"
+    },
+    {
+      "start": 98.09,
+      "end": 103.09,
+      "text": " Clark"
+    },
+    {
+      "start": 104.09,
+      "end": 109.09,
+      "text": " Vaipa"
+    },
+    {
+      "start": 109.09,
+      "end": 122.09,
+      "text": " shiriakuga shiriaki"
+    },
+    {
+      "start": 122.09,
+      "end": 127.09,
+      "text": " forum"
+    },
+    {
+      "start": 127.09,
+      "end": 139.09,
+      "text": " buy"
+    },
+    {
+      "start": 139.09,
+      "end": 147.09,
+      "text": " puripikyuga"
+    },
+    {
+      "start": 147.09,
+      "end": 154.09,
+      "text": " puripichu"
+    },
+    {
+      "start": 154.09,
+      "end": 161.09,
+      "text": " kaanikyuga"
+    },
+    {
+      "start": 161.09,
+      "end": 168.09,
+      "text": " kaanichu"
+    },
+    {
+      "start": 168.09,
+      "end": 186.09,
+      "text": " Thette Thiruthuka Thiruthi"
+    },
+    {
+      "start": 186.09,
+      "end": 193.09,
+      "text": " kondu theruka"
+    },
+    {
+      "start": 193.09,
+      "end": 200.09,
+      "text": " kondu dhannu"
+    },
+    {
+      "start": 200.09,
+      "end": 206.09,
+      "text": " paisa"
+    },
+    {
+      "start": 206.09,
+      "end": 212.09,
+      "text": " stamp"
+    },
+    {
+      "start": 212.09,
+      "end": 241.09,
+      "text": " I will drink coffee"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "lesson": 16,
+  "model": "Whisper large-v3",
+  "purpose": "English announcements only; Malayalam transliterations are not teaching transcriptions.",
+  "range_start": 2.45,
+  "range_end": 221.85,
+  "segments": [
+    {
+      "start": 2.45,
+      "end": 12.85,
+      "text": " Vocabulary practice. Repeat each item after the speaker. Each item is given twice. Ready? Listen and repeat."
+    },
+    {
+      "start": 32.45,
+      "end": 41.99,
+      "text": " Dinapatram Kerala Kaumudi"
+    },
+    {
+      "start": 41.99,
+      "end": 52.41,
+      "text": " Malayala Manorama Madhra Bhumi"
+    },
+    {
+      "start": 52.41,
+      "end": 61.21,
+      "text": " Avidutthe Achadikyuga"
+    },
+    {
+      "start": 61.21,
+      "end": 68.21,
+      "text": " achchadikyuga achchadichu achchadichu"
+    },
+    {
+      "start": 68.21,
+      "end": 73.77,
+      "text": " achchadichu verum achchadichu verum"
+    },
+    {
+      "start": 73.77,
+      "end": 83.89,
+      "text": " saadharana saadharana saadharanayai saadharanayai"
+    },
+    {
+      "start": 83.89,
+      "end": 89.41,
+      "text": " Andhra Shtriya"
+    },
+    {
+      "start": 89.41,
+      "end": 94.01,
+      "text": " Adhyatthe"
+    },
+    {
+      "start": 94.01,
+      "end": 97.61,
+      "text": " Lokam"
+    },
+    {
+      "start": 97.61,
+      "end": 101.33,
+      "text": " Edh"
+    },
+    {
+      "start": 101.33,
+      "end": 105.09,
+      "text": " Edhum"
+    },
+    {
+      "start": 105.09,
+      "end": 108.73,
+      "text": " Kon"
+    },
+    {
+      "start": 108.73,
+      "end": 112.21,
+      "text": " Sambhavam"
+    },
+    {
+      "start": 112.21,
+      "end": 115.21,
+      "text": " Bhaasa"
+    },
+    {
+      "start": 115.21,
+      "end": 119.21,
+      "text": " Raashtrapathi"
+    },
+    {
+      "start": 119.21,
+      "end": 123.21,
+      "text": " Tarjima"
+    },
+    {
+      "start": 123.21,
+      "end": 127.21,
+      "text": " Tarjima chayuga"
+    },
+    {
+      "start": 127.21,
+      "end": 132.21,
+      "text": " Tarjima chayidu"
+    },
+    {
+      "start": 132.21,
+      "end": 136.21,
+      "text": " Eruðuga"
+    },
+    {
+      "start": 136.21,
+      "end": 139.21,
+      "text": " Eruði"
+    },
+    {
+      "start": 139.21,
+      "end": 149.93,
+      "text": " yudhi varim yudhi varim india india samsthanam samsthanam"
+    },
+    {
+      "start": 149.93,
+      "end": 160.25,
+      "text": " vivaham kadikyuga vivaham kadikyuga vivaham kadichu vivaham kadichu"
+    },
+    {
+      "start": 160.25,
+      "end": 174.93,
+      "text": " will cook a will cook a with to with to care earlier care earlier a you look a you look"
+    },
+    {
+      "start": 174.93,
+      "end": 186.39,
+      "text": " express Indian Express presidio riqua presidio riqua presidio riqua presidio"
+    },
+    {
+      "start": 186.39,
+      "end": 196.41,
+      "text": " riqua presidio riqua presidio riqua presidio riqua presidio riqua presidio"
+    },
+    {
+      "start": 196.41,
+      "end": 212.81,
+      "text": " garikya padunnu. Maatram. Maatram. Koodaadhe. Koodaadhe. Hindu. Hindu. Atigam. Atigam. Stalam."
+    },
+    {
+      "start": 212.81,
+      "end": 221.83,
+      "text": " Stalam. Ella. Ella. Ellam. Ellam."
+    }
+  ]
+}

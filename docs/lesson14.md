@@ -52,77 +52,86 @@
 <div class="lesson-audio">
 <p><strong>Vocabulary audio</strong></p>
 <audio controls preload="none" aria-label="Lesson 14: Vocabulary audio" src="assets/audio/moag/sections/lesson_14_vocabulary_0.mp3"></audio>
-<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_14_vocabulary_0.mp3" aria-pressed="true">Listen · 04:18</button></div>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_14_vocabulary_0.mp3" aria-pressed="true">Listen · 04:13</button></div>
 <p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
 </div>
 <!-- /moag-audio -->
 
-| Malayalam | Meaning |
-|---|---|
-| പത്രം | newspaper |
-| വായിച്ചാൽ | if you read |
-| വാർത്ത | news |
-| കാണും | one will find |
-| യുവതി (pl. യുവതികൾ) | young woman |
-| യുവാവ് (pl. യുവാക്കന്മാർ) | young man |
-| ഇഷ്ടമുള്ള | which (you) like |
-| രംഗം | scene |
-| യുവരംഗം | youth scene |
-| കളി | game |
-| കളിക്കുക (past: കളിച്ചു) | to play |
-| പറ്റി | about, concerning |
-| പറ്റിയുള്ള | which (are) concerning |
-| സാഹിത്യം | literature |
-| --ഓ --ഓ | — or — |
-| കല | art |
-| വേദി | stage, section |
-| താരം | star |
-| പഥം | path |
-| താരാപഥം | galaxy |
-| ഇന്നത്തെ | today's |
-| പരിപാടി | program |
-| നടക്കുക | to take place, to go on |
-| <!-- Source: PDF page 255; printed page 201. --> പരസ്യം | advertisement |
-| തരം | type |
-| തരാതരം | various |
-| വിൽപ്പന | sale |
-| വൈവാഹികം | matrimonial |
+<!-- moag-vocabulary-words -->
+<div class="lesson-audio">
+<p><strong>Selected vocabulary recording</strong></p>
+<audio data-table-audio-player controls preload="none" aria-label="Lesson 14: select a word in the vocabulary table"></audio>
+<p class="lesson-audio-note">Use the Audio column to hear a word. Recorded variants appear beside their written entry; additional recorded forms are included in the same table. Unconfirmed recordings stay in rows marked “check match” until their word is verified. A dash means no aligned recording yet.</p>
+</div>
+<!-- /moag-vocabulary-words -->
+
+| Malayalam | Meaning | Audio |
+|---|---|---|
+| പത്രം | newspaper | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_020.mp3" data-audio-label="പത്രം" aria-label="Play പത്രം" title="Play പത്രം" aria-pressed="false">▶</button> |
+| വായിച്ചാൽ | if you read | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_052.mp3" data-audio-label="വായിച്ചാൽ" aria-label="Play വായിച്ചാൽ" title="Play വായിച്ചാൽ" aria-pressed="false">▶</button> |
+| വാർത്ത | news | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_001.mp3" data-audio-label="വാർത്ത" aria-label="Play വാർത്ത" title="Play വാർത്ത" aria-pressed="false">▶</button> |
+| കാണും | one will find | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_047.mp3" data-audio-label="കാണും" aria-label="Play കാണും" title="Play കാണും" aria-pressed="false">▶</button> |
+| യുവതി (pl. യുവതികൾ) | young woman | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_009.mp3" data-audio-label="യുവതി" aria-label="Play യുവതി" title="Play യുവതി" aria-pressed="false">▶</button> |
+| യുവാവ് (pl. യുവാക്കന്മാർ) | young man | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_008.mp3" data-audio-label="യുവാവ്" aria-label="Play യുവാവ്" title="Play യുവാവ്" aria-pressed="false">▶</button> |
+| ഇഷ്ടമുള്ള | which (you) like | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_048.mp3" data-audio-label="ഇഷ്ടമുള്ള" aria-label="Play ഇഷ്ടമുള്ള" title="Play ഇഷ്ടമുള്ള" aria-pressed="false">▶</button> |
+| രംഗം | scene | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_010.mp3" data-audio-label="രംഗം" aria-label="Play രംഗം" title="Play രംഗം" aria-pressed="false">▶</button> |
+| യുവരംഗം | youth scene | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| കളി | game | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_037.mp3" data-audio-label="കളി" aria-label="Play കളി" title="Play കളി" aria-pressed="false">▶</button> |
+| കളിക്കുക (past: കളിച്ചു) | to play | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_038.mp3" data-audio-label="കളിക്കുക" aria-label="Play കളിക്കുക" title="Play കളിക്കുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_039.mp3" data-audio-label="കളിച്ചു" aria-label="Play കളിച്ചു" title="Play കളിച്ചു" aria-pressed="false">▶ <span lang="ml">കളിച്ചു</span></button> |
+| പറ്റി | about, concerning | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_049.mp3" data-audio-label="പറ്റി" aria-label="Play പറ്റി" title="Play പറ്റി" aria-pressed="false">▶</button> |
+| പറ്റിയുള്ള | which (are) concerning | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_050.mp3" data-audio-label="പറ്റിയുള്ള" aria-label="Play പറ്റിയുള്ള" title="Play പറ്റിയുള്ള" aria-pressed="false">▶</button> |
+| സാഹിത്യം | literature | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_026.mp3" data-audio-label="സാഹിത്യം" aria-label="Play സാഹിത്യം" title="Play സാഹിത്യം" aria-pressed="false">▶</button> |
+| --ഓ --ഓ | — or — | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_051.mp3" data-audio-label="ഓ --ഓ" aria-label="Play ഓ --ഓ" title="Play ഓ --ഓ" aria-pressed="false">▶</button> |
+| കല | art | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_025.mp3" data-audio-label="കല" aria-label="Play കല" title="Play കല" aria-pressed="false">▶</button> |
+| വേദി | stage, section | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_006.mp3" data-audio-label="വേദി" aria-label="Play വേദി" title="Play വേദി" aria-pressed="false">▶</button> |
+| താരം | star | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_040.mp3" data-audio-label="താരം" aria-label="Play താരം" title="Play താരം" aria-pressed="false">▶</button> |
+| പഥം | path | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_041.mp3" data-audio-label="പഥം" aria-label="Play പഥം" title="Play പഥം" aria-pressed="false">▶</button> |
+| താരാപഥം | galaxy | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_042.mp3" data-audio-label="താരാപഥം" aria-label="Play താരാപഥം" title="Play താരാപഥം" aria-pressed="false">▶</button> |
+| ഇന്നത്തെ | today's | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_015.mp3" data-audio-label="ഇന്നത്തെ" aria-label="Play ഇന്നത്തെ" title="Play ഇന്നത്തെ" aria-pressed="false">▶</button> |
+| പരിപാടി | program | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_019.mp3" data-audio-label="പരിപാടി" aria-label="Play പരിപാടി" title="Play പരിപാടി" aria-pressed="false">▶</button> |
+| നടക്കുക | to take place, to go on | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_053.mp3" data-audio-label="നടക്കുക" aria-label="Play നടക്കുക" title="Play നടക്കുക" aria-pressed="false">▶</button> |
+| <!-- Source: PDF page 255; printed page 201. --> പരസ്യം | advertisement | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| തരം | type | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_027.mp3" data-audio-label="തരം" aria-label="Play തരം" title="Play തരം" aria-pressed="false">▶</button> |
+| തരാതരം | various | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_028.mp3" data-audio-label="തരാതരം" aria-label="Play തരാതരം" title="Play തരാതരം" aria-pressed="false">▶</button> |
+| വിൽപ്പന | sale | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_029.mp3" data-audio-label="വിൽപ്പന" aria-label="Play വിൽപ്പന" title="Play വിൽപ്പന" aria-pressed="false">▶</button> |
+| വൈവാഹികം | matrimonial | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
 
 <a id="lesson14-vocabulary-from-reference-list-and-exercises"></a><!-- reading-anchor -->
 ### Vocabulary from “Reference List” and “Exercises”
 
-| Malayalam | Meaning |
-|---|---|
-| ചുരുക്കം | brief |
-| ഒറ്റ | one |
-| നോട്ടം | look |
-| വിവാഹം | marriage |
-| വിവാഹിതർ | married persons |
-| വിവാഹിതരാകുക | to get married |
-| വ്യാപാരം | business, trade |
-| നിലവാരം | state, situation, standard |
-| ചരമം | death |
-| മരണം | death |
-| ചിന്ത | thought |
-| വിഷയം | subject |
-| അഭിപ്രായം | opinion, criticism |
-| പത്രാധിപർ | editor |
-| കുറിപ്പ് | note (noun) |
-| മുഖം | face |
-| പ്രസംഗം | speech |
-| കാലം | season, time, era |
-| അവസ്ഥ | situation |
-| വാടക | rent |
-| അറിവ് | knowledge |
-| അറിയിക്കുക | to make known |
-| അറിയിപ്പ് | notice, announcement |
-| വായന | reading (noun) |
-| വായനക്കാർ | readers |
-| കത്ത് | letter |
-| <!-- Source: PDF page 256; printed page 202. --> പ്രാദേശിക | regional |
-| വാരം | week |
-| അന്ത്യം | end |
-| പതിപ്പ് | edition |
+| Malayalam | Meaning | Audio |
+|---|---|---|
+| ചുരുക്കം | brief | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_002.mp3" data-audio-label="ചുരുക്കം" aria-label="Play ചുരുക്കം" title="Play ചുരുക്കം" aria-pressed="false">▶</button> |
+| ഒറ്റ | one | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_003.mp3" data-audio-label="ഒറ്റ" aria-label="Play ഒറ്റ" title="Play ഒറ്റ" aria-pressed="false">▶</button> |
+| നോട്ടം | look | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_004.mp3" data-audio-label="നോട്ടം" aria-label="Play നോട്ടം" title="Play നോട്ടം" aria-pressed="false">▶</button> |
+| വിവാഹം | marriage | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_005.mp3" data-audio-label="വിവാഹം" aria-label="Play വിവാഹം" title="Play വിവാഹം" aria-pressed="false">▶</button> |
+| വിവാഹിതർ | married persons | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_007.mp3" data-audio-label="വിവാഹിതർ" aria-label="Play വിവാഹിതർ" title="Play വിവാഹിതർ" aria-pressed="false">▶</button> |
+| വിവാഹിതരാകുക | to get married | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| വ്യാപാരം | business, trade | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_011.mp3" data-audio-label="വ്യാപാരം" aria-label="Play വ്യാപാരം" title="Play വ്യാപാരം" aria-pressed="false">▶</button> |
+| നിലവാരം | state, situation, standard | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_012.mp3" data-audio-label="നിലവാരം" aria-label="Play നിലവാരം" title="Play നിലവാരം" aria-pressed="false">▶</button> |
+| ചരമം | death | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| മരണം | death | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_014.mp3" data-audio-label="മരണം" aria-label="Play മരണം" title="Play മരണം" aria-pressed="false">▶</button> |
+| ചിന്ത | thought | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_016.mp3" data-audio-label="ചിന്ത" aria-label="Play ചിന്ത" title="Play ചിന്ത" aria-pressed="false">▶</button> |
+| വിഷയം | subject | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_017.mp3" data-audio-label="വിഷയം" aria-label="Play വിഷയം" title="Play വിഷയം" aria-pressed="false">▶</button> |
+| അഭിപ്രായം | opinion, criticism | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_018.mp3" data-audio-label="അഭിപ്രായം" aria-label="Play അഭിപ്രായം" title="Play അഭിപ്രായം" aria-pressed="false">▶</button> |
+| പത്രാധിപർ | editor | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_021.mp3" data-audio-label="പത്രാധിപർ" aria-label="Play പത്രാധിപർ" title="Play പത്രാധിപർ" aria-pressed="false">▶</button> |
+| കുറിപ്പ് | note (noun) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_022.mp3" data-audio-label="കുറിപ്പ്" aria-label="Play കുറിപ്പ്" title="Play കുറിപ്പ്" aria-pressed="false">▶</button> |
+| മുഖം | face | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_023.mp3" data-audio-label="മുഖം" aria-label="Play മുഖം" title="Play മുഖം" aria-pressed="false">▶</button> |
+| പ്രസംഗം | speech | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_024.mp3" data-audio-label="പ്രസംഗം" aria-label="Play പ്രസംഗം" title="Play പ്രസംഗം" aria-pressed="false">▶</button> |
+| കാലം | season, time, era | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| അവസ്ഥ | situation | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| വാടക | rent | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_030.mp3" data-audio-label="വാടക" aria-label="Play വാടക" title="Play വാടക" aria-pressed="false">▶</button> |
+| അറിവ് | knowledge | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_031.mp3" data-audio-label="അറിവ്" aria-label="Play അറിവ്" title="Play അറിവ്" aria-pressed="false">▶</button> |
+| അറിയിക്കുക | to make known | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_032.mp3" data-audio-label="അറിയിക്കുക" aria-label="Play അറിയിക്കുക" title="Play അറിയിക്കുക" aria-pressed="false">▶</button> |
+| അറിയിപ്പ് | notice, announcement | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_033.mp3" data-audio-label="അറിയിപ്പ്" aria-label="Play അറിയിപ്പ്" title="Play അറിയിപ്പ്" aria-pressed="false">▶</button> |
+| വായന | reading (noun) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_034.mp3" data-audio-label="വായന" aria-label="Play വായന" title="Play വായന" aria-pressed="false">▶</button> |
+| വായനക്കാർ | readers | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_035.mp3" data-audio-label="വായനക്കാർ" aria-label="Play വായനക്കാർ" title="Play വായനക്കാർ" aria-pressed="false">▶</button> |
+| കത്ത് | letter | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_036.mp3" data-audio-label="കത്ത്" aria-label="Play കത്ത്" title="Play കത്ത്" aria-pressed="false">▶</button> |
+| <!-- Source: PDF page 256; printed page 202. --> പ്രാദേശിക | regional | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_043.mp3" data-audio-label="പ്രാദേശിക" aria-label="Play പ്രാദേശിക" title="Play പ്രാദേശിക" aria-pressed="false">▶</button> |
+| വാരം | week | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_044.mp3" data-audio-label="വാരം" aria-label="Play വാരം" title="Play വാരം" aria-pressed="false">▶</button> |
+| അന്ത്യം | end | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_045.mp3" data-audio-label="അന്ത്യം" aria-label="Play അന്ത്യം" title="Play അന്ത്യം" aria-pressed="false">▶</button> |
+| പതിപ്പ് | edition | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_046.mp3" data-audio-label="പതിപ്പ്" aria-label="Play പതിപ്പ്" title="Play പതിപ്പ്" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> നിര്യാണം | death; passing away | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_013.mp3" data-audio-label="നിര്യാണം" aria-label="Play നിര്യാണം" title="Play നിര്യാണം" aria-pressed="false">▶</button> |
 
 <a id="lesson14-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice

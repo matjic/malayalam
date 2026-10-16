@@ -10,42 +10,50 @@
 <div class="lesson-audio">
 <p><strong>Vocabulary audio</strong></p>
 <audio controls preload="none" aria-label="Lesson 13: Vocabulary audio" src="assets/audio/moag/sections/lesson_13_vocabulary_0.mp3"></audio>
-<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_13_vocabulary_0.mp3" aria-pressed="true">Listen · 03:57</button></div>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_13_vocabulary_0.mp3" aria-pressed="true">Listen · 03:56</button></div>
 <p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
 </div>
 <!-- /moag-audio -->
 
-| Malayalam | Meaning |
-|---|---|
-| നേരത്തെ | before, previously, early |
-| അനുവാദം | permission |
-| വാങ്ങിച്ചിട്ടുണ്ട് | have (you) gotten, taken |
-| ആവശ്യം | need |
-| ആവശ്യമുണ്ട് | have need, to need |
-| അത്യാവശ്യം | a pressing need |
-| മീറ്റിങ്ങ് കഴിഞ്ഞിട്ട് | after the meeting is finished |
-| സമയം | time |
-| അറിയാൻ പാടില്ല | I do not know, I have no idea |
-| ചോദിച്ചിട്ട് പറയാം | I will ask and let you know |
-| കഴിഞ്ഞ | last, previous |
-| പോലെ | like, as |
-| വേറെ | other |
-| വേറൊരു | another |
-| പറഞ്ഞതുപോലെ | as you said |
-| ക്ലാർക്ക് | clerk |
-| വായ്പ | loan |
-| ശരിയാക്കുക (past tense: ശരിയാക്കി) | to fix, to set right, to take care of |
-| ഫോറം | form |
-| മേടിക്കുക (past tense: മേടിച്ചു) | to obtain, to get, to buy |
-| പൂരിപ്പിക്കുക (past tense: പൂരിപ്പിച്ചു) | to fill out, to complete |
-| കാണിക്കുക (past tense: കാണിച്ചു) | to show |
-| തെറ്റ് | mistakes (noun) |
-| തിരുത്തുക (past tense: തിരുത്തി) | to correct |
-| കൊണ്ടുതരുക (past tense: കൊണ്ടുതന്നു) | to bring to someone |
-| <!-- Source: PDF page 240; printed page 186. --> പൈസ | Paisa, a hundredth of a Rupee |
-| സ്റ്റാമ്പ് | stamp |
-| ഒട്ടിക്കുക (past tense: ഒട്ടിച്ചു) | to stick, to paste on |
-| കാപ്പി കുടിക്കുക (past tense: കാപ്പി കുടിച്ചു) | to have breakfast, snack (literally, to drink coffee) |
+<!-- moag-vocabulary-words -->
+<div class="lesson-audio">
+<p><strong>Selected vocabulary recording</strong></p>
+<audio data-table-audio-player controls preload="none" aria-label="Lesson 13: select a word in the vocabulary table"></audio>
+<p class="lesson-audio-note">Use the Audio column to hear a word. Recorded variants appear beside their written entry; additional recorded forms are included in the same table. Unconfirmed recordings stay in rows marked “check match” until their word is verified. A dash means no aligned recording yet.</p>
+</div>
+<!-- /moag-vocabulary-words -->
+
+| Malayalam | Meaning | Audio |
+|---|---|---|
+| നേരത്തെ | before, previously, early | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_001.mp3" data-audio-label="നേരത്തെ" aria-label="Play നേരത്തെ" title="Play നേരത്തെ" aria-pressed="false">▶</button> |
+| അനുവാദം | permission | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_002.mp3" data-audio-label="അനുവാദം" aria-label="Play അനുവാദം" title="Play അനുവാദം" aria-pressed="false">▶</button> |
+| വാങ്ങിച്ചിട്ടുണ്ട് | have (you) gotten, taken | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_003.mp3" data-audio-label="വാങ്ങിച്ചിട്ടുണ്ട്" aria-label="Play വാങ്ങിച്ചിട്ടുണ്ട്" title="Play വാങ്ങിച്ചിട്ടുണ്ട്" aria-pressed="false">▶</button> |
+| ആവശ്യം | need | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_004.mp3" data-audio-label="ആവശ്യം" aria-label="Play ആവശ്യം" title="Play ആവശ്യം" aria-pressed="false">▶</button> |
+| ആവശ്യമുണ്ട് | have need, to need | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_005.mp3" data-audio-label="ആവശ്യമുണ്ട്" aria-label="Play ആവശ്യമുണ്ട്" title="Play ആവശ്യമുണ്ട്" aria-pressed="false">▶</button> |
+| അത്യാവശ്യം | a pressing need | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_006.mp3" data-audio-label="അത്യാവശ്യം" aria-label="Play അത്യാവശ്യം" title="Play അത്യാവശ്യം" aria-pressed="false">▶</button> |
+| മീറ്റിങ്ങ് കഴിഞ്ഞിട്ട് | after the meeting is finished | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_007.mp3" data-audio-label="മീറ്റിങ്ങ് കഴിഞ്ഞിട്ട്" aria-label="Play മീറ്റിങ്ങ് കഴിഞ്ഞിട്ട്" title="Play മീറ്റിങ്ങ് കഴിഞ്ഞിട്ട്" aria-pressed="false">▶</button> |
+| സമയം | time | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_008.mp3" data-audio-label="സമയം" aria-label="Play സമയം" title="Play സമയം" aria-pressed="false">▶</button> |
+| അറിയാൻ പാടില്ല | I do not know, I have no idea | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_009.mp3" data-audio-label="അറിയാൻ പാടില്ല" aria-label="Play അറിയാൻ പാടില്ല" title="Play അറിയാൻ പാടില്ല" aria-pressed="false">▶</button> |
+| ചോദിച്ചിട്ട് പറയാം | I will ask and let you know | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_010.mp3" data-audio-label="ചോദിച്ചിട്ട് പറയാം" aria-label="Play ചോദിച്ചിട്ട് പറയാം" title="Play ചോദിച്ചിട്ട് പറയാം" aria-pressed="false">▶</button> |
+| കഴിഞ്ഞ | last, previous | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_011.mp3" data-audio-label="കഴിഞ്ഞ" aria-label="Play കഴിഞ്ഞ" title="Play കഴിഞ്ഞ" aria-pressed="false">▶</button> |
+| പോലെ | like, as | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_012.mp3" data-audio-label="പോലെ" aria-label="Play പോലെ" title="Play പോലെ" aria-pressed="false">▶</button> |
+| വേറെ | other | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| വേറൊരു | another | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| പറഞ്ഞതുപോലെ | as you said | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_013.mp3" data-audio-label="പറഞ്ഞതുപോലെ" aria-label="Play പറഞ്ഞതുപോലെ" title="Play പറഞ്ഞതുപോലെ" aria-pressed="false">▶</button> |
+| ക്ലാർക്ക് | clerk | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_014.mp3" data-audio-label="ക്ലാർക്ക്" aria-label="Play ക്ലാർക്ക്" title="Play ക്ലാർക്ക്" aria-pressed="false">▶</button> |
+| വായ്പ | loan | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_015.mp3" data-audio-label="വായ്പ" aria-label="Play വായ്പ" title="Play വായ്പ" aria-pressed="false">▶</button> |
+| ശരിയാക്കുക (past tense: ശരിയാക്കി) | to fix, to set right, to take care of | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_016.mp3" data-audio-label="ശരിയാക്കുക" aria-label="Play ശരിയാക്കുക" title="Play ശരിയാക്കുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_017.mp3" data-audio-label="ശരിയാക്കി" aria-label="Play ശരിയാക്കി" title="Play ശരിയാക്കി" aria-pressed="false">▶ <span lang="ml">ശരിയാക്കി</span></button> |
+| ഫോറം | form | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_018.mp3" data-audio-label="ഫോറം" aria-label="Play ഫോറം" title="Play ഫോറം" aria-pressed="false">▶</button> |
+| മേടിക്കുക (past tense: മേടിച്ചു) | to obtain, to get, to buy | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_019.mp3" data-audio-label="മേടിക്കുക" aria-label="Play മേടിക്കുക" title="Play മേടിക്കുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_020.mp3" data-audio-label="മേടിച്ചു" aria-label="Play മേടിച്ചു" title="Play മേടിച്ചു" aria-pressed="false">▶ <span lang="ml">മേടിച്ചു</span></button> |
+| പൂരിപ്പിക്കുക (past tense: പൂരിപ്പിച്ചു) | to fill out, to complete | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_021.mp3" data-audio-label="പൂരിപ്പിക്കുക" aria-label="Play പൂരിപ്പിക്കുക" title="Play പൂരിപ്പിക്കുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_022.mp3" data-audio-label="പൂരിപ്പിച്ചു" aria-label="Play പൂരിപ്പിച്ചു" title="Play പൂരിപ്പിച്ചു" aria-pressed="false">▶ <span lang="ml">പൂരിപ്പിച്ചു</span></button> |
+| കാണിക്കുക (past tense: കാണിച്ചു) | to show | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_023.mp3" data-audio-label="കാണിക്കുക" aria-label="Play കാണിക്കുക" title="Play കാണിക്കുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_024.mp3" data-audio-label="കാണിച്ചു" aria-label="Play കാണിച്ചു" title="Play കാണിച്ചു" aria-pressed="false">▶ <span lang="ml">കാണിച്ചു</span></button> |
+| തെറ്റ് | mistakes (noun) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_025.mp3" data-audio-label="തെറ്റ്" aria-label="Play തെറ്റ്" title="Play തെറ്റ്" aria-pressed="false">▶</button> |
+| തിരുത്തുക (past tense: തിരുത്തി) | to correct | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_026.mp3" data-audio-label="തിരുത്തുക" aria-label="Play തിരുത്തുക" title="Play തിരുത്തുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_027.mp3" data-audio-label="തിരുത്തി" aria-label="Play തിരുത്തി" title="Play തിരുത്തി" aria-pressed="false">▶ <span lang="ml">തിരുത്തി</span></button> |
+| കൊണ്ടുതരുക (past tense: കൊണ്ടുതന്നു) | to bring to someone | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_028.mp3" data-audio-label="കൊണ്ടുതരുക" aria-label="Play കൊണ്ടുതരുക" title="Play കൊണ്ടുതരുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_029.mp3" data-audio-label="കൊണ്ടുതന്നു" aria-label="Play കൊണ്ടുതന്നു" title="Play കൊണ്ടുതന്നു" aria-pressed="false">▶ <span lang="ml">കൊണ്ടുതന്നു</span></button> |
+| <!-- Source: PDF page 240; printed page 186. --> പൈസ | Paisa, a hundredth of a Rupee | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_030.mp3" data-audio-label="പൈസ" aria-label="Play പൈസ" title="Play പൈസ" aria-pressed="false">▶</button> |
+| സ്റ്റാമ്പ് | stamp | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_031.mp3" data-audio-label="സ്റ്റാമ്പ്" aria-label="Play സ്റ്റാമ്പ്" title="Play സ്റ്റാമ്പ്" aria-pressed="false">▶</button> |
+| ഒട്ടിക്കുക (past tense: ഒട്ടിച്ചു) | to stick, to paste on | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_032.mp3" data-audio-label="ഒട്ടിക്കുക" aria-label="Play ഒട്ടിക്കുക" title="Play ഒട്ടിക്കുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_033.mp3" data-audio-label="ഒട്ടിച്ചു" aria-label="Play ഒട്ടിച്ചു" title="Play ഒട്ടിച്ചു" aria-pressed="false">▶ <span lang="ml">ഒട്ടിച്ചു</span></button> |
+| കാപ്പി കുടിക്കുക (past tense: കാപ്പി കുടിച്ചു) | to have breakfast, snack (literally, to drink coffee) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_034.mp3" data-audio-label="കാപ്പി കുടിക്കുക" aria-label="Play കാപ്പി കുടിക്കുക" title="Play കാപ്പി കുടിക്കുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_035.mp3" data-audio-label="കാപ്പി കുടിച്ചു" aria-label="Play കാപ്പി കുടിച്ചു" title="Play കാപ്പി കുടിച്ചു" aria-pressed="false">▶ <span lang="ml">കാപ്പി കുടിച്ചു</span></button> |
 
 <a id="lesson13-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice

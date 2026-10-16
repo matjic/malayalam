@@ -36,55 +36,68 @@ Note how the emphatic particle can be added to negative verbforms.
 <div class="lesson-audio">
 <p><strong>Vocabulary audio</strong></p>
 <audio controls preload="none" aria-label="Lesson 16: Vocabulary audio" src="assets/audio/moag/sections/lesson_16_vocabulary_0.mp3"></audio>
-<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_16_vocabulary_0.mp3" aria-pressed="true">Listen · 03:39</button></div>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_16_vocabulary_0.mp3" aria-pressed="true">Listen · 03:38</button></div>
 <p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
 </div>
 <!-- /moag-audio -->
 
-| Malayalam | Meaning |
-|---|---|
-| മിക്കവാറും | nearly, almost |
-| എല്ലാവരും | everyone (full form of എല്ലാരും) |
-| എന്നും | daily |
-| പല | various (adj) (noun is പലത്) |
-| ദിനം | day |
-| ദിനപ്പത്രം | daily newspaper |
-| <!-- Source: PDF page 283; printed page 229. --> കേരള കൗമുദി | a Malayalam newspaper (literally, Kerala Moonlight) |
-| മലയാള മനോരമ | a Malayalam newspaper (മനോരമ – Mind's Delight) |
-| മാതൃഭൂമി | a Malayalam newspaper (literally, Motherland) |
-| അവിടുത്തെ | of that place (genitive of അവിടെ) |
-| ഇവിടുത്തെ | of this place (genitive of ഇവിടെ) |
-| അച്ചടിക്കുക (past tense: അച്ചടിച്ചു) | to print |
-| അച്ചടിച്ചു വരും | will be, is printed |
-| എന്തെങ്കിലും | something, anything |
-| സാധാരണ | ordinary, common, usual (adjective) |
-| സാധാരണയായി | ordinarily, commonly, usually (adverb) |
-| അന്താരാഷ്ട്രിയ | international |
-| ആദ്യത്തെ | first |
-| ലോകം | world |
-| ഏത്--- ഉം | every |
-| കോൺ | corner |
-| സംഭവം | event |
-| ഭാഷ | language |
-| രാഷ്ട്രപതി | president |
-| തർജ്ജമ | translation |
-| തർജ്ജമ ചെയ്യുക (past tense: തർജ്ജമ ചെയ്തു) | to translate |
-| എഴുതി വരും | is, will be written |
-| ഇൻഡ്യ | India |
-| സംസ്ഥാനം | state |
-| വിവാഹം കഴിക്കുക (past tense: വിവാഹം കഴിച്ചു) | to marry (same as കല്യാണം) |
-| വിൽക്കുക (past tense: വിറ്റു) | to sell |
-| കേരളീയർ | people of Kerala |
-| <!-- Source: PDF page 284; printed page 230. --> --ഏ--ഉള്ളു, ---എയുള്ളു | only |
-| ഇൻഡ്യൻ എക്സ്പ്രസ് | “Indian Express” English language newspaper |
-| പ്രസിദ്ധീകരിക്കുക (past tense: പ്രസിദ്ധീകരിച്ചു) | to publish |
-| പ്രസിദ്ധീകരിക്കപ്പെടുന്നു | is published |
-| മാത്രം | only (occurs with noun) |
-| കൂടാതെ | besides |
-| “ദി ഹിന്ദു” | “The Hindu” an English language newspaper |
-| അധികം | a great deal |
-| സ്ഥലം | place |
-| എല്ലാ ---ഉം, എല്ലാം | all |
+<!-- moag-vocabulary-words -->
+<div class="lesson-audio">
+<p><strong>Selected vocabulary recording</strong></p>
+<audio data-table-audio-player controls preload="none" aria-label="Lesson 16: select a word in the vocabulary table"></audio>
+<p class="lesson-audio-note">Use the Audio column to hear a word. Recorded variants appear beside their written entry; additional recorded forms are included in the same table. Unconfirmed recordings stay in rows marked “check match” until their word is verified. A dash means no aligned recording yet.</p>
+</div>
+<!-- /moag-vocabulary-words -->
+
+| Malayalam | Meaning | Audio |
+|---|---|---|
+| മിക്കവാറും | nearly, almost | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_001.mp3" data-audio-label="മിക്കവാറും" aria-label="Play മിക്കവാറും" title="Play മിക്കവാറും" aria-pressed="false">▶</button> |
+| എല്ലാവരും | everyone (full form of എല്ലാരും) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_002.mp3" data-audio-label="എല്ലാവരും" aria-label="Play എല്ലാവരും" title="Play എല്ലാവരും" aria-pressed="false">▶</button> |
+| എന്നും | daily | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_003.mp3" data-audio-label="എന്നും" aria-label="Play എന്നും" title="Play എന്നും" aria-pressed="false">▶</button> |
+| പല | various (adj) (noun is പലത്) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_004.mp3" data-audio-label="പല" aria-label="Play പല" title="Play പല" aria-pressed="false">▶</button> |
+| ദിനം | day | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_005.mp3" data-audio-label="ദിനം" aria-label="Play ദിനം" title="Play ദിനം" aria-pressed="false">▶</button> |
+| ദിനപ്പത്രം | daily newspaper | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_006.mp3" data-audio-label="ദിനപ്പത്രം" aria-label="Play ദിനപ്പത്രം" title="Play ദിനപ്പത്രം" aria-pressed="false">▶</button> |
+| <!-- Source: PDF page 283; printed page 229. --> കേരള കൗമുദി | a Malayalam newspaper (literally, Kerala Moonlight) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_007.mp3" data-audio-label="കേരള കൗമുദി" aria-label="Play കേരള കൗമുദി" title="Play കേരള കൗമുദി" aria-pressed="false">▶</button> |
+| മലയാള മനോരമ | a Malayalam newspaper (മനോരമ – Mind's Delight) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_008.mp3" data-audio-label="മലയാള മനോരമ" aria-label="Play മലയാള മനോരമ" title="Play മലയാള മനോരമ" aria-pressed="false">▶</button> |
+| മാതൃഭൂമി | a Malayalam newspaper (literally, Motherland) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_009.mp3" data-audio-label="മാതൃഭൂമി" aria-label="Play മാതൃഭൂമി" title="Play മാതൃഭൂമി" aria-pressed="false">▶</button> |
+| അവിടുത്തെ | of that place (genitive of അവിടെ) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_010.mp3" data-audio-label="അവിടുത്തെ" aria-label="Play അവിടുത്തെ" title="Play അവിടുത്തെ" aria-pressed="false">▶</button> |
+| ഇവിടുത്തെ | of this place (genitive of ഇവിടെ) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_011.mp3" data-audio-label="ഇവിടുത്തെ" aria-label="Play ഇവിടുത്തെ" title="Play ഇവിടുത്തെ" aria-pressed="false">▶</button> |
+| അച്ചടിക്കുക (past tense: അച്ചടിച്ചു) | to print | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_012.mp3" data-audio-label="അച്ചടിക്കുക" aria-label="Play അച്ചടിക്കുക" title="Play അച്ചടിക്കുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_013.mp3" data-audio-label="അച്ചടിച്ചു" aria-label="Play അച്ചടിച്ചു" title="Play അച്ചടിച്ചു" aria-pressed="false">▶ <span lang="ml">അച്ചടിച്ചു</span></button> |
+| അച്ചടിച്ചു വരും | will be, is printed | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_014.mp3" data-audio-label="അച്ചടിച്ചു വരും" aria-label="Play അച്ചടിച്ചു വരും" title="Play അച്ചടിച്ചു വരും" aria-pressed="false">▶</button> |
+| എന്തെങ്കിലും | something, anything | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| സാധാരണ | ordinary, common, usual (adjective) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_015.mp3" data-audio-label="സാധാരണ" aria-label="Play സാധാരണ" title="Play സാധാരണ" aria-pressed="false">▶</button> |
+| സാധാരണയായി | ordinarily, commonly, usually (adverb) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_016.mp3" data-audio-label="സാധാരണയായി" aria-label="Play സാധാരണയായി" title="Play സാധാരണയായി" aria-pressed="false">▶</button> |
+| അന്താരാഷ്ട്രിയ | international | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_017.mp3" data-audio-label="അന്താരാഷ്ട്രിയ" aria-label="Play അന്താരാഷ്ട്രിയ" title="Play അന്താരാഷ്ട്രിയ" aria-pressed="false">▶</button> |
+| ആദ്യത്തെ | first | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_018.mp3" data-audio-label="ആദ്യത്തെ" aria-label="Play ആദ്യത്തെ" title="Play ആദ്യത്തെ" aria-pressed="false">▶</button> |
+| ലോകം | world | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_019.mp3" data-audio-label="ലോകം" aria-label="Play ലോകം" title="Play ലോകം" aria-pressed="false">▶</button> |
+| ഏത്--- ഉം | every | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| കോൺ | corner | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_022.mp3" data-audio-label="കോൺ" aria-label="Play കോൺ" title="Play കോൺ" aria-pressed="false">▶</button> |
+| സംഭവം | event | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_023.mp3" data-audio-label="സംഭവം" aria-label="Play സംഭവം" title="Play സംഭവം" aria-pressed="false">▶</button> |
+| ഭാഷ | language | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_024.mp3" data-audio-label="ഭാഷ" aria-label="Play ഭാഷ" title="Play ഭാഷ" aria-pressed="false">▶</button> |
+| രാഷ്ട്രപതി | president | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_025.mp3" data-audio-label="രാഷ്ട്രപതി" aria-label="Play രാഷ്ട്രപതി" title="Play രാഷ്ട്രപതി" aria-pressed="false">▶</button> |
+| തർജ്ജമ | translation | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_026.mp3" data-audio-label="തർജ്ജമ" aria-label="Play തർജ്ജമ" title="Play തർജ്ജമ" aria-pressed="false">▶</button> |
+| തർജ്ജമ ചെയ്യുക (past tense: തർജ്ജമ ചെയ്തു) | to translate | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_027.mp3" data-audio-label="തർജ്ജമ ചെയ്യുക" aria-label="Play തർജ്ജമ ചെയ്യുക" title="Play തർജ്ജമ ചെയ്യുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_028.mp3" data-audio-label="തർജ്ജമ ചെയ്തു" aria-label="Play തർജ്ജമ ചെയ്തു" title="Play തർജ്ജമ ചെയ്തു" aria-pressed="false">▶ <span lang="ml">തർജ്ജമ ചെയ്തു</span></button> |
+| എഴുതി വരും | is, will be written | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_031.mp3" data-audio-label="എഴുതി വരും" aria-label="Play എഴുതി വരും" title="Play എഴുതി വരും" aria-pressed="false">▶</button> |
+| ഇൻഡ്യ | India | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_032.mp3" data-audio-label="ഇൻഡ്യ" aria-label="Play ഇൻഡ്യ" title="Play ഇൻഡ്യ" aria-pressed="false">▶</button> |
+| സംസ്ഥാനം | state | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_033.mp3" data-audio-label="സംസ്ഥാനം" aria-label="Play സംസ്ഥാനം" title="Play സംസ്ഥാനം" aria-pressed="false">▶</button> |
+| വിവാഹം കഴിക്കുക (past tense: വിവാഹം കഴിച്ചു) | to marry (same as കല്യാണം) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_034.mp3" data-audio-label="വിവാഹം കഴിക്കുക" aria-label="Play വിവാഹം കഴിക്കുക" title="Play വിവാഹം കഴിക്കുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_035.mp3" data-audio-label="വിവാഹം കഴിച്ചു" aria-label="Play വിവാഹം കഴിച്ചു" title="Play വിവാഹം കഴിച്ചു" aria-pressed="false">▶ <span lang="ml">വിവാഹം കഴിച്ചു</span></button> |
+| വിൽക്കുക (past tense: വിറ്റു) | to sell | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_036.mp3" data-audio-label="വിൽക്കുക" aria-label="Play വിൽക്കുക" title="Play വിൽക്കുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_037.mp3" data-audio-label="വിറ്റു" aria-label="Play വിറ്റു" title="Play വിറ്റു" aria-pressed="false">▶ <span lang="ml">വിറ്റു</span></button> |
+| കേരളീയർ | people of Kerala | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_038.mp3" data-audio-label="കേരളീയർ" aria-label="Play കേരളീയർ" title="Play കേരളീയർ" aria-pressed="false">▶</button> |
+| <!-- Source: PDF page 284; printed page 230. --> --ഏ--ഉള്ളു, ---എയുള്ളു | only | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_039.mp3" data-audio-label="എയുള്ളു" aria-label="Play എയുള്ളു" title="Play എയുള്ളു" aria-pressed="false">▶ <span lang="ml">എയുള്ളു</span></button> |
+| ഇൻഡ്യൻ എക്സ്പ്രസ് | “Indian Express” English language newspaper | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| പ്രസിദ്ധീകരിക്കുക (past tense: പ്രസിദ്ധീകരിച്ചു) | to publish | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_041.mp3" data-audio-label="പ്രസിദ്ധീകരിക്കുക" aria-label="Play പ്രസിദ്ധീകരിക്കുക" title="Play പ്രസിദ്ധീകരിക്കുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_042.mp3" data-audio-label="പ്രസിദ്ധീകരിച്ചു" aria-label="Play പ്രസിദ്ധീകരിച്ചു" title="Play പ്രസിദ്ധീകരിച്ചു" aria-pressed="false">▶ <span lang="ml">പ്രസിദ്ധീകരിച്ചു</span></button> |
+| പ്രസിദ്ധീകരിക്കപ്പെടുന്നു | is published | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_044.mp3" data-audio-label="പ്രസിദ്ധീകരിക്കപ്പെടുന്നു" aria-label="Play പ്രസിദ്ധീകരിക്കപ്പെടുന്നു" title="Play പ്രസിദ്ധീകരിക്കപ്പെടുന്നു" aria-pressed="false">▶</button> |
+| മാത്രം | only (occurs with noun) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_045.mp3" data-audio-label="മാത്രം" aria-label="Play മാത്രം" title="Play മാത്രം" aria-pressed="false">▶</button> |
+| കൂടാതെ | besides | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_046.mp3" data-audio-label="കൂടാതെ" aria-label="Play കൂടാതെ" title="Play കൂടാതെ" aria-pressed="false">▶</button> |
+| “ദി ഹിന്ദു” | “The Hindu” an English language newspaper | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_047.mp3" data-audio-label="“ദി ഹിന്ദു”" aria-label="Play “ദി ഹിന്ദു”" title="Play “ദി ഹിന്ദു”" aria-pressed="false">▶</button> |
+| അധികം | a great deal | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_048.mp3" data-audio-label="അധികം" aria-label="Play അധികം" title="Play അധികം" aria-pressed="false">▶</button> |
+| സ്ഥലം | place | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_049.mp3" data-audio-label="സ്ഥലം" aria-label="Play സ്ഥലം" title="Play സ്ഥലം" aria-pressed="false">▶</button> |
+| എല്ലാ ---ഉം, എല്ലാം | all | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_050.mp3" data-audio-label="എല്ലാം" aria-label="Play എല്ലാം" title="Play എല്ലാം" aria-pressed="false">▶ <span lang="ml">എല്ലാം</span></button> |
+| <!-- recorded-audio-row --> ഏത് | which? | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_020.mp3" data-audio-label="ഏത്" aria-label="Play ഏത്" title="Play ഏത്" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> ഏതും | any; whichever | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_021.mp3" data-audio-label="ഏതും" aria-label="Play ഏതും" title="Play ഏതും" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> എഴുതുക | to write | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_029.mp3" data-audio-label="എഴുതുക" aria-label="Play എഴുതുക" title="Play എഴുതുക" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> എഴുതി | wrote | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_030.mp3" data-audio-label="എഴുതി" aria-label="Play എഴുതി" title="Play എഴുതി" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> ഇന്ത്യൻ എക്സ്പ്രസ് | Indian Express (newspaper) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_040.mp3" data-audio-label="ഇന്ത്യൻ എക്സ്പ്രസ്" aria-label="Play ഇന്ത്യൻ എക്സ്പ്രസ്" title="Play ഇന്ത്യൻ എക്സ്പ്രസ്" aria-pressed="false">▶</button> |
 
 <a id="lesson16-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice

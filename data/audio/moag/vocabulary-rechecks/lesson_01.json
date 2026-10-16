@@ -1,0 +1,36 @@
+{
+  "lesson_01_word_019": {
+    "start": 106.311,
+    "end": 109.029,
+    "text": "പരിരം",
+    "segments": [
+      {
+        "id": 0,
+        "seek": 0,
+        "start": 0.0,
+        "end": 2.72,
+        "text": " പരിരം",
+        "tokens": [
+          50365,
+          220,
+          46503,
+          103,
+          46503,
+          108,
+          46503,
+          123,
+          46503,
+          108,
+          46503,
+          224,
+          50501
+        ],
+        "temperature": 0,
+        "avg_logprob": -0.4397134780883789,
+        "compression_ratio": 0.75,
+        "no_speech_prob": 0.05530991777777672
+      }
+    ],
+    "model": "Whisper large-v3"
+  }
+}

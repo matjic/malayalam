@@ -10,6 +10,8 @@ Malayalam is very much like English in that when people speak in a relaxed way, 
 
 In general, changes occur in consonants, not in vowels. Secondly, changes usually occur in single consonants, almost never in double consonants.
 
+> **Editorial learner note:** These opening statements are broad generalizations. The next paragraph discusses two word-final changes; later paragraphs also describe weakening of ക, പ, and ച in other positions. The examples മകൻ → മോൻ and മകൾ → മോൾ explicitly include vowel coalescence. Do not read “not in vowels” or “only two consonants” as absolute rules.
+
 Only two consonants change significantly. Final ൾ becomes -ഴ്, but only in the time morpheme -പ്പോൾ (see 11.7). A much more general phenomenon is the weakening of final -ം. This is particularly true in the verb endings -ാം and -ഉം but can occur in nouns ending in -ം as well. What generally happens is that instead of -ം there will be some nasalization of the preceding vowel. If you watch a Malayali’s mouth closely, you will see some lip movement as if to close the lips to make the -ം but stopping far short of closure. Listen to the instructor pronounce these words in a casual manner.
 
 അറിയാം  

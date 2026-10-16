@@ -1,0 +1,1880 @@
+{
+  "method": "All published clip labels compared with their large-v3 utterance recognition, independent isolated rechecks, and temporally scoped English recognition. Broad multiword substring relabeling removed. Uncertain and duplicate proposed assignments kept in explicitly unconfirmed table rows. This is a machine-evidence audit, not fluent listening certification.",
+  "assignments_checked": 1005,
+  "labels_changed": 142,
+  "status_counts": {
+    "matched": 863,
+    "review": 137,
+    "untranscribed": 5
+  },
+  "audio_files_unchanged": true,
+  "remaining_duplicate_candidates": [
+    {
+      "lesson": 5,
+      "transcript": "ചെയ്യുന്നു",
+      "clips": [
+        "docs/assets/audio/moag/words/lesson_05_word_004.mp3",
+        "docs/assets/audio/moag/words/lesson_05_word_011.mp3"
+      ]
+    },
+    {
+      "lesson": 9,
+      "transcript": "ചേരും",
+      "clips": [
+        "docs/assets/audio/moag/words/lesson_09_word_004.mp3",
+        "docs/assets/audio/moag/words/lesson_09_word_024.mp3"
+      ]
+    },
+    {
+      "lesson": 15,
+      "transcript": "കയറുക",
+      "clips": [
+        "docs/assets/audio/moag/words/lesson_15_word_005.mp3",
+        "docs/assets/audio/moag/words/lesson_15_word_012.mp3"
+      ]
+    },
+    {
+      "lesson": 15,
+      "transcript": "സന്തോഷം",
+      "clips": [
+        "docs/assets/audio/moag/words/lesson_15_word_018.mp3",
+        "docs/assets/audio/moag/words/lesson_15_word_019.mp3"
+      ]
+    },
+    {
+      "lesson": 15,
+      "transcript": "എനിക്ക്",
+      "clips": [
+        "docs/assets/audio/moag/words/lesson_15_word_022.mp3",
+        "docs/assets/audio/moag/words/lesson_15_word_028.mp3"
+      ]
+    },
+    {
+      "lesson": 15,
+      "transcript": "വിട്ടുപോയ",
+      "clips": [
+        "docs/assets/audio/moag/words/lesson_15_word_030.mp3",
+        "docs/assets/audio/moag/words/lesson_15_word_032.mp3"
+      ]
+    },
+    {
+      "lesson": 16,
+      "transcript": "ദിനം",
+      "clips": [
+        "docs/assets/audio/moag/words/lesson_16_word_005.mp3",
+        "docs/assets/audio/moag/words/lesson_16_word_040.mp3"
+      ]
+    },
+    {
+      "lesson": 16,
+      "transcript": "വിൽക്കുക",
+      "clips": [
+        "docs/assets/audio/moag/words/lesson_16_word_029.mp3",
+        "docs/assets/audio/moag/words/lesson_16_word_036.mp3"
+      ]
+    },
+    {
+      "lesson": 19,
+      "transcript": "ഇറങ്ങി",
+      "clips": [
+        "docs/assets/audio/moag/words/lesson_19_word_013.mp3",
+        "docs/assets/audio/moag/words/lesson_19_word_015.mp3"
+      ]
+    },
+    {
+      "lesson": 19,
+      "transcript": "വിശ്വാസം",
+      "clips": [
+        "docs/assets/audio/moag/words/lesson_19_word_023.mp3",
+        "docs/assets/audio/moag/words/lesson_19_word_026.mp3"
+      ]
+    },
+    {
+      "lesson": 19,
+      "transcript": "എനിക്ക്",
+      "clips": [
+        "docs/assets/audio/moag/words/lesson_19_word_025.mp3",
+        "docs/assets/audio/moag/words/lesson_19_word_046.mp3",
+        "docs/assets/audio/moag/words/lesson_19_word_049.mp3"
+      ]
+    },
+    {
+      "lesson": 19,
+      "transcript": "മാറ്റുക",
+      "clips": [
+        "docs/assets/audio/moag/words/lesson_19_word_039.mp3",
+        "docs/assets/audio/moag/words/lesson_19_word_042.mp3",
+        "docs/assets/audio/moag/words/lesson_19_word_048.mp3"
+      ]
+    },
+    {
+      "lesson": 20,
+      "transcript": "ആഘോഷം",
+      "clips": [
+        "docs/assets/audio/moag/words/lesson_20_word_022.mp3",
+        "docs/assets/audio/moag/words/lesson_20_word_042.mp3"
+      ]
+    },
+    {
+      "lesson": 20,
+      "transcript": "ഭൂമി",
+      "clips": [
+        "docs/assets/audio/moag/words/lesson_20_word_030.mp3",
+        "docs/assets/audio/moag/words/lesson_20_word_040.mp3"
+      ]
+    },
+    {
+      "lesson": 20,
+      "transcript": "ആണ്ട്",
+      "clips": [
+        "docs/assets/audio/moag/words/lesson_20_word_034.mp3",
+        "docs/assets/audio/moag/words/lesson_20_word_039.mp3"
+      ]
+    },
+    {
+      "lesson": 20,
+      "transcript": "ക്രിസ്ത്യാനി",
+      "clips": [
+        "docs/assets/audio/moag/words/lesson_20_word_070.mp3",
+        "docs/assets/audio/moag/words/lesson_20_word_081.mp3"
+      ]
+    },
+    {
+      "lesson": 21,
+      "transcript": "വിപരീതപദം",
+      "clips": [
+        "docs/assets/audio/moag/words/lesson_21_word_018.mp3",
+        "docs/assets/audio/moag/words/lesson_21_word_019.mp3"
+      ]
+    },
+    {
+      "lesson": 21,
+      "transcript": "പ്രസന്നതയില്ലാത്തത്",
+      "clips": [
+        "docs/assets/audio/moag/words/lesson_21_word_022.mp3",
+        "docs/assets/audio/moag/words/lesson_21_word_023.mp3"
+      ]
+    },
+    {
+      "lesson": 22,
+      "transcript": "വേണ്ടി",
+      "clips": [
+        "docs/assets/audio/moag/words/lesson_22_word_053.mp3",
+        "docs/assets/audio/moag/words/lesson_22_word_059.mp3"
+      ]
+    },
+    {
+      "lesson": 24,
+      "transcript": "കിടപ്പുമുറി",
+      "clips": [
+        "docs/assets/audio/moag/words/lesson_24_word_005.mp3",
+        "docs/assets/audio/moag/words/lesson_24_word_006.mp3"
+      ]
+    },
+    {
+      "lesson": 24,
+      "transcript": "സ്നേഹിക്കുക",
+      "clips": [
+        "docs/assets/audio/moag/words/lesson_24_word_026.mp3",
+        "docs/assets/audio/moag/words/lesson_24_word_027.mp3"
+      ]
+    }
+  ],
+  "changed_assignments": [
+    {
+      "lesson": 2,
+      "clip": "docs/assets/audio/moag/words/lesson_02_word_010.mp3",
+      "before": "ഇൽ",
+      "after": "ആഫീസിൽ",
+      "status": "matched",
+      "recognition": [
+        "ആപേച്ച്ച്",
+        ""
+      ],
+      "isolated_recheck": "ആപചില് ആപചില്"
+    },
+    {
+      "lesson": 3,
+      "clip": "docs/assets/audio/moag/words/lesson_03_word_018.mp3",
+      "before": "പേര്",
+      "after": "അഞ്ച്",
+      "status": "review",
+      "recognition": [
+        "അഞ്ജ്",
+        "അഞ്ജ്"
+      ],
+      "isolated_recheck": "അന്ജ് അന്ജ്"
+    },
+    {
+      "lesson": 3,
+      "clip": "docs/assets/audio/moag/words/lesson_03_word_019.mp3",
+      "before": "അവർ",
+      "after": "ഞങ്ങൾ",
+      "status": "review",
+      "recognition": [
+        "നങ്ങള",
+        ""
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 4,
+      "clip": "docs/assets/audio/moag/words/lesson_04_word_027.mp3",
+      "before": "അവന്",
+      "after": "പണം",
+      "status": "matched",
+      "recognition": [
+        "അവന്",
+        "പണം"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 4,
+      "clip": "docs/assets/audio/moag/words/lesson_04_word_028.mp3",
+      "before": "പണം",
+      "after": "ഒന്ന്",
+      "status": "matched",
+      "recognition": [
+        "ഒന്",
+        ""
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 5,
+      "clip": "docs/assets/audio/moag/words/lesson_05_word_003.mp3",
+      "before": "ഇരിക്കുന്നു",
+      "after": "Unclear word",
+      "status": "untranscribed",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "ഇരിക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്�"
+    },
+    {
+      "lesson": 5,
+      "clip": "docs/assets/audio/moag/words/lesson_05_word_005.mp3",
+      "before": "പഠിക്കുന്നു",
+      "after": "വായിക്കുന്നു",
+      "status": "review",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "പടിക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്�"
+    },
+    {
+      "lesson": 5,
+      "clip": "docs/assets/audio/moag/words/lesson_05_word_006.mp3",
+      "before": "കാണാൻ",
+      "after": "ഇരിക്കുന്നു",
+      "status": "matched",
+      "recognition": [
+        "",
+        "ഇരിക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക"
+      ],
+      "isolated_recheck": "വയക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക�"
+    },
+    {
+      "lesson": 5,
+      "clip": "docs/assets/audio/moag/words/lesson_05_word_007.mp3",
+      "before": "കാണാൻ",
+      "after": "സിനിമ",
+      "status": "matched",
+      "recognition": [
+        "സിന്മാ",
+        ""
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 5,
+      "clip": "docs/assets/audio/moag/words/lesson_05_word_022.mp3",
+      "before": "പിന്നെ",
+      "after": "പിന്നെ കാണാം",
+      "status": "matched",
+      "recognition": [
+        "പിന്നെ കാണാം",
+        "പിന്നെ കാണാം"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 6,
+      "clip": "docs/assets/audio/moag/words/lesson_06_word_013.mp3",
+      "before": "തുണി",
+      "after": "ധാരാളം",
+      "status": "matched",
+      "recognition": [
+        "ധരാളമ്",
+        "ധരാളമ്"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 8,
+      "clip": "docs/assets/audio/moag/words/lesson_08_word_012.mp3",
+      "before": "നാളെ",
+      "after": "പരീക്ഷ",
+      "status": "matched",
+      "recognition": [
+        "പഡീച്ച്",
+        "പഡീച്ച്"
+      ],
+      "isolated_recheck": "പരിച്ചാ പരിച്ചാ"
+    },
+    {
+      "lesson": 9,
+      "clip": "docs/assets/audio/moag/words/lesson_09_word_004.mp3",
+      "before": "നല്ല",
+      "after": "ചേരും",
+      "status": "review",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "ചേരും വേഗം ചേരും വേഗം"
+    },
+    {
+      "lesson": 9,
+      "clip": "docs/assets/audio/moag/words/lesson_09_word_005.mp3",
+      "before": "ആരുടെ",
+      "after": "നന്നായിരിക്കുന്നു",
+      "status": "review",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "നന്നായൃക്ക്ക്ക്ക്ക്ക്ക്ക്�"
+    },
+    {
+      "lesson": 9,
+      "clip": "docs/assets/audio/moag/words/lesson_09_word_016.mp3",
+      "before": "ഒന്നും",
+      "after": "ഒന്നും പറയില്ല",
+      "status": "matched",
+      "recognition": [
+        "അന്നും പരയല്ല",
+        "അന്നും പരയല്ല"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 10,
+      "clip": "docs/assets/audio/moag/words/lesson_10_word_014.mp3",
+      "before": "കിഴക്ക്",
+      "after": "കിഴക്കേ",
+      "status": "review",
+      "recognition": [
+        "കീരക്",
+        "കീരക്"
+      ],
+      "isolated_recheck": "ക്ര്യാക് ക്ര്യാക്"
+    },
+    {
+      "lesson": 10,
+      "clip": "docs/assets/audio/moag/words/lesson_10_word_015.mp3",
+      "before": "കിഴക്കേ",
+      "after": "കിഴക്ക്",
+      "status": "matched",
+      "recognition": [
+        "കീരക്",
+        ""
+      ],
+      "isolated_recheck": "ക്രാക്ക്"
+    },
+    {
+      "lesson": 10,
+      "clip": "docs/assets/audio/moag/words/lesson_10_word_016.mp3",
+      "before": "സഹ്യപർവ്വതം",
+      "after": "പർവ്വതം",
+      "status": "matched",
+      "recognition": [
+        "",
+        "പര്ബദ്ദ്ദ്ദ്"
+      ],
+      "isolated_recheck": "പര്ബദമ് പര്ബദമ്"
+    },
+    {
+      "lesson": 10,
+      "clip": "docs/assets/audio/moag/words/lesson_10_word_017.mp3",
+      "before": "പർവ്വതം",
+      "after": "സഹ്യപർവ്വതം",
+      "status": "matched",
+      "recognition": [
+        "സക്ഷിയർപര്വദ്ദ്",
+        "സക്ഷിയർപര്വദ്ദ്"
+      ],
+      "isolated_recheck": "സഹ്യാ പര്ബദമ്"
+    },
+    {
+      "lesson": 10,
+      "clip": "docs/assets/audio/moag/words/lesson_10_word_019.mp3",
+      "before": "സ്ഥിതിചെയ്യുക",
+      "after": "ജില്ലകൾ",
+      "status": "matched",
+      "recognition": [
+        "ജില്ല്",
+        ""
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 10,
+      "clip": "docs/assets/audio/moag/words/lesson_10_word_027.mp3",
+      "before": "വടക്കേ",
+      "after": "അറ്റം",
+      "status": "matched",
+      "recognition": [
+        "",
+        "അറ്റം"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 10,
+      "clip": "docs/assets/audio/moag/words/lesson_10_word_028.mp3",
+      "before": "അറ്റം",
+      "after": "വടക്കേ",
+      "status": "review",
+      "recognition": [
+        "",
+        "അറ്റം"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 10,
+      "clip": "docs/assets/audio/moag/words/lesson_10_word_035.mp3",
+      "before": "ട്രെയിൻ",
+      "after": "യാത്ര ചെയ്യുക",
+      "status": "review",
+      "recognition": [
+        "ട്രെയൿൻ",
+        ""
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 11,
+      "clip": "docs/assets/audio/moag/words/lesson_11_word_006.mp3",
+      "before": "അയച്ചു",
+      "after": "എന്തിനാണ് അയച്ചത്?",
+      "status": "matched",
+      "recognition": [
+        "ആയച്ച്ച്"
+      ],
+      "isolated_recheck": "അയചദി"
+    },
+    {
+      "lesson": 11,
+      "clip": "docs/assets/audio/moag/words/lesson_11_word_007.mp3",
+      "before": "അയച്ചു",
+      "after": "ഇറച്ചി",
+      "status": "matched",
+      "recognition": [
+        "ഇരച്ച്",
+        "ഇര�"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 11,
+      "clip": "docs/assets/audio/moag/words/lesson_11_word_009.mp3",
+      "before": "തീർന്നു",
+      "after": "തീർന്നുപോയി",
+      "status": "matched",
+      "recognition": [
+        "തിരണു പോയു",
+        "തിരണു പോയു"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 11,
+      "clip": "docs/assets/audio/moag/words/lesson_11_word_012.mp3",
+      "before": "അത്ര",
+      "after": "വേറെ",
+      "status": "review",
+      "recognition": [
+        "",
+        "അത്രാ"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 11,
+      "clip": "docs/assets/audio/moag/words/lesson_11_word_035.mp3",
+      "before": "വേറെ",
+      "after": "Unclear word",
+      "status": "untranscribed",
+      "recognition": [
+        ""
+      ],
+      "isolated_recheck": "കിലമ്മിക്ക്ക്ക്ക്ക്ക്ക്ക്ക"
+    },
+    {
+      "lesson": 12,
+      "clip": "docs/assets/audio/moag/words/lesson_12_word_006.mp3",
+      "before": "അസുഖം",
+      "after": "വയറ്",
+      "status": "matched",
+      "recognition": [
+        "വായ്ര",
+        "വായ്ര"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 12,
+      "clip": "docs/assets/audio/moag/words/lesson_12_word_010.mp3",
+      "before": "ആശുപത്രി",
+      "after": "കൊണ്ടുപോകണം",
+      "status": "matched",
+      "recognition": [
+        "കുണ്ടെ പോകുന്നു",
+        ""
+      ],
+      "isolated_recheck": "കുണ്ടെ പോകുന്നം"
+    },
+    {
+      "lesson": 12,
+      "clip": "docs/assets/audio/moag/words/lesson_12_word_019.mp3",
+      "before": "കൂടുക",
+      "after": "കൂടുമായിരിക്കും",
+      "status": "matched",
+      "recognition": [
+        "കുടുമെയ്രിക്കും",
+        ""
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 12,
+      "clip": "docs/assets/audio/moag/words/lesson_12_word_020.mp3",
+      "before": "കൂടുക",
+      "after": "ചേട്ടൻ",
+      "status": "matched",
+      "recognition": [
+        "ചേട്ടെന്",
+        ""
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 13,
+      "clip": "docs/assets/audio/moag/words/lesson_13_word_005.mp3",
+      "before": "ആവശ്യം",
+      "after": "ആവശ്യമുണ്ട്",
+      "status": "matched",
+      "recognition": [
+        "ആവശിയം ഉണ്ഡ",
+        "ആവശിയം ഉണ്ഡ"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 13,
+      "clip": "docs/assets/audio/moag/words/lesson_13_word_013.mp3",
+      "before": "പോലെ",
+      "after": "പറഞ്ഞതുപോലെ",
+      "status": "matched",
+      "recognition": [
+        "പരണ്യതുപോലേ",
+        ""
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 14,
+      "clip": "docs/assets/audio/moag/words/lesson_14_word_013.mp3",
+      "before": "നിലവാരം",
+      "after": "നിരിയാണം",
+      "status": "review",
+      "recognition": [
+        "നിരിയാണം",
+        "നിരിയാണം"
+      ],
+      "isolated_recheck": "നിരിയാണം"
+    },
+    {
+      "lesson": 14,
+      "clip": "docs/assets/audio/moag/words/lesson_14_word_016.mp3",
+      "before": "ഇന്നത്തെ",
+      "after": "ചിന്ത",
+      "status": "matched",
+      "recognition": [
+        "ചിന്ദാ",
+        "ചിന്ദാ"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 14,
+      "clip": "docs/assets/audio/moag/words/lesson_14_word_022.mp3",
+      "before": "പത്രാധിപർ",
+      "after": "കുറിപ്പ്",
+      "status": "matched",
+      "recognition": [
+        "കുരുപ്",
+        "കുരുപ്"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 14,
+      "clip": "docs/assets/audio/moag/words/lesson_14_word_024.mp3",
+      "before": "മുഖം",
+      "after": "പരസ്യം",
+      "status": "matched",
+      "recognition": [
+        "പരസങ്ങം",
+        "പരസങ്ങം"
+      ],
+      "isolated_recheck": "പ്രസംഗം പ്രസംഗം"
+    },
+    {
+      "lesson": 14,
+      "clip": "docs/assets/audio/moag/words/lesson_14_word_025.mp3",
+      "before": "സാഹിത്യം",
+      "after": "കല",
+      "status": "matched",
+      "recognition": [
+        "കലാ",
+        "കലാ"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 14,
+      "clip": "docs/assets/audio/moag/words/lesson_14_word_049.mp3",
+      "before": "ഓ --ഓ",
+      "after": "പറ്റി",
+      "status": "review",
+      "recognition": [
+        "പത്ട്",
+        "പത്ട്"
+      ],
+      "isolated_recheck": "പതി"
+    },
+    {
+      "lesson": 14,
+      "clip": "docs/assets/audio/moag/words/lesson_14_word_050.mp3",
+      "before": "ഓ --ഓ",
+      "after": "പറ്റിയുള്ള",
+      "status": "review",
+      "recognition": [
+        "പത്ട് ഉല്ലാ",
+        "പത്ട് ഉല്ലാ"
+      ],
+      "isolated_recheck": "പത്തുല്ലാ"
+    },
+    {
+      "lesson": 14,
+      "clip": "docs/assets/audio/moag/words/lesson_14_word_052.mp3",
+      "before": "നടക്കുക",
+      "after": "വായിച്ചാൽ",
+      "status": "matched",
+      "recognition": [
+        "വായചാല",
+        "വായചാല"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 15,
+      "clip": "docs/assets/audio/moag/words/lesson_15_word_017.mp3",
+      "before": "സ്ത്രീ",
+      "after": "മുക്കാൽ മണിക്കൂർ",
+      "status": "review",
+      "recognition": [
+        "നെല്കുക",
+        ""
+      ],
+      "isolated_recheck": "സ്റിന്നുക സ്റിന്നുക"
+    },
+    {
+      "lesson": 15,
+      "clip": "docs/assets/audio/moag/words/lesson_15_word_020.mp3",
+      "before": "വിട്ടുപോയി",
+      "after": "Unclear word",
+      "status": "untranscribed",
+      "recognition": [
+        ""
+      ],
+      "isolated_recheck": "അപ്പിന്നുക്ക് അപ്പിന്നുക് അ�"
+    },
+    {
+      "lesson": 15,
+      "clip": "docs/assets/audio/moag/words/lesson_15_word_024.mp3",
+      "before": "സംസാരിച്ചു",
+      "after": "സംസാരിക്കുക",
+      "status": "matched",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "സമ്സായ്രിക്ക്ക്ക്"
+    },
+    {
+      "lesson": 15,
+      "clip": "docs/assets/audio/moag/words/lesson_15_word_029.mp3",
+      "before": "ഈ സമയത്ത്",
+      "after": "വിട്ടുപോയി",
+      "status": "review",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "ഈസമേത്"
+    },
+    {
+      "lesson": 15,
+      "clip": "docs/assets/audio/moag/words/lesson_15_word_031.mp3",
+      "before": "വിട്ടുപോയി",
+      "after": "ഈ സമയത്ത്",
+      "status": "review",
+      "recognition": [
+        "",
+        "ഈസമയ്യ്യ്യ്യ്യ"
+      ],
+      "isolated_recheck": "വിട്ടുപോയീ"
+    },
+    {
+      "lesson": 15,
+      "clip": "docs/assets/audio/moag/words/lesson_15_word_034.mp3",
+      "before": "തോന്നുക",
+      "after": "വിട്ടുപോകുക",
+      "status": "review",
+      "recognition": [
+        "തോന്നുക്",
+        ""
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 16,
+      "clip": "docs/assets/audio/moag/words/lesson_16_word_007.mp3",
+      "before": "ദിനപ്പത്രം",
+      "after": "കേരള കൗമുദി",
+      "status": "matched",
+      "recognition": [
+        "കേരലാ കോമുദീ",
+        "കേരലാ കോമുദീ"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 16,
+      "clip": "docs/assets/audio/moag/words/lesson_16_word_008.mp3",
+      "before": "ദിനപ്പത്രം",
+      "after": "മലയാള മനോരമ",
+      "status": "matched",
+      "recognition": [
+        "മല്യാളാ മനോരമാ",
+        "മല്യാളാ മനോരമാ"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 16,
+      "clip": "docs/assets/audio/moag/words/lesson_16_word_009.mp3",
+      "before": "മലയാള മനോരമ",
+      "after": "മാതൃഭൂമി",
+      "status": "matched",
+      "recognition": [
+        "മാധു�",
+        ""
+      ],
+      "isolated_recheck": "മാധ്രഭൂമി"
+    },
+    {
+      "lesson": 16,
+      "clip": "docs/assets/audio/moag/words/lesson_16_word_010.mp3",
+      "before": "മലയാള മനോരമ",
+      "after": "ഇവിടുത്തെ",
+      "status": "matched",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "അവുഡുത്തെ"
+    },
+    {
+      "lesson": 16,
+      "clip": "docs/assets/audio/moag/words/lesson_16_word_012.mp3",
+      "before": "അച്ചടിച്ചു",
+      "after": "അച്ചടിക്കുക",
+      "status": "matched",
+      "recognition": [
+        "അച്ചഡീക്യുഗാ",
+        ""
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 16,
+      "clip": "docs/assets/audio/moag/words/lesson_16_word_014.mp3",
+      "before": "അച്ചടിച്ചു",
+      "after": "അച്ചടിച്ചു വരും",
+      "status": "matched",
+      "recognition": [
+        "അച്ചഡിച്ചു വിരും അച്ചഡിച്ചു",
+        "വിരും"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 16,
+      "clip": "docs/assets/audio/moag/words/lesson_16_word_015.mp3",
+      "before": "സാധാരണ",
+      "after": "സാധാരണയായി",
+      "status": "matched",
+      "recognition": [
+        ""
+      ],
+      "isolated_recheck": "സാധായരണാ"
+    },
+    {
+      "lesson": 16,
+      "clip": "docs/assets/audio/moag/words/lesson_16_word_021.mp3",
+      "before": "ഏത്--- ഉം",
+      "after": "എന്നും",
+      "status": "matched",
+      "recognition": [
+        "ഏദും",
+        "ഏദും"
+      ],
+      "isolated_recheck": "എദുമ് എദുമ്"
+    },
+    {
+      "lesson": 16,
+      "clip": "docs/assets/audio/moag/words/lesson_16_word_029.mp3",
+      "before": "എരുദുക",
+      "after": "വിൽക്കുക",
+      "status": "review",
+      "recognition": [
+        "എരുദുക",
+        "എരുദുക"
+      ],
+      "isolated_recheck": "എല്ലം ദുകാ എല്ലം ദുകാ"
+    },
+    {
+      "lesson": 16,
+      "clip": "docs/assets/audio/moag/words/lesson_16_word_031.mp3",
+      "before": "സംസ്ഥാനം",
+      "after": "എഴുതി വരും",
+      "status": "matched",
+      "recognition": [
+        "എരുദു എരു",
+        "എരുദ്ദീ വിരും"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 16,
+      "clip": "docs/assets/audio/moag/words/lesson_16_word_032.mp3",
+      "before": "സംസ്ഥാനം",
+      "after": "ഇൻഡ്യ",
+      "status": "review",
+      "recognition": [
+        "ഇന്ദ്യാ",
+        "ഇന്ദ്യാ"
+      ],
+      "isolated_recheck": "ഇന്ദ്യാ ഇന്ദ്യാ"
+    },
+    {
+      "lesson": 16,
+      "clip": "docs/assets/audio/moag/words/lesson_16_word_034.mp3",
+      "before": "വിവാഹം കഴിച്ചു",
+      "after": "വിവാഹം കഴിക്കുക",
+      "status": "matched",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "വിവാഹം കളിക്കുക്ക്"
+    },
+    {
+      "lesson": 16,
+      "clip": "docs/assets/audio/moag/words/lesson_16_word_042.mp3",
+      "before": "പ്രസിദ്ധീകരിക്കുക",
+      "after": "പ്രസിദ്ധീകരിച്ചു",
+      "status": "matched",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "പ്രസിദ്ധീകരിച്ചു"
+    },
+    {
+      "lesson": 16,
+      "clip": "docs/assets/audio/moag/words/lesson_16_word_043.mp3",
+      "before": "പ്രസിദ്ധീകരിച്ചു",
+      "after": "ഇൻഡ്യൻ എക്സ്പ്രസ്",
+      "status": "review",
+      "recognition": [
+        "എക്സ്പ്ര"
+      ],
+      "isolated_recheck": "അധികം എല്ലാം അധികം എല്ലാം അധികം �"
+    },
+    {
+      "lesson": 16,
+      "clip": "docs/assets/audio/moag/words/lesson_16_word_047.mp3",
+      "before": "അധികം",
+      "after": "“ദി ഹിന്ദു”",
+      "status": "matched",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "ഹിന്ദു ഹിന്ദു"
+    },
+    {
+      "lesson": 16,
+      "clip": "docs/assets/audio/moag/words/lesson_16_word_050.mp3",
+      "before": "സ്ഥലം",
+      "after": "എല്ലാം",
+      "status": "matched",
+      "recognition": [
+        "എല്ലാ എല്ലാ",
+        "എല്ലാ"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 17,
+      "clip": "docs/assets/audio/moag/words/lesson_17_word_006.mp3",
+      "before": "കല്യാണി",
+      "after": "വലിയ ഇഷ്ടമാണ്",
+      "status": "review",
+      "recognition": [
+        "കല്യാണ് അമ്മാ",
+        "കല്യാണ് അമ്മാ"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 17,
+      "clip": "docs/assets/audio/moag/words/lesson_17_word_012.mp3",
+      "before": "ആവാം",
+      "after": "ഓർക്കുക",
+      "status": "matched",
+      "recognition": [
+        "ഓര്കുകാർ",
+        "ഓ�"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 17,
+      "clip": "docs/assets/audio/moag/words/lesson_17_word_014.mp3",
+      "before": "ആട്ടെ",
+      "after": "ചെയ്യ്",
+      "status": "matched",
+      "recognition": [
+        "",
+        "ചേയുക"
+      ],
+      "isolated_recheck": "ജൈയു"
+    },
+    {
+      "lesson": 17,
+      "clip": "docs/assets/audio/moag/words/lesson_17_word_015.mp3",
+      "before": "ആട്ടെ",
+      "after": "ജേയുക്ക്",
+      "status": "review",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "ജേയുക്ക്"
+    },
+    {
+      "lesson": 17,
+      "clip": "docs/assets/audio/moag/words/lesson_17_word_022.mp3",
+      "before": "കൂടുകാരണ്",
+      "after": "കാണുന്നു",
+      "status": "review",
+      "recognition": [
+        "കൂടുകാരണ്",
+        "കൂടുകാരണ്"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 17,
+      "clip": "docs/assets/audio/moag/words/lesson_17_word_023.mp3",
+      "before": "കൂട്ടുകാർ",
+      "after": "കൂട്ടുകാരി",
+      "status": "review",
+      "recognition": [
+        "കൂടുകാര്രീ",
+        ""
+      ],
+      "isolated_recheck": "കൂട്ടുകാരീ"
+    },
+    {
+      "lesson": 17,
+      "clip": "docs/assets/audio/moag/words/lesson_17_word_029.mp3",
+      "before": "കാണുന്നു",
+      "after": "ഉണ്ട്",
+      "status": "review",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "പത്തരാ"
+    },
+    {
+      "lesson": 18,
+      "clip": "docs/assets/audio/moag/words/lesson_18_word_004.mp3",
+      "before": "ഇറക്കം",
+      "after": "സിനിമാശാല",
+      "status": "matched",
+      "recognition": [
+        "സിന്മാശാലാ",
+        ""
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 18,
+      "clip": "docs/assets/audio/moag/words/lesson_18_word_013.mp3",
+      "before": "എത്തുക",
+      "after": "ആകെ",
+      "status": "matched",
+      "recognition": [
+        "ആക്ക്",
+        ""
+      ],
+      "isolated_recheck": "ആകേ"
+    },
+    {
+      "lesson": 18,
+      "clip": "docs/assets/audio/moag/words/lesson_18_word_020.mp3",
+      "before": "വാസ്തവം",
+      "after": "നാല് ഫർലാംഗാണ് ഉള്ളത്",
+      "status": "matched",
+      "recognition": [
+        "നാല്യ ഫര്ലാങ്കാണ്",
+        "നാല്യ"
+      ],
+      "isolated_recheck": "നാലു ഫരലാങ്കാണ് നാലു ഫരലങ്കാണ�"
+    },
+    {
+      "lesson": 18,
+      "clip": "docs/assets/audio/moag/words/lesson_18_word_021.mp3",
+      "before": "വാസ്തവം",
+      "after": "വീഴാതെ നോക്കണേ!",
+      "status": "review",
+      "recognition": [
+        "ഫര്ലങ്കാണ് ഉള്ളത്",
+        ""
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 18,
+      "clip": "docs/assets/audio/moag/words/lesson_18_word_027.mp3",
+      "before": "കൊതി",
+      "after": "മനഃപൂർവ്വം",
+      "status": "matched",
+      "recognition": [
+        "മനഃപൂർവർം",
+        ""
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 19,
+      "clip": "docs/assets/audio/moag/words/lesson_19_word_001.mp3",
+      "before": "മാറ്റുക",
+      "after": "മാനേജർ",
+      "status": "review",
+      "recognition": [
+        "മാറ്റുക"
+      ],
+      "isolated_recheck": "മാറ്റുക മാറ്റുക മാറ്റുക മാറ്റ"
+    },
+    {
+      "lesson": 19,
+      "clip": "docs/assets/audio/moag/words/lesson_19_word_015.mp3",
+      "before": "കാരണങ്ങള്",
+      "after": "ഇറങ്ങി",
+      "status": "review",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "കാരണങ്ങള്"
+    },
+    {
+      "lesson": 19,
+      "clip": "docs/assets/audio/moag/words/lesson_19_word_016.mp3",
+      "before": "ഇറങ്ങി",
+      "after": "ില്ലാത്തത് കൊണ്ട്",
+      "status": "review",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "ഓരോ കാരണങ്ങള് ഓരോ കാരണങ്ങള്"
+    },
+    {
+      "lesson": 19,
+      "clip": "docs/assets/audio/moag/words/lesson_19_word_027.mp3",
+      "before": "വിശ്വാസം",
+      "after": "അയാളെ എനിക്ക് വിശ്വാസമുണ്ട്",
+      "status": "matched",
+      "recognition": [
+        "എനിക്ക് വിഷ്വാസം ഉണ്ട"
+      ],
+      "isolated_recheck": "ആയാളേ എനിക്ക് വിഷ്വാസം ഉണ്ട്"
+    },
+    {
+      "lesson": 19,
+      "clip": "docs/assets/audio/moag/words/lesson_19_word_028.mp3",
+      "before": "മടി",
+      "after": "മാറ്റി",
+      "status": "matched",
+      "recognition": [
+        "മഡീ",
+        ""
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 19,
+      "clip": "docs/assets/audio/moag/words/lesson_19_word_031.mp3",
+      "before": "മടിയൻ",
+      "after": "ജോലി ചെയ്യാൻ മടിയാണ്",
+      "status": "review",
+      "recognition": [
+        "മഡിയന",
+        "മഡിയന"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 19,
+      "clip": "docs/assets/audio/moag/words/lesson_19_word_032.mp3",
+      "before": "മടിയൻ",
+      "after": "ചെയ്യാമേ",
+      "status": "matched",
+      "recognition": [
+        "ജോലു ചെയ്യാന്",
+        ""
+      ],
+      "isolated_recheck": "ജോലു ചെയ്യാണ്"
+    },
+    {
+      "lesson": 19,
+      "clip": "docs/assets/audio/moag/words/lesson_19_word_043.mp3",
+      "before": "എനിക്ക്",
+      "after": "Unclear word",
+      "status": "untranscribed",
+      "recognition": [
+        "അല്ലങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ",
+        ""
+      ],
+      "isolated_recheck": "എനിക്ക് എനിക്ക്"
+    },
+    {
+      "lesson": 19,
+      "clip": "docs/assets/audio/moag/words/lesson_19_word_044.mp3",
+      "before": "സ്ഥലം മാറ്റരുതേ",
+      "after": "എനിക്ക് നിങ്ങളെ സ്ഥലം മാറ്റേണ്ടതായി വരും",
+      "status": "review",
+      "recognition": [
+        "നിങ്ങളെ",
+        "സ്ഥലം"
+      ],
+      "isolated_recheck": "നിങ്ങളെ നിങ്ങളെ"
+    },
+    {
+      "lesson": 19,
+      "clip": "docs/assets/audio/moag/words/lesson_19_word_045.mp3",
+      "before": "മാറ്റുക",
+      "after": "സ്ഥലം മാറ്റുക",
+      "status": "matched",
+      "recognition": [
+        "മാറ്റുക",
+        ""
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 19,
+      "clip": "docs/assets/audio/moag/words/lesson_19_word_046.mp3",
+      "before": "എനിക്ക് നിങ്ങളെ സ്ഥലം മാറ്റേണ്ടതായി വരും",
+      "after": "എനിക്ക്",
+      "status": "review",
+      "recognition": [
+        "",
+        "എനിക്ക്"
+      ],
+      "isolated_recheck": "വരും"
+    },
+    {
+      "lesson": 19,
+      "clip": "docs/assets/audio/moag/words/lesson_19_word_047.mp3",
+      "before": "സ്ഥലം മാറ്റുക",
+      "after": "സ്ഥലം മാറ്റരുതേ",
+      "status": "matched",
+      "recognition": [
+        "നിങ്ങളെ",
+        "സ്ഥലം മാറ്റുക"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 20,
+      "clip": "docs/assets/audio/moag/words/lesson_20_word_022.mp3",
+      "before": "ആകാശം",
+      "after": "ആഘോഷം",
+      "status": "review",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "ആകാസം"
+    },
+    {
+      "lesson": 20,
+      "clip": "docs/assets/audio/moag/words/lesson_20_word_024.mp3",
+      "before": "വളരുക",
+      "after": "ആകാശം",
+      "status": "matched",
+      "recognition": [
+        "",
+        "ആകാ"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 20,
+      "clip": "docs/assets/audio/moag/words/lesson_20_word_033.mp3",
+      "before": "ആണ്ട്",
+      "after": "താഴ്ത്തിക്കളഞ്ഞു",
+      "status": "matched",
+      "recognition": [
+        "താള്തി കളന്ഞു",
+        ""
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 20,
+      "clip": "docs/assets/audio/moag/words/lesson_20_word_035.mp3",
+      "before": "ആണ്ട്",
+      "after": "തന്റെ",
+      "status": "matched",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "ദന്ദേ"
+    },
+    {
+      "lesson": 20,
+      "clip": "docs/assets/audio/moag/words/lesson_20_word_036.mp3",
+      "before": "ആണ്ട്",
+      "after": "അനുസരിച്ച്",
+      "status": "matched",
+      "recognition": [
+        "താള്തി",
+        "ക� അനുസരിച്ചെ"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 20,
+      "clip": "docs/assets/audio/moag/words/lesson_20_word_037.mp3",
+      "before": "ആണ്ട്",
+      "after": "സന്തോഷിപ്പിക്കുക",
+      "status": "matched",
+      "recognition": [
+        "സന്ദോഷ്യപ്പിക്യുഗാ",
+        "സന്ദോഷ്യപ്പിക്യുഗാ"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 20,
+      "clip": "docs/assets/audio/moag/words/lesson_20_word_038.mp3",
+      "before": "സന്തോഷിച്ചു",
+      "after": "സന്തോഷിപ്പിച്ചു",
+      "status": "matched",
+      "recognition": [
+        "സന്ദോഷ്യപ്പിച്ചു",
+        ""
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 20,
+      "clip": "docs/assets/audio/moag/words/lesson_20_word_039.mp3",
+      "before": "ആഘോഷിക്കപ്പെട്ടു",
+      "after": "ആണ്ട്",
+      "status": "review",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "ആകോഷ്റിക്ക്ക്ക്ക്ക്ക്ക്ക്�"
+    },
+    {
+      "lesson": 20,
+      "clip": "docs/assets/audio/moag/words/lesson_20_word_040.mp3",
+      "before": "ആഘോഷം",
+      "after": "ഭൂമി",
+      "status": "review",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "ആകോഷ്ച്ച്"
+    },
+    {
+      "lesson": 20,
+      "clip": "docs/assets/audio/moag/words/lesson_20_word_041.mp3",
+      "before": "പാര്ടു",
+      "after": "പിന്നിൽ",
+      "status": "review",
+      "recognition": [
+        ""
+      ],
+      "isolated_recheck": "പാര്ടു"
+    },
+    {
+      "lesson": 20,
+      "clip": "docs/assets/audio/moag/words/lesson_20_word_043.mp3",
+      "before": "ആഘോഷിക്കപ്പെടുക",
+      "after": "ആഘോഷിക്കപ്പെട്ടു",
+      "status": "matched",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "ആഖോ സിക്ക്ക്ക് പേഡുഗാ"
+    },
+    {
+      "lesson": 20,
+      "clip": "docs/assets/audio/moag/words/lesson_20_word_044.mp3",
+      "before": "ഉണ്ണുക",
+      "after": "Unclear word",
+      "status": "untranscribed",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "ആഖോഷിക്ക്ക്ക്ക്"
+    },
+    {
+      "lesson": 20,
+      "clip": "docs/assets/audio/moag/words/lesson_20_word_046.mp3",
+      "before": "സദ്യ",
+      "after": "ഉണ്ടു",
+      "status": "review",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "ഉണ്ള"
+    },
+    {
+      "lesson": 20,
+      "clip": "docs/assets/audio/moag/words/lesson_20_word_049.mp3",
+      "before": "ആഘോഷിക്കപ്പെടുക",
+      "after": "പാടുക",
+      "status": "matched",
+      "recognition": [
+        "ആഖോഷിക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്",
+        "പാഡുഗ"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 20,
+      "clip": "docs/assets/audio/moag/words/lesson_20_word_056.mp3",
+      "before": "മാസം",
+      "after": "ചിങ്ങമാസം",
+      "status": "matched",
+      "recognition": [
+        "ചിങ്യമാസം",
+        ""
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 20,
+      "clip": "docs/assets/audio/moag/words/lesson_20_word_067.mp3",
+      "before": "വള്ളം",
+      "after": "വളരുക",
+      "status": "review",
+      "recognition": [
+        "വള്ളം കളീ",
+        "മല്ളംകളേ"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 20,
+      "clip": "docs/assets/audio/moag/words/lesson_20_word_077.mp3",
+      "before": "ഹിന്ദു",
+      "after": "ഹിന്ദുക്കൾ",
+      "status": "matched",
+      "recognition": [
+        "ഹിന്ദു",
+        ""
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 20,
+      "clip": "docs/assets/audio/moag/words/lesson_20_word_079.mp3",
+      "before": "മുസ്ലീം",
+      "after": "മുസ്ലീങ്ങൾ",
+      "status": "matched",
+      "recognition": [
+        "മുസ്ലീം",
+        ""
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 21,
+      "clip": "docs/assets/audio/moag/words/lesson_21_word_001.mp3",
+      "before": "ഇംഗ്ലീഷ്",
+      "after": "കം",
+      "status": "matched",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "ഇങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്"
+    },
+    {
+      "lesson": 21,
+      "clip": "docs/assets/audio/moag/words/lesson_21_word_002.mp3",
+      "before": "പത്ത് മിനിട്ടിനകം",
+      "after": "ഇംഗ്ലീഷ്",
+      "status": "review",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "ആകമ് ആകമ്"
+    },
+    {
+      "lesson": 21,
+      "clip": "docs/assets/audio/moag/words/lesson_21_word_008.mp3",
+      "before": "പ്പോൾ",
+      "after": "പഠിച്ചുകൊണ്ടിരുന്നപ്പോൾ",
+      "status": "matched",
+      "recognition": [
+        "പടിച്ചുകുണ്ടുണ്ടുന്ന പോള്",
+        ""
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 21,
+      "clip": "docs/assets/audio/moag/words/lesson_21_word_014.mp3",
+      "before": "അറിയാമായിരിക്കാം",
+      "after": "ആയിരിക്കണം",
+      "status": "review",
+      "recognition": [
+        "അര്യാമ്",
+        ""
+      ],
+      "isolated_recheck": "അര്യാമ് ഐരുക്ക്ക്ക്കും"
+    },
+    {
+      "lesson": 21,
+      "clip": "docs/assets/audio/moag/words/lesson_21_word_015.mp3",
+      "before": "തരുക",
+      "after": "പറഞ്ഞുതരുക",
+      "status": "matched",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "തരുക തരുക പരണ്ങ തരുക"
+    },
+    {
+      "lesson": 21,
+      "clip": "docs/assets/audio/moag/words/lesson_21_word_017.mp3",
+      "before": "ദുഃഖം",
+      "after": "പറഞ്ഞുകൊടുക്കുക",
+      "status": "matched",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "പരണ്ഞു കുഡുകുക പരണ്ഞു കുഡുക�"
+    },
+    {
+      "lesson": 21,
+      "clip": "docs/assets/audio/moag/words/lesson_21_word_019.mp3",
+      "before": "സുഖം",
+      "after": "വിപരീതപദം",
+      "status": "review",
+      "recognition": [
+        "",
+        "ആയുക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക"
+      ],
+      "isolated_recheck": "വിപരീയുത്പദം"
+    },
+    {
+      "lesson": 21,
+      "clip": "docs/assets/audio/moag/words/lesson_21_word_022.mp3",
+      "before": "പ്രസന്നത",
+      "after": "പ്രസന്നതയില്ലാത്തത്",
+      "status": "review",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "പ്രസന്നദാ"
+    },
+    {
+      "lesson": 21,
+      "clip": "docs/assets/audio/moag/words/lesson_21_word_023.mp3",
+      "before": "പ്രസന്നത",
+      "after": "പ്രസന്നതയില്ലാത്തത്",
+      "status": "review",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "പരസന്നദിയില്ലാതദി"
+    },
+    {
+      "lesson": 21,
+      "clip": "docs/assets/audio/moag/words/lesson_21_word_027.mp3",
+      "before": "കഴിയുക",
+      "after": "പഠിച്ചു കഴിയുക",
+      "status": "review",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "കരയുക കരയുക"
+    },
+    {
+      "lesson": 21,
+      "clip": "docs/assets/audio/moag/words/lesson_21_word_038.mp3",
+      "before": "ഉടൻ",
+      "after": "തിന്നുക",
+      "status": "review",
+      "recognition": [
+        "ഉണ്ടുക",
+        "ഉണ്ടുക"
+      ],
+      "isolated_recheck": "ഉണ്ടു ഉണ്ടു"
+    },
+    {
+      "lesson": 22,
+      "clip": "docs/assets/audio/moag/words/lesson_22_word_011.mp3",
+      "before": "വയസ്",
+      "after": "വയസ്സുകാലം",
+      "status": "matched",
+      "recognition": [
+        "വയസ് കാലം",
+        ""
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 22,
+      "clip": "docs/assets/audio/moag/words/lesson_22_word_013.mp3",
+      "before": "മഴക്കാലം",
+      "after": "മഴ",
+      "status": "matched",
+      "recognition": [
+        "മളാ",
+        "മളാ"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 22,
+      "clip": "docs/assets/audio/moag/words/lesson_22_word_048.mp3",
+      "before": "ഫലമായി",
+      "after": "ഭയങ്കര",
+      "status": "review",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "ഇപിണ്ദെ ഭലമായു"
+    },
+    {
+      "lesson": 22,
+      "clip": "docs/assets/audio/moag/words/lesson_22_word_059.mp3",
+      "before": "ഭയങ്കര",
+      "after": "വേണ്ടി",
+      "status": "review",
+      "recognition": [
+        ""
+      ],
+      "isolated_recheck": "പ്രാർൽ പ്രാൽൽ പ്രാൽൽ പ്രാൽ�"
+    },
+    {
+      "lesson": 23,
+      "clip": "docs/assets/audio/moag/words/lesson_23_word_016.mp3",
+      "before": "ഞായറാഴ്ച",
+      "after": "വ്യാഴാഴ്ച",
+      "status": "matched",
+      "recognition": [
+        "വിയാളാള്ചാ",
+        ""
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 23,
+      "clip": "docs/assets/audio/moag/words/lesson_23_word_023.mp3",
+      "before": "താമസം",
+      "after": "തിരിക്കുക",
+      "status": "review",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "ടെലീക്കുഗാ"
+    },
+    {
+      "lesson": 23,
+      "clip": "docs/assets/audio/moag/words/lesson_23_word_028.mp3",
+      "before": "പ്രകൃതി",
+      "after": "പ്രകൃതിസുന്ദരം",
+      "status": "matched",
+      "recognition": [
+        "പ്രകൃദ്ദ്",
+        "സുന്നര്മ്"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 23,
+      "clip": "docs/assets/audio/moag/words/lesson_23_word_035.mp3",
+      "before": "ഉച്ച",
+      "after": "വന്യമൃഗം",
+      "status": "matched",
+      "recognition": [
+        "വന്യമ്രിഗം",
+        ""
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 23,
+      "clip": "docs/assets/audio/moag/words/lesson_23_word_038.mp3",
+      "before": "കേന്ദ്രം",
+      "after": "വന്യമൃഗസംരക്ഷണകേന്ദ്രം",
+      "status": "matched",
+      "recognition": [
+        "പരകസമ്പരക്ഷണക്ഷണക്കേന്ദ്രമ്",
+        ""
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 24,
+      "clip": "docs/assets/audio/moag/words/lesson_24_word_011.mp3",
+      "before": "നേരിൽ",
+      "after": "നേഴ്സ്",
+      "status": "matched",
+      "recognition": [
+        "നിര്രില്",
+        ""
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 24,
+      "clip": "docs/assets/audio/moag/words/lesson_24_word_012.mp3",
+      "before": "നേഴ്സ്",
+      "after": "നര്സര്",
+      "status": "review",
+      "recognition": [
+        "നര്സ്",
+        "നര്സ്"
+      ],
+      "isolated_recheck": "നര്സര്"
+    },
+    {
+      "lesson": 24,
+      "clip": "docs/assets/audio/moag/words/lesson_24_word_020.mp3",
+      "before": "വണ്ണം",
+      "after": "വണ്ണം കുറഞ്ഞത്",
+      "status": "matched",
+      "recognition": [
+        "വന്നമ് കുരണ്യത്",
+        ""
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 24,
+      "clip": "docs/assets/audio/moag/words/lesson_24_word_027.mp3",
+      "before": "തമ്മിൽ",
+      "after": "സ്നേഹിക്കുക",
+      "status": "review",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "സ്നേഹമ് സ്നേഹമ് തമ്മെല്"
+    },
+    {
+      "lesson": 24,
+      "clip": "docs/assets/audio/moag/words/lesson_24_word_034.mp3",
+      "before": "ചില",
+      "after": "അന്യോന്യം",
+      "status": "review",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "ചിലാ"
+    },
+    {
+      "lesson": 24,
+      "clip": "docs/assets/audio/moag/words/lesson_24_word_035.mp3",
+      "before": "നില നിൽക്കുക",
+      "after": "ചില",
+      "status": "review",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "അന്ന്യം അന്ന്യം"
+    },
+    {
+      "lesson": 25,
+      "clip": "docs/assets/audio/moag/words/lesson_25_word_008.mp3",
+      "before": "നിറയുക",
+      "after": "നിറഞ്ഞു",
+      "status": "matched",
+      "recognition": [
+        "നിരണ്ഞു",
+        "നിരണ്ഞു"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 25,
+      "clip": "docs/assets/audio/moag/words/lesson_25_word_009.mp3",
+      "before": "നിറയുക",
+      "after": "നിറഞ്ഞ",
+      "status": "matched",
+      "recognition": [
+        "നിരണ്ഞ്ഞൾ",
+        "നിരണ്ഞൾ"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 25,
+      "clip": "docs/assets/audio/moag/words/lesson_25_word_025.mp3",
+      "before": "കുരുമുളക്",
+      "after": "മഞ്ഞൾ",
+      "status": "review",
+      "recognition": [
+        "",
+        "കുരുമുലഗ"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 25,
+      "clip": "docs/assets/audio/moag/words/lesson_25_word_034.mp3",
+      "before": "ജീവിതം",
+      "after": "ആകർഷിക്കുക",
+      "status": "matched",
+      "recognition": [
+        "ആകഷെക്യുക",
+        "ആകഷെക്യുക"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 25,
+      "clip": "docs/assets/audio/moag/words/lesson_25_word_042.mp3",
+      "before": "ജുബ്ബ",
+      "after": "ധരിക്കുക",
+      "status": "matched",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "ടെയുക്കുക്ക്ക്ക്ക്ക്ക്ക്ക"
+    },
+    {
+      "lesson": 25,
+      "clip": "docs/assets/audio/moag/words/lesson_25_word_059.mp3",
+      "before": "പ്രസിദ്ധി",
+      "after": "സംഗീതം",
+      "status": "matched",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "സംങീദമ്"
+    },
+    {
+      "lesson": 25,
+      "clip": "docs/assets/audio/moag/words/lesson_25_word_060.mp3",
+      "before": "ഉയരുക",
+      "after": "അല്ലാതെ",
+      "status": "review",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "ഉയേരുഗാ"
+    },
+    {
+      "lesson": 25,
+      "clip": "docs/assets/audio/moag/words/lesson_25_word_062.mp3",
+      "before": "ഉയരുക",
+      "after": "ഉയർന്ന",
+      "status": "matched",
+      "recognition": [
+        "ഉയര്ണാ",
+        "ഉയര്ണാ"
+      ],
+      "isolated_recheck": null
+    },
+    {
+      "lesson": 25,
+      "clip": "docs/assets/audio/moag/words/lesson_25_word_078.mp3",
+      "before": "സുഖിക്കുക",
+      "after": "സുഖിച്ച് നടക്കുക",
+      "status": "matched",
+      "recognition": [
+        "",
+        ""
+      ],
+      "isolated_recheck": "സുഖികുക സുഖിചുക"
+    },
+    {
+      "lesson": 25,
+      "clip": "docs/assets/audio/moag/words/lesson_25_word_079.mp3",
+      "before": "സുഖിച്ച് നടക്കുക",
+      "after": "സുഖിച്ചു",
+      "status": "matched",
+      "recognition": [
+        "",
+        "സുഖിച്ചുക"
+      ],
+      "isolated_recheck": null
+    }
+  ]
+}

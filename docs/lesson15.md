@@ -29,39 +29,51 @@ Note: Meanings given here apply only when the verbal nouns appear without postpo
 <div class="lesson-audio">
 <p><strong>Vocabulary audio</strong></p>
 <audio controls preload="none" aria-label="Lesson 15: Vocabulary audio" src="assets/audio/moag/sections/lesson_15_vocabulary_0.mp3"></audio>
-<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_15_vocabulary_0.mp3" aria-pressed="true">Listen · 03:48</button></div>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_15_vocabulary_0.mp3" aria-pressed="true">Listen · 03:47</button></div>
 <p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
 </div>
 <!-- /moag-audio -->
 
-| Malayalam | Meaning |
-|---|---|
-| ബസ്സ്റ്റാൻഡിലെ | at/of the bus stop |
-| വറുഗീസ് | a name, Malayalam form of George |
-| ആഹാ! | Oh! (an exclamation of surprise) |
-| കേശവൻനായർ | a name (Nair is a surname as well as the name of prominent Hindu caste in Kerala) |
-| യാത്ര അയക്കുക [y] | to see off (someone) |
-| ഈയിടെ | recently |
-| കല്യാണം | marriage |
-| കല്യാണം കഴിക്കുക | to get married |
-| <!-- Source: PDF page 267; printed page 213. --> രണ്ടു പേരും (Accusative: രണ്ടു പേരെയും) | both |
-| കയറുക (Past tense: കയറി) | to get on, to get into, to enter |
-| നിൽക്കുക (Past tense: നിന്നു) | to stand, to wait, to stop |
-| സ്ത്രീ | woman |
-| സന്തോഷം | happiness |
-| (എനിക്ക്) കണ്ടതിൽ വളരെ സന്തോഷം (ആയി) | (I am) happy to see (them) |
-| സംസാരിക്കുക (past tense: സംസാരിച്ചു) | to converse |
-| ആഗ്രഹം | desire |
-| (എനിക്ക്) ആഗ്രഹമുണ്ട് | (I) wish to |
-| ഈ സമയത്ത് | at this time |
-| വിട്ടുപോകുക (past tense: വിട്ടുപോയി) | to leave |
-| വിട്ടുപോയ | which has left (verbal adjective) |
-| മണിക്കൂർ | hour |
-| മുക്കാൽ മണിക്കൂർ | three quarters of an hour |
-| തോന്നുക (past tense: തോന്നി) | to think, to feel |
-| ശരിയായിട്ടുള്ള | right (which is correct) |
-| അത് പിന്നെ ആകട്ടെ | (I will) do that later (literally, let it be later) |
-| ബസ്സിനടുത്തേക്ക് | over to the bus |
+<!-- moag-vocabulary-words -->
+<div class="lesson-audio">
+<p><strong>Selected vocabulary recording</strong></p>
+<audio data-table-audio-player controls preload="none" aria-label="Lesson 15: select a word in the vocabulary table"></audio>
+<p class="lesson-audio-note">Use the Audio column to hear a word. Recorded variants appear beside their written entry; additional recorded forms are included in the same table. Unconfirmed recordings stay in rows marked “check match” until their word is verified. A dash means no aligned recording yet.</p>
+</div>
+<!-- /moag-vocabulary-words -->
+
+| Malayalam | Meaning | Audio |
+|---|---|---|
+| ബസ്സ്റ്റാൻഡിലെ | at/of the bus stop | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_001.mp3" data-audio-label="ബസ്സ്റ്റാൻഡിലെ" aria-label="Play ബസ്സ്റ്റാൻഡിലെ" title="Play ബസ്സ്റ്റാൻഡിലെ" aria-pressed="false">▶</button> |
+| വറുഗീസ് | a name, Malayalam form of George | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_002.mp3" data-audio-label="വറുഗീസ്" aria-label="Play വറുഗീസ്" title="Play വറുഗീസ്" aria-pressed="false">▶</button> |
+| ആഹാ! | Oh! (an exclamation of surprise) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_003.mp3" data-audio-label="ആഹാ!" aria-label="Play ആഹാ!" title="Play ആഹാ!" aria-pressed="false">▶</button> |
+| കേശവൻനായർ | a name (Nair is a surname as well as the name of prominent Hindu caste in Kerala) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_004.mp3" data-audio-label="കേശവൻനായർ" aria-label="Play കേശവൻനായർ" title="Play കേശവൻനായർ" aria-pressed="false">▶</button> |
+| യാത്ര അയക്കുക [y] | to see off (someone) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_006.mp3" data-audio-label="യാത്ര അയക്കുക" aria-label="Play യാത്ര അയക്കുക" title="Play യാത്ര അയക്കുക" aria-pressed="false">▶</button> |
+| ഈയിടെ | recently | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_007.mp3" data-audio-label="ഈയിടെ" aria-label="Play ഈയിടെ" title="Play ഈയിടെ" aria-pressed="false">▶</button> |
+| കല്യാണം | marriage | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_008.mp3" data-audio-label="കല്യാണം" aria-label="Play കല്യാണം" title="Play കല്യാണം" aria-pressed="false">▶</button> |
+| കല്യാണം കഴിക്കുക | to get married | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_009.mp3" data-audio-label="കല്യാണം കഴിക്കുക" aria-label="Play കല്യാണം കഴിക്കുക" title="Play കല്യാണം കഴിക്കുക" aria-pressed="false">▶</button> |
+| <!-- Source: PDF page 267; printed page 213. --> രണ്ടു പേരും (Accusative: രണ്ടു പേരെയും) | both | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_010.mp3" data-audio-label="രണ്ടു പേരും" aria-label="Play രണ്ടു പേരും" title="Play രണ്ടു പേരും" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_011.mp3" data-audio-label="രണ്ടു പേരെയും" aria-label="Play രണ്ടു പേരെയും" title="Play രണ്ടു പേരെയും" aria-pressed="false">▶ <span lang="ml">രണ്ടു പേരെയും</span></button> |
+| കയറുക (Past tense: കയറി) | to get on, to get into, to enter | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_012.mp3" data-audio-label="കയറുക" aria-label="Play കയറുക" title="Play കയറുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_014.mp3" data-audio-label="കയറി" aria-label="Play കയറി" title="Play കയറി" aria-pressed="false">▶ <span lang="ml">കയറി</span></button> |
+| നിൽക്കുക (Past tense: നിന്നു) | to stand, to wait, to stop | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_015.mp3" data-audio-label="നിൽക്കുക" aria-label="Play നിൽക്കുക" title="Play നിൽക്കുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_016.mp3" data-audio-label="നിന്നു" aria-label="Play നിന്നു" title="Play നിന്നു" aria-pressed="false">▶ <span lang="ml">നിന്നു</span></button> |
+| സ്ത്രീ | woman | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_017.mp3" data-audio-label="സ്ത്രീ" aria-label="Play സ്ത്രീ" title="Play സ്ത്രീ" aria-pressed="false">▶</button> |
+| സന്തോഷം | happiness | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_018.mp3" data-audio-label="സന്തോഷം" aria-label="Play സന്തോഷം" title="Play സന്തോഷം" aria-pressed="false">▶</button> |
+| (എനിക്ക്) കണ്ടതിൽ വളരെ സന്തോഷം (ആയി) | (I am) happy to see (them) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_022.mp3" data-audio-label="കണ്ടതിൽ വളരെ സന്തോഷം" aria-label="Play കണ്ടതിൽ വളരെ സന്തോഷം" title="Play കണ്ടതിൽ വളരെ സന്തോഷം" aria-pressed="false">▶ <span lang="ml">കണ്ടതിൽ വളരെ സന്തോഷം</span></button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_023.mp3" data-audio-label="എനിക്ക് കണ്ടതിൽ വളരെ സന്തോഷമായി" aria-label="Play എനിക്ക് കണ്ടതിൽ വളരെ സന്തോഷമായി" title="Play എനിക്ക് കണ്ടതിൽ വളരെ സന്തോഷമായി" aria-pressed="false">▶ <span lang="ml">എനിക്ക് കണ്ടതിൽ വളരെ സന്തോഷമായി</span></button> |
+| സംസാരിക്കുക (past tense: സംസാരിച്ചു) | to converse | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_024.mp3" data-audio-label="സംസാരിക്കുക" aria-label="Play സംസാരിക്കുക" title="Play സംസാരിക്കുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_025.mp3" data-audio-label="സംസാരിച്ചു" aria-label="Play സംസാരിച്ചു" title="Play സംസാരിച്ചു" aria-pressed="false">▶ <span lang="ml">സംസാരിച്ചു</span></button> |
+| ആഗ്രഹം | desire | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_026.mp3" data-audio-label="ആഗ്രഹം" aria-label="Play ആഗ്രഹം" title="Play ആഗ്രഹം" aria-pressed="false">▶</button> |
+| (എനിക്ക്) ആഗ്രഹമുണ്ട് | (I) wish to | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_027.mp3" data-audio-label="ആഗ്രഹമുണ്ട്" aria-label="Play ആഗ്രഹമുണ്ട്" title="Play ആഗ്രഹമുണ്ട്" aria-pressed="false">▶ <span lang="ml">ആഗ്രഹമുണ്ട്</span></button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_028.mp3" data-audio-label="എനിക്ക് ആഗ്രഹമുണ്ട്" aria-label="Play എനിക്ക് ആഗ്രഹമുണ്ട്" title="Play എനിക്ക് ആഗ്രഹമുണ്ട്" aria-pressed="false">▶ <span lang="ml">എനിക്ക് ആഗ്രഹമുണ്ട്</span></button> |
+| ഈ സമയത്ത് | at this time | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_029.mp3" data-audio-label="ഈ സമയത്ത്" aria-label="Play ഈ സമയത്ത്" title="Play ഈ സമയത്ത്" aria-pressed="false">▶</button> |
+| വിട്ടുപോകുക (past tense: വിട്ടുപോയി) | to leave | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_030.mp3" data-audio-label="വിട്ടുപോകുക" aria-label="Play വിട്ടുപോകുക" title="Play വിട്ടുപോകുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_031.mp3" data-audio-label="വിട്ടുപോയി" aria-label="Play വിട്ടുപോയി" title="Play വിട്ടുപോയി" aria-pressed="false">▶ <span lang="ml">വിട്ടുപോയി</span></button> |
+| വിട്ടുപോയ | which has left (verbal adjective) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_032.mp3" data-audio-label="വിട്ടുപോയ" aria-label="Play വിട്ടുപോയ" title="Play വിട്ടുപോയ" aria-pressed="false">▶</button> |
+| മണിക്കൂർ | hour | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_033.mp3" data-audio-label="മണിക്കൂർ" aria-label="Play മണിക്കൂർ" title="Play മണിക്കൂർ" aria-pressed="false">▶</button> |
+| മുക്കാൽ മണിക്കൂർ | three quarters of an hour | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| തോന്നുക (past tense: തോന്നി) | to think, to feel | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_034.mp3" data-audio-label="തോന്നുക" aria-label="Play തോന്നുക" title="Play തോന്നുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_035.mp3" data-audio-label="തോന്നി" aria-label="Play തോന്നി" title="Play തോന്നി" aria-pressed="false">▶ <span lang="ml">തോന്നി</span></button> |
+| ശരിയായിട്ടുള്ള | right (which is correct) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_036.mp3" data-audio-label="ശരിയായിട്ടുള്ള" aria-label="Play ശരിയായിട്ടുള്ള" title="Play ശരിയായിട്ടുള്ള" aria-pressed="false">▶</button> |
+| അത് പിന്നെ ആകട്ടെ | (I will) do that later (literally, let it be later) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_038.mp3" data-audio-label="അത് പിന്നെ ആകട്ടെ" aria-label="Play അത് പിന്നെ ആകട്ടെ" title="Play അത് പിന്നെ ആകട്ടെ" aria-pressed="false">▶</button> |
+| ബസ്സിനടുത്തേക്ക് | over to the bus | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_039.mp3" data-audio-label="ബസ്സിനടുത്തേക്ക്" aria-label="Play ബസ്സിനടുത്തേക്ക്" title="Play ബസ്സിനടുത്തേക്ക്" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> അയക്കുക | to send | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_005.mp3" data-audio-label="അയക്കുക" aria-label="Play അയക്കുക" title="Play അയക്കുക" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> വളരെ സന്തോഷം | much happiness; very pleased | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_019.mp3" data-audio-label="വളരെ സന്തോഷം" aria-label="Play വളരെ സന്തോഷം" title="Play വളരെ സന്തോഷം" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> വളരെ സന്തോഷമായി | was very happy; became very pleased | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_021.mp3" data-audio-label="വളരെ സന്തോഷമായി" aria-label="Play വളരെ സന്തോഷമായി" title="Play വളരെ സന്തോഷമായി" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> പിന്നെ ആകട്ടെ | let it be later; then let it be | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_037.mp3" data-audio-label="പിന്നെ ആകട്ടെ" aria-label="Play പിന്നെ ആകട്ടെ" title="Play പിന്നെ ആകട്ടെ" aria-pressed="false">▶</button> |
 
 <a id="lesson15-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice

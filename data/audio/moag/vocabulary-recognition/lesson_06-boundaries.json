@@ -1,0 +1,264 @@
+{
+  "lesson": 6,
+  "model": "Whisper large-v3",
+  "purpose": "English announcements only; Malayalam transliterations are not teaching transcriptions.",
+  "range_start": 140.64,
+  "range_end": 344.97,
+  "segments": [
+    {
+      "start": 140.64,
+      "end": 142.64,
+      "text": " Lesson 6 Vocabulary Practice"
+    },
+    {
+      "start": 142.64,
+      "end": 144.84,
+      "text": " Repeat each item after the speaker."
+    },
+    {
+      "start": 145.26,
+      "end": 146.52,
+      "text": " Each item is given twice."
+    },
+    {
+      "start": 147.0,
+      "end": 148.7,
+      "text": " Ready? Listen and repeat."
+    },
+    {
+      "start": 150.04,
+      "end": 150.98,
+      "text": " Adathu"
+    },
+    {
+      "start": 150.98,
+      "end": 152.64,
+      "text": " Adathu"
+    },
+    {
+      "start": 152.64,
+      "end": 153.9,
+      "text": " Chanda"
+    },
+    {
+      "start": 153.9,
+      "end": 155.58,
+      "text": " Chanda"
+    },
+    {
+      "start": 155.58,
+      "end": 157.64,
+      "text": " Undalo"
+    },
+    {
+      "start": 157.64,
+      "end": 159.7,
+      "text": " Undalo"
+    },
+    {
+      "start": 159.7,
+      "end": 162.18,
+      "text": " Brahman Hotel"
+    },
+    {
+      "start": 162.18,
+      "end": 164.42,
+      "text": " Brahman Hotel"
+    },
+    {
+      "start": 164.42,
+      "end": 166.78,
+      "text": " Ariyale"
+    },
+    {
+      "start": 166.78,
+      "end": 168.84,
+      "text": " Ariyale"
+    },
+    {
+      "start": 170.64,
+      "end": 194.9,
+      "text": " aryaam puragil ambalam kaanaam appuruthu ippuruthu"
+    },
+    {
+      "start": 194.9,
+      "end": 202.84,
+      "text": " Thunni Dharalam"
+    },
+    {
+      "start": 202.84,
+      "end": 210.18,
+      "text": " Shirt Sari"
+    },
+    {
+      "start": 210.18,
+      "end": 217.64,
+      "text": " Vangekyanam School"
+    },
+    {
+      "start": 217.64,
+      "end": 230.18,
+      "text": " Mumbil Krishna Noku"
+    },
+    {
+      "start": 230.18,
+      "end": 239.36,
+      "text": " Ninna Nokam"
+    },
+    {
+      "start": 239.36,
+      "end": 239.86,
+      "text": " Avarinna."
+    },
+    {
+      "start": 241.34,
+      "end": 241.94,
+      "text": " Avarinna."
+    },
+    {
+      "start": 245.98,
+      "end": 247.18,
+      "text": " Exercise 1."
+    },
+    {
+      "start": 247.78,
+      "end": 249.7,
+      "text": " Change the present tense unnu forms"
+    },
+    {
+      "start": 249.7,
+      "end": 253.5,
+      "text": " to the intentive potential am forms,"
+    },
+    {
+      "start": 253.78,
+      "end": 254.54,
+      "text": " as in the model."
+    },
+    {
+      "start": 255.14,
+      "end": 255.38,
+      "text": " Listen."
+    },
+    {
+      "start": 256.86,
+      "end": 257.26,
+      "text": " Speaker."
+    },
+    {
+      "start": 258.32,
+      "end": 258.8,
+      "text": " Varannu."
+    },
+    {
+      "start": 259.74,
+      "end": 260.16,
+      "text": " Student."
+    },
+    {
+      "start": 260.94,
+      "end": 261.32,
+      "text": " Varam."
+    },
+    {
+      "start": 262.82,
+      "end": 265.68,
+      "text": " As usual, the correct form will be given afterward"
+    },
+    {
+      "start": 265.68,
+      "end": 268.42,
+      "text": " for you to compare and to repeat once again."
+    },
+    {
+      "start": 269.36,
+      "end": 271.22,
+      "text": " This is an oral-oral exercise."
+    },
+    {
+      "start": 272.2,
+      "end": 275.48,
+      "text": " The order is different from that in the printed text."
+    },
+    {
+      "start": 277.26,
+      "end": 280.74,
+      "text": " So listen, change to am, then repeat."
+    },
+    {
+      "start": 299.36,
+      "end": 301.36,
+      "text": " teyaam"
+    },
+    {
+      "start": 301.36,
+      "end": 303.36,
+      "text": " kodukkunnu"
+    },
+    {
+      "start": 303.36,
+      "end": 305.36,
+      "text": " kodukaam"
+    },
+    {
+      "start": 305.36,
+      "end": 307.36,
+      "text": " irikkunnu"
+    },
+    {
+      "start": 307.36,
+      "end": 309.36,
+      "text": " irikkaam"
+    },
+    {
+      "start": 309.36,
+      "end": 311.36,
+      "text": " parayannu"
+    },
+    {
+      "start": 311.36,
+      "end": 313.36,
+      "text": " parayaam"
+    },
+    {
+      "start": 313.36,
+      "end": 315.36,
+      "text": " kundupoegunnu"
+    },
+    {
+      "start": 315.36,
+      "end": 317.36,
+      "text": " kundupogaam"
+    },
+    {
+      "start": 317.36,
+      "end": 319.36,
+      "text": " kunduvarunnu"
+    },
+    {
+      "start": 319.36,
+      "end": 321.36,
+      "text": " kunduveraam"
+    },
+    {
+      "start": 321.36,
+      "end": 323.36,
+      "text": " noor"
+    },
+    {
+      "start": 323.36,
+      "end": 325.36,
+      "text": " kudu"
+    },
+    {
+      "start": 325.36,
+      "end": 327.36,
+      "text": " kudu"
+    },
+    {
+      "start": 327.36,
+      "end": 342.36,
+      "text": " nokannu, nokam, vangikinnu, vangikyam, ariannu, ariyam."
+    }
+  ]
+}

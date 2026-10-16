@@ -1,0 +1,273 @@
+{
+  "component_validation": {
+    "encoder": {
+      "encoded": {
+        "max_absolute_error": 0.11413200199604034,
+        "mean_absolute_error": 0.0037823612801730633,
+        "rtol": 0.005,
+        "atol": 0.005,
+        "allclose": false
+      },
+      "encoded_length": {
+        "max_absolute_error": 0.0,
+        "mean_absolute_error": 0.0,
+        "rtol": 0.005,
+        "atol": 0.005,
+        "allclose": true
+      }
+    },
+    "predictor": {
+      "predicted": {
+        "max_absolute_error": 0.0003895759582519531,
+        "mean_absolute_error": 5.354547101887874e-05,
+        "rtol": 0.005,
+        "atol": 0.005,
+        "allclose": true
+      },
+      "h_out": {
+        "max_absolute_error": 0.0003895759582519531,
+        "mean_absolute_error": 5.354547101887874e-05,
+        "rtol": 0.005,
+        "atol": 0.005,
+        "allclose": true
+      },
+      "c_out": {
+        "max_absolute_error": 0.0005465149879455566,
+        "mean_absolute_error": 7.12056498741731e-05,
+        "rtol": 0.005,
+        "atol": 0.005,
+        "allclose": true
+      }
+    },
+    "joint": {
+      "logits": {
+        "max_absolute_error": 0.13665008544921875,
+        "mean_absolute_error": 0.02543117105960846,
+        "rtol": 0.005,
+        "atol": 0.005,
+        "allclose": true
+      }
+    }
+  },
+  "comparison": {
+    "clips": 15,
+    "notes": [
+      "All selected clips fit 512 mel frames; the one longer clip was excluded.",
+      "CPU_AND_NE allows CPU fallback; does not establish Neural Engine operation placement.",
+      "Timing includes ffmpeg and preprocessing and is not a controlled benchmark."
+    ],
+    "rows": [
+      {
+        "audio": "lesson_03_word_005.mp3",
+        "nemo": "കയ്യൽ കയ്യൽ",
+        "fp32": "കയ്യൽ കയ്യൽ",
+        "fp16": "കയ്യൽ കയ്യൽ",
+        "fp16_matches_fp32": true,
+        "fp16_same_token_ids": true,
+        "fp16_max_token_start_difference_seconds": 0.0,
+        "fp16-cpu-and-ne": "കയ്യൽ കയ്യൽ",
+        "fp16-cpu-and-ne_matches_fp32": true,
+        "fp16-cpu-and-ne_same_token_ids": true,
+        "fp16-cpu-and-ne_max_token_start_difference_seconds": 0.0
+      },
+      {
+        "audio": "lesson_16_word_040.mp3",
+        "nemo": "ഇന്ത്യൻ എക്സ്പ്രസ് ഇന്ത്യൻ എക്സ്പ്രസ്",
+        "fp32": "ഇന്ത്യൻ എക്സ്പ്രസ് ഇന്ത്യൻ എക്സ്പ്രസ്",
+        "fp16": "ഇന്ത്യൻ എക്സ്പ്രസ് ഇന്ത്യൻ എക്സ്പ്രസ്",
+        "fp16_matches_fp32": true,
+        "fp16_same_token_ids": true,
+        "fp16_max_token_start_difference_seconds": 0.0,
+        "fp16-cpu-and-ne": "ഇന്ത്യൻ എക്സ്പ്രസ് ഇന്ത്യൻ എക്സ്പ്രസ്",
+        "fp16-cpu-and-ne_matches_fp32": true,
+        "fp16-cpu-and-ne_same_token_ids": true,
+        "fp16-cpu-and-ne_max_token_start_difference_seconds": 0.0
+      },
+      {
+        "audio": "lesson_19_word_024.mp3",
+        "nemo": "അയാളെ അയാളെ",
+        "fp32": "അയാളെ അയാളെ",
+        "fp16": "അയാളെ അയാളെ",
+        "fp16_matches_fp32": true,
+        "fp16_same_token_ids": true,
+        "fp16_max_token_start_difference_seconds": 0.08000000000000007,
+        "fp16-cpu-and-ne": "അയാളെ അയാളെ",
+        "fp16-cpu-and-ne_matches_fp32": true,
+        "fp16-cpu-and-ne_same_token_ids": true,
+        "fp16-cpu-and-ne_max_token_start_difference_seconds": 0.0
+      },
+      {
+        "audio": "lesson_19_word_046.mp3",
+        "nemo": "വരും വരും",
+        "fp32": "വരും വരും",
+        "fp16": "വരും വരും",
+        "fp16_matches_fp32": true,
+        "fp16_same_token_ids": true,
+        "fp16_max_token_start_difference_seconds": 0.0,
+        "fp16-cpu-and-ne": "വരും വരും",
+        "fp16-cpu-and-ne_matches_fp32": true,
+        "fp16-cpu-and-ne_same_token_ids": true,
+        "fp16-cpu-and-ne_max_token_start_difference_seconds": 0.0
+      },
+      {
+        "audio": "lesson_21_word_014.mp3",
+        "nemo": "അറിയാമായിരിക്കാം",
+        "fp32": "അറിയാമായിരിക്കാം",
+        "fp16": "അറിയാമായിരിക്കാം",
+        "fp16_matches_fp32": true,
+        "fp16_same_token_ids": true,
+        "fp16_max_token_start_difference_seconds": 0.0,
+        "fp16-cpu-and-ne": "അറിയാമായിരിക്കാം",
+        "fp16-cpu-and-ne_matches_fp32": true,
+        "fp16-cpu-and-ne_same_token_ids": true,
+        "fp16-cpu-and-ne_max_token_start_difference_seconds": 0.0
+      },
+      {
+        "audio": "lesson_23_word_004.mp3",
+        "nemo": "ഉണ്ടായിരുന്നെങ്കിൽ",
+        "fp32": "ഉണ്ടായിരുന്നെങ്കിൽ",
+        "fp16": "ഉണ്ടായിരുന്നെങ്കിൽ",
+        "fp16_matches_fp32": true,
+        "fp16_same_token_ids": true,
+        "fp16_max_token_start_difference_seconds": 0.0,
+        "fp16-cpu-and-ne": "ഉണ്ടായിരുന്നെങ്കിൽ",
+        "fp16-cpu-and-ne_matches_fp32": true,
+        "fp16-cpu-and-ne_same_token_ids": true,
+        "fp16-cpu-and-ne_max_token_start_difference_seconds": 0.0
+      },
+      {
+        "audio": "lesson_25_word_074.mp3",
+        "nemo": "കൈകൂപ്പി കൈകൂപ്പി",
+        "fp32": "കൈകൂപ്പി കൈകൂപ്പി",
+        "fp16": "കൈകൂപ്പി കൈകൂപ്പി",
+        "fp16_matches_fp32": true,
+        "fp16_same_token_ids": true,
+        "fp16_max_token_start_difference_seconds": 0.0,
+        "fp16-cpu-and-ne": "കൈകൂപ്പി കൈ കൂപ്പി",
+        "fp16-cpu-and-ne_matches_fp32": false,
+        "fp16-cpu-and-ne_same_token_ids": false
+      },
+      {
+        "audio": "lesson_03_word_001.mp3",
+        "nemo": "ഉണ്ട് ഉണ്ട്",
+        "fp32": "ഉണ്ട് ഉണ്ട്",
+        "fp16": "ഉണ്ട് ഉണ്ട്",
+        "fp16_matches_fp32": true,
+        "fp16_same_token_ids": true,
+        "fp16_max_token_start_difference_seconds": 0.0,
+        "fp16-cpu-and-ne": "ഉണ്ട് ഉണ്ട്",
+        "fp16-cpu-and-ne_matches_fp32": true,
+        "fp16-cpu-and-ne_same_token_ids": true,
+        "fp16-cpu-and-ne_max_token_start_difference_seconds": 0.0
+      },
+      {
+        "audio": "lesson_05_word_005.mp3",
+        "nemo": "പഠിക്കുന്നോ?",
+        "fp32": "പഠിക്കുന്നോ?",
+        "fp16": "പഠിക്കുന്നോ?",
+        "fp16_matches_fp32": true,
+        "fp16_same_token_ids": true,
+        "fp16_max_token_start_difference_seconds": 0.0,
+        "fp16-cpu-and-ne": "പഠിക്കുന്നോ?",
+        "fp16-cpu-and-ne_matches_fp32": true,
+        "fp16-cpu-and-ne_same_token_ids": true,
+        "fp16-cpu-and-ne_max_token_start_difference_seconds": 0.0
+      },
+      {
+        "audio": "lesson_14_word_049.mp3",
+        "nemo": "പറ്റി പറ്റി",
+        "fp32": "പറ്റി പറ്റി",
+        "fp16": "പറ്റി പറ്റി",
+        "fp16_matches_fp32": true,
+        "fp16_same_token_ids": true,
+        "fp16_max_token_start_difference_seconds": 0.0,
+        "fp16-cpu-and-ne": "പറ്റി പറ്റി",
+        "fp16-cpu-and-ne_matches_fp32": true,
+        "fp16-cpu-and-ne_same_token_ids": true,
+        "fp16-cpu-and-ne_max_token_start_difference_seconds": 0.0
+      },
+      {
+        "audio": "lesson_16_word_036.mp3",
+        "nemo": "നിൽക്കുക, നിൽക്കുക",
+        "fp32": "നിൽക്കുക, നിൽക്കുക",
+        "fp16": "നിൽക്കുക, നിൽക്കുക",
+        "fp16_matches_fp32": true,
+        "fp16_same_token_ids": true,
+        "fp16_max_token_start_difference_seconds": 0.0,
+        "fp16-cpu-and-ne": "നിൽക്കുക, നിൽക്കുക",
+        "fp16-cpu-and-ne_matches_fp32": true,
+        "fp16-cpu-and-ne_same_token_ids": true,
+        "fp16-cpu-and-ne_max_token_start_difference_seconds": 0.0
+      },
+      {
+        "audio": "lesson_19_word_035.mp3",
+        "nemo": "ഇനിയും ഇനിയും",
+        "fp32": "ഇനിയും ഇനിയും",
+        "fp16": "ഇനിയും ഇനിയും",
+        "fp16_matches_fp32": true,
+        "fp16_same_token_ids": true,
+        "fp16_max_token_start_difference_seconds": 0.0,
+        "fp16-cpu-and-ne": "ഇനിയും ഇനിയും",
+        "fp16-cpu-and-ne_matches_fp32": true,
+        "fp16-cpu-and-ne_same_token_ids": true,
+        "fp16-cpu-and-ne_max_token_start_difference_seconds": 0.0
+      },
+      {
+        "audio": "lesson_20_word_081.mp3",
+        "nemo": "ക്രിസ്ത്യാനി ക്രിസ്ത്യാനി",
+        "fp32": "ക്രിസ്ത്യാനി ക്രിസ്ത്യാനി",
+        "fp16": "ക്രിസ്ത്യാനി ക്രിസ്ത്യാനി",
+        "fp16_matches_fp32": true,
+        "fp16_same_token_ids": true,
+        "fp16_max_token_start_difference_seconds": 0.0,
+        "fp16-cpu-and-ne": "ക്രിസ്ത്യാനി ക്രിസ്ത്യാനി",
+        "fp16-cpu-and-ne_matches_fp32": true,
+        "fp16-cpu-and-ne_same_token_ids": true,
+        "fp16-cpu-and-ne_max_token_start_difference_seconds": 0.0
+      },
+      {
+        "audio": "lesson_24_word_005.mp3",
+        "nemo": "കിടപ്പുമുറി കിടപ്പുമുറി",
+        "fp32": "കിടപ്പുമുറി കിടപ്പുമുറി",
+        "fp16": "കിടപ്പുമുറി കിടപ്പുമുറി",
+        "fp16_matches_fp32": true,
+        "fp16_same_token_ids": true,
+        "fp16_max_token_start_difference_seconds": 0.0,
+        "fp16-cpu-and-ne": "കിടപ്പുമുറി കിടപ്പുമുറി",
+        "fp16-cpu-and-ne_matches_fp32": true,
+        "fp16-cpu-and-ne_same_token_ids": true,
+        "fp16-cpu-and-ne_max_token_start_difference_seconds": 0.0
+      },
+      {
+        "audio": "lesson_25_word_047.mp3",
+        "nemo": "കയറുപിരിക്കൽ കയറുപിരിക്കൽ",
+        "fp32": "കയറുപിരിക്കൽ കയറുപിരിക്കൽ",
+        "fp16": "കയറുപിരിക്കൽ കയറുപിരിക്കൽ",
+        "fp16_matches_fp32": true,
+        "fp16_same_token_ids": true,
+        "fp16_max_token_start_difference_seconds": 0.0,
+        "fp16-cpu-and-ne": "കയറുപിരിക്കൽ കയറുപിരിക്കൽ",
+        "fp16-cpu-and-ne_matches_fp32": true,
+        "fp16-cpu-and-ne_same_token_ids": true,
+        "fp16-cpu-and-ne_max_token_start_difference_seconds": 0.0
+      }
+    ],
+    "fp32_matches_nemo": 15,
+    "fp16_matches_fp32": 15,
+    "fp16-cpu-and-ne_matches_fp32": 14
+  },
+  "precision": "float16",
+  "frames": 512,
+  "compute_modes": [
+    "CPU_ONLY",
+    "CPU_AND_NE"
+  ],
+  "publication": {
+    "repo_id": "matjacob/koyal-ml-120m-1.0-coreml",
+    "revision": "0b151d4c7c7dd53aa73a7411024e247d86238693",
+    "commit_url": "https://huggingface.co/matjacob/koyal-ml-120m-1.0-coreml/commit/0b151d4c7c7dd53aa73a7411024e247d86238693",
+    "fp16_url": "https://huggingface.co/matjacob/koyal-ml-120m-1.0-coreml/tree/main/fp16",
+    "fp32_package_hashes_unchanged": true,
+    "fp16_bytes": 236387556
+  }
+}

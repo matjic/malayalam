@@ -1,0 +1,219 @@
+{
+  "lesson": 10,
+  "model": "Whisper large-v3",
+  "purpose": "English announcements only; Malayalam transliterations are not teaching transcriptions.",
+  "range_start": 0.04,
+  "range_end": 144.01,
+  "segments": [
+    {
+      "start": 0.24,
+      "end": 1.64,
+      "text": " Lesson 10."
+    },
+    {
+      "start": 1.64,
+      "end": 3.8,
+      "text": " Vocabulary Practice."
+    },
+    {
+      "start": 3.8,
+      "end": 5.44,
+      "text": " Repeat each item after the speaker."
+    },
+    {
+      "start": 5.44,
+      "end": 7.12,
+      "text": " Each item is given twice."
+    },
+    {
+      "start": 7.12,
+      "end": 8.12,
+      "text": " Ready?"
+    },
+    {
+      "start": 8.12,
+      "end": 9.68,
+      "text": " Listen and repeat."
+    },
+    {
+      "start": 9.68,
+      "end": 11.18,
+      "text": " Keralam."
+    },
+    {
+      "start": 11.18,
+      "end": 12.6,
+      "text": " Keralam."
+    },
+    {
+      "start": 12.6,
+      "end": 13.94,
+      "text": " State."
+    },
+    {
+      "start": 13.94,
+      "end": 15.46,
+      "text": " State."
+    },
+    {
+      "start": 15.46,
+      "end": 17.04,
+      "text": " Aagannu."
+    },
+    {
+      "start": 17.04,
+      "end": 18.96,
+      "text": " Aagannu."
+    },
+    {
+      "start": 18.96,
+      "end": 20.56,
+      "text": " Thekku."
+    },
+    {
+      "start": 20.56,
+      "end": 22.32,
+      "text": " Thekku."
+    },
+    {
+      "start": 22.32,
+      "end": 23.76,
+      "text": " Thekke."
+    },
+    {
+      "start": 23.76,
+      "end": 25.24,
+      "text": " Thekke."
+    },
+    {
+      "start": 25.24,
+      "end": 26.86,
+      "text": " Bhaagam."
+    },
+    {
+      "start": 26.86,
+      "end": 28.4,
+      "text": " Bhaagam."
+    },
+    {
+      "start": 28.4,
+      "end": 29.84,
+      "text": " Aalugala."
+    },
+    {
+      "start": 29.84,
+      "end": 31.84,
+      "text": " people"
+    },
+    {
+      "start": 31.84,
+      "end": 35.84,
+      "text": " stay"
+    },
+    {
+      "start": 35.84,
+      "end": 41.84,
+      "text": " boat"
+    },
+    {
+      "start": 41.84,
+      "end": 45.84,
+      "text": " boat"
+    },
+    {
+      "start": 45.84,
+      "end": 49.84,
+      "text": " sea"
+    },
+    {
+      "start": 49.84,
+      "end": 53.84,
+      "text": " Arab sea"
+    },
+    {
+      "start": 53.84,
+      "end": 57.84,
+      "text": " boat"
+    },
+    {
+      "start": 57.84,
+      "end": 67.84,
+      "text": " parbadam sakhiya parbadam"
+    },
+    {
+      "start": 67.84,
+      "end": 75.84,
+      "text": " sthidi chayuga jilla"
+    },
+    {
+      "start": 75.84,
+      "end": 82.84,
+      "text": " iva patnam"
+    },
+    {
+      "start": 82.84,
+      "end": 104.64,
+      "text": " ava ava talasthanam talasthanam turmukham turmukham madhya madhya vadakku vadakku vadakke"
+    },
+    {
+      "start": 104.64,
+      "end": 108.64,
+      "text": " Atam"
+    },
+    {
+      "start": 108.64,
+      "end": 113.64,
+      "text": " Thiruvanandapurthu"
+    },
+    {
+      "start": 113.64,
+      "end": 118.64,
+      "text": " Vare"
+    },
+    {
+      "start": 118.64,
+      "end": 122.64,
+      "text": " Uddesham"
+    },
+    {
+      "start": 122.64,
+      "end": 125.64,
+      "text": " MuuNoor"
+    },
+    {
+      "start": 125.64,
+      "end": 129.64,
+      "text": " Eluppam"
+    },
+    {
+      "start": 129.64,
+      "end": 133.64,
+      "text": " Yatra"
+    },
+    {
+      "start": 133.64,
+      "end": 134.68,
+      "text": " Train."
+    },
+    {
+      "start": 136.38,
+      "end": 136.8,
+      "text": " Train."
+    },
+    {
+      "start": 138.18,
+      "end": 138.64,
+      "text": " Divasam."
+    },
+    {
+      "start": 140.14,
+      "end": 140.86,
+      "text": " Divasam."
+    },
+    {
+      "start": 142.52,
+      "end": 143.34,
+      "text": " Lesson 10."
+    }
+  ]
+}

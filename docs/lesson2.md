@@ -74,35 +74,52 @@
 <a id="lesson2-vocabulary"></a><!-- reading-anchor -->
 ### Vocabulary
 
-| Malayalam | English |
-|---|---|
-| സാർ | you (respectful), gentleman, sir |
-| സാറിന്റെ | your (respectful), gentleman’s |
-| ആഫീസ് | office |
-| ഇവിടെ | here |
-| <!-- Source: PDF page 59; printed page 13. --> ആണോ? | is? are? (question form of ആണ്) |
-| ഹമീദ് | a male (Muslim) name |
-| അതെ | yes |
-| ഇവിടെത്തന്നെ | right here |
-| -ഇൽ | in, among |
-| ആഫീസിൽ | in the office |
-| ഇയാൾ | he (equal, close by) |
-| ഇയാളെ മനസ്സിലായോ? | Do you know / recognize him? |
-| ഇല്ല | no |
-| നമസ്കാരം | a formal greeting (literally “I bow to you,” also നമസ്തേ) |
-| വീട് | house, home, native place |
-| എവിടെ | where |
-| തൃശ്ശൂർ | Trichur, a town in central Kerala |
-| ജോലി | job, work |
-| ഞാൻ | I |
-| ഒരു | one (indefinite article) |
-| ഡാക്ടർ | doctor |
-| -ഉം | also, too |
-| ഈ | this (adjective) |
-| കേശവൻ | a male (Hindu) name |
-| കൊച്ചി | Cochin, an important port city in central Kerala |
-| റ്റീച്ചർ | teacher |
-| -ഓ | question marker |
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Vocabulary audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 2: Vocabulary audio" src="assets/audio/moag/sections/lesson_02_vocabulary_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_02_vocabulary_0.mp3" aria-pressed="true">Listen · 01:46</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
+<!-- moag-vocabulary-words -->
+<div class="lesson-audio">
+<p><strong>Selected vocabulary recording</strong></p>
+<audio data-table-audio-player controls preload="none" aria-label="Lesson 2: select a word in the vocabulary table"></audio>
+<p class="lesson-audio-note">Use the Audio column to hear a word. Recorded variants appear beside their written entry; additional recorded forms are included in the same table. Unconfirmed recordings stay in rows marked “check match” until their word is verified. A dash means no aligned recording yet.</p>
+</div>
+<!-- /moag-vocabulary-words -->
+
+| Malayalam | English | Audio |
+|---|---|---|
+| സാർ | you (respectful), gentleman, sir | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_001.mp3" data-audio-label="സാർ" aria-label="Play സാർ" title="Play സാർ" aria-pressed="false">▶</button> |
+| സാറിന്റെ | your (respectful), gentleman’s | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_002.mp3" data-audio-label="സാറിന്റെ" aria-label="Play സാറിന്റെ" title="Play സാറിന്റെ" aria-pressed="false">▶</button> |
+| ആഫീസ് | office | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_003.mp3" data-audio-label="ആഫീസ്" aria-label="Play ആഫീസ്" title="Play ആഫീസ്" aria-pressed="false">▶</button> |
+| ഇവിടെ | here | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_004.mp3" data-audio-label="ഇവിടെ" aria-label="Play ഇവിടെ" title="Play ഇവിടെ" aria-pressed="false">▶</button> |
+| <!-- Source: PDF page 59; printed page 13. --> ആണോ? | is? are? (question form of ആണ്) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_005.mp3" data-audio-label="ആണോ?" aria-label="Play ആണോ?" title="Play ആണോ?" aria-pressed="false">▶</button> |
+| ഹമീദ് | a male (Muslim) name | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_006.mp3" data-audio-label="ഹമീദ്" aria-label="Play ഹമീദ്" title="Play ഹമീദ്" aria-pressed="false">▶</button> |
+| അതെ | yes | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_007.mp3" data-audio-label="അതെ" aria-label="Play അതെ" title="Play അതെ" aria-pressed="false">▶</button> |
+| ഇവിടെത്തന്നെ | right here | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_008.mp3" data-audio-label="ഇവിടെത്തന്നെ" aria-label="Play ഇവിടെത്തന്നെ" title="Play ഇവിടെത്തന്നെ" aria-pressed="false">▶</button> |
+| -ഇൽ | in, among | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_009.mp3" data-audio-label="ഇൽ" aria-label="Play ഇൽ" title="Play ഇൽ" aria-pressed="false">▶</button> |
+| ആഫീസിൽ | in the office | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_010.mp3" data-audio-label="ആഫീസിൽ" aria-label="Play ആഫീസിൽ" title="Play ആഫീസിൽ" aria-pressed="false">▶</button> |
+| ഇയാൾ | he (equal, close by) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_011.mp3" data-audio-label="ഇയാൾ" aria-label="Play ഇയാൾ" title="Play ഇയാൾ" aria-pressed="false">▶</button> |
+| ഇയാളെ മനസ്സിലായോ? | Do you know / recognize him? | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_012.mp3" data-audio-label="ഇയാളെ മനസ്സിലായോ?" aria-label="Play ഇയാളെ മനസ്സിലായോ?" title="Play ഇയാളെ മനസ്സിലായോ?" aria-pressed="false">▶</button> |
+| ഇല്ല | no | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_013.mp3" data-audio-label="ഇല്ല" aria-label="Play ഇല്ല" title="Play ഇല്ല" aria-pressed="false">▶</button> |
+| നമസ്കാരം | a formal greeting (literally “I bow to you,” also നമസ്തേ) | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| വീട് | house, home, native place | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_014.mp3" data-audio-label="വീട്" aria-label="Play വീട്" title="Play വീട്" aria-pressed="false">▶</button> |
+| എവിടെ | where | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_015.mp3" data-audio-label="എവിടെ" aria-label="Play എവിടെ" title="Play എവിടെ" aria-pressed="false">▶</button> |
+| തൃശ്ശൂർ | Trichur, a town in central Kerala | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_016.mp3" data-audio-label="തൃശ്ശൂർ" aria-label="Play തൃശ്ശൂർ" title="Play തൃശ്ശൂർ" aria-pressed="false">▶</button> |
+| ജോലി | job, work | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_017.mp3" data-audio-label="ജോലി" aria-label="Play ജോലി" title="Play ജോലി" aria-pressed="false">▶</button> |
+| ഞാൻ | I | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_018.mp3" data-audio-label="ഞാൻ" aria-label="Play ഞാൻ" title="Play ഞാൻ" aria-pressed="false">▶</button> |
+| ഒരു | one (indefinite article) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_019.mp3" data-audio-label="ഒരു" aria-label="Play ഒരു" title="Play ഒരു" aria-pressed="false">▶</button> |
+| ഡാക്ടർ | doctor | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_020.mp3" data-audio-label="ഡാക്ടർ" aria-label="Play ഡാക്ടർ" title="Play ഡാക്ടർ" aria-pressed="false">▶</button> |
+| -ഉം | also, too | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_021.mp3" data-audio-label="ഉം" aria-label="Play ഉം" title="Play ഉം" aria-pressed="false">▶</button> |
+| ഈ | this (adjective) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_022.mp3" data-audio-label="ഈ" aria-label="Play ഈ" title="Play ഈ" aria-pressed="false">▶</button> |
+| കേശവൻ | a male (Hindu) name | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_023.mp3" data-audio-label="കേശവൻ" aria-label="Play കേശവൻ" title="Play കേശവൻ" aria-pressed="false">▶</button> |
+| കൊച്ചി | Cochin, an important port city in central Kerala | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_024.mp3" data-audio-label="കൊച്ചി" aria-label="Play കൊച്ചി" title="Play കൊച്ചി" aria-pressed="false">▶</button> |
+| റ്റീച്ചർ | teacher | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_025.mp3" data-audio-label="റ്റീച്ചർ" aria-label="Play റ്റീച്ചർ" title="Play റ്റീച്ചർ" aria-pressed="false">▶</button> |
+| -ഓ | question marker | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
 
 <!-- Source: PDF page 60; printed page 14. -->
 <a id="lesson2-reading-practice"></a><!-- reading-anchor -->

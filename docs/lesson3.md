@@ -26,49 +26,60 @@
 <div class="lesson-audio">
 <p><strong>Vocabulary audio</strong></p>
 <audio controls preload="none" aria-label="Lesson 3: Vocabulary audio" src="assets/audio/moag/sections/lesson_03_vocabulary_0.mp3"></audio>
-<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_03_vocabulary_0.mp3" aria-pressed="true">Listen · 02:14</button></div>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_03_vocabulary_0.mp3" aria-pressed="true">Listen · 02:11</button></div>
 <p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
 </div>
 <!-- /moag-audio -->
 
-| Malayalam | English |
-|---|---|
-| ഉണ്ട് | is, there is |
-| അനുജൻ (അനിയൻ) | younger brother |
-| ഓ! | Oh! yes |
-| കൈ | hand |
-| കൈയിൽ ഉണ്ട് | to have (lit. “there is in hand”) |
-| അങ്ങനെയോ? | Is that so? (short for അങ്ങനെയാണോ?) |
-| ഇങ്ങോട്ട് | this way, over here |
-| വരൂ | Please come. (polite) |
-| ഇരിക്കൂ | Please sit down. (polite) |
-| ജ്യേഷ്ഠൻ, ചേട്ടൻ | older brother |
-| ഇപ്പോൾ വരും | will come now (right away) |
-| സുഖം | health, comfort |
-| <!-- Source: PDF page 73; printed page 27. --> സുഖമാണോ? | How are (you)? |
-| തന്നെ | indeed, surely |
-| എന്തൊക്കെ | what all? |
-| വിശേഷങ്ങൾ | news |
-| ഒന്നും ഇല്ല | (There is) nothing / none at all. |
-| എത്ര | how many?, how much? |
-| പേര് | person (also “name”) |
-| അഞ്ച് | five |
-| ഞങ്ങൾ | we (excluding listener) |
-| അവർ | they |
-| ആരൊക്കെ? | who all? |
-| അച്ഛൻ | father |
-| അമ്മ | mother |
-| -ഉം | and |
-| ചേച്ചി | older sister |
-| ആ | that (adjective) |
-| ഇതാ | here, here you go (colloquial: ഇന്നാ) |
-| പത്ത് | ten |
-| രൂപ | Rupee (or colloquially for “money”) |
-| എടുക്കാൻ | to take, for taking |
-| ഇത്ര | this much, this many |
-| മതി | enough |
-| അനുജത്തി (അനിയത്തി) | little sister |
-| കുടുംബം | family |
+<!-- moag-vocabulary-words -->
+<div class="lesson-audio">
+<p><strong>Selected vocabulary recording</strong></p>
+<audio data-table-audio-player controls preload="none" aria-label="Lesson 3: select a word in the vocabulary table"></audio>
+<p class="lesson-audio-note">Use the Audio column to hear a word. Recorded variants appear beside their written entry; additional recorded forms are included in the same table. Unconfirmed recordings stay in rows marked “check match” until their word is verified. A dash means no aligned recording yet.</p>
+</div>
+<!-- /moag-vocabulary-words -->
+
+| Malayalam | English | Audio |
+|---|---|---|
+| ഉണ്ട് | is, there is | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_001.mp3" data-audio-label="ഉണ്ട്" aria-label="Play ഉണ്ട്" title="Play ഉണ്ട്" aria-pressed="false">▶</button> |
+| അനുജൻ (അനിയൻ) | younger brother | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_002.mp3" data-audio-label="അനുജൻ" aria-label="Play അനുജൻ" title="Play അനുജൻ" aria-pressed="false">▶</button> |
+| ഓ! | Oh! yes | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_003.mp3" data-audio-label="ഓ!" aria-label="Play ഓ!" title="Play ഓ!" aria-pressed="false">▶</button> |
+| കൈ | hand | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_004.mp3" data-audio-label="കൈ" aria-label="Play കൈ" title="Play കൈ" aria-pressed="false">▶</button> |
+| കൈയിൽ ഉണ്ട് | to have (lit. “there is in hand”) | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| അങ്ങനെയോ? | Is that so? (short for അങ്ങനെയാണോ?) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_006.mp3" data-audio-label="അങ്ങനെയോ?" aria-label="Play അങ്ങനെയോ?" title="Play അങ്ങനെയോ?" aria-pressed="false">▶</button> |
+| ഇങ്ങോട്ട് | this way, over here | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_007.mp3" data-audio-label="ഇങ്ങോട്ട്" aria-label="Play ഇങ്ങോട്ട്" title="Play ഇങ്ങോട്ട്" aria-pressed="false">▶</button> |
+| വരൂ | Please come. (polite) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_008.mp3" data-audio-label="വരൂ" aria-label="Play വരൂ" title="Play വരൂ" aria-pressed="false">▶</button> |
+| ഇരിക്കൂ | Please sit down. (polite) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_009.mp3" data-audio-label="ഇരിക്കൂ" aria-label="Play ഇരിക്കൂ" title="Play ഇരിക്കൂ" aria-pressed="false">▶</button> |
+| ജ്യേഷ്ഠൻ, ചേട്ടൻ | older brother | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_010.mp3" data-audio-label="ചേട്ടൻ" aria-label="Play ചേട്ടൻ" title="Play ചേട്ടൻ" aria-pressed="false">▶ <span lang="ml">ചേട്ടൻ</span></button> |
+| ഇപ്പോൾ വരും | will come now (right away) | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| സുഖം | health, comfort | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_013.mp3" data-audio-label="സുഖം" aria-label="Play സുഖം" title="Play സുഖം" aria-pressed="false">▶</button> |
+| <!-- Source: PDF page 73; printed page 27. --> സുഖമാണോ? | How are (you)? | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_014.mp3" data-audio-label="സുഖമാണോ?" aria-label="Play സുഖമാണോ?" title="Play സുഖമാണോ?" aria-pressed="false">▶</button> |
+| തന്നെ | indeed, surely | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_015.mp3" data-audio-label="തന്നെ" aria-label="Play തന്നെ" title="Play തന്നെ" aria-pressed="false">▶</button> |
+| എന്തൊക്കെ | what all? | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| വിശേഷങ്ങൾ | news | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| ഒന്നും ഇല്ല | (There is) nothing / none at all. | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| എത്ര | how many?, how much? | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_016.mp3" data-audio-label="എത്ര" aria-label="Play എത്ര" title="Play എത്ര" aria-pressed="false">▶</button> |
+| പേര് | person (also “name”) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_017.mp3" data-audio-label="പേര്" aria-label="Play പേര്" title="Play പേര്" aria-pressed="false">▶</button> |
+| അഞ്ച് | five | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_018.mp3" data-audio-label="അഞ്ച്" aria-label="Play അഞ്ച്" title="Play അഞ്ച്" aria-pressed="false">▶</button> |
+| ഞങ്ങൾ | we (excluding listener) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_019.mp3" data-audio-label="ഞങ്ങൾ" aria-label="Play ഞങ്ങൾ" title="Play ഞങ്ങൾ" aria-pressed="false">▶</button> |
+| അവർ | they | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_020.mp3" data-audio-label="അവർ" aria-label="Play അവർ" title="Play അവർ" aria-pressed="false">▶</button> |
+| ആരൊക്കെ? | who all? | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_021.mp3" data-audio-label="ആരൊക്കെ?" aria-label="Play ആരൊക്കെ?" title="Play ആരൊക്കെ?" aria-pressed="false">▶</button> |
+| അച്ഛൻ | father | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_022.mp3" data-audio-label="അച്ഛൻ" aria-label="Play അച്ഛൻ" title="Play അച്ഛൻ" aria-pressed="false">▶</button> |
+| അമ്മ | mother | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_023.mp3" data-audio-label="അമ്മ" aria-label="Play അമ്മ" title="Play അമ്മ" aria-pressed="false">▶</button> |
+| -ഉം | and | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_024.mp3" data-audio-label="ഉം" aria-label="Play ഉം" title="Play ഉം" aria-pressed="false">▶</button> |
+| ചേച്ചി | older sister | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_025.mp3" data-audio-label="ചേച്ചി" aria-label="Play ചേച്ചി" title="Play ചേച്ചി" aria-pressed="false">▶</button> |
+| ആ | that (adjective) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_026.mp3" data-audio-label="ആ" aria-label="Play ആ" title="Play ആ" aria-pressed="false">▶</button> |
+| ഇതാ | here, here you go (colloquial: ഇന്നാ) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_027.mp3" data-audio-label="ഇതാ" aria-label="Play ഇതാ" title="Play ഇതാ" aria-pressed="false">▶</button> |
+| പത്ത് | ten | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_028.mp3" data-audio-label="പത്ത്" aria-label="Play പത്ത്" title="Play പത്ത്" aria-pressed="false">▶</button> |
+| രൂപ | Rupee (or colloquially for “money”) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_029.mp3" data-audio-label="രൂപ" aria-label="Play രൂപ" title="Play രൂപ" aria-pressed="false">▶</button> |
+| എടുക്കാൻ | to take, for taking | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_030.mp3" data-audio-label="എടുക്കാൻ" aria-label="Play എടുക്കാൻ" title="Play എടുക്കാൻ" aria-pressed="false">▶</button> |
+| ഇത്ര | this much, this many | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_031.mp3" data-audio-label="ഇത്ര" aria-label="Play ഇത്ര" title="Play ഇത്ര" aria-pressed="false">▶</button> |
+| മതി | enough | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_032.mp3" data-audio-label="മതി" aria-label="Play മതി" title="Play മതി" aria-pressed="false">▶</button> |
+| അനുജത്തി (അനിയത്തി) | little sister | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_033.mp3" data-audio-label="അനുജത്തി" aria-label="Play അനുജത്തി" title="Play അനുജത്തി" aria-pressed="false">▶</button> |
+| കുടുംബം | family | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| <!-- recorded-audio-row --> കൈയിൽ | in the hand; with (someone) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_005.mp3" data-audio-label="കൈയിൽ" aria-label="Play കൈയിൽ" title="Play കൈയിൽ" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> ഇപ്പോൾ | now | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_011.mp3" data-audio-label="ഇപ്പോൾ" aria-label="Play ഇപ്പോൾ" title="Play ഇപ്പോൾ" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> നമസ്കാരം | greetings; hello | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_012.mp3" data-audio-label="നമസ്കാരം" aria-label="Play നമസ്കാരം" title="Play നമസ്കാരം" aria-pressed="false">▶</button> |
 
 <a id="lesson3-numbers"></a><!-- reading-anchor -->
 ### Numbers

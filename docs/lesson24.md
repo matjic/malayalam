@@ -6,55 +6,55 @@
 <a id="lesson24-reference-list"></a><!-- reading-anchor -->
 ## Reference List
 
-| Verb | Meaning | Derived Noun | Meaning |
-|---|---|---|---|
-| തുടങ്ങുക | to begin | തുടക്കം | beginning |
-| സംസാരിക്കുക | to talk, converse | സംസാരം | talk, conversation |
-| കാണുക | to see | കാഴ്ച | sight |
-| അറിയുക | to know | അറിവ് | knowledge |
-| എഴുതുക | to write | എഴുത്ത് | letter, writing |
-| മരിക്കുക | to die | മരണം | death |
-| അഭിപ്രായപ്പെടുക | to express an opinion | അഭിപ്രായം | opinion |
-| കുറിക്കുക | to note down | കുറിപ്പ് | note |
-| നോക്കുക | to look | നോട്ടം | look, gaze, observation |
-| അപേക്ഷിക്കുക | to request | അപേക്ഷ | request |
-| വായിക്കുക | to read | വായന | reading |
-| അറിയിക്കുക | to inform | അറിയിപ്പ് | declaration, notice |
-| വിൽക്കുക | to sell | വിൽപ്പന | sale |
-| പ്രാർത്ഥിക്കുക | to pray | പ്രാർത്ഥന | prayer |
-| ഉണ്ണുക | to dine | ഊണ് | dinner |
-| തോന്നുക | to feel | തോന്നൽ | feeling |
-| സമീപിക്കുക | to approach | സമീപം | nearby, vicinity |
-| ചോദിക്കുക | to ask | ചോദ്യം | question |
-| ആടുക | to swing, to dance | ആട്ടം | dance |
-| പാടുക | to sing | പാട്ട് | song |
-| സമ്മതിക്കുക | to agree | സമ്മതം | agreement |
-| മാറുക | to change (intr.) | മാറ്റം | change |
-| ആഘോഷിക്കുക | to celebrate | ആഘോഷം | celebration |
-| അലങ്കരിക്കുക | to decorate | അലങ്കാരം | decoration |
-| ആകർഷിക്കുക | to attract | ആകർഷണം | attraction |
-| വളരുക | to grow (intr.) | വളർച്ച | growth |
-| നേടുക | to achieve | നേട്ടം | achievement |
-| <!-- Source: PDF page 431; printed page 370. --> കുറയുക | to diminish | കുറവ് | shortcoming |
-| എതിർക്കുക | to oppose | എതിർപ്പ് | opposition |
-| തിരുത്തുക | to correct | തിരുത്ത് | correction |
-| ഓർക്കുക | to remember | ഓർമ്മ | memory |
-| സ്നേഹിക്കുക | to love | സ്നേഹം | love |
-| വിശക്കുക | to be hungry | വിശപ്പ് | hunger |
-| ദാഹിക്കുക | to thirst | ദാഹം | thirst |
-| വിഷമിക്കുക | to worry | വിഷമം | worry |
-| ദുഃഖിക്കുക | to grieve | ദുഃഖം | grief |
-| സന്തോഷിക്കുക | to be happy | സന്തോഷം | happiness |
-| വരുക | to come | വരവ് | the act of coming |
-| തിരിയുക | to turn (intr.) | തിരിവ് | turn |
-| പോകുക | to go | പോക്ക് | the act of going |
-| കയറുക | to get on, to ascend | കയറ്റം | the act of getting on, ascent |
-| ഇറങ്ങുക | to get down, to descend | ഇറക്കം | slope, descent |
-| പിടിക്കുക | to hold, to catch hold | പിടുത്തം | the act of catching |
-| നടക്കുക | to walk | നടപ്പ് | the act of walking |
-| നിൽക്കുക | to stand | നിൽപ്പ് | the act of standing |
-| ഇരിക്കുക | to sit | ഇരിപ്പ് | the act of sitting |
-| കിടക്കുക | to lie down | കിടപ്പ് | the act of lying down |
+| Verb | Meaning | Derived Noun | Meaning | Audio |
+|---|---|---|---|---|
+| തുടങ്ങുക | to begin | തുടക്കം | beginning | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| സംസാരിക്കുക | to talk, converse | സംസാരം | talk, conversation | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| കാണുക | to see | കാഴ്ച | sight | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| അറിയുക | to know | അറിവ് | knowledge | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| എഴുതുക | to write | എഴുത്ത് | letter, writing | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| മരിക്കുക | to die | മരണം | death | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| അഭിപ്രായപ്പെടുക | to express an opinion | അഭിപ്രായം | opinion | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| കുറിക്കുക | to note down | കുറിപ്പ് | note | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| നോക്കുക | to look | നോട്ടം | look, gaze, observation | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| അപേക്ഷിക്കുക | to request | അപേക്ഷ | request | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| വായിക്കുക | to read | വായന | reading | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| അറിയിക്കുക | to inform | അറിയിപ്പ് | declaration, notice | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| വിൽക്കുക | to sell | വിൽപ്പന | sale | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| പ്രാർത്ഥിക്കുക | to pray | പ്രാർത്ഥന | prayer | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| ഉണ്ണുക | to dine | ഊണ് | dinner | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| തോന്നുക | to feel | തോന്നൽ | feeling | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| സമീപിക്കുക | to approach | സമീപം | nearby, vicinity | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| ചോദിക്കുക | to ask | ചോദ്യം | question | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| ആടുക | to swing, to dance | ആട്ടം | dance | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| പാടുക | to sing | പാട്ട് | song | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| സമ്മതിക്കുക | to agree | സമ്മതം | agreement | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| മാറുക | to change (intr.) | മാറ്റം | change | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| ആഘോഷിക്കുക | to celebrate | ആഘോഷം | celebration | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| അലങ്കരിക്കുക | to decorate | അലങ്കാരം | decoration | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| ആകർഷിക്കുക | to attract | ആകർഷണം | attraction | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| വളരുക | to grow (intr.) | വളർച്ച | growth | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| നേടുക | to achieve | നേട്ടം | achievement | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| <!-- Source: PDF page 431; printed page 370. --> കുറയുക | to diminish | കുറവ് | shortcoming | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| എതിർക്കുക | to oppose | എതിർപ്പ് | opposition | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| തിരുത്തുക | to correct | തിരുത്ത് | correction | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| ഓർക്കുക | to remember | ഓർമ്മ | memory | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| സ്നേഹിക്കുക | to love | സ്നേഹം | love | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_027.mp3" data-audio-label="സ്നേഹം" aria-label="Play സ്നേഹം" title="Play സ്നേഹം" aria-pressed="false">▶</button> |
+| വിശക്കുക | to be hungry | വിശപ്പ് | hunger | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| ദാഹിക്കുക | to thirst | ദാഹം | thirst | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| വിഷമിക്കുക | to worry | വിഷമം | worry | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| ദുഃഖിക്കുക | to grieve | ദുഃഖം | grief | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| സന്തോഷിക്കുക | to be happy | സന്തോഷം | happiness | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| വരുക | to come | വരവ് | the act of coming | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| തിരിയുക | to turn (intr.) | തിരിവ് | turn | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| പോകുക | to go | പോക്ക് | the act of going | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| കയറുക | to get on, to ascend | കയറ്റം | the act of getting on, ascent | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| ഇറങ്ങുക | to get down, to descend | ഇറക്കം | slope, descent | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| പിടിക്കുക | to hold, to catch hold | പിടുത്തം | the act of catching | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| നടക്കുക | to walk | നടപ്പ് | the act of walking | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| നിൽക്കുക | to stand | നിൽപ്പ് | the act of standing | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| ഇരിക്കുക | to sit | ഇരിപ്പ് | the act of sitting | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| കിടക്കുക | to lie down | കിടപ്പ് | the act of lying down | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
 
 <a id="lesson24-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
@@ -63,66 +63,74 @@
 <div class="lesson-audio">
 <p><strong>Vocabulary audio</strong></p>
 <audio controls preload="none" aria-label="Lesson 24: Vocabulary audio" src="assets/audio/moag/sections/lesson_24_vocabulary_0.mp3"></audio>
-<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_24_vocabulary_0.mp3" aria-pressed="true">Listen · 08:24</button></div>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_24_vocabulary_0.mp3" aria-pressed="true">Listen · 04:49</button></div>
 <p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
 </div>
 <!-- /moag-audio -->
 
-| Malayalam | Meaning |
-|---|---|
-| പാലാരിവട്ടം | Palarivattam – an area of Ernakulam city |
-| ജനതാ ജംഗ്ഷൻ | Janata Junction – an intersection or crossroad in Ernakulam |
-| സമീപം | near, (in the) vicinity |
-| കിടപ്പ് (verbal noun) | lying (down), repose |
-| കിടപ്പുമുറി | bedroom |
-| അപേക്ഷിക്കുക | to apply, to request, to entreat |
-| <!-- Source: PDF page 432; printed page 371. --> എറിക്കാട്ട് വീട് | ‘Ericattu house’, Ericattu is a family name |
-| നാഗമ്പടം | Nagampadom, an area of Kottayam |
-| വിധം | type, manner, kind |
-| വിവരം | detail |
-| നേരിൽ | directly, in person |
-| നേഴ്സ് | nurse |
-| പൊക്കം | height |
-| വെളുത്ത | white (adj) |
-| നിറം | color, complexion |
-| വണ്ണം | obesity, thickness |
-| കുറയുക (past: കുറഞ്ഞു) | to decrease |
-| കുറഞ്ഞത് (noun) | that which is small (or lacking) |
-| വണ്ണം കുറഞ്ഞത് | one who is thin |
-| എൻജിനീയർ | Engineer |
-| വരൻ | bridegroom |
-| അപേക്ഷ | application, request |
-| ചോദിച്ചു കൊള്ളുക | to go ahead and ask |
-| വ്യത്യസ്തം (noun) | different |
-| സ്നേഹിക്കുക | to love |
-| തമ്മിൽ | between |
-| വ്യത്യാസം | difference |
-| മനസ്സിലാക്കുക | to understand, comprehend |
-| അവരവർ | they themselves |
-| -- സാധിക്കുക | can --- |
-| പറഞ്ഞയില്ല | never said, didn’t say |
-| ചില | some |
-| അന്യോന്യം | mutual, each other |
-| നില നിൽക്കുക | to endure, continue |
-| എന്തുകൊണ്ടെന്നാൽ | for (the reason that), because |
-| സമൂഹം | society, association, group |
-| വിവാഹമോചനം | divorce |
-| <!-- Source: PDF page 433; printed page 372. --> നേടുക (past: നേടി) | to obtain, gain |
-| എതിർക്കുക (past: എതിർത്തു) | to oppose |
-| --കാൾ (accusative) | than -- |
-| -- കൂടാ | can’t, shouldn’t |
-| മറ്റ് (adj) | other, another |
-| മറ്റൊരു (adj) | another |
-| -- കഴിയുക | can -- |
-| പരിചിതം (antonym: അപരിചിതം) | familiar |
-| ഗുണം | good quality or attribute |
-| കുറവ് | deficiency, shortcoming |
-| ഉദാഹരണം | example |
-| ഏറ്റവും | most, much, exceeding |
-| -- പറ്റുക | to be possible to --<br>to be able to -- |
-| -- പാടില്ല | can’t, shouldn’t -- |
-| തണുക്കുന്നു (past: തണുത്തു) | to be (feel) cold |
-| തണുപ്പ് (noun) | cold (temperature) |
+<!-- moag-vocabulary-words -->
+<div class="lesson-audio">
+<p><strong>Selected vocabulary recording</strong></p>
+<audio data-table-audio-player controls preload="none" aria-label="Lesson 24: select a word in the vocabulary table"></audio>
+<p class="lesson-audio-note">Use the Audio column to hear a word. Recorded variants appear beside their written entry; additional recorded forms are included in the same table. Unconfirmed recordings stay in rows marked “check match” until their word is verified. A dash means no aligned recording yet.</p>
+</div>
+<!-- /moag-vocabulary-words -->
+
+| Malayalam | Meaning | Audio |
+|---|---|---|
+| പാലാരിവട്ടം | Palarivattam – an area of Ernakulam city | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_001.mp3" data-audio-label="പാലാരിവട്ടം" aria-label="Play പാലാരിവട്ടം" title="Play പാലാരിവട്ടം" aria-pressed="false">▶</button> |
+| ജനതാ ജംഗ്ഷൻ | Janata Junction – an intersection or crossroad in Ernakulam | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_002.mp3" data-audio-label="ജനതാ ജംഗ്ഷൻ" aria-label="Play ജനതാ ജംഗ്ഷൻ" title="Play ജനതാ ജംഗ്ഷൻ" aria-pressed="false">▶</button> |
+| സമീപം | near, (in the) vicinity | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_003.mp3" data-audio-label="സമീപം" aria-label="Play സമീപം" title="Play സമീപം" aria-pressed="false">▶</button> |
+| കിടപ്പ് (verbal noun) | lying (down), repose | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_004.mp3" data-audio-label="കിടപ്പ്" aria-label="Play കിടപ്പ്" title="Play കിടപ്പ്" aria-pressed="false">▶</button> |
+| കിടപ്പുമുറി | bedroom | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_005.mp3" data-audio-label="കിടപ്പുമുറി" aria-label="Play കിടപ്പുമുറി" title="Play കിടപ്പുമുറി" aria-pressed="false">▶</button> |
+| അപേക്ഷിക്കുക | to apply, to request, to entreat | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_006.mp3" data-audio-label="അപേക്ഷിക്കുക" aria-label="Play അപേക്ഷിക്കുക" title="Play അപേക്ഷിക്കുക" aria-pressed="false">▶</button> |
+| <!-- Source: PDF page 432; printed page 371. --> എറിക്കാട്ട് വീട് | ‘Ericattu house’, Ericattu is a family name | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_007.mp3" data-audio-label="എറിക്കാട്ട് വീട്" aria-label="Play എറിക്കാട്ട് വീട്" title="Play എറിക്കാട്ട് വീട്" aria-pressed="false">▶</button> |
+| നാഗമ്പടം | Nagampadom, an area of Kottayam | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_008.mp3" data-audio-label="നാഗമ്പടം" aria-label="Play നാഗമ്പടം" title="Play നാഗമ്പടം" aria-pressed="false">▶</button> |
+| വിധം | type, manner, kind | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_009.mp3" data-audio-label="വിധം" aria-label="Play വിധം" title="Play വിധം" aria-pressed="false">▶</button> |
+| വിവരം | detail | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_010.mp3" data-audio-label="വിവരം" aria-label="Play വിവരം" title="Play വിവരം" aria-pressed="false">▶</button> |
+| നേരിൽ | directly, in person | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_011.mp3" data-audio-label="നേരിൽ" aria-label="Play നേരിൽ" title="Play നേരിൽ" aria-pressed="false">▶</button> |
+| നേഴ്സ് | nurse | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_012.mp3" data-audio-label="നേഴ്സ്" aria-label="Play നേഴ്സ്" title="Play നേഴ്സ്" aria-pressed="false">▶</button> |
+| പൊക്കം | height | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_013.mp3" data-audio-label="പൊക്കം" aria-label="Play പൊക്കം" title="Play പൊക്കം" aria-pressed="false">▶</button> |
+| വെളുത്ത | white (adj) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_014.mp3" data-audio-label="വെളുത്ത" aria-label="Play വെളുത്ത" title="Play വെളുത്ത" aria-pressed="false">▶</button> |
+| നിറം | color, complexion | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_015.mp3" data-audio-label="നിറം" aria-label="Play നിറം" title="Play നിറം" aria-pressed="false">▶</button> |
+| വണ്ണം | obesity, thickness | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_016.mp3" data-audio-label="വണ്ണം" aria-label="Play വണ്ണം" title="Play വണ്ണം" aria-pressed="false">▶</button> |
+| കുറയുക (past: കുറഞ്ഞു) | to decrease | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_017.mp3" data-audio-label="കുറയുക" aria-label="Play കുറയുക" title="Play കുറയുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_018.mp3" data-audio-label="കുറഞ്ഞു" aria-label="Play കുറഞ്ഞു" title="Play കുറഞ്ഞു" aria-pressed="false">▶ <span lang="ml">കുറഞ്ഞു</span></button> |
+| കുറഞ്ഞത് (noun) | that which is small (or lacking) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_019.mp3" data-audio-label="കുറഞ്ഞത്" aria-label="Play കുറഞ്ഞത്" title="Play കുറഞ്ഞത്" aria-pressed="false">▶</button> |
+| വണ്ണം കുറഞ്ഞത് | one who is thin | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_020.mp3" data-audio-label="വണ്ണം കുറഞ്ഞത്" aria-label="Play വണ്ണം കുറഞ്ഞത്" title="Play വണ്ണം കുറഞ്ഞത്" aria-pressed="false">▶</button> |
+| എൻജിനീയർ | Engineer | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_021.mp3" data-audio-label="എൻജിനീയർ" aria-label="Play എൻജിനീയർ" title="Play എൻജിനീയർ" aria-pressed="false">▶</button> |
+| വരൻ | bridegroom | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_022.mp3" data-audio-label="വരൻ" aria-label="Play വരൻ" title="Play വരൻ" aria-pressed="false">▶</button> |
+| അപേക്ഷ | application, request | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_023.mp3" data-audio-label="അപേക്ഷ" aria-label="Play അപേക്ഷ" title="Play അപേക്ഷ" aria-pressed="false">▶</button> |
+| ചോദിച്ചു കൊള്ളുക | to go ahead and ask | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_024.mp3" data-audio-label="ചോദിച്ചു കൊള്ളുക" aria-label="Play ചോദിച്ചു കൊള്ളുക" title="Play ചോദിച്ചു കൊള്ളുക" aria-pressed="false">▶</button> |
+| വ്യത്യസ്തം (noun) | different | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_025.mp3" data-audio-label="വ്യത്യസ്തം" aria-label="Play വ്യത്യസ്തം" title="Play വ്യത്യസ്തം" aria-pressed="false">▶</button> |
+| സ്നേഹിക്കുക | to love | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_026.mp3" data-audio-label="സ്നേഹിക്കുക" aria-label="Play സ്നേഹിക്കുക" title="Play സ്നേഹിക്കുക" aria-pressed="false">▶</button> |
+| തമ്മിൽ | between | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_028.mp3" data-audio-label="തമ്മിൽ" aria-label="Play തമ്മിൽ" title="Play തമ്മിൽ" aria-pressed="false">▶</button> |
+| വ്യത്യാസം | difference | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_029.mp3" data-audio-label="വ്യത്യാസം" aria-label="Play വ്യത്യാസം" title="Play വ്യത്യാസം" aria-pressed="false">▶</button> |
+| മനസ്സിലാക്കുക | to understand, comprehend | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_030.mp3" data-audio-label="മനസ്സിലാക്കുക" aria-label="Play മനസ്സിലാക്കുക" title="Play മനസ്സിലാക്കുക" aria-pressed="false">▶</button> |
+| അവരവർ | they themselves | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_031.mp3" data-audio-label="അവരവർ" aria-label="Play അവരവർ" title="Play അവരവർ" aria-pressed="false">▶</button> |
+| -- സാധിക്കുക | can --- | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_032.mp3" data-audio-label="സാധിക്കുക" aria-label="Play സാധിക്കുക" title="Play സാധിക്കുക" aria-pressed="false">▶</button> |
+| പറഞ്ഞയില്ല | never said, didn’t say | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_033.mp3" data-audio-label="പറഞ്ഞയില്ല" aria-label="Play പറഞ്ഞയില്ല" title="Play പറഞ്ഞയില്ല" aria-pressed="false">▶</button> |
+| ചില | some | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_034.mp3" data-audio-label="ചില" aria-label="Play ചില" title="Play ചില" aria-pressed="false">▶</button> |
+| അന്യോന്യം | mutual, each other | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_035.mp3" data-audio-label="അന്യോന്യം" aria-label="Play അന്യോന്യം" title="Play അന്യോന്യം" aria-pressed="false">▶</button> |
+| നില നിൽക്കുക | to endure, continue | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_036.mp3" data-audio-label="നില നിൽക്കുക" aria-label="Play നില നിൽക്കുക" title="Play നില നിൽക്കുക" aria-pressed="false">▶</button> |
+| എന്തുകൊണ്ടെന്നാൽ | for (the reason that), because | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_037.mp3" data-audio-label="എന്തുകൊണ്ടെന്നാൽ" aria-label="Play എന്തുകൊണ്ടെന്നാൽ" title="Play എന്തുകൊണ്ടെന്നാൽ" aria-pressed="false">▶</button> |
+| സമൂഹം | society, association, group | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_038.mp3" data-audio-label="സമൂഹം" aria-label="Play സമൂഹം" title="Play സമൂഹം" aria-pressed="false">▶</button> |
+| വിവാഹമോചനം | divorce | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_039.mp3" data-audio-label="വിവാഹമോചനം" aria-label="Play വിവാഹമോചനം" title="Play വിവാഹമോചനം" aria-pressed="false">▶</button> |
+| <!-- Source: PDF page 433; printed page 372. --> നേടുക (past: നേടി) | to obtain, gain | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_040.mp3" data-audio-label="നേടുക" aria-label="Play നേടുക" title="Play നേടുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_041.mp3" data-audio-label="നേടി" aria-label="Play നേടി" title="Play നേടി" aria-pressed="false">▶ <span lang="ml">നേടി</span></button> |
+| എതിർക്കുക (past: എതിർത്തു) | to oppose | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_042.mp3" data-audio-label="എതിർക്കുക" aria-label="Play എതിർക്കുക" title="Play എതിർക്കുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_043.mp3" data-audio-label="എതിർത്തു" aria-label="Play എതിർത്തു" title="Play എതിർത്തു" aria-pressed="false">▶ <span lang="ml">എതിർത്തു</span></button> |
+| --കാൾ (accusative) | than -- | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_044.mp3" data-audio-label="കാൾ" aria-label="Play കാൾ" title="Play കാൾ" aria-pressed="false">▶</button> |
+| -- കൂടാ | can’t, shouldn’t | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_045.mp3" data-audio-label="കൂടാ" aria-label="Play കൂടാ" title="Play കൂടാ" aria-pressed="false">▶</button> |
+| മറ്റ് (adj) | other, another | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_046.mp3" data-audio-label="മറ്റ്" aria-label="Play മറ്റ്" title="Play മറ്റ്" aria-pressed="false">▶</button> |
+| മറ്റൊരു (adj) | another | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_047.mp3" data-audio-label="മറ്റൊരു" aria-label="Play മറ്റൊരു" title="Play മറ്റൊരു" aria-pressed="false">▶</button> |
+| -- കഴിയുക | can -- | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_048.mp3" data-audio-label="കഴിയുക" aria-label="Play കഴിയുക" title="Play കഴിയുക" aria-pressed="false">▶</button> |
+| പരിചിതം (antonym: അപരിചിതം) | familiar | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_049.mp3" data-audio-label="പരിചിതം" aria-label="Play പരിചിതം" title="Play പരിചിതം" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_050.mp3" data-audio-label="അപരിചിതം" aria-label="Play അപരിചിതം" title="Play അപരിചിതം" aria-pressed="false">▶ <span lang="ml">അപരിചിതം</span></button> |
+| ഗുണം | good quality or attribute | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_051.mp3" data-audio-label="ഗുണം" aria-label="Play ഗുണം" title="Play ഗുണം" aria-pressed="false">▶</button> |
+| കുറവ് | deficiency, shortcoming | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_052.mp3" data-audio-label="കുറവ്" aria-label="Play കുറവ്" title="Play കുറവ്" aria-pressed="false">▶</button> |
+| ഉദാഹരണം | example | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_053.mp3" data-audio-label="ഉദാഹരണം" aria-label="Play ഉദാഹരണം" title="Play ഉദാഹരണം" aria-pressed="false">▶</button> |
+| ഏറ്റവും | most, much, exceeding | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_054.mp3" data-audio-label="ഏറ്റവും" aria-label="Play ഏറ്റവും" title="Play ഏറ്റവും" aria-pressed="false">▶</button> |
+| -- പറ്റുക | to be possible to --<br>to be able to -- | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_055.mp3" data-audio-label="പറ്റുക" aria-label="Play പറ്റുക" title="Play പറ്റുക" aria-pressed="false">▶</button> |
+| -- പാടില്ല | can’t, shouldn’t -- | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_056.mp3" data-audio-label="പാടില്ല" aria-label="Play പാടില്ല" title="Play പാടില്ല" aria-pressed="false">▶</button> |
+| തണുക്കുന്നു (past: തണുത്തു) | to be (feel) cold | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_057.mp3" data-audio-label="തണുക്കുന്നു" aria-label="Play തണുക്കുന്നു" title="Play തണുക്കുന്നു" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_058.mp3" data-audio-label="തണുത്തു" aria-label="Play തണുത്തു" title="Play തണുത്തു" aria-pressed="false">▶ <span lang="ml">തണുത്തു</span></button> |
+| തണുപ്പ് (noun) | cold (temperature) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_059.mp3" data-audio-label="തണുപ്പ്" aria-label="Play തണുപ്പ്" title="Play തണുപ്പ്" aria-pressed="false">▶</button> |
 
 <a id="lesson24-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice

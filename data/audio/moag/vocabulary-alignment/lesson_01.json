@@ -1,0 +1,846 @@
+{
+  "pipeline_version": 6,
+  "lesson": 1,
+  "source": "data/audio/moag/lesson_01.mp3",
+  "model": "Whisper large-v3 (32 encoder and 32 decoder layers), MLX",
+  "range_start": 43.24,
+  "range_end": 128.36,
+  "method": "Acoustic cepstrum comparison pairs repeated utterances independently of textbook order; large-v3 word end timestamps matched to pauses, then global spelling assignment against printed vocabulary (order is only a weak tie-breaker). Low-confidence labels require review. Raw recognizer text retained.",
+  "words": [
+    {
+      "utterances": [
+        {
+          "start": 44.1721,
+          "end": 44.8239
+        },
+        {
+          "start": 45.939,
+          "end": 46.6132
+        }
+      ],
+      "raw_texts": [
+        "ബീല്",
+        "ബീല്"
+      ],
+      "english_segments": [
+        {
+          "start": 43.24,
+          "end": 47.24,
+          "text": " bil"
+        }
+      ],
+      "transcript": "ബിൽ",
+      "meaning": "Bill",
+      "textbook_row": 1,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_01_word_001"
+    },
+    {
+      "utterances": [
+        {
+          "start": 47.6009,
+          "end": 48.2773
+        },
+        {
+          "start": 49.102,
+          "end": 49.8102
+        }
+      ],
+      "raw_texts": [
+        "രാമന്",
+        "രാമന്"
+      ],
+      "english_segments": [
+        {
+          "start": 47.24,
+          "end": 50.24,
+          "text": " raman"
+        }
+      ],
+      "transcript": "രാമൻ",
+      "meaning": "a male (Hindu) name",
+      "textbook_row": 2,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_01_word_002"
+    },
+    {
+      "utterances": [
+        {
+          "start": 50.8308,
+          "end": 51.6867
+        },
+        {
+          "start": 52.478,
+          "end": 53.3942
+        }
+      ],
+      "raw_texts": [
+        "നിങ്ങലുഡേ",
+        "നിങ്ങലുഡേ"
+      ],
+      "english_segments": [
+        {
+          "start": 50.24,
+          "end": 54.24,
+          "text": " ningal ude"
+        }
+      ],
+      "transcript": "നിങ്ങളുടെ",
+      "meaning": "your (polite)",
+      "textbook_row": 3,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_01_word_003"
+    },
+    {
+      "utterances": [
+        {
+          "start": 54.3681,
+          "end": 55.0184
+        },
+        {
+          "start": 55.9711,
+          "end": 56.6516
+        }
+      ],
+      "raw_texts": [
+        "പേര്",
+        "പേര്"
+      ],
+      "english_segments": [
+        {
+          "start": 54.24,
+          "end": 57.24,
+          "text": " per"
+        }
+      ],
+      "transcript": "പേര്",
+      "meaning": "name",
+      "textbook_row": 4,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_01_word_004"
+    },
+    {
+      "utterances": [
+        {
+          "start": 57.8424,
+          "end": 58.4692
+        },
+        {
+          "start": 59.7803,
+          "end": 60.431
+        }
+      ],
+      "raw_texts": [
+        "എന്ദ്",
+        "എന്ദ്"
+      ],
+      "english_segments": [
+        {
+          "start": 57.24,
+          "end": 60.24,
+          "text": " end"
+        }
+      ],
+      "transcript": "എന്ത്",
+      "meaning": "what?",
+      "textbook_row": 5,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_01_word_005"
+    },
+    {
+      "utterances": [
+        {
+          "start": 61.4948,
+          "end": 62.2118
+        },
+        {
+          "start": 63.0889,
+          "end": 63.8266
+        }
+      ],
+      "raw_texts": [
+        "എന്ദാ",
+        "എന്ദാ?"
+      ],
+      "english_segments": [
+        {
+          "start": 60.24,
+          "end": 85.88,
+          "text": " What? What? My? My? Today? Today? He? He? Who? Who? Is? Is? King? King? She? She?"
+        }
+      ],
+      "transcript": "എന്താ",
+      "meaning": "what is? (short for എന്താണ്)",
+      "textbook_row": 6,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_01_word_006"
+    },
+    {
+      "utterances": [
+        {
+          "start": 64.617,
+          "end": 65.3436
+        },
+        {
+          "start": 65.9106,
+          "end": 66.6028
+        }
+      ],
+      "raw_texts": [
+        "എന്ന്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 60.24,
+          "end": 85.88,
+          "text": " What? What? My? My? Today? Today? He? He? Who? Who? Is? Is? King? King? She? She?"
+        }
+      ],
+      "transcript": "എന്റെ",
+      "meaning": "my",
+      "textbook_row": 7,
+      "similarity": 0.667,
+      "status": "review",
+      "id": "lesson_01_word_007"
+    },
+    {
+      "utterances": [
+        {
+          "start": 67.6861,
+          "end": 68.5805
+        },
+        {
+          "start": 69.1213,
+          "end": 69.8114
+        }
+      ],
+      "raw_texts": [
+        "എന്ന്",
+        "എന്ന്"
+      ],
+      "english_segments": [
+        {
+          "start": 60.24,
+          "end": 85.88,
+          "text": " What? What? My? My? Today? Today? He? He? Who? Who? Is? Is? King? King? She? She?"
+        }
+      ],
+      "transcript": "എന്ന്",
+      "meaning": "Quotative or Citation Marker (placed after the quoted element)",
+      "textbook_row": 8,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_01_word_008"
+    },
+    {
+      "utterances": [
+        {
+          "start": 70.8551,
+          "end": 71.5071
+        },
+        {
+          "start": 72.6977,
+          "end": 73.3548
+        }
+      ],
+      "raw_texts": [
+        "അവൻ",
+        "അവൻ"
+      ],
+      "english_segments": [
+        {
+          "start": 60.24,
+          "end": 85.88,
+          "text": " What? What? My? My? Today? Today? He? He? Who? Who? Is? Is? King? King? She? She?"
+        }
+      ],
+      "transcript": "അവൻ",
+      "meaning": "he (inferior to speaker)",
+      "textbook_row": 9,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_01_word_009"
+    },
+    {
+      "utterances": [
+        {
+          "start": 74.2869,
+          "end": 74.9526
+        },
+        {
+          "start": 75.687,
+          "end": 76.3434
+        }
+      ],
+      "raw_texts": [
+        "ആര്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 60.24,
+          "end": 85.88,
+          "text": " What? What? My? My? Today? Today? He? He? Who? Who? Is? Is? King? King? She? She?"
+        }
+      ],
+      "transcript": "ആര്",
+      "meaning": "who?",
+      "textbook_row": 10,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_01_word_010"
+    },
+    {
+      "utterances": [
+        {
+          "start": 77.3652,
+          "end": 78.0498
+        },
+        {
+          "start": 78.9765,
+          "end": 79.6739
+        }
+      ],
+      "raw_texts": [
+        "ആണ്",
+        "ആണ്"
+      ],
+      "english_segments": [
+        {
+          "start": 60.24,
+          "end": 85.88,
+          "text": " What? What? My? My? Today? Today? He? He? Who? Who? Is? Is? King? King? She? She?"
+        }
+      ],
+      "transcript": "ആണ്",
+      "meaning": "is",
+      "textbook_row": 11,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_01_word_011"
+    },
+    {
+      "utterances": [
+        {
+          "start": 80.9525,
+          "end": 81.7011
+        },
+        {
+          "start": 82.4969,
+          "end": 83.574
+        }
+      ],
+      "raw_texts": [
+        "രാജൻ",
+        "രാജൻ"
+      ],
+      "english_segments": [
+        {
+          "start": 60.24,
+          "end": 85.88,
+          "text": " What? What? My? My? Today? Today? He? He? Who? Who? Is? Is? King? King? She? She?"
+        }
+      ],
+      "transcript": "രാജൻ",
+      "meaning": "a male name",
+      "textbook_row": 12,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_01_word_012"
+    },
+    {
+      "utterances": [
+        {
+          "start": 84.0693,
+          "end": 84.7252
+        },
+        {
+          "start": 85.492,
+          "end": 86.1183
+        }
+      ],
+      "raw_texts": [
+        "അവൽ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 60.24,
+          "end": 85.88,
+          "text": " What? What? My? My? Today? Today? He? He? Who? Who? Is? Is? King? King? She? She?"
+        }
+      ],
+      "transcript": "അവൾ",
+      "meaning": "she (inferior to speaker)",
+      "textbook_row": 13,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_01_word_013"
+    },
+    {
+      "utterances": [
+        {
+          "start": 86.9506,
+          "end": 87.5777
+        },
+        {
+          "start": 88.8205,
+          "end": 89.4142
+        }
+      ],
+      "raw_texts": [
+        "മണി",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 85.88,
+          "end": 104.6,
+          "text": " money money a day hum a day hum Thomas our Thomas our either either manga manga"
+        }
+      ],
+      "transcript": "മണി",
+      "meaning": "a female name",
+      "textbook_row": 14,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_01_word_014"
+    },
+    {
+      "utterances": [
+        {
+          "start": 90.2893,
+          "end": 91.1353
+        },
+        {
+          "start": 92.0941,
+          "end": 92.9171
+        }
+      ],
+      "raw_texts": [
+        "അദ്ദേഹം",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 85.88,
+          "end": 104.6,
+          "text": " money money a day hum a day hum Thomas our Thomas our either either manga manga"
+        }
+      ],
+      "transcript": "അദ്ദേഹം",
+      "meaning": "he (respected)",
+      "textbook_row": 15,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_01_word_015"
+    },
+    {
+      "utterances": [
+        {
+          "start": 94.1002,
+          "end": 95.0104
+        },
+        {
+          "start": 96.2035,
+          "end": 97.0798
+        }
+      ],
+      "raw_texts": [
+        "തോമസ്സാർ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 85.88,
+          "end": 104.6,
+          "text": " money money a day hum a day hum Thomas our Thomas our either either manga manga"
+        }
+      ],
+      "transcript": "തോമസ്സാർ",
+      "meaning": "Mr. Thomas",
+      "textbook_row": 16,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_01_word_016"
+    },
+    {
+      "utterances": [
+        {
+          "start": 98.4127,
+          "end": 98.9679
+        },
+        {
+          "start": 100.2915,
+          "end": 100.8648
+        }
+      ],
+      "raw_texts": [
+        "ഇത്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 85.88,
+          "end": 104.6,
+          "text": " money money a day hum a day hum Thomas our Thomas our either either manga manga"
+        }
+      ],
+      "transcript": "ഇത്",
+      "meaning": "this (thing)",
+      "textbook_row": 17,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_01_word_017"
+    },
+    {
+      "utterances": [
+        {
+          "start": 102.4825,
+          "end": 103.2103
+        },
+        {
+          "start": 104.2264,
+          "end": 104.9882
+        }
+      ],
+      "raw_texts": [
+        "മാങ്ങ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 85.88,
+          "end": 104.6,
+          "text": " money money a day hum a day hum Thomas our Thomas our either either manga manga"
+        },
+        {
+          "start": 104.6,
+          "end": 114.1,
+          "text": " pangam pustagam"
+        }
+      ],
+      "transcript": "മാങ്ങ",
+      "meaning": "mango",
+      "textbook_row": 19,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_01_word_018"
+    },
+    {
+      "utterances": [
+        {
+          "start": 106.311,
+          "end": 106.98
+        },
+        {
+          "start": 108.3898,
+          "end": 109.029
+        }
+      ],
+      "raw_texts": [
+        "പള്ളമ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 104.6,
+          "end": 114.1,
+          "text": " pangam pustagam"
+        }
+      ],
+      "transcript": "പഴം",
+      "meaning": "banana",
+      "textbook_row": 21,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_01_word_019"
+    },
+    {
+      "utterances": [
+        {
+          "start": 110.0649,
+          "end": 110.8195
+        },
+        {
+          "start": 111.8991,
+          "end": 112.6261
+        }
+      ],
+      "raw_texts": [
+        "പുസ്തഗം",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 104.6,
+          "end": 114.1,
+          "text": " pangam pustagam"
+        }
+      ],
+      "transcript": "പുസ്തകം",
+      "meaning": "book",
+      "textbook_row": 22,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_01_word_020"
+    },
+    {
+      "utterances": [
+        {
+          "start": 113.8571,
+          "end": 114.5788
+        },
+        {
+          "start": 115.3651,
+          "end": 116.1172
+        }
+      ],
+      "raw_texts": [
+        "ബുക്ക്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 114.1,
+          "end": 120.04,
+          "text": " bukku pena"
+        }
+      ],
+      "transcript": "ബുക്ക്",
+      "meaning": "book, notebook",
+      "textbook_row": 23,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_01_word_021"
+    },
+    {
+      "utterances": [
+        {
+          "start": 116.8659,
+          "end": 117.5099
+        },
+        {
+          "start": 118.412,
+          "end": 119.0686
+        }
+      ],
+      "raw_texts": [
+        "പേന",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 114.1,
+          "end": 120.04,
+          "text": " bukku pena"
+        }
+      ],
+      "transcript": "പേന",
+      "meaning": "pen",
+      "textbook_row": 24,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_01_word_022"
+    },
+    {
+      "utterances": [
+        {
+          "start": 119.7797,
+          "end": 120.5515
+        },
+        {
+          "start": 121.4054,
+          "end": 122.1696
+        }
+      ],
+      "raw_texts": [
+        "മേശ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 114.1,
+          "end": 120.04,
+          "text": " bukku pena"
+        },
+        {
+          "start": 120.04,
+          "end": 128.36,
+          "text": " mesha kasera"
+        }
+      ],
+      "transcript": "മേശ",
+      "meaning": "table",
+      "textbook_row": 25,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_01_word_023"
+    },
+    {
+      "utterances": [
+        {
+          "start": 122.9029,
+          "end": 123.7
+        },
+        {
+          "start": 124.5002,
+          "end": 125.2823
+        }
+      ],
+      "raw_texts": [
+        "കസേര",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 120.04,
+          "end": 128.36,
+          "text": " mesha kasera"
+        }
+      ],
+      "transcript": "കസേര",
+      "meaning": "chair",
+      "textbook_row": 26,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_01_word_024"
+    }
+  ],
+  "textbook_vocabulary": [
+    {
+      "malayalam": "ശരി",
+      "meaning": "okay, fine, good"
+    },
+    {
+      "malayalam": "ബിൽ",
+      "meaning": "Bill"
+    },
+    {
+      "malayalam": "രാമൻ",
+      "meaning": "a male (Hindu) name"
+    },
+    {
+      "malayalam": "നിങ്ങളുടെ",
+      "meaning": "your (polite)"
+    },
+    {
+      "malayalam": "പേര്",
+      "meaning": "name"
+    },
+    {
+      "malayalam": "എന്ത്",
+      "meaning": "what?"
+    },
+    {
+      "malayalam": "എന്താ",
+      "meaning": "what is? (short for എന്താണ്)"
+    },
+    {
+      "malayalam": "എന്റെ",
+      "meaning": "my"
+    },
+    {
+      "malayalam": "എന്ന്",
+      "meaning": "Quotative or Citation Marker (placed after the quoted element)"
+    },
+    {
+      "malayalam": "അവൻ",
+      "meaning": "he (inferior to speaker)"
+    },
+    {
+      "malayalam": "ആര്",
+      "meaning": "who?"
+    },
+    {
+      "malayalam": "ആണ്",
+      "meaning": "is"
+    },
+    {
+      "malayalam": "രാജൻ",
+      "meaning": "a male name"
+    },
+    {
+      "malayalam": "അവൾ",
+      "meaning": "she (inferior to speaker)"
+    },
+    {
+      "malayalam": "മണി",
+      "meaning": "a female name"
+    },
+    {
+      "malayalam": "അദ്ദേഹം",
+      "meaning": "he (respected)"
+    },
+    {
+      "malayalam": "തോമസ്സാർ",
+      "meaning": "Mr. Thomas"
+    },
+    {
+      "malayalam": "ഇത്",
+      "meaning": "this (thing)"
+    },
+    {
+      "malayalam": "ഇത് എന്താ?",
+      "meaning": "What is this?"
+    },
+    {
+      "malayalam": "മാങ്ങ",
+      "meaning": "mango"
+    },
+    {
+      "malayalam": "അത്",
+      "meaning": "that (thing)"
+    },
+    {
+      "malayalam": "പഴം",
+      "meaning": "banana"
+    },
+    {
+      "malayalam": "പുസ്തകം",
+      "meaning": "book"
+    },
+    {
+      "malayalam": "ബുക്ക്",
+      "meaning": "book, notebook"
+    },
+    {
+      "malayalam": "പേന",
+      "meaning": "pen"
+    },
+    {
+      "malayalam": "മേശ",
+      "meaning": "table"
+    },
+    {
+      "malayalam": "കസേര",
+      "meaning": "chair"
+    }
+  ],
+  "unmatched_textbook_rows": [
+    {
+      "index": 0,
+      "malayalam": "ശരി",
+      "meaning": "okay, fine, good"
+    },
+    {
+      "index": 18,
+      "malayalam": "ഇത് എന്താ?",
+      "meaning": "What is this?"
+    },
+    {
+      "index": 20,
+      "malayalam": "അത്",
+      "meaning": "that (thing)"
+    }
+  ],
+  "recognition_sha256": "3530c1cd1dac5759d9204ebaafdead99b47692c55af2a6cadf793b1adb9cd4a9",
+  "boundary_sha256": "bf52f01e48d5b85b18c9a64efc8afe5b061a403b06a98948172e536809c3684f"
+}

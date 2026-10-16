@@ -1,0 +1,171 @@
+id,lesson,previous_transcript,current_transcript,previous_status,current_status,previous_start,previous_end,start,end,audio_changed,reviewer,placement
+lesson_03_word_001,3,ഉണ്ട്,ഉണ്ട്,review,matched,38.1628,40.7468,38.1628,40.7468,False,user,vocabulary
+lesson_03_word_005,3,കൈയിൽ ഉണ്ട്,കൈയിൽ,review,matched,52.3138,54.5919,52.3138,54.5919,False,user,additional_vocabulary
+lesson_03_word_011,3,ഇപ്പോൾ വരും,ഇപ്പോൾ,review,matched,74.0956,76.7507,74.0956,76.7507,False,user,additional_vocabulary
+lesson_03_word_012,3,നമസ്കാരം,നമസ്കാരം,review,matched,77.6111,80.501,77.6111,80.501,False,user,additional_vocabulary
+lesson_03_word_018,3,അഞ്ച്,അഞ്ച്,review,matched,99.8633,102.5276,99.8633,102.5276,False,user,vocabulary
+lesson_03_word_019,3,ഞങ്ങൾ,ഞങ്ങൾ,review,matched,103.0507,105.5376,103.0507,105.5376,False,user,vocabulary
+lesson_03_word_024,3,ഉം,ഉം,review,matched,121.546,125.2391,121.546,125.2391,False,user,vocabulary
+lesson_04_word_001,4,ഒരു,ഒരു,review,matched,60.0737,62.3778,60.0737,62.3778,False,user,vocabulary
+lesson_05_word_001,5,കൃഷ്ണൻ,കൃഷ്ണൻ,review,matched,15.8215,18.5648,15.8215,18.5648,False,user,vocabulary
+lesson_05_word_003,5,Unclear word,ഇരിക്കുന്നു,untranscribed,matched,23.9385,26.9831,23.9385,26.9831,False,user,vocabulary
+lesson_05_word_004,5,ചെയ്യുന്നു,ചെയ്യുന്നു,review,matched,29.159,32.1349,29.159,32.1349,False,user,vocabulary
+lesson_05_word_005,5,വായിക്കുന്നു,പഠിക്കുന്നു,review,matched,33.4417,36.1814,33.4417,36.1814,False,user,vocabulary
+lesson_05_word_006,5,ഇരിക്കുന്നു,വായിക്കുന്നു,matched,matched,37.8727,41.3369,37.8727,41.3369,False,automated,vocabulary
+lesson_05_word_010,5,ഇല്ലേ,ഇല്ല,matched,matched,54.7818,57.2565,54.7818,57.2565,False,automated,vocabulary
+lesson_05_word_011,5,ചെയ്യുന്നു,ഇല്ലേ?,review,matched,58.8817,61.6879,58.8817,61.6879,False,user,vocabulary
+lesson_06_word_022,6,നോക്കാം,നോക്കാം,review,matched,235.0595,237.854,235.0595,237.854,False,user,vocabulary
+lesson_07_word_005,7,കുറച്ച് കഴിഞ്ഞ്,കുറച്ച്,review,matched,343.1005,345.2605,343.1005,345.2605,False,user,additional_vocabulary
+lesson_09_word_004,9,ചേരും,ചേച്ചിയുടേത്,review,matched,133.6094,136.3982,133.6094,136.3982,False,automated,vocabulary
+lesson_09_word_005,9,നന്നായിരിക്കുന്നു,നന്നായിരിക്കുന്നു,review,matched,138.802,141.8199,138.802,141.8199,False,user,vocabulary
+lesson_09_word_018,9,കൂട്ടുകാരൻ,കൂട്ടുകാരി,matched,matched,187.6933,190.3673,187.6933,190.3673,False,automated,vocabulary
+lesson_09_word_019,9,കൂട്ടുകാരി,കൂട്ടുകാരൻ,matched,matched,192.5687,195.06,192.5687,195.06,False,automated,vocabulary
+lesson_09_word_024,9,ചേരും,ചേരും,review,matched,212.8136,215.1742,212.8136,215.1742,False,user,vocabulary
+lesson_10_word_014,10,കിഴക്കേ,കിഴക്ക്,review,matched,53.788,56.1207,53.788,56.1207,False,automated,vocabulary
+lesson_10_word_015,10,കിഴക്ക്,കിഴക്കേ,matched,matched,56.5877,59.7054,56.5877,59.7054,False,automated,vocabulary
+lesson_10_word_027,10,അറ്റം,വടക്കേ,matched,matched,102.2312,105.2201,102.2312,105.2201,False,automated,vocabulary
+lesson_10_word_028,10,വടക്കേ,അറ്റം,review,matched,106.044,108.3175,106.044,108.3175,False,automated,vocabulary
+lesson_10_word_035,10,യാത്ര ചെയ്യുക,ട്രെയിൻ,review,matched,133.5687,136.9943,133.5687,136.9943,False,automated,vocabulary
+lesson_11_word_005,11,എന്ദിന്ന് ആയച്ച്ച്ച്,എന്തിനാണ്,review,matched,129.3911,133.6323,129.3911,133.6323,False,automated,additional_vocabulary
+lesson_11_word_006,11,എന്തിനാണ് അയച്ചത്?,അയച്ചത്,matched,matched,134.5345,139.4469,134.5345,139.4469,False,automated,additional_vocabulary
+lesson_11_word_011,11,അത്ര,അത്ര,matched,matched,161.3335,162.1232,161.2,164.7,True,automated,original_entry
+lesson_12_word_013,12,വീണ്ടും,പിന്നെയും,review,matched,293.5133,296.4931,293.5133,296.4931,False,user,additional_vocabulary
+lesson_12_word_015,12,ഇന്ന്,ഇന്ന്,review,matched,301.9961,304.594,301.9961,304.594,False,user,additional_vocabulary
+lesson_12_word_024,12,ആയിരിക്കും,കുട്ടികൾ,review,matched,341.8723,344.8299,341.8723,344.8299,False,user,vocabulary
+lesson_13_word_033,13,ഒട്ടിച്ചു,ഒട്ടിച്ചു,review,matched,220.0633,224.0344,220.0633,224.0344,False,user,vocabulary
+lesson_14_word_003,14,ഒറ്റ,ഒറ്റ,review,matched,191.9479,194.5037,191.9479,194.5037,False,user,vocabulary
+lesson_14_word_010,14,ചരമം,രംഗം,review,matched,220.7338,223.5139,220.7338,223.5139,False,automated,vocabulary
+lesson_14_word_013,14,നിരിയാണം,നിര്യാണം,review,matched,233.817,236.8999,233.817,236.8999,False,automated,additional_vocabulary
+lesson_14_word_024,14,പരസ്യം,പ്രസംഗം,matched,matched,280.1365,282.9909,280.1365,282.9909,False,automated,vocabulary
+lesson_14_word_049,14,പറ്റി,പറ്റി,review,matched,398.2804,401.1957,398.2804,401.1957,False,user,vocabulary
+lesson_14_word_050,14,പറ്റിയുള്ള,പറ്റിയുള്ള,review,matched,402.0783,406.1512,402.0783,406.1512,False,user,vocabulary
+lesson_15_word_005,15,കയറുക,അയക്കുക,review,matched,81.4376,85.0411,81.4376,85.0411,False,automated,additional_vocabulary
+lesson_15_word_012,15,കയറുക,കയറുക,review,matched,121.2262,127.6319,121.2262,127.6319,False,user,vocabulary
+lesson_15_word_017,15,മുക്കാൽ മണിക്കൂർ,സ്ത്രീ,review,matched,145.88,148.8232,145.88,148.8232,False,automated,vocabulary
+lesson_15_word_018,15,സന്തോഷം,സന്തോഷം,review,matched,150.3507,153.5543,150.3507,153.5543,False,user,vocabulary
+lesson_15_word_019,15,സന്തോഷം,വളരെ സന്തോഷം,review,matched,155.4265,159.2847,155.4265,159.2847,False,user,additional_vocabulary
+lesson_15_word_021,15,ആയി,വളരെ സന്തോഷമായി,matched,matched,161.1528,166.2576,161.1528,166.2576,False,automated,additional_vocabulary
+lesson_15_word_022,15,എനിക്ക്,കണ്ടതിൽ വളരെ സന്തോഷം,review,matched,167.7178,173.2795,167.7178,173.2795,False,user,vocabulary
+lesson_15_word_023,15,കണ്ടതിൽ വളരെ സന്തോഷം,എനിക്ക് കണ്ടതിൽ വളരെ സന്തോഷമായി,matched,matched,175.2697,182.0918,175.2697,182.0918,False,automated,vocabulary
+lesson_15_word_028,15,എനിക്ക്,എനിക്ക് ആഗ്രഹമുണ്ട്,review,matched,206.3732,211.2896,206.3732,211.2896,False,user,vocabulary
+lesson_15_word_029,15,വിട്ടുപോയി,ഈ സമയത്ത്,review,matched,213.3225,217.3399,213.3225,217.3399,False,user,vocabulary
+lesson_15_word_030,15,വിട്ടുപോയ,വിട്ടുപോകുക,review,matched,219.1713,223.2539,219.1713,223.2539,False,user,vocabulary
+lesson_15_word_031,15,ഈ സമയത്ത്,വിട്ടുപോയി,review,matched,225.0002,228.6361,225.0002,228.6361,False,user,vocabulary
+lesson_15_word_032,15,വിട്ടുപോയ,വിട്ടുപോയ,review,matched,230.3524,234.4685,230.3524,234.4685,False,user,vocabulary
+lesson_15_word_034,15,വിട്ടുപോകുക,തോന്നുക,review,matched,241.7804,245.2767,241.7804,245.2767,False,automated,vocabulary
+lesson_15_word_037,15,തോന്നുക,പിന്നെ ആകട്ടെ,review,matched,256.4815,260.7179,256.4815,260.7179,False,user,additional_vocabulary
+lesson_16_word_003,16,എല്ലാ ---ഉം,എന്നും,review,matched,21.6578,24.2847,21.6578,24.2847,False,user,vocabulary
+lesson_16_word_005,16,ദിനം,ദിനം,review,matched,28.6645,31.0633,28.6645,31.0633,False,user,vocabulary
+lesson_16_word_006,16,ദിനപ്പത്രം,ദിനപ്പത്രം,review,matched,32.2438,35.3346,32.2438,35.3346,False,user,vocabulary
+lesson_16_word_010,16,ഇവിടുത്തെ,അവിടുത്തെ,matched,matched,52.0242,55.2867,52.0242,55.2867,False,automated,vocabulary
+lesson_16_word_011,16,അവിടുത്തെ,ഇവിടുത്തെ,matched,matched,56.4804,59.7502,56.4804,59.7502,False,automated,vocabulary
+lesson_16_word_015,16,സാധാരണയായി,സാധാരണ,matched,matched,75.7792,76.8357,75.7792,76.8357,False,automated,vocabulary
+lesson_16_word_016,16,സാധാരണ,സാധാരണയായി,matched,matched,78.2336,82.0858,78.2336,82.0858,False,automated,vocabulary
+lesson_16_word_020,16,ഏത്--- ഉം,ഏത്,review,matched,97.4779,99.8508,97.4779,99.8508,False,user,additional_vocabulary
+lesson_16_word_021,16,എന്നും,ഏതും,matched,matched,101.1797,103.7426,101.1797,103.7426,False,automated,additional_vocabulary
+lesson_16_word_029,16,വിൽക്കുക,എഴുതുക,review,matched,132.49,134.9875,132.49,134.9875,False,automated,additional_vocabulary
+lesson_16_word_030,16,ഏ--ഉള്ളു,എഴുതി,review,matched,135.8716,138.016,135.8716,138.016,False,automated,additional_vocabulary
+lesson_16_word_032,16,ഇൻഡ്യ,ഇൻഡ്യ,review,matched,142.6409,145.1008,142.6409,145.1008,False,user,vocabulary
+lesson_16_word_036,16,വിൽക്കുക,വിൽക്കുക,review,matched,160.059,162.4463,160.059,162.4463,False,user,vocabulary
+lesson_16_word_040,16,ദിനം,ഇന്ത്യൻ എക്സ്പ്രസ്,review,matched,174.6148,178.0312,174.6148,178.0312,False,user,additional_vocabulary
+lesson_16_word_049,16,സ്ഥലം,സ്ഥലം,review,matched,212.1686,214.6961,212.1686,214.6961,False,user,vocabulary
+lesson_17_word_003,17,മകളു,മകൾ,review,matched,23.0922,25.638,23.0922,25.638,False,user,additional_vocabulary
+lesson_17_word_006,17,വലിയ ഇഷ്ടമാണ്,കല്യാണിയമ്മ,review,matched,35.2654,38.9257,35.2654,38.9257,False,user,additional_vocabulary
+lesson_17_word_015,17,ജേയുക്ക്,ചെയ്യുക,review,matched,75.4184,78.4017,75.4184,78.4017,False,user,additional_vocabulary
+lesson_17_word_016,17,ആട്ടെ,ആട്ടെ,review,matched,79.6851,82.5408,79.6851,82.5408,False,user,vocabulary
+lesson_17_word_022,17,കാണുന്നു,കൂട്ടുകാരൻ,review,matched,106.9842,110.6466,106.9842,110.6466,False,user,additional_vocabulary
+lesson_17_word_023,17,കൂട്ടുകാരി,കൂട്ടുകാരി,review,matched,112.3757,116.0573,112.3757,116.0573,False,user,additional_vocabulary
+lesson_17_word_029,17,ഉണ്ട്,പത്തര,review,matched,140.2347,143.0757,140.2347,143.0757,False,user,additional_vocabulary
+lesson_18_word_020,18,നാല് ഫർലാംഗാണ് ഉള്ളത്,നാല് ഫർലാംഗാണ്,matched,matched,102.063,106.7878,102.063,106.7878,False,automated,additional_vocabulary
+lesson_18_word_021,18,വീഴാതെ നോക്കണേ!,നാല് ഫർലാംഗാണ് ഉള്ളത്,review,matched,108.524,113.8058,108.524,113.8058,False,user,vocabulary
+lesson_19_word_001,19,മാനേജർ,മാനേജർ,review,matched,18.2831,18.9961,18.2831,18.9961,False,user,vocabulary
+lesson_19_word_013,19,ഇറങ്ങി,ഇറങ്ങി,review,matched,73.6577,76.3915,73.6577,76.3915,False,user,vocabulary
+lesson_19_word_015,19,ഇറങ്ങി,കാരണങ്ങൾ,review,matched,82.7234,85.7203,82.7234,85.7203,False,user,additional_vocabulary
+lesson_19_word_016,19,ില്ലാത്തത് കൊണ്ട്,ഓരോ കാരണങ്ങൾ,review,matched,87.1207,90.9152,87.1207,90.9152,False,user,vocabulary
+lesson_19_word_018,19,നാനാണ്റ,ഞാനാണ്,review,matched,96.6489,99.9691,96.6489,99.9691,False,user,additional_vocabulary
+lesson_19_word_022,19,ഓരോ കാരണങ്ങൾ,ഇല്ലാത്തത് കൊണ്ട്,review,matched,117.8451,121.7653,117.8451,121.7653,False,automated,additional_vocabulary
+lesson_19_word_023,19,വിശ്വാസം,വിശ്വാസം,review,matched,123.4558,126.0246,123.4558,126.0246,False,user,vocabulary
+lesson_19_word_024,19,ഭയങ്കര,അയാളെ,review,matched,127.6379,129.6124,127.6379,129.6124,False,user,additional_vocabulary
+lesson_19_word_025,19,എനിക്ക്,എനിക്ക്,review,matched,130.17,132.1971,130.17,132.1971,False,user,additional_vocabulary
+lesson_19_word_026,19,വിശ്വാസം,വിശ്വാസമുണ്ട്,review,matched,132.9751,135.7209,132.9751,135.7209,False,user,additional_vocabulary
+lesson_19_word_028,19,മാറ്റി,മടി,matched,matched,141.7104,143.2769,141.7104,143.2769,False,automated,vocabulary
+lesson_19_word_031,19,ജോലി ചെയ്യാൻ മടിയാണ്,മടിയാണ്,review,matched,150.178,152.5496,150.178,152.5496,False,user,vocabulary
+lesson_19_word_032,19,ചെയ്യാമേ,ജോലി ചെയ്യാൻ,matched,matched,154.0703,157.2298,154.0703,157.2298,False,automated,additional_vocabulary
+lesson_19_word_033,19,മടിയാണ്,ജോലി ചെയ്യാൻ മടിയാണ്,matched,matched,158.5309,163.4753,158.5309,163.4753,False,automated,vocabulary
+lesson_19_word_035,19,ഇനിയും,ഇനിയും,review,matched,170.9465,173.0293,170.9465,173.0293,False,user,additional_vocabulary
+lesson_19_word_036,19,മുദല,മുതൽ,review,matched,173.9152,175.752,173.9152,175.752,False,user,additional_vocabulary
+lesson_19_word_039,19,മാറ്റുക,മാറ്റുക,review,matched,185.0894,187.7603,185.0894,187.7603,False,user,vocabulary
+lesson_19_word_040,19,മടി,മാറ്റി,matched,matched,188.884,191.2245,188.884,191.2245,False,automated,vocabulary
+lesson_19_word_041,19,സ്ഥലം സ്ഥലം,സ്ഥലം,review,matched,192.7316,194.7781,192.7316,194.7781,False,user,additional_vocabulary
+lesson_19_word_042,19,മാറ്റുക,സ്ഥലം മാറ്റുക,review,matched,195.8708,199.0416,195.8708,199.0416,False,user,vocabulary
+lesson_19_word_043,19,Unclear word,എനിക്ക്,untranscribed,matched,200.4995,203.0158,200.4995,203.0158,False,user,additional_vocabulary
+lesson_19_word_044,19,എനിക്ക് നിങ്ങളെ സ്ഥലം മാറ്റേണ്ടതായി വരും,നിങ്ങളെ,review,matched,204.3863,206.9459,204.3863,206.9459,False,user,additional_vocabulary
+lesson_19_word_045,19,സ്ഥലം മാറ്റുക,സ്ഥലം മാറ്റേണ്ടതായി,matched,matched,208.4132,212.3883,208.4132,212.3883,False,automated,additional_vocabulary
+lesson_19_word_046,19,എനിക്ക്,വരും,review,matched,213.0635,214.681,213.0635,214.681,False,user,additional_vocabulary
+lesson_19_word_047,19,സ്ഥലം മാറ്റരുതേ,എനിക്ക് നിങ്ങളെ സ്ഥലം മാറ്റേണ്ടതായി വരും,matched,matched,216.0074,226.1277,216.0074,226.1277,False,automated,vocabulary
+lesson_19_word_048,19,മാറ്റുക,സ്ഥലം മാറ്റരുതേ,review,matched,229.3964,233.5103,229.3964,233.5103,False,user,vocabulary
+lesson_19_word_049,19,എനിക്ക്,ചെയ്യാമേ,review,matched,234.5564,237.4962,234.5564,237.4962,False,user,vocabulary
+lesson_20_word_006,20,പണ്ട്,പണ്ട്,review,matched,127.8332,129.7717,127.8332,129.7717,False,user,vocabulary
+lesson_20_word_014,20,കീഴടക്കുക,കീഴടക്കുക,review,matched,155.8215,158.8696,155.8215,158.8696,False,user,vocabulary
+lesson_20_word_022,20,ആഘോഷം,ആകാശം,review,matched,182.6012,185.1895,182.6012,185.1895,False,automated,vocabulary
+lesson_20_word_024,20,ആകാശം,വളരുക,matched,matched,191.1008,193.3452,191.1008,193.3452,False,automated,vocabulary
+lesson_20_word_030,20,ഭൂമി,ഭൂമി,review,matched,210.8861,212.6811,210.8861,212.6811,False,user,vocabulary
+lesson_20_word_034,20,ആണ്ട്,ആണ്ട്,review,matched,227.4819,229.4167,227.4819,229.4167,False,user,vocabulary
+lesson_20_word_039,20,ആണ്ട്,ആഘോഷിക്കുക,review,matched,246.4775,250.0794,246.4775,250.0794,False,user,additional_vocabulary
+lesson_20_word_040,20,ഭൂമി,ആഘോഷിച്ചു,review,matched,251.2602,254.5733,251.2602,254.5733,False,user,additional_vocabulary
+lesson_20_word_042,20,ആഘോഷം,ആഘോഷം,review,matched,259.5176,261.9755,259.5176,261.9755,False,user,vocabulary
+lesson_20_word_043,20,ആഘോഷിക്കപ്പെട്ടു,ആഘോഷിക്കപ്പെടുക,matched,matched,263.0911,267.1158,263.0911,267.1158,False,automated,vocabulary
+lesson_20_word_044,20,Unclear word,ആഘോഷിക്കപ്പെട്ടു,untranscribed,matched,268.7223,273.173,268.7223,273.173,False,user,vocabulary
+lesson_20_word_046,20,ഉണ്ടു,ഉണ്ടു,review,matched,277.4192,279.3366,277.4192,279.3366,False,user,vocabulary
+lesson_20_word_067,20,വളരുക,വള്ളംകളി,review,matched,358.7967,362.4402,358.7967,362.4402,False,user,additional_vocabulary
+lesson_20_word_077,20,ഹിന്ദുക്കൾ,ഹിന്ദു,matched,matched,398.2525,400.5773,398.2525,400.5773,False,automated,vocabulary
+lesson_20_word_078,20,ഹിന്ദു,ഹിന്ദുക്കൾ,matched,matched,401.5536,404.6249,401.5536,404.6249,False,automated,vocabulary
+lesson_20_word_079,20,മുസ്ലീങ്ങൾ,മുസ്ലീം,matched,matched,405.8496,408.484,405.8496,408.484,False,automated,vocabulary
+lesson_20_word_080,20,മുസ്ലീം,മുസ്ലീങ്ങൾ,matched,matched,409.8286,412.5591,409.8286,412.5591,False,automated,vocabulary
+lesson_20_word_081,20,ക്രിസ്ത്യാനി,ക്രിസ്ത്യാനി,review,matched,413.781,416.9272,413.781,416.9272,False,user,vocabulary
+lesson_21_word_001,21,കം,ഇംഗ്ലീഷ്,matched,matched,141.3296,144.1698,141.3296,144.1698,False,automated,vocabulary
+lesson_21_word_002,21,ഇംഗ്ലീഷ്,അകം,review,matched,145.29,147.6753,145.29,147.6753,False,automated,additional_vocabulary
+lesson_21_word_014,21,ആയിരിക്കണം,അറിയാമായിരിക്കാം,review,matched,198.1028,202.5608,198.1028,202.5608,False,user,vocabulary
+lesson_21_word_018,21,വിപരീതപദം,ദുഃഖം,review,matched,218.5621,220.7472,218.5621,220.7472,False,user,vocabulary
+lesson_21_word_019,21,വിപരീതപദം,വിപരീതപദം,review,matched,221.6344,225.5213,221.6344,225.5213,False,,original_entry
+lesson_21_word_021,21,പ്രസന്നത,ആയിരിക്കണം,matched,matched,230.101,233.3516,230.101,233.3516,False,automated,vocabulary
+lesson_21_word_022,21,പ്രസന്നതയില്ലാത്തത്,പ്രസന്നത,review,matched,234.6883,237.9269,234.6883,237.9269,False,user,vocabulary
+lesson_21_word_023,21,പ്രസന്നതയില്ലാത്തത്,പ്രസന്നതയില്ലാത്തത്,review,matched,239.5282,245.6848,239.5282,245.6848,False,user,vocabulary
+lesson_21_word_027,21,പഠിച്ചു കഴിയുക,കഴിയുക,review,matched,267.8875,270.4645,267.8875,270.4645,False,user,vocabulary
+lesson_21_word_028,21,കഴിയുക,പഠിച്ചു കഴിയുക,review,matched,271.147,274.9369,271.147,274.9369,False,user,vocabulary
+lesson_21_word_031,21,വിഷമിക്കുക,വിഷമിക്കുക,review,matched,286.4649,289.3923,286.4649,289.3923,False,user,vocabulary
+lesson_21_word_038,21,തിന്നുക,ഉടൻ,review,matched,316.7098,318.829,316.7098,318.829,False,user,vocabulary
+lesson_21_word_044,21,ഊണ്,ഊണ്,review,matched,339.7814,342.1702,339.7814,342.1702,False,user,vocabulary
+lesson_22_word_004,22,കിടപ്പുണ്ട്,കിടക്കുക,review,matched,33.1537,37.8727,33.1537,37.8727,False,user,vocabulary
+lesson_22_word_007,22,കിടക്കുക,ഞാൻ എപ്പോൾ വന്നാലും,matched,matched,51.0514,56.771,51.0514,56.771,False,automated,vocabulary
+lesson_22_word_017,22,പിടിക്കുക,പിടിക്കുക,review,matched,103.4785,106.8551,103.4785,106.8551,False,user,vocabulary
+lesson_22_word_048,22,ഭയങ്കര,ഇതിന്റെ ഫലമായി,review,matched,253.3744,257.7276,253.3744,257.7276,False,user,vocabulary
+lesson_22_word_053,22,വേണ്ടി,വേണ്ടി,review,matched,280.2539,283.1909,280.2539,283.1909,False,user,vocabulary
+lesson_23_word_004,23,കാഴ്ച,ഉണ്ടായിരുന്നെങ്കിൽ,review,matched,216.4381,221.0777,216.4381,221.0777,False,user,additional_vocabulary
+lesson_23_word_005,23,ആയ്രണു,ആയിരുന്നു,review,matched,223.5685,227.0038,223.5685,227.0038,False,automated,additional_vocabulary
+lesson_23_word_006,23,ഉണ്ടായിരുന്നെങ്കിൽ ---ആയിരുന്നു,വിറ്റാൽ,review,matched,228.9469,232.6197,228.9469,232.6197,False,user,additional_vocabulary
+lesson_23_word_007,23,വിറ്റാൽ മതിയായിരുന്നു,മതിയായിരുന്നു,matched,matched,234.6034,238.6587,234.6034,238.6587,False,automated,additional_vocabulary
+lesson_23_word_018,23,കൂടി,കാഴ്ച,review,matched,292.6198,295.8894,292.6198,295.8894,False,user,vocabulary
+lesson_23_word_023,23,തിരിക്കുക,തിരിക്കുക,review,matched,318.0707,321.6294,318.0707,321.6294,False,user,vocabulary
+lesson_23_word_054,23,ചെയ്തേക്കാം,ചെയ്തേക്കാം,review,matched,504.2454,507.9446,504.2454,507.9446,False,user,vocabulary
+lesson_24_word_005,24,കിടപ്പുമുറി,കിടപ്പുമുറി,review,matched,256.4739,260.0002,256.4739,260.0002,False,user,vocabulary
+lesson_24_word_006,24,കിടപ്പുമുറി,അപേക്ഷിക്കുക,review,matched,261.382,265.0129,261.382,265.0129,False,user,vocabulary
+lesson_24_word_011,24,നേഴ്സ്,നേരിൽ,matched,matched,287.1036,290.4301,287.1036,290.4301,False,automated,vocabulary
+lesson_24_word_012,24,നര്സര്,നേഴ്സ്,review,matched,292.1794,295.4887,292.1794,295.4887,False,user,vocabulary
+lesson_24_word_017,24,കുറഞ്ഞു,കുറയുക,matched,matched,317.1248,320.6794,317.1248,320.6794,False,automated,vocabulary
+lesson_24_word_018,24,കുറയുക,കുറഞ്ഞു,matched,matched,322.5382,326.227,322.5382,326.227,False,automated,vocabulary
+lesson_24_word_023,24,അപേക്ഷ,അപേക്ഷ,review,matched,351.0545,354.2943,351.0545,354.2943,False,user,vocabulary
+lesson_24_word_034,24,അന്യോന്യം,ചില,review,matched,401.0105,403.4536,401.0105,403.4536,False,user,vocabulary
+lesson_24_word_035,24,ചില,അന്യോന്യം,review,matched,404.0944,407.606,404.0944,407.606,False,automated,vocabulary
+lesson_24_word_047,24,മറ്റൊരു,മറ്റൊരു,review,matched,461.082,464.2492,461.082,464.2492,False,user,vocabulary
+lesson_25_word_011,25,ഹൃദയം,ഹൃദയം,review,matched,293.019,295.5222,293.019,295.5222,False,user,vocabulary
+lesson_25_word_024,25,കുരുമുളക്,മഞ്ഞൾ,matched,matched,349.3985,352.2734,349.3985,352.2734,False,automated,vocabulary
+lesson_25_word_025,25,മഞ്ഞൾ,കുരുമുളക്,review,matched,354.007,357.2576,354.007,357.2576,False,user,vocabulary
+lesson_25_word_028,25,തെങ്ങ്,തെങ്ങ്,review,matched,368.3595,371.3503,368.3595,371.3503,False,user,vocabulary
+lesson_25_word_045,25,കയർ,കയർ,review,matched,445.0074,448.0942,445.0074,448.0942,False,user,vocabulary
+lesson_25_word_046,25,കയറ്,കയറ്,review,matched,449.7717,453.0002,449.7717,453.0002,False,user,vocabulary
+lesson_25_word_047,25,കയറുപിരിക്കൽ,കയറുപിരിക്കൽ,review,matched,454.7137,458.8853,454.7137,458.8853,False,user,vocabulary
+lesson_25_word_060,25,അല്ലാതെ,ഉയരുക,review,matched,527.8109,530.7844,527.8109,530.7844,False,user,vocabulary
+lesson_25_word_074,25,സുഖിക്കുക,കൈ കൂപ്പി,review,matched,597.6509,601.2795,597.6509,601.2795,False,user,additional_vocabulary
+lesson_25_word_075,25,കൈകൂപ്പി സ്വാഗതം ചെയ്യുക,സ്വാഗതം ചെയ്യുക,matched,matched,602.8915,607.4704,602.8915,607.4704,False,automated,additional_vocabulary
+lesson_25_word_078,25,സുഖിച്ച് നടക്കുക,സുഖിക്കുക,matched,matched,619.7929,623.0638,619.7929,623.0638,False,automated,vocabulary

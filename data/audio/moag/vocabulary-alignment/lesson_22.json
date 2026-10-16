@@ -1,0 +1,1935 @@
+{
+  "pipeline_version": 6,
+  "lesson": 22,
+  "source": "data/audio/moag/lesson_22.mp3",
+  "model": "Whisper large-v3 (32 encoder and 32 decoder layers), MLX",
+  "range_start": 17.45,
+  "range_end": 310.69,
+  "method": "Acoustic cepstrum comparison pairs repeated utterances independently of textbook order; large-v3 word end timestamps matched to pauses, then global spelling assignment against printed vocabulary (order is only a weak tie-breaker). Low-confidence labels require review. Raw recognizer text retained.",
+  "words": [
+    {
+      "utterances": [
+        {
+          "start": 20.5818,
+          "end": 21.5204
+        }
+      ],
+      "raw_texts": [
+        "മത്തായ്"
+      ],
+      "english_segments": [],
+      "transcript": "മത്തായി",
+      "meaning": "Malayalam form of Matthew",
+      "textbook_row": 0,
+      "similarity": 0.889,
+      "status": "matched",
+      "id": "lesson_22_word_001"
+    },
+    {
+      "utterances": [
+        {
+          "start": 23.2488,
+          "end": 24.3465
+        },
+        {
+          "start": 25.8673,
+          "end": 26.977
+        }
+      ],
+      "raw_texts": [
+        "മത്തായ് അച്ചന്",
+        ""
+      ],
+      "english_segments": [],
+      "transcript": "മത്തായിച്ചൻ",
+      "meaning": "Mr. Mathai (respectful)",
+      "textbook_row": 1,
+      "similarity": 0.857,
+      "status": "matched",
+      "id": "lesson_22_word_002"
+    },
+    {
+      "utterances": [
+        {
+          "start": 28.5952,
+          "end": 29.3532
+        },
+        {
+          "start": 31.1092,
+          "end": 32.4796
+        }
+      ],
+      "raw_texts": [
+        "അക്ക്ക്",
+        ""
+      ],
+      "english_segments": [],
+      "transcript": "അകത്ത്",
+      "meaning": "inside (locative of അകം)",
+      "textbook_row": 2,
+      "similarity": 0.8,
+      "status": "matched",
+      "id": "lesson_22_word_003"
+    },
+    {
+      "utterances": [
+        {
+          "start": 33.1537,
+          "end": 36.7164
+        },
+        {
+          "start": 36.9414,
+          "end": 37.8727
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [],
+      "transcript": "കിടപ്പുണ്ട്",
+      "meaning": "is lying (eq: to കിടക്കുകയാണ്)",
+      "textbook_row": 4,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_22_word_004"
+    },
+    {
+      "utterances": [
+        {
+          "start": 39.9585,
+          "end": 41.1927
+        },
+        {
+          "start": 42.9693,
+          "end": 43.9738
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 38.01,
+          "end": 45.01,
+          "text": " KIDANNU"
+        }
+      ],
+      "transcript": "കിടന്നു",
+      "meaning": "to lie down",
+      "textbook_row": 3,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_22_word_005"
+    },
+    {
+      "utterances": [
+        {
+          "start": 46.0572,
+          "end": 46.7688
+        },
+        {
+          "start": 48.2709,
+          "end": 49.0285
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 45.01,
+          "end": 50.01,
+          "text": " EKKU"
+        }
+      ],
+      "transcript": "ഏക്ക്",
+      "meaning": "to, into --",
+      "textbook_row": 5,
+      "similarity": 0.76,
+      "status": "matched",
+      "id": "lesson_22_word_006"
+    },
+    {
+      "utterances": [
+        {
+          "start": 51.0514,
+          "end": 52.8712
+        },
+        {
+          "start": 54.7579,
+          "end": 56.771
+        }
+      ],
+      "raw_texts": [
+        "കിഡകുക്ക്ക്ക്ക്ക്ക്ക്ക്ക�",
+        "യാണ് എപ്പോള് വന്നാരും"
+      ],
+      "english_segments": [
+        {
+          "start": 50.01,
+          "end": 58.01,
+          "text": " NYAN EPPOL VANNALUM"
+        }
+      ],
+      "transcript": "കിടക്കുക",
+      "meaning": "to lie down",
+      "textbook_row": 3,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_22_word_007"
+    },
+    {
+      "utterances": [
+        {
+          "start": 58.7234,
+          "end": 59.3179
+        },
+        {
+          "start": 60.6094,
+          "end": 61.2509
+        }
+      ],
+      "raw_texts": [
+        "പില്ലാ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 58.01,
+          "end": 62.01,
+          "text": " PILLA"
+        }
+      ],
+      "transcript": "പിള്ള",
+      "meaning": "Pillai, a Nair surname",
+      "textbook_row": 7,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_22_word_008"
+    },
+    {
+      "utterances": [
+        {
+          "start": 63.1409,
+          "end": 63.7688
+        },
+        {
+          "start": 65.0088,
+          "end": 65.6085
+        }
+      ],
+      "raw_texts": [
+        "പണി",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 62.01,
+          "end": 66.01,
+          "text": " PANI"
+        }
+      ],
+      "transcript": "പനി",
+      "meaning": "fever",
+      "textbook_row": 8,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_22_word_009"
+    },
+    {
+      "utterances": [
+        {
+          "start": 67.1839,
+          "end": 67.9687
+        },
+        {
+          "start": 69.2839,
+          "end": 70.0805
+        }
+      ],
+      "raw_texts": [
+        "വയസ്",
+        "വയസ്"
+      ],
+      "english_segments": [
+        {
+          "start": 66.01,
+          "end": 75.01,
+          "text": " vayasa vayasukalam"
+        }
+      ],
+      "transcript": "വയസ്",
+      "meaning": "age",
+      "textbook_row": 9,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_22_word_010"
+    },
+    {
+      "utterances": [
+        {
+          "start": 71.7223,
+          "end": 72.8002
+        },
+        {
+          "start": 73.9277,
+          "end": 75.0301
+        }
+      ],
+      "raw_texts": [
+        "വയസ് കാലം",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 66.01,
+          "end": 75.01,
+          "text": " vayasa vayasukalam"
+        }
+      ],
+      "transcript": "വയസ്സുകാലം",
+      "meaning": "old age",
+      "textbook_row": 10,
+      "similarity": 0.933,
+      "status": "matched",
+      "id": "lesson_22_word_011"
+    },
+    {
+      "utterances": [
+        {
+          "start": 76.8428,
+          "end": 78.199
+        },
+        {
+          "start": 79.8927,
+          "end": 81.2404
+        }
+      ],
+      "raw_texts": [
+        "ഒരോ അസുഖങ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 75.01,
+          "end": 81.01,
+          "text": " oro asukhangal"
+        }
+      ],
+      "transcript": "ഓരോ അസുഖങ്ങൾ",
+      "meaning": "some illness or the other",
+      "textbook_row": 11,
+      "similarity": 0.941,
+      "status": "matched",
+      "id": "lesson_22_word_012"
+    },
+    {
+      "utterances": [
+        {
+          "start": 82.9744,
+          "end": 83.6467
+        },
+        {
+          "start": 84.8203,
+          "end": 85.4418
+        }
+      ],
+      "raw_texts": [
+        "മളാ",
+        "മളാ"
+      ],
+      "english_segments": [
+        {
+          "start": 81.01,
+          "end": 90.01,
+          "text": " malha malhakalam"
+        }
+      ],
+      "transcript": "മഴ",
+      "meaning": "rain",
+      "textbook_row": 12,
+      "similarity": 0.8,
+      "status": "matched",
+      "id": "lesson_22_word_013"
+    },
+    {
+      "utterances": [
+        {
+          "start": 87.1815,
+          "end": 88.0942
+        },
+        {
+          "start": 89.4221,
+          "end": 90.2831
+        }
+      ],
+      "raw_texts": [
+        "മളകാലം",
+        "മളകാലം"
+      ],
+      "english_segments": [
+        {
+          "start": 81.01,
+          "end": 90.01,
+          "text": " malha malhakalam"
+        },
+        {
+          "start": 90.01,
+          "end": 97.01,
+          "text": " evide poyalum"
+        }
+      ],
+      "transcript": "മഴക്കാലം",
+      "meaning": "rainy season",
+      "textbook_row": 13,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_22_word_014"
+    },
+    {
+      "utterances": [
+        {
+          "start": 92.4814,
+          "end": 93.7532
+        },
+        {
+          "start": 94.8935,
+          "end": 96.2166
+        }
+      ],
+      "raw_texts": [
+        "എവ്രിടെ പോയാലും",
+        "എവ്രിടെ പോയാലും"
+      ],
+      "english_segments": [
+        {
+          "start": 90.01,
+          "end": 97.01,
+          "text": " evide poyalum"
+        }
+      ],
+      "transcript": "എവിടെ പോയാലും",
+      "meaning": "wherever (you) go",
+      "textbook_row": 14,
+      "similarity": 0.96,
+      "status": "matched",
+      "id": "lesson_22_word_015"
+    },
+    {
+      "utterances": [
+        {
+          "start": 98.1809,
+          "end": 99.1404
+        },
+        {
+          "start": 100.6773,
+          "end": 101.6124
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 97.01,
+          "end": 102.01,
+          "text": " aarkankilum"
+        }
+      ],
+      "transcript": "ആർക്കെങ്കിലും",
+      "meaning": "someone, to someone, to anyone at all",
+      "textbook_row": 15,
+      "similarity": 0.855,
+      "status": "matched",
+      "id": "lesson_22_word_016"
+    },
+    {
+      "utterances": [
+        {
+          "start": 103.4785,
+          "end": 104.3364
+        },
+        {
+          "start": 106.0142,
+          "end": 106.8551
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 102.01,
+          "end": 107.01,
+          "text": " pidikyuga"
+        }
+      ],
+      "transcript": "പിടിക്കുക",
+      "meaning": "to be afflicted by, to catch a disease (dative subject); to grab, hold, catch hold of",
+      "textbook_row": 16,
+      "similarity": 0.894,
+      "status": "matched",
+      "id": "lesson_22_word_017"
+    },
+    {
+      "utterances": [
+        {
+          "start": 108.8966,
+          "end": 109.6498
+        },
+        {
+          "start": 111.1873,
+          "end": 111.9239
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 107.01,
+          "end": 112.01,
+          "text": " pidichu"
+        }
+      ],
+      "transcript": "പിടിച്ചു",
+      "meaning": "to be afflicted by, to catch a disease (dative subject); to grab, hold, catch hold of",
+      "textbook_row": 16,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_22_word_018"
+    },
+    {
+      "utterances": [
+        {
+          "start": 113.6859,
+          "end": 114.4538
+        },
+        {
+          "start": 115.936,
+          "end": 116.6737
+        }
+      ],
+      "raw_texts": [
+        "ആര്കെംക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക",
+        "കടീനമ്"
+      ],
+      "english_segments": [
+        {
+          "start": 112.01,
+          "end": 117.01,
+          "text": " kathinam"
+        }
+      ],
+      "transcript": "കഠിനം",
+      "meaning": "severe, tough, cruel",
+      "textbook_row": 17,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_22_word_019"
+    },
+    {
+      "utterances": [
+        {
+          "start": 118.3683,
+          "end": 119.0865
+        },
+        {
+          "start": 120.0176,
+          "end": 120.7208
+        }
+      ],
+      "raw_texts": [
+        "കൃഷീ",
+        "കൃഷീ"
+      ],
+      "english_segments": [
+        {
+          "start": 117.01,
+          "end": 121.01,
+          "text": " Krishi"
+        }
+      ],
+      "transcript": "കൃഷി",
+      "meaning": "agriculture, farming",
+      "textbook_row": 18,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_22_word_020"
+    },
+    {
+      "utterances": [
+        {
+          "start": 122.3477,
+          "end": 123.3625
+        },
+        {
+          "start": 124.7083,
+          "end": 125.6536
+        }
+      ],
+      "raw_texts": [
+        "നശീക്യുഗാ",
+        "നശീക്യുഗാ"
+      ],
+      "english_segments": [
+        {
+          "start": 121.01,
+          "end": 126.01,
+          "text": " Nasi Kyuga"
+        }
+      ],
+      "transcript": "നശിക്കുക",
+      "meaning": "to be ruined, destroyed",
+      "textbook_row": 19,
+      "similarity": 0.894,
+      "status": "matched",
+      "id": "lesson_22_word_021"
+    },
+    {
+      "utterances": [
+        {
+          "start": 127.1185,
+          "end": 128.0397
+        },
+        {
+          "start": 129.6062,
+          "end": 130.4656
+        }
+      ],
+      "raw_texts": [
+        "നശീച്ചു",
+        "നശീച്ചു"
+      ],
+      "english_segments": [
+        {
+          "start": 126.01,
+          "end": 131.01,
+          "text": " Nasi Chu"
+        }
+      ],
+      "transcript": "നശിച്ചു",
+      "meaning": "to be ruined, destroyed",
+      "textbook_row": 19,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_22_word_022"
+    },
+    {
+      "utterances": [
+        {
+          "start": 132.3878,
+          "end": 133.3654
+        },
+        {
+          "start": 135.0615,
+          "end": 136.0324
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 131.01,
+          "end": 136.01,
+          "text": " Krishikar"
+        }
+      ],
+      "transcript": "കൃഷിക്കാർ",
+      "meaning": "farmers",
+      "textbook_row": 20,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_22_word_023"
+    },
+    {
+      "utterances": [
+        {
+          "start": 137.8731,
+          "end": 138.6225
+        },
+        {
+          "start": 139.9167,
+          "end": 140.6814
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 136.01,
+          "end": 141.01,
+          "text": " Bhagyam"
+        }
+      ],
+      "transcript": "ഭാഗ്യം",
+      "meaning": "luck, fortune",
+      "textbook_row": 21,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_22_word_024"
+    },
+    {
+      "utterances": [
+        {
+          "start": 142.1573,
+          "end": 143.1178
+        },
+        {
+          "start": 144.529,
+          "end": 145.4735
+        }
+      ],
+      "raw_texts": [
+        "",
+        "നര്ഭാഗിയും"
+      ],
+      "english_segments": [
+        {
+          "start": 141.01,
+          "end": 146.01,
+          "text": " Nirbhagyam"
+        }
+      ],
+      "transcript": "നിർഭാഗ്യം",
+      "meaning": "bad luck, misfortune",
+      "textbook_row": 22,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_22_word_025"
+    },
+    {
+      "utterances": [
+        {
+          "start": 146.8593,
+          "end": 148.8534
+        },
+        {
+          "start": 150.3299,
+          "end": 151.8338
+        }
+      ],
+      "raw_texts": [
+        "നര്ഭാഗെ കരമായാ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 146.01,
+          "end": 151.61,
+          "text": " Narbhagya Karamaya"
+        }
+      ],
+      "transcript": "നിർഭാഗ്യകരമായ",
+      "meaning": "unfortunate",
+      "textbook_row": 23,
+      "similarity": 0.891,
+      "status": "matched",
+      "id": "lesson_22_word_026"
+    },
+    {
+      "utterances": [
+        {
+          "start": 153.5807,
+          "end": 154.2348
+        },
+        {
+          "start": 155.3569,
+          "end": 155.976
+        }
+      ],
+      "raw_texts": [
+        "പ്തു",
+        "പ്തു"
+      ],
+      "english_segments": [
+        {
+          "start": 151.61,
+          "end": 155.85,
+          "text": " Putu"
+        }
+      ],
+      "transcript": "പൊതു",
+      "meaning": "common, public",
+      "textbook_row": 24,
+      "similarity": 0.857,
+      "status": "matched",
+      "id": "lesson_22_word_027"
+    },
+    {
+      "utterances": [
+        {
+          "start": 157.3315,
+          "end": 158.1989
+        },
+        {
+          "start": 159.5939,
+          "end": 160.4848
+        }
+      ],
+      "raw_texts": [
+        "പ്തുവേ",
+        "പ്തുവേ"
+      ],
+      "english_segments": [
+        {
+          "start": 155.85,
+          "end": 157.93,
+          "text": " Putuve"
+        },
+        {
+          "start": 157.93,
+          "end": 165.01,
+          "text": " Kuita"
+        }
+      ],
+      "transcript": "പൊതുവേ",
+      "meaning": "in general",
+      "textbook_row": 25,
+      "similarity": 0.909,
+      "status": "matched",
+      "id": "lesson_22_word_028"
+    },
+    {
+      "utterances": [
+        {
+          "start": 161.8841,
+          "end": 162.6833
+        },
+        {
+          "start": 164.2093,
+          "end": 164.9955
+        }
+      ],
+      "raw_texts": [
+        "കോയ്റ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 157.93,
+          "end": 165.01,
+          "text": " Kuita"
+        }
+      ],
+      "transcript": "കൊയ്ത്ത്",
+      "meaning": "harvest",
+      "textbook_row": 26,
+      "similarity": 0.75,
+      "status": "matched",
+      "id": "lesson_22_word_029"
+    },
+    {
+      "utterances": [
+        {
+          "start": 166.4486,
+          "end": 167.1651
+        },
+        {
+          "start": 168.4486,
+          "end": 169.1807
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 165.01,
+          "end": 169.01,
+          "text": " Mosham"
+        }
+      ],
+      "transcript": "മോശം",
+      "meaning": "bad",
+      "textbook_row": 27,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_22_word_030"
+    },
+    {
+      "utterances": [
+        {
+          "start": 170.6696,
+          "end": 171.5
+        },
+        {
+          "start": 173.0351,
+          "end": 173.8127
+        }
+      ],
+      "raw_texts": [
+        "കോ�",
+        "സാധനമ്"
+      ],
+      "english_segments": [
+        {
+          "start": 169.01,
+          "end": 174.01,
+          "text": " Sadhanam"
+        }
+      ],
+      "transcript": "സാധനം",
+      "meaning": "thing",
+      "textbook_row": 28,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_22_word_031"
+    },
+    {
+      "utterances": [
+        {
+          "start": 175.4616,
+          "end": 176.1108
+        },
+        {
+          "start": 177.3916,
+          "end": 178.0432
+        }
+      ],
+      "raw_texts": [
+        "പാവമ്",
+        "പാവമ്"
+      ],
+      "english_segments": [
+        {
+          "start": 174.01,
+          "end": 178.01,
+          "text": " Paavam"
+        }
+      ],
+      "transcript": "പാവം",
+      "meaning": "poor",
+      "textbook_row": 29,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_22_word_032"
+    },
+    {
+      "utterances": [
+        {
+          "start": 179.7388,
+          "end": 180.7818
+        },
+        {
+          "start": 182.533,
+          "end": 183.6109
+        }
+      ],
+      "raw_texts": [
+        "പാവപ്പെട്ടവര്",
+        "പാവപ്പെട്ടവര്"
+      ],
+      "english_segments": [
+        {
+          "start": 178.01,
+          "end": 184.01,
+          "text": " Paavapettavar"
+        }
+      ],
+      "transcript": "പാവപ്പെട്ടവർ",
+      "meaning": "poor people",
+      "textbook_row": 30,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_22_word_033"
+    },
+    {
+      "utterances": [
+        {
+          "start": 185.1998,
+          "end": 185.9497
+        },
+        {
+          "start": 187.4743,
+          "end": 188.2761
+        }
+      ],
+      "raw_texts": [
+        "പാവങ്ള്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 184.01,
+          "end": 189.01,
+          "text": " Paavangal"
+        }
+      ],
+      "transcript": "പാവങ്ങൾ",
+      "meaning": "poor people",
+      "textbook_row": 30,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_22_word_034"
+    },
+    {
+      "utterances": [
+        {
+          "start": 189.6562,
+          "end": 190.3923
+        },
+        {
+          "start": 191.6178,
+          "end": 192.3823
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 189.01,
+          "end": 194.01,
+          "text": " Kashtam"
+        }
+      ],
+      "transcript": "കഷ്ടം",
+      "meaning": "difficulty",
+      "textbook_row": 31,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_22_word_035"
+    },
+    {
+      "utterances": [
+        {
+          "start": 193.8081,
+          "end": 194.8425
+        },
+        {
+          "start": 196.1221,
+          "end": 197.1429
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 194.01,
+          "end": 199.01,
+          "text": " Kashtapeduva"
+        }
+      ],
+      "transcript": "കഷ്ടപ്പെടുക",
+      "meaning": "to suffer, to experience difficulty",
+      "textbook_row": 32,
+      "similarity": 0.864,
+      "status": "matched",
+      "id": "lesson_22_word_036"
+    },
+    {
+      "utterances": [
+        {
+          "start": 198.8327,
+          "end": 199.8746
+        },
+        {
+          "start": 201.1985,
+          "end": 202.2299
+        }
+      ],
+      "raw_texts": [
+        "പാവങ�",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 199.01,
+          "end": 203.69,
+          "text": " kashta pittu"
+        }
+      ],
+      "transcript": "കഷ്ടപ്പെട്ടു",
+      "meaning": "to suffer, to experience difficulty",
+      "textbook_row": 32,
+      "similarity": 0.844,
+      "status": "matched",
+      "id": "lesson_22_word_037"
+    },
+    {
+      "utterances": [
+        {
+          "start": 203.7148,
+          "end": 204.6083
+        },
+        {
+          "start": 206.0235,
+          "end": 206.8061
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 203.69,
+          "end": 208.61,
+          "text": " sarkar"
+        }
+      ],
+      "transcript": "സർക്കാർ",
+      "meaning": "government",
+      "textbook_row": 33,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_22_word_038"
+    },
+    {
+      "utterances": [
+        {
+          "start": 208.6347,
+          "end": 209.4951
+        },
+        {
+          "start": 211.0641,
+          "end": 211.9075
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 208.61,
+          "end": 213.83,
+          "text": " idabaduga"
+        }
+      ],
+      "transcript": "ഇടപെടുക",
+      "meaning": "to interfere, to take a hand",
+      "textbook_row": 34,
+      "similarity": 0.844,
+      "status": "matched",
+      "id": "lesson_22_word_039"
+    },
+    {
+      "utterances": [
+        {
+          "start": 213.4127,
+          "end": 214.7415
+        },
+        {
+          "start": 216.1151,
+          "end": 217.0095
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 208.61,
+          "end": 213.83,
+          "text": " idabaduga"
+        },
+        {
+          "start": 213.83,
+          "end": 218.67,
+          "text": " idabettu"
+        }
+      ],
+      "transcript": "ഇടപെട്ടു",
+      "meaning": "to interfere, to take a hand",
+      "textbook_row": 34,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_22_word_040"
+    },
+    {
+      "utterances": [
+        {
+          "start": 218.6536,
+          "end": 219.4709
+        },
+        {
+          "start": 221.0909,
+          "end": 221.9135
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 218.67,
+          "end": 223.79,
+          "text": " kachavadam"
+        }
+      ],
+      "transcript": "കച്ചവടം",
+      "meaning": "trade",
+      "textbook_row": 35,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_22_word_041"
+    },
+    {
+      "utterances": [
+        {
+          "start": 223.7896,
+          "end": 224.9145
+        },
+        {
+          "start": 226.2849,
+          "end": 227.4302
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 223.79,
+          "end": 228.79,
+          "text": " Kachavadakar"
+        }
+      ],
+      "transcript": "കച്ചവടക്കാർ",
+      "meaning": "traders, merchants",
+      "textbook_row": 36,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_22_word_042"
+    },
+    {
+      "utterances": [
+        {
+          "start": 228.9119,
+          "end": 229.7589
+        },
+        {
+          "start": 231.1816,
+          "end": 232.0351
+        }
+      ],
+      "raw_texts": [
+        "കഷ്ടപ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ",
+        "നിയായം"
+      ],
+      "english_segments": [
+        {
+          "start": 228.79,
+          "end": 233.79,
+          "text": " Nyayam"
+        }
+      ],
+      "transcript": "ന്യായം",
+      "meaning": "justice",
+      "textbook_row": 37,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_22_word_043"
+    },
+    {
+      "utterances": [
+        {
+          "start": 233.5857,
+          "end": 234.4891
+        },
+        {
+          "start": 235.843,
+          "end": 236.717
+        }
+      ],
+      "raw_texts": [
+        "അന്യായം",
+        "അന്യായം"
+      ],
+      "english_segments": [
+        {
+          "start": 233.79,
+          "end": 237.79,
+          "text": " Anyayam"
+        }
+      ],
+      "transcript": "അന്യായം",
+      "meaning": "injustice",
+      "textbook_row": 38,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_22_word_044"
+    },
+    {
+      "utterances": [
+        {
+          "start": 237.9132,
+          "end": 238.9222
+        },
+        {
+          "start": 240.3953,
+          "end": 241.2575
+        }
+      ],
+      "raw_texts": [
+        "ലാഭം",
+        "ലാഭം അവര്ക"
+      ],
+      "english_segments": [
+        {
+          "start": 237.79,
+          "end": 242.79,
+          "text": " Laabham"
+        }
+      ],
+      "transcript": "ലാഭം",
+      "meaning": "profit",
+      "textbook_row": 40,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_22_word_045"
+    },
+    {
+      "utterances": [
+        {
+          "start": 242.9947,
+          "end": 244.8639
+        },
+        {
+          "start": 246.1047,
+          "end": 248.3862
+        }
+      ],
+      "raw_texts": [
+        "എത്രക്ടിയാളും",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 242.79,
+          "end": 249.79,
+          "text": " Avar ka aithra kittiyalum"
+        }
+      ],
+      "transcript": "എത്ര കിട്ടിയാലും",
+      "meaning": "however much (they) get",
+      "textbook_row": 41,
+      "similarity": 0.957,
+      "status": "matched",
+      "id": "lesson_22_word_046"
+    },
+    {
+      "utterances": [
+        {
+          "start": 249.9851,
+          "end": 250.5984
+        },
+        {
+          "start": 251.3121,
+          "end": 251.8854
+        }
+      ],
+      "raw_texts": [
+        "ഭലമ",
+        "ഭലമ"
+      ],
+      "english_segments": [
+        {
+          "start": 249.79,
+          "end": 251.79,
+          "text": " bhalam"
+        }
+      ],
+      "transcript": "ഫലം",
+      "meaning": "result, fruit",
+      "textbook_row": 42,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_22_word_047"
+    },
+    {
+      "utterances": [
+        {
+          "start": 253.3744,
+          "end": 254.8332
+        },
+        {
+          "start": 256.2696,
+          "end": 257.7276
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 251.79,
+          "end": 255.79,
+          "text": " itinde bhalamayi"
+        },
+        {
+          "start": 255.79,
+          "end": 261.79,
+          "text": " panakar"
+        }
+      ],
+      "transcript": "ഭയങ്കര",
+      "meaning": "huge, awful, frightful",
+      "textbook_row": 39,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_22_word_048"
+    },
+    {
+      "utterances": [
+        {
+          "start": 259.3793,
+          "end": 260.2023
+        },
+        {
+          "start": 261.5483,
+          "end": 262.3386
+        }
+      ],
+      "raw_texts": [
+        "ഇതു",
+        "പണക്കാർ"
+      ],
+      "english_segments": [
+        {
+          "start": 255.79,
+          "end": 261.79,
+          "text": " panakar"
+        },
+        {
+          "start": 261.79,
+          "end": 267.79,
+          "text": " koodadalayi"
+        }
+      ],
+      "transcript": "പണക്കാർ",
+      "meaning": "rich people",
+      "textbook_row": 44,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_22_word_049"
+    },
+    {
+      "utterances": [
+        {
+          "start": 263.8258,
+          "end": 264.8151
+        },
+        {
+          "start": 266.187,
+          "end": 267.1667
+        }
+      ],
+      "raw_texts": [
+        "കൂടുദലായ്",
+        "കൂടുദലായ്"
+      ],
+      "english_segments": [
+        {
+          "start": 261.79,
+          "end": 267.79,
+          "text": " koodadalayi"
+        }
+      ],
+      "transcript": "കൂടുതലായി",
+      "meaning": "excessively",
+      "textbook_row": 45,
+      "similarity": 0.941,
+      "status": "matched",
+      "id": "lesson_22_word_050"
+    },
+    {
+      "utterances": [
+        {
+          "start": 269.3006,
+          "end": 271.0205
+        },
+        {
+          "start": 272.5768,
+          "end": 274.3117
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 267.79,
+          "end": 274.79,
+          "text": " vishamikyugayim chayyugaar"
+        }
+      ],
+      "transcript": "വിഷമിക്കുകയും ചെയ്യുക",
+      "meaning": "to be troubled for sure, to suffer for sure",
+      "textbook_row": 46,
+      "similarity": 0.807,
+      "status": "matched",
+      "id": "lesson_22_word_051"
+    },
+    {
+      "utterances": [
+        {
+          "start": 275.774,
+          "end": 276.7977
+        },
+        {
+          "start": 277.8678,
+          "end": 278.9131
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 274.79,
+          "end": 302.91,
+          "text": " kastakaalam, kastakaalam, vendi, vendi, prarthikyuga, prarthikyuga, prarthichu, prarthichu, alladhe, alladhe, rakshah, rakshah,"
+        }
+      ],
+      "transcript": "ഫലമായി",
+      "meaning": "as a result (of this)",
+      "textbook_row": 43,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_22_word_052"
+    },
+    {
+      "utterances": [
+        {
+          "start": 280.2539,
+          "end": 281.0344
+        },
+        {
+          "start": 282.4393,
+          "end": 283.1909
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 274.79,
+          "end": 302.91,
+          "text": " kastakaalam, kastakaalam, vendi, vendi, prarthikyuga, prarthikyuga, prarthichu, prarthichu, alladhe, alladhe, rakshah, rakshah,"
+        }
+      ],
+      "transcript": "കഷ്ട കാലം",
+      "meaning": "hard time(s)",
+      "textbook_row": 47,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_22_word_053"
+    },
+    {
+      "utterances": [
+        {
+          "start": 284.9483,
+          "end": 285.8905
+        },
+        {
+          "start": 287.4004,
+          "end": 288.3317
+        }
+      ],
+      "raw_texts": [
+        "",
+        "വിഷമിക്കുക്കുക്കുക്കുക്കുക്"
+      ],
+      "english_segments": [
+        {
+          "start": 274.79,
+          "end": 302.91,
+          "text": " kastakaalam, kastakaalam, vendi, vendi, prarthikyuga, prarthikyuga, prarthichu, prarthichu, alladhe, alladhe, rakshah, rakshah,"
+        }
+      ],
+      "transcript": "പ്രാർത്ഥിക്കുക",
+      "meaning": "to pray",
+      "textbook_row": 49,
+      "similarity": 0.32,
+      "status": "review",
+      "id": "lesson_22_word_054"
+    },
+    {
+      "utterances": [
+        {
+          "start": 289.86,
+          "end": 290.7435
+        },
+        {
+          "start": 292.4348,
+          "end": 293.2956
+        }
+      ],
+      "raw_texts": [
+        "",
+        "പരാര്ഥിചുക"
+      ],
+      "english_segments": [
+        {
+          "start": 274.79,
+          "end": 302.91,
+          "text": " kastakaalam, kastakaalam, vendi, vendi, prarthikyuga, prarthikyuga, prarthichu, prarthichu, alladhe, alladhe, rakshah, rakshah,"
+        }
+      ],
+      "transcript": "പ്രാർത്ഥിച്ചു",
+      "meaning": "to pray",
+      "textbook_row": 49,
+      "similarity": 0.941,
+      "status": "matched",
+      "id": "lesson_22_word_055"
+    },
+    {
+      "utterances": [
+        {
+          "start": 294.942,
+          "end": 295.8249
+        },
+        {
+          "start": 297.3792,
+          "end": 298.2542
+        }
+      ],
+      "raw_texts": [
+        "അല്ലാധെ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 274.79,
+          "end": 302.91,
+          "text": " kastakaalam, kastakaalam, vendi, vendi, prarthikyuga, prarthikyuga, prarthichu, prarthichu, alladhe, alladhe, rakshah, rakshah,"
+        }
+      ],
+      "transcript": "അല്ലാതെ",
+      "meaning": "otherwise",
+      "textbook_row": 50,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_22_word_056"
+    },
+    {
+      "utterances": [
+        {
+          "start": 299.935,
+          "end": 300.6966
+        },
+        {
+          "start": 302.1835,
+          "end": 302.994
+        }
+      ],
+      "raw_texts": [
+        "രക്ഷ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 274.79,
+          "end": 302.91,
+          "text": " kastakaalam, kastakaalam, vendi, vendi, prarthikyuga, prarthikyuga, prarthichu, prarthichu, alladhe, alladhe, rakshah, rakshah,"
+        }
+      ],
+      "transcript": "രക്ഷ",
+      "meaning": "refuge",
+      "textbook_row": 51,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_22_word_057"
+    },
+    {
+      "utterances": [
+        {
+          "start": 304.8415,
+          "end": 305.8389
+        },
+        {
+          "start": 307.4421,
+          "end": 308.3815
+        }
+      ],
+      "raw_texts": [
+        "വരാരായി",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 304.79,
+          "end": 305.63,
+          "text": " Varaarai."
+        },
+        {
+          "start": 307.37,
+          "end": 308.21,
+          "text": " Varaarai."
+        }
+      ],
+      "transcript": "വരാറായി",
+      "meaning": "is (are) about to come",
+      "textbook_row": 52,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_22_word_058"
+    },
+    {
+      "utterances": [
+        {
+          "start": 309.9141,
+          "end": 310.3411
+        }
+      ],
+      "raw_texts": [
+        ""
+      ],
+      "english_segments": [],
+      "transcript": "വേണ്ടി",
+      "meaning": "for, in order to (dative, infinitive)",
+      "textbook_row": 48,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_22_word_059"
+    }
+  ],
+  "textbook_vocabulary": [
+    {
+      "malayalam": "മത്തായി",
+      "meaning": "Malayalam form of Matthew"
+    },
+    {
+      "malayalam": "മത്തായിച്ചൻ",
+      "meaning": "Mr. Mathai (respectful)"
+    },
+    {
+      "malayalam": "അകത്ത്",
+      "meaning": "inside (locative of അകം)"
+    },
+    {
+      "malayalam": "കിടക്കുക (past: കിടന്നു)",
+      "meaning": "to lie down"
+    },
+    {
+      "malayalam": "കിടപ്പുണ്ട്",
+      "meaning": "is lying (eq: to കിടക്കുകയാണ്)"
+    },
+    {
+      "malayalam": "--ഏക്ക്",
+      "meaning": "to, into --"
+    },
+    {
+      "malayalam": "(ഞാൻ) എപ്പോൾ വന്നാലും",
+      "meaning": "whenever I come"
+    },
+    {
+      "malayalam": "പിള്ള",
+      "meaning": "Pillai, a Nair surname"
+    },
+    {
+      "malayalam": "പനി",
+      "meaning": "fever"
+    },
+    {
+      "malayalam": "വയസ്",
+      "meaning": "age"
+    },
+    {
+      "malayalam": "വയസ്സുകാലം",
+      "meaning": "old age"
+    },
+    {
+      "malayalam": "ഓരോ അസുഖങ്ങൾ",
+      "meaning": "some illness or the other"
+    },
+    {
+      "malayalam": "മഴ",
+      "meaning": "rain"
+    },
+    {
+      "malayalam": "മഴക്കാലം",
+      "meaning": "rainy season"
+    },
+    {
+      "malayalam": "എവിടെ പോയാലും",
+      "meaning": "wherever (you) go"
+    },
+    {
+      "malayalam": "ആർക്കെങ്കിലും",
+      "meaning": "someone, to someone, to anyone at all"
+    },
+    {
+      "malayalam": "പിടിക്കുക (past: പിടിച്ചു)",
+      "meaning": "to be afflicted by, to catch a disease (dative subject); to grab, hold, catch hold of"
+    },
+    {
+      "malayalam": "കഠിനം",
+      "meaning": "severe, tough, cruel"
+    },
+    {
+      "malayalam": "കൃഷി",
+      "meaning": "agriculture, farming"
+    },
+    {
+      "malayalam": "നശിക്കുക (past: നശിച്ചു)",
+      "meaning": "to be ruined, destroyed"
+    },
+    {
+      "malayalam": "കൃഷിക്കാർ",
+      "meaning": "farmers"
+    },
+    {
+      "malayalam": "ഭാഗ്യം",
+      "meaning": "luck, fortune"
+    },
+    {
+      "malayalam": "നിർഭാഗ്യം",
+      "meaning": "bad luck, misfortune"
+    },
+    {
+      "malayalam": "നിർഭാഗ്യകരമായ",
+      "meaning": "unfortunate"
+    },
+    {
+      "malayalam": "പൊതു",
+      "meaning": "common, public"
+    },
+    {
+      "malayalam": "പൊതുവേ",
+      "meaning": "in general"
+    },
+    {
+      "malayalam": "കൊയ്ത്ത്",
+      "meaning": "harvest"
+    },
+    {
+      "malayalam": "മോശം",
+      "meaning": "bad"
+    },
+    {
+      "malayalam": "സാധനം",
+      "meaning": "thing"
+    },
+    {
+      "malayalam": "പാവം",
+      "meaning": "poor"
+    },
+    {
+      "malayalam": "പാവപ്പെട്ടവർ (also: പാവങ്ങൾ)",
+      "meaning": "poor people"
+    },
+    {
+      "malayalam": "കഷ്ടം",
+      "meaning": "difficulty"
+    },
+    {
+      "malayalam": "കഷ്ടപ്പെടുക (past: കഷ്ടപ്പെട്ടു)",
+      "meaning": "to suffer, to experience difficulty"
+    },
+    {
+      "malayalam": "സർക്കാർ",
+      "meaning": "government"
+    },
+    {
+      "malayalam": "ഇടപെടുക (past: ഇടപെട്ടു)",
+      "meaning": "to interfere, to take a hand"
+    },
+    {
+      "malayalam": "കച്ചവടം",
+      "meaning": "trade"
+    },
+    {
+      "malayalam": "കച്ചവടക്കാർ",
+      "meaning": "traders, merchants"
+    },
+    {
+      "malayalam": "ന്യായം",
+      "meaning": "justice"
+    },
+    {
+      "malayalam": "അന്യായം",
+      "meaning": "injustice"
+    },
+    {
+      "malayalam": "ഭയങ്കര",
+      "meaning": "huge, awful, frightful"
+    },
+    {
+      "malayalam": "ലാഭം",
+      "meaning": "profit"
+    },
+    {
+      "malayalam": "(അവർക്ക്) എത്ര കിട്ടിയാലും",
+      "meaning": "however much (they) get"
+    },
+    {
+      "malayalam": "ഫലം",
+      "meaning": "result, fruit"
+    },
+    {
+      "malayalam": "(ഇതിന്റെ) ഫലമായി",
+      "meaning": "as a result (of this)"
+    },
+    {
+      "malayalam": "പണക്കാർ",
+      "meaning": "rich people"
+    },
+    {
+      "malayalam": "കൂടുതലായി",
+      "meaning": "excessively"
+    },
+    {
+      "malayalam": "വിഷമിക്കുകയും ചെയ്യുക",
+      "meaning": "to be troubled for sure, to suffer for sure"
+    },
+    {
+      "malayalam": "കഷ്ട കാലം",
+      "meaning": "hard time(s)"
+    },
+    {
+      "malayalam": "വേണ്ടി",
+      "meaning": "for, in order to (dative, infinitive)"
+    },
+    {
+      "malayalam": "പ്രാർത്ഥിക്കുക (past: പ്രാർത്ഥിച്ചു)",
+      "meaning": "to pray"
+    },
+    {
+      "malayalam": "അല്ലാതെ",
+      "meaning": "otherwise"
+    },
+    {
+      "malayalam": "രക്ഷ",
+      "meaning": "refuge"
+    },
+    {
+      "malayalam": "വരാറായി",
+      "meaning": "is (are) about to come"
+    }
+  ],
+  "unmatched_textbook_rows": [
+    {
+      "index": 6,
+      "malayalam": "(ഞാൻ) എപ്പോൾ വന്നാലും",
+      "meaning": "whenever I come"
+    }
+  ],
+  "recognition_sha256": "1f0042675640bf664703e729c7956fd82dffbf410fc766eb22692135891ac967",
+  "boundary_sha256": "31374996380304430731c89b6093519ad0cbf46f4e3cb59084c4090367d4445f"
+}

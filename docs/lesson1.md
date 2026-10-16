@@ -24,40 +24,48 @@
 <div class="lesson-audio">
 <p><strong>Vocabulary audio</strong></p>
 <audio controls preload="none" aria-label="Lesson 1: Vocabulary audio" src="assets/audio/moag/sections/lesson_01_vocabulary_0.mp3"></audio>
-<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_01_vocabulary_0.mp3" aria-pressed="true">Listen · 04:30</button></div>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_01_vocabulary_0.mp3" aria-pressed="true">Listen · 01:31</button></div>
 <p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
 </div>
 <!-- /moag-audio -->
 
-| Malayalam | English |
-|---|---|
-| ശരി | okay, fine, good |
-| ബിൽ | Bill |
-| രാമൻ | a male (Hindu) name |
-| നിങ്ങളുടെ | your (polite) |
-| പേര് | name |
-| എന്ത് | what? |
-| എന്താ | what is? (short for എന്താണ്) |
-| എന്റെ | my |
-| എന്ന് | Quotative or Citation Marker (placed after the quoted element) |
-| അവൻ | he (inferior to speaker) |
-| ആര് | who? |
-| <!-- Source: PDF page 48; printed page 2. --> ആണ് | is |
-| രാജൻ | a male name |
-| അവൾ | she (inferior to speaker) |
-| മണി | a female name |
-| അദ്ദേഹം | he (respected) |
-| തോമസ്സാർ | Mr. Thomas |
-| ഇത് | this (thing) |
-| ഇത് എന്താ? | What is this? |
-| മാങ്ങ | mango |
-| അത് | that (thing) |
-| പഴം | banana |
-| പുസ്തകം | book |
-| ബുക്ക് | book, notebook |
-| പേന | pen |
-| മേശ | table |
-| കസേര | chair |
+<!-- moag-vocabulary-words -->
+<div class="lesson-audio">
+<p><strong>Selected vocabulary recording</strong></p>
+<audio data-table-audio-player controls preload="none" aria-label="Lesson 1: select a word in the vocabulary table"></audio>
+<p class="lesson-audio-note">Use the Audio column to hear a word. Recorded variants appear beside their written entry; additional recorded forms are included in the same table. Unconfirmed recordings stay in rows marked “check match” until their word is verified. A dash means no aligned recording yet.</p>
+</div>
+<!-- /moag-vocabulary-words -->
+
+| Malayalam | English | Audio |
+|---|---|---|
+| ശരി | okay, fine, good | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| ബിൽ | Bill | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_01_word_001.mp3" data-audio-label="ബിൽ" aria-label="Play ബിൽ" title="Play ബിൽ" aria-pressed="false">▶</button> |
+| രാമൻ | a male (Hindu) name | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_01_word_002.mp3" data-audio-label="രാമൻ" aria-label="Play രാമൻ" title="Play രാമൻ" aria-pressed="false">▶</button> |
+| നിങ്ങളുടെ | your (polite) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_01_word_003.mp3" data-audio-label="നിങ്ങളുടെ" aria-label="Play നിങ്ങളുടെ" title="Play നിങ്ങളുടെ" aria-pressed="false">▶</button> |
+| പേര് | name | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_01_word_004.mp3" data-audio-label="പേര്" aria-label="Play പേര്" title="Play പേര്" aria-pressed="false">▶</button> |
+| എന്ത് | what? | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_01_word_005.mp3" data-audio-label="എന്ത്" aria-label="Play എന്ത്" title="Play എന്ത്" aria-pressed="false">▶</button> |
+| എന്താ | what is? (short for എന്താണ്) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_01_word_006.mp3" data-audio-label="എന്താ" aria-label="Play എന്താ" title="Play എന്താ" aria-pressed="false">▶</button> |
+| എന്റെ | my | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_01_word_007.mp3" data-audio-label="എന്റെ" aria-label="Play എന്റെ" title="Play എന്റെ" aria-pressed="false">▶</button> |
+| എന്ന് | Quotative or Citation Marker (placed after the quoted element) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_01_word_008.mp3" data-audio-label="എന്ന്" aria-label="Play എന്ന്" title="Play എന്ന്" aria-pressed="false">▶</button> |
+| അവൻ | he (inferior to speaker) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_01_word_009.mp3" data-audio-label="അവൻ" aria-label="Play അവൻ" title="Play അവൻ" aria-pressed="false">▶</button> |
+| ആര് | who? | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_01_word_010.mp3" data-audio-label="ആര്" aria-label="Play ആര്" title="Play ആര്" aria-pressed="false">▶</button> |
+| <!-- Source: PDF page 48; printed page 2. --> ആണ് | is | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_01_word_011.mp3" data-audio-label="ആണ്" aria-label="Play ആണ്" title="Play ആണ്" aria-pressed="false">▶</button> |
+| രാജൻ | a male name | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_01_word_012.mp3" data-audio-label="രാജൻ" aria-label="Play രാജൻ" title="Play രാജൻ" aria-pressed="false">▶</button> |
+| അവൾ | she (inferior to speaker) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_01_word_013.mp3" data-audio-label="അവൾ" aria-label="Play അവൾ" title="Play അവൾ" aria-pressed="false">▶</button> |
+| മണി | a female name | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_01_word_014.mp3" data-audio-label="മണി" aria-label="Play മണി" title="Play മണി" aria-pressed="false">▶</button> |
+| അദ്ദേഹം | he (respected) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_01_word_015.mp3" data-audio-label="അദ്ദേഹം" aria-label="Play അദ്ദേഹം" title="Play അദ്ദേഹം" aria-pressed="false">▶</button> |
+| തോമസ്സാർ | Mr. Thomas | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_01_word_016.mp3" data-audio-label="തോമസ്സാർ" aria-label="Play തോമസ്സാർ" title="Play തോമസ്സാർ" aria-pressed="false">▶</button> |
+| ഇത് | this (thing) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_01_word_017.mp3" data-audio-label="ഇത്" aria-label="Play ഇത്" title="Play ഇത്" aria-pressed="false">▶</button> |
+| ഇത് എന്താ? | What is this? | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| മാങ്ങ | mango | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_01_word_018.mp3" data-audio-label="മാങ്ങ" aria-label="Play മാങ്ങ" title="Play മാങ്ങ" aria-pressed="false">▶</button> |
+| അത് | that (thing) | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| പഴം | banana | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_01_word_019.mp3" data-audio-label="പഴം" aria-label="Play പഴം" title="Play പഴം" aria-pressed="false">▶</button> |
+| പുസ്തകം | book | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_01_word_020.mp3" data-audio-label="പുസ്തകം" aria-label="Play പുസ്തകം" title="Play പുസ്തകം" aria-pressed="false">▶</button> |
+| ബുക്ക് | book, notebook | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_01_word_021.mp3" data-audio-label="ബുക്ക്" aria-label="Play ബുക്ക്" title="Play ബുക്ക്" aria-pressed="false">▶</button> |
+| പേന | pen | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_01_word_022.mp3" data-audio-label="പേന" aria-label="Play പേന" title="Play പേന" aria-pressed="false">▶</button> |
+| മേശ | table | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_01_word_023.mp3" data-audio-label="മേശ" aria-label="Play മേശ" title="Play മേശ" aria-pressed="false">▶</button> |
+| കസേര | chair | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_01_word_024.mp3" data-audio-label="കസേര" aria-label="Play കസേര" title="Play കസേര" aria-pressed="false">▶</button> |
 
 <a id="lesson1-reading-practice"></a><!-- reading-anchor -->
 ### Reading Practice

@@ -1,0 +1,12 @@
+[
+  {
+    "lesson": 15,
+    "merge": [
+      "lesson_15_word_012",
+      "lesson_15_word_013"
+    ],
+    "transcript": "കയറുക",
+    "reason": "The pause detector split the second pronunciation into two spans. Wider-context large-v3 Malayalam recognizes കയറുക across 122.84–127.2; English recognition locates Kairuka at 121.6–123.0 and the following Kairi after 127.22. Retain the three spans as one vocabulary item, with a review flag. This is an ASR-assisted correction, not fluent listening verification.",
+    "evidence": "data/audio/moag/vocabulary-recognition/lesson_15-context.json"
+  }
+]

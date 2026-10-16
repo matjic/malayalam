@@ -1,0 +1,474 @@
+{
+  "lesson": 25,
+  "model": "Whisper large-v3",
+  "purpose": "English announcements only; Malayalam transliterations are not teaching transcriptions.",
+  "range_start": 0,
+  "range_end": 631.36,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 15.78,
+      "text": " Malayalam, a university course by Dr. Rodney F. Moog. Lesson 25, Reference List. Each item is given twice. Repeat after the speaker."
+    },
+    {
+      "start": 30.0,
+      "end": 40.0,
+      "text": " He has sent it."
+    },
+    {
+      "start": 40.0,
+      "end": 44.0,
+      "text": " Give it."
+    },
+    {
+      "start": 44.0,
+      "end": 52.0,
+      "text": " Sir will send it to you."
+    },
+    {
+      "start": 52.0,
+      "end": 61.0,
+      "text": " Ningal eniki vajiparanji tharaamo?"
+    },
+    {
+      "start": 61.0,
+      "end": 66.0,
+      "text": " Kudukuka"
+    },
+    {
+      "start": 66.0,
+      "end": 74.0,
+      "text": " Avarke ee forum aichu kuduku"
+    },
+    {
+      "start": 74.0,
+      "end": 89.0,
+      "text": " Kill them. Send them two or three forms."
+    },
+    {
+      "start": 89.0,
+      "end": 98.0,
+      "text": " But I will buy this."
+    },
+    {
+      "start": 98.0,
+      "end": 113.0,
+      "text": " I'll send a copy to Menon sir."
+    },
+    {
+      "start": 113.0,
+      "end": 124.0,
+      "text": " He told her that thing."
+    },
+    {
+      "start": 124.0,
+      "end": 128.0,
+      "text": " pōguka"
+    },
+    {
+      "start": 128.0,
+      "end": 136.0,
+      "text": " jān atu arīyāt chēithu pōi"
+    },
+    {
+      "start": 136.0,
+      "end": 141.0,
+      "text": " kalayuka"
+    },
+    {
+      "start": 141.0,
+      "end": 151.0,
+      "text": " payan kuruchun theran ninnattu pōi kalannu"
+    },
+    {
+      "start": 151.0,
+      "end": 163.0,
+      "text": " Enne kandapol aval mukhan thiricholanyu."
+    },
+    {
+      "start": 163.0,
+      "end": 173.0,
+      "text": " Avar nyangalai kaapi kudipicholanyu."
+    },
+    {
+      "start": 173.0,
+      "end": 184.0,
+      "text": " kondirikyuga paadi kondirikyuga"
+    },
+    {
+      "start": 184.0,
+      "end": 200.0,
+      "text": " ee erithu erithikonterinnapol enikki vaarthagutti"
+    },
+    {
+      "start": 200.0,
+      "end": 204.0,
+      "text": " Hey Kuga! Hey Kuga!"
+    },
+    {
+      "start": 204.0,
+      "end": 208.0,
+      "text": " You go and meet the police."
+    },
+    {
+      "start": 208.0,
+      "end": 212.0,
+      "text": " You go and meet the police."
+    },
+    {
+      "start": 212.0,
+      "end": 218.0,
+      "text": " We will go to this hotel and have coffee."
+    },
+    {
+      "start": 218.0,
+      "end": 224.0,
+      "text": " We will go to this hotel and have coffee."
+    },
+    {
+      "start": 224.0,
+      "end": 235.94,
+      "text": " he forum our kakano he forum our kakano"
+    },
+    {
+      "start": 236.74,
+      "end": 242.92,
+      "text": " Shari I take you Shari I take you"
+    },
+    {
+      "start": 244.9,
+      "end": 250.16,
+      "text": " vocabulary repeat after the speaker"
+    },
+    {
+      "start": 250.16,
+      "end": 255.62,
+      "text": " janma desham"
+    },
+    {
+      "start": 255.62,
+      "end": 259.16,
+      "text": " nadi"
+    },
+    {
+      "start": 259.16,
+      "end": 263.08,
+      "text": " aruvi"
+    },
+    {
+      "start": 263.08,
+      "end": 267.28,
+      "text": " gramam"
+    },
+    {
+      "start": 267.28,
+      "end": 272.18,
+      "text": " thingin thop"
+    },
+    {
+      "start": 272.18,
+      "end": 275.96,
+      "text": " vanam"
+    },
+    {
+      "start": 275.96,
+      "end": 288.72,
+      "text": " nirayuga niranyu niranya"
+    },
+    {
+      "start": 288.72,
+      "end": 296.68,
+      "text": " arudayim hrudayam"
+    },
+    {
+      "start": 296.68,
+      "end": 303.22,
+      "text": " kavaruga, kavaruga, kavarnu, kavarnu,"
+    },
+    {
+      "start": 304.42,
+      "end": 307.68,
+      "text": " phooprakriti, phooprakriti,"
+    },
+    {
+      "start": 309.04,
+      "end": 312.68,
+      "text": " malanadu, malanadu,"
+    },
+    {
+      "start": 313.54,
+      "end": 316.68,
+      "text": " idanadu, idanadu,"
+    },
+    {
+      "start": 316.68,
+      "end": 321.68,
+      "text": " samathalam, samathalam,"
+    },
+    {
+      "start": 321.68,
+      "end": 326.68,
+      "text": " Pāgikyuga"
+    },
+    {
+      "start": 326.68,
+      "end": 330.68,
+      "text": " Rabbar"
+    },
+    {
+      "start": 330.68,
+      "end": 334.68,
+      "text": " Teila"
+    },
+    {
+      "start": 334.68,
+      "end": 339.68,
+      "text": " Elam"
+    },
+    {
+      "start": 339.68,
+      "end": 343.68,
+      "text": " Enniva"
+    },
+    {
+      "start": 343.68,
+      "end": 347.68,
+      "text": " Inji"
+    },
+    {
+      "start": 347.68,
+      "end": 357.16,
+      "text": " kuru mulagu"
+    },
+    {
+      "start": 357.16,
+      "end": 362.0,
+      "text": " marachini"
+    },
+    {
+      "start": 362.0,
+      "end": 366.82,
+      "text": " mudalaya va"
+    },
+    {
+      "start": 366.82,
+      "end": 370.54,
+      "text": " thenga"
+    },
+    {
+      "start": 370.54,
+      "end": 372.26,
+      "text": " thenga"
+    },
+    {
+      "start": 372.26,
+      "end": 374.04,
+      "text": " thenga"
+    },
+    {
+      "start": 374.04,
+      "end": 375.8,
+      "text": " nella"
+    },
+    {
+      "start": 375.8,
+      "end": 377.66,
+      "text": " nella"
+    },
+    {
+      "start": 377.66,
+      "end": 394.66,
+      "text": " vilava dhanyam pachatyar agarsikyuga"
+    },
+    {
+      "start": 394.66,
+      "end": 399.56,
+      "text": " Jīvidam"
+    },
+    {
+      "start": 399.56,
+      "end": 404.66,
+      "text": " Jīvidarīdī"
+    },
+    {
+      "start": 404.66,
+      "end": 409.08,
+      "text": " Lakū"
+    },
+    {
+      "start": 409.08,
+      "end": 413.66,
+      "text": " Lalitham"
+    },
+    {
+      "start": 414.34,
+      "end": 418.66,
+      "text": " Purushan"
+    },
+    {
+      "start": 418.66,
+      "end": 423.66,
+      "text": " Mundā"
+    },
+    {
+      "start": 424.66,
+      "end": 434.62,
+      "text": " Jubba Tharikyuga"
+    },
+    {
+      "start": 434.62,
+      "end": 439.86,
+      "text": " Abharanam"
+    },
+    {
+      "start": 439.86,
+      "end": 444.62,
+      "text": " Todil"
+    },
+    {
+      "start": 444.62,
+      "end": 460.62,
+      "text": " Kairu pirikkal"
+    },
+    {
+      "start": 460.62,
+      "end": 466.62,
+      "text": " meenpidutham"
+    },
+    {
+      "start": 466.62,
+      "end": 471.62,
+      "text": " vyavasayam"
+    },
+    {
+      "start": 471.62,
+      "end": 476.62,
+      "text": " naveena"
+    },
+    {
+      "start": 476.62,
+      "end": 482.62,
+      "text": " vidyabhyasam"
+    },
+    {
+      "start": 482.62,
+      "end": 487.62,
+      "text": " sthanam"
+    },
+    {
+      "start": 487.62,
+      "end": 492.62,
+      "text": " talparyam"
+    },
+    {
+      "start": 492.62,
+      "end": 497.62,
+      "text": " keraliya"
+    },
+    {
+      "start": 497.62,
+      "end": 502.62,
+      "text": " kathagali"
+    },
+    {
+      "start": 502.62,
+      "end": 507.62,
+      "text": " otamthulal"
+    },
+    {
+      "start": 507.62,
+      "end": 512.62,
+      "text": " mohini aattam"
+    },
+    {
+      "start": 512.62,
+      "end": 526.62,
+      "text": " Mohini Aattam Prasiddhi Prasiddhi Sangheedam Sangheedam"
+    },
+    {
+      "start": 526.62,
+      "end": 539.62,
+      "text": " Uyaruga Uyaruga Uyarnu Uyarnu Uyarna Uyarna"
+    },
+    {
+      "start": 539.62,
+      "end": 546.62,
+      "text": " Karakaushala saathanam"
+    },
+    {
+      "start": 546.62,
+      "end": 551.62,
+      "text": " Matip"
+    },
+    {
+      "start": 551.62,
+      "end": 555.62,
+      "text": " Churukkam"
+    },
+    {
+      "start": 555.62,
+      "end": 559.62,
+      "text": " Uruma"
+    },
+    {
+      "start": 559.62,
+      "end": 564.62,
+      "text": " Jeevikyuga"
+    },
+    {
+      "start": 564.62,
+      "end": 570.62,
+      "text": " Jīvichvaruga"
+    },
+    {
+      "start": 570.62,
+      "end": 575.62,
+      "text": " Yehūdhan"
+    },
+    {
+      "start": 575.62,
+      "end": 580.62,
+      "text": " Samskāram"
+    },
+    {
+      "start": 580.62,
+      "end": 585.62,
+      "text": " Svāgatam"
+    },
+    {
+      "start": 585.62,
+      "end": 591.62,
+      "text": " Sannarsikyuga"
+    },
+    {
+      "start": 591.62,
+      "end": 601.62,
+      "text": " Kaikoopuga"
+    },
+    {
+      "start": 601.62,
+      "end": 608.62,
+      "text": " Swagatham chayuga"
+    },
+    {
+      "start": 608.62,
+      "end": 612.62,
+      "text": " Thirpti"
+    },
+    {
+      "start": 612.62,
+      "end": 618.62,
+      "text": " Thirpti padutthuga"
+    },
+    {
+      "start": 618.62,
+      "end": 620.62,
+      "text": " 即気球が"
+    },
+    {
+      "start": 620.62,
+      "end": 625.18,
+      "text": " 即中"
+    }
+  ]
+}

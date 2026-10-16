@@ -1,0 +1,279 @@
+{
+  "lesson": 7,
+  "model": "Whisper large-v3",
+  "purpose": "English announcements only; Malayalam transliterations are not teaching transcriptions.",
+  "range_start": 322.01,
+  "range_end": 422.62,
+  "segments": [
+    {
+      "start": 322.01,
+      "end": 324.05,
+      "text": " Lesson 7 Vocabulary Practice"
+    },
+    {
+      "start": 324.05,
+      "end": 326.09,
+      "text": " Repeat each item after the speaker."
+    },
+    {
+      "start": 326.25,
+      "end": 327.47,
+      "text": " Each item is given twice."
+    },
+    {
+      "start": 327.79,
+      "end": 329.45,
+      "text": " Ready? Listen and repeat."
+    },
+    {
+      "start": 352.01,
+      "end": 365.91,
+      "text": " moni yathriyai? moni yathriyai? armani ki? armani ki? bus stand leki? bus stand leki?"
+    },
+    {
+      "start": 365.91,
+      "end": 367.91,
+      "text": " Dūram"
+    },
+    {
+      "start": 367.91,
+      "end": 369.49,
+      "text": " Dūram"
+    },
+    {
+      "start": 369.49,
+      "end": 371.25,
+      "text": " Walia"
+    },
+    {
+      "start": 371.25,
+      "end": 373.01,
+      "text": " Walia"
+    },
+    {
+      "start": 373.01,
+      "end": 375.03,
+      "text": " Mail"
+    },
+    {
+      "start": 375.03,
+      "end": 376.87,
+      "text": " Mail"
+    },
+    {
+      "start": 376.87,
+      "end": 378.87,
+      "text": " Mailai ullu"
+    },
+    {
+      "start": 378.87,
+      "end": 381.41,
+      "text": " Mailai ullu"
+    },
+    {
+      "start": 381.41,
+      "end": 383.79,
+      "text": " Engane"
+    },
+    {
+      "start": 383.79,
+      "end": 386.23,
+      "text": " Engane"
+    },
+    {
+      "start": 386.23,
+      "end": 388.97,
+      "text": " Namuk pogaam"
+    },
+    {
+      "start": 388.97,
+      "end": 390.99,
+      "text": " Namuk pogaam"
+    },
+    {
+      "start": 390.99,
+      "end": 391.01,
+      "text": " Namuk pogaam"
+    },
+    {
+      "start": 391.01,
+      "end": 391.05,
+      "text": " Namuk pogaam"
+    },
+    {
+      "start": 391.05,
+      "end": 391.07,
+      "text": " Namuk pogaam"
+    },
+    {
+      "start": 391.07,
+      "end": 391.09,
+      "text": " Namuk pogaam"
+    },
+    {
+      "start": 391.09,
+      "end": 391.13,
+      "text": " Namuk pogaam"
+    },
+    {
+      "start": 391.13,
+      "end": 391.17,
+      "text": " Namuk pogaam"
+    },
+    {
+      "start": 391.17,
+      "end": 391.21,
+      "text": " Namuk pogaam"
+    },
+    {
+      "start": 391.21,
+      "end": 391.25,
+      "text": " Namuk pogaam"
+    },
+    {
+      "start": 391.25,
+      "end": 391.25,
+      "text": ""
+    },
+    {
+      "start": 391.25,
+      "end": 391.29,
+      "text": " Namuk pogaam"
+    },
+    {
+      "start": 391.29,
+      "end": 391.29,
+      "text": ""
+    },
+    {
+      "start": 391.29,
+      "end": 391.33,
+      "text": " Namuk pogaam"
+    },
+    {
+      "start": 391.33,
+      "end": 391.37,
+      "text": " Namuk pogaam"
+    },
+    {
+      "start": 391.37,
+      "end": 391.45,
+      "text": " Namuk pogaam"
+    },
+    {
+      "start": 391.45,
+      "end": 391.49,
+      "text": " Namuk pogaam"
+    },
+    {
+      "start": 391.49,
+      "end": 391.49,
+      "text": ""
+    },
+    {
+      "start": 391.49,
+      "end": 391.57,
+      "text": " Namuk pogaam"
+    },
+    {
+      "start": 391.57,
+      "end": 393.61,
+      "text": " Namuk pogaam"
+    },
+    {
+      "start": 393.61,
+      "end": 393.69,
+      "text": " Namuk pogaam"
+    },
+    {
+      "start": 393.69,
+      "end": 393.73,
+      "text": " Namuk pogaam"
+    },
+    {
+      "start": 393.73,
+      "end": 393.77,
+      "text": " Namuk pogaam"
+    },
+    {
+      "start": 393.77,
+      "end": 393.81,
+      "text": " Namuk pogaam"
+    },
+    {
+      "start": 393.81,
+      "end": 394.85,
+      "text": " Namuk pogaam"
+    },
+    {
+      "start": 394.85,
+      "end": 396.85,
+      "text": " Do you have a car?"
+    },
+    {
+      "start": 396.85,
+      "end": 398.85,
+      "text": " Do you have a car?"
+    },
+    {
+      "start": 398.85,
+      "end": 400.85,
+      "text": " If you want"
+    },
+    {
+      "start": 400.85,
+      "end": 402.85,
+      "text": " If you want"
+    },
+    {
+      "start": 402.85,
+      "end": 404.85,
+      "text": " Taxi"
+    },
+    {
+      "start": 404.85,
+      "end": 406.85,
+      "text": " Taxi"
+    },
+    {
+      "start": 406.85,
+      "end": 408.85,
+      "text": " Call"
+    },
+    {
+      "start": 408.85,
+      "end": 410.85,
+      "text": " Call"
+    },
+    {
+      "start": 410.85,
+      "end": 412.85,
+      "text": " No"
+    },
+    {
+      "start": 412.85,
+      "end": 414.85,
+      "text": " No"
+    },
+    {
+      "start": 414.85,
+      "end": 416.85,
+      "text": " Walk"
+    },
+    {
+      "start": 416.85,
+      "end": 418.85,
+      "text": " Walk"
+    },
+    {
+      "start": 418.85,
+      "end": 420.85,
+      "text": " Walk"
+    },
+    {
+      "start": 420.85,
+      "end": 422.85,
+      "text": " Walk"
+    }
+  ]
+}

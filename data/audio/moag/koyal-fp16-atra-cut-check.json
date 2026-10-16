@@ -1,0 +1,352 @@
+[
+  {
+    "audio": "/private/tmp/koyal-atra-crops/atra-161.1-164.6.wav",
+    "coreml": "അത്ര അത്ര",
+    "tokens": [
+      {
+        "id": 9,
+        "piece": "▁അ",
+        "start": 0.4,
+        "duration": 0.16
+      },
+      {
+        "id": 96,
+        "piece": "ത്ര",
+        "start": 0.56,
+        "duration": 0.16
+      },
+      {
+        "id": 9,
+        "piece": "▁അ",
+        "start": 2.8,
+        "duration": 0.12
+      },
+      {
+        "id": 96,
+        "piece": "ത്ര",
+        "start": 2.92,
+        "duration": 0.12
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.3027,
+    "nemo": "അത്ര അത്ര",
+    "matches_nemo": true
+  },
+  {
+    "audio": "/private/tmp/koyal-atra-crops/atra-161.1-164.7.wav",
+    "coreml": "അത്ര അത്ര",
+    "tokens": [
+      {
+        "id": 9,
+        "piece": "▁അ",
+        "start": 0.4,
+        "duration": 0.16
+      },
+      {
+        "id": 96,
+        "piece": "ത്ര",
+        "start": 0.56,
+        "duration": 0.16
+      },
+      {
+        "id": 9,
+        "piece": "▁അ",
+        "start": 2.8,
+        "duration": 0.12
+      },
+      {
+        "id": 96,
+        "piece": "ത്ര",
+        "start": 2.92,
+        "duration": 0.12
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.2181,
+    "nemo": "അത്ര അത്ര",
+    "matches_nemo": true
+  },
+  {
+    "audio": "/private/tmp/koyal-atra-crops/atra-161.1-164.8.wav",
+    "coreml": "അത്ര അത്ര",
+    "tokens": [
+      {
+        "id": 9,
+        "piece": "▁അ",
+        "start": 0.4,
+        "duration": 0.16
+      },
+      {
+        "id": 96,
+        "piece": "ത്ര",
+        "start": 0.56,
+        "duration": 0.16
+      },
+      {
+        "id": 9,
+        "piece": "▁അ",
+        "start": 2.8,
+        "duration": 0.12
+      },
+      {
+        "id": 96,
+        "piece": "ത്ര",
+        "start": 2.92,
+        "duration": 0.12
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.2148,
+    "nemo": "അത്ര അത്ര",
+    "matches_nemo": true
+  },
+  {
+    "audio": "/private/tmp/koyal-atra-crops/atra-161.2-164.6.wav",
+    "coreml": "അത്ര അത്ര",
+    "tokens": [
+      {
+        "id": 9,
+        "piece": "▁അ",
+        "start": 0.32,
+        "duration": 0.16
+      },
+      {
+        "id": 96,
+        "piece": "ത്ര",
+        "start": 0.48,
+        "duration": 0.16
+      },
+      {
+        "id": 9,
+        "piece": "▁അ",
+        "start": 2.72,
+        "duration": 0.12
+      },
+      {
+        "id": 96,
+        "piece": "ത്ര",
+        "start": 2.84,
+        "duration": 0.12
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.2101,
+    "nemo": "അത്ര അത്ര",
+    "matches_nemo": true
+  },
+  {
+    "audio": "/private/tmp/koyal-atra-crops/atra-161.2-164.7.wav",
+    "coreml": "അത്ര അത്ര",
+    "tokens": [
+      {
+        "id": 9,
+        "piece": "▁അ",
+        "start": 0.32,
+        "duration": 0.16
+      },
+      {
+        "id": 96,
+        "piece": "ത്ര",
+        "start": 0.48,
+        "duration": 0.16
+      },
+      {
+        "id": 9,
+        "piece": "▁അ",
+        "start": 2.72,
+        "duration": 0.16
+      },
+      {
+        "id": 96,
+        "piece": "ത്ര",
+        "start": 2.88,
+        "duration": 0.16
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.2051,
+    "nemo": "അത്ര അത്ര",
+    "matches_nemo": true
+  },
+  {
+    "audio": "/private/tmp/koyal-atra-crops/atra-161.2-164.8.wav",
+    "coreml": "അത്ര അത്ര",
+    "tokens": [
+      {
+        "id": 9,
+        "piece": "▁അ",
+        "start": 0.32,
+        "duration": 0.16
+      },
+      {
+        "id": 96,
+        "piece": "ത്ര",
+        "start": 0.48,
+        "duration": 0.16
+      },
+      {
+        "id": 9,
+        "piece": "▁അ",
+        "start": 2.72,
+        "duration": 0.12
+      },
+      {
+        "id": 96,
+        "piece": "ത്ര",
+        "start": 2.84,
+        "duration": 0.12
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.206,
+    "nemo": "അത്ര അത്ര",
+    "matches_nemo": true
+  },
+  {
+    "audio": "/private/tmp/koyal-atra-crops/atra-161.3-164.6.wav",
+    "coreml": "അത്ര അത്ര",
+    "tokens": [
+      {
+        "id": 9,
+        "piece": "▁അ",
+        "start": 0.24,
+        "duration": 0.16
+      },
+      {
+        "id": 96,
+        "piece": "ത്ര",
+        "start": 0.4,
+        "duration": 0.16
+      },
+      {
+        "id": 9,
+        "piece": "▁അ",
+        "start": 2.6,
+        "duration": 0.12
+      },
+      {
+        "id": 96,
+        "piece": "ത്ര",
+        "start": 2.72,
+        "duration": 0.12
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.2137,
+    "nemo": "അത്ര അത്ര",
+    "matches_nemo": true
+  },
+  {
+    "audio": "/private/tmp/koyal-atra-crops/atra-161.3-164.7.wav",
+    "coreml": "അത്ര അത്ര",
+    "tokens": [
+      {
+        "id": 9,
+        "piece": "▁അ",
+        "start": 0.24,
+        "duration": 0.16
+      },
+      {
+        "id": 96,
+        "piece": "ത്ര",
+        "start": 0.4,
+        "duration": 0.16
+      },
+      {
+        "id": 9,
+        "piece": "▁അ",
+        "start": 2.6,
+        "duration": 0.12
+      },
+      {
+        "id": 96,
+        "piece": "ത്ര",
+        "start": 2.72,
+        "duration": 0.12
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.2056,
+    "nemo": "അത്ര അത്ര",
+    "matches_nemo": true
+  },
+  {
+    "audio": "/private/tmp/koyal-atra-crops/atra-161.3-164.8.wav",
+    "coreml": "അത്ര അത്ര",
+    "tokens": [
+      {
+        "id": 9,
+        "piece": "▁അ",
+        "start": 0.24,
+        "duration": 0.16
+      },
+      {
+        "id": 96,
+        "piece": "ത്ര",
+        "start": 0.4,
+        "duration": 0.16
+      },
+      {
+        "id": 9,
+        "piece": "▁അ",
+        "start": 2.6,
+        "duration": 0.12
+      },
+      {
+        "id": 96,
+        "piece": "ത്ര",
+        "start": 2.72,
+        "duration": 0.12
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.2068,
+    "nemo": "അത്ര അത്ര",
+    "matches_nemo": true
+  },
+  {
+    "audio": "data/audio/moag/vocabulary-repaired-clips/lesson_11_word_011.mp3",
+    "coreml": "അത്ര അത്ര",
+    "tokens": [
+      {
+        "id": 9,
+        "piece": "▁അ",
+        "start": 0.32,
+        "duration": 0.16
+      },
+      {
+        "id": 96,
+        "piece": "ത്ര",
+        "start": 0.48,
+        "duration": 0.16
+      },
+      {
+        "id": 9,
+        "piece": "▁അ",
+        "start": 2.72,
+        "duration": 0.16
+      },
+      {
+        "id": 96,
+        "piece": "ത്ര",
+        "start": 2.88,
+        "duration": 0.16
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.2008,
+    "nemo": "അത്ര അത്ര",
+    "matches_nemo": true
+  }
+]

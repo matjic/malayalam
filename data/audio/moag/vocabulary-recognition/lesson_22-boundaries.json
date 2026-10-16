@@ -1,0 +1,379 @@
+{
+  "lesson": 22,
+  "model": "Whisper large-v3",
+  "purpose": "English announcements only; Malayalam transliterations are not teaching transcriptions.",
+  "range_start": 8.01,
+  "range_end": 422.78,
+  "segments": [
+    {
+      "start": 8.01,
+      "end": 17.45,
+      "text": " Vocabulary. Repeat each item after the speaker. Each item is given twice. Ready? Listen and repeat."
+    },
+    {
+      "start": 38.01,
+      "end": 45.01,
+      "text": " KIDANNU"
+    },
+    {
+      "start": 45.01,
+      "end": 50.01,
+      "text": " EKKU"
+    },
+    {
+      "start": 50.01,
+      "end": 58.01,
+      "text": " NYAN EPPOL VANNALUM"
+    },
+    {
+      "start": 58.01,
+      "end": 62.01,
+      "text": " PILLA"
+    },
+    {
+      "start": 62.01,
+      "end": 66.01,
+      "text": " PANI"
+    },
+    {
+      "start": 66.01,
+      "end": 75.01,
+      "text": " vayasa vayasukalam"
+    },
+    {
+      "start": 75.01,
+      "end": 81.01,
+      "text": " oro asukhangal"
+    },
+    {
+      "start": 81.01,
+      "end": 90.01,
+      "text": " malha malhakalam"
+    },
+    {
+      "start": 90.01,
+      "end": 97.01,
+      "text": " evide poyalum"
+    },
+    {
+      "start": 97.01,
+      "end": 102.01,
+      "text": " aarkankilum"
+    },
+    {
+      "start": 102.01,
+      "end": 107.01,
+      "text": " pidikyuga"
+    },
+    {
+      "start": 107.01,
+      "end": 112.01,
+      "text": " pidichu"
+    },
+    {
+      "start": 112.01,
+      "end": 117.01,
+      "text": " kathinam"
+    },
+    {
+      "start": 117.01,
+      "end": 121.01,
+      "text": " Krishi"
+    },
+    {
+      "start": 121.01,
+      "end": 126.01,
+      "text": " Nasi Kyuga"
+    },
+    {
+      "start": 126.01,
+      "end": 131.01,
+      "text": " Nasi Chu"
+    },
+    {
+      "start": 131.01,
+      "end": 136.01,
+      "text": " Krishikar"
+    },
+    {
+      "start": 136.01,
+      "end": 141.01,
+      "text": " Bhagyam"
+    },
+    {
+      "start": 141.01,
+      "end": 146.01,
+      "text": " Nirbhagyam"
+    },
+    {
+      "start": 146.01,
+      "end": 151.61,
+      "text": " Narbhagya Karamaya"
+    },
+    {
+      "start": 151.61,
+      "end": 155.85,
+      "text": " Putu"
+    },
+    {
+      "start": 155.85,
+      "end": 157.93,
+      "text": " Putuve"
+    },
+    {
+      "start": 157.93,
+      "end": 165.01,
+      "text": " Kuita"
+    },
+    {
+      "start": 165.01,
+      "end": 169.01,
+      "text": " Mosham"
+    },
+    {
+      "start": 169.01,
+      "end": 174.01,
+      "text": " Sadhanam"
+    },
+    {
+      "start": 174.01,
+      "end": 178.01,
+      "text": " Paavam"
+    },
+    {
+      "start": 178.01,
+      "end": 184.01,
+      "text": " Paavapettavar"
+    },
+    {
+      "start": 184.01,
+      "end": 189.01,
+      "text": " Paavangal"
+    },
+    {
+      "start": 189.01,
+      "end": 194.01,
+      "text": " Kashtam"
+    },
+    {
+      "start": 194.01,
+      "end": 199.01,
+      "text": " Kashtapeduva"
+    },
+    {
+      "start": 199.01,
+      "end": 203.69,
+      "text": " kashta pittu"
+    },
+    {
+      "start": 203.69,
+      "end": 208.61,
+      "text": " sarkar"
+    },
+    {
+      "start": 208.61,
+      "end": 213.83,
+      "text": " idabaduga"
+    },
+    {
+      "start": 213.83,
+      "end": 218.67,
+      "text": " idabettu"
+    },
+    {
+      "start": 218.67,
+      "end": 223.79,
+      "text": " kachavadam"
+    },
+    {
+      "start": 223.79,
+      "end": 228.79,
+      "text": " Kachavadakar"
+    },
+    {
+      "start": 228.79,
+      "end": 233.79,
+      "text": " Nyayam"
+    },
+    {
+      "start": 233.79,
+      "end": 237.79,
+      "text": " Anyayam"
+    },
+    {
+      "start": 237.79,
+      "end": 242.79,
+      "text": " Laabham"
+    },
+    {
+      "start": 242.79,
+      "end": 249.79,
+      "text": " Avar ka aithra kittiyalum"
+    },
+    {
+      "start": 249.79,
+      "end": 251.79,
+      "text": " bhalam"
+    },
+    {
+      "start": 251.79,
+      "end": 255.79,
+      "text": " itinde bhalamayi"
+    },
+    {
+      "start": 255.79,
+      "end": 261.79,
+      "text": " panakar"
+    },
+    {
+      "start": 261.79,
+      "end": 267.79,
+      "text": " koodadalayi"
+    },
+    {
+      "start": 267.79,
+      "end": 274.79,
+      "text": " vishamikyugayim chayyugaar"
+    },
+    {
+      "start": 274.79,
+      "end": 302.91,
+      "text": " kastakaalam, kastakaalam, vendi, vendi, prarthikyuga, prarthikyuga, prarthichu, prarthichu, alladhe, alladhe, rakshah, rakshah,"
+    },
+    {
+      "start": 304.79,
+      "end": 305.63,
+      "text": " Varaarai."
+    },
+    {
+      "start": 307.37,
+      "end": 308.21,
+      "text": " Varaarai."
+    },
+    {
+      "start": 310.69,
+      "end": 313.17,
+      "text": " Lesson 22. Reading Practice."
+    },
+    {
+      "start": 313.65,
+      "end": 321.95,
+      "text": " A. Note the difference between single and double ka as the suffix kaar is added to the following nouns."
+    },
+    {
+      "start": 323.21,
+      "end": 326.93,
+      "text": " Read along with the speaker as he reads through the list of items."
+    },
+    {
+      "start": 327.35,
+      "end": 328.61,
+      "text": " Each item is given once."
+    },
+    {
+      "start": 329.41,
+      "end": 332.43,
+      "text": " Space is left afterward for you to repeat if you wish."
+    },
+    {
+      "start": 332.43,
+      "end": 333.15,
+      "text": " Ready?"
+    },
+    {
+      "start": 333.15,
+      "end": 335.65,
+      "text": " Read and repeat."
+    },
+    {
+      "start": 363.15,
+      "end": 366.47,
+      "text": " Busugar"
+    },
+    {
+      "start": 366.47,
+      "end": 369.71,
+      "text": " Karugar"
+    },
+    {
+      "start": 369.71,
+      "end": 372.89,
+      "text": " Taxicar"
+    },
+    {
+      "start": 372.89,
+      "end": 376.37,
+      "text": " Vallakar"
+    },
+    {
+      "start": 376.37,
+      "end": 379.63,
+      "text": " Kadakar"
+    },
+    {
+      "start": 379.63,
+      "end": 382.47,
+      "text": " Kapikar"
+    },
+    {
+      "start": 382.47,
+      "end": 385.47,
+      "text": " Pallikar"
+    },
+    {
+      "start": 385.47,
+      "end": 388.59,
+      "text": " Kootugar"
+    },
+    {
+      "start": 388.59,
+      "end": 391.93,
+      "text": " Aavishyakar"
+    },
+    {
+      "start": 391.93,
+      "end": 395.39,
+      "text": " Aviprayakkar"
+    },
+    {
+      "start": 395.39,
+      "end": 399.39,
+      "text": " Hindumadakkar"
+    },
+    {
+      "start": 399.39,
+      "end": 402.91,
+      "text": " Sadharanakkar"
+    },
+    {
+      "start": 402.91,
+      "end": 406.01,
+      "text": " Panakkar"
+    },
+    {
+      "start": 406.01,
+      "end": 409.03,
+      "text": " Natugar"
+    },
+    {
+      "start": 409.03,
+      "end": 412.75,
+      "text": " Amerikyakkar"
+    },
+    {
+      "start": 412.75,
+      "end": 416.35,
+      "text": " Indiakkar"
+    },
+    {
+      "start": 416.35,
+      "end": 419.41,
+      "text": " Kochikkar"
+    },
+    {
+      "start": 421.93,
+      "end": 422.73,
+      "text": " Go a lot to God."
+    }
+  ]
+}

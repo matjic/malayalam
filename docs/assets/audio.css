@@ -8,7 +8,7 @@
 .lesson-audio p { margin: 0.35rem 0; }
 .lesson-audio audio { display: block; width: 100%; max-width: 38rem; margin: 0.65rem 0; }
 .lesson-audio-cues { display: flex; flex-wrap: wrap; gap: 0.5rem; }
-.lesson-audio-cues button {
+.lesson-audio-cues button, .row-audio-button {
   padding: 0.45rem 0.7rem;
   border: 1px solid #697b88;
   border-radius: 4px;
@@ -21,3 +21,8 @@
 .lesson-audio-cues button[aria-pressed="true"] { background: #e0edf4; border-color: #166a98; }
 .lesson-audio-cues button:focus-visible { outline: 2px solid #166a98; outline-offset: 2px; }
 .lesson-audio-note { font-size: 0.9em; color: #4c5b65; }
+.row-audio-button { margin: 0.15rem 0.3rem 0.15rem 0; font-size: 0.9em; }
+.row-audio-button:hover { background: #e9f0f4; }
+.row-audio-button[aria-pressed="true"] { background: #e0edf4; border-color: #166a98; }
+.row-audio-button:focus-visible { outline: 2px solid #166a98; outline-offset: 2px; }
+.audio-unmatched { color: #697b88; }

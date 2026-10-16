@@ -1,0 +1,308 @@
+[
+  {
+    "audio": "docs/assets/audio/moag/boundary-trial/lesson_24_sneham.mp3",
+    "coreml": "സ്നേഹം സ്നേഹം",
+    "tokens": [
+      {
+        "id": 94,
+        "piece": "▁സ്",
+        "start": 0.32,
+        "duration": 0.12
+      },
+      {
+        "id": 358,
+        "piece": "ന",
+        "start": 0.44,
+        "duration": 0.12
+      },
+      {
+        "id": 380,
+        "piece": "േ",
+        "start": 0.56,
+        "duration": 0.08
+      },
+      {
+        "id": 404,
+        "piece": "ഹ",
+        "start": 0.64,
+        "duration": 0.16
+      },
+      {
+        "id": 370,
+        "piece": "ം",
+        "start": 0.8,
+        "duration": 0.16
+      },
+      {
+        "id": 94,
+        "piece": "▁സ്",
+        "start": 2.56,
+        "duration": 0.16
+      },
+      {
+        "id": 358,
+        "piece": "ന",
+        "start": 2.72,
+        "duration": 0.12
+      },
+      {
+        "id": 380,
+        "piece": "േ",
+        "start": 2.84,
+        "duration": 0.08
+      },
+      {
+        "id": 404,
+        "piece": "ഹ",
+        "start": 2.92,
+        "duration": 0.16
+      },
+      {
+        "id": 370,
+        "piece": "ം",
+        "start": 3.08,
+        "duration": 0.16
+      }
+    ],
+    "nemo": "സ്നേഹം സ്നേഹം",
+    "matches_nemo": true
+  },
+  {
+    "audio": "docs/assets/audio/moag/boundary-trial/lesson_24_thammil.mp3",
+    "coreml": "തമ്മിൽ തമ്മിൽ",
+    "tokens": [
+      {
+        "id": 39,
+        "piece": "▁ത",
+        "start": 0.32,
+        "duration": 0.16
+      },
+      {
+        "id": 214,
+        "piece": "മ്മ",
+        "start": 0.48,
+        "duration": 0.16
+      },
+      {
+        "id": 49,
+        "piece": "ിൽ",
+        "start": 0.64,
+        "duration": 0.16
+      },
+      {
+        "id": 39,
+        "piece": "▁ത",
+        "start": 2.24,
+        "duration": 0.16
+      },
+      {
+        "id": 214,
+        "piece": "മ്മ",
+        "start": 2.4,
+        "duration": 0.16
+      },
+      {
+        "id": 49,
+        "piece": "ിൽ",
+        "start": 2.56,
+        "duration": 0.16
+      }
+    ],
+    "nemo": "തമ്മിൽ തമ്മിൽ",
+    "matches_nemo": true
+  },
+  {
+    "audio": "docs/assets/audio/moag/boundary-trial/lesson_24_gunam.mp3",
+    "coreml": "ഗുണം ഗുണം",
+    "tokens": [
+      {
+        "id": 146,
+        "piece": "▁ഗ",
+        "start": 0.44,
+        "duration": 0.12
+      },
+      {
+        "id": 359,
+        "piece": "ു",
+        "start": 0.56,
+        "duration": 0.12
+      },
+      {
+        "id": 125,
+        "piece": "ണം",
+        "start": 0.68,
+        "duration": 0.16
+      },
+      {
+        "id": 146,
+        "piece": "▁ഗ",
+        "start": 2.88,
+        "duration": 0.12
+      },
+      {
+        "id": 359,
+        "piece": "ു",
+        "start": 3.0,
+        "duration": 0.12
+      },
+      {
+        "id": 125,
+        "piece": "ണം",
+        "start": 3.12,
+        "duration": 0.16
+      }
+    ],
+    "nemo": "ഗുണം ഗുണം",
+    "matches_nemo": true
+  },
+  {
+    "audio": "docs/assets/audio/moag/boundary-trial/lesson_24_kuravu.mp3",
+    "coreml": "കുറവ് കുറവ്",
+    "tokens": [
+      {
+        "id": 223,
+        "piece": "▁കുറ",
+        "start": 0.24,
+        "duration": 0.16
+      },
+      {
+        "id": 369,
+        "piece": "വ",
+        "start": 0.52,
+        "duration": 0.12
+      },
+      {
+        "id": 354,
+        "piece": "്",
+        "start": 0.64,
+        "duration": 0.08
+      },
+      {
+        "id": 223,
+        "piece": "▁കുറ",
+        "start": 2.16,
+        "duration": 0.16
+      },
+      {
+        "id": 369,
+        "piece": "വ",
+        "start": 2.44,
+        "duration": 0.12
+      },
+      {
+        "id": 354,
+        "piece": "്",
+        "start": 2.56,
+        "duration": 0.16
+      }
+    ],
+    "nemo": "കുറവ് കുറവ്",
+    "matches_nemo": true
+  },
+  {
+    "audio": "docs/assets/audio/moag/boundary-trial/lesson_21_tharuka.mp3",
+    "coreml": "തരുക തരുക",
+    "tokens": [
+      {
+        "id": 39,
+        "piece": "▁ത",
+        "start": 0.24,
+        "duration": 0.16
+      },
+      {
+        "id": 20,
+        "piece": "രു",
+        "start": 0.4,
+        "duration": 0.16
+      },
+      {
+        "id": 357,
+        "piece": "ക",
+        "start": 0.56,
+        "duration": 0.16
+      },
+      {
+        "id": 39,
+        "piece": "▁ത",
+        "start": 1.84,
+        "duration": 0.16
+      },
+      {
+        "id": 20,
+        "piece": "രു",
+        "start": 2.0,
+        "duration": 0.16
+      },
+      {
+        "id": 357,
+        "piece": "ക",
+        "start": 2.16,
+        "duration": 0.16
+      }
+    ],
+    "nemo": "തരുക തരുക",
+    "matches_nemo": true
+  },
+  {
+    "audio": "docs/assets/audio/moag/boundary-trial/lesson_21_paranjutharuka.mp3",
+    "coreml": "പറഞ്ഞു തരുക, പറഞ്ഞു തരുക",
+    "tokens": [
+      {
+        "id": 300,
+        "piece": "▁പറഞ്ഞു",
+        "start": 0.28,
+        "duration": 0.16
+      },
+      {
+        "id": 39,
+        "piece": "▁ത",
+        "start": 0.6,
+        "duration": 0.16
+      },
+      {
+        "id": 20,
+        "piece": "രു",
+        "start": 0.76,
+        "duration": 0.16
+      },
+      {
+        "id": 357,
+        "piece": "ക",
+        "start": 0.92,
+        "duration": 0.16
+      },
+      {
+        "id": 393,
+        "piece": ",",
+        "start": 1.16,
+        "duration": 0.16
+      },
+      {
+        "id": 300,
+        "piece": "▁പറഞ്ഞു",
+        "start": 2.44,
+        "duration": 0.16
+      },
+      {
+        "id": 39,
+        "piece": "▁ത",
+        "start": 2.92,
+        "duration": 0.12
+      },
+      {
+        "id": 20,
+        "piece": "രു",
+        "start": 3.04,
+        "duration": 0.16
+      },
+      {
+        "id": 357,
+        "piece": "ക",
+        "start": 3.2,
+        "duration": 0.16
+      }
+    ],
+    "nemo": "പറഞ്ഞു തരുക, പറഞ്ഞു തരുക",
+    "matches_nemo": true
+  }
+]

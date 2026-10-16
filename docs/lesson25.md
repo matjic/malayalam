@@ -60,88 +60,107 @@
 <a id="lesson25-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
-| Malayalam | English |
-|---|---|
-| ജന്മദേശം | native land |
-| നദി | river |
-| അരുവി | stream |
-| ഗ്രാമം | village |
-| <!-- Source: PDF page 461; printed page 398. --> തെങ്ങിൻതോപ്പ് | coconut grove |
-| വനം | forest |
-| നിറയുക (past: നിറഞ്ഞു) | to be filled (intr.) |
-| -- നിറഞ്ഞ | which is full of -- |
-| ആരുടേയും | anyone's |
-| ഹൃദയം | heart |
-| കവരുക (past: കവർന്നു) | to steal |
-| ഭൂപ്രകൃതി | geographic layout |
-| മലനാട് | hilly country |
-| ഇടനാട് | middle region |
-| സമതലം | plain, coastal region |
-| ഭാഗിക്കുക | to divide |
-| റബ്ബർ | rubber |
-| തേയില | tea, tea leaves |
-| ഏലം | cardamom |
-| എന്നിവ | et cetera |
-| ഇഞ്ചി | ginger |
-| മഞ്ഞൾ | turmeric |
-| കുരുമുളക് | black pepper |
-| മരച്ചീനി | tapioca |
-| മുതലായവ | et cetera |
-| തെങ്ങ് | coconut tree |
-| തേങ്ങ | coconut |
-| നെല്ല് | rice (paddy) |
-| വിളവ് | crop |
-| ധാന്യം | richness |
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Vocabulary audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 25: Vocabulary audio" src="assets/audio/moag/sections/lesson_25_vocabulary_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_25_vocabulary_0.mp3" aria-pressed="true">Listen · 06:23</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
+<!-- moag-vocabulary-words -->
+<div class="lesson-audio">
+<p><strong>Selected vocabulary recording</strong></p>
+<audio data-table-audio-player controls preload="none" aria-label="Lesson 25: select a word in the vocabulary table"></audio>
+<p class="lesson-audio-note">Use the Audio column to hear a word. Recorded variants appear beside their written entry; additional recorded forms are included in the same table. Unconfirmed recordings stay in rows marked “check match” until their word is verified. A dash means no aligned recording yet.</p>
+</div>
+<!-- /moag-vocabulary-words -->
+
+| Malayalam | English | Audio |
+|---|---|---|
+| ജന്മദേശം | native land | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_001.mp3" data-audio-label="ജന്മദേശം" aria-label="Play ജന്മദേശം" title="Play ജന്മദേശം" aria-pressed="false">▶</button> |
+| നദി | river | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_002.mp3" data-audio-label="നദി" aria-label="Play നദി" title="Play നദി" aria-pressed="false">▶</button> |
+| അരുവി | stream | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_003.mp3" data-audio-label="അരുവി" aria-label="Play അരുവി" title="Play അരുവി" aria-pressed="false">▶</button> |
+| ഗ്രാമം | village | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_004.mp3" data-audio-label="ഗ്രാമം" aria-label="Play ഗ്രാമം" title="Play ഗ്രാമം" aria-pressed="false">▶</button> |
+| <!-- Source: PDF page 461; printed page 398. --> തെങ്ങിൻതോപ്പ് | coconut grove | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_005.mp3" data-audio-label="തെങ്ങിൻതോപ്പ്" aria-label="Play തെങ്ങിൻതോപ്പ്" title="Play തെങ്ങിൻതോപ്പ്" aria-pressed="false">▶</button> |
+| വനം | forest | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_006.mp3" data-audio-label="വനം" aria-label="Play വനം" title="Play വനം" aria-pressed="false">▶</button> |
+| നിറയുക (past: നിറഞ്ഞു) | to be filled (intr.) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_007.mp3" data-audio-label="നിറയുക" aria-label="Play നിറയുക" title="Play നിറയുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_008.mp3" data-audio-label="നിറഞ്ഞു" aria-label="Play നിറഞ്ഞു" title="Play നിറഞ്ഞു" aria-pressed="false">▶ <span lang="ml">നിറഞ്ഞു</span></button> |
+| -- നിറഞ്ഞ | which is full of -- | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_009.mp3" data-audio-label="നിറഞ്ഞ" aria-label="Play നിറഞ്ഞ" title="Play നിറഞ്ഞ" aria-pressed="false">▶</button> |
+| ആരുടേയും | anyone's | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_010.mp3" data-audio-label="ആരുടേയും" aria-label="Play ആരുടേയും" title="Play ആരുടേയും" aria-pressed="false">▶</button> |
+| ഹൃദയം | heart | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_011.mp3" data-audio-label="ഹൃദയം" aria-label="Play ഹൃദയം" title="Play ഹൃദയം" aria-pressed="false">▶</button> |
+| കവരുക (past: കവർന്നു) | to steal | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_012.mp3" data-audio-label="കവരുക" aria-label="Play കവരുക" title="Play കവരുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_013.mp3" data-audio-label="കവർന്നു" aria-label="Play കവർന്നു" title="Play കവർന്നു" aria-pressed="false">▶ <span lang="ml">കവർന്നു</span></button> |
+| ഭൂപ്രകൃതി | geographic layout | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_014.mp3" data-audio-label="ഭൂപ്രകൃതി" aria-label="Play ഭൂപ്രകൃതി" title="Play ഭൂപ്രകൃതി" aria-pressed="false">▶</button> |
+| മലനാട് | hilly country | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_015.mp3" data-audio-label="മലനാട്" aria-label="Play മലനാട്" title="Play മലനാട്" aria-pressed="false">▶</button> |
+| ഇടനാട് | middle region | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_016.mp3" data-audio-label="ഇടനാട്" aria-label="Play ഇടനാട്" title="Play ഇടനാട്" aria-pressed="false">▶</button> |
+| സമതലം | plain, coastal region | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_017.mp3" data-audio-label="സമതലം" aria-label="Play സമതലം" title="Play സമതലം" aria-pressed="false">▶</button> |
+| ഭാഗിക്കുക | to divide | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_018.mp3" data-audio-label="ഭാഗിക്കുക" aria-label="Play ഭാഗിക്കുക" title="Play ഭാഗിക്കുക" aria-pressed="false">▶</button> |
+| റബ്ബർ | rubber | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_019.mp3" data-audio-label="റബ്ബർ" aria-label="Play റബ്ബർ" title="Play റബ്ബർ" aria-pressed="false">▶</button> |
+| തേയില | tea, tea leaves | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_020.mp3" data-audio-label="തേയില" aria-label="Play തേയില" title="Play തേയില" aria-pressed="false">▶</button> |
+| ഏലം | cardamom | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_021.mp3" data-audio-label="ഏലം" aria-label="Play ഏലം" title="Play ഏലം" aria-pressed="false">▶</button> |
+| എന്നിവ | et cetera | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_022.mp3" data-audio-label="എന്നിവ" aria-label="Play എന്നിവ" title="Play എന്നിവ" aria-pressed="false">▶</button> |
+| ഇഞ്ചി | ginger | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_023.mp3" data-audio-label="ഇഞ്ചി" aria-label="Play ഇഞ്ചി" title="Play ഇഞ്ചി" aria-pressed="false">▶</button> |
+| മഞ്ഞൾ | turmeric | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_024.mp3" data-audio-label="മഞ്ഞൾ" aria-label="Play മഞ്ഞൾ" title="Play മഞ്ഞൾ" aria-pressed="false">▶</button> |
+| കുരുമുളക് | black pepper | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_025.mp3" data-audio-label="കുരുമുളക്" aria-label="Play കുരുമുളക്" title="Play കുരുമുളക്" aria-pressed="false">▶</button> |
+| മരച്ചീനി | tapioca | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_026.mp3" data-audio-label="മരച്ചീനി" aria-label="Play മരച്ചീനി" title="Play മരച്ചീനി" aria-pressed="false">▶</button> |
+| മുതലായവ | et cetera | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_027.mp3" data-audio-label="മുതലായവ" aria-label="Play മുതലായവ" title="Play മുതലായവ" aria-pressed="false">▶</button> |
+| തെങ്ങ് | coconut tree | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_028.mp3" data-audio-label="തെങ്ങ്" aria-label="Play തെങ്ങ്" title="Play തെങ്ങ്" aria-pressed="false">▶</button> |
+| തേങ്ങ | coconut | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_029.mp3" data-audio-label="തേങ്ങ" aria-label="Play തേങ്ങ" title="Play തേങ്ങ" aria-pressed="false">▶</button> |
+| നെല്ല് | rice (paddy) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_030.mp3" data-audio-label="നെല്ല്" aria-label="Play നെല്ല്" title="Play നെല്ല്" aria-pressed="false">▶</button> |
+| വിളവ് | crop | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_031.mp3" data-audio-label="വിളവ്" aria-label="Play വിളവ്" title="Play വിളവ്" aria-pressed="false">▶</button> |
+| ധാന്യം | richness | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_032.mp3" data-audio-label="ധാന്യം" aria-label="Play ധാന്യം" title="Play ധാന്യം" aria-pressed="false">▶</button> |
 
 > **Editorial source note:** The source glosses ധാന്യം as “richness,” but the reading and exercise 3.8 use ധന്യമായ/ധന്യമാണ്. The vocabulary entry and the intended adjective need linguistic review.
 
-| Malayalam | English |
-|---|---|
-| പാശ്ചാത്യർ | westerners |
-| ആകർഷിക്കുക | to attract |
-| ജീവിതം | life |
-| ജീവിതരീതി | lifestyle |
-| ലഘു | light (adj) |
-| ലളിതം | simple |
-| പുരുഷൻ | man |
-| മുണ്ട് | a white saronglike lower garment |
-| <!-- Source: PDF page 462; printed page 399. --> ജുബ്ബ | a kind of shirt |
-| ധരിക്കുക | to wear |
-| ആഭരണം | ornament |
-| തൊഴിൽ | occupation |
-| കയർ, കയറ് | coir |
-| കയറുപിരിക്കൽ | twisting of coconut fiber into coir |
-| മീൻപിടുത്തം | fishing, catching fish |
-| വ്യവസായം | industry |
-| നവീന | new |
-| വിദ്യാഭ്യാസം | education |
-| സ്ഥാനം | place |
-| താൽപര്യം | interest |
-| കേരളീയ | belonging to Kerala |
-| കഥകളി | a spectacular lyric dance drama of Kerala based on Hindu mythology |
-| ഓട്ടംതുള്ളൽ | another lyric dance drama of Kerala |
-| മോഹിനിയാട്ടം | a Kerala dance form similar to Bharatnatyam |
-| പ്രസിദ്ധി | fame |
-| സംഗീതം | music |
-| ഉയരുക (past: ഉയർന്നു) | to rise |
-| ഉയർന്ന | exalted, high |
-| കരകൗശലസാധനം | handicraft |
-| മതിപ്പ് | reputation, esteem |
-| ചുരുക്കം | few, scarce |
-| ഒരുമ | unity, fellowship |
-| ജീവിക്കുക | to live |
-| ജീവിച്ചുവരുക | to be living |
-| യഹൂദൻ | Jew |
-| സംസ്കാരം | culture |
-| സ്വാഗതം (noun) | welcome |
-| സന്ദർശിക്കുക | to visit |
-| കൈ കൂപ്പുക | to fold hands |
-| <!-- Source: PDF page 463; printed page 400. --> കൈകൂപ്പി സ്വാഗതം ചെയ്യുക | to welcome with folded hands (traditional Indian way of welcome) |
-| തൃപ്തി | satisfaction |
-| തൃപ്തിപ്പെടുത്തുക | to satisfy |
-| സുഖിക്കുക (past: സുഖിച്ചു) | to enjoy |
-| സുഖിച്ച് നടക്കുക | to take it easy, to loaf |
-| അല്ലാതെ | instead |
+| Malayalam | English | Audio |
+|---|---|---|
+| പാശ്ചാത്യർ | westerners | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_033.mp3" data-audio-label="പാശ്ചാത്യർ" aria-label="Play പാശ്ചാത്യർ" title="Play പാശ്ചാത്യർ" aria-pressed="false">▶</button> |
+| ആകർഷിക്കുക | to attract | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_034.mp3" data-audio-label="ആകർഷിക്കുക" aria-label="Play ആകർഷിക്കുക" title="Play ആകർഷിക്കുക" aria-pressed="false">▶</button> |
+| ജീവിതം | life | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_035.mp3" data-audio-label="ജീവിതം" aria-label="Play ജീവിതം" title="Play ജീവിതം" aria-pressed="false">▶</button> |
+| ജീവിതരീതി | lifestyle | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_036.mp3" data-audio-label="ജീവിതരീതി" aria-label="Play ജീവിതരീതി" title="Play ജീവിതരീതി" aria-pressed="false">▶</button> |
+| ലഘു | light (adj) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_037.mp3" data-audio-label="ലഘു" aria-label="Play ലഘു" title="Play ലഘു" aria-pressed="false">▶</button> |
+| ലളിതം | simple | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_038.mp3" data-audio-label="ലളിതം" aria-label="Play ലളിതം" title="Play ലളിതം" aria-pressed="false">▶</button> |
+| പുരുഷൻ | man | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_039.mp3" data-audio-label="പുരുഷൻ" aria-label="Play പുരുഷൻ" title="Play പുരുഷൻ" aria-pressed="false">▶</button> |
+| മുണ്ട് | a white saronglike lower garment | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_040.mp3" data-audio-label="മുണ്ട്" aria-label="Play മുണ്ട്" title="Play മുണ്ട്" aria-pressed="false">▶</button> |
+| <!-- Source: PDF page 462; printed page 399. --> ജുബ്ബ | a kind of shirt | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_041.mp3" data-audio-label="ജുബ്ബ" aria-label="Play ജുബ്ബ" title="Play ജുബ്ബ" aria-pressed="false">▶</button> |
+| ധരിക്കുക | to wear | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_042.mp3" data-audio-label="ധരിക്കുക" aria-label="Play ധരിക്കുക" title="Play ധരിക്കുക" aria-pressed="false">▶</button> |
+| ആഭരണം | ornament | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_043.mp3" data-audio-label="ആഭരണം" aria-label="Play ആഭരണം" title="Play ആഭരണം" aria-pressed="false">▶</button> |
+| തൊഴിൽ | occupation | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_044.mp3" data-audio-label="തൊഴിൽ" aria-label="Play തൊഴിൽ" title="Play തൊഴിൽ" aria-pressed="false">▶</button> |
+| കയർ, കയറ് | coir | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_045.mp3" data-audio-label="കയർ" aria-label="Play കയർ" title="Play കയർ" aria-pressed="false">▶ <span lang="ml">കയർ</span></button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_046.mp3" data-audio-label="കയറ്" aria-label="Play കയറ്" title="Play കയറ്" aria-pressed="false">▶ <span lang="ml">കയറ്</span></button> |
+| കയറുപിരിക്കൽ | twisting of coconut fiber into coir | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_047.mp3" data-audio-label="കയറുപിരിക്കൽ" aria-label="Play കയറുപിരിക്കൽ" title="Play കയറുപിരിക്കൽ" aria-pressed="false">▶</button> |
+| മീൻപിടുത്തം | fishing, catching fish | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_048.mp3" data-audio-label="മീൻപിടുത്തം" aria-label="Play മീൻപിടുത്തം" title="Play മീൻപിടുത്തം" aria-pressed="false">▶</button> |
+| വ്യവസായം | industry | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_049.mp3" data-audio-label="വ്യവസായം" aria-label="Play വ്യവസായം" title="Play വ്യവസായം" aria-pressed="false">▶</button> |
+| നവീന | new | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_050.mp3" data-audio-label="നവീന" aria-label="Play നവീന" title="Play നവീന" aria-pressed="false">▶</button> |
+| വിദ്യാഭ്യാസം | education | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_051.mp3" data-audio-label="വിദ്യാഭ്യാസം" aria-label="Play വിദ്യാഭ്യാസം" title="Play വിദ്യാഭ്യാസം" aria-pressed="false">▶</button> |
+| സ്ഥാനം | place | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_052.mp3" data-audio-label="സ്ഥാനം" aria-label="Play സ്ഥാനം" title="Play സ്ഥാനം" aria-pressed="false">▶</button> |
+| താൽപര്യം | interest | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_053.mp3" data-audio-label="താൽപര്യം" aria-label="Play താൽപര്യം" title="Play താൽപര്യം" aria-pressed="false">▶</button> |
+| കേരളീയ | belonging to Kerala | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_054.mp3" data-audio-label="കേരളീയ" aria-label="Play കേരളീയ" title="Play കേരളീയ" aria-pressed="false">▶</button> |
+| കഥകളി | a spectacular lyric dance drama of Kerala based on Hindu mythology | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_055.mp3" data-audio-label="കഥകളി" aria-label="Play കഥകളി" title="Play കഥകളി" aria-pressed="false">▶</button> |
+| ഓട്ടംതുള്ളൽ | another lyric dance drama of Kerala | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_056.mp3" data-audio-label="ഓട്ടംതുള്ളൽ" aria-label="Play ഓട്ടംതുള്ളൽ" title="Play ഓട്ടംതുള്ളൽ" aria-pressed="false">▶</button> |
+| മോഹിനിയാട്ടം | a Kerala dance form similar to Bharatnatyam | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_057.mp3" data-audio-label="മോഹിനിയാട്ടം" aria-label="Play മോഹിനിയാട്ടം" title="Play മോഹിനിയാട്ടം" aria-pressed="false">▶</button> |
+| പ്രസിദ്ധി | fame | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_058.mp3" data-audio-label="പ്രസിദ്ധി" aria-label="Play പ്രസിദ്ധി" title="Play പ്രസിദ്ധി" aria-pressed="false">▶</button> |
+| സംഗീതം | music | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_059.mp3" data-audio-label="സംഗീതം" aria-label="Play സംഗീതം" title="Play സംഗീതം" aria-pressed="false">▶</button> |
+| ഉയരുക (past: ഉയർന്നു) | to rise | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_060.mp3" data-audio-label="ഉയരുക" aria-label="Play ഉയരുക" title="Play ഉയരുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_061.mp3" data-audio-label="ഉയർന്നു" aria-label="Play ഉയർന്നു" title="Play ഉയർന്നു" aria-pressed="false">▶ <span lang="ml">ഉയർന്നു</span></button> |
+| ഉയർന്ന | exalted, high | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_062.mp3" data-audio-label="ഉയർന്ന" aria-label="Play ഉയർന്ന" title="Play ഉയർന്ന" aria-pressed="false">▶</button> |
+| കരകൗശലസാധനം | handicraft | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_063.mp3" data-audio-label="കരകൗശലസാധനം" aria-label="Play കരകൗശലസാധനം" title="Play കരകൗശലസാധനം" aria-pressed="false">▶</button> |
+| മതിപ്പ് | reputation, esteem | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_064.mp3" data-audio-label="മതിപ്പ്" aria-label="Play മതിപ്പ്" title="Play മതിപ്പ്" aria-pressed="false">▶</button> |
+| ചുരുക്കം | few, scarce | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_065.mp3" data-audio-label="ചുരുക്കം" aria-label="Play ചുരുക്കം" title="Play ചുരുക്കം" aria-pressed="false">▶</button> |
+| ഒരുമ | unity, fellowship | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_066.mp3" data-audio-label="ഒരുമ" aria-label="Play ഒരുമ" title="Play ഒരുമ" aria-pressed="false">▶</button> |
+| ജീവിക്കുക | to live | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_067.mp3" data-audio-label="ജീവിക്കുക" aria-label="Play ജീവിക്കുക" title="Play ജീവിക്കുക" aria-pressed="false">▶</button> |
+| ജീവിച്ചുവരുക | to be living | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_068.mp3" data-audio-label="ജീവിച്ചുവരുക" aria-label="Play ജീവിച്ചുവരുക" title="Play ജീവിച്ചുവരുക" aria-pressed="false">▶</button> |
+| യഹൂദൻ | Jew | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_069.mp3" data-audio-label="യഹൂദൻ" aria-label="Play യഹൂദൻ" title="Play യഹൂദൻ" aria-pressed="false">▶</button> |
+| സംസ്കാരം | culture | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_070.mp3" data-audio-label="സംസ്കാരം" aria-label="Play സംസ്കാരം" title="Play സംസ്കാരം" aria-pressed="false">▶</button> |
+| സ്വാഗതം (noun) | welcome | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_071.mp3" data-audio-label="സ്വാഗതം" aria-label="Play സ്വാഗതം" title="Play സ്വാഗതം" aria-pressed="false">▶</button> |
+| സന്ദർശിക്കുക | to visit | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_072.mp3" data-audio-label="സന്ദർശിക്കുക" aria-label="Play സന്ദർശിക്കുക" title="Play സന്ദർശിക്കുക" aria-pressed="false">▶</button> |
+| കൈ കൂപ്പുക | to fold hands | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_073.mp3" data-audio-label="കൈ കൂപ്പുക" aria-label="Play കൈ കൂപ്പുക" title="Play കൈ കൂപ്പുക" aria-pressed="false">▶</button> |
+| <!-- Source: PDF page 463; printed page 400. --> കൈകൂപ്പി സ്വാഗതം ചെയ്യുക | to welcome with folded hands (traditional Indian way of welcome) | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| തൃപ്തി | satisfaction | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_076.mp3" data-audio-label="തൃപ്തി" aria-label="Play തൃപ്തി" title="Play തൃപ്തി" aria-pressed="false">▶</button> |
+| തൃപ്തിപ്പെടുത്തുക | to satisfy | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_077.mp3" data-audio-label="തൃപ്തിപ്പെടുത്തുക" aria-label="Play തൃപ്തിപ്പെടുത്തുക" title="Play തൃപ്തിപ്പെടുത്തുക" aria-pressed="false">▶</button> |
+| സുഖിക്കുക (past: സുഖിച്ചു) | to enjoy | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_078.mp3" data-audio-label="സുഖിക്കുക" aria-label="Play സുഖിക്കുക" title="Play സുഖിക്കുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_079.mp3" data-audio-label="സുഖിച്ചു" aria-label="Play സുഖിച്ചു" title="Play സുഖിച്ചു" aria-pressed="false">▶ <span lang="ml">സുഖിച്ചു</span></button> |
+| സുഖിച്ച് നടക്കുക | to take it easy, to loaf | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| അല്ലാതെ | instead | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| <!-- recorded-audio-row --> കൈ കൂപ്പി | with hands joined in greeting | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_074.mp3" data-audio-label="കൈ കൂപ്പി" aria-label="Play കൈ കൂപ്പി" title="Play കൈ കൂപ്പി" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> സ്വാഗതം ചെയ്യുക | to welcome | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_075.mp3" data-audio-label="സ്വാഗതം ചെയ്യുക" aria-label="Play സ്വാഗതം ചെയ്യുക" title="Play സ്വാഗതം ചെയ്യുക" aria-pressed="false">▶</button> |
 
 <a id="lesson25-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice

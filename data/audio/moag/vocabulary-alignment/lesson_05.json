@@ -1,0 +1,766 @@
+{
+  "pipeline_version": 6,
+  "lesson": 5,
+  "source": "data/audio/moag/lesson_05.mp3",
+  "model": "Whisper large-v3 (32 encoder and 32 decoder layers), MLX",
+  "range_start": 14.59,
+  "range_end": 116.93,
+  "method": "Acoustic cepstrum comparison pairs repeated utterances independently of textbook order; large-v3 word end timestamps matched to pauses, then global spelling assignment against printed vocabulary (order is only a weak tie-breaker). Low-confidence labels require review. Raw recognizer text retained.",
+  "words": [
+    {
+      "utterances": [
+        {
+          "start": 15.8215,
+          "end": 16.4956
+        },
+        {
+          "start": 17.8614,
+          "end": 18.5648
+        }
+      ],
+      "raw_texts": [
+        "കിഷ്ണാണ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 14.59,
+          "end": 36.15,
+          "text": " Krishna, Krishna, Muri, Muri, Irikinnu, Irikinnu, Chayinnu, Chayinnu, Padikinnu, Padikinnu,"
+        }
+      ],
+      "transcript": "കൃഷ്ണൻ",
+      "meaning": "a male name",
+      "textbook_row": 0,
+      "similarity": 0.6,
+      "status": "review",
+      "id": "lesson_05_word_001"
+    },
+    {
+      "utterances": [
+        {
+          "start": 19.9659,
+          "end": 20.5349
+        },
+        {
+          "start": 21.8714,
+          "end": 22.4791
+        }
+      ],
+      "raw_texts": [
+        "മൂരീ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 14.59,
+          "end": 36.15,
+          "text": " Krishna, Krishna, Muri, Muri, Irikinnu, Irikinnu, Chayinnu, Chayinnu, Padikinnu, Padikinnu,"
+        }
+      ],
+      "transcript": "മുറി",
+      "meaning": "room",
+      "textbook_row": 1,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_05_word_002"
+    },
+    {
+      "utterances": [
+        {
+          "start": 23.9385,
+          "end": 24.7719
+        },
+        {
+          "start": 26.1694,
+          "end": 26.9831
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 14.59,
+          "end": 36.15,
+          "text": " Krishna, Krishna, Muri, Muri, Irikinnu, Irikinnu, Chayinnu, Chayinnu, Padikinnu, Padikinnu,"
+        }
+      ],
+      "transcript": "",
+      "meaning": "",
+      "textbook_row": null,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_05_word_003"
+    },
+    {
+      "utterances": [
+        {
+          "start": 29.159,
+          "end": 29.9093
+        },
+        {
+          "start": 31.3374,
+          "end": 32.1349
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 14.59,
+          "end": 36.15,
+          "text": " Krishna, Krishna, Muri, Muri, Irikinnu, Irikinnu, Chayinnu, Chayinnu, Padikinnu, Padikinnu,"
+        }
+      ],
+      "transcript": "പഠിക്കുന്നു",
+      "meaning": "is, am, are studying",
+      "textbook_row": 4,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_05_word_004"
+    },
+    {
+      "utterances": [
+        {
+          "start": 33.4417,
+          "end": 34.2336
+        },
+        {
+          "start": 35.3661,
+          "end": 36.1814
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 14.59,
+          "end": 36.15,
+          "text": " Krishna, Krishna, Muri, Muri, Irikinnu, Irikinnu, Chayinnu, Chayinnu, Padikinnu, Padikinnu,"
+        }
+      ],
+      "transcript": "വായിക്കുന്നു",
+      "meaning": "is, am, are reading",
+      "textbook_row": 5,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_05_word_005"
+    },
+    {
+      "utterances": [
+        {
+          "start": 37.8727,
+          "end": 38.7313
+        },
+        {
+          "start": 39.8659,
+          "end": 41.3369
+        }
+      ],
+      "raw_texts": [
+        "",
+        "ഇരിക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക"
+      ],
+      "english_segments": [
+        {
+          "start": 36.15,
+          "end": 49.15,
+          "text": " baikinnu baikinnu cinema cinema kaanaan kaanaan"
+        }
+      ],
+      "transcript": "ഇരിക്കുന്നു",
+      "meaning": "is, am, are sitting",
+      "textbook_row": 2,
+      "similarity": 0.727,
+      "status": "matched",
+      "id": "lesson_05_word_006"
+    },
+    {
+      "utterances": [
+        {
+          "start": 42.149,
+          "end": 42.7747
+        },
+        {
+          "start": 43.9455,
+          "end": 44.6397
+        }
+      ],
+      "raw_texts": [
+        "സിന്മാ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 36.15,
+          "end": 49.15,
+          "text": " baikinnu baikinnu cinema cinema kaanaan kaanaan"
+        }
+      ],
+      "transcript": "സിനിമ",
+      "meaning": "movie, film, cinema",
+      "textbook_row": 6,
+      "similarity": 0.8,
+      "status": "matched",
+      "id": "lesson_05_word_007"
+    },
+    {
+      "utterances": [
+        {
+          "start": 45.5415,
+          "end": 46.3702
+        },
+        {
+          "start": 47.3786,
+          "end": 48.1556
+        }
+      ],
+      "raw_texts": [
+        "കാണാണ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 36.15,
+          "end": 49.15,
+          "text": " baikinnu baikinnu cinema cinema kaanaan kaanaan"
+        }
+      ],
+      "transcript": "കാണാൻ",
+      "meaning": "to see",
+      "textbook_row": 7,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_05_word_008"
+    },
+    {
+      "utterances": [
+        {
+          "start": 49.1851,
+          "end": 49.9553
+        },
+        {
+          "start": 51.118,
+          "end": 51.8972
+        }
+      ],
+      "raw_texts": [
+        "പോകന്നു",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 49.15,
+          "end": 54.65,
+          "text": " I'm going."
+        }
+      ],
+      "transcript": "പോകുന്നു",
+      "meaning": "is, am, are going",
+      "textbook_row": 8,
+      "similarity": 0.909,
+      "status": "matched",
+      "id": "lesson_05_word_009"
+    },
+    {
+      "utterances": [
+        {
+          "start": 54.7818,
+          "end": 55.3687
+        },
+        {
+          "start": 56.628,
+          "end": 57.2565
+        }
+      ],
+      "raw_texts": [
+        "",
+        "ഇല്ല്ലെ"
+      ],
+      "english_segments": [
+        {
+          "start": 54.65,
+          "end": 58.65,
+          "text": " No."
+        }
+      ],
+      "transcript": "ഇല്ലേ",
+      "meaning": "question form of ഇല്ല",
+      "textbook_row": 10,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_05_word_010"
+    },
+    {
+      "utterances": [
+        {
+          "start": 58.8817,
+          "end": 59.499
+        },
+        {
+          "start": 61.0357,
+          "end": 61.6879
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 58.65,
+          "end": 63.65,
+          "text": " No."
+        }
+      ],
+      "transcript": "ചെയ്യുന്നു",
+      "meaning": "is, am, are doing",
+      "textbook_row": 3,
+      "similarity": 0.237,
+      "status": "review",
+      "id": "lesson_05_word_011"
+    },
+    {
+      "utterances": [
+        {
+          "start": 63.6614,
+          "end": 64.4741
+        },
+        {
+          "start": 65.8525,
+          "end": 66.6723
+        }
+      ],
+      "raw_texts": [
+        "വരുന്ന്നെ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 63.65,
+          "end": 67.65,
+          "text": " Not coming."
+        }
+      ],
+      "transcript": "വരുന്നില്ല",
+      "meaning": "is, am, are not coming",
+      "textbook_row": 11,
+      "similarity": 0.727,
+      "status": "matched",
+      "id": "lesson_05_word_012"
+    },
+    {
+      "utterances": [
+        {
+          "start": 67.9871,
+          "end": 68.6582
+        },
+        {
+          "start": 69.8892,
+          "end": 70.5418
+        }
+      ],
+      "raw_texts": [
+        "കാര്യം",
+        "എന്നെ"
+      ],
+      "english_segments": [
+        {
+          "start": 67.65,
+          "end": 72.15,
+          "text": " Thing."
+        }
+      ],
+      "transcript": "കാര്യം",
+      "meaning": "matter",
+      "textbook_row": 12,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_05_word_013"
+    },
+    {
+      "utterances": [
+        {
+          "start": 72.4317,
+          "end": 73.95
+        },
+        {
+          "start": 75.8155,
+          "end": 77.2228
+        }
+      ],
+      "raw_texts": [
+        "കുറച് ജോലി ഉണ്ട്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 72.15,
+          "end": 78.65,
+          "text": " I have some work."
+        }
+      ],
+      "transcript": "എനിക്ക് കുറച്ച് ജോലി ഉണ്ട്",
+      "meaning": "I have some work",
+      "textbook_row": 13,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_05_word_014"
+    },
+    {
+      "utterances": [
+        {
+          "start": 79.5733,
+          "end": 80.1412
+        },
+        {
+          "start": 81.638,
+          "end": 82.2349
+        }
+      ],
+      "raw_texts": [
+        "അല്ലേ?",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 78.65,
+          "end": 105.11,
+          "text": " Allay, Allay, Angani, Angani, Pakche, Pakche, Malayalam, Malayalam, Ennal, Ennal, Pinne, Pinne,"
+        }
+      ],
+      "transcript": "അല്ലേ?",
+      "meaning": "isn’t, aren’t, you, they, etc. (question form of അല്ല)",
+      "textbook_row": 14,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_05_word_015"
+    },
+    {
+      "utterances": [
+        {
+          "start": 84.0615,
+          "end": 84.7118
+        },
+        {
+          "start": 86.2569,
+          "end": 86.9413
+        }
+      ],
+      "raw_texts": [
+        "അങ്ങനെ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 78.65,
+          "end": 105.11,
+          "text": " Allay, Allay, Angani, Angani, Pakche, Pakche, Malayalam, Malayalam, Ennal, Ennal, Pinne, Pinne,"
+        }
+      ],
+      "transcript": "അങ്ങനെ",
+      "meaning": "that way, like that",
+      "textbook_row": 15,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_05_word_016"
+    },
+    {
+      "utterances": [
+        {
+          "start": 88.995,
+          "end": 89.6795
+        },
+        {
+          "start": 90.9961,
+          "end": 91.7109
+        }
+      ],
+      "raw_texts": [
+        "പക്ഷേ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 78.65,
+          "end": 105.11,
+          "text": " Allay, Allay, Angani, Angani, Pakche, Pakche, Malayalam, Malayalam, Ennal, Ennal, Pinne, Pinne,"
+        }
+      ],
+      "transcript": "പക്ഷേ",
+      "meaning": "but",
+      "textbook_row": 16,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_05_word_017"
+    },
+    {
+      "utterances": [
+        {
+          "start": 93.8756,
+          "end": 94.827
+        },
+        {
+          "start": 95.7756,
+          "end": 96.715
+        }
+      ],
+      "raw_texts": [
+        "മലയാളം",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 78.65,
+          "end": 105.11,
+          "text": " Allay, Allay, Angani, Angani, Pakche, Pakche, Malayalam, Malayalam, Ennal, Ennal, Pinne, Pinne,"
+        }
+      ],
+      "transcript": "മലയാളം",
+      "meaning": "Malayalam",
+      "textbook_row": 17,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_05_word_018"
+    },
+    {
+      "utterances": [
+        {
+          "start": 98.2921,
+          "end": 99.0211
+        },
+        {
+          "start": 100.2906,
+          "end": 101.0647
+        }
+      ],
+      "raw_texts": [
+        "എന്ങാളി",
+        "എന്ങാളി"
+      ],
+      "english_segments": [
+        {
+          "start": 78.65,
+          "end": 105.11,
+          "text": " Allay, Allay, Angani, Angani, Pakche, Pakche, Malayalam, Malayalam, Ennal, Ennal, Pinne, Pinne,"
+        }
+      ],
+      "transcript": "എന്നാൽ",
+      "meaning": "then, so",
+      "textbook_row": 18,
+      "similarity": 0.8,
+      "status": "matched",
+      "id": "lesson_05_word_019"
+    },
+    {
+      "utterances": [
+        {
+          "start": 102.6442,
+          "end": 103.2447
+        },
+        {
+          "start": 104.6232,
+          "end": 105.2479
+        }
+      ],
+      "raw_texts": [
+        "പിന്നെ",
+        "പിന്നെ"
+      ],
+      "english_segments": [
+        {
+          "start": 78.65,
+          "end": 105.11,
+          "text": " Allay, Allay, Angani, Angani, Pakche, Pakche, Malayalam, Malayalam, Ennal, Ennal, Pinne, Pinne,"
+        }
+      ],
+      "transcript": "പിന്നെ",
+      "meaning": "then, later",
+      "textbook_row": 19,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_05_word_020"
+    },
+    {
+      "utterances": [
+        {
+          "start": 107.9396,
+          "end": 108.6849
+        },
+        {
+          "start": 109.7885,
+          "end": 110.5099
+        }
+      ],
+      "raw_texts": [
+        "കാണാം",
+        "കാണാം"
+      ],
+      "english_segments": [
+        {
+          "start": 105.11,
+          "end": 108.61,
+          "text": " Ka Naam"
+        },
+        {
+          "start": 108.61,
+          "end": 110.51,
+          "text": " Ka Naam"
+        }
+      ],
+      "transcript": "കാണാം",
+      "meaning": "See you later, so long",
+      "textbook_row": 20,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_05_word_021"
+    },
+    {
+      "utterances": [
+        {
+          "start": 111.7252,
+          "end": 112.5169
+        },
+        {
+          "start": 113.8143,
+          "end": 114.6783
+        }
+      ],
+      "raw_texts": [
+        "പിന്നെ കാണാം",
+        "പിന്നെ കാണാം"
+      ],
+      "english_segments": [
+        {
+          "start": 110.51,
+          "end": 112.51,
+          "text": " Binne Ka Naam"
+        },
+        {
+          "start": 112.51,
+          "end": 114.53,
+          "text": " Binne Ka Naam"
+        }
+      ],
+      "transcript": "പിന്നെ കാണാം",
+      "meaning": "See you later, so long",
+      "textbook_row": 20,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_05_word_022"
+    },
+    {
+      "utterances": [
+        {
+          "start": 115.5102,
+          "end": 116.2497
+        }
+      ],
+      "raw_texts": [
+        ""
+      ],
+      "english_segments": [],
+      "transcript": "ഇല്ല",
+      "meaning": "no, (negative of the verb ഉണ്ട്)",
+      "textbook_row": 9,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_05_word_023"
+    }
+  ],
+  "textbook_vocabulary": [
+    {
+      "malayalam": "കൃഷ്ണൻ",
+      "meaning": "a male name"
+    },
+    {
+      "malayalam": "മുറി",
+      "meaning": "room"
+    },
+    {
+      "malayalam": "ഇരിക്കുന്നു",
+      "meaning": "is, am, are sitting"
+    },
+    {
+      "malayalam": "ചെയ്യുന്നു",
+      "meaning": "is, am, are doing"
+    },
+    {
+      "malayalam": "പഠിക്കുന്നു",
+      "meaning": "is, am, are studying"
+    },
+    {
+      "malayalam": "വായിക്കുന്നു",
+      "meaning": "is, am, are reading"
+    },
+    {
+      "malayalam": "സിനിമ (ഫിലിം)",
+      "meaning": "movie, film, cinema"
+    },
+    {
+      "malayalam": "കാണാൻ",
+      "meaning": "to see"
+    },
+    {
+      "malayalam": "പോകുന്നു",
+      "meaning": "is, am, are going"
+    },
+    {
+      "malayalam": "ഇല്ല",
+      "meaning": "no, (negative of the verb ഉണ്ട്)"
+    },
+    {
+      "malayalam": "ഇല്ലേ",
+      "meaning": "question form of ഇല്ല"
+    },
+    {
+      "malayalam": "വരുന്നില്ല",
+      "meaning": "is, am, are not coming"
+    },
+    {
+      "malayalam": "കാര്യം",
+      "meaning": "matter"
+    },
+    {
+      "malayalam": "എനിക്ക് കുറച്ച് ജോലി ഉണ്ട്",
+      "meaning": "I have some work"
+    },
+    {
+      "malayalam": "അല്ലേ?",
+      "meaning": "isn’t, aren’t, you, they, etc. (question form of അല്ല)"
+    },
+    {
+      "malayalam": "അങ്ങനെ",
+      "meaning": "that way, like that"
+    },
+    {
+      "malayalam": "പക്ഷേ",
+      "meaning": "but"
+    },
+    {
+      "malayalam": "മലയാളം",
+      "meaning": "Malayalam"
+    },
+    {
+      "malayalam": "എന്നാൽ",
+      "meaning": "then, so"
+    },
+    {
+      "malayalam": "പിന്നെ",
+      "meaning": "then, later"
+    },
+    {
+      "malayalam": "കാണാം or പിന്നെ കാണാം",
+      "meaning": "See you later, so long"
+    }
+  ],
+  "unmatched_textbook_rows": [],
+  "recognition_sha256": "b34be999cc79b83f3c5aa50ada89cacfb95970a560063315aa9e4590df926ec6",
+  "boundary_sha256": "9fa273cda637d32db51fd1eebef004aa56b41b4cffbf9f905f2c954a780fce6d"
+}

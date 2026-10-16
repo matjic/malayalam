@@ -1,0 +1,2819 @@
+{
+  "pipeline_version": 6,
+  "lesson": 20,
+  "source": "data/audio/moag/lesson_20.mp3",
+  "model": "Whisper large-v3 (32 encoder and 32 decoder layers), MLX",
+  "range_start": 106.04,
+  "range_end": 436.83,
+  "method": "Acoustic cepstrum comparison pairs repeated utterances independently of textbook order; large-v3 word end timestamps matched to pauses, then global spelling assignment against printed vocabulary (order is only a weak tie-breaker). Low-confidence labels require review. Raw recognizer text retained.",
+  "words": [
+    {
+      "utterances": [
+        {
+          "start": 106.8408,
+          "end": 107.5048
+        },
+        {
+          "start": 108.4913,
+          "end": 109.2318
+        }
+      ],
+      "raw_texts": [
+        "ഓണമ്",
+        "ഓണമ്"
+      ],
+      "english_segments": [
+        {
+          "start": 106.94,
+          "end": 107.38,
+          "text": " Onam"
+        },
+        {
+          "start": 107.38,
+          "end": 114.48,
+          "text": " Vilavaduppa"
+        }
+      ],
+      "transcript": "ഓണം",
+      "meaning": "Onam, Kerala Harvest Festival",
+      "textbook_row": 0,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_001"
+    },
+    {
+      "utterances": [
+        {
+          "start": 110.5592,
+          "end": 111.5113
+        },
+        {
+          "start": 112.4502,
+          "end": 113.4063
+        }
+      ],
+      "raw_texts": [
+        "വിളവഡുപ്",
+        "വിളവഡുപ്"
+      ],
+      "english_segments": [
+        {
+          "start": 107.38,
+          "end": 114.48,
+          "text": " Vilavaduppa"
+        }
+      ],
+      "transcript": "വിളവെടുപ്പ്",
+      "meaning": "harvest",
+      "textbook_row": 1,
+      "similarity": 0.933,
+      "status": "matched",
+      "id": "lesson_20_word_002"
+    },
+    {
+      "utterances": [
+        {
+          "start": 115.0176,
+          "end": 115.817
+        },
+        {
+          "start": 116.5378,
+          "end": 117.3179
+        }
+      ],
+      "raw_texts": [
+        "ഉള്സവം",
+        "ഉള്സവം"
+      ],
+      "english_segments": [
+        {
+          "start": 114.48,
+          "end": 117.22,
+          "text": " Ultsavam"
+        }
+      ],
+      "transcript": "ഉൽസവം",
+      "meaning": "festival",
+      "textbook_row": 2,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_003"
+    },
+    {
+      "utterances": [
+        {
+          "start": 119.053,
+          "end": 119.9324
+        },
+        {
+          "start": 120.7425,
+          "end": 121.6723
+        }
+      ],
+      "raw_texts": [
+        "രസകരം",
+        "രസകരം"
+      ],
+      "english_segments": [
+        {
+          "start": 117.22,
+          "end": 121.48,
+          "text": " Rasakaram"
+        }
+      ],
+      "transcript": "രസകരം",
+      "meaning": "that which has interest",
+      "textbook_row": 3,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_004"
+    },
+    {
+      "utterances": [
+        {
+          "start": 123.254,
+          "end": 124.4742
+        },
+        {
+          "start": 125.1387,
+          "end": 126.4311
+        }
+      ],
+      "raw_texts": [
+        "രസകരം",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 121.48,
+          "end": 126.26,
+          "text": " rasagaramaya, rasagaramaya"
+        }
+      ],
+      "transcript": "രസകരമായ",
+      "meaning": "interesting",
+      "textbook_row": 4,
+      "similarity": 0.833,
+      "status": "matched",
+      "id": "lesson_20_word_005"
+    },
+    {
+      "utterances": [
+        {
+          "start": 127.8332,
+          "end": 128.5177
+        },
+        {
+          "start": 129.0683,
+          "end": 129.7717
+        }
+      ],
+      "raw_texts": [
+        "",
+        "മായ�"
+      ],
+      "english_segments": [
+        {
+          "start": 126.26,
+          "end": 129.52,
+          "text": " pand, pand"
+        },
+        {
+          "start": 129.52,
+          "end": 132.82,
+          "text": " urikyal, urikyal"
+        }
+      ],
+      "transcript": "പണ്ട്",
+      "meaning": "long ago",
+      "textbook_row": 5,
+      "similarity": 0.633,
+      "status": "review",
+      "id": "lesson_20_word_006"
+    },
+    {
+      "utterances": [
+        {
+          "start": 130.7174,
+          "end": 131.5318
+        },
+        {
+          "start": 132.0859,
+          "end": 132.9559
+        }
+      ],
+      "raw_texts": [
+        "ഉരിക്യല്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 129.52,
+          "end": 132.82,
+          "text": " urikyal, urikyal"
+        }
+      ],
+      "transcript": "ഒരിക്കൽ",
+      "meaning": "one time, once",
+      "textbook_row": 6,
+      "similarity": 0.727,
+      "status": "matched",
+      "id": "lesson_20_word_007"
+    },
+    {
+      "utterances": [
+        {
+          "start": 133.9291,
+          "end": 134.9626
+        },
+        {
+          "start": 135.6329,
+          "end": 136.5612
+        }
+      ],
+      "raw_texts": [
+        "മഹാബലീ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 132.82,
+          "end": 136.44,
+          "text": " mahabali, mahabali"
+        }
+      ],
+      "transcript": "മഹാബലി",
+      "meaning": "Mahabali, a mythical character",
+      "textbook_row": 7,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_008"
+    },
+    {
+      "utterances": [
+        {
+          "start": 137.6842,
+          "end": 138.7721
+        },
+        {
+          "start": 139.4224,
+          "end": 140.539
+        }
+      ],
+      "raw_texts": [
+        "ചക്രവര്ത്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 136.44,
+          "end": 140.36,
+          "text": " chakravarti, chakravarti"
+        }
+      ],
+      "transcript": "ചക്രവർത്തി",
+      "meaning": "emperor",
+      "textbook_row": 8,
+      "similarity": 0.923,
+      "status": "matched",
+      "id": "lesson_20_word_009"
+    },
+    {
+      "utterances": [
+        {
+          "start": 141.6446,
+          "end": 142.3176
+        },
+        {
+          "start": 142.7491,
+          "end": 143.434
+        }
+      ],
+      "raw_texts": [
+        "",
+        "കാലമ്"
+      ],
+      "english_segments": [
+        {
+          "start": 140.36,
+          "end": 143.34,
+          "text": " kaalam, kaalam"
+        }
+      ],
+      "transcript": "കാലം",
+      "meaning": "time",
+      "textbook_row": 9,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_010"
+    },
+    {
+      "utterances": [
+        {
+          "start": 144.5873,
+          "end": 145.4609
+        },
+        {
+          "start": 145.9067,
+          "end": 146.7527
+        }
+      ],
+      "raw_texts": [
+        "ദേവന്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 143.34,
+          "end": 146.94,
+          "text": " devan, devan"
+        }
+      ],
+      "transcript": "ദേവൻ",
+      "meaning": "god",
+      "textbook_row": 10,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_011"
+    },
+    {
+      "utterances": [
+        {
+          "start": 147.8736,
+          "end": 149.0326
+        },
+        {
+          "start": 149.6058,
+          "end": 150.7823
+        }
+      ],
+      "raw_texts": [
+        "ഇഷ്ടപ്പഡുഗാ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 146.94,
+          "end": 150.6,
+          "text": " ishtapeduga, ishtapeduga"
+        }
+      ],
+      "transcript": "ഇഷ്ടപ്പെടുക",
+      "meaning": "to like",
+      "textbook_row": 11,
+      "similarity": 0.875,
+      "status": "matched",
+      "id": "lesson_20_word_012"
+    },
+    {
+      "utterances": [
+        {
+          "start": 152.0021,
+          "end": 152.9005
+        },
+        {
+          "start": 153.5296,
+          "end": 154.4873
+        }
+      ],
+      "raw_texts": [
+        "പരകാരം",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 150.6,
+          "end": 154.3,
+          "text": " prakāram, prakāram"
+        }
+      ],
+      "transcript": "പ്രകാരം",
+      "meaning": "according to (word final -ം of the preceding noun drops when പ്രകാര is added)",
+      "textbook_row": 12,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_013"
+    },
+    {
+      "utterances": [
+        {
+          "start": 155.8215,
+          "end": 157.0013
+        },
+        {
+          "start": 157.6415,
+          "end": 158.8696
+        }
+      ],
+      "raw_texts": [
+        "കേരാഡകുക",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 154.3,
+          "end": 158.68,
+          "text": " kīr adakkuka, kīr adakkuka"
+        }
+      ],
+      "transcript": "കീഴടക്കുക",
+      "meaning": "to subjugate (to hold under)",
+      "textbook_row": 13,
+      "similarity": 0.667,
+      "status": "review",
+      "id": "lesson_20_word_014"
+    },
+    {
+      "utterances": [
+        {
+          "start": 160.2223,
+          "end": 160.9452
+        },
+        {
+          "start": 161.3522,
+          "end": 162.0976
+        }
+      ],
+      "raw_texts": [
+        "വിഷ്ണു",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 158.68,
+          "end": 162.76,
+          "text": " viṣṇu, viṣṇu"
+        }
+      ],
+      "transcript": "വിഷ്ണു",
+      "meaning": "one of the three main Hindu gods – the protector",
+      "textbook_row": 14,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_015"
+    },
+    {
+      "utterances": [
+        {
+          "start": 162.7949,
+          "end": 163.731
+        },
+        {
+          "start": 164.1629,
+          "end": 165.1478
+        }
+      ],
+      "raw_texts": [
+        "വാമനന",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 162.76,
+          "end": 165.72,
+          "text": " vāmanan, vāmanan"
+        }
+      ],
+      "transcript": "വാമനൻ",
+      "meaning": "dwarf; the fifth incarnation of വിഷ്ണു",
+      "textbook_row": 15,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_016"
+    },
+    {
+      "utterances": [
+        {
+          "start": 165.6613,
+          "end": 166.9063
+        },
+        {
+          "start": 167.2167,
+          "end": 167.8466
+        }
+      ],
+      "raw_texts": [
+        "അഡി",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 165.72,
+          "end": 168.16,
+          "text": " adi, adi"
+        }
+      ],
+      "transcript": "അടി",
+      "meaning": "step, pace, foot (measure)",
+      "textbook_row": 16,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_017"
+    },
+    {
+      "utterances": [
+        {
+          "start": 168.8534,
+          "end": 170.0518
+        },
+        {
+          "start": 170.3004,
+          "end": 172.1137
+        }
+      ],
+      "raw_texts": [
+        "നല്ലവനായാ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 168.16,
+          "end": 171.42,
+          "text": " nallavanāya, nallavanāya"
+        },
+        {
+          "start": 171.42,
+          "end": 175.26,
+          "text": " sammadhikyuka, sammadhikyuka"
+        }
+      ],
+      "transcript": "നല്ലവനായ",
+      "meaning": "good (adj)",
+      "textbook_row": 17,
+      "similarity": 0.923,
+      "status": "matched",
+      "id": "lesson_20_word_018"
+    },
+    {
+      "utterances": [
+        {
+          "start": 172.8686,
+          "end": 173.9891
+        },
+        {
+          "start": 174.2801,
+          "end": 175.4192
+        }
+      ],
+      "raw_texts": [
+        "സമ്മതിക്കുക്ക",
+        "സമ്മതിക്കുക്ക"
+      ],
+      "english_segments": [
+        {
+          "start": 171.42,
+          "end": 175.26,
+          "text": " sammadhikyuka, sammadhikyuka"
+        }
+      ],
+      "transcript": "സമ്മതിക്കുക",
+      "meaning": "to agree, to agree to, to allow",
+      "textbook_row": 18,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_019"
+    },
+    {
+      "utterances": [
+        {
+          "start": 176.2294,
+          "end": 177.2433
+        },
+        {
+          "start": 177.7388,
+          "end": 178.774
+        }
+      ],
+      "raw_texts": [
+        "സമ്മതിച്ചു",
+        "സമ്മതിച്ചു"
+      ],
+      "english_segments": [
+        {
+          "start": 175.26,
+          "end": 178.6,
+          "text": " sammadhichu, sammadhichu"
+        }
+      ],
+      "transcript": "സമ്മതിച്ചു",
+      "meaning": "to agree, to agree to, to allow",
+      "textbook_row": 18,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_020"
+    },
+    {
+      "utterances": [
+        {
+          "start": 179.6644,
+          "end": 180.4044
+        },
+        {
+          "start": 181.0124,
+          "end": 181.7532
+        }
+      ],
+      "raw_texts": [
+        "ഉടനെ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 178.6,
+          "end": 181.6,
+          "text": " udane, udane"
+        }
+      ],
+      "transcript": "ഉടനെ",
+      "meaning": "immediately",
+      "textbook_row": 19,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_021"
+    },
+    {
+      "utterances": [
+        {
+          "start": 182.6012,
+          "end": 183.5619
+        },
+        {
+          "start": 184.2207,
+          "end": 185.1895
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 181.6,
+          "end": 185.6,
+          "text": " aakasham, aakasham"
+        }
+      ],
+      "transcript": "ആഘോഷം",
+      "meaning": "celebration",
+      "textbook_row": 34,
+      "similarity": 0.528,
+      "status": "review",
+      "id": "lesson_20_word_022"
+    },
+    {
+      "utterances": [
+        {
+          "start": 186.1349,
+          "end": 187.5814
+        },
+        {
+          "start": 188.3673,
+          "end": 189.8289
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 185.6,
+          "end": 189.6,
+          "text": " aakashatholam, aakashatholam"
+        }
+      ],
+      "transcript": "ആകാശത്തോളം",
+      "meaning": "up to or as far as the sky",
+      "textbook_row": 21,
+      "similarity": 0.633,
+      "status": "review",
+      "id": "lesson_20_word_023"
+    },
+    {
+      "utterances": [
+        {
+          "start": 191.1008,
+          "end": 191.9974
+        },
+        {
+          "start": 192.4743,
+          "end": 193.3452
+        }
+      ],
+      "raw_texts": [
+        "",
+        "ആകാ"
+      ],
+      "english_segments": [
+        {
+          "start": 190.2,
+          "end": 193.24,
+          "text": " valaruga, valaruga"
+        }
+      ],
+      "transcript": "ആകാശം",
+      "meaning": "sky",
+      "textbook_row": 20,
+      "similarity": 0.75,
+      "status": "matched",
+      "id": "lesson_20_word_024"
+    },
+    {
+      "utterances": [
+        {
+          "start": 194.2088,
+          "end": 195.077
+        },
+        {
+          "start": 195.5459,
+          "end": 196.4389
+        }
+      ],
+      "raw_texts": [
+        "മലരണു",
+        "മലരണു"
+      ],
+      "english_segments": [
+        {
+          "start": 193.24,
+          "end": 196.6,
+          "text": " valarnu, valarnu"
+        }
+      ],
+      "transcript": "വളർന്നു",
+      "meaning": "to grow",
+      "textbook_row": 22,
+      "similarity": 0.8,
+      "status": "matched",
+      "id": "lesson_20_word_025"
+    },
+    {
+      "utterances": [
+        {
+          "start": 197.6232,
+          "end": 198.3865
+        },
+        {
+          "start": 198.7896,
+          "end": 199.5576
+        }
+      ],
+      "raw_texts": [
+        "കോണ്ട",
+        "കോണ്ട"
+      ],
+      "english_segments": [
+        {
+          "start": 197.42,
+          "end": 199.38,
+          "text": " konda, konda"
+        }
+      ],
+      "transcript": "കൊണ്ട്",
+      "meaning": "with or by means of (post pos. takes nominative)",
+      "textbook_row": 23,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_026"
+    },
+    {
+      "utterances": [
+        {
+          "start": 200.293,
+          "end": 201.2643
+        },
+        {
+          "start": 201.8547,
+          "end": 202.9008
+        }
+      ],
+      "raw_texts": [
+        "അളകുക",
+        "അളകുക"
+      ],
+      "english_segments": [
+        {
+          "start": 199.38,
+          "end": 202.6,
+          "text": " alakkuka, alakkuka"
+        }
+      ],
+      "transcript": "അളക്കുക",
+      "meaning": "to measure",
+      "textbook_row": 24,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_027"
+    },
+    {
+      "utterances": [
+        {
+          "start": 203.7637,
+          "end": 204.6529
+        },
+        {
+          "start": 205.1734,
+          "end": 206.0783
+        }
+      ],
+      "raw_texts": [
+        "അളനു",
+        "അളനു"
+      ],
+      "english_segments": [
+        {
+          "start": 203.24,
+          "end": 205.6,
+          "text": " alannu, alannu"
+        },
+        {
+          "start": 205.6,
+          "end": 225.6,
+          "text": " moonaamatte, moonaamatte, bhoomi, bhoomi, adiil, adiil, taarthi kalayuga, taarthi kalayuga, taarthi kalanyu, taarthi kalanyu,"
+        }
+      ],
+      "transcript": "അളന്നു",
+      "meaning": "to measure",
+      "textbook_row": 24,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_028"
+    },
+    {
+      "utterances": [
+        {
+          "start": 206.894,
+          "end": 208.3358
+        },
+        {
+          "start": 208.7315,
+          "end": 210.0322
+        }
+      ],
+      "raw_texts": [
+        "മുനാമത്തെ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 205.6,
+          "end": 225.6,
+          "text": " moonaamatte, moonaamatte, bhoomi, bhoomi, adiil, adiil, taarthi kalayuga, taarthi kalayuga, taarthi kalanyu, taarthi kalanyu,"
+        }
+      ],
+      "transcript": "മൂന്നാമത്തെ",
+      "meaning": "third",
+      "textbook_row": 25,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_029"
+    },
+    {
+      "utterances": [
+        {
+          "start": 210.8861,
+          "end": 211.6235
+        },
+        {
+          "start": 211.9676,
+          "end": 212.6811
+        }
+      ],
+      "raw_texts": [
+        "",
+        "മുനാ�"
+      ],
+      "english_segments": [
+        {
+          "start": 205.6,
+          "end": 225.6,
+          "text": " moonaamatte, moonaamatte, bhoomi, bhoomi, adiil, adiil, taarthi kalayuga, taarthi kalayuga, taarthi kalanyu, taarthi kalanyu,"
+        }
+      ],
+      "transcript": "മാസം",
+      "meaning": "month",
+      "textbook_row": 45,
+      "similarity": 0.5,
+      "status": "review",
+      "id": "lesson_20_word_030"
+    },
+    {
+      "utterances": [
+        {
+          "start": 213.6532,
+          "end": 214.5422
+        },
+        {
+          "start": 214.9427,
+          "end": 215.9972
+        }
+      ],
+      "raw_texts": [
+        "അഡിഈല്",
+        "അഡിഈല്"
+      ],
+      "english_segments": [
+        {
+          "start": 205.6,
+          "end": 225.6,
+          "text": " moonaamatte, moonaamatte, bhoomi, bhoomi, adiil, adiil, taarthi kalayuga, taarthi kalayuga, taarthi kalanyu, taarthi kalanyu,"
+        }
+      ],
+      "transcript": "അടിയിൽ",
+      "meaning": "beneath, at the bottom of",
+      "textbook_row": 27,
+      "similarity": 0.727,
+      "status": "matched",
+      "id": "lesson_20_word_031"
+    },
+    {
+      "utterances": [
+        {
+          "start": 217.2512,
+          "end": 218.8409
+        },
+        {
+          "start": 219.6396,
+          "end": 221.2401
+        }
+      ],
+      "raw_texts": [
+        "താള്തി കളയുക",
+        "താള്തി കളയുക"
+      ],
+      "english_segments": [
+        {
+          "start": 205.6,
+          "end": 225.6,
+          "text": " moonaamatte, moonaamatte, bhoomi, bhoomi, adiil, adiil, taarthi kalayuga, taarthi kalayuga, taarthi kalanyu, taarthi kalanyu,"
+        }
+      ],
+      "transcript": "താഴ്ത്തിക്കളയുക",
+      "meaning": "to lower, to push something down",
+      "textbook_row": 28,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_032"
+    },
+    {
+      "utterances": [
+        {
+          "start": 222.5388,
+          "end": 223.9733
+        },
+        {
+          "start": 224.7713,
+          "end": 226.2843
+        }
+      ],
+      "raw_texts": [
+        "താള്തി കളന്ഞു",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 205.6,
+          "end": 225.6,
+          "text": " moonaamatte, moonaamatte, bhoomi, bhoomi, adiil, adiil, taarthi kalayuga, taarthi kalayuga, taarthi kalanyu, taarthi kalanyu,"
+        },
+        {
+          "start": 225.6,
+          "end": 237.04,
+          "text": " and and then they then they and it's a rich and it's a rich son those"
+        }
+      ],
+      "transcript": "താഴ്ത്തിക്കളഞ്ഞു",
+      "meaning": "to lower, to push something down",
+      "textbook_row": 28,
+      "similarity": 0.947,
+      "status": "matched",
+      "id": "lesson_20_word_033"
+    },
+    {
+      "utterances": [
+        {
+          "start": 227.4819,
+          "end": 228.2741
+        },
+        {
+          "start": 228.6309,
+          "end": 229.4167
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 225.6,
+          "end": 237.04,
+          "text": " and and then they then they and it's a rich and it's a rich son those"
+        }
+      ],
+      "transcript": "സന്തോഷിച്ചു",
+      "meaning": "to be happy",
+      "textbook_row": 40,
+      "similarity": 0.215,
+      "status": "review",
+      "id": "lesson_20_word_034"
+    },
+    {
+      "utterances": [
+        {
+          "start": 230.0571,
+          "end": 230.8872
+        },
+        {
+          "start": 231.0985,
+          "end": 231.873
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 225.6,
+          "end": 237.04,
+          "text": " and and then they then they and it's a rich and it's a rich son those"
+        }
+      ],
+      "transcript": "തന്റെ",
+      "meaning": "possessive of താൻ, self’s or own",
+      "textbook_row": 30,
+      "similarity": 0.194,
+      "status": "review",
+      "id": "lesson_20_word_035"
+    },
+    {
+      "utterances": [
+        {
+          "start": 232.6604,
+          "end": 233.7524
+        },
+        {
+          "start": 234.3028,
+          "end": 235.3809
+        }
+      ],
+      "raw_texts": [
+        "താള്തി",
+        "ക� അനുസരിച്ചെ"
+      ],
+      "english_segments": [
+        {
+          "start": 225.6,
+          "end": 237.04,
+          "text": " and and then they then they and it's a rich and it's a rich son those"
+        }
+      ],
+      "transcript": "അനുസരിച്ച്",
+      "meaning": "according to",
+      "textbook_row": 31,
+      "similarity": 0.933,
+      "status": "matched",
+      "id": "lesson_20_word_036"
+    },
+    {
+      "utterances": [
+        {
+          "start": 236.5151,
+          "end": 238.0564
+        },
+        {
+          "start": 238.8795,
+          "end": 240.3178
+        }
+      ],
+      "raw_texts": [
+        "സന്ദോഷ്യപ്പിക്യുഗാ",
+        "സന്ദോഷ്യപ്പിക്യുഗാ"
+      ],
+      "english_segments": [
+        {
+          "start": 225.6,
+          "end": 237.04,
+          "text": " and and then they then they and it's a rich and it's a rich son those"
+        },
+        {
+          "start": 237.04,
+          "end": 254.32,
+          "text": " PQA sandal ship PQA sandal ship PQ sandal ship PQ a koshika a koshika a koshika a koshika a koshika"
+        }
+      ],
+      "transcript": "സന്തോഷിപ്പിക്കുക",
+      "meaning": "to make happy",
+      "textbook_row": 32,
+      "similarity": 0.833,
+      "status": "matched",
+      "id": "lesson_20_word_037"
+    },
+    {
+      "utterances": [
+        {
+          "start": 241.405,
+          "end": 242.7844
+        },
+        {
+          "start": 243.7861,
+          "end": 245.1549
+        }
+      ],
+      "raw_texts": [
+        "സന്ദോഷ്യപ്പിച്ചു",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 237.04,
+          "end": 254.32,
+          "text": " PQA sandal ship PQA sandal ship PQ sandal ship PQ a koshika a koshika a koshika a koshika a koshika"
+        }
+      ],
+      "transcript": "സന്തോഷിപ്പിച്ചു",
+      "meaning": "to make happy",
+      "textbook_row": 32,
+      "similarity": 0.9,
+      "status": "matched",
+      "id": "lesson_20_word_038"
+    },
+    {
+      "utterances": [
+        {
+          "start": 246.4775,
+          "end": 247.8176
+        },
+        {
+          "start": 248.7527,
+          "end": 250.0794
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 237.04,
+          "end": 254.32,
+          "text": " PQA sandal ship PQA sandal ship PQ sandal ship PQ a koshika a koshika a koshika a koshika a koshika"
+        }
+      ],
+      "transcript": "ആണ്ട്",
+      "meaning": "year",
+      "textbook_row": 29,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_20_word_039"
+    },
+    {
+      "utterances": [
+        {
+          "start": 251.2602,
+          "end": 252.5152
+        },
+        {
+          "start": 253.3101,
+          "end": 254.5733
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 237.04,
+          "end": 254.32,
+          "text": " PQA sandal ship PQA sandal ship PQ sandal ship PQ a koshika a koshika a koshika a koshika a koshika"
+        },
+        {
+          "start": 254.32,
+          "end": 284.3,
+          "text": " Part 2"
+        }
+      ],
+      "transcript": "ഭൂമി",
+      "meaning": "earth",
+      "textbook_row": 26,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_20_word_040"
+    },
+    {
+      "utterances": [
+        {
+          "start": 256.7569,
+          "end": 258.2501
+        }
+      ],
+      "raw_texts": [
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 254.32,
+          "end": 284.3,
+          "text": " Part 2"
+        }
+      ],
+      "transcript": "പിന്നിൽ",
+      "meaning": "behind (with possessive)",
+      "textbook_row": 33,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_20_word_041"
+    },
+    {
+      "utterances": [
+        {
+          "start": 259.5176,
+          "end": 260.5214
+        },
+        {
+          "start": 260.9591,
+          "end": 261.9755
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 254.32,
+          "end": 284.3,
+          "text": " Part 2"
+        }
+      ],
+      "transcript": "ആഘോഷിക്കപ്പെടുക",
+      "meaning": "to be celebrated",
+      "textbook_row": 35,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_20_word_042"
+    },
+    {
+      "utterances": [
+        {
+          "start": 263.0911,
+          "end": 264.593
+        },
+        {
+          "start": 265.4601,
+          "end": 267.1158
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 254.32,
+          "end": 284.3,
+          "text": " Part 2"
+        }
+      ],
+      "transcript": "ആഘോഷിക്കപ്പെട്ടു",
+      "meaning": "to be celebrated",
+      "textbook_row": 35,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_20_word_043"
+    },
+    {
+      "utterances": [
+        {
+          "start": 268.7223,
+          "end": 270.2149
+        },
+        {
+          "start": 271.6567,
+          "end": 273.173
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 254.32,
+          "end": 284.3,
+          "text": " Part 2"
+        }
+      ],
+      "transcript": "",
+      "meaning": "",
+      "textbook_row": null,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_20_word_044"
+    },
+    {
+      "utterances": [
+        {
+          "start": 274.6798,
+          "end": 275.4531
+        },
+        {
+          "start": 275.7771,
+          "end": 276.5962
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 254.32,
+          "end": 284.3,
+          "text": " Part 2"
+        }
+      ],
+      "transcript": "ഉണ്ണുക",
+      "meaning": "to dine",
+      "textbook_row": 36,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_20_word_045"
+    },
+    {
+      "utterances": [
+        {
+          "start": 277.4192,
+          "end": 278.127
+        },
+        {
+          "start": 278.5527,
+          "end": 279.3366
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 254.32,
+          "end": 284.3,
+          "text": " Part 2"
+        }
+      ],
+      "transcript": "ഉണ്ടു",
+      "meaning": "to dine",
+      "textbook_row": 36,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_20_word_046"
+    },
+    {
+      "utterances": [
+        {
+          "start": 280.2779,
+          "end": 281.1378
+        },
+        {
+          "start": 281.7087,
+          "end": 282.5669
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 254.32,
+          "end": 284.3,
+          "text": " Part 2"
+        }
+      ],
+      "transcript": "",
+      "meaning": "",
+      "textbook_row": null,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_20_word_047"
+    },
+    {
+      "utterances": [
+        {
+          "start": 283.6094,
+          "end": 284.3446
+        },
+        {
+          "start": 285.0349,
+          "end": 285.7642
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 254.32,
+          "end": 284.3,
+          "text": " Part 2"
+        },
+        {
+          "start": 284.32,
+          "end": 314.32,
+          "text": " Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Pa"
+        }
+      ],
+      "transcript": "ആടി",
+      "meaning": "to swing, to dance",
+      "textbook_row": 37,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_20_word_048"
+    },
+    {
+      "utterances": [
+        {
+          "start": 286.9031,
+          "end": 287.7776
+        },
+        {
+          "start": 288.4166,
+          "end": 289.283
+        }
+      ],
+      "raw_texts": [
+        "ആഖോഷിക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്",
+        "പാഡുഗ"
+      ],
+      "english_segments": [
+        {
+          "start": 284.32,
+          "end": 314.32,
+          "text": " Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Pa"
+        }
+      ],
+      "transcript": "പാടുക",
+      "meaning": "to sing",
+      "textbook_row": 38,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_049"
+    },
+    {
+      "utterances": [
+        {
+          "start": 290.1168,
+          "end": 290.8811
+        },
+        {
+          "start": 291.6079,
+          "end": 292.3558
+        }
+      ],
+      "raw_texts": [
+        "പാഡീ",
+        "പാഡീ"
+      ],
+      "english_segments": [
+        {
+          "start": 284.32,
+          "end": 314.32,
+          "text": " Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Pa"
+        }
+      ],
+      "transcript": "പാടി",
+      "meaning": "to sing",
+      "textbook_row": 38,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_050"
+    },
+    {
+      "utterances": [
+        {
+          "start": 293.3784,
+          "end": 294.2212
+        },
+        {
+          "start": 295.1843,
+          "end": 296.0364
+        }
+      ],
+      "raw_texts": [
+        "പസ്ത്രം",
+        "പസ്ത്രം"
+      ],
+      "english_segments": [
+        {
+          "start": 284.32,
+          "end": 314.32,
+          "text": " Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Pa"
+        }
+      ],
+      "transcript": "വസ്ത്രം",
+      "meaning": "clothes, dress",
+      "textbook_row": 39,
+      "similarity": 0.8,
+      "status": "matched",
+      "id": "lesson_20_word_051"
+    },
+    {
+      "utterances": [
+        {
+          "start": 297.4548,
+          "end": 298.7277
+        },
+        {
+          "start": 300.0023,
+          "end": 301.4427
+        }
+      ],
+      "raw_texts": [
+        "സംദോഷിക്കുഗ",
+        "സംദോഷികുഗ"
+      ],
+      "english_segments": [
+        {
+          "start": 284.32,
+          "end": 314.32,
+          "text": " Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Pa"
+        }
+      ],
+      "transcript": "സന്തോഷിക്കുക",
+      "meaning": "to be happy",
+      "textbook_row": 40,
+      "similarity": 0.889,
+      "status": "matched",
+      "id": "lesson_20_word_052"
+    },
+    {
+      "utterances": [
+        {
+          "start": 303.6097,
+          "end": 304.7642
+        },
+        {
+          "start": 305.4269,
+          "end": 306.5835
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 284.32,
+          "end": 314.32,
+          "text": " Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Pa"
+        }
+      ],
+      "transcript": "",
+      "meaning": "",
+      "textbook_row": null,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_20_word_053"
+    },
+    {
+      "utterances": [
+        {
+          "start": 307.949,
+          "end": 308.6814
+        },
+        {
+          "start": 309.3467,
+          "end": 310.1642
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 284.32,
+          "end": 314.32,
+          "text": " Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Pa"
+        }
+      ],
+      "transcript": "സദ്യ",
+      "meaning": "feast",
+      "textbook_row": 41,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_20_word_054"
+    },
+    {
+      "utterances": [
+        {
+          "start": 310.9816,
+          "end": 311.8535
+        },
+        {
+          "start": 312.3883,
+          "end": 313.2755
+        }
+      ],
+      "raw_texts": [
+        "സംദോഷി",
+        "നഡതുക"
+      ],
+      "english_segments": [
+        {
+          "start": 284.32,
+          "end": 314.32,
+          "text": " Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Pa"
+        }
+      ],
+      "transcript": "നടത്തുക",
+      "meaning": "to hold, conduct, run, etc.",
+      "textbook_row": 42,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_055"
+    },
+    {
+      "utterances": [
+        {
+          "start": 314.2468,
+          "end": 315.3498
+        },
+        {
+          "start": 316.6889,
+          "end": 317.7622
+        }
+      ],
+      "raw_texts": [
+        "ചിങ്യമാസം",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 314.32,
+          "end": 319.56,
+          "text": " Chingya Maasam"
+        }
+      ],
+      "transcript": "ചിങ്ങമാസം",
+      "meaning": "the month of Chingam (parts of August and September)",
+      "textbook_row": 43,
+      "similarity": 0.933,
+      "status": "matched",
+      "id": "lesson_20_word_056"
+    },
+    {
+      "utterances": [
+        {
+          "start": 319.483,
+          "end": 320.2156
+        },
+        {
+          "start": 320.9069,
+          "end": 321.6376
+        }
+      ],
+      "raw_texts": [
+        "പൂവു",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 319.56,
+          "end": 322.56,
+          "text": " Poov"
+        }
+      ],
+      "transcript": "പൂവ്",
+      "meaning": "flower",
+      "textbook_row": 44,
+      "similarity": 0.857,
+      "status": "matched",
+      "id": "lesson_20_word_057"
+    },
+    {
+      "utterances": [
+        {
+          "start": 322.5141,
+          "end": 323.3688
+        },
+        {
+          "start": 324.2837,
+          "end": 325.3376
+        }
+      ],
+      "raw_texts": [
+        "പൂക്കല്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 322.56,
+          "end": 326.2,
+          "text": " Pookkal"
+        }
+      ],
+      "transcript": "പൂക്കൾ",
+      "meaning": "flower",
+      "textbook_row": 44,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_058"
+    },
+    {
+      "utterances": [
+        {
+          "start": 326.1594,
+          "end": 326.7768
+        },
+        {
+          "start": 327.8356,
+          "end": 328.468
+        }
+      ],
+      "raw_texts": [
+        "",
+        "കളമ്"
+      ],
+      "english_segments": [
+        {
+          "start": 326.2,
+          "end": 329.8,
+          "text": " Kalam"
+        }
+      ],
+      "transcript": "കളം",
+      "meaning": "design, also the auspicious design drawn by Hindus on the ground in front of the door step",
+      "textbook_row": 46,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_059"
+    },
+    {
+      "utterances": [
+        {
+          "start": 329.7298,
+          "end": 330.9085
+        },
+        {
+          "start": 332.3454,
+          "end": 333.6151
+        }
+      ],
+      "raw_texts": [
+        "അളങ്കരികുക",
+        "അളങ്കരികുക"
+      ],
+      "english_segments": [
+        {
+          "start": 329.8,
+          "end": 335.08,
+          "text": " Alangarikyuga"
+        }
+      ],
+      "transcript": "അലങ്കരിക്കുക",
+      "meaning": "to decorate",
+      "textbook_row": 47,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_060"
+    },
+    {
+      "utterances": [
+        {
+          "start": 335.0255,
+          "end": 336.0532
+        },
+        {
+          "start": 337.5469,
+          "end": 338.6332
+        }
+      ],
+      "raw_texts": [
+        "അളങ്",
+        "അലങ്കരിച്ചു"
+      ],
+      "english_segments": [
+        {
+          "start": 335.08,
+          "end": 339.8,
+          "text": " Alangarichu"
+        }
+      ],
+      "transcript": "അലങ്കരിച്ചു",
+      "meaning": "to decorate",
+      "textbook_row": 47,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_061"
+    },
+    {
+      "utterances": [
+        {
+          "start": 339.7346,
+          "end": 340.6471
+        },
+        {
+          "start": 341.5012,
+          "end": 342.3727
+        }
+      ],
+      "raw_texts": [
+        "പ്രതാനാ",
+        "പ്രതാനാ"
+      ],
+      "english_segments": [
+        {
+          "start": 339.8,
+          "end": 343.2,
+          "text": " Prathana"
+        }
+      ],
+      "transcript": "പ്രധാന",
+      "meaning": "important, main (adj.)",
+      "textbook_row": 48,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_20_word_062"
+    },
+    {
+      "utterances": [
+        {
+          "start": 343.1292,
+          "end": 344.0991
+        },
+        {
+          "start": 345.1149,
+          "end": 346.0452
+        }
+      ],
+      "raw_texts": [
+        "പ്രതാനമ",
+        "പ്രതാനമ"
+      ],
+      "english_segments": [
+        {
+          "start": 343.2,
+          "end": 347.2,
+          "text": " Prathanam Prathanam"
+        }
+      ],
+      "transcript": "പ്രധാനം",
+      "meaning": "(n.)",
+      "textbook_row": 49,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_063"
+    },
+    {
+      "utterances": [
+        {
+          "start": 347.1399,
+          "end": 347.9044
+        },
+        {
+          "start": 348.9068,
+          "end": 350.049
+        }
+      ],
+      "raw_texts": [
+        "ആര്",
+        "ആര്"
+      ],
+      "english_segments": [
+        {
+          "start": 347.2,
+          "end": 351.1,
+          "text": " Aar Aar"
+        }
+      ],
+      "transcript": "ആറ്",
+      "meaning": "river",
+      "textbook_row": 50,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_064"
+    },
+    {
+      "utterances": [
+        {
+          "start": 351.0229,
+          "end": 351.8356
+        },
+        {
+          "start": 353.2167,
+          "end": 354.1298
+        }
+      ],
+      "raw_texts": [
+        "കായൽ",
+        "കായൽ"
+      ],
+      "english_segments": [
+        {
+          "start": 351.1,
+          "end": 355.14,
+          "text": " Kael Kael"
+        }
+      ],
+      "transcript": "കായൽ",
+      "meaning": "backwaters",
+      "textbook_row": 51,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_065"
+    },
+    {
+      "utterances": [
+        {
+          "start": 355.0744,
+          "end": 355.7999
+        },
+        {
+          "start": 356.5378,
+          "end": 357.5654
+        }
+      ],
+      "raw_texts": [
+        "വള്ളം",
+        "വള്ളം"
+      ],
+      "english_segments": [
+        {
+          "start": 355.14,
+          "end": 359.1,
+          "text": " Vallam Vallam"
+        }
+      ],
+      "transcript": "വള്ളം",
+      "meaning": "boat (wooden), canoe",
+      "textbook_row": 52,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_066"
+    },
+    {
+      "utterances": [
+        {
+          "start": 358.7967,
+          "end": 360.4267
+        },
+        {
+          "start": 361.4809,
+          "end": 362.4402
+        }
+      ],
+      "raw_texts": [
+        "വള്ളം കളീ",
+        "മല്ളംകളേ"
+      ],
+      "english_segments": [
+        {
+          "start": 355.14,
+          "end": 359.1,
+          "text": " Vallam Vallam"
+        },
+        {
+          "start": 359.1,
+          "end": 363.84,
+          "text": " Vallankali Vallankali"
+        }
+      ],
+      "transcript": "വളരുക",
+      "meaning": "to grow",
+      "textbook_row": 22,
+      "similarity": 0.671,
+      "status": "review",
+      "id": "lesson_20_word_067"
+    },
+    {
+      "utterances": [
+        {
+          "start": 363.5207,
+          "end": 364.6117
+        },
+        {
+          "start": 365.8516,
+          "end": 366.962
+        }
+      ],
+      "raw_texts": [
+        "മറ്സരം",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 359.1,
+          "end": 363.84,
+          "text": " Vallankali Vallankali"
+        },
+        {
+          "start": 363.84,
+          "end": 368.04,
+          "text": " Malsaram Malsaram"
+        }
+      ],
+      "transcript": "മൽസരം",
+      "meaning": "competition",
+      "textbook_row": 53,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_20_word_068"
+    },
+    {
+      "utterances": [
+        {
+          "start": 367.9557,
+          "end": 369.3441
+        },
+        {
+          "start": 369.6466,
+          "end": 371.1505
+        }
+      ],
+      "raw_texts": [
+        "കൂടുക",
+        "കൂടുക"
+      ],
+      "english_segments": [
+        {
+          "start": 368.04,
+          "end": 372.8,
+          "text": " Kooduka"
+        }
+      ],
+      "transcript": "കൂടുക",
+      "meaning": "to gather (intransitive)",
+      "textbook_row": 54,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_069"
+    },
+    {
+      "utterances": [
+        {
+          "start": 371.5179,
+          "end": 372.06
+        }
+      ],
+      "raw_texts": [
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 368.04,
+          "end": 372.8,
+          "text": " Kooduka"
+        }
+      ],
+      "transcript": "ആടുക",
+      "meaning": "to swing, to dance",
+      "textbook_row": 37,
+      "similarity": 0.691,
+      "status": "review",
+      "id": "lesson_20_word_070"
+    },
+    {
+      "utterances": [
+        {
+          "start": 372.2911,
+          "end": 374.6774
+        },
+        {
+          "start": 375.1794,
+          "end": 375.9198
+        }
+      ],
+      "raw_texts": [
+        "കൂട്ടുക",
+        "കൂട്ടുക"
+      ],
+      "english_segments": [
+        {
+          "start": 368.04,
+          "end": 372.8,
+          "text": " Kooduka"
+        },
+        {
+          "start": 372.8,
+          "end": 377.54,
+          "text": " Koodi"
+        }
+      ],
+      "transcript": "കൂടി",
+      "meaning": "to gather (intransitive)",
+      "textbook_row": 54,
+      "similarity": 0.712,
+      "status": "matched",
+      "id": "lesson_20_word_071"
+    },
+    {
+      "utterances": [
+        {
+          "start": 377.4594,
+          "end": 378.3658
+        },
+        {
+          "start": 379.5098,
+          "end": 380.4151
+        }
+      ],
+      "raw_texts": [
+        "ഉണ്ഞാല",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 377.54,
+          "end": 381.6,
+          "text": " Oonyal"
+        }
+      ],
+      "transcript": "ഊഞ്ഞാൽ",
+      "meaning": "swing",
+      "textbook_row": 55,
+      "similarity": 0.889,
+      "status": "matched",
+      "id": "lesson_20_word_072"
+    },
+    {
+      "utterances": [
+        {
+          "start": 381.5357,
+          "end": 382.7404
+        },
+        {
+          "start": 383.6438,
+          "end": 384.602
+        }
+      ],
+      "raw_texts": [
+        "ഇടുക",
+        "ഇടു"
+      ],
+      "english_segments": [
+        {
+          "start": 381.6,
+          "end": 385.98,
+          "text": " Iduka"
+        }
+      ],
+      "transcript": "ഇടുക",
+      "meaning": "to put, to put up, to set up",
+      "textbook_row": 56,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_073"
+    },
+    {
+      "utterances": [
+        {
+          "start": 385.9043,
+          "end": 386.6589
+        },
+        {
+          "start": 387.7375,
+          "end": 388.4982
+        }
+      ],
+      "raw_texts": [
+        "ഇടു",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 385.98,
+          "end": 389.64,
+          "text": " Ittu"
+        }
+      ],
+      "transcript": "ഇട്ടു",
+      "meaning": "to put, to put up, to set up",
+      "textbook_row": 56,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_074"
+    },
+    {
+      "utterances": [
+        {
+          "start": 389.5676,
+          "end": 390.7241
+        },
+        {
+          "start": 392.2103,
+          "end": 393.2231
+        }
+      ],
+      "raw_texts": [
+        "മരുനാടൻ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 389.64,
+          "end": 394.98,
+          "text": " Marunadan"
+        }
+      ],
+      "transcript": "മറുനാടൻ",
+      "meaning": "overseas",
+      "textbook_row": 57,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_075"
+    },
+    {
+      "utterances": [
+        {
+          "start": 394.9049,
+          "end": 395.6296
+        },
+        {
+          "start": 396.5234,
+          "end": 397.3331
+        }
+      ],
+      "raw_texts": [
+        "നാടൽ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 394.98,
+          "end": 398.28,
+          "text": " country"
+        }
+      ],
+      "transcript": "നാട്",
+      "meaning": "country, homeland, used to refer to Kerala by Malayalis",
+      "textbook_row": 58,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_20_word_076"
+    },
+    {
+      "utterances": [
+        {
+          "start": 398.2525,
+          "end": 398.9131
+        },
+        {
+          "start": 399.8892,
+          "end": 400.5773
+        }
+      ],
+      "raw_texts": [
+        "ഹിന്ദു",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 398.28,
+          "end": 401.58,
+          "text": " Hindu"
+        }
+      ],
+      "transcript": "ഹിന്ദുക്കൾ",
+      "meaning": "Hindu",
+      "textbook_row": 59,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_20_word_077"
+    },
+    {
+      "utterances": [
+        {
+          "start": 401.5536,
+          "end": 402.5365
+        },
+        {
+          "start": 403.6878,
+          "end": 404.6249
+        }
+      ],
+      "raw_texts": [
+        "",
+        "ക്രിസ്സ്സ്"
+      ],
+      "english_segments": [
+        {
+          "start": 401.58,
+          "end": 405.88,
+          "text": " Hindus"
+        }
+      ],
+      "transcript": "ഹിന്ദു",
+      "meaning": "Hindu",
+      "textbook_row": 59,
+      "similarity": 0.864,
+      "status": "matched",
+      "id": "lesson_20_word_078"
+    },
+    {
+      "utterances": [
+        {
+          "start": 405.8496,
+          "end": 406.6244
+        },
+        {
+          "start": 407.6686,
+          "end": 408.484
+        }
+      ],
+      "raw_texts": [
+        "മുസ്ലീം",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 405.88,
+          "end": 409.88,
+          "text": " Muslim"
+        }
+      ],
+      "transcript": "മുസ്ലീങ്ങൾ",
+      "meaning": "Muslim",
+      "textbook_row": 60,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_20_word_079"
+    },
+    {
+      "utterances": [
+        {
+          "start": 409.8286,
+          "end": 410.8435
+        },
+        {
+          "start": 411.4027,
+          "end": 412.5591
+        }
+      ],
+      "raw_texts": [
+        "മുസ്ലീം",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 409.88,
+          "end": 413.78,
+          "text": " Muslims"
+        }
+      ],
+      "transcript": "മുസ്ലീം",
+      "meaning": "Muslim",
+      "textbook_row": 60,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_080"
+    },
+    {
+      "utterances": [
+        {
+          "start": 413.781,
+          "end": 415.126
+        },
+        {
+          "start": 415.8436,
+          "end": 416.9272
+        }
+      ],
+      "raw_texts": [
+        "ക്രിസ്ത്യാനി",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 413.78,
+          "end": 418.08,
+          "text": " Christians"
+        }
+      ],
+      "transcript": "ക്രിസ്ത്യാനി",
+      "meaning": "Christian",
+      "textbook_row": 61,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_081"
+    },
+    {
+      "utterances": [
+        {
+          "start": 417.9984,
+          "end": 419.1674
+        },
+        {
+          "start": 420.2665,
+          "end": 421.473
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 418.08,
+          "end": 422.78,
+          "text": " Christians"
+        }
+      ],
+      "transcript": "ക്രിസ്ത്യാനികൾ",
+      "meaning": "Christian",
+      "textbook_row": 61,
+      "similarity": 0.543,
+      "status": "review",
+      "id": "lesson_20_word_082"
+    },
+    {
+      "utterances": [
+        {
+          "start": 422.6609,
+          "end": 423.5385
+        },
+        {
+          "start": 424.4932,
+          "end": 425.3646
+        }
+      ],
+      "raw_texts": [
+        "ജാതി",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 422.78,
+          "end": 426.34,
+          "text": " Jādi"
+        }
+      ],
+      "transcript": "ജാതി",
+      "meaning": "kind, caste, community, race",
+      "textbook_row": 62,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_083"
+    },
+    {
+      "utterances": [
+        {
+          "start": 426.2486,
+          "end": 426.9344
+        },
+        {
+          "start": 427.8901,
+          "end": 428.5729
+        }
+      ],
+      "raw_texts": [
+        "മ്മതം",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 426.34,
+          "end": 429.66,
+          "text": " Matam"
+        }
+      ],
+      "transcript": "മതം",
+      "meaning": "religion",
+      "textbook_row": 63,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_084"
+    },
+    {
+      "utterances": [
+        {
+          "start": 429.5363,
+          "end": 430.3376
+        },
+        {
+          "start": 431.3716,
+          "end": 432.1589
+        }
+      ],
+      "raw_texts": [
+        "ഭേദം",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 429.66,
+          "end": 433.38,
+          "text": " Bhēdam"
+        }
+      ],
+      "transcript": "ഭേദം",
+      "meaning": "difference, distinction, better",
+      "textbook_row": 64,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_085"
+    },
+    {
+      "utterances": [
+        {
+          "start": 433.2674,
+          "end": 434.3189
+        },
+        {
+          "start": 435.5154,
+          "end": 436.5167
+        }
+      ],
+      "raw_texts": [
+        "ദേശീയ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 433.38,
+          "end": 436.82,
+          "text": " Dēsīya"
+        }
+      ],
+      "transcript": "ദേശീയ",
+      "meaning": "national",
+      "textbook_row": 65,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_20_word_086"
+    }
+  ],
+  "textbook_vocabulary": [
+    {
+      "malayalam": "ഓണം",
+      "meaning": "Onam, Kerala Harvest Festival"
+    },
+    {
+      "malayalam": "വിളവെടുപ്പ്",
+      "meaning": "harvest"
+    },
+    {
+      "malayalam": "ഉൽസവം",
+      "meaning": "festival"
+    },
+    {
+      "malayalam": "രസകരം",
+      "meaning": "that which has interest"
+    },
+    {
+      "malayalam": "രസകരമായ",
+      "meaning": "interesting"
+    },
+    {
+      "malayalam": "പണ്ട്",
+      "meaning": "long ago"
+    },
+    {
+      "malayalam": "ഒരിക്കൽ",
+      "meaning": "one time, once"
+    },
+    {
+      "malayalam": "മഹാബലി",
+      "meaning": "Mahabali, a mythical character"
+    },
+    {
+      "malayalam": "ചക്രവർത്തി",
+      "meaning": "emperor"
+    },
+    {
+      "malayalam": "കാലം",
+      "meaning": "time"
+    },
+    {
+      "malayalam": "ദേവൻ",
+      "meaning": "god"
+    },
+    {
+      "malayalam": "ഇഷ്ടപ്പെടുക",
+      "meaning": "to like"
+    },
+    {
+      "malayalam": "പ്രകാരം",
+      "meaning": "according to (word final -ം of the preceding noun drops when പ്രകാര is added)"
+    },
+    {
+      "malayalam": "കീഴടക്കുക",
+      "meaning": "to subjugate (to hold under)"
+    },
+    {
+      "malayalam": "വിഷ്ണു",
+      "meaning": "one of the three main Hindu gods – the protector"
+    },
+    {
+      "malayalam": "വാമനൻ",
+      "meaning": "dwarf; the fifth incarnation of വിഷ്ണു"
+    },
+    {
+      "malayalam": "അടി",
+      "meaning": "step, pace, foot (measure)"
+    },
+    {
+      "malayalam": "നല്ലവനായ",
+      "meaning": "good (adj)"
+    },
+    {
+      "malayalam": "സമ്മതിക്കുക (past tense: സമ്മതിച്ചു)",
+      "meaning": "to agree, to agree to, to allow"
+    },
+    {
+      "malayalam": "ഉടനെ",
+      "meaning": "immediately"
+    },
+    {
+      "malayalam": "ആകാശം",
+      "meaning": "sky"
+    },
+    {
+      "malayalam": "ആകാശത്തോളം",
+      "meaning": "up to or as far as the sky"
+    },
+    {
+      "malayalam": "വളരുക (past tense: വളർന്നു)",
+      "meaning": "to grow"
+    },
+    {
+      "malayalam": "കൊണ്ട്",
+      "meaning": "with or by means of (post pos. takes nominative)"
+    },
+    {
+      "malayalam": "അളക്കുക (past tense: അളന്നു)",
+      "meaning": "to measure"
+    },
+    {
+      "malayalam": "മൂന്നാമത്തെ",
+      "meaning": "third"
+    },
+    {
+      "malayalam": "ഭൂമി",
+      "meaning": "earth"
+    },
+    {
+      "malayalam": "അടിയിൽ",
+      "meaning": "beneath, at the bottom of"
+    },
+    {
+      "malayalam": "താഴ്ത്തിക്കളയുക (past tense: താഴ്ത്തിക്കളഞ്ഞു)",
+      "meaning": "to lower, to push something down"
+    },
+    {
+      "malayalam": "ആണ്ട്",
+      "meaning": "year"
+    },
+    {
+      "malayalam": "തന്റെ",
+      "meaning": "possessive of താൻ, self’s or own"
+    },
+    {
+      "malayalam": "അനുസരിച്ച്",
+      "meaning": "according to"
+    },
+    {
+      "malayalam": "സന്തോഷിപ്പിക്കുക (past tense: സന്തോഷിപ്പിച്ചു)",
+      "meaning": "to make happy"
+    },
+    {
+      "malayalam": "പിന്നിൽ",
+      "meaning": "behind (with possessive)"
+    },
+    {
+      "malayalam": "ആഘോഷം",
+      "meaning": "celebration"
+    },
+    {
+      "malayalam": "ആഘോഷിക്കപ്പെടുക (past: ആഘോഷിക്കപ്പെട്ടു)",
+      "meaning": "to be celebrated"
+    },
+    {
+      "malayalam": "ഉണ്ണുക (past: ഉണ്ടു)",
+      "meaning": "to dine"
+    },
+    {
+      "malayalam": "ആടുക (past: ആടി)",
+      "meaning": "to swing, to dance"
+    },
+    {
+      "malayalam": "പാടുക (past: പാടി)",
+      "meaning": "to sing"
+    },
+    {
+      "malayalam": "വസ്ത്രം",
+      "meaning": "clothes, dress"
+    },
+    {
+      "malayalam": "സന്തോഷിക്കുക (past: സന്തോഷിച്ചു)",
+      "meaning": "to be happy"
+    },
+    {
+      "malayalam": "സദ്യ",
+      "meaning": "feast"
+    },
+    {
+      "malayalam": "നടത്തുക",
+      "meaning": "to hold, conduct, run, etc."
+    },
+    {
+      "malayalam": "ചിങ്ങമാസം",
+      "meaning": "the month of Chingam (parts of August and September)"
+    },
+    {
+      "malayalam": "പൂവ് (plural: പൂക്കൾ)",
+      "meaning": "flower"
+    },
+    {
+      "malayalam": "മാസം",
+      "meaning": "month"
+    },
+    {
+      "malayalam": "കളം",
+      "meaning": "design, also the auspicious design drawn by Hindus on the ground in front of the door step"
+    },
+    {
+      "malayalam": "അലങ്കരിക്കുക (past: അലങ്കരിച്ചു)",
+      "meaning": "to decorate"
+    },
+    {
+      "malayalam": "പ്രധാന",
+      "meaning": "important, main (adj.)"
+    },
+    {
+      "malayalam": "പ്രധാനം",
+      "meaning": "(n.)"
+    },
+    {
+      "malayalam": "ആറ്",
+      "meaning": "river"
+    },
+    {
+      "malayalam": "കായൽ",
+      "meaning": "backwaters"
+    },
+    {
+      "malayalam": "വള്ളം",
+      "meaning": "boat (wooden), canoe"
+    },
+    {
+      "malayalam": "മൽസരം",
+      "meaning": "competition"
+    },
+    {
+      "malayalam": "കൂടുക (past: കൂടി)",
+      "meaning": "to gather (intransitive)"
+    },
+    {
+      "malayalam": "ഊഞ്ഞാൽ",
+      "meaning": "swing"
+    },
+    {
+      "malayalam": "ഇടുക (past: ഇട്ടു)",
+      "meaning": "to put, to put up, to set up"
+    },
+    {
+      "malayalam": "മറുനാടൻ",
+      "meaning": "overseas"
+    },
+    {
+      "malayalam": "നാട്",
+      "meaning": "country, homeland, used to refer to Kerala by Malayalis"
+    },
+    {
+      "malayalam": "ഹിന്ദു (plural: ഹിന്ദുക്കൾ)",
+      "meaning": "Hindu"
+    },
+    {
+      "malayalam": "മുസ്ലീം (plural: മുസ്ലീങ്ങൾ)",
+      "meaning": "Muslim"
+    },
+    {
+      "malayalam": "ക്രിസ്ത്യാനി (plural: ക്രിസ്ത്യാനികൾ)",
+      "meaning": "Christian"
+    },
+    {
+      "malayalam": "ജാതി",
+      "meaning": "kind, caste, community, race"
+    },
+    {
+      "malayalam": "മതം",
+      "meaning": "religion"
+    },
+    {
+      "malayalam": "ഭേദം",
+      "meaning": "difference, distinction, better"
+    },
+    {
+      "malayalam": "ദേശീയ",
+      "meaning": "national"
+    }
+  ],
+  "unmatched_textbook_rows": [],
+  "recognition_sha256": "ec9becc704240bb6422a20196f867b7185cf39d9aa84c5815b1e987e16e4de3f",
+  "boundary_sha256": "2e5a7a41d6279f0e73f6e043500c0a8868573f59ee59d1a41e47ea09cfadf151"
+}

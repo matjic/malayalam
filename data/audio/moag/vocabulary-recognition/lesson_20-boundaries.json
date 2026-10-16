@@ -1,0 +1,344 @@
+{
+  "lesson": 20,
+  "model": "Whisper large-v3",
+  "purpose": "English announcements only; Malayalam transliterations are not teaching transcriptions.",
+  "range_start": 94.48,
+  "range_end": 436.83,
+  "segments": [
+    {
+      "start": 94.48,
+      "end": 97.22,
+      "text": " Vocabulary Practice Part 1"
+    },
+    {
+      "start": 97.22,
+      "end": 101.58,
+      "text": " Repeat each item after the speaker."
+    },
+    {
+      "start": 102.36,
+      "end": 103.94,
+      "text": " Each item is given twice."
+    },
+    {
+      "start": 104.46,
+      "end": 106.04,
+      "text": " Ready, listen and repeat."
+    },
+    {
+      "start": 106.94,
+      "end": 107.38,
+      "text": " Onam"
+    },
+    {
+      "start": 107.38,
+      "end": 114.48,
+      "text": " Vilavaduppa"
+    },
+    {
+      "start": 114.48,
+      "end": 117.22,
+      "text": " Ultsavam"
+    },
+    {
+      "start": 117.22,
+      "end": 121.48,
+      "text": " Rasakaram"
+    },
+    {
+      "start": 121.48,
+      "end": 126.26,
+      "text": " rasagaramaya, rasagaramaya"
+    },
+    {
+      "start": 126.26,
+      "end": 129.52,
+      "text": " pand, pand"
+    },
+    {
+      "start": 129.52,
+      "end": 132.82,
+      "text": " urikyal, urikyal"
+    },
+    {
+      "start": 132.82,
+      "end": 136.44,
+      "text": " mahabali, mahabali"
+    },
+    {
+      "start": 136.44,
+      "end": 140.36,
+      "text": " chakravarti, chakravarti"
+    },
+    {
+      "start": 140.36,
+      "end": 143.34,
+      "text": " kaalam, kaalam"
+    },
+    {
+      "start": 143.34,
+      "end": 146.94,
+      "text": " devan, devan"
+    },
+    {
+      "start": 146.94,
+      "end": 150.6,
+      "text": " ishtapeduga, ishtapeduga"
+    },
+    {
+      "start": 150.6,
+      "end": 154.3,
+      "text": " prakāram, prakāram"
+    },
+    {
+      "start": 154.3,
+      "end": 158.68,
+      "text": " kīr adakkuka, kīr adakkuka"
+    },
+    {
+      "start": 158.68,
+      "end": 162.76,
+      "text": " viṣṇu, viṣṇu"
+    },
+    {
+      "start": 162.76,
+      "end": 165.72,
+      "text": " vāmanan, vāmanan"
+    },
+    {
+      "start": 165.72,
+      "end": 168.16,
+      "text": " adi, adi"
+    },
+    {
+      "start": 168.16,
+      "end": 171.42,
+      "text": " nallavanāya, nallavanāya"
+    },
+    {
+      "start": 171.42,
+      "end": 175.26,
+      "text": " sammadhikyuka, sammadhikyuka"
+    },
+    {
+      "start": 175.26,
+      "end": 178.6,
+      "text": " sammadhichu, sammadhichu"
+    },
+    {
+      "start": 178.6,
+      "end": 181.6,
+      "text": " udane, udane"
+    },
+    {
+      "start": 181.6,
+      "end": 185.6,
+      "text": " aakasham, aakasham"
+    },
+    {
+      "start": 185.6,
+      "end": 189.6,
+      "text": " aakashatholam, aakashatholam"
+    },
+    {
+      "start": 190.2,
+      "end": 193.24,
+      "text": " valaruga, valaruga"
+    },
+    {
+      "start": 193.24,
+      "end": 196.6,
+      "text": " valarnu, valarnu"
+    },
+    {
+      "start": 197.42,
+      "end": 199.38,
+      "text": " konda, konda"
+    },
+    {
+      "start": 199.38,
+      "end": 202.6,
+      "text": " alakkuka, alakkuka"
+    },
+    {
+      "start": 203.24,
+      "end": 205.6,
+      "text": " alannu, alannu"
+    },
+    {
+      "start": 205.6,
+      "end": 225.6,
+      "text": " moonaamatte, moonaamatte, bhoomi, bhoomi, adiil, adiil, taarthi kalayuga, taarthi kalayuga, taarthi kalanyu, taarthi kalanyu,"
+    },
+    {
+      "start": 225.6,
+      "end": 237.04,
+      "text": " and and then they then they and it's a rich and it's a rich son those"
+    },
+    {
+      "start": 237.04,
+      "end": 254.32,
+      "text": " PQA sandal ship PQA sandal ship PQ sandal ship PQ a koshika a koshika a koshika a koshika a koshika"
+    },
+    {
+      "start": 254.32,
+      "end": 284.3,
+      "text": " Part 2"
+    },
+    {
+      "start": 284.32,
+      "end": 314.32,
+      "text": " Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Paadi Pa"
+    },
+    {
+      "start": 314.32,
+      "end": 319.56,
+      "text": " Chingya Maasam"
+    },
+    {
+      "start": 319.56,
+      "end": 322.56,
+      "text": " Poov"
+    },
+    {
+      "start": 322.56,
+      "end": 326.2,
+      "text": " Pookkal"
+    },
+    {
+      "start": 326.2,
+      "end": 329.8,
+      "text": " Kalam"
+    },
+    {
+      "start": 329.8,
+      "end": 335.08,
+      "text": " Alangarikyuga"
+    },
+    {
+      "start": 335.08,
+      "end": 339.8,
+      "text": " Alangarichu"
+    },
+    {
+      "start": 339.8,
+      "end": 343.2,
+      "text": " Prathana"
+    },
+    {
+      "start": 343.2,
+      "end": 347.2,
+      "text": " Prathanam Prathanam"
+    },
+    {
+      "start": 347.2,
+      "end": 351.1,
+      "text": " Aar Aar"
+    },
+    {
+      "start": 351.1,
+      "end": 355.14,
+      "text": " Kael Kael"
+    },
+    {
+      "start": 355.14,
+      "end": 359.1,
+      "text": " Vallam Vallam"
+    },
+    {
+      "start": 359.1,
+      "end": 363.84,
+      "text": " Vallankali Vallankali"
+    },
+    {
+      "start": 363.84,
+      "end": 368.04,
+      "text": " Malsaram Malsaram"
+    },
+    {
+      "start": 368.04,
+      "end": 372.8,
+      "text": " Kooduka"
+    },
+    {
+      "start": 372.8,
+      "end": 377.54,
+      "text": " Koodi"
+    },
+    {
+      "start": 377.54,
+      "end": 381.6,
+      "text": " Oonyal"
+    },
+    {
+      "start": 381.6,
+      "end": 385.98,
+      "text": " Iduka"
+    },
+    {
+      "start": 385.98,
+      "end": 389.64,
+      "text": " Ittu"
+    },
+    {
+      "start": 389.64,
+      "end": 394.98,
+      "text": " Marunadan"
+    },
+    {
+      "start": 394.98,
+      "end": 398.28,
+      "text": " country"
+    },
+    {
+      "start": 398.28,
+      "end": 401.58,
+      "text": " Hindu"
+    },
+    {
+      "start": 401.58,
+      "end": 405.88,
+      "text": " Hindus"
+    },
+    {
+      "start": 405.88,
+      "end": 409.88,
+      "text": " Muslim"
+    },
+    {
+      "start": 409.88,
+      "end": 413.78,
+      "text": " Muslims"
+    },
+    {
+      "start": 413.78,
+      "end": 418.08,
+      "text": " Christians"
+    },
+    {
+      "start": 418.08,
+      "end": 422.78,
+      "text": " Christians"
+    },
+    {
+      "start": 422.78,
+      "end": 426.34,
+      "text": " Jādi"
+    },
+    {
+      "start": 426.34,
+      "end": 429.66,
+      "text": " Matam"
+    },
+    {
+      "start": 429.66,
+      "end": 433.38,
+      "text": " Bhēdam"
+    },
+    {
+      "start": 433.38,
+      "end": 436.82,
+      "text": " Dēsīya"
+    }
+  ]
+}

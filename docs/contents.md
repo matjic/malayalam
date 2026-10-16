@@ -92,6 +92,7 @@ Practice Lessons A–C are additions based on UT Austin learning resources, plac
 ### [The Malayalam Script](alphabet.md)
 
   - [Table I: The Malayalam Alphabet](alphabet.md#alphabet-table-i-the-malayalam-alphabet)
+  - [Listen to the Alphabet and Individual Letters](alphabet.md#alphabet-listen-to-the-alphabet-and-individual-letters)
 
 ### [Practice Lesson A: Listening and Pronunciation](practice-pronunciation.md)
 

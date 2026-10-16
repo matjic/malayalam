@@ -1,0 +1,1674 @@
+{
+  "pipeline_version": 6,
+  "lesson": 21,
+  "source": "data/audio/moag/lesson_21.mp3",
+  "model": "Whisper large-v3 (32 encoder and 32 decoder layers), MLX",
+  "range_start": 140.6,
+  "range_end": 341.96,
+  "method": "Acoustic cepstrum comparison pairs repeated utterances independently of textbook order; large-v3 word end timestamps matched to pauses, then global spelling assignment against printed vocabulary (order is only a weak tie-breaker). Low-confidence labels require review. Raw recognizer text retained.",
+  "words": [
+    {
+      "utterances": [
+        {
+          "start": 141.3296,
+          "end": 142.1956
+        },
+        {
+          "start": 143.2877,
+          "end": 144.1698
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 141.46,
+          "end": 141.84,
+          "text": " English"
+        },
+        {
+          "start": 141.84,
+          "end": 145.78,
+          "text": " Akam"
+        }
+      ],
+      "transcript": "കം",
+      "meaning": "within —",
+      "textbook_row": 1,
+      "similarity": 0.814,
+      "status": "matched",
+      "id": "lesson_21_word_001"
+    },
+    {
+      "utterances": [
+        {
+          "start": 145.29,
+          "end": 145.9696
+        },
+        {
+          "start": 146.732,
+          "end": 147.6753
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 141.84,
+          "end": 145.78,
+          "text": " Akam"
+        },
+        {
+          "start": 145.78,
+          "end": 147.24,
+          "text": " agam"
+        },
+        {
+          "start": 147.24,
+          "end": 149.88,
+          "text": " patthu minittin agam"
+        }
+      ],
+      "transcript": "ഇംഗ്ലീഷ്",
+      "meaning": "English",
+      "textbook_row": 0,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_21_word_002"
+    },
+    {
+      "utterances": [
+        {
+          "start": 148.612,
+          "end": 149.9982
+        },
+        {
+          "start": 151.2607,
+          "end": 152.5686
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 147.24,
+          "end": 149.88,
+          "text": " patthu minittin agam"
+        },
+        {
+          "start": 149.88,
+          "end": 152.78,
+          "text": " patthu minittin agam"
+        }
+      ],
+      "transcript": "പത്ത് മിനിട്ടിനകം",
+      "meaning": "within ten minutes",
+      "textbook_row": 2,
+      "similarity": 0.917,
+      "status": "matched",
+      "id": "lesson_21_word_003"
+    },
+    {
+      "utterances": [
+        {
+          "start": 154.0336,
+          "end": 154.8751
+        },
+        {
+          "start": 155.6578,
+          "end": 156.4966
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 152.78,
+          "end": 154.66,
+          "text": " thiriyuga"
+        },
+        {
+          "start": 154.66,
+          "end": 156.36,
+          "text": " thiriyuga"
+        }
+      ],
+      "transcript": "തിരിക്കുക",
+      "meaning": "to turn, to turn around",
+      "textbook_row": 3,
+      "similarity": 0.831,
+      "status": "matched",
+      "id": "lesson_21_word_004"
+    },
+    {
+      "utterances": [
+        {
+          "start": 157.742,
+          "end": 158.8443
+        },
+        {
+          "start": 159.9431,
+          "end": 161.0763
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 156.36,
+          "end": 158.64,
+          "text": " thirichu varuga"
+        },
+        {
+          "start": 158.64,
+          "end": 160.88,
+          "text": " thirichu varuga"
+        }
+      ],
+      "transcript": "തിരിച്ചുവരുക",
+      "meaning": "to return",
+      "textbook_row": 4,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_21_word_005"
+    },
+    {
+      "utterances": [
+        {
+          "start": 162.5003,
+          "end": 163.9697
+        },
+        {
+          "start": 165.7098,
+          "end": 167.1968
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 160.88,
+          "end": 163.8,
+          "text": " thirichu varumairikim"
+        },
+        {
+          "start": 163.8,
+          "end": 167.04,
+          "text": " thirichu varumairikim"
+        }
+      ],
+      "transcript": "തിരിച്ചുവരുമായിരിക്കും",
+      "meaning": "might come back",
+      "textbook_row": 5,
+      "similarity": 0.873,
+      "status": "matched",
+      "id": "lesson_21_word_006"
+    },
+    {
+      "utterances": [
+        {
+          "start": 168.843,
+          "end": 169.5843
+        },
+        {
+          "start": 170.444,
+          "end": 171.2086
+        }
+      ],
+      "raw_texts": [
+        "പാടമ്",
+        "പാടമ്"
+      ],
+      "english_segments": [
+        {
+          "start": 167.04,
+          "end": 169.4,
+          "text": " padham"
+        },
+        {
+          "start": 169.4,
+          "end": 171.02,
+          "text": " padham"
+        }
+      ],
+      "transcript": "പാഠം",
+      "meaning": "lesson",
+      "textbook_row": 6,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_21_word_007"
+    },
+    {
+      "utterances": [
+        {
+          "start": 172.4022,
+          "end": 174.0607
+        },
+        {
+          "start": 176.2187,
+          "end": 178.4084
+        }
+      ],
+      "raw_texts": [
+        "പടിച്ചുകുണ്ടുണ്ടുന്ന പോള്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 171.02,
+          "end": 173.86,
+          "text": " padhichu kundirinnapol"
+        },
+        {
+          "start": 173.86,
+          "end": 177.72,
+          "text": " Padichu kondi irunna pol"
+        },
+        {
+          "start": 177.72,
+          "end": 180.3,
+          "text": " Pol"
+        }
+      ],
+      "transcript": "പഠിച്ചുകൊണ്ടിരുന്നപ്പോൾ",
+      "meaning": "while (I) was studying",
+      "textbook_row": 7,
+      "similarity": 0.788,
+      "status": "matched",
+      "id": "lesson_21_word_008"
+    },
+    {
+      "utterances": [
+        {
+          "start": 179.8879,
+          "end": 180.5475
+        },
+        {
+          "start": 181.7286,
+          "end": 182.3564
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 177.72,
+          "end": 180.3,
+          "text": " Pol"
+        },
+        {
+          "start": 180.3,
+          "end": 182.18,
+          "text": " Pol"
+        }
+      ],
+      "transcript": "പ്പോൾ",
+      "meaning": "while--",
+      "textbook_row": 8,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_21_word_009"
+    },
+    {
+      "utterances": [
+        {
+          "start": 183.8377,
+          "end": 184.6623
+        },
+        {
+          "start": 185.6781,
+          "end": 186.5191
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 182.18,
+          "end": 184.56,
+          "text": " Samsayam"
+        },
+        {
+          "start": 184.56,
+          "end": 186.42,
+          "text": " Samsayam"
+        }
+      ],
+      "transcript": "സംശയം",
+      "meaning": "doubt",
+      "textbook_row": 9,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_21_word_010"
+    },
+    {
+      "utterances": [
+        {
+          "start": 187.9306,
+          "end": 188.8568
+        },
+        {
+          "start": 189.9446,
+          "end": 190.8364
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 186.42,
+          "end": 188.64,
+          "text": " Kalayuga"
+        },
+        {
+          "start": 188.64,
+          "end": 190.74,
+          "text": " Kalayuga"
+        }
+      ],
+      "transcript": "past participle + കളയുക",
+      "meaning": "might as well ‘verb’; ‘verb’ + away",
+      "textbook_row": 10,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_21_word_011"
+    },
+    {
+      "utterances": [
+        {
+          "start": 191.9804,
+          "end": 193.2684
+        },
+        {
+          "start": 194.8135,
+          "end": 196.1255
+        }
+      ],
+      "raw_texts": [
+        "",
+        "പടിച്ചുകുണ്ടുന്ന പ�"
+      ],
+      "english_segments": [
+        {
+          "start": 190.74,
+          "end": 193.12,
+          "text": " Chodichu kalayam"
+        },
+        {
+          "start": 193.12,
+          "end": 196.12,
+          "text": " Chodichu kalayam"
+        }
+      ],
+      "transcript": "ചോദിച്ചുകളയാം",
+      "meaning": "might as well ask",
+      "textbook_row": 11,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_21_word_012"
+    },
+    {
+      "utterances": [
+        {
+          "start": 196.7626,
+          "end": 197.2289
+        }
+      ],
+      "raw_texts": [
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 196.12,
+          "end": 199.36,
+          "text": " Ariyam airikyam"
+        }
+      ],
+      "transcript": "അറിയാമായിരിക്കാം",
+      "meaning": "might know",
+      "textbook_row": 12,
+      "similarity": 0.882,
+      "status": "matched",
+      "id": "lesson_21_word_013"
+    },
+    {
+      "utterances": [
+        {
+          "start": 198.1028,
+          "end": 199.5024
+        },
+        {
+          "start": 201.1715,
+          "end": 202.5608
+        }
+      ],
+      "raw_texts": [
+        "അര്യാമ്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 196.12,
+          "end": 199.36,
+          "text": " Ariyam airikyam"
+        },
+        {
+          "start": 199.36,
+          "end": 202.42,
+          "text": " Ariyam airikyam"
+        }
+      ],
+      "transcript": "ആയിരിക്കണം",
+      "meaning": "must be",
+      "textbook_row": 19,
+      "similarity": 0.633,
+      "status": "review",
+      "id": "lesson_21_word_014"
+    },
+    {
+      "utterances": [
+        {
+          "start": 204.5397,
+          "end": 205.3405
+        },
+        {
+          "start": 206.1725,
+          "end": 209.8248
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 202.42,
+          "end": 205.12,
+          "text": " Taruga"
+        },
+        {
+          "start": 205.12,
+          "end": 211.86,
+          "text": " Paranyu taruga"
+        }
+      ],
+      "transcript": "പറഞ്ഞുതരുക",
+      "meaning": "to tell (me or you)",
+      "textbook_row": 14,
+      "similarity": 0.882,
+      "status": "matched",
+      "id": "lesson_21_word_015"
+    },
+    {
+      "utterances": [
+        {
+          "start": 210.4143,
+          "end": 212.0765
+        }
+      ],
+      "raw_texts": [
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 205.12,
+          "end": 211.86,
+          "text": " Paranyu taruga"
+        }
+      ],
+      "transcript": "past participle + തരുക",
+      "meaning": "to do ‘verb’ for your or my benefit",
+      "textbook_row": 13,
+      "similarity": 0.6,
+      "status": "review",
+      "id": "lesson_21_word_016"
+    },
+    {
+      "utterances": [
+        {
+          "start": 213.5949,
+          "end": 214.7882
+        },
+        {
+          "start": 216.2171,
+          "end": 217.5054
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 211.86,
+          "end": 217.2,
+          "text": " Paranyu kudukuga"
+        },
+        {
+          "start": 217.2,
+          "end": 219.16,
+          "text": " Dukham"
+        }
+      ],
+      "transcript": "പറഞ്ഞുകൊടുക്കുക",
+      "meaning": "to tell (third person)",
+      "textbook_row": 15,
+      "similarity": 0.831,
+      "status": "matched",
+      "id": "lesson_21_word_017"
+    },
+    {
+      "utterances": [
+        {
+          "start": 218.5621,
+          "end": 219.3088
+        },
+        {
+          "start": 219.9093,
+          "end": 220.7472
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 217.2,
+          "end": 219.16,
+          "text": " Dukham"
+        },
+        {
+          "start": 219.16,
+          "end": 223.2,
+          "text": " Vipareetapadam"
+        }
+      ],
+      "transcript": "വിപരീതപദം",
+      "meaning": "antonym, opposite word",
+      "textbook_row": 17,
+      "similarity": 0.877,
+      "status": "matched",
+      "id": "lesson_21_word_018"
+    },
+    {
+      "utterances": [
+        {
+          "start": 221.6344,
+          "end": 222.8698
+        },
+        {
+          "start": 224.2627,
+          "end": 225.5213
+        }
+      ],
+      "raw_texts": [
+        "",
+        "ആയുക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക"
+      ],
+      "english_segments": [
+        {
+          "start": 219.16,
+          "end": 223.2,
+          "text": " Vipareetapadam"
+        },
+        {
+          "start": 223.2,
+          "end": 228.2,
+          "text": " Sukham"
+        }
+      ],
+      "transcript": "അടങ്ങുക",
+      "meaning": "to be allayed, to become calm",
+      "textbook_row": 47,
+      "similarity": 0.667,
+      "status": "review",
+      "id": "lesson_21_word_019"
+    },
+    {
+      "utterances": [
+        {
+          "start": 227.0872,
+          "end": 227.7826
+        },
+        {
+          "start": 228.4672,
+          "end": 229.1728
+        }
+      ],
+      "raw_texts": [
+        "സുഖമ്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 223.2,
+          "end": 228.2,
+          "text": " Sukham"
+        },
+        {
+          "start": 228.2,
+          "end": 231.2,
+          "text": " Aayarikyanam"
+        }
+      ],
+      "transcript": "സുഖം",
+      "meaning": "happiness",
+      "textbook_row": 18,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_21_word_020"
+    },
+    {
+      "utterances": [
+        {
+          "start": 230.101,
+          "end": 231.1962
+        },
+        {
+          "start": 232.2832,
+          "end": 233.3516
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 228.2,
+          "end": 231.2,
+          "text": " Aayarikyanam"
+        },
+        {
+          "start": 231.2,
+          "end": 235.52,
+          "text": " Prasannatha"
+        }
+      ],
+      "transcript": "പ്രസന്നത",
+      "meaning": "cheerfulness",
+      "textbook_row": 20,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_21_word_021"
+    },
+    {
+      "utterances": [
+        {
+          "start": 234.6883,
+          "end": 235.761
+        },
+        {
+          "start": 236.8731,
+          "end": 237.9269
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 231.2,
+          "end": 235.52,
+          "text": " Prasannatha"
+        },
+        {
+          "start": 235.52,
+          "end": 237.72,
+          "text": " Prasannatha"
+        }
+      ],
+      "transcript": "പ്രസന്നതയില്ലാത്തത്",
+      "meaning": "one which is not cheerful",
+      "textbook_row": 21,
+      "similarity": 0.684,
+      "status": "review",
+      "id": "lesson_21_word_022"
+    },
+    {
+      "utterances": [
+        {
+          "start": 239.5282,
+          "end": 241.1953
+        },
+        {
+          "start": 243.5974,
+          "end": 245.6848
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 237.72,
+          "end": 241.2,
+          "text": " Prasannatha illathadha"
+        },
+        {
+          "start": 241.2,
+          "end": 245.2,
+          "text": " Prasannatha illathadha"
+        }
+      ],
+      "transcript": "ദുഃഖം",
+      "meaning": "sorrow, grief",
+      "textbook_row": 16,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_21_word_023"
+    },
+    {
+      "utterances": [
+        {
+          "start": 247.7495,
+          "end": 248.4738
+        },
+        {
+          "start": 249.2284,
+          "end": 249.941
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 246.18,
+          "end": 249.2,
+          "text": " Kannu"
+        },
+        {
+          "start": 249.2,
+          "end": 250.2,
+          "text": " Kannu"
+        }
+      ],
+      "transcript": "കണ്ണ്",
+      "meaning": "eye",
+      "textbook_row": 22,
+      "similarity": 0.814,
+      "status": "matched",
+      "id": "lesson_21_word_024"
+    },
+    {
+      "utterances": [
+        {
+          "start": 250.9451,
+          "end": 252.4231
+        },
+        {
+          "start": 254.5362,
+          "end": 256.1088
+        }
+      ],
+      "raw_texts": [
+        "",
+        "ആയുക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്�"
+      ],
+      "english_segments": [
+        {
+          "start": 250.2,
+          "end": 252.26,
+          "text": " Varuka illa irikkim"
+        },
+        {
+          "start": 252.26,
+          "end": 255.98,
+          "text": " Varuka illa irikkim"
+        }
+      ],
+      "transcript": "വരുകയില്ലായിരിക്കും",
+      "meaning": "probably won’t be coming",
+      "textbook_row": 23,
+      "similarity": 0.831,
+      "status": "matched",
+      "id": "lesson_21_word_025"
+    },
+    {
+      "utterances": [
+        {
+          "start": 258.4517,
+          "end": 260.3601
+        },
+        {
+          "start": 263.0937,
+          "end": 265.1009
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 255.98,
+          "end": 260.22,
+          "text": " Varanam enn unda irikkanam"
+        },
+        {
+          "start": 260.22,
+          "end": 265.54,
+          "text": " Paranam ennu undaayi rikyanam"
+        }
+      ],
+      "transcript": "വരണമെന്നുണ്ടായിരിക്കണം",
+      "meaning": "might be wanting to come",
+      "textbook_row": 24,
+      "similarity": 0.887,
+      "status": "matched",
+      "id": "lesson_21_word_026"
+    },
+    {
+      "utterances": [
+        {
+          "start": 267.8875,
+          "end": 268.8039
+        },
+        {
+          "start": 269.4234,
+          "end": 270.4645
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 265.54,
+          "end": 268.6,
+          "text": " Kali yuga"
+        },
+        {
+          "start": 268.6,
+          "end": 274.74,
+          "text": " Padichu kali yuga"
+        }
+      ],
+      "transcript": "പഠിച്ചു കഴിയുക",
+      "meaning": "to finish studying",
+      "textbook_row": 26,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_21_word_027"
+    },
+    {
+      "utterances": [
+        {
+          "start": 271.147,
+          "end": 272.4926
+        },
+        {
+          "start": 273.6493,
+          "end": 274.9369
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 268.6,
+          "end": 274.74,
+          "text": " Padichu kali yuga"
+        }
+      ],
+      "transcript": "past participle + കഴിയുക",
+      "meaning": "to finish ‘verb’",
+      "textbook_row": 25,
+      "similarity": 0.691,
+      "status": "review",
+      "id": "lesson_21_word_028"
+    },
+    {
+      "utterances": [
+        {
+          "start": 276.1109,
+          "end": 276.9898
+        },
+        {
+          "start": 277.652,
+          "end": 278.5881
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 274.74,
+          "end": 278.4,
+          "text": " Sangadam"
+        }
+      ],
+      "transcript": "സങ്കടം",
+      "meaning": "sadness, sorrow",
+      "textbook_row": 27,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_21_word_029"
+    },
+    {
+      "utterances": [
+        {
+          "start": 279.4721,
+          "end": 281.1174
+        },
+        {
+          "start": 283.2214,
+          "end": 284.5955
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 278.4,
+          "end": 281.54,
+          "text": " Sangadamayi rikyum"
+        },
+        {
+          "start": 281.54,
+          "end": 284.46,
+          "text": " Sangadamayi rikyum"
+        }
+      ],
+      "transcript": "സങ്കടമായിരിക്കും",
+      "meaning": "must be, might be sad",
+      "textbook_row": 28,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_21_word_030"
+    },
+    {
+      "utterances": [
+        {
+          "start": 286.4649,
+          "end": 287.4932
+        },
+        {
+          "start": 288.3021,
+          "end": 289.3923
+        }
+      ],
+      "raw_texts": [
+        "",
+        "വരണമ്യന്നുംണ്ടായുക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക"
+      ],
+      "english_segments": [
+        {
+          "start": 284.46,
+          "end": 287.32,
+          "text": " Vishamikyuga"
+        },
+        {
+          "start": 287.32,
+          "end": 293.54,
+          "text": " visamamunda"
+        }
+      ],
+      "transcript": "വിഷമിക്കുക",
+      "meaning": "to worry, to fret",
+      "textbook_row": 29,
+      "similarity": 0.633,
+      "status": "review",
+      "id": "lesson_21_word_031"
+    },
+    {
+      "utterances": [
+        {
+          "start": 290.5189,
+          "end": 291.6102
+        },
+        {
+          "start": 292.5868,
+          "end": 294.1465
+        }
+      ],
+      "raw_texts": [
+        "വിശമുണ്ട്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 287.32,
+          "end": 293.54,
+          "text": " visamamunda"
+        },
+        {
+          "start": 293.54,
+          "end": 297.86,
+          "text": " kulichuga"
+        }
+      ],
+      "transcript": "വിഷമമുണ്ട്",
+      "meaning": "to be worried (with a dative subject)",
+      "textbook_row": 30,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_21_word_032"
+    },
+    {
+      "utterances": [
+        {
+          "start": 295.0944,
+          "end": 296.0634
+        },
+        {
+          "start": 297.0855,
+          "end": 298.0239
+        }
+      ],
+      "raw_texts": [
+        "കുളിചുക",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 293.54,
+          "end": 297.86,
+          "text": " kulichuga"
+        }
+      ],
+      "transcript": "കുളിക്കുക",
+      "meaning": "to take a bath",
+      "textbook_row": 31,
+      "similarity": 0.857,
+      "status": "matched",
+      "id": "lesson_21_word_033"
+    },
+    {
+      "utterances": [
+        {
+          "start": 299.0902,
+          "end": 299.8785
+        },
+        {
+          "start": 300.7657,
+          "end": 301.6174
+        }
+      ],
+      "raw_texts": [
+        "ഉഡുപ്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 297.86,
+          "end": 302.54,
+          "text": " uduppa"
+        }
+      ],
+      "transcript": "ഉടുപ്പ്",
+      "meaning": "clothing",
+      "textbook_row": 32,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_21_word_034"
+    },
+    {
+      "utterances": [
+        {
+          "start": 302.519,
+          "end": 303.5155
+        },
+        {
+          "start": 304.5166,
+          "end": 305.5077
+        }
+      ],
+      "raw_texts": [
+        "പുരപ്പെടുക",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 302.54,
+          "end": 305.38,
+          "text": " purappeduga"
+        }
+      ],
+      "transcript": "പുറപ്പെടുക",
+      "meaning": "to leave, to start",
+      "textbook_row": 33,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_21_word_035"
+    },
+    {
+      "utterances": [
+        {
+          "start": 306.4757,
+          "end": 307.5417
+        },
+        {
+          "start": 308.8197,
+          "end": 309.8647
+        }
+      ],
+      "raw_texts": [
+        "പുരപ്പെട്ട്",
+        "പുര്പെട്ട്"
+      ],
+      "english_segments": [
+        {
+          "start": 305.38,
+          "end": 309.64,
+          "text": " purappetta"
+        }
+      ],
+      "transcript": "പുറപ്പെട്ടു",
+      "meaning": "to leave, to start",
+      "textbook_row": 33,
+      "similarity": 0.923,
+      "status": "matched",
+      "id": "lesson_21_word_036"
+    },
+    {
+      "utterances": [
+        {
+          "start": 310.9866,
+          "end": 312.7302
+        },
+        {
+          "start": 313.8702,
+          "end": 315.273
+        }
+      ],
+      "raw_texts": [
+        "",
+        "പുര്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്"
+      ],
+      "english_segments": [
+        {
+          "start": 309.64,
+          "end": 312.14,
+          "text": " purappedukayana"
+        },
+        {
+          "start": 312.14,
+          "end": 315.1,
+          "text": " purappedukayana"
+        }
+      ],
+      "transcript": "പുറപ്പെടുകയാണ്",
+      "meaning": "going to leave, (is, am or are) leaving",
+      "textbook_row": 34,
+      "similarity": 0.915,
+      "status": "matched",
+      "id": "lesson_21_word_037"
+    },
+    {
+      "utterances": [
+        {
+          "start": 316.7098,
+          "end": 317.779
+        },
+        {
+          "start": 318.0765,
+          "end": 318.829
+        }
+      ],
+      "raw_texts": [
+        "ഉണ്ടുക",
+        "ഉണ്ടുക"
+      ],
+      "english_segments": [
+        {
+          "start": 315.1,
+          "end": 318.66,
+          "text": " udan, udan"
+        }
+      ],
+      "transcript": "തിന്നുക",
+      "meaning": "to eat",
+      "textbook_row": 42,
+      "similarity": 0.6,
+      "status": "review",
+      "id": "lesson_21_word_038"
+    },
+    {
+      "utterances": [
+        {
+          "start": 319.4553,
+          "end": 320.3291
+        },
+        {
+          "start": 321.014,
+          "end": 322.0909
+        }
+      ],
+      "raw_texts": [
+        "വിശപ്പ്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 318.66,
+          "end": 321.58,
+          "text": " visap, visap"
+        },
+        {
+          "start": 321.58,
+          "end": 325.74,
+          "text": " visapunda, visapunda"
+        }
+      ],
+      "transcript": "വിശപ്പ്",
+      "meaning": "hunger",
+      "textbook_row": 36,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_21_word_039"
+    },
+    {
+      "utterances": [
+        {
+          "start": 322.5773,
+          "end": 323.9616
+        },
+        {
+          "start": 324.8254,
+          "end": 325.989
+        }
+      ],
+      "raw_texts": [
+        "വിശപ്പുണ്ട്",
+        "വിശപ്പുണ്ട്"
+      ],
+      "english_segments": [
+        {
+          "start": 321.58,
+          "end": 325.74,
+          "text": " visapunda, visapunda"
+        }
+      ],
+      "transcript": "വിശപ്പുണ്ട്",
+      "meaning": "to be hungry (with a dative subject)",
+      "textbook_row": 37,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_21_word_040"
+    },
+    {
+      "utterances": [
+        {
+          "start": 327.1552,
+          "end": 328.29
+        },
+        {
+          "start": 329.6533,
+          "end": 330.7574
+        }
+      ],
+      "raw_texts": [
+        "ദാഹികുക",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 325.74,
+          "end": 330.58,
+          "text": " dahikyuga, dahikyuga"
+        }
+      ],
+      "transcript": "ദാഹിക്കുക",
+      "meaning": "to be thirsty",
+      "textbook_row": 38,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_21_word_041"
+    },
+    {
+      "utterances": [
+        {
+          "start": 332.0114,
+          "end": 332.8516
+        },
+        {
+          "start": 333.7217,
+          "end": 334.5242
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 330.58,
+          "end": 334.4,
+          "text": " daham, daham"
+        }
+      ],
+      "transcript": "ദാഹം",
+      "meaning": "thirst",
+      "textbook_row": 39,
+      "similarity": 0.633,
+      "status": "review",
+      "id": "lesson_21_word_042"
+    },
+    {
+      "utterances": [
+        {
+          "start": 335.3175,
+          "end": 336.5462
+        },
+        {
+          "start": 337.6182,
+          "end": 338.8803
+        }
+      ],
+      "raw_texts": [
+        "ദാഹി�",
+        "ദാഹമുണ്ഡ്"
+      ],
+      "english_segments": [
+        {
+          "start": 334.4,
+          "end": 338.58,
+          "text": " dahamunda, dahamunda"
+        },
+        {
+          "start": 338.58,
+          "end": 341.96,
+          "text": " una, una"
+        }
+      ],
+      "transcript": "ദാഹമുണ്ട്",
+      "meaning": "to be thirsty (with a dative subject)",
+      "textbook_row": 40,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_21_word_043"
+    },
+    {
+      "utterances": [
+        {
+          "start": 339.7814,
+          "end": 340.55
+        },
+        {
+          "start": 341.4375,
+          "end": 342.1702
+        }
+      ],
+      "raw_texts": [
+        "ഊണ്ടു",
+        "ഊണ്ടു"
+      ],
+      "english_segments": [
+        {
+          "start": 338.58,
+          "end": 341.96,
+          "text": " una, una"
+        }
+      ],
+      "transcript": "ഊണ്",
+      "meaning": "meal",
+      "textbook_row": 41,
+      "similarity": 0.667,
+      "status": "review",
+      "id": "lesson_21_word_044"
+    }
+  ],
+  "textbook_vocabulary": [
+    {
+      "malayalam": "ഇംഗ്ലീഷ്",
+      "meaning": "English"
+    },
+    {
+      "malayalam": "-കം (requires dative of noun)",
+      "meaning": "within —"
+    },
+    {
+      "malayalam": "പത്ത് മിനിട്ടിനകം",
+      "meaning": "within ten minutes"
+    },
+    {
+      "malayalam": "തിരിക്കുക",
+      "meaning": "to turn, to turn around"
+    },
+    {
+      "malayalam": "തിരിച്ചുവരുക",
+      "meaning": "to return"
+    },
+    {
+      "malayalam": "തിരിച്ചുവരുമായിരിക്കും",
+      "meaning": "might come back"
+    },
+    {
+      "malayalam": "പാഠം",
+      "meaning": "lesson"
+    },
+    {
+      "malayalam": "പഠിച്ചുകൊണ്ടിരുന്നപ്പോൾ",
+      "meaning": "while (I) was studying"
+    },
+    {
+      "malayalam": "-പ്പോൾ",
+      "meaning": "while--"
+    },
+    {
+      "malayalam": "സംശയം",
+      "meaning": "doubt"
+    },
+    {
+      "malayalam": "past participle + കളയുക",
+      "meaning": "might as well ‘verb’; ‘verb’ + away"
+    },
+    {
+      "malayalam": "ചോദിച്ചുകളയാം",
+      "meaning": "might as well ask"
+    },
+    {
+      "malayalam": "അറിയാമായിരിക്കാം",
+      "meaning": "might know"
+    },
+    {
+      "malayalam": "past participle + തരുക",
+      "meaning": "to do ‘verb’ for your or my benefit"
+    },
+    {
+      "malayalam": "പറഞ്ഞുതരുക",
+      "meaning": "to tell (me or you)"
+    },
+    {
+      "malayalam": "പറഞ്ഞുകൊടുക്കുക",
+      "meaning": "to tell (third person)"
+    },
+    {
+      "malayalam": "ദുഃഖം",
+      "meaning": "sorrow, grief"
+    },
+    {
+      "malayalam": "വിപരീതപദം",
+      "meaning": "antonym, opposite word"
+    },
+    {
+      "malayalam": "സുഖം",
+      "meaning": "happiness"
+    },
+    {
+      "malayalam": "ആയിരിക്കണം",
+      "meaning": "must be"
+    },
+    {
+      "malayalam": "പ്രസന്നത",
+      "meaning": "cheerfulness"
+    },
+    {
+      "malayalam": "പ്രസന്നതയില്ലാത്തത്",
+      "meaning": "one which is not cheerful"
+    },
+    {
+      "malayalam": "കണ്ണ്",
+      "meaning": "eye"
+    },
+    {
+      "malayalam": "വരുകയില്ലായിരിക്കും",
+      "meaning": "probably won’t be coming"
+    },
+    {
+      "malayalam": "വരണമെന്നുണ്ടായിരിക്കണം",
+      "meaning": "might be wanting to come"
+    },
+    {
+      "malayalam": "past participle + കഴിയുക",
+      "meaning": "to finish ‘verb’"
+    },
+    {
+      "malayalam": "പഠിച്ചു കഴിയുക",
+      "meaning": "to finish studying"
+    },
+    {
+      "malayalam": "സങ്കടം",
+      "meaning": "sadness, sorrow"
+    },
+    {
+      "malayalam": "സങ്കടമായിരിക്കും",
+      "meaning": "must be, might be sad"
+    },
+    {
+      "malayalam": "വിഷമിക്കുക",
+      "meaning": "to worry, to fret"
+    },
+    {
+      "malayalam": "വിഷമമുണ്ട്",
+      "meaning": "to be worried (with a dative subject)"
+    },
+    {
+      "malayalam": "കുളിക്കുക",
+      "meaning": "to take a bath"
+    },
+    {
+      "malayalam": "ഉടുപ്പ്",
+      "meaning": "clothing"
+    },
+    {
+      "malayalam": "പുറപ്പെടുക (past: പുറപ്പെട്ടു)",
+      "meaning": "to leave, to start"
+    },
+    {
+      "malayalam": "പുറപ്പെടുകയാണ്",
+      "meaning": "going to leave, (is, am or are) leaving"
+    },
+    {
+      "malayalam": "--ഉടൻ",
+      "meaning": "as soon as —"
+    },
+    {
+      "malayalam": "വിശപ്പ്",
+      "meaning": "hunger"
+    },
+    {
+      "malayalam": "വിശപ്പുണ്ട്",
+      "meaning": "to be hungry (with a dative subject)"
+    },
+    {
+      "malayalam": "ദാഹിക്കുക",
+      "meaning": "to be thirsty"
+    },
+    {
+      "malayalam": "ദാഹം",
+      "meaning": "thirst"
+    },
+    {
+      "malayalam": "ദാഹമുണ്ട്",
+      "meaning": "to be thirsty (with a dative subject)"
+    },
+    {
+      "malayalam": "ഊണ്",
+      "meaning": "meal"
+    },
+    {
+      "malayalam": "തിന്നുക",
+      "meaning": "to eat"
+    },
+    {
+      "malayalam": "ചെറുക്കൻ",
+      "meaning": "boy"
+    },
+    {
+      "malayalam": "ഇരുട്ടുക",
+      "meaning": "to become dark"
+    },
+    {
+      "malayalam": "മുഴു",
+      "meaning": "full complete"
+    },
+    {
+      "malayalam": "കഷണ്ടിയാകുക",
+      "meaning": "to become bald"
+    },
+    {
+      "malayalam": "അടങ്ങുക",
+      "meaning": "to be allayed, to become calm"
+    },
+    {
+      "malayalam": "കരയുക",
+      "meaning": "to cry"
+    }
+  ],
+  "unmatched_textbook_rows": [
+    {
+      "index": 35,
+      "malayalam": "--ഉടൻ",
+      "meaning": "as soon as —"
+    },
+    {
+      "index": 43,
+      "malayalam": "ചെറുക്കൻ",
+      "meaning": "boy"
+    },
+    {
+      "index": 44,
+      "malayalam": "ഇരുട്ടുക",
+      "meaning": "to become dark"
+    },
+    {
+      "index": 45,
+      "malayalam": "മുഴു",
+      "meaning": "full complete"
+    },
+    {
+      "index": 46,
+      "malayalam": "കഷണ്ടിയാകുക",
+      "meaning": "to become bald"
+    },
+    {
+      "index": 48,
+      "malayalam": "കരയുക",
+      "meaning": "to cry"
+    }
+  ],
+  "recognition_sha256": "07a0def7854dd54654205b0571431c74717abab72653a7486d8d66a96597739c",
+  "boundary_sha256": "22f7afd5e41000b344bd667599ef8565375e9ca1cf7feae6f45ff67a97d197dd"
+}

@@ -1,0 +1,2281 @@
+{
+  "format": "malayalam-vocabulary-review-v1",
+  "exported_at": "2026-10-16T01:13:27.050Z",
+  "total_clips": 142,
+  "reviews": [
+    {
+      "id": "lesson_03_word_001",
+      "lesson": 3,
+      "clip": "assets/audio/moag/words/lesson_03_word_001.mp3",
+      "start_seconds": 38.1628,
+      "end_seconds": 40.7468,
+      "proposed_transcript": "ഉണ്ട്",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:18:49.515Z"
+    },
+    {
+      "id": "lesson_03_word_005",
+      "lesson": 3,
+      "clip": "assets/audio/moag/words/lesson_03_word_005.mp3",
+      "start_seconds": 52.3138,
+      "end_seconds": 54.5919,
+      "proposed_transcript": "കൈയിൽ ഉണ്ട്",
+      "decision": "corrected",
+      "correction": "കൈയിൽ",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:19:31.954Z"
+    },
+    {
+      "id": "lesson_03_word_011",
+      "lesson": 3,
+      "clip": "assets/audio/moag/words/lesson_03_word_011.mp3",
+      "start_seconds": 74.0956,
+      "end_seconds": 76.7507,
+      "proposed_transcript": "ഇപ്പോൾ വരും",
+      "decision": "corrected",
+      "correction": "ഇപ്പോൾ",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:19:41.473Z"
+    },
+    {
+      "id": "lesson_03_word_012",
+      "lesson": 3,
+      "clip": "assets/audio/moag/words/lesson_03_word_012.mp3",
+      "start_seconds": 77.6111,
+      "end_seconds": 80.501,
+      "proposed_transcript": "നമസ്കാരം",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:19:45.860Z"
+    },
+    {
+      "id": "lesson_03_word_018",
+      "lesson": 3,
+      "clip": "assets/audio/moag/words/lesson_03_word_018.mp3",
+      "start_seconds": 99.8633,
+      "end_seconds": 102.5276,
+      "proposed_transcript": "അഞ്ച്",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:19:48.852Z"
+    },
+    {
+      "id": "lesson_03_word_019",
+      "lesson": 3,
+      "clip": "assets/audio/moag/words/lesson_03_word_019.mp3",
+      "start_seconds": 103.0507,
+      "end_seconds": 105.5376,
+      "proposed_transcript": "ഞങ്ങൾ",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:19:52.328Z"
+    },
+    {
+      "id": "lesson_03_word_024",
+      "lesson": 3,
+      "clip": "assets/audio/moag/words/lesson_03_word_024.mp3",
+      "start_seconds": 121.546,
+      "end_seconds": 125.2391,
+      "proposed_transcript": "ഉം",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:19:56.185Z"
+    },
+    {
+      "id": "lesson_04_word_001",
+      "lesson": 4,
+      "clip": "assets/audio/moag/words/lesson_04_word_001.mp3",
+      "start_seconds": 60.0737,
+      "end_seconds": 62.3778,
+      "proposed_transcript": "ഒരു",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:20:01.277Z"
+    },
+    {
+      "id": "lesson_05_word_001",
+      "lesson": 5,
+      "clip": "assets/audio/moag/words/lesson_05_word_001.mp3",
+      "start_seconds": 15.8215,
+      "end_seconds": 18.5648,
+      "proposed_transcript": "കൃഷ്ണൻ",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:20:16.507Z"
+    },
+    {
+      "id": "lesson_05_word_003",
+      "lesson": 5,
+      "clip": "assets/audio/moag/words/lesson_05_word_003.mp3",
+      "start_seconds": 23.9385,
+      "end_seconds": 26.9831,
+      "proposed_transcript": "Unclear word",
+      "decision": "corrected",
+      "correction": "ഇരിക്കുന്നു",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:21:12.527Z"
+    },
+    {
+      "id": "lesson_05_word_004",
+      "lesson": 5,
+      "clip": "assets/audio/moag/words/lesson_05_word_004.mp3",
+      "start_seconds": 29.159,
+      "end_seconds": 32.1349,
+      "proposed_transcript": "ചെയ്യുന്നു",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:21:18.915Z"
+    },
+    {
+      "id": "lesson_05_word_005",
+      "lesson": 5,
+      "clip": "assets/audio/moag/words/lesson_05_word_005.mp3",
+      "start_seconds": 33.4417,
+      "end_seconds": 36.1814,
+      "proposed_transcript": "വായിക്കുന്നു",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:21:37.185Z"
+    },
+    {
+      "id": "lesson_05_word_011",
+      "lesson": 5,
+      "clip": "assets/audio/moag/words/lesson_05_word_011.mp3",
+      "start_seconds": 58.8817,
+      "end_seconds": 61.6879,
+      "proposed_transcript": "ചെയ്യുന്നു",
+      "decision": "corrected",
+      "correction": "ഇല്ലേ?",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:22:30.977Z"
+    },
+    {
+      "id": "lesson_06_word_022",
+      "lesson": 6,
+      "clip": "assets/audio/moag/words/lesson_06_word_022.mp3",
+      "start_seconds": 235.0595,
+      "end_seconds": 237.854,
+      "proposed_transcript": "നോക്കാം",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:22:33.136Z"
+    },
+    {
+      "id": "lesson_07_word_005",
+      "lesson": 7,
+      "clip": "assets/audio/moag/words/lesson_07_word_005.mp3",
+      "start_seconds": 343.1005,
+      "end_seconds": 345.2605,
+      "proposed_transcript": "കുറച്ച് കഴിഞ്ഞ്",
+      "decision": "corrected",
+      "correction": "കുറച്ച്",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:22:56.064Z"
+    },
+    {
+      "id": "lesson_09_word_004",
+      "lesson": 9,
+      "clip": "assets/audio/moag/words/lesson_09_word_004.mp3",
+      "start_seconds": 133.6094,
+      "end_seconds": 136.3982,
+      "proposed_transcript": "ചേരും",
+      "decision": "flagged",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:23:46.622Z"
+    },
+    {
+      "id": "lesson_09_word_005",
+      "lesson": 9,
+      "clip": "assets/audio/moag/words/lesson_09_word_005.mp3",
+      "start_seconds": 138.802,
+      "end_seconds": 141.8199,
+      "proposed_transcript": "നന്നായിരിക്കുന്നു",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:23:52.095Z"
+    },
+    {
+      "id": "lesson_09_word_024",
+      "lesson": 9,
+      "clip": "assets/audio/moag/words/lesson_09_word_024.mp3",
+      "start_seconds": 212.8136,
+      "end_seconds": 215.1742,
+      "proposed_transcript": "ചേരും",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:23:59.083Z"
+    },
+    {
+      "id": "lesson_10_word_014",
+      "lesson": 10,
+      "clip": "assets/audio/moag/words/lesson_10_word_014.mp3",
+      "start_seconds": 53.788,
+      "end_seconds": 56.1207,
+      "proposed_transcript": "കിഴക്കേ",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:25:01.050Z"
+    },
+    {
+      "id": "lesson_10_word_028",
+      "lesson": 10,
+      "clip": "assets/audio/moag/words/lesson_10_word_028.mp3",
+      "start_seconds": 106.044,
+      "end_seconds": 108.3175,
+      "proposed_transcript": "വടക്കേ",
+      "decision": "flagged",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:25:10.305Z"
+    },
+    {
+      "id": "lesson_10_word_035",
+      "lesson": 10,
+      "clip": "assets/audio/moag/words/lesson_10_word_035.mp3",
+      "start_seconds": 133.5687,
+      "end_seconds": 136.9943,
+      "proposed_transcript": "യാത്ര ചെയ്യുക",
+      "decision": "flagged",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:25:17.272Z"
+    },
+    {
+      "id": "lesson_11_word_005",
+      "lesson": 11,
+      "clip": "assets/audio/moag/words/lesson_11_word_005.mp3",
+      "start_seconds": 129.3911,
+      "end_seconds": 133.6323,
+      "proposed_transcript": "എന്ദിന്ന് ആയച്ച്ച്ച്",
+      "decision": "flagged",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:25:45.009Z"
+    },
+    {
+      "id": "lesson_11_word_012",
+      "lesson": 11,
+      "clip": "assets/audio/moag/words/lesson_11_word_012.mp3",
+      "start_seconds": 162.6857,
+      "end_seconds": 164.5272,
+      "proposed_transcript": "വേറെ",
+      "decision": "flagged",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:25:48.467Z"
+    },
+    {
+      "id": "lesson_11_word_035",
+      "lesson": 11,
+      "clip": "assets/audio/moag/words/lesson_11_word_035.mp3",
+      "start_seconds": 281.199,
+      "end_seconds": 282.0512,
+      "proposed_transcript": "Unclear word",
+      "decision": "flagged",
+      "correction": "",
+      "notes": "nothing",
+      "reviewed_at": "2026-10-16T00:26:04.667Z"
+    },
+    {
+      "id": "lesson_12_word_013",
+      "lesson": 12,
+      "clip": "assets/audio/moag/words/lesson_12_word_013.mp3",
+      "start_seconds": 293.5133,
+      "end_seconds": 296.4931,
+      "proposed_transcript": "വീണ്ടും",
+      "decision": "corrected",
+      "correction": "പിന്നെയും",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:26:56.752Z"
+    },
+    {
+      "id": "lesson_12_word_015",
+      "lesson": 12,
+      "clip": "assets/audio/moag/words/lesson_12_word_015.mp3",
+      "start_seconds": 301.9961,
+      "end_seconds": 304.594,
+      "proposed_transcript": "ഇന്ന്",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:27:02.938Z"
+    },
+    {
+      "id": "lesson_12_word_024",
+      "lesson": 12,
+      "clip": "assets/audio/moag/words/lesson_12_word_024.mp3",
+      "start_seconds": 341.8723,
+      "end_seconds": 344.8299,
+      "proposed_transcript": "ആയിരിക്കും",
+      "decision": "corrected",
+      "correction": "കുട്ടികൾ",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:27:27.217Z"
+    },
+    {
+      "id": "lesson_13_word_033",
+      "lesson": 13,
+      "clip": "assets/audio/moag/words/lesson_13_word_033.mp3",
+      "start_seconds": 220.0633,
+      "end_seconds": 224.0344,
+      "proposed_transcript": "ഒട്ടിച്ചു",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:27:31.841Z"
+    },
+    {
+      "id": "lesson_14_word_003",
+      "lesson": 14,
+      "clip": "assets/audio/moag/words/lesson_14_word_003.mp3",
+      "start_seconds": 191.9479,
+      "end_seconds": 194.5037,
+      "proposed_transcript": "ഒറ്റ",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:27:34.811Z"
+    },
+    {
+      "id": "lesson_14_word_010",
+      "lesson": 14,
+      "clip": "assets/audio/moag/words/lesson_14_word_010.mp3",
+      "start_seconds": 220.7338,
+      "end_seconds": 223.5139,
+      "proposed_transcript": "ചരമം",
+      "decision": "flagged",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:27:37.810Z"
+    },
+    {
+      "id": "lesson_14_word_013",
+      "lesson": 14,
+      "clip": "assets/audio/moag/words/lesson_14_word_013.mp3",
+      "start_seconds": 233.817,
+      "end_seconds": 236.8999,
+      "proposed_transcript": "നിരിയാണം",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:27:40.001Z"
+    },
+    {
+      "id": "lesson_14_word_049",
+      "lesson": 14,
+      "clip": "assets/audio/moag/words/lesson_14_word_049.mp3",
+      "start_seconds": 398.2804,
+      "end_seconds": 401.1957,
+      "proposed_transcript": "പറ്റി",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:27:41.637Z"
+    },
+    {
+      "id": "lesson_14_word_050",
+      "lesson": 14,
+      "clip": "assets/audio/moag/words/lesson_14_word_050.mp3",
+      "start_seconds": 402.0783,
+      "end_seconds": 406.1512,
+      "proposed_transcript": "പറ്റിയുള്ള",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:27:46.325Z"
+    },
+    {
+      "id": "lesson_15_word_005",
+      "lesson": 15,
+      "clip": "assets/audio/moag/words/lesson_15_word_005.mp3",
+      "start_seconds": 81.4376,
+      "end_seconds": 85.0411,
+      "proposed_transcript": "കയറുക",
+      "decision": "flagged",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:27:53.840Z"
+    },
+    {
+      "id": "lesson_15_word_012",
+      "lesson": 15,
+      "clip": "assets/audio/moag/words/lesson_15_word_012.mp3",
+      "start_seconds": 121.2262,
+      "end_seconds": 127.6319,
+      "proposed_transcript": "കയറുക",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:27:59.721Z"
+    },
+    {
+      "id": "lesson_15_word_017",
+      "lesson": 15,
+      "clip": "assets/audio/moag/words/lesson_15_word_017.mp3",
+      "start_seconds": 145.88,
+      "end_seconds": 148.8232,
+      "proposed_transcript": "മുക്കാൽ മണിക്കൂർ",
+      "decision": "corrected",
+      "correction": "സ്ത്രീ",
+      "notes": "not sure because my malayalam isn't great",
+      "reviewed_at": "2026-10-16T00:28:58.475Z"
+    },
+    {
+      "id": "lesson_15_word_018",
+      "lesson": 15,
+      "clip": "assets/audio/moag/words/lesson_15_word_018.mp3",
+      "start_seconds": 150.3507,
+      "end_seconds": 153.5543,
+      "proposed_transcript": "സന്തോഷം",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:29:02.492Z"
+    },
+    {
+      "id": "lesson_15_word_019",
+      "lesson": 15,
+      "clip": "assets/audio/moag/words/lesson_15_word_019.mp3",
+      "start_seconds": 155.4265,
+      "end_seconds": 159.2847,
+      "proposed_transcript": "സന്തോഷം",
+      "decision": "corrected",
+      "correction": "വളരെ സന്തോഷം",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:29:45.815Z"
+    },
+    {
+      "id": "lesson_15_word_020",
+      "lesson": 15,
+      "clip": "assets/audio/moag/words/lesson_15_word_020.mp3",
+      "start_seconds": 159.9111,
+      "end_seconds": 160.7046,
+      "proposed_transcript": "Unclear word",
+      "decision": "flagged",
+      "correction": "",
+      "notes": "nothing",
+      "reviewed_at": "2026-10-16T00:29:51.092Z"
+    },
+    {
+      "id": "lesson_15_word_022",
+      "lesson": 15,
+      "clip": "assets/audio/moag/words/lesson_15_word_022.mp3",
+      "start_seconds": 167.7178,
+      "end_seconds": 173.2795,
+      "proposed_transcript": "എനിക്ക്",
+      "decision": "corrected",
+      "correction": "കണ്ടതിൽ വളരെ സന്തോഷം",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:31:02.200Z"
+    },
+    {
+      "id": "lesson_15_word_028",
+      "lesson": 15,
+      "clip": "assets/audio/moag/words/lesson_15_word_028.mp3",
+      "start_seconds": 206.3732,
+      "end_seconds": 211.2896,
+      "proposed_transcript": "എനിക്ക്",
+      "decision": "corrected",
+      "correction": "എനിക്ക് ആഗ്രഹമുണ്ട്",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:32:03.600Z"
+    },
+    {
+      "id": "lesson_15_word_029",
+      "lesson": 15,
+      "clip": "assets/audio/moag/words/lesson_15_word_029.mp3",
+      "start_seconds": 213.3225,
+      "end_seconds": 217.3399,
+      "proposed_transcript": "വിട്ടുപോയി",
+      "decision": "corrected",
+      "correction": "ഈ സമയത്ത്",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:32:34.462Z"
+    },
+    {
+      "id": "lesson_15_word_030",
+      "lesson": 15,
+      "clip": "assets/audio/moag/words/lesson_15_word_030.mp3",
+      "start_seconds": 219.1713,
+      "end_seconds": 223.2539,
+      "proposed_transcript": "വിട്ടുപോയ",
+      "decision": "corrected",
+      "correction": "വിട്ടുപോകുക",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:33:28.574Z"
+    },
+    {
+      "id": "lesson_15_word_031",
+      "lesson": 15,
+      "clip": "assets/audio/moag/words/lesson_15_word_031.mp3",
+      "start_seconds": 225.0002,
+      "end_seconds": 228.6361,
+      "proposed_transcript": "ഈ സമയത്ത്",
+      "decision": "corrected",
+      "correction": "വിട്ടുപോയി",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:34:06.252Z"
+    },
+    {
+      "id": "lesson_15_word_032",
+      "lesson": 15,
+      "clip": "assets/audio/moag/words/lesson_15_word_032.mp3",
+      "start_seconds": 230.3524,
+      "end_seconds": 234.4685,
+      "proposed_transcript": "വിട്ടുപോയ",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:34:11.603Z"
+    },
+    {
+      "id": "lesson_15_word_034",
+      "lesson": 15,
+      "clip": "assets/audio/moag/words/lesson_15_word_034.mp3",
+      "start_seconds": 241.7804,
+      "end_seconds": 245.2767,
+      "proposed_transcript": "വിട്ടുപോകുക",
+      "decision": "flagged",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:34:16.661Z"
+    },
+    {
+      "id": "lesson_15_word_037",
+      "lesson": 15,
+      "clip": "assets/audio/moag/words/lesson_15_word_037.mp3",
+      "start_seconds": 256.4815,
+      "end_seconds": 260.7179,
+      "proposed_transcript": "തോന്നുക",
+      "decision": "corrected",
+      "correction": "പിന്നെ ആകട്ടെ",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:35:07.573Z"
+    },
+    {
+      "id": "lesson_16_word_003",
+      "lesson": 16,
+      "clip": "assets/audio/moag/words/lesson_16_word_003.mp3",
+      "start_seconds": 21.6578,
+      "end_seconds": 24.2847,
+      "proposed_transcript": "എല്ലാ ---ഉം",
+      "decision": "corrected",
+      "correction": "എന്നും",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:35:40.028Z"
+    },
+    {
+      "id": "lesson_16_word_005",
+      "lesson": 16,
+      "clip": "assets/audio/moag/words/lesson_16_word_005.mp3",
+      "start_seconds": 28.6645,
+      "end_seconds": 31.0633,
+      "proposed_transcript": "ദിനം",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:35:43.573Z"
+    },
+    {
+      "id": "lesson_16_word_006",
+      "lesson": 16,
+      "clip": "assets/audio/moag/words/lesson_16_word_006.mp3",
+      "start_seconds": 32.2438,
+      "end_seconds": 35.3346,
+      "proposed_transcript": "ദിനപ്പത്രം",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:35:46.106Z"
+    },
+    {
+      "id": "lesson_16_word_020",
+      "lesson": 16,
+      "clip": "assets/audio/moag/words/lesson_16_word_020.mp3",
+      "start_seconds": 97.4779,
+      "end_seconds": 99.8508,
+      "proposed_transcript": "ഏത്--- ഉം",
+      "decision": "corrected",
+      "correction": "ഏത്",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:36:43.961Z"
+    },
+    {
+      "id": "lesson_16_word_029",
+      "lesson": 16,
+      "clip": "assets/audio/moag/words/lesson_16_word_029.mp3",
+      "start_seconds": 132.49,
+      "end_seconds": 134.9875,
+      "proposed_transcript": "വിൽക്കുക",
+      "decision": "flagged",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:36:50.623Z"
+    },
+    {
+      "id": "lesson_16_word_030",
+      "lesson": 16,
+      "clip": "assets/audio/moag/words/lesson_16_word_030.mp3",
+      "start_seconds": 135.8716,
+      "end_seconds": 138.016,
+      "proposed_transcript": "ഏ--ഉള്ളു",
+      "decision": "flagged",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:36:54.397Z"
+    },
+    {
+      "id": "lesson_16_word_032",
+      "lesson": 16,
+      "clip": "assets/audio/moag/words/lesson_16_word_032.mp3",
+      "start_seconds": 142.6409,
+      "end_seconds": 145.1008,
+      "proposed_transcript": "ഇൻഡ്യ",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:37:18.441Z"
+    },
+    {
+      "id": "lesson_16_word_036",
+      "lesson": 16,
+      "clip": "assets/audio/moag/words/lesson_16_word_036.mp3",
+      "start_seconds": 160.059,
+      "end_seconds": 162.4463,
+      "proposed_transcript": "വിൽക്കുക",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:37:20.981Z"
+    },
+    {
+      "id": "lesson_16_word_040",
+      "lesson": 16,
+      "clip": "assets/audio/moag/words/lesson_16_word_040.mp3",
+      "start_seconds": 174.6148,
+      "end_seconds": 178.0312,
+      "proposed_transcript": "ദിനം",
+      "decision": "corrected",
+      "correction": "ഇന്ത്യൻ എക്സ്പ്രസ്",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:37:55.526Z"
+    },
+    {
+      "id": "lesson_16_word_043",
+      "lesson": 16,
+      "clip": "assets/audio/moag/words/lesson_16_word_043.mp3",
+      "start_seconds": 191.4518,
+      "end_seconds": 191.929,
+      "proposed_transcript": "ഇൻഡ്യൻ എക്സ്പ്രസ്",
+      "decision": "flagged",
+      "correction": "",
+      "notes": "silence",
+      "reviewed_at": "2026-10-16T00:38:02.376Z"
+    },
+    {
+      "id": "lesson_16_word_049",
+      "lesson": 16,
+      "clip": "assets/audio/moag/words/lesson_16_word_049.mp3",
+      "start_seconds": 212.1686,
+      "end_seconds": 214.6961,
+      "proposed_transcript": "സ്ഥലം",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:38:04.660Z"
+    },
+    {
+      "id": "lesson_17_word_003",
+      "lesson": 17,
+      "clip": "assets/audio/moag/words/lesson_17_word_003.mp3",
+      "start_seconds": 23.0922,
+      "end_seconds": 25.638,
+      "proposed_transcript": "മകളു",
+      "decision": "corrected",
+      "correction": "മകൾ",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:38:36.841Z"
+    },
+    {
+      "id": "lesson_17_word_006",
+      "lesson": 17,
+      "clip": "assets/audio/moag/words/lesson_17_word_006.mp3",
+      "start_seconds": 35.2654,
+      "end_seconds": 38.9257,
+      "proposed_transcript": "വലിയ ഇഷ്ടമാണ്",
+      "decision": "corrected",
+      "correction": "കല്യാണിയമ്മ",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:39:09.331Z"
+    },
+    {
+      "id": "lesson_17_word_015",
+      "lesson": 17,
+      "clip": "assets/audio/moag/words/lesson_17_word_015.mp3",
+      "start_seconds": 75.4184,
+      "end_seconds": 78.4017,
+      "proposed_transcript": "ജേയുക്ക്",
+      "decision": "confirmed",
+      "correction": "ചെയ്യുക",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:39:32.230Z"
+    },
+    {
+      "id": "lesson_17_word_016",
+      "lesson": 17,
+      "clip": "assets/audio/moag/words/lesson_17_word_016.mp3",
+      "start_seconds": 79.6851,
+      "end_seconds": 82.5408,
+      "proposed_transcript": "ആട്ടെ",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:39:38.445Z"
+    },
+    {
+      "id": "lesson_17_word_022",
+      "lesson": 17,
+      "clip": "assets/audio/moag/words/lesson_17_word_022.mp3",
+      "start_seconds": 106.9842,
+      "end_seconds": 110.6466,
+      "proposed_transcript": "കാണുന്നു",
+      "decision": "corrected",
+      "correction": "കൂട്ടുകാരൻ",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:40:11.067Z"
+    },
+    {
+      "id": "lesson_17_word_023",
+      "lesson": 17,
+      "clip": "assets/audio/moag/words/lesson_17_word_023.mp3",
+      "start_seconds": 112.3757,
+      "end_seconds": 116.0573,
+      "proposed_transcript": "കൂട്ടുകാരി",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:40:15.530Z"
+    },
+    {
+      "id": "lesson_17_word_029",
+      "lesson": 17,
+      "clip": "assets/audio/moag/words/lesson_17_word_029.mp3",
+      "start_seconds": 140.2347,
+      "end_seconds": 143.0757,
+      "proposed_transcript": "ഉണ്ട്",
+      "decision": "corrected",
+      "correction": "പത്തര",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:40:57.423Z"
+    },
+    {
+      "id": "lesson_18_word_021",
+      "lesson": 18,
+      "clip": "assets/audio/moag/words/lesson_18_word_021.mp3",
+      "start_seconds": 108.524,
+      "end_seconds": 113.8058,
+      "proposed_transcript": "വീഴാതെ നോക്കണേ!",
+      "decision": "corrected",
+      "correction": "നാല് ഫർലാംഗാണ് ഉള്ളത്",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:42:28.246Z"
+    },
+    {
+      "id": "lesson_19_word_001",
+      "lesson": 19,
+      "clip": "assets/audio/moag/words/lesson_19_word_001.mp3",
+      "start_seconds": 18.2831,
+      "end_seconds": 18.9961,
+      "proposed_transcript": "മാനേജർ",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:42:33.413Z"
+    },
+    {
+      "id": "lesson_19_word_013",
+      "lesson": 19,
+      "clip": "assets/audio/moag/words/lesson_19_word_013.mp3",
+      "start_seconds": 73.6577,
+      "end_seconds": 76.3915,
+      "proposed_transcript": "ഇറങ്ങി",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:42:37.988Z"
+    },
+    {
+      "id": "lesson_19_word_015",
+      "lesson": 19,
+      "clip": "assets/audio/moag/words/lesson_19_word_015.mp3",
+      "start_seconds": 82.7234,
+      "end_seconds": 85.7203,
+      "proposed_transcript": "ഇറങ്ങി",
+      "decision": "corrected",
+      "correction": "കാരണങ്ങൾ",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:43:13.388Z"
+    },
+    {
+      "id": "lesson_19_word_016",
+      "lesson": 19,
+      "clip": "assets/audio/moag/words/lesson_19_word_016.mp3",
+      "start_seconds": 87.1207,
+      "end_seconds": 90.9152,
+      "proposed_transcript": "ില്ലാത്തത് കൊണ്ട്",
+      "decision": "corrected",
+      "correction": "ഓരോ കാരണങ്ങൾ",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:43:43.441Z"
+    },
+    {
+      "id": "lesson_19_word_018",
+      "lesson": 19,
+      "clip": "assets/audio/moag/words/lesson_19_word_018.mp3",
+      "start_seconds": 96.6489,
+      "end_seconds": 99.9691,
+      "proposed_transcript": "നാനാണ്റ",
+      "decision": "corrected",
+      "correction": "ഞാനാണ്",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:44:16.623Z"
+    },
+    {
+      "id": "lesson_19_word_022",
+      "lesson": 19,
+      "clip": "assets/audio/moag/words/lesson_19_word_022.mp3",
+      "start_seconds": 117.8451,
+      "end_seconds": 121.7653,
+      "proposed_transcript": "ഓരോ കാരണങ്ങൾ",
+      "decision": "flagged",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:44:36.626Z"
+    },
+    {
+      "id": "lesson_19_word_023",
+      "lesson": 19,
+      "clip": "assets/audio/moag/words/lesson_19_word_023.mp3",
+      "start_seconds": 123.4558,
+      "end_seconds": 126.0246,
+      "proposed_transcript": "വിശ്വാസം",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:44:40.347Z"
+    },
+    {
+      "id": "lesson_19_word_024",
+      "lesson": 19,
+      "clip": "assets/audio/moag/words/lesson_19_word_024.mp3",
+      "start_seconds": 127.6379,
+      "end_seconds": 129.6124,
+      "proposed_transcript": "ഭയങ്കര",
+      "decision": "corrected",
+      "correction": "അയാളെ",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:45:12.075Z"
+    },
+    {
+      "id": "lesson_19_word_025",
+      "lesson": 19,
+      "clip": "assets/audio/moag/words/lesson_19_word_025.mp3",
+      "start_seconds": 130.17,
+      "end_seconds": 132.1971,
+      "proposed_transcript": "എനിക്ക്",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:45:17.234Z"
+    },
+    {
+      "id": "lesson_19_word_026",
+      "lesson": 19,
+      "clip": "assets/audio/moag/words/lesson_19_word_026.mp3",
+      "start_seconds": 132.9751,
+      "end_seconds": 135.7209,
+      "proposed_transcript": "വിശ്വാസം",
+      "decision": "corrected",
+      "correction": "വിശ്വാസമുണ്ട്",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:46:28.415Z"
+    },
+    {
+      "id": "lesson_19_word_031",
+      "lesson": 19,
+      "clip": "assets/audio/moag/words/lesson_19_word_031.mp3",
+      "start_seconds": 150.178,
+      "end_seconds": 152.5496,
+      "proposed_transcript": "ജോലി ചെയ്യാൻ മടിയാണ്",
+      "decision": "corrected",
+      "correction": "മടിയാണ്",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:47:01.872Z"
+    },
+    {
+      "id": "lesson_19_word_035",
+      "lesson": 19,
+      "clip": "assets/audio/moag/words/lesson_19_word_035.mp3",
+      "start_seconds": 170.9465,
+      "end_seconds": 173.0293,
+      "proposed_transcript": "ഇനിയും",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:47:03.799Z"
+    },
+    {
+      "id": "lesson_19_word_036",
+      "lesson": 19,
+      "clip": "assets/audio/moag/words/lesson_19_word_036.mp3",
+      "start_seconds": 173.9152,
+      "end_seconds": 175.752,
+      "proposed_transcript": "മുദല",
+      "decision": "corrected",
+      "correction": "മുതൽ",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:47:29.691Z"
+    },
+    {
+      "id": "lesson_19_word_039",
+      "lesson": 19,
+      "clip": "assets/audio/moag/words/lesson_19_word_039.mp3",
+      "start_seconds": 185.0894,
+      "end_seconds": 187.7603,
+      "proposed_transcript": "മാറ്റുക",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:47:33.241Z"
+    },
+    {
+      "id": "lesson_19_word_041",
+      "lesson": 19,
+      "clip": "assets/audio/moag/words/lesson_19_word_041.mp3",
+      "start_seconds": 192.7316,
+      "end_seconds": 194.7781,
+      "proposed_transcript": "സ്ഥലം സ്ഥലം",
+      "decision": "corrected",
+      "correction": "സ്ഥലം",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:47:42.246Z"
+    },
+    {
+      "id": "lesson_19_word_042",
+      "lesson": 19,
+      "clip": "assets/audio/moag/words/lesson_19_word_042.mp3",
+      "start_seconds": 195.8708,
+      "end_seconds": 199.0416,
+      "proposed_transcript": "മാറ്റുക",
+      "decision": "corrected",
+      "correction": "സ്ഥലം മാറ്റുക",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:47:53.646Z"
+    },
+    {
+      "id": "lesson_19_word_043",
+      "lesson": 19,
+      "clip": "assets/audio/moag/words/lesson_19_word_043.mp3",
+      "start_seconds": 200.4995,
+      "end_seconds": 203.0158,
+      "proposed_transcript": "Unclear word",
+      "decision": "corrected",
+      "correction": "എനിക്ക്",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:48:18.183Z"
+    },
+    {
+      "id": "lesson_19_word_044",
+      "lesson": 19,
+      "clip": "assets/audio/moag/words/lesson_19_word_044.mp3",
+      "start_seconds": 204.3863,
+      "end_seconds": 206.9459,
+      "proposed_transcript": "എനിക്ക് നിങ്ങളെ സ്ഥലം മാറ്റേണ്ടതായി വരും",
+      "decision": "corrected",
+      "correction": "നിങ്ങളെ",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:48:27.536Z"
+    },
+    {
+      "id": "lesson_19_word_046",
+      "lesson": 19,
+      "clip": "assets/audio/moag/words/lesson_19_word_046.mp3",
+      "start_seconds": 213.0635,
+      "end_seconds": 214.681,
+      "proposed_transcript": "എനിക്ക്",
+      "decision": "corrected",
+      "correction": "വരും",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:49:18.365Z"
+    },
+    {
+      "id": "lesson_19_word_048",
+      "lesson": 19,
+      "clip": "assets/audio/moag/words/lesson_19_word_048.mp3",
+      "start_seconds": 229.3964,
+      "end_seconds": 233.5103,
+      "proposed_transcript": "മാറ്റുക",
+      "decision": "corrected",
+      "correction": "സ്ഥലം മാറ്റരുതേ",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:50:16.736Z"
+    },
+    {
+      "id": "lesson_19_word_049",
+      "lesson": 19,
+      "clip": "assets/audio/moag/words/lesson_19_word_049.mp3",
+      "start_seconds": 234.5564,
+      "end_seconds": 237.4962,
+      "proposed_transcript": "എനിക്ക്",
+      "decision": "corrected",
+      "correction": "ചെയ്യാമേ",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:50:46.780Z"
+    },
+    {
+      "id": "lesson_20_word_006",
+      "lesson": 20,
+      "clip": "assets/audio/moag/words/lesson_20_word_006.mp3",
+      "start_seconds": 127.8332,
+      "end_seconds": 129.7717,
+      "proposed_transcript": "പണ്ട്",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:50:49.857Z"
+    },
+    {
+      "id": "lesson_20_word_014",
+      "lesson": 20,
+      "clip": "assets/audio/moag/words/lesson_20_word_014.mp3",
+      "start_seconds": 155.8215,
+      "end_seconds": 158.8696,
+      "proposed_transcript": "കീഴടക്കുക",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:50:54.243Z"
+    },
+    {
+      "id": "lesson_20_word_022",
+      "lesson": 20,
+      "clip": "assets/audio/moag/words/lesson_20_word_022.mp3",
+      "start_seconds": 182.6012,
+      "end_seconds": 185.1895,
+      "proposed_transcript": "ആഘോഷം",
+      "decision": "corrected",
+      "correction": "ആഘോഷം",
+      "notes": "middle vowel unclear; sounds like agashum",
+      "reviewed_at": "2026-10-16T00:52:33.422Z"
+    },
+    {
+      "id": "lesson_20_word_030",
+      "lesson": 20,
+      "clip": "assets/audio/moag/words/lesson_20_word_030.mp3",
+      "start_seconds": 210.8861,
+      "end_seconds": 212.6811,
+      "proposed_transcript": "ഭൂമി",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:52:37.314Z"
+    },
+    {
+      "id": "lesson_20_word_034",
+      "lesson": 20,
+      "clip": "assets/audio/moag/words/lesson_20_word_034.mp3",
+      "start_seconds": 227.4819,
+      "end_seconds": 229.4167,
+      "proposed_transcript": "ആണ്ട്",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:52:40.489Z"
+    },
+    {
+      "id": "lesson_20_word_039",
+      "lesson": 20,
+      "clip": "assets/audio/moag/words/lesson_20_word_039.mp3",
+      "start_seconds": 246.4775,
+      "end_seconds": 250.0794,
+      "proposed_transcript": "ആണ്ട്",
+      "decision": "corrected",
+      "correction": "ആഘോഷിക്കുക",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:53:09.965Z"
+    },
+    {
+      "id": "lesson_20_word_040",
+      "lesson": 20,
+      "clip": "assets/audio/moag/words/lesson_20_word_040.mp3",
+      "start_seconds": 251.2602,
+      "end_seconds": 254.5733,
+      "proposed_transcript": "ഭൂമി",
+      "decision": "corrected",
+      "correction": "ആഘോഷിച്ചു",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:53:37.096Z"
+    },
+    {
+      "id": "lesson_20_word_041",
+      "lesson": 20,
+      "clip": "assets/audio/moag/words/lesson_20_word_041.mp3",
+      "start_seconds": 256.7569,
+      "end_seconds": 258.2501,
+      "proposed_transcript": "പിന്നിൽ",
+      "decision": "corrected",
+      "correction": "പാട്ട്",
+      "notes": "sounds like pattoo for some reason",
+      "reviewed_at": "2026-10-16T00:55:16.657Z"
+    },
+    {
+      "id": "lesson_20_word_042",
+      "lesson": 20,
+      "clip": "assets/audio/moag/words/lesson_20_word_042.mp3",
+      "start_seconds": 259.5176,
+      "end_seconds": 261.9755,
+      "proposed_transcript": "ആഘോഷം",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:55:24.734Z"
+    },
+    {
+      "id": "lesson_20_word_044",
+      "lesson": 20,
+      "clip": "assets/audio/moag/words/lesson_20_word_044.mp3",
+      "start_seconds": 268.7223,
+      "end_seconds": 273.173,
+      "proposed_transcript": "Unclear word",
+      "decision": "corrected",
+      "correction": "ആഘോഷിക്കപ്പെട്ടു",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:55:58.488Z"
+    },
+    {
+      "id": "lesson_20_word_046",
+      "lesson": 20,
+      "clip": "assets/audio/moag/words/lesson_20_word_046.mp3",
+      "start_seconds": 277.4192,
+      "end_seconds": 279.3366,
+      "proposed_transcript": "ഉണ്ടു",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:56:11.533Z"
+    },
+    {
+      "id": "lesson_20_word_067",
+      "lesson": 20,
+      "clip": "assets/audio/moag/words/lesson_20_word_067.mp3",
+      "start_seconds": 358.7967,
+      "end_seconds": 362.4402,
+      "proposed_transcript": "വളരുക",
+      "decision": "corrected",
+      "correction": "വള്ളംകളി",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:56:45.467Z"
+    },
+    {
+      "id": "lesson_20_word_070",
+      "lesson": 20,
+      "clip": "assets/audio/moag/words/lesson_20_word_070.mp3",
+      "start_seconds": 371.5179,
+      "end_seconds": 372.06,
+      "proposed_transcript": "ക്രിസ്ത്യാനി",
+      "decision": "flagged",
+      "correction": "",
+      "notes": "silence",
+      "reviewed_at": "2026-10-16T00:56:50.142Z"
+    },
+    {
+      "id": "lesson_20_word_081",
+      "lesson": 20,
+      "clip": "assets/audio/moag/words/lesson_20_word_081.mp3",
+      "start_seconds": 413.781,
+      "end_seconds": 416.9272,
+      "proposed_transcript": "ക്രിസ്ത്യാനി",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:56:54.713Z"
+    },
+    {
+      "id": "lesson_21_word_002",
+      "lesson": 21,
+      "clip": "assets/audio/moag/words/lesson_21_word_002.mp3",
+      "start_seconds": 145.29,
+      "end_seconds": 147.6753,
+      "proposed_transcript": "ഇംഗ്ലീഷ്",
+      "decision": "flagged",
+      "correction": "",
+      "notes": "**sounds like akam; unsure.**",
+      "reviewed_at": "2026-10-16T00:57:28.075Z"
+    },
+    {
+      "id": "lesson_21_word_013",
+      "lesson": 21,
+      "clip": "assets/audio/moag/words/lesson_21_word_013.mp3",
+      "start_seconds": 196.7626,
+      "end_seconds": 197.2289,
+      "proposed_transcript": "അറിയാമായിരിക്കാം",
+      "decision": "flagged",
+      "correction": "",
+      "notes": "silence",
+      "reviewed_at": "2026-10-16T00:57:33.922Z"
+    },
+    {
+      "id": "lesson_21_word_014",
+      "lesson": 21,
+      "clip": "assets/audio/moag/words/lesson_21_word_014.mp3",
+      "start_seconds": 198.1028,
+      "end_seconds": 202.5608,
+      "proposed_transcript": "ആയിരിക്കണം",
+      "decision": "corrected",
+      "correction": "അറിയാമായിരിക്കാം",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:58:46.379Z"
+    },
+    {
+      "id": "lesson_21_word_016",
+      "lesson": 21,
+      "clip": "assets/audio/moag/words/lesson_21_word_016.mp3",
+      "start_seconds": 210.4143,
+      "end_seconds": 212.0765,
+      "proposed_transcript": "തരുക",
+      "decision": "flagged",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:58:53.137Z"
+    },
+    {
+      "id": "lesson_21_word_018",
+      "lesson": 21,
+      "clip": "assets/audio/moag/words/lesson_21_word_018.mp3",
+      "start_seconds": 218.5621,
+      "end_seconds": 220.7472,
+      "proposed_transcript": "വിപരീതപദം",
+      "decision": "corrected",
+      "correction": "ദുഃഖം",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:59:32.353Z"
+    },
+    {
+      "id": "lesson_21_word_019",
+      "lesson": 21,
+      "clip": "assets/audio/moag/words/lesson_21_word_019.mp3",
+      "start_seconds": 221.6344,
+      "end_seconds": 225.5213,
+      "proposed_transcript": "വിപരീതപദം",
+      "decision": "flagged",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:59:37.711Z"
+    },
+    {
+      "id": "lesson_21_word_022",
+      "lesson": 21,
+      "clip": "assets/audio/moag/words/lesson_21_word_022.mp3",
+      "start_seconds": 234.6883,
+      "end_seconds": 237.9269,
+      "proposed_transcript": "പ്രസന്നതയില്ലാത്തത്",
+      "decision": "corrected",
+      "correction": "പ്രസന്നത",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:59:46.091Z"
+    },
+    {
+      "id": "lesson_21_word_023",
+      "lesson": 21,
+      "clip": "assets/audio/moag/words/lesson_21_word_023.mp3",
+      "start_seconds": 239.5282,
+      "end_seconds": 245.6848,
+      "proposed_transcript": "പ്രസന്നതയില്ലാത്തത്",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T00:59:53.760Z"
+    },
+    {
+      "id": "lesson_21_word_027",
+      "lesson": 21,
+      "clip": "assets/audio/moag/words/lesson_21_word_027.mp3",
+      "start_seconds": 267.8875,
+      "end_seconds": 270.4645,
+      "proposed_transcript": "പഠിച്ചു കഴിയുക",
+      "decision": "corrected",
+      "correction": "കഴിയുക",
+      "notes": "",
+      "reviewed_at": "2026-10-16T01:00:48.702Z"
+    },
+    {
+      "id": "lesson_21_word_028",
+      "lesson": 21,
+      "clip": "assets/audio/moag/words/lesson_21_word_028.mp3",
+      "start_seconds": 271.147,
+      "end_seconds": 274.9369,
+      "proposed_transcript": "കഴിയുക",
+      "decision": "corrected",
+      "correction": "പഠിച്ചു കഴിയുക",
+      "notes": "",
+      "reviewed_at": "2026-10-16T01:00:54.299Z"
+    },
+    {
+      "id": "lesson_21_word_031",
+      "lesson": 21,
+      "clip": "assets/audio/moag/words/lesson_21_word_031.mp3",
+      "start_seconds": 286.4649,
+      "end_seconds": 289.3923,
+      "proposed_transcript": "വിഷമിക്കുക",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T01:00:57.742Z"
+    },
+    {
+      "id": "lesson_21_word_038",
+      "lesson": 21,
+      "clip": "assets/audio/moag/words/lesson_21_word_038.mp3",
+      "start_seconds": 316.7098,
+      "end_seconds": 318.829,
+      "proposed_transcript": "തിന്നുക",
+      "decision": "corrected",
+      "correction": "ഉടൻ",
+      "notes": "",
+      "reviewed_at": "2026-10-16T01:01:16.462Z"
+    },
+    {
+      "id": "lesson_21_word_044",
+      "lesson": 21,
+      "clip": "assets/audio/moag/words/lesson_21_word_044.mp3",
+      "start_seconds": 339.7814,
+      "end_seconds": 342.1702,
+      "proposed_transcript": "ഊണ്",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T01:01:19.261Z"
+    },
+    {
+      "id": "lesson_22_word_004",
+      "lesson": 22,
+      "clip": "assets/audio/moag/words/lesson_22_word_004.mp3",
+      "start_seconds": 33.1537,
+      "end_seconds": 37.8727,
+      "proposed_transcript": "കിടപ്പുണ്ട്",
+      "decision": "corrected",
+      "correction": "കിടക്കുക",
+      "notes": "",
+      "reviewed_at": "2026-10-16T01:02:02.152Z"
+    },
+    {
+      "id": "lesson_22_word_017",
+      "lesson": 22,
+      "clip": "assets/audio/moag/words/lesson_22_word_017.mp3",
+      "start_seconds": 103.4785,
+      "end_seconds": 106.8551,
+      "proposed_transcript": "പിടിക്കുക",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T01:02:07.206Z"
+    },
+    {
+      "id": "lesson_22_word_048",
+      "lesson": 22,
+      "clip": "assets/audio/moag/words/lesson_22_word_048.mp3",
+      "start_seconds": 253.3744,
+      "end_seconds": 257.7276,
+      "proposed_transcript": "ഭയങ്കര",
+      "decision": "corrected",
+      "correction": "ഇതിന്റെ ഫലമായി",
+      "notes": "",
+      "reviewed_at": "2026-10-16T01:02:44.469Z"
+    },
+    {
+      "id": "lesson_22_word_053",
+      "lesson": 22,
+      "clip": "assets/audio/moag/words/lesson_22_word_053.mp3",
+      "start_seconds": 280.2539,
+      "end_seconds": 283.1909,
+      "proposed_transcript": "വേണ്ടി",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T01:02:47.586Z"
+    },
+    {
+      "id": "lesson_22_word_059",
+      "lesson": 22,
+      "clip": "assets/audio/moag/words/lesson_22_word_059.mp3",
+      "start_seconds": 309.9141,
+      "end_seconds": 310.3411,
+      "proposed_transcript": "വേണ്ടി",
+      "decision": "flagged",
+      "correction": "",
+      "notes": "just a click (no words)",
+      "reviewed_at": "2026-10-16T01:02:56.290Z"
+    },
+    {
+      "id": "lesson_23_word_004",
+      "lesson": 23,
+      "clip": "assets/audio/moag/words/lesson_23_word_004.mp3",
+      "start_seconds": 216.4381,
+      "end_seconds": 221.0777,
+      "proposed_transcript": "കാഴ്ച",
+      "decision": "corrected",
+      "correction": "ഉണ്ടായിരുന്നെങ്കിൽ",
+      "notes": "",
+      "reviewed_at": "2026-10-16T01:04:00.703Z"
+    },
+    {
+      "id": "lesson_23_word_005",
+      "lesson": 23,
+      "clip": "assets/audio/moag/words/lesson_23_word_005.mp3",
+      "start_seconds": 223.5685,
+      "end_seconds": 227.0038,
+      "proposed_transcript": "ആയ്രണു",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T01:04:03.606Z"
+    },
+    {
+      "id": "lesson_23_word_006",
+      "lesson": 23,
+      "clip": "assets/audio/moag/words/lesson_23_word_006.mp3",
+      "start_seconds": 228.9469,
+      "end_seconds": 232.6197,
+      "proposed_transcript": "ഉണ്ടായിരുന്നെങ്കിൽ ---ആയിരുന്നു",
+      "decision": "corrected",
+      "correction": "വിറ്റാൽ",
+      "notes": "",
+      "reviewed_at": "2026-10-16T01:04:22.079Z"
+    },
+    {
+      "id": "lesson_23_word_018",
+      "lesson": 23,
+      "clip": "assets/audio/moag/words/lesson_23_word_018.mp3",
+      "start_seconds": 292.6198,
+      "end_seconds": 295.8894,
+      "proposed_transcript": "കൂടി",
+      "decision": "corrected",
+      "correction": "കാഴ്ച",
+      "notes": "",
+      "reviewed_at": "2026-10-16T01:05:02.081Z"
+    },
+    {
+      "id": "lesson_23_word_023",
+      "lesson": 23,
+      "clip": "assets/audio/moag/words/lesson_23_word_023.mp3",
+      "start_seconds": 318.0707,
+      "end_seconds": 321.6294,
+      "proposed_transcript": "തിരിക്കുക",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T01:05:04.539Z"
+    },
+    {
+      "id": "lesson_23_word_054",
+      "lesson": 23,
+      "clip": "assets/audio/moag/words/lesson_23_word_054.mp3",
+      "start_seconds": 504.2454,
+      "end_seconds": 507.9446,
+      "proposed_transcript": "ചെയ്തേക്കാം",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T01:05:11.372Z"
+    },
+    {
+      "id": "lesson_24_word_005",
+      "lesson": 24,
+      "clip": "assets/audio/moag/words/lesson_24_word_005.mp3",
+      "start_seconds": 256.4739,
+      "end_seconds": 260.0002,
+      "proposed_transcript": "കിടപ്പുമുറി",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T01:05:15.314Z"
+    },
+    {
+      "id": "lesson_24_word_006",
+      "lesson": 24,
+      "clip": "assets/audio/moag/words/lesson_24_word_006.mp3",
+      "start_seconds": 261.382,
+      "end_seconds": 265.0129,
+      "proposed_transcript": "കിടപ്പുമുറി",
+      "decision": "corrected",
+      "correction": "അപേക്ഷിക്കുക",
+      "notes": "",
+      "reviewed_at": "2026-10-16T01:06:15.087Z"
+    },
+    {
+      "id": "lesson_24_word_012",
+      "lesson": 24,
+      "clip": "assets/audio/moag/words/lesson_24_word_012.mp3",
+      "start_seconds": 292.1794,
+      "end_seconds": 295.4887,
+      "proposed_transcript": "നര്സര്",
+      "decision": "corrected",
+      "correction": "നേഴ്സ്",
+      "notes": "",
+      "reviewed_at": "2026-10-16T01:08:58.634Z"
+    },
+    {
+      "id": "lesson_24_word_023",
+      "lesson": 24,
+      "clip": "assets/audio/moag/words/lesson_24_word_023.mp3",
+      "start_seconds": 351.0545,
+      "end_seconds": 354.2943,
+      "proposed_transcript": "അപേക്ഷ",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T01:09:02.726Z"
+    },
+    {
+      "id": "lesson_24_word_026",
+      "lesson": 24,
+      "clip": "assets/audio/moag/words/lesson_24_word_026.mp3",
+      "start_seconds": 364.8531,
+      "end_seconds": 368.4795,
+      "proposed_transcript": "സ്നേഹിക്കുക",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T01:09:14.696Z"
+    },
+    {
+      "id": "lesson_24_word_027",
+      "lesson": 24,
+      "clip": "assets/audio/moag/words/lesson_24_word_027.mp3",
+      "start_seconds": 369.971,
+      "end_seconds": 374.5166,
+      "proposed_transcript": "സ്നേഹിക്കുക",
+      "decision": "corrected",
+      "correction": "സ്നേഹം",
+      "notes": "sounds liek there's an extra word at the end like tamin or something",
+      "reviewed_at": "2026-10-16T01:10:01.859Z"
+    },
+    {
+      "id": "lesson_24_word_034",
+      "lesson": 24,
+      "clip": "assets/audio/moag/words/lesson_24_word_034.mp3",
+      "start_seconds": 401.0105,
+      "end_seconds": 403.4536,
+      "proposed_transcript": "അന്യോന്യം",
+      "decision": "corrected",
+      "correction": "ചില",
+      "notes": "",
+      "reviewed_at": "2026-10-16T01:10:35.071Z"
+    },
+    {
+      "id": "lesson_24_word_035",
+      "lesson": 24,
+      "clip": "assets/audio/moag/words/lesson_24_word_035.mp3",
+      "start_seconds": 404.0944,
+      "end_seconds": 407.606,
+      "proposed_transcript": "ചില",
+      "decision": "flagged",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T01:10:40.726Z"
+    },
+    {
+      "id": "lesson_24_word_047",
+      "lesson": 24,
+      "clip": "assets/audio/moag/words/lesson_24_word_047.mp3",
+      "start_seconds": 461.082,
+      "end_seconds": 464.2492,
+      "proposed_transcript": "മറ്റൊരു",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T01:10:45.688Z"
+    },
+    {
+      "id": "lesson_25_word_011",
+      "lesson": 25,
+      "clip": "assets/audio/moag/words/lesson_25_word_011.mp3",
+      "start_seconds": 293.019,
+      "end_seconds": 295.5222,
+      "proposed_transcript": "ഹൃദയം",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T01:10:47.516Z"
+    },
+    {
+      "id": "lesson_25_word_025",
+      "lesson": 25,
+      "clip": "assets/audio/moag/words/lesson_25_word_025.mp3",
+      "start_seconds": 354.007,
+      "end_seconds": 357.2576,
+      "proposed_transcript": "മഞ്ഞൾ",
+      "decision": "corrected",
+      "correction": "കുരുമുളക്",
+      "notes": "",
+      "reviewed_at": "2026-10-16T01:11:19.430Z"
+    },
+    {
+      "id": "lesson_25_word_028",
+      "lesson": 25,
+      "clip": "assets/audio/moag/words/lesson_25_word_028.mp3",
+      "start_seconds": 368.3595,
+      "end_seconds": 371.3503,
+      "proposed_transcript": "തെങ്ങ്",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T01:11:23.321Z"
+    },
+    {
+      "id": "lesson_25_word_045",
+      "lesson": 25,
+      "clip": "assets/audio/moag/words/lesson_25_word_045.mp3",
+      "start_seconds": 445.0074,
+      "end_seconds": 448.0942,
+      "proposed_transcript": "കയർ",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T01:11:29.067Z"
+    },
+    {
+      "id": "lesson_25_word_046",
+      "lesson": 25,
+      "clip": "assets/audio/moag/words/lesson_25_word_046.mp3",
+      "start_seconds": 449.7717,
+      "end_seconds": 453.0002,
+      "proposed_transcript": "കയറ്",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T01:11:38.161Z"
+    },
+    {
+      "id": "lesson_25_word_047",
+      "lesson": 25,
+      "clip": "assets/audio/moag/words/lesson_25_word_047.mp3",
+      "start_seconds": 454.7137,
+      "end_seconds": 458.8853,
+      "proposed_transcript": "കയറുപിരിക്കൽ",
+      "decision": "confirmed",
+      "correction": "",
+      "notes": "",
+      "reviewed_at": "2026-10-16T01:11:43.919Z"
+    },
+    {
+      "id": "lesson_25_word_060",
+      "lesson": 25,
+      "clip": "assets/audio/moag/words/lesson_25_word_060.mp3",
+      "start_seconds": 527.8109,
+      "end_seconds": 530.7844,
+      "proposed_transcript": "അല്ലാതെ",
+      "decision": "corrected",
+      "correction": "ഉയരുക",
+      "notes": "",
+      "reviewed_at": "2026-10-16T01:12:13.796Z"
+    },
+    {
+      "id": "lesson_25_word_074",
+      "lesson": 25,
+      "clip": "assets/audio/moag/words/lesson_25_word_074.mp3",
+      "start_seconds": 597.6509,
+      "end_seconds": 601.2795,
+      "proposed_transcript": "സുഖിക്കുക",
+      "decision": "corrected",
+      "correction": "കൈ കൂപ്പി",
+      "notes": "",
+      "reviewed_at": "2026-10-16T01:12:53.328Z"
+    }
+  ],
+  "drafts": {
+    "lesson_03_word_001": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_03_word_005": {
+      "correction": "കൈയിൽ",
+      "notes": ""
+    },
+    "lesson_03_word_011": {
+      "correction": "ഇപ്പോൾ",
+      "notes": ""
+    },
+    "lesson_03_word_012": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_03_word_018": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_03_word_019": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_03_word_024": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_04_word_001": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_05_word_001": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_05_word_003": {
+      "correction": "ഇരിക്കുന്നു",
+      "notes": ""
+    },
+    "lesson_05_word_004": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_05_word_005": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_05_word_011": {
+      "correction": "ഇല്ലേ?",
+      "notes": ""
+    },
+    "lesson_06_word_022": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_07_word_005": {
+      "correction": "കുറച്ച്",
+      "notes": ""
+    },
+    "lesson_09_word_004": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_09_word_005": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_09_word_024": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_10_word_014": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_10_word_028": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_10_word_035": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_11_word_005": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_11_word_012": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_11_word_035": {
+      "correction": "",
+      "notes": "nothing"
+    },
+    "lesson_12_word_013": {
+      "correction": "പിന്നെയും",
+      "notes": ""
+    },
+    "lesson_12_word_015": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_12_word_024": {
+      "correction": "കുട്ടികൾ",
+      "notes": ""
+    },
+    "lesson_13_word_033": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_14_word_003": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_14_word_010": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_14_word_013": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_14_word_049": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_14_word_050": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_15_word_005": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_15_word_012": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_15_word_017": {
+      "correction": "സ്ത്രീ",
+      "notes": "not sure because my malayalam isn't great"
+    },
+    "lesson_15_word_018": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_15_word_019": {
+      "correction": "വളരെ സന്തോഷം",
+      "notes": ""
+    },
+    "lesson_15_word_020": {
+      "correction": "",
+      "notes": "nothing"
+    },
+    "lesson_15_word_022": {
+      "correction": "കണ്ടതിൽ വളരെ സന്തോഷം",
+      "notes": ""
+    },
+    "lesson_15_word_028": {
+      "correction": "എനിക്ക് ആഗ്രഹമുണ്ട്",
+      "notes": ""
+    },
+    "lesson_15_word_029": {
+      "correction": "ഈ സമയത്ത്",
+      "notes": ""
+    },
+    "lesson_15_word_030": {
+      "correction": "വിട്ടുപോകുക",
+      "notes": ""
+    },
+    "lesson_15_word_031": {
+      "correction": "വിട്ടുപോയി",
+      "notes": ""
+    },
+    "lesson_15_word_032": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_15_word_034": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_15_word_037": {
+      "correction": "പിന്നെ ആകട്ടെ",
+      "notes": ""
+    },
+    "lesson_16_word_003": {
+      "correction": "എന്നും",
+      "notes": ""
+    },
+    "lesson_16_word_005": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_16_word_006": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_16_word_020": {
+      "correction": "ഏത്",
+      "notes": ""
+    },
+    "lesson_16_word_029": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_16_word_030": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_16_word_032": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_16_word_036": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_16_word_040": {
+      "correction": "ഇന്ത്യൻ എക്സ്പ്രസ്",
+      "notes": ""
+    },
+    "lesson_16_word_043": {
+      "correction": "",
+      "notes": "silence"
+    },
+    "lesson_16_word_049": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_17_word_003": {
+      "correction": "മകൾ",
+      "notes": ""
+    },
+    "lesson_17_word_006": {
+      "correction": "കല്യാണിയമ്മ",
+      "notes": ""
+    },
+    "lesson_17_word_015": {
+      "correction": "ചെയ്യുക",
+      "notes": ""
+    },
+    "lesson_17_word_016": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_17_word_022": {
+      "correction": "കൂട്ടുകാരൻ",
+      "notes": ""
+    },
+    "lesson_17_word_023": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_17_word_029": {
+      "correction": "പത്തര",
+      "notes": ""
+    },
+    "lesson_18_word_021": {
+      "correction": "നാല് ഫർലാംഗാണ് ഉള്ളത്",
+      "notes": ""
+    },
+    "lesson_19_word_001": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_19_word_013": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_19_word_015": {
+      "correction": "കാരണങ്ങൾ",
+      "notes": ""
+    },
+    "lesson_19_word_016": {
+      "correction": "ഓരോ കാരണങ്ങൾ",
+      "notes": ""
+    },
+    "lesson_19_word_018": {
+      "correction": "ഞാനാണ്",
+      "notes": ""
+    },
+    "lesson_19_word_022": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_19_word_023": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_19_word_024": {
+      "correction": "അയാളെ",
+      "notes": ""
+    },
+    "lesson_19_word_025": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_19_word_026": {
+      "correction": "വിശ്വാസമുണ്ട്",
+      "notes": ""
+    },
+    "lesson_19_word_031": {
+      "correction": "മടിയാണ്",
+      "notes": ""
+    },
+    "lesson_19_word_035": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_19_word_036": {
+      "correction": "മുതൽ",
+      "notes": ""
+    },
+    "lesson_19_word_039": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_19_word_041": {
+      "correction": "സ്ഥലം",
+      "notes": ""
+    },
+    "lesson_19_word_042": {
+      "correction": "സ്ഥലം മാറ്റുക",
+      "notes": ""
+    },
+    "lesson_19_word_043": {
+      "correction": "എനിക്ക്",
+      "notes": ""
+    },
+    "lesson_19_word_044": {
+      "correction": "നിങ്ങളെ",
+      "notes": ""
+    },
+    "lesson_19_word_046": {
+      "correction": "വരും",
+      "notes": ""
+    },
+    "lesson_19_word_048": {
+      "correction": "സ്ഥലം മാറ്റരുതേ",
+      "notes": ""
+    },
+    "lesson_19_word_049": {
+      "correction": "ചെയ്യാമേ",
+      "notes": ""
+    },
+    "lesson_20_word_006": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_20_word_014": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_20_word_022": {
+      "correction": "ആഘോഷം",
+      "notes": "middle vowel unclear; sounds like agashum"
+    },
+    "lesson_20_word_030": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_20_word_034": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_20_word_039": {
+      "correction": "ആഘോഷിക്കുക",
+      "notes": ""
+    },
+    "lesson_20_word_040": {
+      "correction": "ആഘോഷിച്ചു",
+      "notes": ""
+    },
+    "lesson_20_word_041": {
+      "correction": "പാട്ട്",
+      "notes": "sounds like pattoo for some reason"
+    },
+    "lesson_20_word_042": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_20_word_044": {
+      "correction": "ആഘോഷിക്കപ്പെട്ടു",
+      "notes": ""
+    },
+    "lesson_20_word_046": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_20_word_067": {
+      "correction": "വള്ളംകളി",
+      "notes": ""
+    },
+    "lesson_20_word_070": {
+      "correction": "",
+      "notes": "silence"
+    },
+    "lesson_20_word_081": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_21_word_002": {
+      "correction": "",
+      "notes": "**sounds like akam; unsure.**"
+    },
+    "lesson_21_word_013": {
+      "correction": "",
+      "notes": "silence"
+    },
+    "lesson_21_word_014": {
+      "correction": "അറിയാമായിരിക്കാം",
+      "notes": ""
+    },
+    "lesson_21_word_016": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_21_word_018": {
+      "correction": "ദുഃഖം",
+      "notes": ""
+    },
+    "lesson_21_word_019": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_21_word_022": {
+      "correction": "പ്രസന്നത",
+      "notes": ""
+    },
+    "lesson_21_word_023": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_21_word_027": {
+      "correction": "കഴിയുക",
+      "notes": ""
+    },
+    "lesson_21_word_028": {
+      "correction": "പഠിച്ചു കഴിയുക",
+      "notes": ""
+    },
+    "lesson_21_word_031": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_21_word_038": {
+      "correction": "ഉടൻ",
+      "notes": ""
+    },
+    "lesson_21_word_044": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_22_word_004": {
+      "correction": "കിടക്കുക",
+      "notes": ""
+    },
+    "lesson_22_word_017": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_22_word_048": {
+      "correction": "ഇതിന്റെ ഫലമായി",
+      "notes": ""
+    },
+    "lesson_22_word_053": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_22_word_059": {
+      "correction": "",
+      "notes": "just a click (no words)"
+    },
+    "lesson_23_word_004": {
+      "correction": "ഉണ്ടായിരുന്നെങ്കിൽ",
+      "notes": ""
+    },
+    "lesson_23_word_005": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_23_word_006": {
+      "correction": "വിറ്റാൽ",
+      "notes": ""
+    },
+    "lesson_23_word_018": {
+      "correction": "കാഴ്ച",
+      "notes": ""
+    },
+    "lesson_23_word_023": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_23_word_054": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_24_word_005": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_24_word_006": {
+      "correction": "അപേക്ഷിക്കുക",
+      "notes": ""
+    },
+    "lesson_24_word_012": {
+      "correction": "നേഴ്സ്",
+      "notes": ""
+    },
+    "lesson_24_word_023": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_24_word_026": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_24_word_027": {
+      "correction": "സ്നേഹം",
+      "notes": "sounds liek there's an extra word at the end like tamin or something"
+    },
+    "lesson_24_word_034": {
+      "correction": "ചില",
+      "notes": ""
+    },
+    "lesson_24_word_035": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_24_word_047": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_25_word_011": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_25_word_025": {
+      "correction": "കുരുമുളക്",
+      "notes": ""
+    },
+    "lesson_25_word_028": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_25_word_045": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_25_word_046": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_25_word_047": {
+      "correction": "",
+      "notes": ""
+    },
+    "lesson_25_word_060": {
+      "correction": "ഉയരുക",
+      "notes": ""
+    },
+    "lesson_25_word_074": {
+      "correction": "കൈ കൂപ്പി",
+      "notes": ""
+    }
+  }
+}

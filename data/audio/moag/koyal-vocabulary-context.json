@@ -1,0 +1,1304 @@
+{
+  "model": "adalat-ai/koyal-ml-120m-1.0",
+  "model_sha256": "96a69cab106eee4075c3fdae1e32e75f8590467ed8c6abcf91f3bf039b0c3c4e",
+  "input_format": "16000 Hz mono PCM WAV",
+  "decoding": "default greedy",
+  "device": "cpu",
+  "inputs": "Original track excerpts including previous and next clip; no labels supplied to recognizer",
+  "inference_seconds": 19.67321154201636,
+  "samples": [
+    {
+      "id": "lesson_04_word_027",
+      "lesson": 4,
+      "source": "data/audio/moag/lesson_04.mp3",
+      "source_sha256": "be900b7fd30b34e5c9e489a6e3ac38c2e121043fbc065046ee02f7bc62660810",
+      "start": 158.7799,
+      "end": 173.2999,
+      "target_start": 163.4704,
+      "target_end": 165.9109,
+      "previous_id": "lesson_04_word_026",
+      "next_id": "lesson_04_word_028",
+      "published_transcript": "പണം",
+      "context_finding": {
+        "context_result": "boundary_review",
+        "suggested_transcript": "അവന്?",
+        "context_reason": "Raw first utterance അവന് and English Avinu conflict with പണം; second raw is പണം. Inspect 027–029 as one block for crossed word/repetition boundaries."
+      },
+      "koyal": "വിലക്കാരൻ വേലക്കാരൻ അപുന അപന പണം പണം 1."
+    },
+    {
+      "id": "lesson_04_word_028",
+      "lesson": 4,
+      "source": "data/audio/moag/lesson_04.mp3",
+      "source_sha256": "be900b7fd30b34e5c9e489a6e3ac38c2e121043fbc065046ee02f7bc62660810",
+      "start": 163.0704,
+      "end": 174.538,
+      "target_start": 166.7555,
+      "target_end": 172.8999,
+      "previous_id": "lesson_04_word_027",
+      "next_id": "lesson_04_word_029",
+      "published_transcript": "ഒന്ന്",
+      "context_finding": {
+        "context_result": "boundary_review",
+        "suggested_transcript": "പണം / ഒന്ന് (extent uncertain)",
+        "context_reason": "Long clip spans English Avinu / Panam / Unnu and next 029 is a very short orphan. Inspect 027–029 grouping; the span may include more than one entry."
+      },
+      "koyal": "അപന അപന പണം പണം 1"
+    },
+    {
+      "id": "lesson_04_word_029",
+      "lesson": 4,
+      "source": "data/audio/moag/lesson_04.mp3",
+      "source_sha256": "be900b7fd30b34e5c9e489a6e3ac38c2e121043fbc065046ee02f7bc62660810",
+      "start": 166.3555,
+      "end": 178.8582,
+      "target_start": 173.0891,
+      "target_end": 174.138,
+      "previous_id": "lesson_04_word_028",
+      "next_id": "lesson_04_word_030",
+      "published_transcript": "അവന്",
+      "context_finding": {
+        "context_result": "boundary_review",
+        "suggested_transcript": "ഒന്ന്?",
+        "context_reason": "English Unnu overlaps this 1.05-second orphan, not the current അവന്. Inspect 027–029 together."
+      },
+      "koyal": "പണം പണം 1 1 കൊടുക്കൂ കൊടുക്കൂ"
+    },
+    {
+      "id": "lesson_05_word_005",
+      "lesson": 5,
+      "source": "data/audio/moag/lesson_05.mp3",
+      "source_sha256": "efdc12ed9b0f2f9842265ee5aa2ad1cf41f7eb17bbb6e6e58824d47e9b5e5721",
+      "start": 28.759,
+      "end": 41.7369,
+      "target_start": 33.4417,
+      "target_end": 36.1814,
+      "previous_id": "lesson_05_word_004",
+      "next_id": "lesson_05_word_006",
+      "published_transcript": "വായിക്കുന്നു",
+      "context_finding": {
+        "context_result": "conflicting_evidence",
+        "suggested_transcript": "പഠിക്കുന്നു",
+        "context_reason": "User confirmed വായിക്കുന്നു, but isolated recognition says padikkunnu and this follows ചെയ്യുന്നു, before the apparent വായിക്കുന്നു clip 006. Revisit the 005–006 pair; do not silently override the listening review."
+      },
+      "koyal": "ചെയ്യുന്നു, ചെയ്യുന്നു, പഠിക്കുന്നു, പഠിക്കുന്നു, വായ്ക്കുന്നു"
+    },
+    {
+      "id": "lesson_05_word_006",
+      "lesson": 5,
+      "source": "data/audio/moag/lesson_05.mp3",
+      "source_sha256": "efdc12ed9b0f2f9842265ee5aa2ad1cf41f7eb17bbb6e6e58824d47e9b5e5721",
+      "start": 33.0417,
+      "end": 45.039699999999996,
+      "target_start": 37.8727,
+      "target_end": 41.3369,
+      "previous_id": "lesson_05_word_005",
+      "next_id": "lesson_05_word_007",
+      "published_transcript": "ഇരിക്കുന്നു",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "വായിക്കുന്നു",
+        "context_reason": "English baikinnu after Padikinnu and before cinema, plus isolated വയക്ക… support വായിക്കുന്നു. Current ഇരിക്കുന്നു conflicts with the sequence and corrected 003 already supplies ഇരിക്കുന്നു."
+      },
+      "koyal": "പഠിക്കുന്നു, പഠിക്കുന്നു, വായിക്കുന്നു വായിക്കുന്നു സിനിമ, സിനിമ."
+    },
+    {
+      "id": "lesson_05_word_010",
+      "lesson": 5,
+      "source": "data/audio/moag/lesson_05.mp3",
+      "source_sha256": "efdc12ed9b0f2f9842265ee5aa2ad1cf41f7eb17bbb6e6e58824d47e9b5e5721",
+      "start": 48.7851,
+      "end": 62.0879,
+      "target_start": 54.7818,
+      "target_end": 57.2565,
+      "previous_id": "lesson_05_word_009",
+      "next_id": "lesson_05_word_011",
+      "published_transcript": "ഇല്ലേ",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "ഇല്ല",
+        "context_reason": "Printed sequence ഇല്ല then ഇല്ലേ and corrected 011 is ഇല്ലേ. English No overlaps both and is insufficient to distinguish ending; revisit 010/011 rather than retaining duplicate question forms."
+      },
+      "koyal": "പോകുന്നു പോകുന്നു. ഇല്ല, ഇല്ല, ഇല്ലേ? ഇല്ലേ?"
+    },
+    {
+      "id": "lesson_09_word_004",
+      "lesson": 9,
+      "source": "data/audio/moag/lesson_09.mp3",
+      "source_sha256": "15d5bc582352a1a25ea6b3a9adcb79f406d469d8a5f8ae6c50658096457585dc",
+      "start": 129.5323,
+      "end": 142.2199,
+      "target_start": 133.6094,
+      "target_end": 136.3982,
+      "previous_id": "lesson_09_word_003",
+      "next_id": "lesson_09_word_005",
+      "published_transcript": "ചേരും",
+      "context_finding": {
+        "context_result": "unresolved_flag",
+        "suggested_transcript": "ചേച്ചിയുടേത്?",
+        "context_reason": "Printed sequence ആരുടേത് → ചേച്ചിയുടേത് → നന്നായിരിക്കുന്നു suggests ചേച്ചിയുടേത്, but isolated recheck hallucinates ചേരും വേഗം and English loops. Context alone cannot certify a label."
+      },
+      "koyal": "ആരുടേത്? ആരുടേത്? ചേച്ചിയുടേത് ചേച്ചിയുടേത് നന്നായിരിക്കുന്നു, നന്നായിരിക്കുന്നു"
+    },
+    {
+      "id": "lesson_10_word_014",
+      "lesson": 10,
+      "source": "data/audio/moag/lesson_10.mp3",
+      "source_sha256": "18ebd6383255f2d20a33172e05a2bd5e3b2106056b8d0ac732c44250e9c6f456",
+      "start": 49.0385,
+      "end": 60.105399999999996,
+      "target_start": 53.788,
+      "target_end": 56.1207,
+      "previous_id": "lesson_10_word_013",
+      "next_id": "lesson_10_word_015",
+      "published_transcript": "കിഴക്കേ",
+      "context_finding": {
+        "context_result": "ending_review",
+        "suggested_transcript": "കിഴക്ക് / കിഴക്കേ",
+        "context_reason": "The textbook orders കിഴക്ക് then കിഴക്കേ; published 014/015 reverse them. Raw recognition does not distinguish the final vowel. User earlier questioned that exact ending. Review both together."
+      },
+      "koyal": "അറബിക്കടൽ, അറബിക്കടൽ, കിഴക്ക്, കിഴക്ക്, കിഴക്കെ, കിഴക്കേ"
+    },
+    {
+      "id": "lesson_10_word_015",
+      "lesson": 10,
+      "source": "data/audio/moag/lesson_10.mp3",
+      "source_sha256": "18ebd6383255f2d20a33172e05a2bd5e3b2106056b8d0ac732c44250e9c6f456",
+      "start": 53.388,
+      "end": 63.733,
+      "target_start": 56.5877,
+      "target_end": 59.7054,
+      "previous_id": "lesson_10_word_014",
+      "next_id": "lesson_10_word_016",
+      "published_transcript": "കിഴക്ക്",
+      "context_finding": {
+        "context_result": "ending_review",
+        "suggested_transcript": "കിഴക്കേ / കിഴക്ക്",
+        "context_reason": "See 014. Textbook noun then adjective order suggests 015 കിഴക്കേ, but recognition lacks reliable final-vowel evidence. Requires pair listening."
+      },
+      "koyal": "കിഴക്ക് കിഴക്ക് കിഴക്കേ കിഴക്കേ പർവ്വതം പർവതം"
+    },
+    {
+      "id": "lesson_10_word_027",
+      "lesson": 10,
+      "source": "data/audio/moag/lesson_10.mp3",
+      "source_sha256": "18ebd6383255f2d20a33172e05a2bd5e3b2106056b8d0ac732c44250e9c6f456",
+      "start": 99.13459999999999,
+      "end": 108.7175,
+      "target_start": 102.2312,
+      "target_end": 105.2201,
+      "previous_id": "lesson_10_word_026",
+      "next_id": "lesson_10_word_028",
+      "published_transcript": "അറ്റം",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "വടക്കേ",
+        "context_reason": "English vadakke follows vadakku before Atam. Current അറ്റം duplicates the clearer next clip; inspect 026–028 together."
+      },
+      "koyal": "വടക്ക് വടക്ക് വടക്കേ, വടക്കേ അറ്റം അറ്റം"
+    },
+    {
+      "id": "lesson_10_word_028",
+      "lesson": 10,
+      "source": "data/audio/moag/lesson_10.mp3",
+      "source_sha256": "18ebd6383255f2d20a33172e05a2bd5e3b2106056b8d0ac732c44250e9c6f456",
+      "start": 101.8312,
+      "end": 113.4389,
+      "target_start": 106.044,
+      "target_end": 108.3175,
+      "previous_id": "lesson_10_word_027",
+      "next_id": "lesson_10_word_029",
+      "published_transcript": "വടക്കേ",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "അറ്റം",
+        "context_reason": "Raw recognition അറ്റം and English Atam match; this follows the north/northern terms. Clip 027 currently occupies അറ്റം and also needs checking for വടക്കേ."
+      },
+      "koyal": "വടക്കേ വടക്കേ അറ്റം അറ്റം തിരുവനന്തപുരത്ത് തിരുവനന്തപുരത്ത്"
+    },
+    {
+      "id": "lesson_10_word_035",
+      "lesson": 10,
+      "source": "data/audio/moag/lesson_10.mp3",
+      "source_sha256": "18ebd6383255f2d20a33172e05a2bd5e3b2106056b8d0ac732c44250e9c6f456",
+      "start": 129.927,
+      "end": 141.3603,
+      "target_start": 133.5687,
+      "target_end": 136.9943,
+      "previous_id": "lesson_10_word_034",
+      "next_id": "lesson_10_word_036",
+      "published_transcript": "യാത്ര ചെയ്യുക",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "ട്രെയിൻ",
+        "context_reason": "Raw ട്രെയൿൻ and English Train agree, between യാത്ര and ദിവസം. Printed vocabulary includes ട്രെയിൻ. Current യാത്ര ചെയ്യുക is unsupported."
+      },
+      "koyal": "യാത്ര യാത്ര ട്രെയിൻ ട്രെയിൻ ദിവസം ദിവസം"
+    },
+    {
+      "id": "lesson_11_word_005",
+      "lesson": 11,
+      "source": "data/audio/moag/lesson_11.mp3",
+      "source_sha256": "3ddb760456c6e6c294382f70f97c11fe506689c822b37c23c323911ae7e8266c",
+      "start": 124.2679,
+      "end": 139.8469,
+      "target_start": 129.3911,
+      "target_end": 133.6323,
+      "previous_id": "lesson_11_word_004",
+      "next_id": "lesson_11_word_006",
+      "published_transcript": "എന്ദിന്ന് ആയച്ച്ച്ച്",
+      "context_finding": {
+        "context_result": "boundary_review",
+        "suggested_transcript": "എന്തിനാണ് അയച്ചത്? (extent uncertain)",
+        "context_reason": "Raw fragments എന്ദിന്ന് / എന്ദിന്ന് ആയച്ച്ച്ച് occur after standalone എന്തിന്; printed next phrase എന്തിനാണ് അയച്ചത്. Following 006 contains only അയച്ച്ച് and Sent. Check whether the phrase was split across clips or repeats paired incorrectly."
+      },
+      "koyal": "എന്തിന് എന്തിനാണ് അയച്ചത് അയച്ചത്?"
+    },
+    {
+      "id": "lesson_11_word_006",
+      "lesson": 11,
+      "source": "data/audio/moag/lesson_11.mp3",
+      "source_sha256": "3ddb760456c6e6c294382f70f97c11fe506689c822b37c23c323911ae7e8266c",
+      "start": 128.9911,
+      "end": 145.1215,
+      "target_start": 134.5345,
+      "target_end": 139.4469,
+      "previous_id": "lesson_11_word_005",
+      "next_id": "lesson_11_word_007",
+      "published_transcript": "എന്തിനാണ് അയച്ചത്?",
+      "context_finding": {
+        "context_result": "boundary_review",
+        "suggested_transcript": "അയച്ചത്?",
+        "context_reason": "Raw ആയച്ച്ച് and English Sent suggest the sent component of എന്തിനാണ് അയച്ചത്. Prior 005 may contain overlapping phrase material; inspect both clips before applying a shorter label."
+      },
+      "koyal": "എന്തിനാണ് അയച്ചത് അയച്ചത് ഇറച്ചി ഇറച്ചി?"
+    },
+    {
+      "id": "lesson_11_word_012",
+      "lesson": 11,
+      "source": "data/audio/moag/lesson_11.mp3",
+      "source_sha256": "3ddb760456c6e6c294382f70f97c11fe506689c822b37c23c323911ae7e8266c",
+      "start": 160.93349999999998,
+      "end": 170.6629,
+      "target_start": 162.6857,
+      "target_end": 164.5272,
+      "previous_id": "lesson_11_word_011",
+      "next_id": "lesson_11_word_013",
+      "published_transcript": "വേറെ",
+      "context_finding": {
+        "context_result": "boundary_review",
+        "suggested_transcript": "അത്ര",
+        "context_reason": "Raw അത്രാ and English Atra support അത്ര, not വേറെ. Previous clip 011 is one utterance അത്ര; 012 has two fragments. Check the repeat grouping rather than merely relabel both."
+      },
+      "koyal": "അത്ര അത്ര അത്രയും അത്രയും"
+    },
+    {
+      "id": "lesson_11_word_035",
+      "lesson": 11,
+      "source": "data/audio/moag/lesson_11.mp3",
+      "source_sha256": "3ddb760456c6e6c294382f70f97c11fe506689c822b37c23c323911ae7e8266c",
+      "start": 276.1797,
+      "end": 282.4512,
+      "target_start": 281.199,
+      "target_end": 282.0512,
+      "previous_id": "lesson_11_word_034",
+      "next_id": null,
+      "published_transcript": "Unclear word",
+      "context_finding": {
+        "context_result": "reported_no_speech",
+        "suggested_transcript": "",
+        "context_reason": "User reports silence/nothing/click. Most are subsecond orphan segments; recognition is weak or looping. Inspect original-track context before treating them as vocabulary or removing generated audio. Source recordings must be retained."
+      },
+      "koyal": "അടി വേണോ? അടി വേണോ?"
+    },
+    {
+      "id": "lesson_13_word_033",
+      "lesson": 13,
+      "source": "data/audio/moag/lesson_13.mp3",
+      "source_sha256": "4ac11f92764a56330d8e80cd01ea63caa72b8c80a48b9af996dc0f0db272e27d",
+      "start": 213.3407,
+      "end": 231.5548,
+      "target_start": 220.0633,
+      "target_end": 224.0344,
+      "previous_id": "lesson_13_word_032",
+      "next_id": "lesson_13_word_034",
+      "published_transcript": "ഒട്ടിച്ചു",
+      "context_finding": {
+        "context_result": "conflicting_evidence",
+        "suggested_transcript": "ഒട്ടിച്ചു / കാപ്പി കുടിക്കുക",
+        "context_reason": "User confirmed ഒട്ടിച്ചു, but raw recognition contains കാപ്പി and കുടികുക and English recognition says I will drink coffee. Adjacent 034/035 also concern coffee; requires original-track context."
+      },
+      "koyal": "ഒട്ടിക്കുക ഒട്ടിക്കുക ഒട്ടിച്ചു ഒട്ടിച്ചു കാപ്പി കുടിക്കുക. കാപ്പി കുടിക്കുക"
+    },
+    {
+      "id": "lesson_14_word_010",
+      "lesson": 14,
+      "source": "data/audio/moag/lesson_14.mp3",
+      "source_sha256": "b370ccaf6922f1346b7bee0f379809f3fbca140d01b3ca92881b2eeeeddeb81e",
+      "start": 216.2857,
+      "end": 228.3825,
+      "target_start": 220.7338,
+      "target_end": 223.5139,
+      "previous_id": "lesson_14_word_009",
+      "next_id": "lesson_14_word_011",
+      "published_transcript": "ചരമം",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "രംഗം",
+        "context_reason": "Both raw repetitions and isolated recognition say രങ്ങമ്; English rangam follows youth terms. Printed രംഗം is scene; ചരമം is a mismatch."
+      },
+      "koyal": "യുവതി, യുവതി, രംഗം, രംഗം, വ്യാപാരം, വ്യാപാരം."
+    },
+    {
+      "id": "lesson_14_word_013",
+      "lesson": 14,
+      "source": "data/audio/moag/lesson_14.mp3",
+      "source_sha256": "b370ccaf6922f1346b7bee0f379809f3fbca140d01b3ca92881b2eeeeddeb81e",
+      "start": 228.9244,
+      "end": 241.41150000000002,
+      "target_start": 233.817,
+      "target_end": 236.8999,
+      "previous_id": "lesson_14_word_012",
+      "next_id": "lesson_14_word_014",
+      "published_transcript": "നിരിയാണം",
+      "context_finding": {
+        "context_result": "spelling_review",
+        "suggested_transcript": "നിര്യാണം",
+        "context_reason": "Confirmed label നിരിയാണം resembles the spoken synonym നിര്യാണം (death). Neighbor നിലവാരം → this clip → മരണം and English niriyanam support the word family; standard spelling should be checked, not treated as a new lexeme."
+      },
+      "koyal": "നിലവാരം നിലവാരം നിര്യാണം നിര്യാണം മരണം മരണം"
+    },
+    {
+      "id": "lesson_15_word_005",
+      "lesson": 15,
+      "source": "data/audio/moag/lesson_15.mp3",
+      "source_sha256": "2352fe74eeefedd0526adca7fd378af2e95fca4694c223c9ed1b9985b07cb80c",
+      "start": 74.19579999999999,
+      "end": 91.62360000000001,
+      "target_start": 81.4376,
+      "target_end": 85.0411,
+      "previous_id": "lesson_15_word_004",
+      "next_id": "lesson_15_word_006",
+      "published_transcript": "കയറുക",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "അയക്കുക",
+        "context_reason": "Raw ആയക്യുഗ്ങ and English ayak yuga after the name and before യാത്ര അയക്കുക support standalone അയക്കുക, not കയറുക."
+      },
+      "koyal": "കേശവൻ നായർ അയക്കുക യാത്ര യാത്ര അയക്കുക"
+    },
+    {
+      "id": "lesson_15_word_017",
+      "lesson": 15,
+      "source": "data/audio/moag/lesson_15.mp3",
+      "source_sha256": "2352fe74eeefedd0526adca7fd378af2e95fca4694c223c9ed1b9985b07cb80c",
+      "start": 140.4954,
+      "end": 153.95430000000002,
+      "target_start": 145.88,
+      "target_end": 148.8232,
+      "previous_id": "lesson_15_word_016",
+      "next_id": "lesson_15_word_018",
+      "published_transcript": "മുക്കാൽ മണിക്കൂർ",
+      "context_finding": {
+        "context_result": "context_supported_with_note",
+        "suggested_transcript": "സ്ത്രീ",
+        "context_reason": "Printed vocabulary and English nilkuga ninnu stri santosham place സ്ത്രീ after നിന്നു and before സന്തോഷം. Supports user correction, while retaining their explicit confidence note."
+      },
+      "koyal": "നിന്നു നിന്നു. സ്ത്രീ സ്ത്രീ സന്തോഷം സന്തോഷം."
+    },
+    {
+      "id": "lesson_15_word_020",
+      "lesson": 15,
+      "source": "data/audio/moag/lesson_15.mp3",
+      "source_sha256": "2352fe74eeefedd0526adca7fd378af2e95fca4694c223c9ed1b9985b07cb80c",
+      "start": 155.0265,
+      "end": 166.6576,
+      "target_start": 159.9111,
+      "target_end": 160.7046,
+      "previous_id": "lesson_15_word_019",
+      "next_id": "lesson_15_word_021",
+      "published_transcript": "Unclear word",
+      "context_finding": {
+        "context_result": "reported_no_speech",
+        "suggested_transcript": "",
+        "context_reason": "User reports silence/nothing/click. Most are subsecond orphan segments; recognition is weak or looping. Inspect original-track context before treating them as vocabulary or removing generated audio. Source recordings must be retained."
+      },
+      "koyal": "വളരെ സന്തോഷം വളരെ സന്തോഷം വളരെ സന്തോഷം ആയി വളരെ സന്തോഷമായി."
+    },
+    {
+      "id": "lesson_15_word_021",
+      "lesson": 15,
+      "source": "data/audio/moag/lesson_15.mp3",
+      "source_sha256": "2352fe74eeefedd0526adca7fd378af2e95fca4694c223c9ed1b9985b07cb80c",
+      "start": 159.5111,
+      "end": 173.67950000000002,
+      "target_start": 161.1528,
+      "target_end": 166.2576,
+      "previous_id": "lesson_15_word_020",
+      "next_id": "lesson_15_word_022",
+      "published_transcript": "ആയി",
+      "context_finding": {
+        "context_result": "boundary_review",
+        "suggested_transcript": "വളരെ സന്തോഷമായി?",
+        "context_reason": "Current label ആയി is only a suffix-sized word, but clip contains two ~1.55-second utterances and follows വളരെ സന്തോഷം. Could be a fuller construction; raw ആയി and broad very happy are insufficient for exact transcription."
+      },
+      "koyal": "വളരെ സന്തോഷമായി കണ്ടതിൽ വളരെ സന്തോഷം."
+    },
+    {
+      "id": "lesson_15_word_023",
+      "lesson": 15,
+      "source": "data/audio/moag/lesson_15.mp3",
+      "source_sha256": "2352fe74eeefedd0526adca7fd378af2e95fca4694c223c9ed1b9985b07cb80c",
+      "start": 167.3178,
+      "end": 188.4447,
+      "target_start": 175.2697,
+      "target_end": 182.0918,
+      "previous_id": "lesson_15_word_022",
+      "next_id": "lesson_15_word_024",
+      "published_transcript": "കണ്ടതിൽ വളരെ സന്തോഷം",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "കണ്ടതിൽ വളരെ സന്തോഷമായി",
+        "context_reason": "Raw കണ്ടദുല് വളര്സന്ദോഷം ആയീ suggests final ആയി missing from current label, after the shorter user-reviewed 022 phrase. Check optional initial എനിക്ക് and final ആയി against audio."
+      },
+      "koyal": ""
+    },
+    {
+      "id": "lesson_15_word_034",
+      "lesson": 15,
+      "source": "data/audio/moag/lesson_15.mp3",
+      "source_sha256": "2352fe74eeefedd0526adca7fd378af2e95fca4694c223c9ed1b9985b07cb80c",
+      "start": 236.0034,
+      "end": 249.6552,
+      "target_start": 241.7804,
+      "target_end": 245.2767,
+      "previous_id": "lesson_15_word_033",
+      "next_id": "lesson_15_word_035",
+      "published_transcript": "വിട്ടുപോകുക",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "തോന്നുക",
+        "context_reason": "Raw തോന്നുക് and English Thonnuka agree; next clip 035 is തോന്നി. Current വിട്ടുപോകുക is inconsistent."
+      },
+      "koyal": "മണിക്കൂർ മണിക്കൂർ തൊന്നുക, തൊന്നുക, തോന്നി, തോന്നി"
+    },
+    {
+      "id": "lesson_16_word_010",
+      "lesson": 16,
+      "source": "data/audio/moag/lesson_16.mp3",
+      "source_sha256": "1da01dfd25951b2d745677c3b35f04aaa2d61404c10cc46ba8cb6eb2bbe3c118",
+      "start": 46.975500000000004,
+      "end": 60.1502,
+      "target_start": 52.0242,
+      "target_end": 55.2867,
+      "previous_id": "lesson_16_word_009",
+      "next_id": "lesson_16_word_011",
+      "published_transcript": "ഇവിടുത്തെ",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "അവിടുത്തെ",
+        "context_reason": "Isolated അവുഡുത്തെ and English Avidutthe favor അവിടുത്തെ, whereas label says ഇവിടുത്തെ. Next 011 may be ഇവിടുത്തെ; check pair before swapping."
+      },
+      "koyal": "മാതൃഭൂമി, മാതൃഭൂമി അവിടുത്തെ, അവിടുത്തെ, ഇവിടുത്തെ ഇവിടുത്തെ."
+    },
+    {
+      "id": "lesson_16_word_011",
+      "lesson": 16,
+      "source": "data/audio/moag/lesson_16.mp3",
+      "source_sha256": "1da01dfd25951b2d745677c3b35f04aaa2d61404c10cc46ba8cb6eb2bbe3c118",
+      "start": 51.6242,
+      "end": 64.5977,
+      "target_start": 56.4804,
+      "target_end": 59.7502,
+      "previous_id": "lesson_16_word_010",
+      "next_id": "lesson_16_word_012",
+      "published_transcript": "അവിടുത്തെ",
+      "context_finding": {
+        "context_result": "ending_review",
+        "suggested_transcript": "ഇവിടുത്തെ / അവിടുത്തെ",
+        "context_reason": "Neighbor 010 evidence favors അവിടുത്തെ, but raw 011 also says അവുഡുത്തെ. Printed list includes both; vowel distinction remains unverified."
+      },
+      "koyal": "അവിടുത്തെ അവിടുത്തെ ഇവിടുത്തെ ഇവിടുത്തെ അച്ചടിക്കുക."
+    },
+    {
+      "id": "lesson_16_word_021",
+      "lesson": 16,
+      "source": "data/audio/moag/lesson_16.mp3",
+      "source_sha256": "1da01dfd25951b2d745677c3b35f04aaa2d61404c10cc46ba8cb6eb2bbe3c118",
+      "start": 97.0779,
+      "end": 107.7001,
+      "target_start": 101.1797,
+      "target_end": 103.7426,
+      "previous_id": "lesson_16_word_020",
+      "next_id": "lesson_16_word_022",
+      "published_transcript": "എന്നും",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "ഏതും",
+        "context_reason": "Raw ഏദും, isolated എദുമ് and English Edhum agree. Comes after standalone ഏത് and before കോൺ; printed ഏത്--- ഉം explains this form. Current എന്നും is contradicted."
+      },
+      "koyal": "ഏത് ഏത് ഏതും ഏതും കോൺ കോൺ?"
+    },
+    {
+      "id": "lesson_16_word_029",
+      "lesson": 16,
+      "source": "data/audio/moag/lesson_16.mp3",
+      "source_sha256": "1da01dfd25951b2d745677c3b35f04aaa2d61404c10cc46ba8cb6eb2bbe3c118",
+      "start": 127.15929999999999,
+      "end": 138.416,
+      "target_start": 132.49,
+      "target_end": 134.9875,
+      "previous_id": "lesson_16_word_028",
+      "next_id": "lesson_16_word_030",
+      "published_transcript": "വിൽക്കുക",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "എഴുതുക",
+        "context_reason": "Raw എരുദുക and English Eruduga after തർജ്ജമ ചെയ്തു and before എഴുതി വരും support എഴുതുക. Actual വിൽക്കുക / വിറ്റു occur at 036/037."
+      },
+      "koyal": "തർജ്ജിമ ചെയ്തു, തർജ്ജിമ ചെയ്തു. എഴുതുക, എഴുതുക, എഴുതി എഴുതി."
+    },
+    {
+      "id": "lesson_16_word_030",
+      "lesson": 16,
+      "source": "data/audio/moag/lesson_16.mp3",
+      "source_sha256": "1da01dfd25951b2d745677c3b35f04aaa2d61404c10cc46ba8cb6eb2bbe3c118",
+      "start": 132.09,
+      "end": 142.14690000000002,
+      "target_start": 135.8716,
+      "target_end": 138.016,
+      "previous_id": "lesson_16_word_029",
+      "next_id": "lesson_16_word_031",
+      "published_transcript": "ഏ--ഉള്ളു",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "എഴുതി",
+        "context_reason": "Raw എരുദു and English Erudi between എഴുതുക and എഴുതി വരും support the past/conjunctive form എഴുതി. Current ഏ--ഉള്ളു is mismatched."
+      },
+      "koyal": "എഴുതുക, എഴുതുക, എഴുതി എഴുതി എഴുതി വരും, എഴുതി വരും."
+    },
+    {
+      "id": "lesson_16_word_043",
+      "lesson": 16,
+      "source": "data/audio/moag/lesson_16.mp3",
+      "source_sha256": "1da01dfd25951b2d745677c3b35f04aaa2d61404c10cc46ba8cb6eb2bbe3c118",
+      "start": 185.4127,
+      "end": 197.79,
+      "target_start": 191.4518,
+      "target_end": 191.929,
+      "previous_id": "lesson_16_word_042",
+      "next_id": "lesson_16_word_044",
+      "published_transcript": "ഇൻഡ്യൻ എക്സ്പ്രസ്",
+      "context_finding": {
+        "context_result": "reported_no_speech",
+        "suggested_transcript": "",
+        "context_reason": "User reports silence/nothing/click. Most are subsecond orphan segments; recognition is weak or looping. Inspect original-track context before treating them as vocabulary or removing generated audio. Source recordings must be retained."
+      },
+      "koyal": "പ്രസിദ്ധീകരിക്കപ്പെടുന്നു"
+    },
+    {
+      "id": "lesson_17_word_015",
+      "lesson": 17,
+      "source": "data/audio/moag/lesson_17.mp3",
+      "source_sha256": "eac5972c844c6c45fdef6b0bbea7ab1541ceb84fb72df8c5203e7659d00c8a97",
+      "start": 71.00219999999999,
+      "end": 82.94080000000001,
+      "target_start": 75.4184,
+      "target_end": 78.4017,
+      "previous_id": "lesson_17_word_014",
+      "next_id": "lesson_17_word_016",
+      "published_transcript": "ജേയുക്ക്",
+      "context_finding": {
+        "context_result": "use_entered_correction",
+        "suggested_transcript": "ചെയ്യുക",
+        "context_reason": "Export decision is confirmed but correction field contains ചെയ്യുക, replacing proposed gibberish ജേയുക്ക്. English chaiyuka after ചെയ്യ് supports the entered correction; import must not discard it."
+      },
+      "koyal": "ചെയ്യ്, ചെയ്യ്, ചെയ്യുക, ചെയ്യുക. ആട്ടെ, ആട്ടെ"
+    },
+    {
+      "id": "lesson_18_word_021",
+      "lesson": 18,
+      "source": "data/audio/moag/lesson_18.mp3",
+      "source_sha256": "8c43cb3c69d6a18ef99a346d19522ae99b6f03e9487a8da6026b21bceaa6dae0",
+      "start": 101.663,
+      "end": 118.3508,
+      "target_start": 108.524,
+      "target_end": 113.8058,
+      "previous_id": "lesson_18_word_020",
+      "next_id": "lesson_18_word_022",
+      "published_transcript": "വീഴാതെ നോക്കണേ!",
+      "context_finding": {
+        "context_result": "boundary_review",
+        "suggested_transcript": "നാല് ഫർലാംഗാണ് ഉള്ളത്",
+        "context_reason": "User correction fits the dialogue and English/transcription evidence. But adjacent clip 020 already has fragments നാല്യ ഫര്ലാങ്കാണ് / നാല്യ, and 021 raw begins ഫര്ലങ്കാണ് ഉള്ളത്. Inspect the 020–021 partition to ensure neither is a truncated phrase."
+      },
+      "koyal": "4 ഫെർലോങ് ആണ്. 4 ഫെർലോങ് ആണ്. 4 ഫെർലോങ് ആണ് ഉള്ളത്. 4 ഫെർലോങ് ആണ് ഉള്ളത് കൊച്ച് കൊച്ച്."
+    },
+    {
+      "id": "lesson_19_word_022",
+      "lesson": 19,
+      "source": "data/audio/moag/lesson_19.mp3",
+      "source_sha256": "18f80132bc6239da64726cf20389e3378cfa93aff04547e4c6cea945006ed775",
+      "start": 112.2961,
+      "end": 126.42460000000001,
+      "target_start": 117.8451,
+      "target_end": 121.7653,
+      "previous_id": "lesson_19_word_021",
+      "next_id": "lesson_19_word_023",
+      "published_transcript": "ഓരോ കാരണങ്ങൾ",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "ഇല്ലാത്തത് കൊണ്ട്",
+        "context_reason": "Isolated ഇല്ലാതതാദു… plus English because of the absence after ഓരോ കഥകൾ and before വിശ്വാസം support printed --ില്ലാത്തത് കൊണ്ട്. Exact prefix/extent still requires listening."
+      },
+      "koyal": "ഓരോ കഥകൾ ഇല്ലാത്തതുകൊണ്ട് വിശ്വാസം വിശ്വാസം."
+    },
+    {
+      "id": "lesson_19_word_028",
+      "lesson": 19,
+      "source": "data/audio/moag/lesson_19.mp3",
+      "source_sha256": "18f80132bc6239da64726cf20389e3378cfa93aff04547e4c6cea945006ed775",
+      "start": 136.2181,
+      "end": 146.3337,
+      "target_start": 141.7104,
+      "target_end": 143.2769,
+      "previous_id": "lesson_19_word_027",
+      "next_id": "lesson_19_word_029",
+      "published_transcript": "മാറ്റി",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "മടി",
+        "context_reason": "Raw മഡീ and English Madi after faith phrase and before മടിയൻ support മടി, not മാറ്റി. Actual മാറ്റി likely 040."
+      },
+      "koyal": "അയാളെ എനിക്ക് വിശ്വാസമുണ്ട് മടി മടി മടിയൻ മടിയൻ."
+    },
+    {
+      "id": "lesson_19_word_032",
+      "lesson": 19,
+      "source": "data/audio/moag/lesson_19.mp3",
+      "source_sha256": "18f80132bc6239da64726cf20389e3378cfa93aff04547e4c6cea945006ed775",
+      "start": 149.778,
+      "end": 163.8753,
+      "target_start": 154.0703,
+      "target_end": 157.2298,
+      "previous_id": "lesson_19_word_031",
+      "next_id": "lesson_19_word_033",
+      "published_transcript": "ചെയ്യാമേ",
+      "context_finding": {
+        "context_result": "boundary_review",
+        "suggested_transcript": "ജോലി ചെയ്യാൻ",
+        "context_reason": "Raw ജോലു ചെയ്യാന് and isolated ജോലു ചെയ്യാണ് before longer 033 support ജോലി ചെയ്യാൻ, not ചെയ്യാമേ. User identifies ചെയ്യാമേ at 049."
+      },
+      "koyal": "മടിയാണ് മടിയാണ് ജോലി ചെയ്യാൻ മടിയാണ്. ജോലി ചെയ്യാൻ മടിയാണ്."
+    },
+    {
+      "id": "lesson_19_word_033",
+      "lesson": 19,
+      "source": "data/audio/moag/lesson_19.mp3",
+      "source_sha256": "18f80132bc6239da64726cf20389e3378cfa93aff04547e4c6cea945006ed775",
+      "start": 153.6703,
+      "end": 170.179,
+      "target_start": 158.5309,
+      "target_end": 163.4753,
+      "previous_id": "lesson_19_word_032",
+      "next_id": "lesson_19_word_034",
+      "published_transcript": "മടിയാണ്",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "ജോലി ചെയ്യാൻ മടിയാണ്",
+        "context_reason": "Isolated ജോളു ചെയ്യാന് മഡിയാന് and progression from 031 മടിയാണ്, 032 ജോലി ചെയ്യാൻ support full printed phrase. Current label omits its start."
+      },
+      "koyal": "ജോലി ചെയ്യാൻ മടിയാണ്. ഏതായാലും"
+    },
+    {
+      "id": "lesson_19_word_040",
+      "lesson": 19,
+      "source": "data/audio/moag/lesson_19.mp3",
+      "source_sha256": "18f80132bc6239da64726cf20389e3378cfa93aff04547e4c6cea945006ed775",
+      "start": 184.6894,
+      "end": 195.1781,
+      "target_start": 188.884,
+      "target_end": 191.2245,
+      "previous_id": "lesson_19_word_039",
+      "next_id": "lesson_19_word_041",
+      "published_transcript": "മടി",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "മാറ്റി",
+        "context_reason": "English Maatti and isolated മാറ്റു after മാറ്റുക support past മാറ്റി. Current മടി belongs earlier at 028."
+      },
+      "koyal": "മാറ്റുക, മാറ്റുക, മാറ്റി മാറ്റി സ്ഥലം സ്ഥലം."
+    },
+    {
+      "id": "lesson_19_word_045",
+      "lesson": 19,
+      "source": "data/audio/moag/lesson_19.mp3",
+      "source_sha256": "18f80132bc6239da64726cf20389e3378cfa93aff04547e4c6cea945006ed775",
+      "start": 203.9863,
+      "end": 215.08100000000002,
+      "target_start": 208.4132,
+      "target_end": 212.3883,
+      "previous_id": "lesson_19_word_044",
+      "next_id": "lesson_19_word_046",
+      "published_transcript": "സ്ഥലം മാറ്റുക",
+      "context_finding": {
+        "context_result": "boundary_review",
+        "suggested_transcript": "സ്ഥലം മാറ്റേണ്ടതായി",
+        "context_reason": "English sequence explicitly gives stalam matteyendathai before വരും (046) and full sentence (047). Current സ്ഥലം മാറ്റുക truncates/changes morphology; verify full extent."
+      },
+      "koyal": "നിങ്ങളെ നിങ്ങളെ സ്ഥലം മാറ്റേണ്ടതായി സ്ഥലം മാറ്റേണ്ടതായി വരും വരും."
+    },
+    {
+      "id": "lesson_19_word_047",
+      "lesson": 19,
+      "source": "data/audio/moag/lesson_19.mp3",
+      "source_sha256": "18f80132bc6239da64726cf20389e3378cfa93aff04547e4c6cea945006ed775",
+      "start": 212.6635,
+      "end": 233.9103,
+      "target_start": 216.0074,
+      "target_end": 226.1277,
+      "previous_id": "lesson_19_word_046",
+      "next_id": "lesson_19_word_048",
+      "published_transcript": "സ്ഥലം മാറ്റരുതേ",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "എനിക്ക് നിങ്ങളെ സ്ഥലം മാറ്റേണ്ടതായി വരും",
+        "context_reason": "English full sentence and 10.12-second clip following individual components support the full transfer threat. It is not the plea സ്ഥലം മാറ്റരുതേ, which user heard at 048."
+      },
+      "koyal": "വരും വരും. എനിക്ക് നിങ്ങളെ സ്ഥലം മാറ്റേണ്ടതായി വരും. എനിക്ക് നിങ്ങളെ സ്ഥലം മാറ്റേണ്ടതായി വരും. സ്ഥലം മാറ്റരുതേ. സ്ഥലം മാറ്റരുതേ."
+    },
+    {
+      "id": "lesson_20_word_022",
+      "lesson": 20,
+      "source": "data/audio/moag/lesson_20.mp3",
+      "source_sha256": "0bf08563117114a3806984386edf4d708727d5112b34c108e23e5a00dbaf467b",
+      "start": 179.2644,
+      "end": 190.2289,
+      "target_start": 182.6012,
+      "target_end": 185.1895,
+      "previous_id": "lesson_20_word_021",
+      "next_id": "lesson_20_word_023",
+      "published_transcript": "ആഘോഷം",
+      "context_finding": {
+        "context_result": "contradicted_correction",
+        "suggested_transcript": "ആകാശം",
+        "context_reason": "This is 182.60–185.19s, inside aakasham 181.60–185.60s. Isolated recognition ആകാസം and next ആകാശത്തോളം support sky, not ആഘോഷം. Earlier pronunciation advice missed this context."
+      },
+      "koyal": "ഉടനെ ഉടനെ ആകാശം ആകാശത്തോളം"
+    },
+    {
+      "id": "lesson_20_word_024",
+      "lesson": 20,
+      "source": "data/audio/moag/lesson_20.mp3",
+      "source_sha256": "0bf08563117114a3806984386edf4d708727d5112b34c108e23e5a00dbaf467b",
+      "start": 185.73489999999998,
+      "end": 196.8389,
+      "target_start": 191.1008,
+      "target_end": 193.3452,
+      "previous_id": "lesson_20_word_023",
+      "next_id": "lesson_20_word_025",
+      "published_transcript": "ആകാശം",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "വളരുക",
+        "context_reason": "English valaruga at this interval, after corrected sky / ആകാശത്തോളം and before വളർന്നു, supports grow rather than ആകാശം."
+      },
+      "koyal": "ആകാശത്തോളം വളരുക, വളരുക, വളർന്നു, വളർന്നു"
+    },
+    {
+      "id": "lesson_20_word_041",
+      "lesson": 20,
+      "source": "data/audio/moag/lesson_20.mp3",
+      "source_sha256": "0bf08563117114a3806984386edf4d708727d5112b34c108e23e5a00dbaf467b",
+      "start": 250.8602,
+      "end": 262.3755,
+      "target_start": 256.7569,
+      "target_end": 258.2501,
+      "previous_id": "lesson_20_word_040",
+      "next_id": "lesson_20_word_042",
+      "published_transcript": "പിന്നിൽ",
+      "context_finding": {
+        "context_result": "probable_announcement",
+        "suggested_transcript": "Part Two",
+        "context_reason": "Single 1.49-second utterance between active ആഘോഷിച്ചു and the Part Two vocabulary restart. English recognition Part 2 and isolated പാര്ടു agree with user pattoo. Strong candidate for an English section announcement, not പാട്ട്; inspect original audio before excluding."
+      },
+      "koyal": "ആഘോഷിച്ചു ആഘോഷിച്ചു പാട്ടു ആഘോഷം ആഘോഷം"
+    },
+    {
+      "id": "lesson_20_word_043",
+      "lesson": 20,
+      "source": "data/audio/moag/lesson_20.mp3",
+      "source_sha256": "0bf08563117114a3806984386edf4d708727d5112b34c108e23e5a00dbaf467b",
+      "start": 259.11760000000004,
+      "end": 273.573,
+      "target_start": 263.0911,
+      "target_end": 267.1158,
+      "previous_id": "lesson_20_word_042",
+      "next_id": "lesson_20_word_044",
+      "published_transcript": "ആഘോഷിക്കപ്പെട്ടു",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "ആഘോഷിക്കപ്പെടുക",
+        "context_reason": "Isolated ആഖോ സിക്ക… പേഡുഗാ suggests passive infinitive. Printed list gives passive base then past; user identifies past at 044. Current past label likely wrong."
+      },
+      "koyal": "ആഘോഷിക്കപ്പെട്ടു"
+    },
+    {
+      "id": "lesson_20_word_070",
+      "lesson": 20,
+      "source": "data/audio/moag/lesson_20.mp3",
+      "source_sha256": "0bf08563117114a3806984386edf4d708727d5112b34c108e23e5a00dbaf467b",
+      "start": 367.5557,
+      "end": 376.3198,
+      "target_start": 371.5179,
+      "target_end": 372.06,
+      "previous_id": "lesson_20_word_069",
+      "next_id": "lesson_20_word_071",
+      "published_transcript": "ക്രിസ്ത്യാനി",
+      "context_finding": {
+        "context_result": "reported_no_speech",
+        "suggested_transcript": "",
+        "context_reason": "User reports silence/nothing/click. Most are subsecond orphan segments; recognition is weak or looping. Inspect original-track context before treating them as vocabulary or removing generated audio. Source recordings must be retained."
+      },
+      "koyal": "കൂടുക കൂടുക കൂടി കൂടി"
+    },
+    {
+      "id": "lesson_20_word_077",
+      "lesson": 20,
+      "source": "data/audio/moag/lesson_20.mp3",
+      "source_sha256": "0bf08563117114a3806984386edf4d708727d5112b34c108e23e5a00dbaf467b",
+      "start": 394.5049,
+      "end": 405.0249,
+      "target_start": 398.2525,
+      "target_end": 400.5773,
+      "previous_id": "lesson_20_word_076",
+      "next_id": "lesson_20_word_078",
+      "published_transcript": "ഹിന്ദുക്കൾ",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "ഹിന്ദു",
+        "context_reason": "Raw ഹിന്ദു and English Hindu support singular; 078 English Hindus supports plural. Current labels reverse them."
+      },
+      "koyal": "നാട്, നാട്, ഹിന്ദു, ഹിന്ദു, ഹിന്ദുക്കൾ, ഹിന്ദുക്കൾ."
+    },
+    {
+      "id": "lesson_20_word_078",
+      "lesson": 20,
+      "source": "data/audio/moag/lesson_20.mp3",
+      "source_sha256": "0bf08563117114a3806984386edf4d708727d5112b34c108e23e5a00dbaf467b",
+      "start": 397.8525,
+      "end": 408.88399999999996,
+      "target_start": 401.5536,
+      "target_end": 404.6249,
+      "previous_id": "lesson_20_word_077",
+      "next_id": "lesson_20_word_079",
+      "published_transcript": "ഹിന്ദു",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "ഹിന്ദുക്കൾ",
+        "context_reason": "English Hindus follows singular Hindu. Check 077–078 as pair; current singular is likely swapped."
+      },
+      "koyal": "ഹിന്ദു, ഹിന്ദു, ഹിന്ദുക്കൾ, ഹിന്ദുക്കൾ, മുസ്ലിം, മുസ്ലിം."
+    },
+    {
+      "id": "lesson_20_word_079",
+      "lesson": 20,
+      "source": "data/audio/moag/lesson_20.mp3",
+      "source_sha256": "0bf08563117114a3806984386edf4d708727d5112b34c108e23e5a00dbaf467b",
+      "start": 401.15360000000004,
+      "end": 412.9591,
+      "target_start": 405.8496,
+      "target_end": 408.484,
+      "previous_id": "lesson_20_word_078",
+      "next_id": "lesson_20_word_080",
+      "published_transcript": "മുസ്ലീങ്ങൾ",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "മുസ്ലീം",
+        "context_reason": "Raw മുസ്ലീം and English Muslim favor singular; 080 English Muslims favors plural. Current assignments reverse them."
+      },
+      "koyal": "ഹിന്ദുക്കൾ, ഹിന്ദുക്കൾ, മുസ്ലിം, മുസ്ലിം, മുസ്ലിങ്ങൾ, മുസ്ലിങ്ങൾ."
+    },
+    {
+      "id": "lesson_20_word_080",
+      "lesson": 20,
+      "source": "data/audio/moag/lesson_20.mp3",
+      "source_sha256": "0bf08563117114a3806984386edf4d708727d5112b34c108e23e5a00dbaf467b",
+      "start": 405.44960000000003,
+      "end": 417.3272,
+      "target_start": 409.8286,
+      "target_end": 412.5591,
+      "previous_id": "lesson_20_word_079",
+      "next_id": "lesson_20_word_081",
+      "published_transcript": "മുസ്ലീം",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "മുസ്ലീങ്ങൾ",
+        "context_reason": "English Muslims follows singular Muslim; current singular label is likely swapped with 079."
+      },
+      "koyal": "മുസ്ലിം, മുസ്ലിം, മുസ്ലിങ്ങൾ, മുസ്ലിങ്ങൾ, ക്രിസ്ത്യാനി, ക്രിസ്ത്യാനി."
+    },
+    {
+      "id": "lesson_21_word_001",
+      "lesson": 21,
+      "source": "data/audio/moag/lesson_21.mp3",
+      "source_sha256": "cbc2a05d83a9c88832e98f5b236b2c9837a214104fe7d0ccb950ca59f61d6b4f",
+      "start": 140.9296,
+      "end": 148.0753,
+      "target_start": 141.3296,
+      "target_end": 144.1698,
+      "previous_id": null,
+      "next_id": "lesson_21_word_002",
+      "published_transcript": "കം",
+      "context_finding": {
+        "context_result": "boundary_review",
+        "suggested_transcript": "ഇംഗ്ലീഷ് + അകം?",
+        "context_reason": "English at 141.46–141.84s and Akam at 141.84–145.78s overlap the grouped 141.33–144.17s clip. Following user akam at 002 supports a mispaired start, not confident standalone കം."
+      },
+      "koyal": "ഇംഗ്ലീഷ് ഇംഗ്ലീഷ് അകം അകം"
+    },
+    {
+      "id": "lesson_21_word_002",
+      "lesson": 21,
+      "source": "data/audio/moag/lesson_21.mp3",
+      "source_sha256": "cbc2a05d83a9c88832e98f5b236b2c9837a214104fe7d0ccb950ca59f61d6b4f",
+      "start": 140.9296,
+      "end": 152.9686,
+      "target_start": 145.29,
+      "target_end": 147.6753,
+      "previous_id": "lesson_21_word_001",
+      "next_id": "lesson_21_word_003",
+      "published_transcript": "ഇംഗ്ലീഷ്",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "അകം / -കം",
+        "context_reason": "User akam matches isolated ആകമ് and English Akam / agam, before പത്ത് മിനിട്ടിനകം. Printed suffix -കം means within. Clip 001 overlaps the English item and first akam, so inspect the 001–002 boundary too."
+      },
+      "koyal": "ഇംഗ്ലീഷ് ഇംഗ്ലീഷ് അകം അകം 10 മിനിറ്റിനകം 10 മിനിറ്റിനകം."
+    },
+    {
+      "id": "lesson_21_word_013",
+      "lesson": 21,
+      "source": "data/audio/moag/lesson_21.mp3",
+      "source_sha256": "cbc2a05d83a9c88832e98f5b236b2c9837a214104fe7d0ccb950ca59f61d6b4f",
+      "start": 191.5804,
+      "end": 202.9608,
+      "target_start": 196.7626,
+      "target_end": 197.2289,
+      "previous_id": "lesson_21_word_012",
+      "next_id": "lesson_21_word_014",
+      "published_transcript": "അറിയാമായിരിക്കാം",
+      "context_finding": {
+        "context_result": "reported_no_speech",
+        "suggested_transcript": "",
+        "context_reason": "User reports silence/nothing/click. Most are subsecond orphan segments; recognition is weak or looping. Inspect original-track context before treating them as vocabulary or removing generated audio. Source recordings must be retained."
+      },
+      "koyal": "ചോദിച്ചു കളയാം. അറിയാമായിരിക്കാം അറിയാമായിരിക്കാം"
+    },
+    {
+      "id": "lesson_21_word_016",
+      "lesson": 21,
+      "source": "data/audio/moag/lesson_21.mp3",
+      "source_sha256": "cbc2a05d83a9c88832e98f5b236b2c9837a214104fe7d0ccb950ca59f61d6b4f",
+      "start": 204.1397,
+      "end": 217.90540000000001,
+      "target_start": 210.4143,
+      "target_end": 212.0765,
+      "previous_id": "lesson_21_word_015",
+      "next_id": "lesson_21_word_017",
+      "published_transcript": "തരുക",
+      "context_finding": {
+        "context_result": "boundary_review",
+        "suggested_transcript": "പറഞ്ഞുതരുക?",
+        "context_reason": "Isolated പരന്യുട്ടായുളാ and English Paranyu taruga suggest another repetition/fragment of പറഞ്ഞുതരുക, not a confidently independent തരുക. Previous clip 015 already contains the phrase; check their grouping."
+      },
+      "koyal": "തരുക, തരുക, പറഞ്ഞു തരുക, പറഞ്ഞു തരുക. പറഞ്ഞുകൊടുക്കുക. പറഞ്ഞുകൊടുക്കുക."
+    },
+    {
+      "id": "lesson_21_word_019",
+      "lesson": 21,
+      "source": "data/audio/moag/lesson_21.mp3",
+      "source_sha256": "cbc2a05d83a9c88832e98f5b236b2c9837a214104fe7d0ccb950ca59f61d6b4f",
+      "start": 218.16209999999998,
+      "end": 229.5728,
+      "target_start": 221.6344,
+      "target_end": 225.5213,
+      "previous_id": "lesson_21_word_018",
+      "next_id": "lesson_21_word_020",
+      "published_transcript": "വിപരീതപദം",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "വിപരീതപദം",
+        "context_reason": "Isolated വിപരീയുത്പദം and English Vipareetapadam between ദുഃഖം and സുഖം support the current proposed word; user flag remains until listening confirms."
+      },
+      "koyal": "ദുഃഖം ദുഃഖം വിപരീതപദം വിപരീത പദം സുഖം സുഖം."
+    },
+    {
+      "id": "lesson_21_word_021",
+      "lesson": 21,
+      "source": "data/audio/moag/lesson_21.mp3",
+      "source_sha256": "cbc2a05d83a9c88832e98f5b236b2c9837a214104fe7d0ccb950ca59f61d6b4f",
+      "start": 226.6872,
+      "end": 238.3269,
+      "target_start": 230.101,
+      "target_end": 233.3516,
+      "previous_id": "lesson_21_word_020",
+      "next_id": "lesson_21_word_022",
+      "published_transcript": "പ്രസന്നത",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "ആയിരിക്കണം",
+        "context_reason": "English Aayarikyanam and isolated ആയുക്ക്കുന്നും between സുഖം and corrected പ്രസന്നത (022) support must be. Current പ്രസന്നത is a neighbor substitution."
+      },
+      "koyal": "സുഖം, സുഖം. ആയിരിക്കണം ആയിരിക്കണം. പ്രസന്നത, പ്രസന്നത"
+    },
+    {
+      "id": "lesson_22_word_007",
+      "lesson": 22,
+      "source": "data/audio/moag/lesson_22.mp3",
+      "source_sha256": "cddc58f2a296eac549c65c77cdb8209741edb59fda0b6c5581ce1fb7e7003eff",
+      "start": 45.6572,
+      "end": 61.6509,
+      "target_start": 51.0514,
+      "target_end": 56.771,
+      "previous_id": "lesson_22_word_006",
+      "next_id": "lesson_22_word_008",
+      "published_transcript": "കിടക്കുക",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "ഞാൻ എപ്പോൾ വന്നാലും",
+        "context_reason": "English NYAN EPPOL VANNALUM and raw യാണ് എപ്പോള് വന്നാരും favor printed whenever I come. Current കിടക്കുക is wrong; user supplies that base at 004."
+      },
+      "koyal": "ഞാൻ എപ്പോൾ വന്നാലും ഞാൻ എപ്പോൾ വന്നാലും പിള്ള പിള്ള."
+    },
+    {
+      "id": "lesson_22_word_059",
+      "lesson": 22,
+      "source": "data/audio/moag/lesson_22.mp3",
+      "source_sha256": "cddc58f2a296eac549c65c77cdb8209741edb59fda0b6c5581ce1fb7e7003eff",
+      "start": 304.4415,
+      "end": 310.74109999999996,
+      "target_start": 309.9141,
+      "target_end": 310.3411,
+      "previous_id": "lesson_22_word_058",
+      "next_id": null,
+      "published_transcript": "വേണ്ടി",
+      "context_finding": {
+        "context_result": "reported_no_speech",
+        "suggested_transcript": "",
+        "context_reason": "User reports silence/nothing/click. Most are subsecond orphan segments; recognition is weak or looping. Inspect original-track context before treating them as vocabulary or removing generated audio. Source recordings must be retained."
+      },
+      "koyal": "വരാറായി വരാറായി"
+    },
+    {
+      "id": "lesson_23_word_005",
+      "lesson": 23,
+      "source": "data/audio/moag/lesson_23.mp3",
+      "source_sha256": "afcbc7de601e0b9cf3c347e69fc6142b963cbae2333c98d874bc2a8350253ad1",
+      "start": 216.0381,
+      "end": 233.0197,
+      "target_start": 223.5685,
+      "target_end": 227.0038,
+      "previous_id": "lesson_23_word_004",
+      "next_id": "lesson_23_word_006",
+      "published_transcript": "ആയ്രണു",
+      "context_finding": {
+        "context_result": "spelling_review",
+        "suggested_transcript": "ആയിരുന്നു",
+        "context_reason": "Confirmed ആയ്രണു is phonetic ASR spelling. Printed pattern ഉണ്ടായിരുന്നെങ്കിൽ … ആയിരുന്നു and English ayirnu support ആയിരുന്നു."
+      },
+      "koyal": "ഉണ്ടായിരുന്നെങ്കിൽ ആയിരുന്നു ആയിരുന്നു വിറ്റാൽ വിറ്റാൽ"
+    },
+    {
+      "id": "lesson_24_word_011",
+      "lesson": 24,
+      "source": "data/audio/moag/lesson_24.mp3",
+      "source_sha256": "4df4ed4cccde3be5057a6eeaf54073d8526cbbe92538b35f414d4969feb96d55",
+      "start": 282.177,
+      "end": 295.8887,
+      "target_start": 287.1036,
+      "target_end": 290.4301,
+      "previous_id": "lesson_24_word_010",
+      "next_id": "lesson_24_word_012",
+      "published_transcript": "നേഴ്സ്",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "നേരിൽ",
+        "context_reason": "Raw നിര്രില് and English Nēril before Nurse support നേരിൽ (in person). User-reviewed 012 is nurse; the previous duplicate was false."
+      },
+      "koyal": "വിവരം വിവരം നേരിൽ നേരിൽ നഴ്സ് നഴ്സ്"
+    },
+    {
+      "id": "lesson_24_word_017",
+      "lesson": 24,
+      "source": "data/audio/moag/lesson_24.mp3",
+      "source_sha256": "4df4ed4cccde3be5057a6eeaf54073d8526cbbe92538b35f414d4969feb96d55",
+      "start": 311.6926,
+      "end": 326.62699999999995,
+      "target_start": 317.1248,
+      "target_end": 320.6794,
+      "previous_id": "lesson_24_word_016",
+      "next_id": "lesson_24_word_018",
+      "published_transcript": "കുറഞ്ഞു",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "കുറയുക",
+        "context_reason": "English kurayuga then kuranyu in the local sequence suggests base then past. Current കുറഞ്ഞു and 018 കുറയുക appear reversed; exact timing requires pair check."
+      },
+      "koyal": "വണ്ണം വണ്ണം കുറയുക, കുറയുക കുറഞ്ഞു കുറഞ്ഞു"
+    },
+    {
+      "id": "lesson_24_word_018",
+      "lesson": 24,
+      "source": "data/audio/moag/lesson_24.mp3",
+      "source_sha256": "4df4ed4cccde3be5057a6eeaf54073d8526cbbe92538b35f414d4969feb96d55",
+      "start": 316.7248,
+      "end": 332.25039999999996,
+      "target_start": 322.5382,
+      "target_end": 326.227,
+      "previous_id": "lesson_24_word_017",
+      "next_id": "lesson_24_word_019",
+      "published_transcript": "കുറയുക",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "കുറഞ്ഞു",
+        "context_reason": "Isolated കുരണ്യു after probable കുറയുക supports past കുറഞ്ഞു, not current base കുറയുക. Inspect 017–018 together."
+      },
+      "koyal": "കുറയുക, കുറയുക കുറഞ്ഞു കുറഞ്ഞു കുറഞ്ഞത് കുറഞ്ഞത്"
+    },
+    {
+      "id": "lesson_24_word_027",
+      "lesson": 24,
+      "source": "data/audio/moag/lesson_24.mp3",
+      "source_sha256": "4df4ed4cccde3be5057a6eeaf54073d8526cbbe92538b35f414d4969feb96d55",
+      "start": 364.4531,
+      "end": 376.8784,
+      "target_start": 369.971,
+      "target_end": 374.5166,
+      "previous_id": "lesson_24_word_026",
+      "next_id": "lesson_24_word_028",
+      "published_transcript": "സ്നേഹിക്കുക",
+      "context_finding": {
+        "context_result": "boundary_review",
+        "suggested_transcript": "സ്നേഹം (+ തമ്മിൽ spillover)",
+        "context_reason": "User hears an extra tamin; isolated recognition says സ്നേഹമ് സ്നേഹമ് തമ്മെല്. English sneham ends 373.09s and tamil begins then, while this clip extends to 374.52s. Clip 028 contains only the later തമ്മിൽ. Re-cut the pair after inspecting original context."
+      },
+      "koyal": "സ്നേഹിക്കുക, സ്നേഹിക്കുക. സ്നേഹം, സ്നേഹം തമ്മിൽ തമ്മിൽ."
+    },
+    {
+      "id": "lesson_24_word_028",
+      "lesson": 24,
+      "source": "data/audio/moag/lesson_24.mp3",
+      "source_sha256": "4df4ed4cccde3be5057a6eeaf54073d8526cbbe92538b35f414d4969feb96d55",
+      "start": 369.571,
+      "end": 381.0707,
+      "target_start": 375.7708,
+      "target_end": 376.4784,
+      "previous_id": "lesson_24_word_027",
+      "next_id": "lesson_24_word_029",
+      "published_transcript": "തമ്മിൽ",
+      "context_finding": {
+        "context_result": "boundary_review",
+        "suggested_transcript": "തമ്മിൽ",
+        "context_reason": "Label matches isolated തമ്മില്, but first repetition likely spills into 027 and this 0.71-second clip contains only the later fragment. Check paired cut rather than treating label as enough."
+      },
+      "koyal": "സ്നേഹം സ്നേഹം തമ്മിൽ തമ്മിൽ വ്യത്യാസം വ്യത്യാസം."
+    },
+    {
+      "id": "lesson_24_word_035",
+      "lesson": 24,
+      "source": "data/audio/moag/lesson_24.mp3",
+      "source_sha256": "4df4ed4cccde3be5057a6eeaf54073d8526cbbe92538b35f414d4969feb96d55",
+      "start": 400.6105,
+      "end": 413.467,
+      "target_start": 404.0944,
+      "target_end": 407.606,
+      "previous_id": "lesson_24_word_034",
+      "next_id": "lesson_24_word_036",
+      "published_transcript": "ചില",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "അന്യോന്യം",
+        "context_reason": "English anniyoniyam and isolated അന്ന്യം support അന്യോന്യം, after corrected ചില and before നില നിൽക്കുക. Neighboring labels were swapped."
+      },
+      "koyal": "ചില ചില അന്യ അന്യോന്യം നിലനിൽക്കുക നിലനിൽക്കുക"
+    },
+    {
+      "id": "lesson_24_word_051",
+      "lesson": 24,
+      "source": "data/audio/moag/lesson_24.mp3",
+      "source_sha256": "4df4ed4cccde3be5057a6eeaf54073d8526cbbe92538b35f414d4969feb96d55",
+      "start": 475.24620000000004,
+      "end": 487.95739999999995,
+      "target_start": 481.0015,
+      "target_end": 485.6156,
+      "previous_id": "lesson_24_word_050",
+      "next_id": "lesson_24_word_052",
+      "published_transcript": "ഗുണം",
+      "context_finding": {
+        "context_result": "boundary_review",
+        "suggested_transcript": "ഗുണം + കുറവ്?",
+        "context_reason": "Raw first utterance ഗുണം and second കുരവ്; English gunam then kurava. Next കുറവ് clip 052 is only 0.77 seconds. Possible crossed-word pairing analogous to സ്നേഹം / തമ്മിൽ."
+      },
+      "koyal": "അപരിചിതം അപരിചിതം ഗുണം. ഗുണം, കുറവ് കുറവ്"
+    },
+    {
+      "id": "lesson_24_word_052",
+      "lesson": 24,
+      "source": "data/audio/moag/lesson_24.mp3",
+      "source_sha256": "4df4ed4cccde3be5057a6eeaf54073d8526cbbe92538b35f414d4969feb96d55",
+      "start": 480.60150000000004,
+      "end": 492.23629999999997,
+      "target_start": 486.7854,
+      "target_end": 487.5574,
+      "previous_id": "lesson_24_word_051",
+      "next_id": "lesson_24_word_053",
+      "published_transcript": "കുറവ്",
+      "context_finding": {
+        "context_result": "boundary_review",
+        "suggested_transcript": "കുറവ്",
+        "context_reason": "Isolated കുരവ്റ supports label, but prior 051 may include its first repetition. Check the pair boundaries."
+      },
+      "koyal": "ഗുണം ഗുണം കുറവ് കുറവ് ഉദാഹരണം ഉദാഹരണം"
+    },
+    {
+      "id": "lesson_25_word_024",
+      "lesson": 25,
+      "source": "data/audio/moag/lesson_25.mp3",
+      "source_sha256": "0c03cc36d68177f447d2c2cce5835f75ebf929f818e1de62d36f69239f2524b1",
+      "start": 344.43890000000005,
+      "end": 357.6576,
+      "target_start": 349.3985,
+      "target_end": 352.2734,
+      "previous_id": "lesson_25_word_023",
+      "next_id": "lesson_25_word_025",
+      "published_transcript": "കുരുമുളക്",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "മഞ്ഞൾ",
+        "context_reason": "Isolated മന്യല് മന്യല് supports turmeric, between ഇഞ്ചി and user-reviewed കുരുമുളക് (025). Existing black-pepper label is a neighbor substitution."
+      },
+      "koyal": "ഇഞ്ചി ഇഞ്ചി മഞ്ഞൾ മഞ്ഞൾ കുരുമുളക് കുരുമുളക്"
+    },
+    {
+      "id": "lesson_25_word_078",
+      "lesson": 25,
+      "source": "data/audio/moag/lesson_25.mp3",
+      "source_sha256": "0c03cc36d68177f447d2c2cce5835f75ebf929f818e1de62d36f69239f2524b1",
+      "start": 613.1728,
+      "end": 628.2398,
+      "target_start": 619.7929,
+      "target_end": 623.0638,
+      "previous_id": "lesson_25_word_077",
+      "next_id": "lesson_25_word_079",
+      "published_transcript": "സുഖിച്ച് നടക്കുക",
+      "context_finding": {
+        "context_result": "context_supported_candidate",
+        "suggested_transcript": "സുഖിക്കുക",
+        "context_reason": "Isolated സുഖികുക സുഖിചുക and next past സുഖിച്ചു suggest the base enjoy, not full സുഖിച്ച് നടക്കുക. English recognition is unusable here; audio confirmation still needed."
+      },
+      "koyal": "തൃപ്തിപ്പെടുത്തുക. തൃപ്തിപ്പെടുത്തുക. സുഖിക്കുക, സുഖിക്കുക. സുഖിച്ചു സുഖിച്ചു"
+    }
+  ],
+  "complete": true
+}

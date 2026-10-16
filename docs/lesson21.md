@@ -56,57 +56,75 @@
 <a id="lesson21-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
 
-| Malayalam | Meaning |
-|---|---|
-| ഇംഗ്ലീഷ് | English |
-| -കം (requires dative of noun) | within — |
-| പത്ത് മിനിട്ടിനകം | within ten minutes |
-| തിരിക്കുക | to turn, to turn around |
-| തിരിച്ചുവരുക | to return |
-| തിരിച്ചുവരുമായിരിക്കും | might come back |
-| പാഠം | lesson |
-| പഠിച്ചുകൊണ്ടിരുന്നപ്പോൾ | while (I) was studying |
-| -പ്പോൾ | while-- |
-| സംശയം | doubt |
-| past participle + കളയുക | might as well ‘verb’; ‘verb’ + away |
-| <!-- Source: PDF page 373; printed page 314. --> ചോദിച്ചുകളയാം | might as well ask |
-| അറിയാമായിരിക്കാം | might know |
-| past participle + തരുക | to do ‘verb’ for your or my benefit |
-| പറഞ്ഞുതരുക | to tell (me or you) |
-| പറഞ്ഞുകൊടുക്കുക | to tell (third person) |
-| ദുഃഖം | sorrow, grief |
-| വിപരീതപദം | antonym, opposite word |
-| സുഖം | happiness |
-| ആയിരിക്കണം | must be |
-| പ്രസന്നത | cheerfulness |
-| പ്രസന്നതയില്ലാത്തത് | one which is not cheerful |
-| കണ്ണ് | eye |
-| വരുകയില്ലായിരിക്കും | probably won’t be coming |
-| വരണമെന്നുണ്ടായിരിക്കണം | might be wanting to come |
-| past participle + കഴിയുക | to finish ‘verb’ |
-| പഠിച്ചു കഴിയുക | to finish studying |
-| സങ്കടം | sadness, sorrow |
-| സങ്കടമായിരിക്കും | must be, might be sad |
-| വിഷമിക്കുക | to worry, to fret |
-| വിഷമമുണ്ട് | to be worried (with a dative subject) |
-| കുളിക്കുക | to take a bath |
-| ഉടുപ്പ് | clothing |
-| പുറപ്പെടുക (past: പുറപ്പെട്ടു) | to leave, to start |
-| പുറപ്പെടുകയാണ് | going to leave, (is, am or are) leaving |
-| --ഉടൻ | as soon as — |
-| വിശപ്പ് | hunger |
-| വിശപ്പുണ്ട് | to be hungry (with a dative subject) |
-| ദാഹിക്കുക | to be thirsty |
-| ദാഹം | thirst |
-| ദാഹമുണ്ട് | to be thirsty (with a dative subject) |
-| ഊണ് | meal |
-| തിന്നുക | to eat |
-| ചെറുക്കൻ | boy |
-| ഇരുട്ടുക | to become dark |
-| <!-- Source: PDF page 374; printed page 315. --> മുഴു | full complete |
-| കഷണ്ടിയാകുക | to become bald |
-| അടങ്ങുക | to be allayed, to become calm |
-| കരയുക | to cry |
+<!-- moag-audio -->
+<div class="lesson-audio">
+<p><strong>Vocabulary audio</strong></p>
+<audio controls preload="none" aria-label="Lesson 21: Vocabulary audio" src="assets/audio/moag/sections/lesson_21_vocabulary_0.mp3"></audio>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_21_vocabulary_0.mp3" aria-pressed="true">Listen · 03:33</button></div>
+<p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
+</div>
+<!-- /moag-audio -->
+
+<!-- moag-vocabulary-words -->
+<div class="lesson-audio">
+<p><strong>Selected vocabulary recording</strong></p>
+<audio data-table-audio-player controls preload="none" aria-label="Lesson 21: select a word in the vocabulary table"></audio>
+<p class="lesson-audio-note">Use the Audio column to hear a word. Recorded variants appear beside their written entry; additional recorded forms are included in the same table. Unconfirmed recordings stay in rows marked “check match” until their word is verified. A dash means no aligned recording yet.</p>
+</div>
+<!-- /moag-vocabulary-words -->
+
+| Malayalam | Meaning | Audio |
+|---|---|---|
+| ഇംഗ്ലീഷ് | English | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_001.mp3" data-audio-label="ഇംഗ്ലീഷ്" aria-label="Play ഇംഗ്ലീഷ്" title="Play ഇംഗ്ലീഷ്" aria-pressed="false">▶</button> |
+| -കം (requires dative of noun) | within — | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| പത്ത് മിനിട്ടിനകം | within ten minutes | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_003.mp3" data-audio-label="പത്ത് മിനിട്ടിനകം" aria-label="Play പത്ത് മിനിട്ടിനകം" title="Play പത്ത് മിനിട്ടിനകം" aria-pressed="false">▶</button> |
+| തിരിക്കുക | to turn, to turn around | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_004.mp3" data-audio-label="തിരിക്കുക" aria-label="Play തിരിക്കുക" title="Play തിരിക്കുക" aria-pressed="false">▶</button> |
+| തിരിച്ചുവരുക | to return | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_005.mp3" data-audio-label="തിരിച്ചുവരുക" aria-label="Play തിരിച്ചുവരുക" title="Play തിരിച്ചുവരുക" aria-pressed="false">▶</button> |
+| തിരിച്ചുവരുമായിരിക്കും | might come back | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_006.mp3" data-audio-label="തിരിച്ചുവരുമായിരിക്കും" aria-label="Play തിരിച്ചുവരുമായിരിക്കും" title="Play തിരിച്ചുവരുമായിരിക്കും" aria-pressed="false">▶</button> |
+| പാഠം | lesson | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_007.mp3" data-audio-label="പാഠം" aria-label="Play പാഠം" title="Play പാഠം" aria-pressed="false">▶</button> |
+| പഠിച്ചുകൊണ്ടിരുന്നപ്പോൾ | while (I) was studying | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_008.mp3" data-audio-label="പഠിച്ചുകൊണ്ടിരുന്നപ്പോൾ" aria-label="Play പഠിച്ചുകൊണ്ടിരുന്നപ്പോൾ" title="Play പഠിച്ചുകൊണ്ടിരുന്നപ്പോൾ" aria-pressed="false">▶</button> |
+| -പ്പോൾ | while-- | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_009.mp3" data-audio-label="പ്പോൾ" aria-label="Play പ്പോൾ" title="Play പ്പോൾ" aria-pressed="false">▶</button> |
+| സംശയം | doubt | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_010.mp3" data-audio-label="സംശയം" aria-label="Play സംശയം" title="Play സംശയം" aria-pressed="false">▶</button> |
+| past participle + കളയുക | might as well ‘verb’; ‘verb’ + away | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_011.mp3" data-audio-label="കളയുക" aria-label="Play കളയുക" title="Play കളയുക" aria-pressed="false">▶</button> |
+| <!-- Source: PDF page 373; printed page 314. --> ചോദിച്ചുകളയാം | might as well ask | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_012.mp3" data-audio-label="ചോദിച്ചുകളയാം" aria-label="Play ചോദിച്ചുകളയാം" title="Play ചോദിച്ചുകളയാം" aria-pressed="false">▶</button> |
+| അറിയാമായിരിക്കാം | might know | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_014.mp3" data-audio-label="അറിയാമായിരിക്കാം" aria-label="Play അറിയാമായിരിക്കാം" title="Play അറിയാമായിരിക്കാം" aria-pressed="false">▶</button> |
+| past participle + തരുക | to do ‘verb’ for your or my benefit | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_015.mp3" data-audio-label="തരുക" aria-label="Play തരുക" title="Play തരുക" aria-pressed="false">▶</button> |
+| പറഞ്ഞുതരുക | to tell (me or you) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_016.mp3" data-audio-label="പറഞ്ഞുതരുക" aria-label="Play പറഞ്ഞുതരുക" title="Play പറഞ്ഞുതരുക" aria-pressed="false">▶</button> |
+| പറഞ്ഞുകൊടുക്കുക | to tell (third person) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_017.mp3" data-audio-label="പറഞ്ഞുകൊടുക്കുക" aria-label="Play പറഞ്ഞുകൊടുക്കുക" title="Play പറഞ്ഞുകൊടുക്കുക" aria-pressed="false">▶</button> |
+| ദുഃഖം | sorrow, grief | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_018.mp3" data-audio-label="ദുഃഖം" aria-label="Play ദുഃഖം" title="Play ദുഃഖം" aria-pressed="false">▶</button> |
+| വിപരീതപദം | antonym, opposite word | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_019.mp3" data-audio-label="വിപരീതപദം" aria-label="Play വിപരീതപദം" title="Play വിപരീതപദം" aria-pressed="false">▶</button> |
+| സുഖം | happiness | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_020.mp3" data-audio-label="സുഖം" aria-label="Play സുഖം" title="Play സുഖം" aria-pressed="false">▶</button> |
+| ആയിരിക്കണം | must be | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_021.mp3" data-audio-label="ആയിരിക്കണം" aria-label="Play ആയിരിക്കണം" title="Play ആയിരിക്കണം" aria-pressed="false">▶</button> |
+| പ്രസന്നത | cheerfulness | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_022.mp3" data-audio-label="പ്രസന്നത" aria-label="Play പ്രസന്നത" title="Play പ്രസന്നത" aria-pressed="false">▶</button> |
+| പ്രസന്നതയില്ലാത്തത് | one which is not cheerful | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_023.mp3" data-audio-label="പ്രസന്നതയില്ലാത്തത്" aria-label="Play പ്രസന്നതയില്ലാത്തത്" title="Play പ്രസന്നതയില്ലാത്തത്" aria-pressed="false">▶</button> |
+| കണ്ണ് | eye | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_024.mp3" data-audio-label="കണ്ണ്" aria-label="Play കണ്ണ്" title="Play കണ്ണ്" aria-pressed="false">▶</button> |
+| വരുകയില്ലായിരിക്കും | probably won’t be coming | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_025.mp3" data-audio-label="വരുകയില്ലായിരിക്കും" aria-label="Play വരുകയില്ലായിരിക്കും" title="Play വരുകയില്ലായിരിക്കും" aria-pressed="false">▶</button> |
+| വരണമെന്നുണ്ടായിരിക്കണം | might be wanting to come | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_026.mp3" data-audio-label="വരണമെന്നുണ്ടായിരിക്കണം" aria-label="Play വരണമെന്നുണ്ടായിരിക്കണം" title="Play വരണമെന്നുണ്ടായിരിക്കണം" aria-pressed="false">▶</button> |
+| past participle + കഴിയുക | to finish ‘verb’ | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_027.mp3" data-audio-label="കഴിയുക" aria-label="Play കഴിയുക" title="Play കഴിയുക" aria-pressed="false">▶</button> |
+| പഠിച്ചു കഴിയുക | to finish studying | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_028.mp3" data-audio-label="പഠിച്ചു കഴിയുക" aria-label="Play പഠിച്ചു കഴിയുക" title="Play പഠിച്ചു കഴിയുക" aria-pressed="false">▶</button> |
+| സങ്കടം | sadness, sorrow | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_029.mp3" data-audio-label="സങ്കടം" aria-label="Play സങ്കടം" title="Play സങ്കടം" aria-pressed="false">▶</button> |
+| സങ്കടമായിരിക്കും | must be, might be sad | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_030.mp3" data-audio-label="സങ്കടമായിരിക്കും" aria-label="Play സങ്കടമായിരിക്കും" title="Play സങ്കടമായിരിക്കും" aria-pressed="false">▶</button> |
+| വിഷമിക്കുക | to worry, to fret | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_031.mp3" data-audio-label="വിഷമിക്കുക" aria-label="Play വിഷമിക്കുക" title="Play വിഷമിക്കുക" aria-pressed="false">▶</button> |
+| വിഷമമുണ്ട് | to be worried (with a dative subject) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_032.mp3" data-audio-label="വിഷമമുണ്ട്" aria-label="Play വിഷമമുണ്ട്" title="Play വിഷമമുണ്ട്" aria-pressed="false">▶</button> |
+| കുളിക്കുക | to take a bath | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_033.mp3" data-audio-label="കുളിക്കുക" aria-label="Play കുളിക്കുക" title="Play കുളിക്കുക" aria-pressed="false">▶</button> |
+| ഉടുപ്പ് | clothing | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_034.mp3" data-audio-label="ഉടുപ്പ്" aria-label="Play ഉടുപ്പ്" title="Play ഉടുപ്പ്" aria-pressed="false">▶</button> |
+| പുറപ്പെടുക (past: പുറപ്പെട്ടു) | to leave, to start | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_035.mp3" data-audio-label="പുറപ്പെടുക" aria-label="Play പുറപ്പെടുക" title="Play പുറപ്പെടുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_036.mp3" data-audio-label="പുറപ്പെട്ടു" aria-label="Play പുറപ്പെട്ടു" title="Play പുറപ്പെട്ടു" aria-pressed="false">▶ <span lang="ml">പുറപ്പെട്ടു</span></button> |
+| പുറപ്പെടുകയാണ് | going to leave, (is, am or are) leaving | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_037.mp3" data-audio-label="പുറപ്പെടുകയാണ്" aria-label="Play പുറപ്പെടുകയാണ്" title="Play പുറപ്പെടുകയാണ്" aria-pressed="false">▶</button> |
+| --ഉടൻ | as soon as — | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_038.mp3" data-audio-label="ഉടൻ" aria-label="Play ഉടൻ" title="Play ഉടൻ" aria-pressed="false">▶</button> |
+| വിശപ്പ് | hunger | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_039.mp3" data-audio-label="വിശപ്പ്" aria-label="Play വിശപ്പ്" title="Play വിശപ്പ്" aria-pressed="false">▶</button> |
+| വിശപ്പുണ്ട് | to be hungry (with a dative subject) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_040.mp3" data-audio-label="വിശപ്പുണ്ട്" aria-label="Play വിശപ്പുണ്ട്" title="Play വിശപ്പുണ്ട്" aria-pressed="false">▶</button> |
+| ദാഹിക്കുക | to be thirsty | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_041.mp3" data-audio-label="ദാഹിക്കുക" aria-label="Play ദാഹിക്കുക" title="Play ദാഹിക്കുക" aria-pressed="false">▶</button> |
+| ദാഹം | thirst | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_042.mp3" data-audio-label="ദാഹം" aria-label="Play ദാഹം" title="Play ദാഹം" aria-pressed="false">▶</button> |
+| ദാഹമുണ്ട് | to be thirsty (with a dative subject) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_043.mp3" data-audio-label="ദാഹമുണ്ട്" aria-label="Play ദാഹമുണ്ട്" title="Play ദാഹമുണ്ട്" aria-pressed="false">▶</button> |
+| ഊണ് | meal | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_044.mp3" data-audio-label="ഊണ്" aria-label="Play ഊണ്" title="Play ഊണ്" aria-pressed="false">▶</button> |
+| തിന്നുക | to eat | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| ചെറുക്കൻ | boy | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| ഇരുട്ടുക | to become dark | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| <!-- Source: PDF page 374; printed page 315. --> മുഴു | full complete | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| കഷണ്ടിയാകുക | to become bald | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| അടങ്ങുക | to be allayed, to become calm | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| കരയുക | to cry | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| <!-- recorded-audio-row --> അകം | inside; within | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_002.mp3" data-audio-label="അകം" aria-label="Play അകം" title="Play അകം" aria-pressed="false">▶</button> |
 
 <a id="lesson21-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice

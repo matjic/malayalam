@@ -1,0 +1,342 @@
+{
+  "lesson_05_word_005": {
+    "context_result": "conflicting_evidence",
+    "suggested_transcript": "പഠിക്കുന്നു",
+    "context_reason": "User confirmed വായിക്കുന്നു, but isolated recognition says padikkunnu and this follows ചെയ്യുന്നു, before the apparent വായിക്കുന്നു clip 006. Revisit the 005–006 pair; do not silently override the listening review."
+  },
+  "lesson_10_word_014": {
+    "context_result": "ending_review",
+    "suggested_transcript": "കിഴക്ക് / കിഴക്കേ",
+    "context_reason": "The textbook orders കിഴക്ക് then കിഴക്കേ; published 014/015 reverse them. Raw recognition does not distinguish the final vowel. User earlier questioned that exact ending. Review both together."
+  },
+  "lesson_13_word_033": {
+    "context_result": "conflicting_evidence",
+    "suggested_transcript": "ഒട്ടിച്ചു / കാപ്പി കുടിക്കുക",
+    "context_reason": "User confirmed ഒട്ടിച്ചു, but raw recognition contains കാപ്പി and കുടികുക and English recognition says I will drink coffee. Adjacent 034/035 also concern coffee; requires original-track context."
+  },
+  "lesson_14_word_013": {
+    "context_result": "spelling_review",
+    "suggested_transcript": "നിര്യാണം",
+    "context_reason": "Confirmed label നിരിയാണം resembles the spoken synonym നിര്യാണം (death). Neighbor നിലവാരം → this clip → മരണം and English niriyanam support the word family; standard spelling should be checked, not treated as a new lexeme."
+  },
+  "lesson_17_word_015": {
+    "context_result": "use_entered_correction",
+    "suggested_transcript": "ചെയ്യുക",
+    "context_reason": "Export decision is confirmed but correction field contains ചെയ്യുക, replacing proposed gibberish ജേയുക്ക്. English chaiyuka after ചെയ്യ് supports the entered correction; import must not discard it."
+  },
+  "lesson_23_word_005": {
+    "context_result": "spelling_review",
+    "suggested_transcript": "ആയിരുന്നു",
+    "context_reason": "Confirmed ആയ്രണു is phonetic ASR spelling. Printed pattern ഉണ്ടായിരുന്നെങ്കിൽ … ആയിരുന്നു and English ayirnu support ആയിരുന്നു."
+  },
+  "lesson_15_word_017": {
+    "context_result": "context_supported_with_note",
+    "suggested_transcript": "സ്ത്രീ",
+    "context_reason": "Printed vocabulary and English nilkuga ninnu stri santosham place സ്ത്രീ after നിന്നു and before സന്തോഷം. Supports user correction, while retaining their explicit confidence note."
+  },
+  "lesson_20_word_022": {
+    "context_result": "contradicted_correction",
+    "suggested_transcript": "ആകാശം",
+    "context_reason": "This is 182.60–185.19s, inside aakasham 181.60–185.60s. Isolated recognition ആകാസം and next ആകാശത്തോളം support sky, not ആഘോഷം. Earlier pronunciation advice missed this context."
+  },
+  "lesson_20_word_041": {
+    "context_result": "probable_announcement",
+    "suggested_transcript": "Part Two",
+    "context_reason": "Single 1.49-second utterance between active ആഘോഷിച്ചു and the Part Two vocabulary restart. English recognition Part 2 and isolated പാര്ടു agree with user pattoo. Strong candidate for an English section announcement, not പാട്ട്; inspect original audio before excluding."
+  },
+  "lesson_24_word_027": {
+    "context_result": "boundary_review",
+    "suggested_transcript": "സ്നേഹം (+ തമ്മിൽ spillover)",
+    "context_reason": "User hears an extra tamin; isolated recognition says സ്നേഹമ് സ്നേഹമ് തമ്മെല്. English sneham ends 373.09s and tamil begins then, while this clip extends to 374.52s. Clip 028 contains only the later തമ്മിൽ. Re-cut the pair after inspecting original context."
+  },
+  "lesson_18_word_021": {
+    "context_result": "boundary_review",
+    "suggested_transcript": "നാല് ഫർലാംഗാണ് ഉള്ളത്",
+    "context_reason": "User correction fits the dialogue and English/transcription evidence. But adjacent clip 020 already has fragments നാല്യ ഫര്ലാങ്കാണ് / നാല്യ, and 021 raw begins ഫര്ലങ്കാണ് ഉള്ളത്. Inspect the 020–021 partition to ensure neither is a truncated phrase."
+  },
+  "lesson_11_word_035": {
+    "context_result": "reported_no_speech",
+    "suggested_transcript": "",
+    "context_reason": "User reports silence/nothing/click. Most are subsecond orphan segments; recognition is weak or looping. Inspect original-track context before treating them as vocabulary or removing generated audio. Source recordings must be retained."
+  },
+  "lesson_15_word_020": {
+    "context_result": "reported_no_speech",
+    "suggested_transcript": "",
+    "context_reason": "User reports silence/nothing/click. Most are subsecond orphan segments; recognition is weak or looping. Inspect original-track context before treating them as vocabulary or removing generated audio. Source recordings must be retained."
+  },
+  "lesson_16_word_043": {
+    "context_result": "reported_no_speech",
+    "suggested_transcript": "",
+    "context_reason": "User reports silence/nothing/click. Most are subsecond orphan segments; recognition is weak or looping. Inspect original-track context before treating them as vocabulary or removing generated audio. Source recordings must be retained."
+  },
+  "lesson_20_word_070": {
+    "context_result": "reported_no_speech",
+    "suggested_transcript": "",
+    "context_reason": "User reports silence/nothing/click. Most are subsecond orphan segments; recognition is weak or looping. Inspect original-track context before treating them as vocabulary or removing generated audio. Source recordings must be retained."
+  },
+  "lesson_21_word_013": {
+    "context_result": "reported_no_speech",
+    "suggested_transcript": "",
+    "context_reason": "User reports silence/nothing/click. Most are subsecond orphan segments; recognition is weak or looping. Inspect original-track context before treating them as vocabulary or removing generated audio. Source recordings must be retained."
+  },
+  "lesson_22_word_059": {
+    "context_result": "reported_no_speech",
+    "suggested_transcript": "",
+    "context_reason": "User reports silence/nothing/click. Most are subsecond orphan segments; recognition is weak or looping. Inspect original-track context before treating them as vocabulary or removing generated audio. Source recordings must be retained."
+  },
+  "lesson_09_word_004": {
+    "context_result": "unresolved_flag",
+    "suggested_transcript": "ചേച്ചിയുടേത്?",
+    "context_reason": "Printed sequence ആരുടേത് → ചേച്ചിയുടേത് → നന്നായിരിക്കുന്നു suggests ചേച്ചിയുടേത്, but isolated recheck hallucinates ചേരും വേഗം and English loops. Context alone cannot certify a label."
+  },
+  "lesson_10_word_028": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "അറ്റം",
+    "context_reason": "Raw recognition അറ്റം and English Atam match; this follows the north/northern terms. Clip 027 currently occupies അറ്റം and also needs checking for വടക്കേ."
+  },
+  "lesson_10_word_035": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "ട്രെയിൻ",
+    "context_reason": "Raw ട്രെയൿൻ and English Train agree, between യാത്ര and ദിവസം. Printed vocabulary includes ട്രെയിൻ. Current യാത്ര ചെയ്യുക is unsupported."
+  },
+  "lesson_11_word_005": {
+    "context_result": "boundary_review",
+    "suggested_transcript": "എന്തിനാണ് അയച്ചത്? (extent uncertain)",
+    "context_reason": "Raw fragments എന്ദിന്ന് / എന്ദിന്ന് ആയച്ച്ച്ച് occur after standalone എന്തിന്; printed next phrase എന്തിനാണ് അയച്ചത്. Following 006 contains only അയച്ച്ച് and Sent. Check whether the phrase was split across clips or repeats paired incorrectly."
+  },
+  "lesson_11_word_012": {
+    "context_result": "boundary_review",
+    "suggested_transcript": "അത്ര",
+    "context_reason": "Raw അത്രാ and English Atra support അത്ര, not വേറെ. Previous clip 011 is one utterance അത്ര; 012 has two fragments. Check the repeat grouping rather than merely relabel both."
+  },
+  "lesson_14_word_010": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "രംഗം",
+    "context_reason": "Both raw repetitions and isolated recognition say രങ്ങമ്; English rangam follows youth terms. Printed രംഗം is scene; ചരമം is a mismatch."
+  },
+  "lesson_15_word_005": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "അയക്കുക",
+    "context_reason": "Raw ആയക്യുഗ്ങ and English ayak yuga after the name and before യാത്ര അയക്കുക support standalone അയക്കുക, not കയറുക."
+  },
+  "lesson_15_word_034": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "തോന്നുക",
+    "context_reason": "Raw തോന്നുക് and English Thonnuka agree; next clip 035 is തോന്നി. Current വിട്ടുപോകുക is inconsistent."
+  },
+  "lesson_16_word_029": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "എഴുതുക",
+    "context_reason": "Raw എരുദുക and English Eruduga after തർജ്ജമ ചെയ്തു and before എഴുതി വരും support എഴുതുക. Actual വിൽക്കുക / വിറ്റു occur at 036/037."
+  },
+  "lesson_16_word_030": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "എഴുതി",
+    "context_reason": "Raw എരുദു and English Erudi between എഴുതുക and എഴുതി വരും support the past/conjunctive form എഴുതി. Current ഏ--ഉള്ളു is mismatched."
+  },
+  "lesson_19_word_022": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "ഇല്ലാത്തത് കൊണ്ട്",
+    "context_reason": "Isolated ഇല്ലാതതാദു… plus English because of the absence after ഓരോ കഥകൾ and before വിശ്വാസം support printed --ില്ലാത്തത് കൊണ്ട്. Exact prefix/extent still requires listening."
+  },
+  "lesson_21_word_002": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "അകം / -കം",
+    "context_reason": "User akam matches isolated ആകമ് and English Akam / agam, before പത്ത് മിനിട്ടിനകം. Printed suffix -കം means within. Clip 001 overlaps the English item and first akam, so inspect the 001–002 boundary too."
+  },
+  "lesson_21_word_016": {
+    "context_result": "boundary_review",
+    "suggested_transcript": "പറഞ്ഞുതരുക?",
+    "context_reason": "Isolated പരന്യുട്ടായുളാ and English Paranyu taruga suggest another repetition/fragment of പറഞ്ഞുതരുക, not a confidently independent തരുക. Previous clip 015 already contains the phrase; check their grouping."
+  },
+  "lesson_21_word_019": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "വിപരീതപദം",
+    "context_reason": "Isolated വിപരീയുത്പദം and English Vipareetapadam between ദുഃഖം and സുഖം support the current proposed word; user flag remains until listening confirms."
+  },
+  "lesson_24_word_035": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "അന്യോന്യം",
+    "context_reason": "English anniyoniyam and isolated അന്ന്യം support അന്യോന്യം, after corrected ചില and before നില നിൽക്കുക. Neighboring labels were swapped."
+  },
+  "lesson_04_word_027": {
+    "context_result": "boundary_review",
+    "suggested_transcript": "അവന്?",
+    "context_reason": "Raw first utterance അവന് and English Avinu conflict with പണം; second raw is പണം. Inspect 027–029 as one block for crossed word/repetition boundaries."
+  },
+  "lesson_04_word_028": {
+    "context_result": "boundary_review",
+    "suggested_transcript": "പണം / ഒന്ന് (extent uncertain)",
+    "context_reason": "Long clip spans English Avinu / Panam / Unnu and next 029 is a very short orphan. Inspect 027–029 grouping; the span may include more than one entry."
+  },
+  "lesson_04_word_029": {
+    "context_result": "boundary_review",
+    "suggested_transcript": "ഒന്ന്?",
+    "context_reason": "English Unnu overlaps this 1.05-second orphan, not the current അവന്. Inspect 027–029 together."
+  },
+  "lesson_05_word_006": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "വായിക്കുന്നു",
+    "context_reason": "English baikinnu after Padikinnu and before cinema, plus isolated വയക്ക… support വായിക്കുന്നു. Current ഇരിക്കുന്നു conflicts with the sequence and corrected 003 already supplies ഇരിക്കുന്നു."
+  },
+  "lesson_05_word_010": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "ഇല്ല",
+    "context_reason": "Printed sequence ഇല്ല then ഇല്ലേ and corrected 011 is ഇല്ലേ. English No overlaps both and is insufficient to distinguish ending; revisit 010/011 rather than retaining duplicate question forms."
+  },
+  "lesson_10_word_015": {
+    "context_result": "ending_review",
+    "suggested_transcript": "കിഴക്കേ / കിഴക്ക്",
+    "context_reason": "See 014. Textbook noun then adjective order suggests 015 കിഴക്കേ, but recognition lacks reliable final-vowel evidence. Requires pair listening."
+  },
+  "lesson_10_word_027": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "വടക്കേ",
+    "context_reason": "English vadakke follows vadakku before Atam. Current അറ്റം duplicates the clearer next clip; inspect 026–028 together."
+  },
+  "lesson_11_word_006": {
+    "context_result": "boundary_review",
+    "suggested_transcript": "അയച്ചത്?",
+    "context_reason": "Raw ആയച്ച്ച് and English Sent suggest the sent component of എന്തിനാണ് അയച്ചത്. Prior 005 may contain overlapping phrase material; inspect both clips before applying a shorter label."
+  },
+  "lesson_15_word_021": {
+    "context_result": "boundary_review",
+    "suggested_transcript": "വളരെ സന്തോഷമായി?",
+    "context_reason": "Current label ആയി is only a suffix-sized word, but clip contains two ~1.55-second utterances and follows വളരെ സന്തോഷം. Could be a fuller construction; raw ആയി and broad very happy are insufficient for exact transcription."
+  },
+  "lesson_15_word_023": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "കണ്ടതിൽ വളരെ സന്തോഷമായി",
+    "context_reason": "Raw കണ്ടദുല് വളര്സന്ദോഷം ആയീ suggests final ആയി missing from current label, after the shorter user-reviewed 022 phrase. Check optional initial എനിക്ക് and final ആയി against audio."
+  },
+  "lesson_16_word_010": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "അവിടുത്തെ",
+    "context_reason": "Isolated അവുഡുത്തെ and English Avidutthe favor അവിടുത്തെ, whereas label says ഇവിടുത്തെ. Next 011 may be ഇവിടുത്തെ; check pair before swapping."
+  },
+  "lesson_16_word_011": {
+    "context_result": "ending_review",
+    "suggested_transcript": "ഇവിടുത്തെ / അവിടുത്തെ",
+    "context_reason": "Neighbor 010 evidence favors അവിടുത്തെ, but raw 011 also says അവുഡുത്തെ. Printed list includes both; vowel distinction remains unverified."
+  },
+  "lesson_16_word_021": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "ഏതും",
+    "context_reason": "Raw ഏദും, isolated എദുമ് and English Edhum agree. Comes after standalone ഏത് and before കോൺ; printed ഏത്--- ഉം explains this form. Current എന്നും is contradicted."
+  },
+  "lesson_19_word_028": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "മടി",
+    "context_reason": "Raw മഡീ and English Madi after faith phrase and before മടിയൻ support മടി, not മാറ്റി. Actual മാറ്റി likely 040."
+  },
+  "lesson_19_word_032": {
+    "context_result": "boundary_review",
+    "suggested_transcript": "ജോലി ചെയ്യാൻ",
+    "context_reason": "Raw ജോലു ചെയ്യാന് and isolated ജോലു ചെയ്യാണ് before longer 033 support ജോലി ചെയ്യാൻ, not ചെയ്യാമേ. User identifies ചെയ്യാമേ at 049."
+  },
+  "lesson_19_word_033": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "ജോലി ചെയ്യാൻ മടിയാണ്",
+    "context_reason": "Isolated ജോളു ചെയ്യാന് മഡിയാന് and progression from 031 മടിയാണ്, 032 ജോലി ചെയ്യാൻ support full printed phrase. Current label omits its start."
+  },
+  "lesson_19_word_040": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "മാറ്റി",
+    "context_reason": "English Maatti and isolated മാറ്റു after മാറ്റുക support past മാറ്റി. Current മടി belongs earlier at 028."
+  },
+  "lesson_19_word_045": {
+    "context_result": "boundary_review",
+    "suggested_transcript": "സ്ഥലം മാറ്റേണ്ടതായി",
+    "context_reason": "English sequence explicitly gives stalam matteyendathai before വരും (046) and full sentence (047). Current സ്ഥലം മാറ്റുക truncates/changes morphology; verify full extent."
+  },
+  "lesson_19_word_047": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "എനിക്ക് നിങ്ങളെ സ്ഥലം മാറ്റേണ്ടതായി വരും",
+    "context_reason": "English full sentence and 10.12-second clip following individual components support the full transfer threat. It is not the plea സ്ഥലം മാറ്റരുതേ, which user heard at 048."
+  },
+  "lesson_20_word_024": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "വളരുക",
+    "context_reason": "English valaruga at this interval, after corrected sky / ആകാശത്തോളം and before വളർന്നു, supports grow rather than ആകാശം."
+  },
+  "lesson_20_word_043": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "ആഘോഷിക്കപ്പെടുക",
+    "context_reason": "Isolated ആഖോ സിക്ക… പേഡുഗാ suggests passive infinitive. Printed list gives passive base then past; user identifies past at 044. Current past label likely wrong."
+  },
+  "lesson_20_word_077": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "ഹിന്ദു",
+    "context_reason": "Raw ഹിന്ദു and English Hindu support singular; 078 English Hindus supports plural. Current labels reverse them."
+  },
+  "lesson_20_word_078": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "ഹിന്ദുക്കൾ",
+    "context_reason": "English Hindus follows singular Hindu. Check 077–078 as pair; current singular is likely swapped."
+  },
+  "lesson_20_word_079": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "മുസ്ലീം",
+    "context_reason": "Raw മുസ്ലീം and English Muslim favor singular; 080 English Muslims favors plural. Current assignments reverse them."
+  },
+  "lesson_20_word_080": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "മുസ്ലീങ്ങൾ",
+    "context_reason": "English Muslims follows singular Muslim; current singular label is likely swapped with 079."
+  },
+  "lesson_21_word_001": {
+    "context_result": "boundary_review",
+    "suggested_transcript": "ഇംഗ്ലീഷ് + അകം?",
+    "context_reason": "English at 141.46–141.84s and Akam at 141.84–145.78s overlap the grouped 141.33–144.17s clip. Following user akam at 002 supports a mispaired start, not confident standalone കം."
+  },
+  "lesson_21_word_021": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "ആയിരിക്കണം",
+    "context_reason": "English Aayarikyanam and isolated ആയുക്ക്കുന്നും between സുഖം and corrected പ്രസന്നത (022) support must be. Current പ്രസന്നത is a neighbor substitution."
+  },
+  "lesson_22_word_007": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "ഞാൻ എപ്പോൾ വന്നാലും",
+    "context_reason": "English NYAN EPPOL VANNALUM and raw യാണ് എപ്പോള് വന്നാരും favor printed whenever I come. Current കിടക്കുക is wrong; user supplies that base at 004."
+  },
+  "lesson_24_word_011": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "നേരിൽ",
+    "context_reason": "Raw നിര്രില് and English Nēril before Nurse support നേരിൽ (in person). User-reviewed 012 is nurse; the previous duplicate was false."
+  },
+  "lesson_24_word_017": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "കുറയുക",
+    "context_reason": "English kurayuga then kuranyu in the local sequence suggests base then past. Current കുറഞ്ഞു and 018 കുറയുക appear reversed; exact timing requires pair check."
+  },
+  "lesson_24_word_018": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "കുറഞ്ഞു",
+    "context_reason": "Isolated കുരണ്യു after probable കുറയുക supports past കുറഞ്ഞു, not current base കുറയുക. Inspect 017–018 together."
+  },
+  "lesson_24_word_028": {
+    "context_result": "boundary_review",
+    "suggested_transcript": "തമ്മിൽ",
+    "context_reason": "Label matches isolated തമ്മില്, but first repetition likely spills into 027 and this 0.71-second clip contains only the later fragment. Check paired cut rather than treating label as enough."
+  },
+  "lesson_24_word_051": {
+    "context_result": "boundary_review",
+    "suggested_transcript": "ഗുണം + കുറവ്?",
+    "context_reason": "Raw first utterance ഗുണം and second കുരവ്; English gunam then kurava. Next കുറവ് clip 052 is only 0.77 seconds. Possible crossed-word pairing analogous to സ്നേഹം / തമ്മിൽ."
+  },
+  "lesson_24_word_052": {
+    "context_result": "boundary_review",
+    "suggested_transcript": "കുറവ്",
+    "context_reason": "Isolated കുരവ്റ supports label, but prior 051 may include its first repetition. Check the pair boundaries."
+  },
+  "lesson_25_word_024": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "മഞ്ഞൾ",
+    "context_reason": "Isolated മന്യല് മന്യല് supports turmeric, between ഇഞ്ചി and user-reviewed കുരുമുളക് (025). Existing black-pepper label is a neighbor substitution."
+  },
+  "lesson_25_word_078": {
+    "context_result": "context_supported_candidate",
+    "suggested_transcript": "സുഖിക്കുക",
+    "context_reason": "Isolated സുഖികുക സുഖിചുക and next past സുഖിച്ചു suggest the base enjoy, not full സുഖിച്ച് നടക്കുക. English recognition is unusable here; audio confirmation still needed."
+  }
+}

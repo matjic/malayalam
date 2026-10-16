@@ -10,37 +10,51 @@
 <div class="lesson-audio">
 <p><strong>Vocabulary audio</strong></p>
 <audio controls preload="none" aria-label="Lesson 17: Vocabulary audio" src="assets/audio/moag/sections/lesson_17_vocabulary_0.mp3"></audio>
-<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_17_vocabulary_0.mp3" aria-pressed="true">Listen · 03:27</button></div>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_17_vocabulary_0.mp3" aria-pressed="true">Listen · 02:34</button></div>
 <p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
 </div>
 <!-- /moag-audio -->
 
-| Malayalam | Meaning |
-|---|---|
-| ഒന്നാം | first |
-| മോൾ | colloquial (short form) of മകൾ |
-| ലീല | a Hindu female name |
-| കല്യാണി | a Hindu female name (note that അമ്മ is usually added to many female names as in കല്യാണിയമ്മ) |
-| ചെങ്ങന്നൂർ | a town in the southern part of Kerala |
-| മുഴുവൻ | full, complete |
-| വർഷം | year |
-| പഠിച്ചിരുന്നു | studied, used to study |
-| ആവാം | colloquial form of ആകാം |
-| ഓർക്കുക (past tense: ഓർത്തു) | to remember |
-| ചെയ്യ് | familiar version of command form of ചെയ്യുക |
-| ആട്ടെ | colloquial form of ആകട്ടെ |
-| ഒരുമിച്ച് | together (another form of ഒന്നിച്ച്) |
-| ഇന്നലെ | yesterday |
-| വിചാരിക്കുക (past tense: വിചാരിച്ചു) | to think |
-| കൂട്ടുകാർ | plural of കൂട്ടുകാരൻ, കൂട്ടുകാരി |
-| നാളെത്തന്നെ | tomorrow itself |
-| ക്ഷണിക്കുക (past tense: ക്ഷണിച്ചു) | to invite |
-| എഴുത്ത് | letter |
-| അര | half |
-| പത്തരമണിക്ക് | at ten-thirty |
-| കാണുന്നുണ്ട് (കാണുന്നു + ഉണ്ട്) | am seeing |
-| കൂട്ടികൊണ്ട് വരുക | to bring along |
-| വലിയ ഇഷ്ടമാണ് | (colloquial) to like very much |
+<!-- moag-vocabulary-words -->
+<div class="lesson-audio">
+<p><strong>Selected vocabulary recording</strong></p>
+<audio data-table-audio-player controls preload="none" aria-label="Lesson 17: select a word in the vocabulary table"></audio>
+<p class="lesson-audio-note">Use the Audio column to hear a word. Recorded variants appear beside their written entry; additional recorded forms are included in the same table. Unconfirmed recordings stay in rows marked “check match” until their word is verified. A dash means no aligned recording yet.</p>
+</div>
+<!-- /moag-vocabulary-words -->
+
+| Malayalam | Meaning | Audio |
+|---|---|---|
+| ഒന്നാം | first | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_001.mp3" data-audio-label="ഒന്നാം" aria-label="Play ഒന്നാം" title="Play ഒന്നാം" aria-pressed="false">▶</button> |
+| മോൾ | colloquial (short form) of മകൾ | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_002.mp3" data-audio-label="മോൾ" aria-label="Play മോൾ" title="Play മോൾ" aria-pressed="false">▶</button> |
+| ലീല | a Hindu female name | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_004.mp3" data-audio-label="ലീല" aria-label="Play ലീല" title="Play ലീല" aria-pressed="false">▶</button> |
+| കല്യാണി | a Hindu female name (note that അമ്മ is usually added to many female names as in കല്യാണിയമ്മ) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_005.mp3" data-audio-label="കല്യാണി" aria-label="Play കല്യാണി" title="Play കല്യാണി" aria-pressed="false">▶</button> |
+| ചെങ്ങന്നൂർ | a town in the southern part of Kerala | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_007.mp3" data-audio-label="ചെങ്ങന്നൂർ" aria-label="Play ചെങ്ങന്നൂർ" title="Play ചെങ്ങന്നൂർ" aria-pressed="false">▶</button> |
+| മുഴുവൻ | full, complete | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_008.mp3" data-audio-label="മുഴുവൻ" aria-label="Play മുഴുവൻ" title="Play മുഴുവൻ" aria-pressed="false">▶</button> |
+| വർഷം | year | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_009.mp3" data-audio-label="വർഷം" aria-label="Play വർഷം" title="Play വർഷം" aria-pressed="false">▶</button> |
+| പഠിച്ചിരുന്നു | studied, used to study | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_010.mp3" data-audio-label="പഠിച്ചിരുന്നു" aria-label="Play പഠിച്ചിരുന്നു" title="Play പഠിച്ചിരുന്നു" aria-pressed="false">▶</button> |
+| ആവാം | colloquial form of ആകാം | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_011.mp3" data-audio-label="ആവാം" aria-label="Play ആവാം" title="Play ആവാം" aria-pressed="false">▶</button> |
+| ഓർക്കുക (past tense: ഓർത്തു) | to remember | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_012.mp3" data-audio-label="ഓർക്കുക" aria-label="Play ഓർക്കുക" title="Play ഓർക്കുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_013.mp3" data-audio-label="ഓർത്തു" aria-label="Play ഓർത്തു" title="Play ഓർത്തു" aria-pressed="false">▶ <span lang="ml">ഓർത്തു</span></button> |
+| ചെയ്യ് | familiar version of command form of ചെയ്യുക | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_014.mp3" data-audio-label="ചെയ്യ്" aria-label="Play ചെയ്യ്" title="Play ചെയ്യ്" aria-pressed="false">▶</button> |
+| ആട്ടെ | colloquial form of ആകട്ടെ | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_016.mp3" data-audio-label="ആട്ടെ" aria-label="Play ആട്ടെ" title="Play ആട്ടെ" aria-pressed="false">▶</button> |
+| ഒരുമിച്ച് | together (another form of ഒന്നിച്ച്) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_017.mp3" data-audio-label="ഒരുമിച്ച്" aria-label="Play ഒരുമിച്ച്" title="Play ഒരുമിച്ച്" aria-pressed="false">▶</button> |
+| ഇന്നലെ | yesterday | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_018.mp3" data-audio-label="ഇന്നലെ" aria-label="Play ഇന്നലെ" title="Play ഇന്നലെ" aria-pressed="false">▶</button> |
+| വിചാരിക്കുക (past tense: വിചാരിച്ചു) | to think | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_019.mp3" data-audio-label="വിചാരിക്കുക" aria-label="Play വിചാരിക്കുക" title="Play വിചാരിക്കുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_020.mp3" data-audio-label="വിചാരിച്ചു" aria-label="Play വിചാരിച്ചു" title="Play വിചാരിച്ചു" aria-pressed="false">▶ <span lang="ml">വിചാരിച്ചു</span></button> |
+| കൂട്ടുകാർ | plural of കൂട്ടുകാരൻ, കൂട്ടുകാരി | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_021.mp3" data-audio-label="കൂട്ടുകാർ" aria-label="Play കൂട്ടുകാർ" title="Play കൂട്ടുകാർ" aria-pressed="false">▶</button> |
+| നാളെത്തന്നെ | tomorrow itself | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_024.mp3" data-audio-label="നാളെത്തന്നെ" aria-label="Play നാളെത്തന്നെ" title="Play നാളെത്തന്നെ" aria-pressed="false">▶</button> |
+| ക്ഷണിക്കുക (past tense: ക്ഷണിച്ചു) | to invite | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_025.mp3" data-audio-label="ക്ഷണിക്കുക" aria-label="Play ക്ഷണിക്കുക" title="Play ക്ഷണിക്കുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_026.mp3" data-audio-label="ക്ഷണിച്ചു" aria-label="Play ക്ഷണിച്ചു" title="Play ക്ഷണിച്ചു" aria-pressed="false">▶ <span lang="ml">ക്ഷണിച്ചു</span></button> |
+| എഴുത്ത് | letter | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_027.mp3" data-audio-label="എഴുത്ത്" aria-label="Play എഴുത്ത്" title="Play എഴുത്ത്" aria-pressed="false">▶</button> |
+| അര | half | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_028.mp3" data-audio-label="അര" aria-label="Play അര" title="Play അര" aria-pressed="false">▶</button> |
+| പത്തരമണിക്ക് | at ten-thirty | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_030.mp3" data-audio-label="പത്തരമണിക്ക്" aria-label="Play പത്തരമണിക്ക്" title="Play പത്തരമണിക്ക്" aria-pressed="false">▶</button> |
+| കാണുന്നുണ്ട് (കാണുന്നു + ഉണ്ട്) | am seeing | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_031.mp3" data-audio-label="കാണുന്നുണ്ട്" aria-label="Play കാണുന്നുണ്ട്" title="Play കാണുന്നുണ്ട്" aria-pressed="false">▶</button> |
+| കൂട്ടികൊണ്ട് വരുക | to bring along | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_032.mp3" data-audio-label="കൂട്ടികൊണ്ട് വരുക" aria-label="Play കൂട്ടികൊണ്ട് വരുക" title="Play കൂട്ടികൊണ്ട് വരുക" aria-pressed="false">▶</button> |
+| വലിയ ഇഷ്ടമാണ് | (colloquial) to like very much | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| <!-- recorded-audio-row --> മകൾ | daughter | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_003.mp3" data-audio-label="മകൾ" aria-label="Play മകൾ" title="Play മകൾ" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> കല്യാണിയമ്മ | Kalyani Amma (personal name) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_006.mp3" data-audio-label="കല്യാണിയമ്മ" aria-label="Play കല്യാണിയമ്മ" title="Play കല്യാണിയമ്മ" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> ചെയ്യുക | to do | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_015.mp3" data-audio-label="ചെയ്യുക" aria-label="Play ചെയ്യുക" title="Play ചെയ്യുക" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> കൂട്ടുകാരൻ | male friend; companion | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_022.mp3" data-audio-label="കൂട്ടുകാരൻ" aria-label="Play കൂട്ടുകാരൻ" title="Play കൂട്ടുകാരൻ" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> കൂട്ടുകാരി | female friend; companion | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_023.mp3" data-audio-label="കൂട്ടുകാരി" aria-label="Play കൂട്ടുകാരി" title="Play കൂട്ടുകാരി" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> പത്തര | half past ten | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_029.mp3" data-audio-label="പത്തര" aria-label="Play പത്തര" title="Play പത്തര" aria-pressed="false">▶</button> |
 
 <!-- Source: PDF page 298; printed page 241. -->
 

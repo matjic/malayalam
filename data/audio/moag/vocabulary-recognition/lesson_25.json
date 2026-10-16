@@ -1,0 +1,4600 @@
+{
+  "pipeline_version": 2,
+  "lesson": 25,
+  "source": "data/audio/moag/lesson_25.mp3",
+  "model": "Whisper large-v3 (32 encoder and 32 decoder layers), MLX",
+  "language": "ml",
+  "range_start": 250.16,
+  "range_end": 631.36,
+  "pause_threshold_db": -34,
+  "pause_seconds": 0.5,
+  "textbook_vocabulary": [
+    {
+      "malayalam": "ജന്മദേശം",
+      "meaning": "native land"
+    },
+    {
+      "malayalam": "നദി",
+      "meaning": "river"
+    },
+    {
+      "malayalam": "അരുവി",
+      "meaning": "stream"
+    },
+    {
+      "malayalam": "ഗ്രാമം",
+      "meaning": "village"
+    },
+    {
+      "malayalam": "തെങ്ങിൻതോപ്പ്",
+      "meaning": "coconut grove"
+    },
+    {
+      "malayalam": "വനം",
+      "meaning": "forest"
+    },
+    {
+      "malayalam": "നിറയുക (past: നിറഞ്ഞു)",
+      "meaning": "to be filled (intr.)"
+    },
+    {
+      "malayalam": "-- നിറഞ്ഞ",
+      "meaning": "which is full of --"
+    },
+    {
+      "malayalam": "ആരുടേയും",
+      "meaning": "anyone's"
+    },
+    {
+      "malayalam": "ഹൃദയം",
+      "meaning": "heart"
+    },
+    {
+      "malayalam": "കവരുക (past: കവർന്നു)",
+      "meaning": "to steal"
+    },
+    {
+      "malayalam": "ഭൂപ്രകൃതി",
+      "meaning": "geographic layout"
+    },
+    {
+      "malayalam": "മലനാട്",
+      "meaning": "hilly country"
+    },
+    {
+      "malayalam": "ഇടനാട്",
+      "meaning": "middle region"
+    },
+    {
+      "malayalam": "സമതലം",
+      "meaning": "plain, coastal region"
+    },
+    {
+      "malayalam": "ഭാഗിക്കുക",
+      "meaning": "to divide"
+    },
+    {
+      "malayalam": "റബ്ബർ",
+      "meaning": "rubber"
+    },
+    {
+      "malayalam": "തേയില",
+      "meaning": "tea, tea leaves"
+    },
+    {
+      "malayalam": "ഏലം",
+      "meaning": "cardamom"
+    },
+    {
+      "malayalam": "എന്നിവ",
+      "meaning": "et cetera"
+    },
+    {
+      "malayalam": "ഇഞ്ചി",
+      "meaning": "ginger"
+    },
+    {
+      "malayalam": "മഞ്ഞൾ",
+      "meaning": "turmeric"
+    },
+    {
+      "malayalam": "കുരുമുളക്",
+      "meaning": "black pepper"
+    },
+    {
+      "malayalam": "മരച്ചീനി",
+      "meaning": "tapioca"
+    },
+    {
+      "malayalam": "മുതലായവ",
+      "meaning": "et cetera"
+    },
+    {
+      "malayalam": "തെങ്ങ്",
+      "meaning": "coconut tree"
+    },
+    {
+      "malayalam": "തേങ്ങ",
+      "meaning": "coconut"
+    },
+    {
+      "malayalam": "നെല്ല്",
+      "meaning": "rice (paddy)"
+    },
+    {
+      "malayalam": "വിളവ്",
+      "meaning": "crop"
+    },
+    {
+      "malayalam": "ധാന്യം",
+      "meaning": "richness"
+    },
+    {
+      "malayalam": "പാശ്ചാത്യർ",
+      "meaning": "westerners"
+    },
+    {
+      "malayalam": "ആകർഷിക്കുക",
+      "meaning": "to attract"
+    },
+    {
+      "malayalam": "ജീവിതം",
+      "meaning": "life"
+    },
+    {
+      "malayalam": "ജീവിതരീതി",
+      "meaning": "lifestyle"
+    },
+    {
+      "malayalam": "ലഘു",
+      "meaning": "light (adj)"
+    },
+    {
+      "malayalam": "ലളിതം",
+      "meaning": "simple"
+    },
+    {
+      "malayalam": "പുരുഷൻ",
+      "meaning": "man"
+    },
+    {
+      "malayalam": "മുണ്ട്",
+      "meaning": "a white saronglike lower garment"
+    },
+    {
+      "malayalam": "ജുബ്ബ",
+      "meaning": "a kind of shirt"
+    },
+    {
+      "malayalam": "ധരിക്കുക",
+      "meaning": "to wear"
+    },
+    {
+      "malayalam": "ആഭരണം",
+      "meaning": "ornament"
+    },
+    {
+      "malayalam": "തൊഴിൽ",
+      "meaning": "occupation"
+    },
+    {
+      "malayalam": "കയർ, കയറ്",
+      "meaning": "coir"
+    },
+    {
+      "malayalam": "കയറുപിരിക്കൽ",
+      "meaning": "twisting of coconut fiber into coir"
+    },
+    {
+      "malayalam": "മീൻപിടുത്തം",
+      "meaning": "fishing, catching fish"
+    },
+    {
+      "malayalam": "വ്യവസായം",
+      "meaning": "industry"
+    },
+    {
+      "malayalam": "നവീന",
+      "meaning": "new"
+    },
+    {
+      "malayalam": "വിദ്യാഭ്യാസം",
+      "meaning": "education"
+    },
+    {
+      "malayalam": "സ്ഥാനം",
+      "meaning": "place"
+    },
+    {
+      "malayalam": "താൽപര്യം",
+      "meaning": "interest"
+    },
+    {
+      "malayalam": "കേരളീയ",
+      "meaning": "belonging to Kerala"
+    },
+    {
+      "malayalam": "കഥകളി",
+      "meaning": "a spectacular lyric dance drama of Kerala based on Hindu mythology"
+    },
+    {
+      "malayalam": "ഓട്ടംതുള്ളൽ",
+      "meaning": "another lyric dance drama of Kerala"
+    },
+    {
+      "malayalam": "മോഹിനിയാട്ടം",
+      "meaning": "a Kerala dance form similar to Bharatnatyam"
+    },
+    {
+      "malayalam": "പ്രസിദ്ധി",
+      "meaning": "fame"
+    },
+    {
+      "malayalam": "സംഗീതം",
+      "meaning": "music"
+    },
+    {
+      "malayalam": "ഉയരുക (past: ഉയർന്നു)",
+      "meaning": "to rise"
+    },
+    {
+      "malayalam": "ഉയർന്ന",
+      "meaning": "exalted, high"
+    },
+    {
+      "malayalam": "കരകൗശലസാധനം",
+      "meaning": "handicraft"
+    },
+    {
+      "malayalam": "മതിപ്പ്",
+      "meaning": "reputation, esteem"
+    },
+    {
+      "malayalam": "ചുരുക്കം",
+      "meaning": "few, scarce"
+    },
+    {
+      "malayalam": "ഒരുമ",
+      "meaning": "unity, fellowship"
+    },
+    {
+      "malayalam": "ജീവിക്കുക",
+      "meaning": "to live"
+    },
+    {
+      "malayalam": "ജീവിച്ചുവരുക",
+      "meaning": "to be living"
+    },
+    {
+      "malayalam": "യഹൂദൻ",
+      "meaning": "Jew"
+    },
+    {
+      "malayalam": "സംസ്കാരം",
+      "meaning": "culture"
+    },
+    {
+      "malayalam": "സ്വാഗതം (noun)",
+      "meaning": "welcome"
+    },
+    {
+      "malayalam": "സന്ദർശിക്കുക",
+      "meaning": "to visit"
+    },
+    {
+      "malayalam": "കൈ കൂപ്പുക",
+      "meaning": "to fold hands"
+    },
+    {
+      "malayalam": "കൈകൂപ്പി സ്വാഗതം ചെയ്യുക",
+      "meaning": "to welcome with folded hands (traditional Indian way of welcome)"
+    },
+    {
+      "malayalam": "തൃപ്തി",
+      "meaning": "satisfaction"
+    },
+    {
+      "malayalam": "തൃപ്തിപ്പെടുത്തുക",
+      "meaning": "to satisfy"
+    },
+    {
+      "malayalam": "സുഖിക്കുക (past: സുഖിച്ചു)",
+      "meaning": "to enjoy"
+    },
+    {
+      "malayalam": "സുഖിച്ച് നടക്കുക",
+      "meaning": "to take it easy, to loaf"
+    },
+    {
+      "malayalam": "അല്ലാതെ",
+      "meaning": "instead"
+    }
+  ],
+  "groups": [
+    {
+      "utterances": [
+        {
+          "compact_start": 0,
+          "compact_end": 1.118625,
+          "start": 252.4276,
+          "end": 253.5462
+        },
+        {
+          "compact_start": 1.5186250000000001,
+          "compact_end": 2.1550000000000002,
+          "start": 255.5043,
+          "end": 256.1407
+        },
+        {
+          "compact_start": 2.555,
+          "compact_end": 3.1890625000000004,
+          "start": 257.178,
+          "end": 257.812
+        },
+        {
+          "compact_start": 3.5890625000000003,
+          "compact_end": 4.3016875,
+          "start": 259.0429,
+          "end": 259.7555
+        },
+        {
+          "compact_start": 4.7016875,
+          "compact_end": 5.4269375,
+          "start": 260.9147,
+          "end": 261.6399
+        },
+        {
+          "compact_start": 5.8269375,
+          "compact_end": 6.645375,
+          "start": 262.959,
+          "end": 263.7774
+        },
+        {
+          "compact_start": 7.045375,
+          "compact_end": 7.831125,
+          "start": 264.8873,
+          "end": 265.673
+        },
+        {
+          "compact_start": 8.231125,
+          "compact_end": 9.2899375,
+          "start": 267.1563,
+          "end": 268.2151
+        },
+        {
+          "compact_start": 9.689937500000001,
+          "compact_end": 10.764437500000001,
+          "start": 269.6001,
+          "end": 270.6746
+        },
+        {
+          "compact_start": 11.164437500000002,
+          "compact_end": 11.781500000000001,
+          "start": 272.0661,
+          "end": 272.6831
+        },
+        {
+          "compact_start": 12.181500000000002,
+          "compact_end": 12.830437500000002,
+          "start": 273.8934,
+          "end": 274.5423
+        },
+        {
+          "compact_start": 13.2304375,
+          "compact_end": 14.088437500000001,
+          "start": 275.8378,
+          "end": 276.6958
+        }
+      ],
+      "text": " ജന്മദേഷമ് നദീ നദീ അരുവീ അരുവീ ഗ്രാമ് ഗ്രാമ് തെങ്യൿന് തോപ്  ਤੇਂਗੀਨ ਤੋਪਰ ਵਨਮ ਵਨਮ ਨੀਰਯੁਗਾ",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 9.16,
+          "text": " ജന്മദേഷമ് നദീ നദീ അരുവീ അരുവീ ഗ്രാമ് ഗ്രാമ് തെങ്യൿന് തോപ് ",
+          "tokens": [
+            50365,
+            220,
+            46503,
+            250,
+            46503,
+            101,
+            156,
+            113,
+            235,
+            46503,
+            106,
+            46503,
+            99,
+            156,
+            113,
+            229,
+            46503,
+            115,
+            46503,
+            106,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            101,
+            46503,
+            99,
+            156,
+            113,
+            222,
+            220,
+            46503,
+            101,
+            46503,
+            99,
+            156,
+            113,
+            222,
+            220,
+            46503,
+            227,
+            46503,
+            108,
+            156,
+            113,
+            223,
+            46503,
+            113,
+            156,
+            113,
+            222,
+            220,
+            46503,
+            227,
+            46503,
+            108,
+            156,
+            113,
+            223,
+            46503,
+            113,
+            156,
+            113,
+            222,
+            220,
+            46503,
+            245,
+            156,
+            113,
+            235,
+            46503,
+            108,
+            46503,
+            122,
+            46503,
+            106,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            245,
+            156,
+            113,
+            235,
+            46503,
+            108,
+            46503,
+            122,
+            46503,
+            106,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            97,
+            156,
+            113,
+            228,
+            46503,
+            247,
+            156,
+            113,
+            235,
+            46503,
+            107,
+            156,
+            113,
+            123,
+            46503,
+            101,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            97,
+            156,
+            113,
+            233,
+            46503,
+            103,
+            156,
+            113,
+            235,
+            220
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.12717650657476381,
+          "compression_ratio": 1.7613636363636365,
+          "no_speech_prob": 0.0480988584458828,
+          "words": [
+            {
+              "word": " ജന്മദേഷമ്",
+              "start": 0.0,
+              "end": 1.06,
+              "probability": 0.79931640625
+            },
+            {
+              "word": " നദീ",
+              "start": 1.06,
+              "end": 1.84,
+              "probability": 0.82177734375
+            },
+            {
+              "word": " നദീ",
+              "start": 1.84,
+              "end": 2.94,
+              "probability": 0.8095703125
+            },
+            {
+              "word": " അരുവീ",
+              "start": 2.94,
+              "end": 4.08,
+              "probability": 0.89990234375
+            },
+            {
+              "word": " അരുവീ",
+              "start": 4.08,
+              "end": 5.2,
+              "probability": 0.96484375
+            },
+            {
+              "word": " ഗ്രാമ്",
+              "start": 5.2,
+              "end": 6.42,
+              "probability": 0.9091796875
+            },
+            {
+              "word": " ഗ്രാമ്",
+              "start": 6.42,
+              "end": 7.6,
+              "probability": 0.96484375
+            },
+            {
+              "word": " തെങ്യൿന്",
+              "start": 7.6,
+              "end": 8.7,
+              "probability": 0.80859375
+            },
+            {
+              "word": " തോപ്",
+              "start": 8.7,
+              "end": 9.14,
+              "probability": 0.90869140625
+            },
+            {
+              "word": " ",
+              "start": 9.14,
+              "end": 9.16,
+              "probability": 0.95263671875
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "seek": 916,
+          "start": 9.16,
+          "end": 10.52,
+          "text": " ਤੇਂਗੀਨ ਤੋਪਰ",
+          "tokens": [
+            50365,
+            220,
+            44770,
+            97,
+            156,
+            102,
+            229,
+            44770,
+            224,
+            44770,
+            245,
+            156,
+            102,
+            222,
+            44770,
+            101,
+            220,
+            44770,
+            97,
+            156,
+            102,
+            233,
+            44770,
+            103,
+            44770,
+            108,
+            50439
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.3434388967660757,
+          "compression_ratio": 1.1587301587301588,
+          "no_speech_prob": 0.6886575818061829,
+          "words": [
+            {
+              "word": " ਤੇਂਗੀਨ",
+              "start": 9.16,
+              "end": 10.14,
+              "probability": 0.701171875
+            },
+            {
+              "word": " ਤੋਪਰ",
+              "start": 10.14,
+              "end": 10.52,
+              "probability": 0.81591796875
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "seek": 916,
+          "start": 10.52,
+          "end": 11.54,
+          "text": " ਵਨਮ",
+          "tokens": [
+            50439,
+            220,
+            44770,
+            113,
+            44770,
+            101,
+            44770,
+            106,
+            50491
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.3434388967660757,
+          "compression_ratio": 1.1587301587301588,
+          "no_speech_prob": 0.6886575818061829,
+          "words": [
+            {
+              "word": " ਵਨਮ",
+              "start": 10.52,
+              "end": 11.54,
+              "probability": 0.74267578125
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "seek": 916,
+          "start": 11.54,
+          "end": 12.64,
+          "text": " ਵਨਮ",
+          "tokens": [
+            50491,
+            220,
+            44770,
+            113,
+            44770,
+            101,
+            44770,
+            106,
+            50544
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.3434388967660757,
+          "compression_ratio": 1.1587301587301588,
+          "no_speech_prob": 0.6886575818061829,
+          "words": [
+            {
+              "word": " ਵਨਮ",
+              "start": 11.54,
+              "end": 12.64,
+              "probability": 0.908203125
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "seek": 916,
+          "start": 12.64,
+          "end": 13.82,
+          "text": " ਨੀਰਯੁਗਾ",
+          "tokens": [
+            50544,
+            220,
+            44770,
+            101,
+            156,
+            102,
+            222,
+            44770,
+            108,
+            44770,
+            107,
+            156,
+            102,
+            223,
+            44770,
+            245,
+            44770,
+            122,
+            50603
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.3434388967660757,
+          "compression_ratio": 1.1587301587301588,
+          "no_speech_prob": 0.6886575818061829,
+          "words": [
+            {
+              "word": " ਨੀਰਯੁਗਾ",
+              "start": 12.64,
+              "end": 13.82,
+              "probability": 0.82666015625
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "utterances": [
+        {
+          "compact_start": 0,
+          "compact_end": 0.8760625,
+          "start": 277.829,
+          "end": 278.705
+        },
+        {
+          "compact_start": 1.2760625,
+          "compact_end": 2.0326875,
+          "start": 280.1927,
+          "end": 280.9494
+        },
+        {
+          "compact_start": 2.4326875,
+          "compact_end": 3.2636875,
+          "start": 282.1576,
+          "end": 282.9886
+        },
+        {
+          "compact_start": 3.6636875,
+          "compact_end": 4.597125,
+          "start": 284.361,
+          "end": 285.2945
+        },
+        {
+          "compact_start": 4.9971250000000005,
+          "compact_end": 5.9113750000000005,
+          "start": 286.3873,
+          "end": 287.3016
+        },
+        {
+          "compact_start": 6.311375,
+          "compact_end": 7.2165625,
+          "start": 288.5897,
+          "end": 289.4949
+        },
+        {
+          "compact_start": 7.616562500000001,
+          "compact_end": 8.518812500000001,
+          "start": 290.8707,
+          "end": 291.7729
+        },
+        {
+          "compact_start": 8.918812500000001,
+          "compact_end": 9.720125000000001,
+          "start": 293.019,
+          "end": 293.8202
+        },
+        {
+          "compact_start": 10.120125000000002,
+          "compact_end": 10.922937500000002,
+          "start": 294.7195,
+          "end": 295.5222
+        },
+        {
+          "compact_start": 11.322937500000002,
+          "compact_end": 12.278312500000002,
+          "start": 296.5674,
+          "end": 297.5227
+        },
+        {
+          "compact_start": 12.678312500000002,
+          "compact_end": 13.618062500000002,
+          "start": 298.4818,
+          "end": 299.4215
+        },
+        {
+          "compact_start": 14.018062500000003,
+          "compact_end": 14.865125000000003,
+          "start": 300.2756,
+          "end": 301.1226
+        }
+      ],
+      "text": " നിരയുക നിരണ്ഞു നിരണ്ഞു നിരണ്ഞ്ഞൾ നിരണ്ഞൾ ആരുടേയും ആരുടേയും",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 15.24,
+          "text": " നിരയുക നിരണ്ഞു നിരണ്ഞു നിരണ്ഞ്ഞൾ നിരണ്ഞൾ ആരുടേയും ആരുടേയും",
+          "tokens": [
+            50365,
+            220,
+            46503,
+            101,
+            46503,
+            123,
+            46503,
+            108,
+            46503,
+            107,
+            156,
+            113,
+            223,
+            46503,
+            243,
+            220,
+            46503,
+            101,
+            46503,
+            123,
+            46503,
+            108,
+            46503,
+            96,
+            156,
+            113,
+            235,
+            46503,
+            252,
+            156,
+            113,
+            223,
+            220,
+            46503,
+            101,
+            46503,
+            123,
+            46503,
+            108,
+            46503,
+            96,
+            156,
+            113,
+            235,
+            46503,
+            252,
+            156,
+            113,
+            223,
+            220,
+            46503,
+            101,
+            46503,
+            123,
+            46503,
+            108,
+            46503,
+            96,
+            156,
+            113,
+            235,
+            46503,
+            252,
+            156,
+            113,
+            235,
+            46503,
+            252,
+            156,
+            113,
+            122,
+            220,
+            46503,
+            101,
+            46503,
+            123,
+            46503,
+            108,
+            46503,
+            96,
+            156,
+            113,
+            235,
+            46503,
+            252,
+            156,
+            113,
+            122,
+            220,
+            46503,
+            228,
+            46503,
+            108,
+            156,
+            113,
+            223,
+            46503,
+            253,
+            156,
+            113,
+            229,
+            46503,
+            107,
+            156,
+            113,
+            223,
+            46503,
+            224,
+            220,
+            46503,
+            228,
+            46503,
+            108,
+            156,
+            113,
+            223,
+            46503,
+            253,
+            156,
+            113,
+            229,
+            46503,
+            107,
+            156,
+            113,
+            223,
+            46503,
+            224
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.11734338509019955,
+          "compression_ratio": 2.4923076923076923,
+          "no_speech_prob": 0.006751473993062973,
+          "words": [
+            {
+              "word": " നിരയുക",
+              "start": 0.0,
+              "end": 0.46,
+              "probability": 0.68798828125
+            },
+            {
+              "word": " നിരണ്ഞു",
+              "start": 0.46,
+              "end": 1.78,
+              "probability": 0.798828125
+            },
+            {
+              "word": " നിരണ്ഞു",
+              "start": 1.78,
+              "end": 3.02,
+              "probability": 0.90380859375
+            },
+            {
+              "word": " നിരണ്ഞ്ഞൾ",
+              "start": 3.02,
+              "end": 4.2,
+              "probability": 0.88134765625
+            },
+            {
+              "word": " നിരണ്ഞൾ",
+              "start": 4.2,
+              "end": 5.54,
+              "probability": 0.91552734375
+            },
+            {
+              "word": " ആരുടേയും",
+              "start": 5.54,
+              "end": 7.08,
+              "probability": 0.86669921875
+            },
+            {
+              "word": " ആരുടേയും",
+              "start": 7.08,
+              "end": 15.24,
+              "probability": 0.9541015625
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "seek": 1524,
+          "start": 15.22,
+          "end": 15.22,
+          "text": "",
+          "tokens": [],
+          "temperature": 0,
+          "avg_logprob": -0.1658022680947947,
+          "compression_ratio": 7.285714285714286,
+          "no_speech_prob": 0.9268057942390442,
+          "words": []
+        }
+      ]
+    },
+    {
+      "utterances": [
+        {
+          "compact_start": 0,
+          "compact_end": 0.86125,
+          "start": 302.1434,
+          "end": 303.0046
+        },
+        {
+          "compact_start": 1.26125,
+          "compact_end": 2.4611875000000003,
+          "start": 304.2844,
+          "end": 305.4843
+        },
+        {
+          "compact_start": 2.8611875,
+          "compact_end": 3.859375,
+          "start": 306.3879,
+          "end": 307.3861
+        },
+        {
+          "compact_start": 4.259375,
+          "compact_end": 5.180562500000001,
+          "start": 308.8922,
+          "end": 309.8133
+        },
+        {
+          "compact_start": 5.580562500000001,
+          "compact_end": 6.489812500000001,
+          "start": 311.111,
+          "end": 312.0202
+        },
+        {
+          "compact_start": 6.8898125000000014,
+          "compact_end": 7.882062500000002,
+          "start": 313.3864,
+          "end": 314.3786
+        },
+        {
+          "compact_start": 8.282062500000002,
+          "compact_end": 9.232375000000003,
+          "start": 315.6288,
+          "end": 316.5791
+        },
+        {
+          "compact_start": 9.632375000000001,
+          "compact_end": 10.601375,
+          "start": 318.0052,
+          "end": 318.9742
+        },
+        {
+          "compact_start": 11.001375000000001,
+          "compact_end": 11.908000000000001,
+          "start": 320.6077,
+          "end": 321.5143
+        },
+        {
+          "compact_start": 12.308000000000002,
+          "compact_end": 13.400375000000002,
+          "start": 323.2054,
+          "end": 324.2978
+        },
+        {
+          "compact_start": 13.800375000000003,
+          "compact_end": 14.905312500000003,
+          "start": 325.6376,
+          "end": 326.7425
+        },
+        {
+          "compact_start": 15.305312500000003,
+          "compact_end": 16.084250000000004,
+          "start": 327.8293,
+          "end": 328.6082
+        }
+      ],
+      "text": " കവര്ണു പൂപ്രകൃദ്ദ് പൂപ്രകൃദ് മലനാഡ് മലനാഡ് ഇഡനാഡ് ഇഡനാഡ് സമ",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 16.46,
+          "text": " കവര്ണു പൂപ്രകൃദ്ദ് പൂപ്രകൃദ് മലനാഡ് മലനാഡ് ഇഡനാഡ് ഇഡനാഡ് സമ",
+          "tokens": [
+            50365,
+            220,
+            46503,
+            243,
+            46503,
+            113,
+            46503,
+            108,
+            156,
+            113,
+            235,
+            46503,
+            96,
+            156,
+            113,
+            223,
+            220,
+            46503,
+            103,
+            156,
+            113,
+            224,
+            46503,
+            103,
+            156,
+            113,
+            235,
+            46503,
+            108,
+            46503,
+            243,
+            156,
+            113,
+            225,
+            46503,
+            99,
+            156,
+            113,
+            235,
+            46503,
+            99,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            103,
+            156,
+            113,
+            224,
+            46503,
+            103,
+            156,
+            113,
+            235,
+            46503,
+            108,
+            46503,
+            243,
+            156,
+            113,
+            225,
+            46503,
+            99,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            106,
+            46503,
+            110,
+            46503,
+            101,
+            46503,
+            122,
+            46503,
+            94,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            106,
+            46503,
+            110,
+            46503,
+            101,
+            46503,
+            122,
+            46503,
+            94,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            229,
+            46503,
+            94,
+            46503,
+            101,
+            46503,
+            122,
+            46503,
+            94,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            229,
+            46503,
+            94,
+            46503,
+            101,
+            46503,
+            122,
+            46503,
+            94,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            116,
+            46503,
+            106
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.10736221490904342,
+          "compression_ratio": 2.08974358974359,
+          "no_speech_prob": 0.07707663625478745,
+          "words": [
+            {
+              "word": " കവര്ണു",
+              "start": 0.0,
+              "end": 0.58,
+              "probability": 0.80908203125
+            },
+            {
+              "word": " പൂപ്രകൃദ്ദ്",
+              "start": 0.58,
+              "end": 2.14,
+              "probability": 0.81640625
+            },
+            {
+              "word": " പൂപ്രകൃദ്",
+              "start": 2.14,
+              "end": 3.62,
+              "probability": 0.93115234375
+            },
+            {
+              "word": " മലനാഡ്",
+              "start": 3.62,
+              "end": 4.96,
+              "probability": 0.90087890625
+            },
+            {
+              "word": " മലനാഡ്",
+              "start": 4.96,
+              "end": 6.28,
+              "probability": 0.91015625
+            },
+            {
+              "word": " ഇഡനാഡ്",
+              "start": 6.28,
+              "end": 7.66,
+              "probability": 0.92041015625
+            },
+            {
+              "word": " ഇഡനാഡ്",
+              "start": 7.66,
+              "end": 9.04,
+              "probability": 0.97265625
+            },
+            {
+              "word": " സമ",
+              "start": 9.04,
+              "end": 16.46,
+              "probability": 0.92431640625
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "seek": 1646,
+          "start": 16.44,
+          "end": 16.44,
+          "text": "",
+          "tokens": [],
+          "temperature": 0,
+          "avg_logprob": -0.16587690604749575,
+          "compression_ratio": 7.285714285714286,
+          "no_speech_prob": 0.9277406930923462,
+          "words": []
+        }
+      ]
+    },
+    {
+      "utterances": [
+        {
+          "compact_start": 0,
+          "compact_end": 0.7541875,
+          "start": 329.6599,
+          "end": 330.4141
+        },
+        {
+          "compact_start": 1.1541875,
+          "compact_end": 1.9816875,
+          "start": 331.7018,
+          "end": 332.5293
+        },
+        {
+          "compact_start": 2.3816875,
+          "compact_end": 3.289625,
+          "start": 333.822,
+          "end": 334.73
+        },
+        {
+          "compact_start": 3.689625,
+          "compact_end": 4.4423125,
+          "start": 336.183,
+          "end": 336.9357
+        },
+        {
+          "compact_start": 4.8423125,
+          "compact_end": 5.603875,
+          "start": 338.3813,
+          "end": 339.1429
+        },
+        {
+          "compact_start": 6.003875000000001,
+          "compact_end": 6.772812500000001,
+          "start": 340.7237,
+          "end": 341.4927
+        },
+        {
+          "compact_start": 7.172812500000001,
+          "compact_end": 8.004750000000001,
+          "start": 342.7979,
+          "end": 343.6299
+        },
+        {
+          "compact_start": 8.40475,
+          "compact_end": 9.1890625,
+          "start": 344.8389,
+          "end": 345.6232
+        },
+        {
+          "compact_start": 9.5890625,
+          "compact_end": 10.358937500000001,
+          "start": 346.9997,
+          "end": 347.7696
+        },
+        {
+          "compact_start": 10.7589375,
+          "compact_end": 11.5495,
+          "start": 349.3985,
+          "end": 350.1891
+        },
+        {
+          "compact_start": 11.9495,
+          "compact_end": 12.70625,
+          "start": 351.5166,
+          "end": 352.2734
+        },
+        {
+          "compact_start": 13.106250000000001,
+          "compact_end": 14.100625,
+          "start": 354.007,
+          "end": 355.0014
+        }
+      ],
+      "text": " രബ്ബര് തൈല്യു തൈല്യു ഏല്യു ഏല്യു എന്നിവൾ എന്നിവൾ ഇംജി ഇംജി � ਮੰਨਿਲ ਕুਰুਮੁਲਗ",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 10.86,
+          "text": " രബ്ബര് തൈല്യു തൈല്യു ഏല്യു ഏല്യു എന്നിവൾ എന്നിവൾ ഇംജി ഇംജി �",
+          "tokens": [
+            50365,
+            220,
+            46503,
+            108,
+            46503,
+            105,
+            156,
+            113,
+            235,
+            46503,
+            105,
+            46503,
+            108,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            97,
+            156,
+            113,
+            230,
+            46503,
+            110,
+            156,
+            113,
+            235,
+            46503,
+            107,
+            156,
+            113,
+            223,
+            220,
+            46503,
+            97,
+            156,
+            113,
+            230,
+            46503,
+            110,
+            156,
+            113,
+            235,
+            46503,
+            107,
+            156,
+            113,
+            223,
+            220,
+            46503,
+            237,
+            46503,
+            110,
+            156,
+            113,
+            235,
+            46503,
+            107,
+            156,
+            113,
+            223,
+            220,
+            46503,
+            237,
+            46503,
+            110,
+            156,
+            113,
+            235,
+            46503,
+            107,
+            156,
+            113,
+            223,
+            220,
+            46503,
+            236,
+            46503,
+            101,
+            156,
+            113,
+            235,
+            46503,
+            101,
+            46503,
+            123,
+            46503,
+            113,
+            156,
+            113,
+            122,
+            220,
+            46503,
+            236,
+            46503,
+            101,
+            156,
+            113,
+            235,
+            46503,
+            101,
+            46503,
+            123,
+            46503,
+            113,
+            156,
+            113,
+            122,
+            220,
+            46503,
+            229,
+            46503,
+            224,
+            46503,
+            250,
+            46503,
+            123,
+            220,
+            46503,
+            229,
+            46503,
+            224,
+            46503,
+            250,
+            46503,
+            123,
+            220,
+            46503
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.18585749189983042,
+          "compression_ratio": 2.050632911392405,
+          "no_speech_prob": 0.07498334348201752,
+          "words": [
+            {
+              "word": " രബ്ബര്",
+              "start": 0.0,
+              "end": 0.58,
+              "probability": 0.69677734375
+            },
+            {
+              "word": " തൈല്യു",
+              "start": 0.58,
+              "end": 1.9,
+              "probability": 0.69384765625
+            },
+            {
+              "word": " തൈല്യു",
+              "start": 1.9,
+              "end": 3.18,
+              "probability": 0.8974609375
+            },
+            {
+              "word": " ഏല്യു",
+              "start": 3.18,
+              "end": 4.38,
+              "probability": 0.8486328125
+            },
+            {
+              "word": " ഏല്യു",
+              "start": 4.38,
+              "end": 5.48,
+              "probability": 0.9150390625
+            },
+            {
+              "word": " എന്നിവൾ",
+              "start": 5.48,
+              "end": 6.54,
+              "probability": 0.8310546875
+            },
+            {
+              "word": " എന്നിവൾ",
+              "start": 6.54,
+              "end": 7.72,
+              "probability": 0.96435546875
+            },
+            {
+              "word": " ഇംജി",
+              "start": 7.72,
+              "end": 8.9,
+              "probability": 0.7431640625
+            },
+            {
+              "word": " ഇംജി",
+              "start": 8.9,
+              "end": 10.14,
+              "probability": 0.923828125
+            },
+            {
+              "word": " �",
+              "start": 10.14,
+              "end": 10.86,
+              "probability": 0.97509765625
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "seek": 1086,
+          "start": 10.86,
+          "end": 13.68,
+          "text": " ਮੰਨਿਲ ਕুਰুਮੁਲਗ",
+          "tokens": [
+            50365,
+            220,
+            44770,
+            106,
+            156,
+            18095,
+            44770,
+            101,
+            44770,
+            123,
+            44770,
+            110,
+            220,
+            44770,
+            243,
+            156,
+            25787,
+            44770,
+            108,
+            156,
+            25787,
+            44770,
+            106,
+            156,
+            102,
+            223,
+            44770,
+            110,
+            44770,
+            245,
+            50512
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.4080876111984253,
+          "compression_ratio": 0.8888888888888888,
+          "no_speech_prob": 0.42652428150177,
+          "words": [
+            {
+              "word": " ਮੰਨਿਲ",
+              "start": 10.86,
+              "end": 11.26,
+              "probability": 0.6259765625
+            },
+            {
+              "word": " ਕুਰুਮੁਲਗ",
+              "start": 11.26,
+              "end": 13.68,
+              "probability": 0.8251953125
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "utterances": [
+        {
+          "compact_start": 0,
+          "compact_end": 0.879875,
+          "start": 356.3778,
+          "end": 357.2576
+        },
+        {
+          "compact_start": 1.279875,
+          "compact_end": 2.29775,
+          "start": 358.7339,
+          "end": 359.7518
+        },
+        {
+          "compact_start": 2.69775,
+          "compact_end": 3.6662500000000002,
+          "start": 361.1688,
+          "end": 362.1374
+        },
+        {
+          "compact_start": 4.06625,
+          "compact_end": 5.0016875,
+          "start": 363.5302,
+          "end": 364.4656
+        },
+        {
+          "compact_start": 5.4016875,
+          "compact_end": 6.434875,
+          "start": 365.9604,
+          "end": 366.9936
+        },
+        {
+          "compact_start": 6.834875,
+          "compact_end": 7.593875000000001,
+          "start": 368.3595,
+          "end": 369.1184
+        },
+        {
+          "compact_start": 7.993875,
+          "compact_end": 9.3180625,
+          "start": 370.0261,
+          "end": 371.3503
+        },
+        {
+          "compact_start": 9.7180625,
+          "compact_end": 10.491375,
+          "start": 371.6433,
+          "end": 372.4166
+        },
+        {
+          "compact_start": 10.891375,
+          "compact_end": 11.662375,
+          "start": 373.4127,
+          "end": 374.1837
+        },
+        {
+          "compact_start": 12.062375,
+          "compact_end": 12.74875,
+          "start": 375.2524,
+          "end": 375.9387
+        },
+        {
+          "compact_start": 13.14875,
+          "compact_end": 13.834249999999999,
+          "start": 377.05,
+          "end": 377.7355
+        },
+        {
+          "compact_start": 14.23425,
+          "compact_end": 14.9460625,
+          "start": 378.8123,
+          "end": 379.5241
+        }
+      ],
+      "text": " കുരുമുലഗ മരച്ചീന്ന് മരച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച Thank you for watching.",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 15.06,
+          "text": " കുരുമുലഗ മരച്ചീന്ന് മരച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച",
+          "tokens": [
+            50365,
+            220,
+            46503,
+            243,
+            156,
+            113,
+            223,
+            46503,
+            108,
+            156,
+            113,
+            223,
+            46503,
+            106,
+            156,
+            113,
+            223,
+            46503,
+            110,
+            46503,
+            245,
+            220,
+            46503,
+            106,
+            46503,
+            108,
+            46503,
+            248,
+            156,
+            113,
+            235,
+            46503,
+            248,
+            156,
+            113,
+            222,
+            46503,
+            101,
+            156,
+            113,
+            235,
+            46503,
+            101,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            106,
+            46503,
+            108,
+            46503,
+            248,
+            156,
+            113,
+            235,
+            46503,
+            248,
+            156,
+            113,
+            235,
+            46503,
+            248,
+            156,
+            113,
+            235,
+            46503,
+            248,
+            156,
+            113,
+            235,
+            46503,
+            248,
+            156,
+            113,
+            235,
+            46503,
+            248,
+            156,
+            113,
+            235,
+            46503,
+            248,
+            156,
+            113,
+            235,
+            46503,
+            248,
+            156,
+            113,
+            235,
+            46503,
+            248,
+            156,
+            113,
+            235,
+            46503,
+            248,
+            156,
+            113,
+            235,
+            46503,
+            248,
+            156,
+            113,
+            235,
+            46503,
+            248,
+            156,
+            113,
+            235,
+            46503,
+            248,
+            156,
+            113,
+            235,
+            46503,
+            248,
+            156,
+            113,
+            235,
+            46503,
+            248,
+            156,
+            113,
+            235,
+            46503,
+            248
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.14790291009947312,
+          "compression_ratio": 3.1,
+          "no_speech_prob": 0.010783531703054905,
+          "words": [
+            {
+              "word": " കുരുമുലഗ",
+              "start": 0.0,
+              "end": 0.58,
+              "probability": 0.84765625
+            },
+            {
+              "word": " മരച്ചീന്ന്",
+              "start": 0.58,
+              "end": 2.34,
+              "probability": 0.76416015625
+            },
+            {
+              "word": " മരച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച",
+              "start": 2.34,
+              "end": 15.06,
+              "probability": 0.9228515625
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "seek": 1506,
+          "start": 15.06,
+          "end": 15.32,
+          "text": " Thank you for watching.",
+          "tokens": [
+            50365,
+            1044,
+            291,
+            337,
+            1976,
+            13,
+            51864
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.4103880226612091,
+          "compression_ratio": 0.7419354838709677,
+          "no_speech_prob": 0.8749650120735168,
+          "words": [
+            {
+              "word": " Thank",
+              "start": 15.06,
+              "end": 15.32,
+              "probability": 0.1380615234375
+            },
+            {
+              "word": " you",
+              "start": 15.32,
+              "end": 15.32,
+              "probability": 0.94775390625
+            },
+            {
+              "word": " for",
+              "start": 15.32,
+              "end": 15.32,
+              "probability": 0.73828125
+            },
+            {
+              "word": " watching.",
+              "start": 15.32,
+              "end": 15.32,
+              "probability": 0.9765625
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "utterances": [
+        {
+          "compact_start": 0,
+          "compact_end": 0.749375,
+          "start": 380.8637,
+          "end": 381.6132
+        },
+        {
+          "compact_start": 1.149375,
+          "compact_end": 1.9497499999999999,
+          "start": 382.8629,
+          "end": 383.6632
+        },
+        {
+          "compact_start": 2.3497500000000002,
+          "compact_end": 3.1372500000000003,
+          "start": 384.8389,
+          "end": 385.6264
+        },
+        {
+          "compact_start": 3.5372500000000002,
+          "compact_end": 4.9193125,
+          "start": 386.2554,
+          "end": 387.6374
+        },
+        {
+          "compact_start": 5.3193125000000006,
+          "compact_end": 6.3615,
+          "start": 388.6051,
+          "end": 389.6473
+        },
+        {
+          "compact_start": 6.761500000000001,
+          "compact_end": 7.882625000000001,
+          "start": 390.9252,
+          "end": 392.0463
+        },
+        {
+          "compact_start": 8.282625000000001,
+          "compact_end": 9.443875000000002,
+          "start": 393.7644,
+          "end": 394.9256
+        },
+        {
+          "compact_start": 9.843875,
+          "compact_end": 10.657375,
+          "start": 396.928,
+          "end": 397.7415
+        },
+        {
+          "compact_start": 11.057375,
+          "compact_end": 11.871,
+          "start": 398.8043,
+          "end": 399.6179
+        },
+        {
+          "compact_start": 12.271,
+          "compact_end": 13.392875,
+          "start": 400.9701,
+          "end": 402.092
+        },
+        {
+          "compact_start": 13.792875,
+          "compact_end": 14.9519375,
+          "start": 403.5204,
+          "end": 404.6795
+        },
+        {
+          "compact_start": 15.3519375,
+          "compact_end": 16.1725625,
+          "start": 406.0905,
+          "end": 406.9112
+        }
+      ],
+      "text": " വിളവ ധന്യം ധന്യം പാച്യാത്യര പാച്യാത്യര ആകഷെക്യുക ആകഷെക്യുക ജ� ਜੀਵੀਦ੍ਮ ਜੀਵੀਦ੍ਮ ਜੀਵੀਦ੍ਰੀਦੀ ਲੇਖੂ",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 10.06,
+          "text": " വിളവ ധന്യം ധന്യം പാച്യാത്യര പാച്യാത്യര ആകഷെക്യുക ആകഷെക്യുക ജ�",
+          "tokens": [
+            50365,
+            220,
+            46503,
+            113,
+            46503,
+            123,
+            46503,
+            111,
+            46503,
+            113,
+            220,
+            46503,
+            100,
+            46503,
+            101,
+            156,
+            113,
+            235,
+            46503,
+            107,
+            46503,
+            224,
+            220,
+            46503,
+            100,
+            46503,
+            101,
+            156,
+            113,
+            235,
+            46503,
+            107,
+            46503,
+            224,
+            220,
+            46503,
+            103,
+            46503,
+            122,
+            46503,
+            248,
+            156,
+            113,
+            235,
+            46503,
+            107,
+            46503,
+            122,
+            46503,
+            97,
+            156,
+            113,
+            235,
+            46503,
+            107,
+            46503,
+            108,
+            220,
+            46503,
+            103,
+            46503,
+            122,
+            46503,
+            248,
+            156,
+            113,
+            235,
+            46503,
+            107,
+            46503,
+            122,
+            46503,
+            97,
+            156,
+            113,
+            235,
+            46503,
+            107,
+            46503,
+            108,
+            220,
+            46503,
+            228,
+            46503,
+            243,
+            46503,
+            115,
+            156,
+            113,
+            228,
+            46503,
+            243,
+            156,
+            113,
+            235,
+            46503,
+            107,
+            156,
+            113,
+            223,
+            46503,
+            243,
+            220,
+            46503,
+            228,
+            46503,
+            243,
+            46503,
+            115,
+            156,
+            113,
+            228,
+            46503,
+            243,
+            156,
+            113,
+            235,
+            46503,
+            107,
+            156,
+            113,
+            223,
+            46503,
+            243,
+            220,
+            46503,
+            250,
+            156
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.13728438976199128,
+          "compression_ratio": 2.1125,
+          "no_speech_prob": 0.04702179506421089,
+          "words": [
+            {
+              "word": " വിളവ",
+              "start": 0.0,
+              "end": 0.38,
+              "probability": 0.6728515625
+            },
+            {
+              "word": " ധന്യം",
+              "start": 0.38,
+              "end": 1.66,
+              "probability": 0.80322265625
+            },
+            {
+              "word": " ധന്യം",
+              "start": 1.66,
+              "end": 2.92,
+              "probability": 0.9111328125
+            },
+            {
+              "word": " പാച്യാത്യര",
+              "start": 2.92,
+              "end": 4.68,
+              "probability": 0.81689453125
+            },
+            {
+              "word": " പാച്യാത്യര",
+              "start": 4.68,
+              "end": 6.1,
+              "probability": 0.93212890625
+            },
+            {
+              "word": " ആകഷെക്യുക",
+              "start": 6.1,
+              "end": 7.5,
+              "probability": 0.818359375
+            },
+            {
+              "word": " ആകഷെക്യുക",
+              "start": 7.5,
+              "end": 9.06,
+              "probability": 0.9140625
+            },
+            {
+              "word": " ജ�",
+              "start": 9.06,
+              "end": 10.06,
+              "probability": 0.92578125
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "seek": 1006,
+          "start": 10.06,
+          "end": 15.92,
+          "text": " ਜੀਵੀਦ੍ਮ ਜੀਵੀਦ੍ਮ ਜੀਵੀਦ੍ਰੀਦੀ ਲੇਖੂ",
+          "tokens": [
+            50365,
+            220,
+            44770,
+            250,
+            156,
+            102,
+            222,
+            44770,
+            113,
+            156,
+            102,
+            222,
+            44770,
+            99,
+            156,
+            102,
+            235,
+            44770,
+            106,
+            220,
+            44770,
+            250,
+            156,
+            102,
+            222,
+            44770,
+            113,
+            156,
+            102,
+            222,
+            44770,
+            99,
+            156,
+            102,
+            235,
+            44770,
+            106,
+            220,
+            44770,
+            250,
+            156,
+            102,
+            222,
+            44770,
+            113,
+            156,
+            102,
+            222,
+            44770,
+            99,
+            156,
+            102,
+            235,
+            44770,
+            108,
+            156,
+            102,
+            222,
+            44770,
+            99,
+            156,
+            102,
+            222,
+            220,
+            44770,
+            110,
+            156,
+            102,
+            229,
+            44770,
+            244,
+            156,
+            102,
+            224,
+            50662
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.26475818533646434,
+          "compression_ratio": 1.8125,
+          "no_speech_prob": 0.22924189269542694,
+          "words": [
+            {
+              "word": " ਜੀਵੀਦ੍ਮ",
+              "start": 10.06,
+              "end": 10.44,
+              "probability": 0.6845703125
+            },
+            {
+              "word": " ਜੀਵੀਦ੍ਮ",
+              "start": 10.44,
+              "end": 11.62,
+              "probability": 0.91064453125
+            },
+            {
+              "word": " ਜੀਵੀਦ੍ਰੀਦੀ",
+              "start": 11.62,
+              "end": 13.12,
+              "probability": 0.8662109375
+            },
+            {
+              "word": " ਲੇਖੂ",
+              "start": 13.12,
+              "end": 15.92,
+              "probability": 0.76318359375
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "utterances": [
+        {
+          "compact_start": 0,
+          "compact_end": 0.8010625,
+          "start": 408.3974,
+          "end": 409.1984
+        },
+        {
+          "compact_start": 1.2010625,
+          "compact_end": 1.9744375,
+          "start": 410.8298,
+          "end": 411.6032
+        },
+        {
+          "compact_start": 2.3744375,
+          "compact_end": 3.16525,
+          "start": 413.0712,
+          "end": 413.8621
+        },
+        {
+          "compact_start": 3.56525,
+          "compact_end": 4.4323125,
+          "start": 415.5997,
+          "end": 416.4668
+        },
+        {
+          "compact_start": 4.8323125,
+          "compact_end": 5.694125,
+          "start": 418.0153,
+          "end": 418.8771
+        },
+        {
+          "compact_start": 6.094125,
+          "compact_end": 6.7958125,
+          "start": 420.4561,
+          "end": 421.1578
+        },
+        {
+          "compact_start": 7.195812500000001,
+          "compact_end": 8.0228125,
+          "start": 422.7777,
+          "end": 423.6047
+        },
+        {
+          "compact_start": 8.422812500000001,
+          "compact_end": 9.26825,
+          "start": 425.059,
+          "end": 425.9044
+        },
+        {
+          "compact_start": 9.66825,
+          "compact_end": 10.501312500000001,
+          "start": 427.3815,
+          "end": 428.2145
+        },
+        {
+          "compact_start": 10.9013125,
+          "compact_end": 11.911375,
+          "start": 429.7512,
+          "end": 430.7613
+        },
+        {
+          "compact_start": 12.311375,
+          "compact_end": 13.2670625,
+          "start": 432.5274,
+          "end": 433.4831
+        },
+        {
+          "compact_start": 13.6670625,
+          "compact_end": 14.5628125,
+          "start": 435.0511,
+          "end": 435.9469
+        }
+      ],
+      "text": " ലകു ലലിദമ് ലലിദമ് പുരുഷണ് പുരുഷണ് മുണ്ഡ് മുണ്ഡ് ജുബ്ബ് ജു�",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 14.94,
+          "text": " ലകു ലലിദമ് ലലിദമ് പുരുഷണ് പുരുഷണ് മുണ്ഡ് മുണ്ഡ് ജുബ്ബ് ജു�",
+          "tokens": [
+            50365,
+            220,
+            46503,
+            110,
+            46503,
+            243,
+            156,
+            113,
+            223,
+            220,
+            46503,
+            110,
+            46503,
+            110,
+            46503,
+            123,
+            46503,
+            99,
+            46503,
+            106,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            110,
+            46503,
+            110,
+            46503,
+            123,
+            46503,
+            99,
+            46503,
+            106,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            103,
+            156,
+            113,
+            223,
+            46503,
+            108,
+            156,
+            113,
+            223,
+            46503,
+            115,
+            46503,
+            96,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            103,
+            156,
+            113,
+            223,
+            46503,
+            108,
+            156,
+            113,
+            223,
+            46503,
+            115,
+            46503,
+            96,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            106,
+            156,
+            113,
+            223,
+            46503,
+            96,
+            156,
+            113,
+            235,
+            46503,
+            94,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            106,
+            156,
+            113,
+            223,
+            46503,
+            96,
+            156,
+            113,
+            235,
+            46503,
+            94,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            250,
+            156,
+            113,
+            223,
+            46503,
+            105,
+            156,
+            113,
+            235,
+            46503,
+            105,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            250,
+            156,
+            113,
+            223,
+            46503
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.117777802223383,
+          "compression_ratio": 2.135135135135135,
+          "no_speech_prob": 0.138361394405365,
+          "words": [
+            {
+              "word": " ലകു",
+              "start": 0.0,
+              "end": 0.48,
+              "probability": 0.6630859375
+            },
+            {
+              "word": " ലലിദമ്",
+              "start": 0.48,
+              "end": 1.88,
+              "probability": 0.6923828125
+            },
+            {
+              "word": " ലലിദമ്",
+              "start": 1.88,
+              "end": 3.06,
+              "probability": 0.93505859375
+            },
+            {
+              "word": " പുരുഷണ്",
+              "start": 3.06,
+              "end": 4.32,
+              "probability": 0.88720703125
+            },
+            {
+              "word": " പുരുഷണ്",
+              "start": 4.32,
+              "end": 5.56,
+              "probability": 0.97119140625
+            },
+            {
+              "word": " മുണ്ഡ്",
+              "start": 5.56,
+              "end": 6.64,
+              "probability": 0.92724609375
+            },
+            {
+              "word": " മുണ്ഡ്",
+              "start": 6.64,
+              "end": 7.8,
+              "probability": 0.966796875
+            },
+            {
+              "word": " ജുബ്ബ്",
+              "start": 7.8,
+              "end": 9.08,
+              "probability": 0.86669921875
+            },
+            {
+              "word": " ജു�",
+              "start": 9.08,
+              "end": 14.94,
+              "probability": 0.958984375
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "seek": 1494,
+          "start": 14.92,
+          "end": 14.92,
+          "text": "",
+          "tokens": [],
+          "temperature": 0,
+          "avg_logprob": -0.165766250255496,
+          "compression_ratio": 7.285714285714286,
+          "no_speech_prob": 0.9258289933204651,
+          "words": []
+        }
+      ]
+    },
+    {
+      "utterances": [
+        {
+          "compact_start": 0,
+          "compact_end": 0.8733125,
+          "start": 437.6825,
+          "end": 438.5558
+        },
+        {
+          "compact_start": 1.2733125,
+          "compact_end": 1.956,
+          "start": 440.2531,
+          "end": 440.9357
+        },
+        {
+          "compact_start": 2.356,
+          "compact_end": 3.0420625,
+          "start": 442.4952,
+          "end": 443.1812
+        },
+        {
+          "compact_start": 3.4420625,
+          "compact_end": 4.08925,
+          "start": 445.0074,
+          "end": 445.6546
+        },
+        {
+          "compact_start": 4.48925,
+          "compact_end": 5.1450625,
+          "start": 447.4384,
+          "end": 448.0942
+        },
+        {
+          "compact_start": 5.5450625,
+          "compact_end": 6.348,
+          "start": 449.7717,
+          "end": 450.5746
+        },
+        {
+          "compact_start": 6.748,
+          "compact_end": 7.5516875,
+          "start": 452.1965,
+          "end": 453.0002
+        },
+        {
+          "compact_start": 7.9516875,
+          "compact_end": 9.077,
+          "start": 454.7137,
+          "end": 455.839
+        },
+        {
+          "compact_start": 9.477,
+          "compact_end": 10.647,
+          "start": 457.7152,
+          "end": 458.8853
+        },
+        {
+          "compact_start": 11.047,
+          "compact_end": 12.094750000000001,
+          "start": 461.6468,
+          "end": 462.6946
+        },
+        {
+          "compact_start": 12.49475,
+          "compact_end": 13.5238125,
+          "start": 464.4265,
+          "end": 465.4556
+        },
+        {
+          "compact_start": 13.9238125,
+          "compact_end": 14.8899375,
+          "start": 467.5115,
+          "end": 468.4776
+        }
+      ],
+      "text": " ആഭരണമ് തുളീല് തുളീല് കൈര് കൈര് കൈര് കൈര് കൈരുപ്പ്പ്പ്പ്� Thank you for watching.",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 15.14,
+          "text": " ആഭരണമ് തുളീല് തുളീല് കൈര് കൈര് കൈര് കൈര് കൈരുപ്പ്പ്പ്പ്�",
+          "tokens": [
+            50365,
+            220,
+            46503,
+            228,
+            46503,
+            255,
+            46503,
+            108,
+            46503,
+            96,
+            46503,
+            106,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            97,
+            156,
+            113,
+            223,
+            46503,
+            111,
+            156,
+            113,
+            222,
+            46503,
+            110,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            97,
+            156,
+            113,
+            223,
+            46503,
+            111,
+            156,
+            113,
+            222,
+            46503,
+            110,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            243,
+            156,
+            113,
+            230,
+            46503,
+            108,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            243,
+            156,
+            113,
+            230,
+            46503,
+            108,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            243,
+            156,
+            113,
+            230,
+            46503,
+            108,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            243,
+            156,
+            113,
+            230,
+            46503,
+            108,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            243,
+            156,
+            113,
+            230,
+            46503,
+            108,
+            156,
+            113,
+            223,
+            46503,
+            103,
+            156,
+            113,
+            235,
+            46503,
+            103,
+            156,
+            113,
+            235,
+            46503,
+            103,
+            156,
+            113,
+            235,
+            46503,
+            103,
+            156,
+            113,
+            235,
+            46503,
+            103,
+            156,
+            113,
+            235,
+            46503
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.12595572952152223,
+          "compression_ratio": 2.3333333333333335,
+          "no_speech_prob": 0.04934610426425934,
+          "words": [
+            {
+              "word": " ആഭരണമ്",
+              "start": 0.0,
+              "end": 0.74,
+              "probability": 0.689453125
+            },
+            {
+              "word": " തുളീല്",
+              "start": 0.74,
+              "end": 1.86,
+              "probability": 0.83447265625
+            },
+            {
+              "word": " തുളീല്",
+              "start": 1.86,
+              "end": 2.94,
+              "probability": 0.90576171875
+            },
+            {
+              "word": " കൈര്",
+              "start": 2.94,
+              "end": 4.02,
+              "probability": 0.89892578125
+            },
+            {
+              "word": " കൈര്",
+              "start": 4.02,
+              "end": 5.08,
+              "probability": 0.96923828125
+            },
+            {
+              "word": " കൈര്",
+              "start": 5.08,
+              "end": 6.14,
+              "probability": 0.95751953125
+            },
+            {
+              "word": " കൈര്",
+              "start": 6.14,
+              "end": 7.3,
+              "probability": 0.96533203125
+            },
+            {
+              "word": " കൈരുപ്പ്പ്പ്പ്�",
+              "start": 7.3,
+              "end": 15.14,
+              "probability": 0.85107421875
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "seek": 1514,
+          "start": 15.14,
+          "end": 15.26,
+          "text": " Thank you for watching.",
+          "tokens": [
+            50365,
+            1044,
+            291,
+            337,
+            1976,
+            13,
+            51864
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.4966048002243042,
+          "compression_ratio": 0.7419354838709677,
+          "no_speech_prob": 0.8752203583717346,
+          "words": [
+            {
+              "word": " Thank",
+              "start": 15.14,
+              "end": 15.26,
+              "probability": 0.064697265625
+            },
+            {
+              "word": " you",
+              "start": 15.26,
+              "end": 15.26,
+              "probability": 0.93408203125
+            },
+            {
+              "word": " for",
+              "start": 15.26,
+              "end": 15.26,
+              "probability": 0.75048828125
+            },
+            {
+              "word": " watching.",
+              "start": 15.26,
+              "end": 15.26,
+              "probability": 0.97265625
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "utterances": [
+        {
+          "compact_start": 0,
+          "compact_end": 1.0200625,
+          "start": 469.9054,
+          "end": 470.9254
+        },
+        {
+          "compact_start": 1.4200625000000002,
+          "compact_end": 2.4239375,
+          "start": 472.4597,
+          "end": 473.4635
+        },
+        {
+          "compact_start": 2.8239375000000004,
+          "compact_end": 3.7144375000000003,
+          "start": 474.8687,
+          "end": 475.7592
+        },
+        {
+          "compact_start": 4.1144375,
+          "compact_end": 5.4775625,
+          "start": 477.5202,
+          "end": 478.8833
+        },
+        {
+          "compact_start": 5.8775625,
+          "compact_end": 7.220625,
+          "start": 480.3264,
+          "end": 481.6695
+        },
+        {
+          "compact_start": 7.620625,
+          "compact_end": 8.529625000000001,
+          "start": 483.4727,
+          "end": 484.3817
+        },
+        {
+          "compact_start": 8.929625000000001,
+          "compact_end": 9.867437500000001,
+          "start": 486.1509,
+          "end": 487.0888
+        },
+        {
+          "compact_start": 10.267437500000002,
+          "compact_end": 11.246250000000002,
+          "start": 489.154,
+          "end": 490.1327
+        },
+        {
+          "compact_start": 11.646250000000002,
+          "compact_end": 12.628000000000002,
+          "start": 491.5795,
+          "end": 492.5612
+        },
+        {
+          "compact_start": 13.028000000000002,
+          "compact_end": 13.972000000000001,
+          "start": 494.1295,
+          "end": 495.0735
+        },
+        {
+          "compact_start": 14.372000000000002,
+          "compact_end": 15.353625000000001,
+          "start": 496.565,
+          "end": 497.5467
+        },
+        {
+          "compact_start": 15.753625000000001,
+          "compact_end": 16.705437500000002,
+          "start": 499.2236,
+          "end": 500.1754
+        }
+      ],
+      "text": " വിവസായ്യം നവീന നവീന വിദ്യാഭ്യാസ്മ വിദ്യാഭ്യാസ്മ സ്താന്മ സ്താ",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 17.08,
+          "text": " വിവസായ്യം നവീന നവീന വിദ്യാഭ്യാസ്മ വിദ്യാഭ്യാസ്മ സ്താന്മ സ്താ",
+          "tokens": [
+            50365,
+            220,
+            46503,
+            113,
+            46503,
+            123,
+            46503,
+            113,
+            46503,
+            116,
+            46503,
+            122,
+            46503,
+            107,
+            156,
+            113,
+            235,
+            46503,
+            107,
+            46503,
+            224,
+            220,
+            46503,
+            101,
+            46503,
+            113,
+            156,
+            113,
+            222,
+            46503,
+            101,
+            220,
+            46503,
+            101,
+            46503,
+            113,
+            156,
+            113,
+            222,
+            46503,
+            101,
+            220,
+            46503,
+            113,
+            46503,
+            123,
+            46503,
+            99,
+            156,
+            113,
+            235,
+            46503,
+            107,
+            46503,
+            122,
+            46503,
+            255,
+            156,
+            113,
+            235,
+            46503,
+            107,
+            46503,
+            122,
+            46503,
+            116,
+            156,
+            113,
+            235,
+            46503,
+            106,
+            220,
+            46503,
+            113,
+            46503,
+            123,
+            46503,
+            99,
+            156,
+            113,
+            235,
+            46503,
+            107,
+            46503,
+            122,
+            46503,
+            255,
+            156,
+            113,
+            235,
+            46503,
+            107,
+            46503,
+            122,
+            46503,
+            116,
+            156,
+            113,
+            235,
+            46503,
+            106,
+            220,
+            46503,
+            116,
+            156,
+            113,
+            235,
+            46503,
+            97,
+            46503,
+            122,
+            46503,
+            101,
+            156,
+            113,
+            235,
+            46503,
+            106,
+            220,
+            46503,
+            116,
+            156,
+            113,
+            235,
+            46503,
+            97,
+            46503,
+            122
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.13304231333178143,
+          "compression_ratio": 2.4347826086956523,
+          "no_speech_prob": 0.06420765817165375,
+          "words": [
+            {
+              "word": " വിവസായ്യം",
+              "start": 0.0,
+              "end": 0.84,
+              "probability": 0.70263671875
+            },
+            {
+              "word": " നവീന",
+              "start": 0.84,
+              "end": 1.96,
+              "probability": 0.890625
+            },
+            {
+              "word": " നവീന",
+              "start": 1.96,
+              "end": 3.3,
+              "probability": 0.90185546875
+            },
+            {
+              "word": " വിദ്യാഭ്യാസ്മ",
+              "start": 3.3,
+              "end": 5.22,
+              "probability": 0.85595703125
+            },
+            {
+              "word": " വിദ്യാഭ്യാസ്മ",
+              "start": 5.22,
+              "end": 6.98,
+              "probability": 0.9248046875
+            },
+            {
+              "word": " സ്താന്മ",
+              "start": 6.98,
+              "end": 8.38,
+              "probability": 0.82666015625
+            },
+            {
+              "word": " സ്താ",
+              "start": 8.38,
+              "end": 17.08,
+              "probability": 0.9326171875
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "seek": 1708,
+          "start": 17.06,
+          "end": 17.06,
+          "text": "",
+          "tokens": [],
+          "temperature": 0,
+          "avg_logprob": -0.1659940379534581,
+          "compression_ratio": 7.285714285714286,
+          "no_speech_prob": 0.9268863797187805,
+          "words": []
+        }
+      ]
+    },
+    {
+      "utterances": [
+        {
+          "compact_start": 0,
+          "compact_end": 0.8911875,
+          "start": 501.9434,
+          "end": 502.8346
+        },
+        {
+          "compact_start": 1.2911875,
+          "compact_end": 2.2893125,
+          "start": 504.895,
+          "end": 505.8931
+        },
+        {
+          "compact_start": 2.6893124999999998,
+          "compact_end": 3.6923749999999997,
+          "start": 507.6651,
+          "end": 508.6682
+        },
+        {
+          "compact_start": 4.092375,
+          "compact_end": 5.2171875,
+          "start": 510.8835,
+          "end": 512.0084
+        },
+        {
+          "compact_start": 5.6171875,
+          "compact_end": 6.7945,
+          "start": 514.0317,
+          "end": 515.2089
+        },
+        {
+          "compact_start": 7.1945,
+          "compact_end": 8.0766875,
+          "start": 517.1052,
+          "end": 517.9874
+        },
+        {
+          "compact_start": 8.4766875,
+          "compact_end": 9.371875000000001,
+          "start": 519.5613,
+          "end": 520.4565
+        },
+        {
+          "compact_start": 9.771875000000001,
+          "compact_end": 10.767312500000001,
+          "start": 522.1446,
+          "end": 523.14
+        },
+        {
+          "compact_start": 11.167312500000001,
+          "compact_end": 12.144375000000002,
+          "start": 524.8971,
+          "end": 525.8741
+        },
+        {
+          "compact_start": 12.544375000000002,
+          "compact_end": 13.476687500000002,
+          "start": 527.8109,
+          "end": 528.7432
+        },
+        {
+          "compact_start": 13.876687500000003,
+          "compact_end": 14.778500000000003,
+          "start": 529.8825,
+          "end": 530.7844
+        },
+        {
+          "compact_start": 15.178500000000003,
+          "compact_end": 16.032000000000004,
+          "start": 531.9191,
+          "end": 532.7726
+        }
+      ],
+      "text": " കധകളേ ഓട്ടമ്തുള്ളല് ഓട്ടമ്തുള്ളല് മോഹിണിയാട്ടമ് മോഹിണിയാട� ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്�",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 15.7,
+          "text": " കധകളേ ഓട്ടമ്തുള്ളല് ഓട്ടമ്തുള്ളല് മോഹിണിയാട്ടമ് മോഹിണിയാട�",
+          "tokens": [
+            50365,
+            220,
+            46503,
+            243,
+            46503,
+            100,
+            46503,
+            243,
+            46503,
+            111,
+            156,
+            113,
+            229,
+            220,
+            46503,
+            241,
+            46503,
+            253,
+            156,
+            113,
+            235,
+            46503,
+            253,
+            46503,
+            106,
+            156,
+            113,
+            235,
+            46503,
+            97,
+            156,
+            113,
+            223,
+            46503,
+            111,
+            156,
+            113,
+            235,
+            46503,
+            111,
+            46503,
+            110,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            241,
+            46503,
+            253,
+            156,
+            113,
+            235,
+            46503,
+            253,
+            46503,
+            106,
+            156,
+            113,
+            235,
+            46503,
+            97,
+            156,
+            113,
+            223,
+            46503,
+            111,
+            156,
+            113,
+            235,
+            46503,
+            111,
+            46503,
+            110,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            106,
+            156,
+            113,
+            233,
+            46503,
+            117,
+            46503,
+            123,
+            46503,
+            96,
+            46503,
+            123,
+            46503,
+            107,
+            46503,
+            122,
+            46503,
+            253,
+            156,
+            113,
+            235,
+            46503,
+            253,
+            46503,
+            106,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            106,
+            156,
+            113,
+            233,
+            46503,
+            117,
+            46503,
+            123,
+            46503,
+            96,
+            46503,
+            123,
+            46503,
+            107,
+            46503,
+            122,
+            46503,
+            253,
+            156
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.1459148318268532,
+          "compression_ratio": 2.075,
+          "no_speech_prob": 0.029493048787117004,
+          "words": [
+            {
+              "word": " കധകളേ",
+              "start": 0.0,
+              "end": 0.58,
+              "probability": 0.64453125
+            },
+            {
+              "word": " ഓട്ടമ്തുള്ളല്",
+              "start": 0.58,
+              "end": 2.2,
+              "probability": 0.8193359375
+            },
+            {
+              "word": " ഓട്ടമ്തുള്ളല്",
+              "start": 2.2,
+              "end": 3.6,
+              "probability": 0.9404296875
+            },
+            {
+              "word": " മോഹിണിയാട്ടമ്",
+              "start": 3.6,
+              "end": 5.24,
+              "probability": 0.81884765625
+            },
+            {
+              "word": " മോഹിണിയാട�",
+              "start": 5.24,
+              "end": 15.7,
+              "probability": 0.9580078125
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "seek": 1570,
+          "start": 15.7,
+          "end": 16.4,
+          "text": " ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്�",
+          "tokens": [
+            50365,
+            220,
+            156,
+            23560,
+            156,
+            113,
+            235,
+            156,
+            23560,
+            156,
+            113,
+            235,
+            156,
+            23560,
+            156,
+            113,
+            235,
+            156,
+            23560,
+            156,
+            113,
+            235,
+            156,
+            23560,
+            156,
+            113,
+            235,
+            156,
+            23560,
+            156,
+            113,
+            235,
+            156,
+            23560,
+            156,
+            113,
+            235,
+            156,
+            23560,
+            156,
+            113,
+            235,
+            156,
+            23560,
+            156,
+            113,
+            235,
+            156,
+            23560,
+            156,
+            113,
+            235,
+            156,
+            23560,
+            156,
+            113,
+            235,
+            156,
+            23560,
+            156,
+            113,
+            235,
+            156,
+            23560,
+            156,
+            113,
+            235,
+            156,
+            23560,
+            156,
+            113,
+            235,
+            156,
+            23560,
+            156,
+            113,
+            235,
+            156,
+            23560,
+            156,
+            113,
+            235,
+            156,
+            23560,
+            156,
+            113,
+            235,
+            156,
+            23560,
+            156,
+            113,
+            235,
+            156,
+            23560,
+            156,
+            113,
+            235,
+            156,
+            23560,
+            156,
+            113,
+            235,
+            156,
+            23560,
+            156,
+            113,
+            235,
+            156,
+            23560,
+            156,
+            113,
+            235,
+            156,
+            23560,
+            156,
+            113,
+            235,
+            156,
+            23560,
+            156,
+            113,
+            235,
+            156,
+            23560,
+            156,
+            113,
+            235,
+            156
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.19212092909702036,
+          "compression_ratio": 7.285714285714286,
+          "no_speech_prob": 0.9468373656272888,
+          "words": [
+            {
+              "word": " ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്�",
+              "start": 15.7,
+              "end": 16.4,
+              "probability": 0.90966796875
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "seek": 1640,
+          "start": 16.38,
+          "end": 16.38,
+          "text": "",
+          "tokens": [],
+          "temperature": 0,
+          "avg_logprob": -0.17288530334945798,
+          "compression_ratio": 7.285714285714286,
+          "no_speech_prob": 0.9128198623657227,
+          "words": []
+        }
+      ]
+    },
+    {
+      "utterances": [
+        {
+          "compact_start": 0,
+          "compact_end": 0.924875,
+          "start": 534.0221,
+          "end": 534.947
+        },
+        {
+          "compact_start": 1.324875,
+          "compact_end": 2.324125,
+          "start": 536.2203,
+          "end": 537.2196
+        },
+        {
+          "compact_start": 2.724125,
+          "compact_end": 3.634125,
+          "start": 538.426,
+          "end": 539.336
+        },
+        {
+          "compact_start": 4.0341249999999995,
+          "compact_end": 5.743874999999999,
+          "start": 541.1882,
+          "end": 542.8979
+        },
+        {
+          "compact_start": 6.1438749999999995,
+          "compact_end": 7.8166875,
+          "start": 544.7936,
+          "end": 546.4664
+        },
+        {
+          "compact_start": 8.216687499999999,
+          "compact_end": 8.983875,
+          "start": 548.501,
+          "end": 549.2683
+        },
+        {
+          "compact_start": 9.383875,
+          "compact_end": 10.194625,
+          "start": 550.377,
+          "end": 551.1877
+        },
+        {
+          "compact_start": 10.594625,
+          "compact_end": 11.4394375,
+          "start": 552.215,
+          "end": 553.0597
+        },
+        {
+          "compact_start": 11.8394375,
+          "compact_end": 12.628187500000001,
+          "start": 554.0337,
+          "end": 554.8225
+        },
+        {
+          "compact_start": 13.028187500000001,
+          "compact_end": 13.7884375,
+          "start": 556.023,
+          "end": 556.7833
+        },
+        {
+          "compact_start": 14.188437500000001,
+          "compact_end": 14.921000000000001,
+          "start": 557.9941,
+          "end": 558.7267
+        },
+        {
+          "compact_start": 15.321000000000002,
+          "compact_end": 16.395312500000003,
+          "start": 560.1263,
+          "end": 561.2007
+        }
+      ],
+      "text": " ഉയര്ണു ഉയര്ണാ ഉയര്ണാ ക്രക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്� Thank you for watching.",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 16.06,
+          "text": " ഉയര്ണു ഉയര്ണാ ഉയര്ണാ ക്രക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്�",
+          "tokens": [
+            50365,
+            220,
+            46503,
+            231,
+            46503,
+            107,
+            46503,
+            108,
+            156,
+            113,
+            235,
+            46503,
+            96,
+            156,
+            113,
+            223,
+            220,
+            46503,
+            231,
+            46503,
+            107,
+            46503,
+            108,
+            156,
+            113,
+            235,
+            46503,
+            96,
+            46503,
+            122,
+            220,
+            46503,
+            231,
+            46503,
+            107,
+            46503,
+            108,
+            156,
+            113,
+            235,
+            46503,
+            96,
+            46503,
+            122,
+            220,
+            46503,
+            243,
+            156,
+            113,
+            235,
+            46503,
+            108,
+            46503,
+            243,
+            156,
+            113,
+            235,
+            46503,
+            243,
+            156,
+            113,
+            235,
+            46503,
+            243,
+            156,
+            113,
+            235,
+            46503,
+            243,
+            156,
+            113,
+            235,
+            46503,
+            243,
+            156,
+            113,
+            235,
+            46503,
+            243,
+            156,
+            113,
+            235,
+            46503,
+            243,
+            156,
+            113,
+            235,
+            46503,
+            243,
+            156,
+            113,
+            235,
+            46503,
+            243,
+            156,
+            113,
+            235,
+            46503,
+            243,
+            156,
+            113,
+            235,
+            46503,
+            243,
+            156,
+            113,
+            235,
+            46503,
+            243,
+            156,
+            113,
+            235,
+            46503,
+            243,
+            156,
+            113,
+            235,
+            46503,
+            243,
+            156,
+            113,
+            235,
+            46503,
+            243,
+            156,
+            113,
+            235,
+            46503
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.1436380933421527,
+          "compression_ratio": 3.382978723404255,
+          "no_speech_prob": 0.014555787667632103,
+          "words": [
+            {
+              "word": " ഉയര്ണു",
+              "start": 0.0,
+              "end": 0.6,
+              "probability": 0.7333984375
+            },
+            {
+              "word": " ഉയര്ണാ",
+              "start": 0.6,
+              "end": 1.88,
+              "probability": 0.849609375
+            },
+            {
+              "word": " ഉയര്ണാ",
+              "start": 1.88,
+              "end": 3.4,
+              "probability": 0.89794921875
+            },
+            {
+              "word": " ക്രക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്�",
+              "start": 3.4,
+              "end": 16.06,
+              "probability": 0.8486328125
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "seek": 1606,
+          "start": 16.06,
+          "end": 16.14,
+          "text": " Thank you for watching.",
+          "tokens": [
+            50365,
+            1044,
+            291,
+            337,
+            1976,
+            13,
+            51864
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.4804169535636902,
+          "compression_ratio": 0.7419354838709677,
+          "no_speech_prob": 0.9553991556167603,
+          "words": [
+            {
+              "word": " Thank",
+              "start": 16.06,
+              "end": 16.06,
+              "probability": 0.1085205078125
+            },
+            {
+              "word": " you",
+              "start": 16.06,
+              "end": 16.06,
+              "probability": 0.98779296875
+            },
+            {
+              "word": " for",
+              "start": 16.06,
+              "end": 16.06,
+              "probability": 0.6533203125
+            },
+            {
+              "word": " watching.",
+              "start": 16.06,
+              "end": 16.14,
+              "probability": 0.95947265625
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "utterances": [
+        {
+          "compact_start": 0,
+          "compact_end": 1.05375,
+          "start": 562.3593,
+          "end": 563.413
+        },
+        {
+          "compact_start": 1.4537499999999999,
+          "compact_end": 2.6334999999999997,
+          "start": 564.9779,
+          "end": 566.1577
+        },
+        {
+          "compact_start": 3.0335,
+          "compact_end": 4.2410625,
+          "start": 567.9667,
+          "end": 569.1742
+        },
+        {
+          "compact_start": 4.6410625,
+          "compact_end": 5.7459375,
+          "start": 571.0514,
+          "end": 572.1563
+        },
+        {
+          "compact_start": 6.1459375000000005,
+          "compact_end": 7.289562500000001,
+          "start": 573.4146,
+          "end": 574.5582
+        },
+        {
+          "compact_start": 7.689562500000001,
+          "compact_end": 8.877625000000002,
+          "start": 575.9283,
+          "end": 577.1163
+        },
+        {
+          "compact_start": 9.277625,
+          "compact_end": 10.456312500000001,
+          "start": 578.5089,
+          "end": 579.6876
+        },
+        {
+          "compact_start": 10.856312500000001,
+          "compact_end": 11.883125000000001,
+          "start": 581.2817,
+          "end": 582.3085
+        },
+        {
+          "compact_start": 12.283125000000002,
+          "compact_end": 13.287437500000001,
+          "start": 583.7021,
+          "end": 584.7064
+        },
+        {
+          "compact_start": 13.687437500000001,
+          "compact_end": 15.009687500000002,
+          "start": 586.3238,
+          "end": 587.6461
+        },
+        {
+          "compact_start": 15.4096875,
+          "compact_end": 16.7410625,
+          "start": 589.1092,
+          "end": 590.4405
+        },
+        {
+          "compact_start": 17.1410625,
+          "compact_end": 18.263125,
+          "start": 592.2281,
+          "end": 593.3501
+        }
+      ],
+      "text": " ജീവികുക ജീവിച്ച് വരിക്ക ജീവിച്ച് വരിക്ക യഹൂദന് യഹൂദന് സമ്സക",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 18.64,
+          "text": " ജീവികുക ജീവിച്ച് വരിക്ക ജീവിച്ച് വരിക്ക യഹൂദന് യഹൂദന് സമ്സക",
+          "tokens": [
+            50365,
+            220,
+            46503,
+            250,
+            156,
+            113,
+            222,
+            46503,
+            113,
+            46503,
+            123,
+            46503,
+            243,
+            156,
+            113,
+            223,
+            46503,
+            243,
+            220,
+            46503,
+            250,
+            156,
+            113,
+            222,
+            46503,
+            113,
+            46503,
+            123,
+            46503,
+            248,
+            156,
+            113,
+            235,
+            46503,
+            248,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            113,
+            46503,
+            108,
+            46503,
+            123,
+            46503,
+            243,
+            156,
+            113,
+            235,
+            46503,
+            243,
+            220,
+            46503,
+            250,
+            156,
+            113,
+            222,
+            46503,
+            113,
+            46503,
+            123,
+            46503,
+            248,
+            156,
+            113,
+            235,
+            46503,
+            248,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            113,
+            46503,
+            108,
+            46503,
+            123,
+            46503,
+            243,
+            156,
+            113,
+            235,
+            46503,
+            243,
+            220,
+            46503,
+            107,
+            46503,
+            117,
+            156,
+            113,
+            224,
+            46503,
+            99,
+            46503,
+            101,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            107,
+            46503,
+            117,
+            156,
+            113,
+            224,
+            46503,
+            99,
+            46503,
+            101,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            116,
+            46503,
+            106,
+            156,
+            113,
+            235,
+            46503,
+            116,
+            46503,
+            243
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.11829456802486449,
+          "compression_ratio": 2.116883116883117,
+          "no_speech_prob": 0.036054328083992004,
+          "words": [
+            {
+              "word": " ജീവികുക",
+              "start": 0.0,
+              "end": 0.68,
+              "probability": 0.77099609375
+            },
+            {
+              "word": " ജീവിച്ച്",
+              "start": 0.68,
+              "end": 2.04,
+              "probability": 0.81494140625
+            },
+            {
+              "word": " വരിക്ക",
+              "start": 2.04,
+              "end": 2.36,
+              "probability": 0.7802734375
+            },
+            {
+              "word": " ജീവിച്ച്",
+              "start": 2.36,
+              "end": 3.58,
+              "probability": 0.90234375
+            },
+            {
+              "word": " വരിക്ക",
+              "start": 3.58,
+              "end": 3.98,
+              "probability": 0.9609375
+            },
+            {
+              "word": " യഹൂദന്",
+              "start": 3.98,
+              "end": 5.56,
+              "probability": 0.7939453125
+            },
+            {
+              "word": " യഹൂദന്",
+              "start": 5.56,
+              "end": 7.12,
+              "probability": 0.92041015625
+            },
+            {
+              "word": " സമ്സക",
+              "start": 7.12,
+              "end": 18.64,
+              "probability": 0.876953125
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "seek": 1864,
+          "start": 18.62,
+          "end": 18.62,
+          "text": "",
+          "tokens": [],
+          "temperature": 0,
+          "avg_logprob": -0.16594749273255813,
+          "compression_ratio": 7.285714285714286,
+          "no_speech_prob": 0.9270505905151367,
+          "words": []
+        }
+      ]
+    },
+    {
+      "utterances": [
+        {
+          "compact_start": 0,
+          "compact_end": 1.1703125,
+          "start": 594.8772,
+          "end": 596.0475
+        },
+        {
+          "compact_start": 1.5703125,
+          "compact_end": 2.498625,
+          "start": 597.6509,
+          "end": 598.5792
+        },
+        {
+          "compact_start": 2.898625,
+          "compact_end": 3.9365625,
+          "start": 600.2415,
+          "end": 601.2795
+        },
+        {
+          "compact_start": 4.336562499999999,
+          "compact_end": 5.764125,
+          "start": 602.8915,
+          "end": 604.319
+        },
+        {
+          "compact_start": 6.164124999999999,
+          "compact_end": 7.579249999999999,
+          "start": 606.0553,
+          "end": 607.4704
+        },
+        {
+          "compact_start": 7.9792499999999995,
+          "compact_end": 8.711375,
+          "start": 609.4941,
+          "end": 610.2263
+        },
+        {
+          "compact_start": 9.111374999999999,
+          "compact_end": 9.831124999999998,
+          "start": 611.3027,
+          "end": 612.0224
+        },
+        {
+          "compact_start": 10.231124999999999,
+          "compact_end": 11.5549375,
+          "start": 613.5728,
+          "end": 614.8966
+        },
+        {
+          "compact_start": 11.9549375,
+          "compact_end": 13.2625625,
+          "start": 616.5134,
+          "end": 617.821
+        },
+        {
+          "compact_start": 13.6625625,
+          "compact_end": 14.6776875,
+          "start": 619.7929,
+          "end": 620.808
+        },
+        {
+          "compact_start": 15.0776875,
+          "compact_end": 16.0465625,
+          "start": 622.0949,
+          "end": 623.0638
+        },
+        {
+          "compact_start": 16.4465625,
+          "compact_end": 17.3736875,
+          "start": 624.497,
+          "end": 625.4241
+        }
+      ],
+      "text": " കൈകുപുക കൈകുപ്പ്പ് കൈകുപ്പ് സ്വാഗതം ചെയ്യുക സ്വാഗതം ചെയ്� ਤਰਪਤੀ ਪਡੁਤੁਗ ਸੁਖੀ ਚੂ",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 7.22,
+          "text": " കൈകുപുക കൈകുപ്പ്പ് കൈകുപ്പ് സ്വാഗതം ചെയ്യുക സ്വാഗതം ചെയ്�",
+          "tokens": [
+            50365,
+            220,
+            46503,
+            243,
+            156,
+            113,
+            230,
+            46503,
+            243,
+            156,
+            113,
+            223,
+            46503,
+            103,
+            156,
+            113,
+            223,
+            46503,
+            243,
+            220,
+            46503,
+            243,
+            156,
+            113,
+            230,
+            46503,
+            243,
+            156,
+            113,
+            223,
+            46503,
+            103,
+            156,
+            113,
+            235,
+            46503,
+            103,
+            156,
+            113,
+            235,
+            46503,
+            103,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            243,
+            156,
+            113,
+            230,
+            46503,
+            243,
+            156,
+            113,
+            223,
+            46503,
+            103,
+            156,
+            113,
+            235,
+            46503,
+            103,
+            156,
+            113,
+            235,
+            220,
+            46503,
+            116,
+            156,
+            113,
+            235,
+            46503,
+            113,
+            46503,
+            122,
+            46503,
+            245,
+            156,
+            23560,
+            46503,
+            224,
+            220,
+            46503,
+            248,
+            156,
+            113,
+            228,
+            46503,
+            107,
+            156,
+            113,
+            235,
+            46503,
+            107,
+            156,
+            113,
+            223,
+            46503,
+            243,
+            220,
+            46503,
+            116,
+            156,
+            113,
+            235,
+            46503,
+            113,
+            46503,
+            122,
+            46503,
+            245,
+            156,
+            23560,
+            46503,
+            224,
+            220,
+            46503,
+            248,
+            156,
+            113,
+            228,
+            46503,
+            107,
+            156,
+            113,
+            235,
+            46503
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.09290612390799116,
+          "compression_ratio": 2.1780821917808217,
+          "no_speech_prob": 0.18192309141159058,
+          "words": [
+            {
+              "word": " കൈകുപുക",
+              "start": 0.0,
+              "end": 0.72,
+              "probability": 0.74560546875
+            },
+            {
+              "word": " കൈകുപ്പ്പ്",
+              "start": 0.72,
+              "end": 2.3,
+              "probability": 0.8212890625
+            },
+            {
+              "word": " കൈകുപ്പ്",
+              "start": 2.3,
+              "end": 3.62,
+              "probability": 0.93603515625
+            },
+            {
+              "word": " സ്വാഗതം",
+              "start": 3.62,
+              "end": 5.0,
+              "probability": 0.78466796875
+            },
+            {
+              "word": " ചെയ്യുക",
+              "start": 5.0,
+              "end": 5.34,
+              "probability": 0.8271484375
+            },
+            {
+              "word": " സ്വാഗതം",
+              "start": 5.34,
+              "end": 6.8,
+              "probability": 0.87841796875
+            },
+            {
+              "word": " ചെയ്�",
+              "start": 6.8,
+              "end": 7.22,
+              "probability": 0.97802734375
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "seek": 722,
+          "start": 7.22,
+          "end": 17.06,
+          "text": " ਤਰਪਤੀ ਪਡੁਤੁਗ ਸੁਖੀ ਚੂ",
+          "tokens": [
+            50365,
+            220,
+            44770,
+            97,
+            44770,
+            108,
+            44770,
+            103,
+            44770,
+            97,
+            156,
+            102,
+            222,
+            220,
+            44770,
+            103,
+            44770,
+            94,
+            156,
+            102,
+            223,
+            44770,
+            97,
+            156,
+            102,
+            223,
+            44770,
+            245,
+            220,
+            156,
+            17817,
+            156,
+            102,
+            223,
+            44770,
+            244,
+            156,
+            102,
+            222,
+            220,
+            44770,
+            248,
+            156,
+            102,
+            224,
+            50862
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.2671652854757106,
+          "compression_ratio": 1.148936170212766,
+          "no_speech_prob": 0.9200142621994019,
+          "words": [
+            {
+              "word": " ਤਰਪਤੀ",
+              "start": 7.22,
+              "end": 8.44,
+              "probability": 0.7568359375
+            },
+            {
+              "word": " ਪਡੁਤੁਗ",
+              "start": 8.44,
+              "end": 11.12,
+              "probability": 0.830078125
+            },
+            {
+              "word": " ਸੁਖੀ",
+              "start": 11.12,
+              "end": 14.06,
+              "probability": 0.84521484375
+            },
+            {
+              "word": " ਚੂ",
+              "start": 14.06,
+              "end": 17.06,
+              "probability": 0.857421875
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "utterances": [
+        {
+          "compact_start": 0,
+          "compact_end": 0.93925,
+          "start": 626.9005,
+          "end": 627.8398
+        }
+      ],
+      "text": " സുഖിച്ചുക",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 0.74,
+          "text": " സുഖിച്ചുക",
+          "tokens": [
+            50365,
+            220,
+            46503,
+            116,
+            156,
+            113,
+            223,
+            46503,
+            244,
+            46503,
+            123,
+            46503,
+            248,
+            156,
+            113,
+            235,
+            46503,
+            248,
+            156,
+            113,
+            223,
+            46503,
+            243,
+            50465
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.2537643814086914,
+          "compression_ratio": 0.84375,
+          "no_speech_prob": 0.06872031092643738,
+          "words": [
+            {
+              "word": " സുഖിച്ചുക",
+              "start": 0.0,
+              "end": 0.74,
+              "probability": 0.5615234375
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "complete": true
+}

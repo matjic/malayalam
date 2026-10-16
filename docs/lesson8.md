@@ -65,40 +65,48 @@
 <div class="lesson-audio">
 <p><strong>Vocabulary audio</strong></p>
 <audio controls preload="none" aria-label="Lesson 8: Vocabulary audio" src="assets/audio/moag/sections/lesson_08_vocabulary_0.mp3"></audio>
-<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_08_vocabulary_0.mp3" aria-pressed="true">Listen · 01:54</button></div>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_08_vocabulary_0.mp3" aria-pressed="true">Listen · 01:49</button></div>
 <p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
 </div>
 <!-- /moag-audio -->
 
-| Malayalam | English |
-|---|---|
-| ഏയ് | hey |
-| തനിക്ക് | to you (familiar) (equal) |
-| രവിയെ | Ravi (direct object of verb) |
-| ക്ലാസ് | class |
-| പഠിക്കുന്ന | who or which studies (adjective) |
-| താൻ | you (familiar) (equal) |
-| ഇന്ന് | today |
-| കാണണം | want to see, must see, have to see |
-| അവനോട് | to him (with verbs of telling and asking) |
-| പറ്റുക | to happen |
-| അത് പറ്റില്ല | that is impossible |
-| നാളെ | tomorrow |
-| പരീക്ഷ | examination |
-| നല്ലപോലെ | well, in a good way |
-| പഠിപ്പിക്കുക | to teach |
-| മുൻപ് | before (prior to) |
-| ബാങ്ക് | bank |
-| കുറെ | a lot |
-| എടുക്കുക | to take |
-| <!-- Source: PDF page 155; printed page 105. --> അത് സാരമില്ല | that's all right, that's no problem |
-| വൈകുന്നേരം | afternoon, evening, in the afternoon, in the evening |
-| പറഞ്ഞാൽ | if (you) tell |
-| പോകട്ടെ | may (I) go, let (me) go (familiar leave taking) |
-| ചോദിക്കു | ask |
-| രാവിലെ | morning, in the morning |
-| രാത്രി | night |
-| ഉച്ചക്ക് | at noon |
+<!-- moag-vocabulary-words -->
+<div class="lesson-audio">
+<p><strong>Selected vocabulary recording</strong></p>
+<audio data-table-audio-player controls preload="none" aria-label="Lesson 8: select a word in the vocabulary table"></audio>
+<p class="lesson-audio-note">Use the Audio column to hear a word. Recorded variants appear beside their written entry; additional recorded forms are included in the same table. Unconfirmed recordings stay in rows marked “check match” until their word is verified. A dash means no aligned recording yet.</p>
+</div>
+<!-- /moag-vocabulary-words -->
+
+| Malayalam | English | Audio |
+|---|---|---|
+| ഏയ് | hey | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_001.mp3" data-audio-label="ഏയ്" aria-label="Play ഏയ്" title="Play ഏയ്" aria-pressed="false">▶</button> |
+| തനിക്ക് | to you (familiar) (equal) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_002.mp3" data-audio-label="തനിക്ക്" aria-label="Play തനിക്ക്" title="Play തനിക്ക്" aria-pressed="false">▶</button> |
+| രവിയെ | Ravi (direct object of verb) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_003.mp3" data-audio-label="രവിയെ" aria-label="Play രവിയെ" title="Play രവിയെ" aria-pressed="false">▶</button> |
+| ക്ലാസ് | class | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_004.mp3" data-audio-label="ക്ലാസ്" aria-label="Play ക്ലാസ്" title="Play ക്ലാസ്" aria-pressed="false">▶</button> |
+| പഠിക്കുന്ന | who or which studies (adjective) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_005.mp3" data-audio-label="പഠിക്കുന്ന" aria-label="Play പഠിക്കുന്ന" title="Play പഠിക്കുന്ന" aria-pressed="false">▶</button> |
+| താൻ | you (familiar) (equal) | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| ഇന്ന് | today | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_006.mp3" data-audio-label="ഇന്ന്" aria-label="Play ഇന്ന്" title="Play ഇന്ന്" aria-pressed="false">▶</button> |
+| കാണണം | want to see, must see, have to see | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_007.mp3" data-audio-label="കാണണം" aria-label="Play കാണണം" title="Play കാണണം" aria-pressed="false">▶</button> |
+| അവനോട് | to him (with verbs of telling and asking) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_008.mp3" data-audio-label="അവനോട്" aria-label="Play അവനോട്" title="Play അവനോട്" aria-pressed="false">▶</button> |
+| പറ്റുക | to happen | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_009.mp3" data-audio-label="പറ്റുക" aria-label="Play പറ്റുക" title="Play പറ്റുക" aria-pressed="false">▶</button> |
+| അത് പറ്റില്ല | that is impossible | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_010.mp3" data-audio-label="അത് പറ്റില്ല" aria-label="Play അത് പറ്റില്ല" title="Play അത് പറ്റില്ല" aria-pressed="false">▶</button> |
+| നാളെ | tomorrow | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_011.mp3" data-audio-label="നാളെ" aria-label="Play നാളെ" title="Play നാളെ" aria-pressed="false">▶</button> |
+| പരീക്ഷ | examination | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_012.mp3" data-audio-label="പരീക്ഷ" aria-label="Play പരീക്ഷ" title="Play പരീക്ഷ" aria-pressed="false">▶</button> |
+| നല്ലപോലെ | well, in a good way | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_013.mp3" data-audio-label="നല്ലപോലെ" aria-label="Play നല്ലപോലെ" title="Play നല്ലപോലെ" aria-pressed="false">▶</button> |
+| പഠിപ്പിക്കുക | to teach | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_014.mp3" data-audio-label="പഠിപ്പിക്കുക" aria-label="Play പഠിപ്പിക്കുക" title="Play പഠിപ്പിക്കുക" aria-pressed="false">▶</button> |
+| മുൻപ് | before (prior to) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_015.mp3" data-audio-label="മുൻപ്" aria-label="Play മുൻപ്" title="Play മുൻപ്" aria-pressed="false">▶</button> |
+| ബാങ്ക് | bank | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_016.mp3" data-audio-label="ബാങ്ക്" aria-label="Play ബാങ്ക്" title="Play ബാങ്ക്" aria-pressed="false">▶</button> |
+| കുറെ | a lot | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_017.mp3" data-audio-label="കുറെ" aria-label="Play കുറെ" title="Play കുറെ" aria-pressed="false">▶</button> |
+| എടുക്കുക | to take | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_018.mp3" data-audio-label="എടുക്കുക" aria-label="Play എടുക്കുക" title="Play എടുക്കുക" aria-pressed="false">▶</button> |
+| <!-- Source: PDF page 155; printed page 105. --> അത് സാരമില്ല | that's all right, that's no problem | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_019.mp3" data-audio-label="അത് സാരമില്ല" aria-label="Play അത് സാരമില്ല" title="Play അത് സാരമില്ല" aria-pressed="false">▶</button> |
+| വൈകുന്നേരം | afternoon, evening, in the afternoon, in the evening | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_020.mp3" data-audio-label="വൈകുന്നേരം" aria-label="Play വൈകുന്നേരം" title="Play വൈകുന്നേരം" aria-pressed="false">▶</button> |
+| പറഞ്ഞാൽ | if (you) tell | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_021.mp3" data-audio-label="പറഞ്ഞാൽ" aria-label="Play പറഞ്ഞാൽ" title="Play പറഞ്ഞാൽ" aria-pressed="false">▶</button> |
+| പോകട്ടെ | may (I) go, let (me) go (familiar leave taking) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_022.mp3" data-audio-label="പോകട്ടെ" aria-label="Play പോകട്ടെ" title="Play പോകട്ടെ" aria-pressed="false">▶</button> |
+| ചോദിക്കു | ask | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_023.mp3" data-audio-label="ചോദിക്കു" aria-label="Play ചോദിക്കു" title="Play ചോദിക്കു" aria-pressed="false">▶</button> |
+| രാവിലെ | morning, in the morning | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_024.mp3" data-audio-label="രാവിലെ" aria-label="Play രാവിലെ" title="Play രാവിലെ" aria-pressed="false">▶</button> |
+| രാത്രി | night | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_025.mp3" data-audio-label="രാത്രി" aria-label="Play രാത്രി" title="Play രാത്രി" aria-pressed="false">▶</button> |
+| ഉച്ചക്ക് | at noon | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
 
 <a id="lesson8-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice

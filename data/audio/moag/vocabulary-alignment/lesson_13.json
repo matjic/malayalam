@@ -1,0 +1,1140 @@
+{
+  "pipeline_version": 6,
+  "lesson": 13,
+  "source": "data/audio/moag/lesson_13.mp3",
+  "model": "Whisper large-v3 (32 encoder and 32 decoder layers), MLX",
+  "range_start": 13.77,
+  "range_end": 241.05,
+  "method": "Acoustic cepstrum comparison pairs repeated utterances independently of textbook order; large-v3 word end timestamps matched to pauses, then global spelling assignment against printed vocabulary (order is only a weak tie-breaker). Low-confidence labels require review. Raw recognizer text retained.",
+  "words": [
+    {
+      "utterances": [
+        {
+          "start": 15.3026,
+          "end": 16.1612
+        },
+        {
+          "start": 18.1986,
+          "end": 19.0088
+        }
+      ],
+      "raw_texts": [
+        "നേരുത്തെ",
+        "നേരുത്തെ"
+      ],
+      "english_segments": [],
+      "transcript": "നേരത്തെ",
+      "meaning": "before, previously, early",
+      "textbook_row": 0,
+      "similarity": 0.909,
+      "status": "matched",
+      "id": "lesson_13_word_001"
+    },
+    {
+      "utterances": [
+        {
+          "start": 21.235,
+          "end": 22.1873
+        },
+        {
+          "start": 24.2929,
+          "end": 25.2732
+        }
+      ],
+      "raw_texts": [
+        "അനുവാധം",
+        "അനുവാധം"
+      ],
+      "english_segments": [],
+      "transcript": "അനുവാദം",
+      "meaning": "permission",
+      "textbook_row": 1,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_13_word_002"
+    },
+    {
+      "utterances": [
+        {
+          "start": 27.7702,
+          "end": 28.9084
+        },
+        {
+          "start": 30.9716,
+          "end": 32.1449
+        }
+      ],
+      "raw_texts": [
+        "വാങീച്ച്ടുന്ട",
+        "വാങ്ങിച്ച്ടുന്ട"
+      ],
+      "english_segments": [],
+      "transcript": "വാങ്ങിച്ചിട്ടുണ്ട്",
+      "meaning": "have (you) gotten, taken",
+      "textbook_row": 2,
+      "similarity": 0.947,
+      "status": "matched",
+      "id": "lesson_13_word_003"
+    },
+    {
+      "utterances": [
+        {
+          "start": 34.6083,
+          "end": 35.4375
+        },
+        {
+          "start": 37.0061,
+          "end": 37.857
+        }
+      ],
+      "raw_texts": [
+        "ആവശിയം",
+        "ആവശിയം"
+      ],
+      "english_segments": [
+        {
+          "start": 33.09,
+          "end": 39.09,
+          "text": " need"
+        }
+      ],
+      "transcript": "ആവശ്യം",
+      "meaning": "need",
+      "textbook_row": 3,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_13_word_004"
+    },
+    {
+      "utterances": [
+        {
+          "start": 39.9912,
+          "end": 40.9861
+        },
+        {
+          "start": 42.9886,
+          "end": 44.0275
+        }
+      ],
+      "raw_texts": [
+        "ആവശിയം ഉണ്ഡ",
+        "ആവശിയം ഉണ്ഡ"
+      ],
+      "english_segments": [
+        {
+          "start": 39.09,
+          "end": 46.09,
+          "text": " need"
+        }
+      ],
+      "transcript": "ആവശ്യമുണ്ട്",
+      "meaning": "have need, to need",
+      "textbook_row": 4,
+      "similarity": 0.824,
+      "status": "matched",
+      "id": "lesson_13_word_005"
+    },
+    {
+      "utterances": [
+        {
+          "start": 46.4376,
+          "end": 47.3921
+        },
+        {
+          "start": 49.4639,
+          "end": 50.778
+        }
+      ],
+      "raw_texts": [
+        "അത്യാവശ്യം",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 46.09,
+          "end": 51.09,
+          "text": " need"
+        }
+      ],
+      "transcript": "അത്യാവശ്യം",
+      "meaning": "a pressing need",
+      "textbook_row": 5,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_13_word_006"
+    },
+    {
+      "utterances": [
+        {
+          "start": 51.5426,
+          "end": 52.9647
+        },
+        {
+          "start": 54.9986,
+          "end": 56.4351
+        }
+      ],
+      "raw_texts": [
+        "മേടിങ്ങ്ങ് കളിഞ്ങ്യ്ട്",
+        "മേടിങ്ങ്ങ് കളിഞ്ങ്യ്ട്"
+      ],
+      "english_segments": [
+        {
+          "start": 51.09,
+          "end": 58.09,
+          "text": " after meeting"
+        }
+      ],
+      "transcript": "മീറ്റിങ്ങ് കഴിഞ്ഞിട്ട്",
+      "meaning": "after the meeting is finished",
+      "textbook_row": 6,
+      "similarity": 0.783,
+      "status": "matched",
+      "id": "lesson_13_word_007"
+    },
+    {
+      "utterances": [
+        {
+          "start": 59.1947,
+          "end": 59.8799
+        },
+        {
+          "start": 61.001,
+          "end": 61.7629
+        }
+      ],
+      "raw_texts": [
+        "സമയം",
+        "സമയം"
+      ],
+      "english_segments": [
+        {
+          "start": 58.09,
+          "end": 63.09,
+          "text": " samayam"
+        }
+      ],
+      "transcript": "സമയം",
+      "meaning": "time",
+      "textbook_row": 7,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_13_word_008"
+    },
+    {
+      "utterances": [
+        {
+          "start": 64.0872,
+          "end": 65.2988
+        },
+        {
+          "start": 66.9973,
+          "end": 68.1844
+        }
+      ],
+      "raw_texts": [
+        "അര്യാണ പാഡില്ല",
+        "അര്യാണ പാഡില്ല"
+      ],
+      "english_segments": [
+        {
+          "start": 63.09,
+          "end": 70.09,
+          "text": " ariyan paadilla"
+        }
+      ],
+      "transcript": "അറിയാൻ പാടില്ല",
+      "meaning": "I do not know, I have no idea",
+      "textbook_row": 8,
+      "similarity": 0.952,
+      "status": "matched",
+      "id": "lesson_13_word_009"
+    },
+    {
+      "utterances": [
+        {
+          "start": 70.8294,
+          "end": 72.18
+        },
+        {
+          "start": 74.5446,
+          "end": 75.8347
+        }
+      ],
+      "raw_texts": [
+        "ചോദിച്ച്ട് പരയാമ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 70.09,
+          "end": 77.09,
+          "text": " chodichitte parayam"
+        }
+      ],
+      "transcript": "ചോദിച്ചിട്ട് പറയാം",
+      "meaning": "I will ask and let you know",
+      "textbook_row": 9,
+      "similarity": 0.957,
+      "status": "matched",
+      "id": "lesson_13_word_010"
+    },
+    {
+      "utterances": [
+        {
+          "start": 78.4146,
+          "end": 79.1371
+        },
+        {
+          "start": 81.349,
+          "end": 82.1091
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 77.09,
+          "end": 84.09,
+          "text": " kajinya"
+        }
+      ],
+      "transcript": "കഴിഞ്ഞ",
+      "meaning": "last, previous",
+      "textbook_row": 10,
+      "similarity": 0.712,
+      "status": "matched",
+      "id": "lesson_13_word_011"
+    },
+    {
+      "utterances": [
+        {
+          "start": 85.1267,
+          "end": 85.762
+        },
+        {
+          "start": 87.811,
+          "end": 88.4307
+        }
+      ],
+      "raw_texts": [
+        "",
+        "ച"
+      ],
+      "english_segments": [
+        {
+          "start": 84.09,
+          "end": 89.09,
+          "text": " Pôle"
+        }
+      ],
+      "transcript": "പോലെ",
+      "meaning": "like, as",
+      "textbook_row": 11,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_13_word_012"
+    },
+    {
+      "utterances": [
+        {
+          "start": 90.7532,
+          "end": 91.8686
+        },
+        {
+          "start": 94.4903,
+          "end": 95.564
+        }
+      ],
+      "raw_texts": [
+        "പരണ്യതുപോലേ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 90.09,
+          "end": 97.09,
+          "text": " Paranyadu pôle"
+        }
+      ],
+      "transcript": "പറഞ്ഞതുപോലെ",
+      "meaning": "as you said",
+      "textbook_row": 14,
+      "similarity": 0.882,
+      "status": "matched",
+      "id": "lesson_13_word_013"
+    },
+    {
+      "utterances": [
+        {
+          "start": 98.0348,
+          "end": 98.8721
+        },
+        {
+          "start": 100.8494,
+          "end": 101.6751
+        }
+      ],
+      "raw_texts": [
+        "ക്ലാര്ക്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 98.09,
+          "end": 103.09,
+          "text": " Clark"
+        }
+      ],
+      "transcript": "ക്ലാർക്ക്",
+      "meaning": "clerk",
+      "textbook_row": 15,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_13_word_014"
+    },
+    {
+      "utterances": [
+        {
+          "start": 103.815,
+          "end": 104.5658
+        },
+        {
+          "start": 106.7826,
+          "end": 107.5747
+        }
+      ],
+      "raw_texts": [
+        "വായ്പാ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 104.09,
+          "end": 109.09,
+          "text": " Vaipa"
+        }
+      ],
+      "transcript": "വായ്പ",
+      "meaning": "loan",
+      "textbook_row": 16,
+      "similarity": 0.889,
+      "status": "matched",
+      "id": "lesson_13_word_015"
+    },
+    {
+      "utterances": [
+        {
+          "start": 109.9628,
+          "end": 111.0348
+        },
+        {
+          "start": 113.1896,
+          "end": 114.2555
+        }
+      ],
+      "raw_texts": [
+        "സീര്യാകുക",
+        "സീര്യാക്ക്"
+      ],
+      "english_segments": [
+        {
+          "start": 109.09,
+          "end": 122.09,
+          "text": " shiriakuga shiriaki"
+        }
+      ],
+      "transcript": "ശരിയാക്കുക",
+      "meaning": "to fix, to set right, to take care of",
+      "textbook_row": 17,
+      "similarity": 0.875,
+      "status": "matched",
+      "id": "lesson_13_word_016"
+    },
+    {
+      "utterances": [
+        {
+          "start": 116.547,
+          "end": 117.4948
+        },
+        {
+          "start": 119.777,
+          "end": 120.758
+        }
+      ],
+      "raw_texts": [
+        "സീര്യാക്ക്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 109.09,
+          "end": 122.09,
+          "text": " shiriakuga shiriaki"
+        }
+      ],
+      "transcript": "ശരിയാക്കി",
+      "meaning": "to fix, to set right, to take care of",
+      "textbook_row": 17,
+      "similarity": 0.769,
+      "status": "matched",
+      "id": "lesson_13_word_017"
+    },
+    {
+      "utterances": [
+        {
+          "start": 123.2602,
+          "end": 123.9237
+        },
+        {
+          "start": 125.3198,
+          "end": 125.9747
+        }
+      ],
+      "raw_texts": [
+        "ഫോരമ്",
+        "ഫോരമ്"
+      ],
+      "english_segments": [
+        {
+          "start": 122.09,
+          "end": 127.09,
+          "text": " forum"
+        }
+      ],
+      "transcript": "ഫോറം",
+      "meaning": "form",
+      "textbook_row": 18,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_13_word_018"
+    },
+    {
+      "utterances": [
+        {
+          "start": 128.033,
+          "end": 128.9722
+        },
+        {
+          "start": 130.717,
+          "end": 131.6137
+        }
+      ],
+      "raw_texts": [
+        "മേഡികുക",
+        "മേഡികുക"
+      ],
+      "english_segments": [
+        {
+          "start": 127.09,
+          "end": 139.09,
+          "text": " buy"
+        }
+      ],
+      "transcript": "മേടിക്കുക",
+      "meaning": "to obtain, to get, to buy",
+      "textbook_row": 19,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_13_word_019"
+    },
+    {
+      "utterances": [
+        {
+          "start": 134.2303,
+          "end": 135.0582
+        },
+        {
+          "start": 137.2938,
+          "end": 138.1732
+        }
+      ],
+      "raw_texts": [
+        "മേഡിചു",
+        "മേഡിചു"
+      ],
+      "english_segments": [
+        {
+          "start": 127.09,
+          "end": 139.09,
+          "text": " buy"
+        }
+      ],
+      "transcript": "മേടിച്ചു",
+      "meaning": "to obtain, to get, to buy",
+      "textbook_row": 19,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_13_word_020"
+    },
+    {
+      "utterances": [
+        {
+          "start": 140.8218,
+          "end": 141.9275
+        },
+        {
+          "start": 144.2207,
+          "end": 145.2857
+        }
+      ],
+      "raw_texts": [
+        "പൂരിപ്പികുക",
+        "പൂരിപ്പികുക"
+      ],
+      "english_segments": [
+        {
+          "start": 139.09,
+          "end": 147.09,
+          "text": " puripikyuga"
+        }
+      ],
+      "transcript": "പൂരിപ്പിക്കുക",
+      "meaning": "to fill out, to complete",
+      "textbook_row": 20,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_13_word_021"
+    },
+    {
+      "utterances": [
+        {
+          "start": 148.0374,
+          "end": 149.026
+        },
+        {
+          "start": 151.5443,
+          "end": 152.5608
+        }
+      ],
+      "raw_texts": [
+        "പൂരിപ്പിചു",
+        "പൂരിപ്പിചു"
+      ],
+      "english_segments": [
+        {
+          "start": 147.09,
+          "end": 154.09,
+          "text": " puripichu"
+        }
+      ],
+      "transcript": "പൂരിപ്പിച്ചു",
+      "meaning": "to fill out, to complete",
+      "textbook_row": 20,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_13_word_022"
+    },
+    {
+      "utterances": [
+        {
+          "start": 155.0068,
+          "end": 155.9444
+        },
+        {
+          "start": 158.2792,
+          "end": 159.2188
+        }
+      ],
+      "raw_texts": [
+        "കാണികുക",
+        "കാണികുക"
+      ],
+      "english_segments": [
+        {
+          "start": 154.09,
+          "end": 161.09,
+          "text": " kaanikyuga"
+        }
+      ],
+      "transcript": "കാണിക്കുക",
+      "meaning": "to show",
+      "textbook_row": 21,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_13_word_023"
+    },
+    {
+      "utterances": [
+        {
+          "start": 161.8035,
+          "end": 162.6692
+        },
+        {
+          "start": 165.3561,
+          "end": 166.2063
+        }
+      ],
+      "raw_texts": [
+        "കാണിചു",
+        "കാണിച"
+      ],
+      "english_segments": [
+        {
+          "start": 161.09,
+          "end": 168.09,
+          "text": " kaanichu"
+        }
+      ],
+      "transcript": "കാണിച്ചു",
+      "meaning": "to show",
+      "textbook_row": 21,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_13_word_024"
+    },
+    {
+      "utterances": [
+        {
+          "start": 168.7549,
+          "end": 169.5113
+        },
+        {
+          "start": 171.0096,
+          "end": 171.791
+        }
+      ],
+      "raw_texts": [
+        "തെട്ട്",
+        "തെട്ട്"
+      ],
+      "english_segments": [
+        {
+          "start": 168.09,
+          "end": 186.09,
+          "text": " Thette Thiruthuka Thiruthi"
+        }
+      ],
+      "transcript": "തെറ്റ്",
+      "meaning": "mistakes (noun)",
+      "textbook_row": 22,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_13_word_025"
+    },
+    {
+      "utterances": [
+        {
+          "start": 173.8031,
+          "end": 174.6423
+        },
+        {
+          "start": 176.8208,
+          "end": 177.6499
+        }
+      ],
+      "raw_texts": [
+        "തീരുത്തുക",
+        "തീരുത്തുക"
+      ],
+      "english_segments": [
+        {
+          "start": 168.09,
+          "end": 186.09,
+          "text": " Thette Thiruthuka Thiruthi"
+        }
+      ],
+      "transcript": "തിരുത്തുക",
+      "meaning": "to correct",
+      "textbook_row": 23,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_13_word_026"
+    },
+    {
+      "utterances": [
+        {
+          "start": 180.5144,
+          "end": 181.2912
+        },
+        {
+          "start": 183.8743,
+          "end": 184.5893
+        }
+      ],
+      "raw_texts": [
+        "തീരുത്ത്",
+        "തീരുത്ത്"
+      ],
+      "english_segments": [
+        {
+          "start": 168.09,
+          "end": 186.09,
+          "text": " Thette Thiruthuka Thiruthi"
+        }
+      ],
+      "transcript": "തിരുത്തി",
+      "meaning": "to correct",
+      "textbook_row": 23,
+      "similarity": 0.909,
+      "status": "matched",
+      "id": "lesson_13_word_027"
+    },
+    {
+      "utterances": [
+        {
+          "start": 187.2087,
+          "end": 188.1596
+        },
+        {
+          "start": 190.8294,
+          "end": 191.7771
+        }
+      ],
+      "raw_texts": [
+        "കൊണ്ടുത്ത്രുക",
+        "കൊണ്ടുത്രുക"
+      ],
+      "english_segments": [
+        {
+          "start": 186.09,
+          "end": 193.09,
+          "text": " kondu theruka"
+        }
+      ],
+      "transcript": "കൊണ്ടുതരുക",
+      "meaning": "to bring to someone",
+      "textbook_row": 24,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_13_word_028"
+    },
+    {
+      "utterances": [
+        {
+          "start": 194.4874,
+          "end": 195.4171
+        },
+        {
+          "start": 197.8377,
+          "end": 198.7587
+        }
+      ],
+      "raw_texts": [
+        "",
+        "കൊണ്ടുത്രുക"
+      ],
+      "english_segments": [
+        {
+          "start": 193.09,
+          "end": 200.09,
+          "text": " kondu dhannu"
+        }
+      ],
+      "transcript": "കൊണ്ടുതന്നു",
+      "meaning": "to bring to someone",
+      "textbook_row": 24,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_13_word_029"
+    },
+    {
+      "utterances": [
+        {
+          "start": 201.6448,
+          "end": 202.3079
+        },
+        {
+          "start": 204.5156,
+          "end": 205.2078
+        }
+      ],
+      "raw_texts": [
+        "",
+        "കൊണ്�"
+      ],
+      "english_segments": [
+        {
+          "start": 200.09,
+          "end": 206.09,
+          "text": " paisa"
+        }
+      ],
+      "transcript": "പൈസ",
+      "meaning": "Paisa, a hundredth of a Rupee",
+      "textbook_row": 25,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_13_word_030"
+    },
+    {
+      "utterances": [
+        {
+          "start": 207.4546,
+          "end": 208.2876
+        },
+        {
+          "start": 210.3267,
+          "end": 211.1938
+        }
+      ],
+      "raw_texts": [
+        "സ്റ്റാമ്പ്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 206.09,
+          "end": 212.09,
+          "text": " stamp"
+        }
+      ],
+      "transcript": "സ്റ്റാമ്പ്",
+      "meaning": "stamp",
+      "textbook_row": 26,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_13_word_031"
+    },
+    {
+      "utterances": [
+        {
+          "start": 213.7407,
+          "end": 214.6362
+        },
+        {
+          "start": 216.7326,
+          "end": 217.6113
+        }
+      ],
+      "raw_texts": [
+        "കുടികുക",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 212.09,
+          "end": 241.09,
+          "text": " I will drink coffee"
+        }
+      ],
+      "transcript": "ഒട്ടിക്കുക",
+      "meaning": "to stick, to paste on",
+      "textbook_row": 27,
+      "similarity": 0.769,
+      "status": "matched",
+      "id": "lesson_13_word_032"
+    },
+    {
+      "utterances": [
+        {
+          "start": 220.0633,
+          "end": 220.8948
+        },
+        {
+          "start": 223.2215,
+          "end": 224.0344
+        }
+      ],
+      "raw_texts": [
+        "കാപ്പി",
+        "കുടികുക"
+      ],
+      "english_segments": [
+        {
+          "start": 212.09,
+          "end": 241.09,
+          "text": " I will drink coffee"
+        }
+      ],
+      "transcript": "ഒട്ടിച്ചു",
+      "meaning": "to stick, to paste on",
+      "textbook_row": 27,
+      "similarity": 0.5,
+      "status": "review",
+      "id": "lesson_13_word_033"
+    },
+    {
+      "utterances": [
+        {
+          "start": 226.6458,
+          "end": 227.7705
+        },
+        {
+          "start": 230.0144,
+          "end": 231.1548
+        }
+      ],
+      "raw_texts": [
+        "കാപ്പി കുടികുക",
+        "കാപ്പി കുടികുക"
+      ],
+      "english_segments": [
+        {
+          "start": 212.09,
+          "end": 241.09,
+          "text": " I will drink coffee"
+        }
+      ],
+      "transcript": "കാപ്പി കുടിക്കുക",
+      "meaning": "to have breakfast, snack (literally, to drink coffee)",
+      "textbook_row": 28,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_13_word_034"
+    },
+    {
+      "utterances": [
+        {
+          "start": 234.2083,
+          "end": 235.2883
+        },
+        {
+          "start": 238.1599,
+          "end": 239.546
+        }
+      ],
+      "raw_texts": [
+        "കാപ്പി കുടികുക",
+        "കാപ്പി കുടികുക കാപ്പി കുടി"
+      ],
+      "english_segments": [
+        {
+          "start": 212.09,
+          "end": 241.09,
+          "text": " I will drink coffee"
+        }
+      ],
+      "transcript": "കാപ്പി കുടിച്ചു",
+      "meaning": "to have breakfast, snack (literally, to drink coffee)",
+      "textbook_row": 28,
+      "similarity": 0.857,
+      "status": "matched",
+      "id": "lesson_13_word_035"
+    }
+  ],
+  "textbook_vocabulary": [
+    {
+      "malayalam": "നേരത്തെ",
+      "meaning": "before, previously, early"
+    },
+    {
+      "malayalam": "അനുവാദം",
+      "meaning": "permission"
+    },
+    {
+      "malayalam": "വാങ്ങിച്ചിട്ടുണ്ട്",
+      "meaning": "have (you) gotten, taken"
+    },
+    {
+      "malayalam": "ആവശ്യം",
+      "meaning": "need"
+    },
+    {
+      "malayalam": "ആവശ്യമുണ്ട്",
+      "meaning": "have need, to need"
+    },
+    {
+      "malayalam": "അത്യാവശ്യം",
+      "meaning": "a pressing need"
+    },
+    {
+      "malayalam": "മീറ്റിങ്ങ് കഴിഞ്ഞിട്ട്",
+      "meaning": "after the meeting is finished"
+    },
+    {
+      "malayalam": "സമയം",
+      "meaning": "time"
+    },
+    {
+      "malayalam": "അറിയാൻ പാടില്ല",
+      "meaning": "I do not know, I have no idea"
+    },
+    {
+      "malayalam": "ചോദിച്ചിട്ട് പറയാം",
+      "meaning": "I will ask and let you know"
+    },
+    {
+      "malayalam": "കഴിഞ്ഞ",
+      "meaning": "last, previous"
+    },
+    {
+      "malayalam": "പോലെ",
+      "meaning": "like, as"
+    },
+    {
+      "malayalam": "വേറെ",
+      "meaning": "other"
+    },
+    {
+      "malayalam": "വേറൊരു",
+      "meaning": "another"
+    },
+    {
+      "malayalam": "പറഞ്ഞതുപോലെ",
+      "meaning": "as you said"
+    },
+    {
+      "malayalam": "ക്ലാർക്ക്",
+      "meaning": "clerk"
+    },
+    {
+      "malayalam": "വായ്പ",
+      "meaning": "loan"
+    },
+    {
+      "malayalam": "ശരിയാക്കുക (past tense: ശരിയാക്കി)",
+      "meaning": "to fix, to set right, to take care of"
+    },
+    {
+      "malayalam": "ഫോറം",
+      "meaning": "form"
+    },
+    {
+      "malayalam": "മേടിക്കുക (past tense: മേടിച്ചു)",
+      "meaning": "to obtain, to get, to buy"
+    },
+    {
+      "malayalam": "പൂരിപ്പിക്കുക (past tense: പൂരിപ്പിച്ചു)",
+      "meaning": "to fill out, to complete"
+    },
+    {
+      "malayalam": "കാണിക്കുക (past tense: കാണിച്ചു)",
+      "meaning": "to show"
+    },
+    {
+      "malayalam": "തെറ്റ്",
+      "meaning": "mistakes (noun)"
+    },
+    {
+      "malayalam": "തിരുത്തുക (past tense: തിരുത്തി)",
+      "meaning": "to correct"
+    },
+    {
+      "malayalam": "കൊണ്ടുതരുക (past tense: കൊണ്ടുതന്നു)",
+      "meaning": "to bring to someone"
+    },
+    {
+      "malayalam": "പൈസ",
+      "meaning": "Paisa, a hundredth of a Rupee"
+    },
+    {
+      "malayalam": "സ്റ്റാമ്പ്",
+      "meaning": "stamp"
+    },
+    {
+      "malayalam": "ഒട്ടിക്കുക (past tense: ഒട്ടിച്ചു)",
+      "meaning": "to stick, to paste on"
+    },
+    {
+      "malayalam": "കാപ്പി കുടിക്കുക (past tense: കാപ്പി കുടിച്ചു)",
+      "meaning": "to have breakfast, snack (literally, to drink coffee)"
+    }
+  ],
+  "unmatched_textbook_rows": [
+    {
+      "index": 12,
+      "malayalam": "വേറെ",
+      "meaning": "other"
+    },
+    {
+      "index": 13,
+      "malayalam": "വേറൊരു",
+      "meaning": "another"
+    }
+  ],
+  "recognition_sha256": "79646037c9be329bd83f075854332852f7b5f7d9d407a703a26f29a0f5bbb79c",
+  "boundary_sha256": "849bfdd39f510ec0a0efaade2b9269e6f5c7e315093af21acc1f86261aefd326"
+}

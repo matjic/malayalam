@@ -1,0 +1,275 @@
+{
+  "model": "adalat-ai/koyal-ml-120m-1.0",
+  "format": "Core ML ML Program",
+  "coremltools_version": "9.0",
+  "torch_version": "2.14.1",
+  "compute_units": "CPU_ONLY",
+  "frames": 512,
+  "precision": "float32",
+  "artifact_directory": "/private/tmp/koyal-coreml",
+  "component_validation": {
+    "encoder": {
+      "encoded": {
+        "max_absolute_error": 1.4796853065490723e-05,
+        "mean_absolute_error": 4.906223693978973e-07
+      },
+      "encoded_length": {
+        "max_absolute_error": 0.0,
+        "mean_absolute_error": 0.0
+      }
+    },
+    "predictor": {
+      "predicted": {
+        "max_absolute_error": 7.450580596923828e-08,
+        "mean_absolute_error": 6.897846738240787e-09
+      },
+      "h_out": {
+        "max_absolute_error": 7.450580596923828e-08,
+        "mean_absolute_error": 6.897846738240787e-09
+      },
+      "c_out": {
+        "max_absolute_error": 8.940696716308594e-08,
+        "mean_absolute_error": 6.9912173827901825e-09
+      }
+    },
+    "joint": {
+      "logits": {
+        "max_absolute_error": 1.9073486328125e-05,
+        "mean_absolute_error": 2.9954210276628146e-06
+      }
+    }
+  },
+  "transcription_checks": [
+    {
+      "audio": "docs/assets/audio/moag/words/lesson_03_word_001.mp3",
+      "coreml": "ഉണ്ട് ഉണ്ട്",
+      "tokens": [
+        {
+          "id": 57,
+          "piece": "▁ഉ",
+          "start": 0.44,
+          "duration": 0.16
+        },
+        {
+          "id": 68,
+          "piece": "ണ്ട്",
+          "start": 0.6,
+          "duration": 0.16
+        },
+        {
+          "id": 57,
+          "piece": "▁ഉ",
+          "start": 2.08,
+          "duration": 0.16
+        },
+        {
+          "id": 68,
+          "piece": "ണ്ട്",
+          "start": 2.24,
+          "duration": 0.16
+        }
+      ],
+      "nemo": "ഉണ്ട് ഉണ്ട്",
+      "matches_nemo": true
+    },
+    {
+      "audio": "docs/assets/audio/moag/words/lesson_16_word_040.mp3",
+      "coreml": "ഇന്ത്യൻ എക്സ്പ്രസ് ഇന്ത്യൻ എക്സ്പ്രസ്",
+      "tokens": [
+        {
+          "id": 328,
+          "piece": "▁ഇന്ത്യ",
+          "start": 0.16,
+          "duration": 0.16
+        },
+        {
+          "id": 389,
+          "piece": "ൻ",
+          "start": 0.32,
+          "duration": 0.04
+        },
+        {
+          "id": 21,
+          "piece": "▁എ",
+          "start": 0.44,
+          "duration": 0.04
+        },
+        {
+          "id": 2,
+          "piece": "ക്",
+          "start": 0.48,
+          "duration": 0.08
+        },
+        {
+          "id": 373,
+          "piece": "സ",
+          "start": 0.56,
+          "duration": 0.08
+        },
+        {
+          "id": 16,
+          "piece": "്പ",
+          "start": 0.64,
+          "duration": 0.04
+        },
+        {
+          "id": 31,
+          "piece": "്ര",
+          "start": 0.68,
+          "duration": 0.08
+        },
+        {
+          "id": 36,
+          "piece": "സ്",
+          "start": 0.76,
+          "duration": 0.08
+        },
+        {
+          "id": 328,
+          "piece": "▁ഇന്ത്യ",
+          "start": 2.4,
+          "duration": 0.16
+        },
+        {
+          "id": 389,
+          "piece": "ൻ",
+          "start": 2.64,
+          "duration": 0.08
+        },
+        {
+          "id": 21,
+          "piece": "▁എ",
+          "start": 2.72,
+          "duration": 0.08
+        },
+        {
+          "id": 2,
+          "piece": "ക്",
+          "start": 2.8,
+          "duration": 0.08
+        },
+        {
+          "id": 373,
+          "piece": "സ",
+          "start": 2.88,
+          "duration": 0.04
+        },
+        {
+          "id": 16,
+          "piece": "്പ",
+          "start": 2.92,
+          "duration": 0.08
+        },
+        {
+          "id": 31,
+          "piece": "്ര",
+          "start": 3.0,
+          "duration": 0.08
+        },
+        {
+          "id": 36,
+          "piece": "സ്",
+          "start": 3.08,
+          "duration": 0.08
+        }
+      ],
+      "nemo": "ഇന്ത്യൻ എക്സ്പ്രസ് ഇന്ത്യൻ എക്സ്പ്രസ്",
+      "matches_nemo": true
+    },
+    {
+      "audio": "docs/assets/audio/moag/words/lesson_25_word_074.mp3",
+      "coreml": "കൈകൂപ്പി കൈകൂപ്പി",
+      "tokens": [
+        {
+          "id": 8,
+          "piece": "▁ക",
+          "start": 0.12,
+          "duration": 0.12
+        },
+        {
+          "id": 408,
+          "piece": "ൈ",
+          "start": 0.24,
+          "duration": 0.08
+        },
+        {
+          "id": 357,
+          "piece": "ക",
+          "start": 0.32,
+          "duration": 0.08
+        },
+        {
+          "id": 394,
+          "piece": "ൂ",
+          "start": 0.44,
+          "duration": 0.08
+        },
+        {
+          "id": 26,
+          "piece": "പ്പ",
+          "start": 0.52,
+          "duration": 0.08
+        },
+        {
+          "id": 356,
+          "piece": "ി",
+          "start": 0.68,
+          "duration": 0.16
+        },
+        {
+          "id": 8,
+          "piece": "▁ക",
+          "start": 2.68,
+          "duration": 0.16
+        },
+        {
+          "id": 408,
+          "piece": "ൈ",
+          "start": 2.84,
+          "duration": 0.12
+        },
+        {
+          "id": 357,
+          "piece": "ക",
+          "start": 2.96,
+          "duration": 0.12
+        },
+        {
+          "id": 394,
+          "piece": "ൂ",
+          "start": 3.08,
+          "duration": 0.12
+        },
+        {
+          "id": 26,
+          "piece": "പ്പ",
+          "start": 3.2,
+          "duration": 0.08
+        },
+        {
+          "id": 356,
+          "piece": "ി",
+          "start": 3.28,
+          "duration": 0.12
+        }
+      ],
+      "nemo": "കൈകൂപ്പി കൈകൂപ്പി",
+      "matches_nemo": true
+    }
+  ],
+  "limitations": [
+    "NeMo/PyTorch still performs mel preprocessing in the reference runtime",
+    "Swift integration and Neural Engine performance not tested",
+    "FP16 and frame counts other than 512 not tested"
+  ],
+  "publication": {
+    "repo_id": "matjacob/koyal-ml-120m-1.0-coreml",
+    "url": "https://huggingface.co/matjacob/koyal-ml-120m-1.0-coreml",
+    "revision": "fc142dbdeb1398cd08aff5b7f3d53b52dfe824a0",
+    "commit_url": "https://huggingface.co/matjacob/koyal-ml-120m-1.0-coreml/commit/fc142dbdeb1398cd08aff5b7f3d53b52dfe824a0",
+    "files": 30,
+    "public": true,
+    "base_model": "adalat-ai/koyal-ml-120m-1.0",
+    "license": "cc-by-4.0"
+  }
+}

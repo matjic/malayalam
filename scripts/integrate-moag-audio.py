@@ -11,6 +11,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 BLOCK = re.compile(r'\n<!-- moag-audio -->\n.*?<!-- /moag-audio -->\n', re.S)
 CLIPS = []
+VOCABULARY_RANGES = {}
 
 
 def clock(seconds):
@@ -60,6 +61,9 @@ def sections(track):
         if not match:
             continue
         found = [cue for cue in candidates if cue['kind'] == kind]
+        word_range = VOCABULARY_RANGES.get(track['lesson']) if kind == 'vocabulary' else None
+        if word_range:
+            found = [dict(kind=kind, start_seconds=word_range['start'])]
         if kind == 'conversation':
             found += [cue for cue in candidates if cue['kind'] == 'slower_reading'
                       and re.search(r'conversation|dialogue', cue['recognition_excerpt'], re.I)]
@@ -77,6 +81,8 @@ def sections(track):
                      if cue['kind'] in {'vocabulary', 'reading_practice', 'conversation', 'text', 'exercise'}
                      and cue['kind'] != kind and point(cue) > point(first)]
         end = min(following + [round(track['duration_seconds'], 2)])
+        if word_range:
+            end = word_range['end']
         if kind == 'conversation':
             slow = [cue for cue in candidates if cue['kind'] == 'slower_reading'
                     and cue['start_seconds'] >= first['start_seconds']
@@ -115,9 +121,13 @@ def sections(track):
 
 
 def main():
+    global VOCABULARY_RANGES
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--check', action='store_true')
     args = parser.parse_args()
+    word_ranges = ROOT / 'data/audio/moag/vocabulary-ranges.json'
+    if word_ranges.exists():
+        VOCABULARY_RANGES = {entry['lesson']: entry for entry in json.loads(word_ranges.read_text())}
     audit = json.loads((ROOT / 'data/audio/moag/audit.json').read_text())
     refined = json.loads((ROOT / 'data/audio/moag/section-boundaries.json').read_text())
     fine_tracks = {track['lesson']: track for track in refined['tracks']}

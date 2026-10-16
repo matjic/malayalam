@@ -1,0 +1,1391 @@
+{
+  "format": "koyal-word-timestamps-v1",
+  "lesson": 11,
+  "source": "data/audio/moag/lesson_11.mp3",
+  "model": "adalat-ai/koyal-ml-120m-1.0",
+  "checkpoint": "/private/tmp/koyal-ml-120m-1.0/koyal-ml-120m-1.0.nemo",
+  "nemo_version": "3.0.0",
+  "sample_rate": 16000,
+  "vocabulary_range": {
+    "lesson": 11,
+    "start": 99.39,
+    "end": 282.2512
+  },
+  "transcription_range": {
+    "start": 98.39,
+    "end": 283.2511875
+  },
+  "time_basis": "start/end are seconds in source MP3; section_start/end are relative to transcription_range.start",
+  "caveats": [
+    "Automatic ASR, not verified text or phonetic boundaries; preserve repeated words.",
+    "TDT timestamps approximate speech positions. Use nearby silence and padding for final cuts.",
+    "near_chunk_edge flags words within 0.25 seconds of a recognition chunk boundary.",
+    "Chunks meet at low-energy windows; no audio is omitted. A forced split can still divide speech.",
+    "English section announcements may be misrecognized by the Malayalam model."
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "start": 98.39,
+      "end": 120.53999999999999,
+      "text": "ഫോർ കെബുലറി പ്രാക്ടീസ് റിപ്പീറ്റ് ഈച്ച് ഐഡം ആഫ്റ്റർ ദി സ്പീക്കർ. ഈച്ച് ഐഡം ഈസ് ഗിവിങ് ടു വൈസ്. റെഡി? ലെസ്സൺ ആൻഡ് റിപ്പീറ്റ് ആയിരുന്നു പോയി പോയി അയച്ചു.",
+      "raw_word_timestamps": [
+        {
+          "word": "ഫോർ",
+          "start_offset": 55,
+          "end_offset": 60,
+          "start": 2.2,
+          "end": 2.4
+        },
+        {
+          "word": "കെബുലറി",
+          "start_offset": 60,
+          "end_offset": 70,
+          "start": 2.4,
+          "end": 2.8000000000000003
+        },
+        {
+          "word": "പ്രാക്ടീസ്",
+          "start_offset": 74,
+          "end_offset": 86,
+          "start": 2.96,
+          "end": 3.44
+        },
+        {
+          "word": "റിപ്പീറ്റ്",
+          "start_offset": 96,
+          "end_offset": 104,
+          "start": 3.84,
+          "end": 4.16
+        },
+        {
+          "word": "ഈച്ച്",
+          "start_offset": 106,
+          "end_offset": 111,
+          "start": 4.24,
+          "end": 4.44
+        },
+        {
+          "word": "ഐഡം",
+          "start_offset": 112,
+          "end_offset": 120,
+          "start": 4.48,
+          "end": 4.8
+        },
+        {
+          "word": "ആഫ്റ്റർ",
+          "start_offset": 122,
+          "end_offset": 129,
+          "start": 4.88,
+          "end": 5.16
+        },
+        {
+          "word": "ദി",
+          "start_offset": 130,
+          "end_offset": 132,
+          "start": 5.2,
+          "end": 5.28
+        },
+        {
+          "word": "സ്പീക്കർ.",
+          "start_offset": 133,
+          "end_offset": 146,
+          "start": 5.32,
+          "end": 5.84
+        },
+        {
+          "word": "ഈച്ച്",
+          "start_offset": 158,
+          "end_offset": 162,
+          "start": 6.32,
+          "end": 6.48
+        },
+        {
+          "word": "ഐഡം",
+          "start_offset": 163,
+          "end_offset": 169,
+          "start": 6.5200000000000005,
+          "end": 6.76
+        },
+        {
+          "word": "ഈസ്",
+          "start_offset": 170,
+          "end_offset": 173,
+          "start": 6.8,
+          "end": 6.92
+        },
+        {
+          "word": "ഗിവിങ്",
+          "start_offset": 173,
+          "end_offset": 179,
+          "start": 6.92,
+          "end": 7.16
+        },
+        {
+          "word": "ടു",
+          "start_offset": 180,
+          "end_offset": 183,
+          "start": 7.2,
+          "end": 7.32
+        },
+        {
+          "word": "വൈസ്.",
+          "start_offset": 184,
+          "end_offset": 195,
+          "start": 7.36,
+          "end": 7.8
+        },
+        {
+          "word": "റെഡി?",
+          "start_offset": 207,
+          "end_offset": 217,
+          "start": 8.28,
+          "end": 8.68
+        },
+        {
+          "word": "ലെസ്സൺ",
+          "start_offset": 227,
+          "end_offset": 234,
+          "start": 9.08,
+          "end": 9.36
+        },
+        {
+          "word": "ആൻഡ്",
+          "start_offset": 235,
+          "end_offset": 239,
+          "start": 9.4,
+          "end": 9.56
+        },
+        {
+          "word": "റിപ്പീറ്റ്",
+          "start_offset": 240,
+          "end_offset": 252,
+          "start": 9.6,
+          "end": 10.08
+        },
+        {
+          "word": "ആയിരുന്നു",
+          "start_offset": 277,
+          "end_offset": 291,
+          "start": 11.08,
+          "end": 11.64
+        },
+        {
+          "word": "പോയി",
+          "start_offset": 400,
+          "end_offset": 408,
+          "start": 16.0,
+          "end": 16.32
+        },
+        {
+          "word": "പോയി",
+          "start_offset": 462,
+          "end_offset": 470,
+          "start": 18.48,
+          "end": 18.8
+        },
+        {
+          "word": "അയച്ചു.",
+          "start_offset": 523,
+          "end_offset": 534,
+          "start": 20.92,
+          "end": 21.36
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "start": 120.53999999999999,
+      "end": 144.69,
+      "text": "അയച്ചുനാണ് എന്തിനാണ് അയച്ചത്? അയച്ചത് ഇറച്ചി ഇറച്ചി",
+      "raw_word_timestamps": [
+        {
+          "word": "അയച്ചുനാണ്",
+          "start_offset": 36,
+          "end_offset": 248,
+          "start": 1.44,
+          "end": 9.92
+        },
+        {
+          "word": "എന്തിനാണ്",
+          "start_offset": 295,
+          "end_offset": 310,
+          "start": 11.8,
+          "end": 12.4
+        },
+        {
+          "word": "അയച്ചത്?",
+          "start_offset": 362,
+          "end_offset": 378,
+          "start": 14.48,
+          "end": 15.120000000000001
+        },
+        {
+          "word": "അയച്ചത്",
+          "start_offset": 426,
+          "end_offset": 441,
+          "start": 17.04,
+          "end": 17.64
+        },
+        {
+          "word": "ഇറച്ചി",
+          "start_offset": 494,
+          "end_offset": 509,
+          "start": 19.76,
+          "end": 20.36
+        },
+        {
+          "word": "ഇറച്ചി",
+          "start_offset": 557,
+          "end_offset": 572,
+          "start": 22.28,
+          "end": 22.88
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "start": 144.69,
+      "end": 168.54000000000002,
+      "text": "തീർന്നു തീർന്നു പോയി തീർന്നുപോയി എടാ, എടാ, അത്ര അത്ര അത്രയും",
+      "raw_word_timestamps": [
+        {
+          "word": "തീർന്നു",
+          "start_offset": 19,
+          "end_offset": 31,
+          "start": 0.76,
+          "end": 1.24
+        },
+        {
+          "word": "തീർന്നു",
+          "start_offset": 81,
+          "end_offset": 95,
+          "start": 3.24,
+          "end": 3.8000000000000003
+        },
+        {
+          "word": "പോയി",
+          "start_offset": 163,
+          "end_offset": 171,
+          "start": 6.5200000000000005,
+          "end": 6.84
+        },
+        {
+          "word": "തീർന്നുപോയി",
+          "start_offset": 225,
+          "end_offset": 247,
+          "start": 9.0,
+          "end": 9.88
+        },
+        {
+          "word": "എടാ,",
+          "start_offset": 300,
+          "end_offset": 311,
+          "start": 12.0,
+          "end": 12.44
+        },
+        {
+          "word": "എടാ,",
+          "start_offset": 360,
+          "end_offset": 371,
+          "start": 14.4,
+          "end": 14.84
+        },
+        {
+          "word": "അത്ര",
+          "start_offset": 419,
+          "end_offset": 425,
+          "start": 16.76,
+          "end": 17.0
+        },
+        {
+          "word": "അത്ര",
+          "start_offset": 481,
+          "end_offset": 489,
+          "start": 19.240000000000002,
+          "end": 19.56
+        },
+        {
+          "word": "അത്രയും",
+          "start_offset": 542,
+          "end_offset": 553,
+          "start": 21.68,
+          "end": 22.12
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "start": 168.54000000000002,
+      "end": 190.99,
+      "text": "അത്രയും കിട്ടി കിട്ടി ചീത്ത കൊണ്ടുവന്നു കൊണ്ടുവന്നു നോക്കി നോക്കി.",
+      "raw_word_timestamps": [
+        {
+          "word": "അത്രയും",
+          "start_offset": 12,
+          "end_offset": 24,
+          "start": 0.48,
+          "end": 0.96
+        },
+        {
+          "word": "കിട്ടി",
+          "start_offset": 78,
+          "end_offset": 89,
+          "start": 3.12,
+          "end": 3.56
+        },
+        {
+          "word": "കിട്ടി",
+          "start_offset": 138,
+          "end_offset": 151,
+          "start": 5.5200000000000005,
+          "end": 6.04
+        },
+        {
+          "word": "ചീത്ത",
+          "start_offset": 267,
+          "end_offset": 278,
+          "start": 10.68,
+          "end": 11.120000000000001
+        },
+        {
+          "word": "കൊണ്ടുവന്നു",
+          "start_offset": 330,
+          "end_offset": 350,
+          "start": 13.200000000000001,
+          "end": 14.0
+        },
+        {
+          "word": "കൊണ്ടുവന്നു",
+          "start_offset": 396,
+          "end_offset": 415,
+          "start": 15.84,
+          "end": 16.6
+        },
+        {
+          "word": "നോക്കി",
+          "start_offset": 467,
+          "end_offset": 475,
+          "start": 18.68,
+          "end": 19.0
+        },
+        {
+          "word": "നോക്കി.",
+          "start_offset": 526,
+          "end_offset": 538,
+          "start": 21.04,
+          "end": 21.52
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "start": 190.99,
+      "end": 214.64,
+      "text": "ഇല്ലായിരുന്നു ഇല്ലായിരുന്നു കൊടുത്തു കൊടുത്തു കൂടുതൽ കൂടുതൽ അയ്യോ അയ്യോ വെറുതെ",
+      "raw_word_timestamps": [
+        {
+          "word": "ഇല്ലായിരുന്നു",
+          "start_offset": 26,
+          "end_offset": 36,
+          "start": 1.04,
+          "end": 1.44
+        },
+        {
+          "word": "ഇല്ലായിരുന്നു",
+          "start_offset": 92,
+          "end_offset": 103,
+          "start": 3.68,
+          "end": 4.12
+        },
+        {
+          "word": "കൊടുത്തു",
+          "start_offset": 160,
+          "end_offset": 175,
+          "start": 6.4,
+          "end": 7.0
+        },
+        {
+          "word": "കൊടുത്തു",
+          "start_offset": 222,
+          "end_offset": 238,
+          "start": 8.88,
+          "end": 9.52
+        },
+        {
+          "word": "കൂടുതൽ",
+          "start_offset": 294,
+          "end_offset": 310,
+          "start": 11.76,
+          "end": 12.4
+        },
+        {
+          "word": "കൂടുതൽ",
+          "start_offset": 358,
+          "end_offset": 374,
+          "start": 14.32,
+          "end": 14.96
+        },
+        {
+          "word": "അയ്യോ",
+          "start_offset": 422,
+          "end_offset": 436,
+          "start": 16.88,
+          "end": 17.44
+        },
+        {
+          "word": "അയ്യോ",
+          "start_offset": 486,
+          "end_offset": 495,
+          "start": 19.44,
+          "end": 19.8
+        },
+        {
+          "word": "വെറുതെ",
+          "start_offset": 556,
+          "end_offset": 572,
+          "start": 22.240000000000002,
+          "end": 22.88
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "start": 214.64,
+      "end": 236.69,
+      "text": "വെറുതെ കളഞ്ഞു കളഞ്ഞു പോകട്ടെ പോകട്ടെ എന്നാലും എന്നാലും കറി",
+      "raw_word_timestamps": [
+        {
+          "word": "വെറുതെ",
+          "start_offset": 31,
+          "end_offset": 46,
+          "start": 1.24,
+          "end": 1.84
+        },
+        {
+          "word": "കളഞ്ഞു",
+          "start_offset": 103,
+          "end_offset": 117,
+          "start": 4.12,
+          "end": 4.68
+        },
+        {
+          "word": "കളഞ്ഞു",
+          "start_offset": 167,
+          "end_offset": 181,
+          "start": 6.68,
+          "end": 7.24
+        },
+        {
+          "word": "പോകട്ടെ",
+          "start_offset": 239,
+          "end_offset": 254,
+          "start": 9.56,
+          "end": 10.16
+        },
+        {
+          "word": "പോകട്ടെ",
+          "start_offset": 301,
+          "end_offset": 317,
+          "start": 12.040000000000001,
+          "end": 12.68
+        },
+        {
+          "word": "എന്നാലും",
+          "start_offset": 366,
+          "end_offset": 382,
+          "start": 14.64,
+          "end": 15.280000000000001
+        },
+        {
+          "word": "എന്നാലും",
+          "start_offset": 434,
+          "end_offset": 449,
+          "start": 17.36,
+          "end": 17.96
+        },
+        {
+          "word": "കറി",
+          "start_offset": 501,
+          "end_offset": 508,
+          "start": 20.04,
+          "end": 20.32
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "start": 236.69,
+      "end": 260.64,
+      "text": "കറി കറിവെക്കുക, കറി വയ്ക്കുക. ചിലപ്പോൾ ചിലപ്പോൾ കഴിക്കുക പട്ടി.",
+      "raw_word_timestamps": [
+        {
+          "word": "കറി",
+          "start_offset": 12,
+          "end_offset": 20,
+          "start": 0.48,
+          "end": 0.8
+        },
+        {
+          "word": "കറിവെക്കുക,",
+          "start_offset": 77,
+          "end_offset": 98,
+          "start": 3.08,
+          "end": 3.92
+        },
+        {
+          "word": "കറി",
+          "start_offset": 146,
+          "end_offset": 153,
+          "start": 5.84,
+          "end": 6.12
+        },
+        {
+          "word": "വയ്ക്കുക.",
+          "start_offset": 153,
+          "end_offset": 169,
+          "start": 6.12,
+          "end": 6.76
+        },
+        {
+          "word": "ചിലപ്പോൾ",
+          "start_offset": 219,
+          "end_offset": 231,
+          "start": 8.76,
+          "end": 9.24
+        },
+        {
+          "word": "ചിലപ്പോൾ",
+          "start_offset": 285,
+          "end_offset": 297,
+          "start": 11.4,
+          "end": 11.88
+        },
+        {
+          "word": "കഴിക്കുക",
+          "start_offset": 413,
+          "end_offset": 428,
+          "start": 16.52,
+          "end": 17.12
+        },
+        {
+          "word": "പട്ടി.",
+          "start_offset": 543,
+          "end_offset": 551,
+          "start": 21.72,
+          "end": 22.04
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "start": 260.64,
+      "end": 283.2511875,
+      "text": "പറയണ്ട, പറയണ്ട. കേൾക്കുക. കേൾക്കുക. കേട്ടോ? കേട്ടോ? അടി വേണോ? അടി വേണോ?",
+      "raw_word_timestamps": [
+        {
+          "word": "പറയണ്ട,",
+          "start_offset": 12,
+          "end_offset": 22,
+          "start": 0.48,
+          "end": 0.88
+        },
+        {
+          "word": "പറയണ്ട.",
+          "start_offset": 76,
+          "end_offset": 85,
+          "start": 3.04,
+          "end": 3.4
+        },
+        {
+          "word": "കേൾക്കുക.",
+          "start_offset": 145,
+          "end_offset": 160,
+          "start": 5.8,
+          "end": 6.4
+        },
+        {
+          "word": "കേൾക്കുക.",
+          "start_offset": 208,
+          "end_offset": 223,
+          "start": 8.32,
+          "end": 8.92
+        },
+        {
+          "word": "കേട്ടോ?",
+          "start_offset": 274,
+          "end_offset": 289,
+          "start": 10.96,
+          "end": 11.56
+        },
+        {
+          "word": "കേട്ടോ?",
+          "start_offset": 337,
+          "end_offset": 349,
+          "start": 13.48,
+          "end": 13.96
+        },
+        {
+          "word": "അടി",
+          "start_offset": 401,
+          "end_offset": 407,
+          "start": 16.04,
+          "end": 16.28
+        },
+        {
+          "word": "വേണോ?",
+          "start_offset": 409,
+          "end_offset": 420,
+          "start": 16.36,
+          "end": 16.8
+        },
+        {
+          "word": "അടി",
+          "start_offset": 466,
+          "end_offset": 472,
+          "start": 18.64,
+          "end": 18.88
+        },
+        {
+          "word": "വേണോ?",
+          "start_offset": 474,
+          "end_offset": 485,
+          "start": 18.96,
+          "end": 19.400000000000002
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "word": "ഫോർ",
+      "start": 100.59,
+      "end": 100.79,
+      "section_start": 2.2,
+      "section_end": 2.4,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കെബുലറി",
+      "start": 100.79,
+      "end": 101.19,
+      "section_start": 2.4,
+      "section_end": 2.8,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പ്രാക്ടീസ്",
+      "start": 101.35,
+      "end": 101.83,
+      "section_start": 2.96,
+      "section_end": 3.44,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "റിപ്പീറ്റ്",
+      "start": 102.23,
+      "end": 102.55,
+      "section_start": 3.84,
+      "section_end": 4.16,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഈച്ച്",
+      "start": 102.63,
+      "end": 102.83,
+      "section_start": 4.24,
+      "section_end": 4.44,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഐഡം",
+      "start": 102.87,
+      "end": 103.19,
+      "section_start": 4.48,
+      "section_end": 4.8,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ആഫ്റ്റർ",
+      "start": 103.27,
+      "end": 103.55,
+      "section_start": 4.88,
+      "section_end": 5.16,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ദി",
+      "start": 103.59,
+      "end": 103.67,
+      "section_start": 5.2,
+      "section_end": 5.28,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സ്പീക്കർ.",
+      "start": 103.71,
+      "end": 104.23,
+      "section_start": 5.32,
+      "section_end": 5.84,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഈച്ച്",
+      "start": 104.71,
+      "end": 104.87,
+      "section_start": 6.32,
+      "section_end": 6.48,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഐഡം",
+      "start": 104.91,
+      "end": 105.15,
+      "section_start": 6.52,
+      "section_end": 6.76,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഈസ്",
+      "start": 105.19,
+      "end": 105.31,
+      "section_start": 6.8,
+      "section_end": 6.92,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഗിവിങ്",
+      "start": 105.31,
+      "end": 105.55,
+      "section_start": 6.92,
+      "section_end": 7.16,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ടു",
+      "start": 105.59,
+      "end": 105.71,
+      "section_start": 7.2,
+      "section_end": 7.32,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വൈസ്.",
+      "start": 105.75,
+      "end": 106.19,
+      "section_start": 7.36,
+      "section_end": 7.8,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "റെഡി?",
+      "start": 106.67,
+      "end": 107.07,
+      "section_start": 8.28,
+      "section_end": 8.68,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ലെസ്സൺ",
+      "start": 107.47,
+      "end": 107.75,
+      "section_start": 9.08,
+      "section_end": 9.36,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ആൻഡ്",
+      "start": 107.79,
+      "end": 107.95,
+      "section_start": 9.4,
+      "section_end": 9.56,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "റിപ്പീറ്റ്",
+      "start": 107.99,
+      "end": 108.47,
+      "section_start": 9.6,
+      "section_end": 10.08,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ആയിരുന്നു",
+      "start": 109.47,
+      "end": 110.03,
+      "section_start": 11.08,
+      "section_end": 11.64,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പോയി",
+      "start": 114.39,
+      "end": 114.71,
+      "section_start": 16.0,
+      "section_end": 16.32,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പോയി",
+      "start": 116.87,
+      "end": 117.19,
+      "section_start": 18.48,
+      "section_end": 18.8,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അയച്ചു.",
+      "start": 119.31,
+      "end": 119.75,
+      "section_start": 20.92,
+      "section_end": 21.36,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അയച്ചുനാണ്",
+      "start": 121.98,
+      "end": 130.46,
+      "section_start": 23.59,
+      "section_end": 32.07,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എന്തിനാണ്",
+      "start": 132.34,
+      "end": 132.94,
+      "section_start": 33.95,
+      "section_end": 34.55,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അയച്ചത്?",
+      "start": 135.02,
+      "end": 135.66,
+      "section_start": 36.63,
+      "section_end": 37.27,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അയച്ചത്",
+      "start": 137.58,
+      "end": 138.18,
+      "section_start": 39.19,
+      "section_end": 39.79,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഇറച്ചി",
+      "start": 140.3,
+      "end": 140.9,
+      "section_start": 41.91,
+      "section_end": 42.51,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഇറച്ചി",
+      "start": 142.82,
+      "end": 143.42,
+      "section_start": 44.43,
+      "section_end": 45.03,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "തീർന്നു",
+      "start": 145.45,
+      "end": 145.93,
+      "section_start": 47.06,
+      "section_end": 47.54,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "തീർന്നു",
+      "start": 147.93,
+      "end": 148.49,
+      "section_start": 49.54,
+      "section_end": 50.1,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പോയി",
+      "start": 151.21,
+      "end": 151.53,
+      "section_start": 52.82,
+      "section_end": 53.14,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "തീർന്നുപോയി",
+      "start": 153.69,
+      "end": 154.57,
+      "section_start": 55.3,
+      "section_end": 56.18,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എടാ,",
+      "start": 156.69,
+      "end": 157.13,
+      "section_start": 58.3,
+      "section_end": 58.74,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എടാ,",
+      "start": 159.09,
+      "end": 159.53,
+      "section_start": 60.7,
+      "section_end": 61.14,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അത്ര",
+      "start": 161.45,
+      "end": 161.69,
+      "section_start": 63.06,
+      "section_end": 63.3,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അത്ര",
+      "start": 163.93,
+      "end": 164.25,
+      "section_start": 65.54,
+      "section_end": 65.86,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അത്രയും",
+      "start": 166.37,
+      "end": 166.81,
+      "section_start": 67.98,
+      "section_end": 68.42,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അത്രയും",
+      "start": 169.02,
+      "end": 169.5,
+      "section_start": 70.63,
+      "section_end": 71.11,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കിട്ടി",
+      "start": 171.66,
+      "end": 172.1,
+      "section_start": 73.27,
+      "section_end": 73.71,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കിട്ടി",
+      "start": 174.06,
+      "end": 174.58,
+      "section_start": 75.67,
+      "section_end": 76.19,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ചീത്ത",
+      "start": 179.22,
+      "end": 179.66,
+      "section_start": 80.83,
+      "section_end": 81.27,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൊണ്ടുവന്നു",
+      "start": 181.74,
+      "end": 182.54,
+      "section_start": 83.35,
+      "section_end": 84.15,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൊണ്ടുവന്നു",
+      "start": 184.38,
+      "end": 185.14,
+      "section_start": 85.99,
+      "section_end": 86.75,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "നോക്കി",
+      "start": 187.22,
+      "end": 187.54,
+      "section_start": 88.83,
+      "section_end": 89.15,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "നോക്കി.",
+      "start": 189.58,
+      "end": 190.06,
+      "section_start": 91.19,
+      "section_end": 91.67,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഇല്ലായിരുന്നു",
+      "start": 192.03,
+      "end": 192.43,
+      "section_start": 93.64,
+      "section_end": 94.04,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഇല്ലായിരുന്നു",
+      "start": 194.67,
+      "end": 195.11,
+      "section_start": 96.28,
+      "section_end": 96.72,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൊടുത്തു",
+      "start": 197.39,
+      "end": 197.99,
+      "section_start": 99.0,
+      "section_end": 99.6,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൊടുത്തു",
+      "start": 199.87,
+      "end": 200.51,
+      "section_start": 101.48,
+      "section_end": 102.12,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൂടുതൽ",
+      "start": 202.75,
+      "end": 203.39,
+      "section_start": 104.36,
+      "section_end": 105.0,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൂടുതൽ",
+      "start": 205.31,
+      "end": 205.95,
+      "section_start": 106.92,
+      "section_end": 107.56,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അയ്യോ",
+      "start": 207.87,
+      "end": 208.43,
+      "section_start": 109.48,
+      "section_end": 110.04,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അയ്യോ",
+      "start": 210.43,
+      "end": 210.79,
+      "section_start": 112.04,
+      "section_end": 112.4,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വെറുതെ",
+      "start": 213.23,
+      "end": 213.87,
+      "section_start": 114.84,
+      "section_end": 115.48,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വെറുതെ",
+      "start": 215.88,
+      "end": 216.48,
+      "section_start": 117.49,
+      "section_end": 118.09,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കളഞ്ഞു",
+      "start": 218.76,
+      "end": 219.32,
+      "section_start": 120.37,
+      "section_end": 120.93,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കളഞ്ഞു",
+      "start": 221.32,
+      "end": 221.88,
+      "section_start": 122.93,
+      "section_end": 123.49,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പോകട്ടെ",
+      "start": 224.2,
+      "end": 224.8,
+      "section_start": 125.81,
+      "section_end": 126.41,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പോകട്ടെ",
+      "start": 226.68,
+      "end": 227.32,
+      "section_start": 128.29,
+      "section_end": 128.93,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എന്നാലും",
+      "start": 229.28,
+      "end": 229.92,
+      "section_start": 130.89,
+      "section_end": 131.53,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എന്നാലും",
+      "start": 232.0,
+      "end": 232.6,
+      "section_start": 133.61,
+      "section_end": 134.21,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കറി",
+      "start": 234.68,
+      "end": 234.96,
+      "section_start": 136.29,
+      "section_end": 136.57,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കറി",
+      "start": 237.17,
+      "end": 237.49,
+      "section_start": 138.78,
+      "section_end": 139.1,
+      "chunk": 6,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കറിവെക്കുക,",
+      "start": 239.77,
+      "end": 240.61,
+      "section_start": 141.38,
+      "section_end": 142.22,
+      "chunk": 6,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കറി",
+      "start": 242.53,
+      "end": 242.81,
+      "section_start": 144.14,
+      "section_end": 144.42,
+      "chunk": 6,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വയ്ക്കുക.",
+      "start": 242.81,
+      "end": 243.45,
+      "section_start": 144.42,
+      "section_end": 145.06,
+      "chunk": 6,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ചിലപ്പോൾ",
+      "start": 245.45,
+      "end": 245.93,
+      "section_start": 147.06,
+      "section_end": 147.54,
+      "chunk": 6,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ചിലപ്പോൾ",
+      "start": 248.09,
+      "end": 248.57,
+      "section_start": 149.7,
+      "section_end": 150.18,
+      "chunk": 6,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കഴിക്കുക",
+      "start": 253.21,
+      "end": 253.81,
+      "section_start": 154.82,
+      "section_end": 155.42,
+      "chunk": 6,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പട്ടി.",
+      "start": 258.41,
+      "end": 258.73,
+      "section_start": 160.02,
+      "section_end": 160.34,
+      "chunk": 6,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പറയണ്ട,",
+      "start": 261.12,
+      "end": 261.52,
+      "section_start": 162.73,
+      "section_end": 163.13,
+      "chunk": 7,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പറയണ്ട.",
+      "start": 263.68,
+      "end": 264.04,
+      "section_start": 165.29,
+      "section_end": 165.65,
+      "chunk": 7,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കേൾക്കുക.",
+      "start": 266.44,
+      "end": 267.04,
+      "section_start": 168.05,
+      "section_end": 168.65,
+      "chunk": 7,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കേൾക്കുക.",
+      "start": 268.96,
+      "end": 269.56,
+      "section_start": 170.57,
+      "section_end": 171.17,
+      "chunk": 7,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കേട്ടോ?",
+      "start": 271.6,
+      "end": 272.2,
+      "section_start": 173.21,
+      "section_end": 173.81,
+      "chunk": 7,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കേട്ടോ?",
+      "start": 274.12,
+      "end": 274.6,
+      "section_start": 175.73,
+      "section_end": 176.21,
+      "chunk": 7,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അടി",
+      "start": 276.68,
+      "end": 276.92,
+      "section_start": 178.29,
+      "section_end": 178.53,
+      "chunk": 7,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വേണോ?",
+      "start": 277.0,
+      "end": 277.44,
+      "section_start": 178.61,
+      "section_end": 179.05,
+      "chunk": 7,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അടി",
+      "start": 279.28,
+      "end": 279.52,
+      "section_start": 180.89,
+      "section_end": 181.13,
+      "chunk": 7,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വേണോ?",
+      "start": 279.6,
+      "end": 280.04,
+      "section_start": 181.21,
+      "section_end": 181.65,
+      "chunk": 7,
+      "near_chunk_edge": false
+    }
+  ],
+  "text": "ഫോർ കെബുലറി പ്രാക്ടീസ് റിപ്പീറ്റ് ഈച്ച് ഐഡം ആഫ്റ്റർ ദി സ്പീക്കർ. ഈച്ച് ഐഡം ഈസ് ഗിവിങ് ടു വൈസ്. റെഡി? ലെസ്സൺ ആൻഡ് റിപ്പീറ്റ് ആയിരുന്നു പോയി പോയി അയച്ചു. അയച്ചുനാണ് എന്തിനാണ് അയച്ചത്? അയച്ചത് ഇറച്ചി ഇറച്ചി തീർന്നു തീർന്നു പോയി തീർന്നുപോയി എടാ, എടാ, അത്ര അത്ര അത്രയും അത്രയും കിട്ടി കിട്ടി ചീത്ത കൊണ്ടുവന്നു കൊണ്ടുവന്നു നോക്കി നോക്കി. ഇല്ലായിരുന്നു ഇല്ലായിരുന്നു കൊടുത്തു കൊടുത്തു കൂടുതൽ കൂടുതൽ അയ്യോ അയ്യോ വെറുതെ വെറുതെ കളഞ്ഞു കളഞ്ഞു പോകട്ടെ പോകട്ടെ എന്നാലും എന്നാലും കറി കറി കറിവെക്കുക, കറി വയ്ക്കുക. ചിലപ്പോൾ ചിലപ്പോൾ കഴിക്കുക പട്ടി. പറയണ്ട, പറയണ്ട. കേൾക്കുക. കേൾക്കുക. കേട്ടോ? കേട്ടോ? അടി വേണോ? അടി വേണോ?"
+}

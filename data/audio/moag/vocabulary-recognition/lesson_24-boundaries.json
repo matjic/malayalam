@@ -1,0 +1,509 @@
+{
+  "lesson": 24,
+  "model": "Whisper large-v3",
+  "purpose": "English announcements only; Malayalam transliterations are not teaching transcriptions.",
+  "range_start": 228.75,
+  "range_end": 732.75,
+  "segments": [
+    {
+      "start": 228.75,
+      "end": 236.37,
+      "text": " Vocabulary practice. Repeat each item after the speaker. Each item is given twice. Ready? Listen and repeat."
+    },
+    {
+      "start": 258.75,
+      "end": 264.79,
+      "text": " Kedappu muri. Abhechikyuga. Abhechikyuga."
+    },
+    {
+      "start": 266.63,
+      "end": 270.93,
+      "text": " Erikaat veerda. Erikaat veerda."
+    },
+    {
+      "start": 272.99,
+      "end": 276.57,
+      "text": " Nagambadam. Nagambadam."
+    },
+    {
+      "start": 276.57,
+      "end": 281.11,
+      "text": " Vidham. Vidham."
+    },
+    {
+      "start": 282.69,
+      "end": 285.41,
+      "text": " Vivaram. Vivaram."
+    },
+    {
+      "start": 285.41,
+      "end": 287.83,
+      "text": " Nēril"
+    },
+    {
+      "start": 287.83,
+      "end": 292.77,
+      "text": " Nurse"
+    },
+    {
+      "start": 292.77,
+      "end": 300.07,
+      "text": " Pokkam"
+    },
+    {
+      "start": 300.07,
+      "end": 305.41,
+      "text": " Veluthā"
+    },
+    {
+      "start": 305.41,
+      "end": 310.15,
+      "text": " Niram"
+    },
+    {
+      "start": 310.15,
+      "end": 313.41,
+      "text": " Vannam"
+    },
+    {
+      "start": 313.41,
+      "end": 332.41,
+      "text": " vannam kurayuga kuranyu kuranyada"
+    },
+    {
+      "start": 332.41,
+      "end": 339.41,
+      "text": " Vannam kuranyadha"
+    },
+    {
+      "start": 339.41,
+      "end": 345.41,
+      "text": " Engineer"
+    },
+    {
+      "start": 345.41,
+      "end": 350.41,
+      "text": " Varan"
+    },
+    {
+      "start": 350.41,
+      "end": 354.41,
+      "text": " Avesha"
+    },
+    {
+      "start": 354.41,
+      "end": 359.41,
+      "text": " Chodichu kolluka"
+    },
+    {
+      "start": 359.41,
+      "end": 363.57,
+      "text": " vyatyastam vyatyastam"
+    },
+    {
+      "start": 363.57,
+      "end": 368.29,
+      "text": " snehikyuga snehikyuga"
+    },
+    {
+      "start": 368.29,
+      "end": 373.09,
+      "text": " sneham sneham"
+    },
+    {
+      "start": 373.09,
+      "end": 376.39,
+      "text": " tamil tamil"
+    },
+    {
+      "start": 376.39,
+      "end": 381.11,
+      "text": " vyatyasam vyatyasam"
+    },
+    {
+      "start": 381.11,
+      "end": 385.69,
+      "text": " manasilaguga manasilaguga"
+    },
+    {
+      "start": 385.69,
+      "end": 388.41,
+      "text": " avaravar"
+    },
+    {
+      "start": 388.41,
+      "end": 392.77,
+      "text": " saathikyuka"
+    },
+    {
+      "start": 392.77,
+      "end": 399.81,
+      "text": " paranya illa"
+    },
+    {
+      "start": 399.81,
+      "end": 401.49,
+      "text": " chila"
+    },
+    {
+      "start": 401.49,
+      "end": 405.81,
+      "text": " anniyoniyam"
+    },
+    {
+      "start": 405.81,
+      "end": 410.81,
+      "text": " nilanilkuka"
+    },
+    {
+      "start": 410.81,
+      "end": 412.81,
+      "text": " nila nilkuga"
+    },
+    {
+      "start": 412.81,
+      "end": 415.51,
+      "text": " endu kondannal"
+    },
+    {
+      "start": 415.51,
+      "end": 418.75,
+      "text": " endu kondannal"
+    },
+    {
+      "start": 418.75,
+      "end": 420.95,
+      "text": " samuham"
+    },
+    {
+      "start": 420.95,
+      "end": 423.25,
+      "text": " samuham"
+    },
+    {
+      "start": 423.25,
+      "end": 425.29,
+      "text": " vivaha mojanam"
+    },
+    {
+      "start": 425.29,
+      "end": 427.81,
+      "text": " vivaha mojanam"
+    },
+    {
+      "start": 428.41,
+      "end": 430.17,
+      "text": " neduga"
+    },
+    {
+      "start": 430.17,
+      "end": 432.35,
+      "text": " neduga"
+    },
+    {
+      "start": 432.35,
+      "end": 434.41,
+      "text": " nedi"
+    },
+    {
+      "start": 434.41,
+      "end": 436.39,
+      "text": " nedi"
+    },
+    {
+      "start": 436.39,
+      "end": 438.55,
+      "text": " edirkuga"
+    },
+    {
+      "start": 438.55,
+      "end": 440.79,
+      "text": " edirkuga"
+    },
+    {
+      "start": 440.79,
+      "end": 445.79,
+      "text": " edirthu, edirthu"
+    },
+    {
+      "start": 445.79,
+      "end": 450.03,
+      "text": " kaal, kaal"
+    },
+    {
+      "start": 450.03,
+      "end": 454.79,
+      "text": " kooda, kooda"
+    },
+    {
+      "start": 455.37,
+      "end": 459.79,
+      "text": " mattu, mattu"
+    },
+    {
+      "start": 459.79,
+      "end": 463.79,
+      "text": " matturu, matturu"
+    },
+    {
+      "start": 464.31,
+      "end": 468.89,
+      "text": " kajiyuga, kajiyuga"
+    },
+    {
+      "start": 470.79,
+      "end": 475.75,
+      "text": " parichidam"
+    },
+    {
+      "start": 475.75,
+      "end": 481.39,
+      "text": " aparichidam"
+    },
+    {
+      "start": 481.39,
+      "end": 484.99,
+      "text": " gunam"
+    },
+    {
+      "start": 484.99,
+      "end": 488.79,
+      "text": " kurava"
+    },
+    {
+      "start": 488.79,
+      "end": 493.35,
+      "text": " udaharanam"
+    },
+    {
+      "start": 493.35,
+      "end": 497.67,
+      "text": " ettawam"
+    },
+    {
+      "start": 497.67,
+      "end": 519.11,
+      "text": " pattuka pattuka paadilla paadilla tanukunnu tanukunnu tanuttu tanuttu tanupa tanupa"
+    },
+    {
+      "start": 519.11,
+      "end": 523.63,
+      "text": " Reading Practice This has been made into a repetition drill."
+    },
+    {
+      "start": 523.63,
+      "end": 527.97,
+      "text": " you'll hear the sentence in its entirety and then with the segments to repeat."
+    },
+    {
+      "start": 527.97,
+      "end": 534.09,
+      "text": " Listen then repeat after the speaker. Number one. Listen."
+    },
+    {
+      "start": 534.09,
+      "end": 556.45,
+      "text": " Gita Ramaya Kaal Midukiyana. Now repeat. Gita Midukiyana. Gita Midukiyana. Ramaya Kaal. Ramaya Kaal. Gita Ramaya Kaal Midukiyana. Gita Ramaya Kaal Midukiyana."
+    },
+    {
+      "start": 556.45,
+      "end": 559.97,
+      "text": " Number 2. Listen."
+    },
+    {
+      "start": 561.43,
+      "end": 563.83,
+      "text": " Bombay Madras Neh Kaal Valiya Patna Maana."
+    },
+    {
+      "start": 564.83,
+      "end": 565.67,
+      "text": " Now repeat."
+    },
+    {
+      "start": 566.93,
+      "end": 568.25,
+      "text": " Bombay Valiya Patna Maana."
+    },
+    {
+      "start": 570.51,
+      "end": 572.21,
+      "text": " Bombay Valiya Patna Maana."
+    },
+    {
+      "start": 574.53,
+      "end": 575.73,
+      "text": " Madras Neh Kaal."
+    },
+    {
+      "start": 577.45,
+      "end": 578.63,
+      "text": " Madras Neh Kaal."
+    },
+    {
+      "start": 580.41,
+      "end": 582.93,
+      "text": " Bombay Madras Neh Kaal Valiya Patna Maana."
+    },
+    {
+      "start": 582.93,
+      "end": 588.13,
+      "text": " Bombay is a bigger city than Madras."
+    },
+    {
+      "start": 590.49,
+      "end": 591.77,
+      "text": " Number 3"
+    },
+    {
+      "start": 591.77,
+      "end": 593.05,
+      "text": " Listen"
+    },
+    {
+      "start": 593.05,
+      "end": 597.21,
+      "text": " Sir works more than everyone in this office."
+    },
+    {
+      "start": 598.03,
+      "end": 599.47,
+      "text": " Now repeat"
+    },
+    {
+      "start": 599.47,
+      "end": 602.07,
+      "text": " Sir works more than everyone in this office."
+    },
+    {
+      "start": 608.07,
+      "end": 612.11,
+      "text": " Sir works more than everyone in this office."
+    },
+    {
+      "start": 612.93,
+      "end": 636.93,
+      "text": " He is working more than everyone in this office."
+    },
+    {
+      "start": 636.93,
+      "end": 641.31,
+      "text": " Number 4. Listen."
+    },
+    {
+      "start": 642.09,
+      "end": 644.29,
+      "text": " Kamala Ramanaikkal Nallathayattu Paadi."
+    },
+    {
+      "start": 645.29,
+      "end": 646.25,
+      "text": " Now repeat."
+    },
+    {
+      "start": 647.31,
+      "end": 648.71,
+      "text": " Kamala Nallathayattu Paadi."
+    },
+    {
+      "start": 651.23,
+      "end": 652.77,
+      "text": " Kamala Nallathayattu Paadi."
+    },
+    {
+      "start": 655.17,
+      "end": 656.03,
+      "text": " Ramanaikkal."
+    },
+    {
+      "start": 657.57,
+      "end": 658.41,
+      "text": " Ramanaikkal."
+    },
+    {
+      "start": 660.33,
+      "end": 662.61,
+      "text": " Kamala Ramanaikkal Nallathayattu Paadi."
+    },
+    {
+      "start": 662.61,
+      "end": 667.49,
+      "text": " Kamala Ramanaikkal Nalladhayattu Paadi"
+    },
+    {
+      "start": 667.49,
+      "end": 671.47,
+      "text": " Number 5"
+    },
+    {
+      "start": 671.47,
+      "end": 672.47,
+      "text": " Listen"
+    },
+    {
+      "start": 672.47,
+      "end": 677.35,
+      "text": " Madhurpumi Vaikunthanaikkal Kooduthal Aalukal Manorama Vaikunnu"
+    },
+    {
+      "start": 677.35,
+      "end": 678.95,
+      "text": " Now repeat"
+    },
+    {
+      "start": 678.95,
+      "end": 682.03,
+      "text": " Aalukal Manorama Vaikunnu"
+    },
+    {
+      "start": 682.03,
+      "end": 685.47,
+      "text": " Aalukal Manorama Vaikunnu"
+    },
+    {
+      "start": 685.47,
+      "end": 689.75,
+      "text": " Kooduthal Aalukal Manorama Vaikunnu"
+    },
+    {
+      "start": 689.75,
+      "end": 694.59,
+      "text": " Kootuthal aalukal manorama vaikyunu"
+    },
+    {
+      "start": 694.59,
+      "end": 698.89,
+      "text": " Vaikyuna dhanayakaal"
+    },
+    {
+      "start": 698.89,
+      "end": 702.41,
+      "text": " Vaikyuna dhanayakaal"
+    },
+    {
+      "start": 702.41,
+      "end": 706.61,
+      "text": " Madhru poomi vaikyuna dhanayakaal"
+    },
+    {
+      "start": 706.61,
+      "end": 711.31,
+      "text": " Madhru poomi vaikyuna dhanayakaal"
+    },
+    {
+      "start": 714.31,
+      "end": 716.57,
+      "text": " Madhru poomi vaikyuna dhanayakaal"
+    },
+    {
+      "start": 716.57,
+      "end": 718.95,
+      "text": " Kootuthal aalukal manorama vaikyunu"
+    },
+    {
+      "start": 718.95,
+      "end": 728.57,
+      "text": " Madhrapomi Vaikunthana Ekkaal Kooduthal Alukal Manorama Vaikunnu"
+    }
+  ]
+}

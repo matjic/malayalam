@@ -1,0 +1,1246 @@
+{
+  "pipeline_version": 6,
+  "lesson": 15,
+  "source": "data/audio/moag/lesson_15.mp3",
+  "model": "Whisper large-v3 (32 encoder and 32 decoder layers), MLX",
+  "range_start": 57.5,
+  "range_end": 273.47,
+  "method": "Acoustic cepstrum comparison pairs repeated utterances independently of textbook order; large-v3 word end timestamps matched to pauses, then global spelling assignment against printed vocabulary (order is only a weak tie-breaker). Low-confidence labels require review. Raw recognizer text retained.",
+  "words": [
+    {
+      "utterances": [
+        {
+          "start": 58.7582,
+          "end": 59.9529
+        },
+        {
+          "start": 61.6353,
+          "end": 62.8229
+        }
+      ],
+      "raw_texts": [
+        "ബസ്സട്ടെണ്ട്ടുലേ",
+        "ബസ്സട്ടുണ്ട്ടുലേ"
+      ],
+      "english_segments": [
+        {
+          "start": 57.5,
+          "end": 64.5,
+          "text": " bus stand ile"
+        }
+      ],
+      "transcript": "ബസ്സ്റ്റാൻഡിലെ",
+      "meaning": "at/of the bus stop",
+      "textbook_row": 0,
+      "similarity": 0.778,
+      "status": "matched",
+      "id": "lesson_15_word_001"
+    },
+    {
+      "utterances": [
+        {
+          "start": 64.6257,
+          "end": 65.5776
+        },
+        {
+          "start": 67.197,
+          "end": 68.0943
+        }
+      ],
+      "raw_texts": [
+        "മരുഗീസ്",
+        "മരുഗീസ്"
+      ],
+      "english_segments": [
+        {
+          "start": 64.5,
+          "end": 69.5,
+          "text": " marugis"
+        }
+      ],
+      "transcript": "വറുഗീസ്",
+      "meaning": "a name, Malayalam form of George",
+      "textbook_row": 1,
+      "similarity": 0.833,
+      "status": "matched",
+      "id": "lesson_15_word_002"
+    },
+    {
+      "utterances": [
+        {
+          "start": 69.9075,
+          "end": 70.684
+        },
+        {
+          "start": 72.0265,
+          "end": 72.7962
+        }
+      ],
+      "raw_texts": [
+        "ആഹാ",
+        "ആഹാ"
+      ],
+      "english_segments": [
+        {
+          "start": 69.5,
+          "end": 73.5,
+          "text": " aha"
+        }
+      ],
+      "transcript": "ആഹാ!",
+      "meaning": "Oh! (an exclamation of surprise)",
+      "textbook_row": 2,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_15_word_003"
+    },
+    {
+      "utterances": [
+        {
+          "start": 74.5958,
+          "end": 75.8971
+        },
+        {
+          "start": 77.564,
+          "end": 78.7858
+        }
+      ],
+      "raw_texts": [
+        "കേഷവന്നെയര്",
+        "കേഷവന്നെയര്"
+      ],
+      "english_segments": [
+        {
+          "start": 73.5,
+          "end": 80.5,
+          "text": " k7 nair"
+        }
+      ],
+      "transcript": "കേശവൻനായർ",
+      "meaning": "a name (Nair is a surname as well as the name of prominent Hindu caste in Kerala)",
+      "textbook_row": 3,
+      "similarity": 0.875,
+      "status": "matched",
+      "id": "lesson_15_word_004"
+    },
+    {
+      "utterances": [
+        {
+          "start": 81.4376,
+          "end": 82.3735
+        },
+        {
+          "start": 84.0878,
+          "end": 85.0411
+        }
+      ],
+      "raw_texts": [
+        "ആയക്യുഗ്ങ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 80.5,
+          "end": 85.5,
+          "text": " ayak yuga"
+        }
+      ],
+      "transcript": "കയറുക",
+      "meaning": "to get on, to get into, to enter",
+      "textbook_row": 9,
+      "similarity": 0.712,
+      "status": "matched",
+      "id": "lesson_15_word_005"
+    },
+    {
+      "utterances": [
+        {
+          "start": 86.7316,
+          "end": 88.1268
+        },
+        {
+          "start": 89.8971,
+          "end": 91.2236
+        }
+      ],
+      "raw_texts": [
+        "",
+        "ആയക്യു"
+      ],
+      "english_segments": [
+        {
+          "start": 85.5,
+          "end": 92.5,
+          "text": " yathra ayakyuga"
+        }
+      ],
+      "transcript": "യാത്ര അയക്കുക [y]",
+      "meaning": "to see off (someone)",
+      "textbook_row": 4,
+      "similarity": 0.909,
+      "status": "matched",
+      "id": "lesson_15_word_006"
+    },
+    {
+      "utterances": [
+        {
+          "start": 93.3152,
+          "end": 94.16
+        },
+        {
+          "start": 95.8064,
+          "end": 96.6322
+        }
+      ],
+      "raw_texts": [
+        "ഇയുടെ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 92.5,
+          "end": 97.5,
+          "text": " ee yudha"
+        }
+      ],
+      "transcript": "ഈയിടെ",
+      "meaning": "recently",
+      "textbook_row": 5,
+      "similarity": 0.8,
+      "status": "matched",
+      "id": "lesson_15_word_007"
+    },
+    {
+      "utterances": [
+        {
+          "start": 98.2346,
+          "end": 99.4535
+        },
+        {
+          "start": 101.0405,
+          "end": 101.9063
+        }
+      ],
+      "raw_texts": [
+        "കള്ളാണം",
+        "കള്ളാണം"
+      ],
+      "english_segments": [
+        {
+          "start": 97.5,
+          "end": 103.5,
+          "text": " kalyanam"
+        }
+      ],
+      "transcript": "കല്യാണം",
+      "meaning": "marriage",
+      "textbook_row": 6,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_15_word_008"
+    },
+    {
+      "utterances": [
+        {
+          "start": 104.3974,
+          "end": 105.822
+        },
+        {
+          "start": 107.8179,
+          "end": 109.2172
+        }
+      ],
+      "raw_texts": [
+        "കള്ളാണം കള്ളിക്കുക്ക്",
+        "കള്ളാണം കള്ളിക്ക്ക്ക്"
+      ],
+      "english_segments": [
+        {
+          "start": 103.5,
+          "end": 109.5,
+          "text": " kalyanam kadikyuga"
+        }
+      ],
+      "transcript": "കല്യാണം കഴിക്കുക",
+      "meaning": "to get married",
+      "textbook_row": 7,
+      "similarity": 0.957,
+      "status": "matched",
+      "id": "lesson_15_word_009"
+    },
+    {
+      "utterances": [
+        {
+          "start": 109.4367,
+          "end": 111.5482
+        },
+        {
+          "start": 113.0081,
+          "end": 114.0846
+        }
+      ],
+      "raw_texts": [
+        "രണ്ടു പേരും",
+        "രണ്ടു പേരും"
+      ],
+      "english_segments": [
+        {
+          "start": 109.5,
+          "end": 121.5,
+          "text": " Two people"
+        }
+      ],
+      "transcript": "രണ്ടു പേരും",
+      "meaning": "both",
+      "textbook_row": 8,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_15_word_010"
+    },
+    {
+      "utterances": [
+        {
+          "start": 115.9612,
+          "end": 117.1346
+        },
+        {
+          "start": 118.9087,
+          "end": 120.8386
+        }
+      ],
+      "raw_texts": [
+        "രണ്ടു പേരും",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 109.5,
+          "end": 121.5,
+          "text": " Two people"
+        }
+      ],
+      "transcript": "രണ്ടു പേരെയും",
+      "meaning": "both",
+      "textbook_row": 8,
+      "similarity": 0.9,
+      "status": "matched",
+      "id": "lesson_15_word_011"
+    },
+    {
+      "utterances": [
+        {
+          "start": 121.2262,
+          "end": 123.3442
+        },
+        {
+          "start": 125.0959,
+          "end": 125.9477
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 109.5,
+          "end": 121.5,
+          "text": " Two people"
+        },
+        {
+          "start": 122.5,
+          "end": 133.5,
+          "text": " Run"
+        }
+      ],
+      "transcript": "",
+      "meaning": "",
+      "textbook_row": null,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_15_word_012"
+    },
+    {
+      "utterances": [
+        {
+          "start": 126.3161,
+          "end": 127.6319
+        }
+      ],
+      "raw_texts": [
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 122.5,
+          "end": 133.5,
+          "text": " Run"
+        }
+      ],
+      "transcript": "സ്ത്രീ",
+      "meaning": "woman",
+      "textbook_row": 11,
+      "similarity": 0.271,
+      "status": "review",
+      "id": "lesson_15_word_013"
+    },
+    {
+      "utterances": [
+        {
+          "start": 128.0846,
+          "end": 129.124
+        },
+        {
+          "start": 130.6253,
+          "end": 131.8518
+        }
+      ],
+      "raw_texts": [
+        "കൈരീ",
+        "കൈരീ"
+      ],
+      "english_segments": [
+        {
+          "start": 122.5,
+          "end": 133.5,
+          "text": " Run"
+        }
+      ],
+      "transcript": "കയറി",
+      "meaning": "to get on, to get into, to enter",
+      "textbook_row": 9,
+      "similarity": 0.75,
+      "status": "matched",
+      "id": "lesson_15_word_014"
+    },
+    {
+      "utterances": [
+        {
+          "start": 135.6987,
+          "end": 136.541
+        },
+        {
+          "start": 138.2793,
+          "end": 139.1357
+        }
+      ],
+      "raw_texts": [
+        "നെല്കുക",
+        "നെല്കുക നെല്കുക"
+      ],
+      "english_segments": [
+        {
+          "start": 133.5,
+          "end": 154.5,
+          "text": " nilkuga ninnu stri santosham"
+        }
+      ],
+      "transcript": "നിൽക്കുക",
+      "meaning": "to stand, to wait, to stop",
+      "textbook_row": 10,
+      "similarity": 0.833,
+      "status": "matched",
+      "id": "lesson_15_word_015"
+    },
+    {
+      "utterances": [
+        {
+          "start": 140.8954,
+          "end": 141.6612
+        },
+        {
+          "start": 143.4257,
+          "end": 144.1787
+        }
+      ],
+      "raw_texts": [
+        "നെല്കുക നെല്കുക",
+        "നെല്കുക"
+      ],
+      "english_segments": [
+        {
+          "start": 133.5,
+          "end": 154.5,
+          "text": " nilkuga ninnu stri santosham"
+        }
+      ],
+      "transcript": "നിന്നു",
+      "meaning": "to stand, to wait, to stop",
+      "textbook_row": 10,
+      "similarity": 0.4,
+      "status": "review",
+      "id": "lesson_15_word_016"
+    },
+    {
+      "utterances": [
+        {
+          "start": 145.88,
+          "end": 146.6223
+        },
+        {
+          "start": 148.062,
+          "end": 148.8232
+        }
+      ],
+      "raw_texts": [
+        "നെല്കുക",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 133.5,
+          "end": 154.5,
+          "text": " nilkuga ninnu stri santosham"
+        }
+      ],
+      "transcript": "മുക്കാൽ മണിക്കൂർ",
+      "meaning": "three quarters of an hour",
+      "textbook_row": 21,
+      "similarity": 0.353,
+      "status": "review",
+      "id": "lesson_15_word_017"
+    },
+    {
+      "utterances": [
+        {
+          "start": 150.3507,
+          "end": 151.2774
+        },
+        {
+          "start": 152.694,
+          "end": 153.5543
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 133.5,
+          "end": 154.5,
+          "text": " nilkuga ninnu stri santosham"
+        }
+      ],
+      "transcript": "",
+      "meaning": "",
+      "textbook_row": null,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_15_word_018"
+    },
+    {
+      "utterances": [
+        {
+          "start": 155.4265,
+          "end": 156.511
+        },
+        {
+          "start": 158.1751,
+          "end": 159.2847
+        }
+      ],
+      "raw_texts": [
+        "നെല്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക",
+        "വളര്സന്ദോഷം"
+      ],
+      "english_segments": [
+        {
+          "start": 154.5,
+          "end": 167.5,
+          "text": " very happy"
+        }
+      ],
+      "transcript": "സന്തോഷം",
+      "meaning": "happiness",
+      "textbook_row": 12,
+      "similarity": 0.8,
+      "status": "matched",
+      "id": "lesson_15_word_019"
+    },
+    {
+      "utterances": [
+        {
+          "start": 159.9111,
+          "end": 160.7046
+        }
+      ],
+      "raw_texts": [
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 154.5,
+          "end": 167.5,
+          "text": " very happy"
+        }
+      ],
+      "transcript": "",
+      "meaning": "",
+      "textbook_row": null,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_15_word_020"
+    },
+    {
+      "utterances": [
+        {
+          "start": 161.1528,
+          "end": 162.709
+        },
+        {
+          "start": 164.7108,
+          "end": 166.2576
+        }
+      ],
+      "raw_texts": [
+        "ആയീ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 154.5,
+          "end": 167.5,
+          "text": " very happy"
+        }
+      ],
+      "transcript": "ആയി",
+      "meaning": "(I am) happy to see (them)",
+      "textbook_row": 13,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_15_word_021"
+    },
+    {
+      "utterances": [
+        {
+          "start": 167.7178,
+          "end": 169.8554
+        },
+        {
+          "start": 171.7278,
+          "end": 173.2795
+        }
+      ],
+      "raw_texts": [
+        "കണ്ടദുല് വളര്സന്ദോഷം",
+        "എനുക്ക്ക്"
+      ],
+      "english_segments": [
+        {
+          "start": 167.5,
+          "end": 183.5,
+          "text": " I am very happy to see you."
+        }
+      ],
+      "transcript": "എനിക്ക്",
+      "meaning": "(I am) happy to see (them)",
+      "textbook_row": 13,
+      "similarity": 0.75,
+      "status": "matched",
+      "id": "lesson_15_word_022"
+    },
+    {
+      "utterances": [
+        {
+          "start": 175.2697,
+          "end": 177.5419
+        },
+        {
+          "start": 179.8604,
+          "end": 182.0918
+        }
+      ],
+      "raw_texts": [
+        "കണ്ടദുല് വളര്സന്ദോഷം ആയീ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 167.5,
+          "end": 183.5,
+          "text": " I am very happy to see you."
+        }
+      ],
+      "transcript": "കണ്ടതിൽ വളരെ സന്തോഷം",
+      "meaning": "(I am) happy to see (them)",
+      "textbook_row": 13,
+      "similarity": 0.824,
+      "status": "matched",
+      "id": "lesson_15_word_023"
+    },
+    {
+      "utterances": [
+        {
+          "start": 184.5797,
+          "end": 185.6656
+        },
+        {
+          "start": 186.9386,
+          "end": 188.0447
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 183.5,
+          "end": 194.5,
+          "text": " samsarikyuga samsarichu"
+        }
+      ],
+      "transcript": "സംസാരിക്കുക",
+      "meaning": "to converse",
+      "textbook_row": 14,
+      "similarity": 0.653,
+      "status": "review",
+      "id": "lesson_15_word_024"
+    },
+    {
+      "utterances": [
+        {
+          "start": 189.5996,
+          "end": 190.6495
+        },
+        {
+          "start": 192.3951,
+          "end": 193.433
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 183.5,
+          "end": 194.5,
+          "text": " samsarikyuga samsarichu"
+        }
+      ],
+      "transcript": "സംസാരിച്ചു",
+      "meaning": "to converse",
+      "textbook_row": 14,
+      "similarity": 0.57,
+      "status": "review",
+      "id": "lesson_15_word_025"
+    },
+    {
+      "utterances": [
+        {
+          "start": 195.618,
+          "end": 196.4544
+        },
+        {
+          "start": 197.8766,
+          "end": 198.7374
+        }
+      ],
+      "raw_texts": [
+        "ആഗ്രഹ്മ്",
+        "ആഗ്രഹ്മ്"
+      ],
+      "english_segments": [
+        {
+          "start": 194.5,
+          "end": 205.5,
+          "text": " agraham agraham unda"
+        }
+      ],
+      "transcript": "ആഗ്രഹം",
+      "meaning": "desire",
+      "textbook_row": 15,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_15_word_026"
+    },
+    {
+      "utterances": [
+        {
+          "start": 200.7873,
+          "end": 202.0448
+        },
+        {
+          "start": 203.616,
+          "end": 204.8336
+        }
+      ],
+      "raw_texts": [
+        "ആഗ്രഹ്മുണ്ഡ",
+        "ആഗ്രഹ്മുണ്ഡ"
+      ],
+      "english_segments": [
+        {
+          "start": 194.5,
+          "end": 205.5,
+          "text": " agraham agraham unda"
+        }
+      ],
+      "transcript": "ആഗ്രഹമുണ്ട്",
+      "meaning": "(I) wish to",
+      "textbook_row": 16,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_15_word_027"
+    },
+    {
+      "utterances": [
+        {
+          "start": 206.3732,
+          "end": 207.9323
+        },
+        {
+          "start": 209.7498,
+          "end": 211.2896
+        }
+      ],
+      "raw_texts": [
+        "എനിക്ക്ക് ആഗ്രഹ്മുണ്ഡ",
+        "എനിക്ക് ആഗ്രഹ്മുണ്ഡ"
+      ],
+      "english_segments": [
+        {
+          "start": 205.5,
+          "end": 212.5,
+          "text": " I have a desire"
+        }
+      ],
+      "transcript": "എനിക്ക്",
+      "meaning": "(I) wish to",
+      "textbook_row": 16,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_15_word_028"
+    },
+    {
+      "utterances": [
+        {
+          "start": 213.3225,
+          "end": 214.416
+        },
+        {
+          "start": 216.2205,
+          "end": 217.3399
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 212.5,
+          "end": 218.5,
+          "text": " At this time"
+        }
+      ],
+      "transcript": "വിട്ടുപോയി",
+      "meaning": "to leave",
+      "textbook_row": 18,
+      "similarity": 0.356,
+      "status": "review",
+      "id": "lesson_15_word_029"
+    },
+    {
+      "utterances": [
+        {
+          "start": 219.1713,
+          "end": 220.2825
+        },
+        {
+          "start": 222.0236,
+          "end": 223.2539
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 218.5,
+          "end": 224.5,
+          "text": " I will leave"
+        }
+      ],
+      "transcript": "",
+      "meaning": "",
+      "textbook_row": null,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_15_word_030"
+    },
+    {
+      "utterances": [
+        {
+          "start": 225.0002,
+          "end": 226.0072
+        },
+        {
+          "start": 227.5984,
+          "end": 228.6361
+        }
+      ],
+      "raw_texts": [
+        "",
+        "ഈസമയ്യ്യ്യ്യ്യ"
+      ],
+      "english_segments": [
+        {
+          "start": 224.5,
+          "end": 234.5,
+          "text": " I will leave"
+        }
+      ],
+      "transcript": "ഈ സമയത്ത്",
+      "meaning": "at this time",
+      "textbook_row": 17,
+      "similarity": 0.889,
+      "status": "matched",
+      "id": "lesson_15_word_031"
+    },
+    {
+      "utterances": [
+        {
+          "start": 230.3524,
+          "end": 231.4015
+        },
+        {
+          "start": 233.4064,
+          "end": 234.4685
+        }
+      ],
+      "raw_texts": [
+        "വിട്ടുപോയ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 224.5,
+          "end": 234.5,
+          "text": " I will leave"
+        }
+      ],
+      "transcript": "വിട്ടുപോയ",
+      "meaning": "which has left (verbal adjective)",
+      "textbook_row": 19,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_15_word_032"
+    },
+    {
+      "utterances": [
+        {
+          "start": 236.4034,
+          "end": 237.2763
+        },
+        {
+          "start": 239.0655,
+          "end": 239.9463
+        }
+      ],
+      "raw_texts": [
+        "മണിക്ക്കുര്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 234.5,
+          "end": 240.5,
+          "text": " Manikkur"
+        }
+      ],
+      "transcript": "മണിക്കൂർ",
+      "meaning": "hour",
+      "textbook_row": 20,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_15_word_033"
+    },
+    {
+      "utterances": [
+        {
+          "start": 241.7804,
+          "end": 242.6525
+        },
+        {
+          "start": 244.3045,
+          "end": 245.2767
+        }
+      ],
+      "raw_texts": [
+        "തോന്നുക്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 240.5,
+          "end": 245.5,
+          "text": " Thonnuka"
+        }
+      ],
+      "transcript": "വിട്ടുപോകുക",
+      "meaning": "to leave",
+      "textbook_row": 18,
+      "similarity": 0.594,
+      "status": "review",
+      "id": "lesson_15_word_034"
+    },
+    {
+      "utterances": [
+        {
+          "start": 246.5664,
+          "end": 247.3284
+        },
+        {
+          "start": 248.5005,
+          "end": 249.2552
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 245.5,
+          "end": 249.5,
+          "text": " Thonni"
+        }
+      ],
+      "transcript": "തോന്നി",
+      "meaning": "to think, to feel",
+      "textbook_row": 22,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_15_word_035"
+    },
+    {
+      "utterances": [
+        {
+          "start": 250.6712,
+          "end": 252.1262
+        },
+        {
+          "start": 253.6582,
+          "end": 254.9676
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 249.5,
+          "end": 255.5,
+          "text": " Serihaayitulla"
+        }
+      ],
+      "transcript": "ശരിയായിട്ടുള്ള",
+      "meaning": "right (which is correct)",
+      "textbook_row": 23,
+      "similarity": 0.792,
+      "status": "matched",
+      "id": "lesson_15_word_036"
+    },
+    {
+      "utterances": [
+        {
+          "start": 256.4815,
+          "end": 257.9274
+        },
+        {
+          "start": 259.6884,
+          "end": 260.7179
+        }
+      ],
+      "raw_texts": [
+        "",
+        "തോന്ന്ന്ന്ന്ന്ന്ന്ന്ന്ന്ന്ന്ന്ന്ന്ന്ന്ന്ന്ന്ന്ന്ന്ന്ന്ന്ന്ന് പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ"
+      ],
+      "english_segments": [
+        {
+          "start": 255.5,
+          "end": 261.5,
+          "text": " Pinna yaagatte"
+        }
+      ],
+      "transcript": "തോന്നുക",
+      "meaning": "to think, to feel",
+      "textbook_row": 22,
+      "similarity": 0.75,
+      "status": "matched",
+      "id": "lesson_15_word_037"
+    },
+    {
+      "utterances": [
+        {
+          "start": 262.5292,
+          "end": 263.9072
+        },
+        {
+          "start": 265.5566,
+          "end": 266.859
+        }
+      ],
+      "raw_texts": [
+        "അതുപ്പിന്നെ ആകട്ടെ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 261.5,
+          "end": 268.5,
+          "text": " Let it happen later"
+        }
+      ],
+      "transcript": "അത് പിന്നെ ആകട്ടെ",
+      "meaning": "(I will) do that later (literally, let it be later)",
+      "textbook_row": 24,
+      "similarity": 0.952,
+      "status": "matched",
+      "id": "lesson_15_word_038"
+    },
+    {
+      "utterances": [
+        {
+          "start": 268.7087,
+          "end": 269.942
+        },
+        {
+          "start": 271.605,
+          "end": 272.8714
+        }
+      ],
+      "raw_texts": [
+        "ബസ്സിനടുത്തേക്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 268.5,
+          "end": 273.5,
+          "text": " To walk the bus"
+        }
+      ],
+      "transcript": "ബസ്സിനടുത്തേക്ക്",
+      "meaning": "over to the bus",
+      "textbook_row": 25,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_15_word_039"
+    }
+  ],
+  "textbook_vocabulary": [
+    {
+      "malayalam": "ബസ്സ്റ്റാൻഡിലെ",
+      "meaning": "at/of the bus stop"
+    },
+    {
+      "malayalam": "വറുഗീസ്",
+      "meaning": "a name, Malayalam form of George"
+    },
+    {
+      "malayalam": "ആഹാ!",
+      "meaning": "Oh! (an exclamation of surprise)"
+    },
+    {
+      "malayalam": "കേശവൻനായർ",
+      "meaning": "a name (Nair is a surname as well as the name of prominent Hindu caste in Kerala)"
+    },
+    {
+      "malayalam": "യാത്ര അയക്കുക [y]",
+      "meaning": "to see off (someone)"
+    },
+    {
+      "malayalam": "ഈയിടെ",
+      "meaning": "recently"
+    },
+    {
+      "malayalam": "കല്യാണം",
+      "meaning": "marriage"
+    },
+    {
+      "malayalam": "കല്യാണം കഴിക്കുക",
+      "meaning": "to get married"
+    },
+    {
+      "malayalam": "രണ്ടു പേരും (Accusative: രണ്ടു പേരെയും)",
+      "meaning": "both"
+    },
+    {
+      "malayalam": "കയറുക (Past tense: കയറി)",
+      "meaning": "to get on, to get into, to enter"
+    },
+    {
+      "malayalam": "നിൽക്കുക (Past tense: നിന്നു)",
+      "meaning": "to stand, to wait, to stop"
+    },
+    {
+      "malayalam": "സ്ത്രീ",
+      "meaning": "woman"
+    },
+    {
+      "malayalam": "സന്തോഷം",
+      "meaning": "happiness"
+    },
+    {
+      "malayalam": "(എനിക്ക്) കണ്ടതിൽ വളരെ സന്തോഷം (ആയി)",
+      "meaning": "(I am) happy to see (them)"
+    },
+    {
+      "malayalam": "സംസാരിക്കുക (past tense: സംസാരിച്ചു)",
+      "meaning": "to converse"
+    },
+    {
+      "malayalam": "ആഗ്രഹം",
+      "meaning": "desire"
+    },
+    {
+      "malayalam": "(എനിക്ക്) ആഗ്രഹമുണ്ട്",
+      "meaning": "(I) wish to"
+    },
+    {
+      "malayalam": "ഈ സമയത്ത്",
+      "meaning": "at this time"
+    },
+    {
+      "malayalam": "വിട്ടുപോകുക (past tense: വിട്ടുപോയി)",
+      "meaning": "to leave"
+    },
+    {
+      "malayalam": "വിട്ടുപോയ",
+      "meaning": "which has left (verbal adjective)"
+    },
+    {
+      "malayalam": "മണിക്കൂർ",
+      "meaning": "hour"
+    },
+    {
+      "malayalam": "മുക്കാൽ മണിക്കൂർ",
+      "meaning": "three quarters of an hour"
+    },
+    {
+      "malayalam": "തോന്നുക (past tense: തോന്നി)",
+      "meaning": "to think, to feel"
+    },
+    {
+      "malayalam": "ശരിയായിട്ടുള്ള",
+      "meaning": "right (which is correct)"
+    },
+    {
+      "malayalam": "അത് പിന്നെ ആകട്ടെ",
+      "meaning": "(I will) do that later (literally, let it be later)"
+    },
+    {
+      "malayalam": "ബസ്സിനടുത്തേക്ക്",
+      "meaning": "over to the bus"
+    }
+  ],
+  "unmatched_textbook_rows": [],
+  "recognition_sha256": "6be5ae03d55ed73d1d644029ca677c6302d532474379a73b679321e41678a7bc",
+  "boundary_sha256": "84b0c575193752be3b2f7bcf9549852d89b332be71585e93bdbae2dc4685b323"
+}

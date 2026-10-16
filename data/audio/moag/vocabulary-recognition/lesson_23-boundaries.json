@@ -1,0 +1,239 @@
+{
+  "lesson": 23,
+  "model": "Whisper large-v3",
+  "purpose": "English announcements only; Malayalam transliterations are not teaching transcriptions.",
+  "range_start": 196.17,
+  "range_end": 511.64,
+  "segments": [
+    {
+      "start": 196.17,
+      "end": 200.39,
+      "text": " Vocabulary. Repeat after the speaker."
+    },
+    {
+      "start": 226.17,
+      "end": 228.97,
+      "text": " ayirnu"
+    },
+    {
+      "start": 228.97,
+      "end": 234.63,
+      "text": " vittal"
+    },
+    {
+      "start": 234.63,
+      "end": 240.79,
+      "text": " mati ayirnu"
+    },
+    {
+      "start": 240.79,
+      "end": 246.89,
+      "text": " videsiyar"
+    },
+    {
+      "start": 246.89,
+      "end": 251.95,
+      "text": " samsaram"
+    },
+    {
+      "start": 251.95,
+      "end": 256.77,
+      "text": " Reethi"
+    },
+    {
+      "start": 256.77,
+      "end": 261.83,
+      "text": " Afasaram"
+    },
+    {
+      "start": 261.83,
+      "end": 267.27,
+      "text": " Budhanalcha"
+    },
+    {
+      "start": 267.27,
+      "end": 271.71,
+      "text": " Tudakkam"
+    },
+    {
+      "start": 271.71,
+      "end": 276.51,
+      "text": " Enda"
+    },
+    {
+      "start": 276.51,
+      "end": 282.27,
+      "text": " What is it saying?"
+    },
+    {
+      "start": 282.27,
+      "end": 288.15,
+      "text": " Sunday"
+    },
+    {
+      "start": 288.15,
+      "end": 292.69,
+      "text": " Day"
+    },
+    {
+      "start": 292.69,
+      "end": 297.61,
+      "text": " View"
+    },
+    {
+      "start": 297.61,
+      "end": 302.21,
+      "text": " Next"
+    },
+    {
+      "start": 302.21,
+      "end": 313.01,
+      "text": " Kanyakumari Kovalam"
+    },
+    {
+      "start": 313.01,
+      "end": 323.53,
+      "text": " Tamasam Thirikyuga"
+    },
+    {
+      "start": 323.53,
+      "end": 330.05,
+      "text": " kadalthiram"
+    },
+    {
+      "start": 330.05,
+      "end": 336.01,
+      "text": " prakriti"
+    },
+    {
+      "start": 336.01,
+      "end": 342.05,
+      "text": " sundaram"
+    },
+    {
+      "start": 342.05,
+      "end": 348.33,
+      "text": " saundaryam"
+    },
+    {
+      "start": 348.33,
+      "end": 355.53,
+      "text": " Prakriti sunnaram"
+    },
+    {
+      "start": 355.53,
+      "end": 362.41,
+      "text": " Kidakkuka"
+    },
+    {
+      "start": 362.41,
+      "end": 369.09,
+      "text": " Nyayaralcha"
+    },
+    {
+      "start": 369.09,
+      "end": 374.49,
+      "text": " Boat"
+    },
+    {
+      "start": 374.49,
+      "end": 380.49,
+      "text": " TINGALALCHA"
+    },
+    {
+      "start": 380.49,
+      "end": 385.49,
+      "text": " TEKKADI"
+    },
+    {
+      "start": 385.49,
+      "end": 390.49,
+      "text": " UCHA"
+    },
+    {
+      "start": 390.49,
+      "end": 395.49,
+      "text": " VANYA MRUGAM"
+    },
+    {
+      "start": 395.49,
+      "end": 400.49,
+      "text": " SAMBRAKSHANAM"
+    },
+    {
+      "start": 400.49,
+      "end": 406.49,
+      "text": " kendram"
+    },
+    {
+      "start": 406.49,
+      "end": 417.49,
+      "text": " vanyam rikasamrakshana kendram"
+    },
+    {
+      "start": 417.49,
+      "end": 421.49,
+      "text": " pazhi"
+    },
+    {
+      "start": 421.49,
+      "end": 427.49,
+      "text": " chowalcha"
+    },
+    {
+      "start": 427.49,
+      "end": 432.49,
+      "text": " Pūram"
+    },
+    {
+      "start": 432.49,
+      "end": 437.49,
+      "text": " Pūthuma"
+    },
+    {
+      "start": 437.49,
+      "end": 443.49,
+      "text": " Varunna vaḍikya"
+    },
+    {
+      "start": 443.49,
+      "end": 450.49,
+      "text": " Guruvāyur"
+    },
+    {
+      "start": 450.49,
+      "end": 457.49,
+      "text": " tira kerya tira kerya"
+    },
+    {
+      "start": 457.49,
+      "end": 463.49,
+      "text": " visramam visramam"
+    },
+    {
+      "start": 463.49,
+      "end": 468.49,
+      "text": " avathi avathi"
+    },
+    {
+      "start": 468.49,
+      "end": 473.49,
+      "text": " mela mela"
+    },
+    {
+      "start": 473.49,
+      "end": 485.09,
+      "text": " edutteine edutteine cheiteikyu cheiteikyu"
+    },
+    {
+      "start": 485.09,
+      "end": 497.99,
+      "text": " unnam klasa unnam klasa edukkaruthey edukkaruthey"
+    },
+    {
+      "start": 497.99,
+      "end": 509.71,
+      "text": " random closer random closer J they come J they come"
+    }
+  ]
+}

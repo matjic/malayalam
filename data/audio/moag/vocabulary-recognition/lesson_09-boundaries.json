@@ -1,0 +1,134 @@
+{
+  "lesson": 9,
+  "model": "Whisper large-v3",
+  "purpose": "English announcements only; Malayalam transliterations are not teaching transcriptions.",
+  "range_start": 115.19,
+  "range_end": 228.18,
+  "segments": [
+    {
+      "start": 115.43,
+      "end": 120.51,
+      "text": " Lesson 9 Vocabulary Practice. Repeat each item after the speaker. Each item is given"
+    },
+    {
+      "start": 120.51,
+      "end": 122.99,
+      "text": " twice. Ready? Listen and repeat."
+    },
+    {
+      "start": 122.99,
+      "end": 135.99,
+      "text": " nalla nalla arude arude arude arude arude arude arude arude arude arude arude arude arude"
+    },
+    {
+      "start": 135.99,
+      "end": 142.99,
+      "text": " arude arude arude arude arude arude arude arude arude arude arude arude arude arude arude"
+    },
+    {
+      "start": 142.99,
+      "end": 148.83,
+      "text": " Pudhia Pudhia da Pudhia da"
+    },
+    {
+      "start": 148.83,
+      "end": 155.53,
+      "text": " Pajaiya Pajaiya Pajaiya da Pajaiya da"
+    },
+    {
+      "start": 155.53,
+      "end": 158.85,
+      "text": " Kollam Kollam"
+    },
+    {
+      "start": 158.85,
+      "end": 162.31,
+      "text": " Randum Randum"
+    },
+    {
+      "start": 162.31,
+      "end": 166.31,
+      "text": " Nindia Nindia da"
+    },
+    {
+      "start": 166.31,
+      "end": 169.69,
+      "text": " Udukuga Udukuga"
+    },
+    {
+      "start": 169.69,
+      "end": 173.49,
+      "text": " uduthollu"
+    },
+    {
+      "start": 173.49,
+      "end": 176.99,
+      "text": " onnum"
+    },
+    {
+      "start": 176.99,
+      "end": 181.73,
+      "text": " onnum parayella"
+    },
+    {
+      "start": 181.73,
+      "end": 187.79,
+      "text": " eppozhum"
+    },
+    {
+      "start": 187.79,
+      "end": 192.65,
+      "text": " kootu gari"
+    },
+    {
+      "start": 192.65,
+      "end": 196.59,
+      "text": " kootu garan"
+    },
+    {
+      "start": 196.59,
+      "end": 202.29,
+      "text": " Nanna irikyum."
+    },
+    {
+      "start": 202.29,
+      "end": 205.77,
+      "text": " Kodukkum."
+    },
+    {
+      "start": 205.77,
+      "end": 209.87,
+      "text": " Blouse."
+    },
+    {
+      "start": 209.87,
+      "end": 212.89,
+      "text": " Idinoda."
+    },
+    {
+      "start": 212.89,
+      "end": 216.07,
+      "text": " Cherum."
+    },
+    {
+      "start": 216.07,
+      "end": 219.49,
+      "text": " Vegam."
+    },
+    {
+      "start": 219.49,
+      "end": 223.49,
+      "text": " Sameyamai."
+    },
+    {
+      "start": 223.49,
+      "end": 224.25,
+      "text": " Tayaar aaguga."
+    },
+    {
+      "start": 225.63,
+      "end": 226.45,
+      "text": " Tayaar aaguga."
+    }
+  ]
+}

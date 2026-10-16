@@ -1,0 +1,219 @@
+{
+  "lesson": 19,
+  "model": "Whisper large-v3",
+  "purpose": "English announcements only; Malayalam transliterations are not teaching transcriptions.",
+  "range_start": 2.05,
+  "range_end": 244.89,
+  "segments": [
+    {
+      "start": 2.05,
+      "end": 12.75,
+      "text": " Vocabulary practice. Repeat each item after the speaker. Each item is given twice. Ready? Listen and repeat."
+    },
+    {
+      "start": 12.75,
+      "end": 18.75,
+      "text": " Manager"
+    },
+    {
+      "start": 18.75,
+      "end": 23.75,
+      "text": " pune"
+    },
+    {
+      "start": 23.75,
+      "end": 30.75,
+      "text": " poirikkuke airunu"
+    },
+    {
+      "start": 30.75,
+      "end": 35.75,
+      "text": " veliil"
+    },
+    {
+      "start": 35.75,
+      "end": 40.75,
+      "text": " thirakku"
+    },
+    {
+      "start": 40.75,
+      "end": 45.75,
+      "text": " joili thirakkulla"
+    },
+    {
+      "start": 45.75,
+      "end": 50.75,
+      "text": " Pokarudha"
+    },
+    {
+      "start": 50.75,
+      "end": 54.75,
+      "text": " Vishakkuka"
+    },
+    {
+      "start": 54.75,
+      "end": 58.75,
+      "text": " Vishannu"
+    },
+    {
+      "start": 58.75,
+      "end": 63.75,
+      "text": " Vallathum"
+    },
+    {
+      "start": 63.75,
+      "end": 68.75,
+      "text": " Idakkida"
+    },
+    {
+      "start": 68.75,
+      "end": 72.75,
+      "text": " Irannuka"
+    },
+    {
+      "start": 72.75,
+      "end": 77.75,
+      "text": " I went down."
+    },
+    {
+      "start": 77.75,
+      "end": 81.75,
+      "text": " I keep going."
+    },
+    {
+      "start": 81.75,
+      "end": 86.75,
+      "text": " Reasons."
+    },
+    {
+      "start": 86.75,
+      "end": 91.75,
+      "text": " Each reason."
+    },
+    {
+      "start": 91.75,
+      "end": 95.75,
+      "text": " Reason."
+    },
+    {
+      "start": 95.75,
+      "end": 100.75,
+      "text": " It's me."
+    },
+    {
+      "start": 100.75,
+      "end": 107.75,
+      "text": " I have to do it."
+    },
+    {
+      "start": 107.75,
+      "end": 111.75,
+      "text": " Oh, then."
+    },
+    {
+      "start": 111.75,
+      "end": 122.75,
+      "text": " Because of the absence of each story."
+    },
+    {
+      "start": 122.75,
+      "end": 126.75,
+      "text": " Vishwasam Vishwasam"
+    },
+    {
+      "start": 126.75,
+      "end": 132.75,
+      "text": " Ayala Ayala Enikya Enikya"
+    },
+    {
+      "start": 132.75,
+      "end": 135.75,
+      "text": " Vishwasam Unda Vishwasam Unda"
+    },
+    {
+      "start": 135.75,
+      "end": 140.75,
+      "text": " Ayala Enikya Vishwasam Unda"
+    },
+    {
+      "start": 140.75,
+      "end": 146.75,
+      "text": " Madi Madi Madiyan Madiyan"
+    },
+    {
+      "start": 146.75,
+      "end": 149.75,
+      "text": " Madicchi Madicchi"
+    },
+    {
+      "start": 149.75,
+      "end": 163.75,
+      "text": " joli chaiyan madiyaana"
+    },
+    {
+      "start": 163.75,
+      "end": 169.67,
+      "text": " Edayalum"
+    },
+    {
+      "start": 169.67,
+      "end": 172.97,
+      "text": " Iniyum"
+    },
+    {
+      "start": 172.97,
+      "end": 175.63,
+      "text": " Mudal"
+    },
+    {
+      "start": 175.63,
+      "end": 179.61,
+      "text": " Iniyum mudal"
+    },
+    {
+      "start": 179.61,
+      "end": 183.65,
+      "text": " Allangil"
+    },
+    {
+      "start": 183.65,
+      "end": 187.57,
+      "text": " Maattuka"
+    },
+    {
+      "start": 187.57,
+      "end": 189.47,
+      "text": " Maatti"
+    },
+    {
+      "start": 189.47,
+      "end": 191.07,
+      "text": " Maatti"
+    },
+    {
+      "start": 191.07,
+      "end": 218.83,
+      "text": " stalam, stalam, stalam matuka, stalam matuka, enike, enike, ningale, ningale, stalam matteyendathai, stalam matteyendathai, varum, varum, enike ningale stalam matteyendathai varum."
+    },
+    {
+      "start": 221.07,
+      "end": 225.93,
+      "text": " I will have to change the place for you."
+    },
+    {
+      "start": 228.47,
+      "end": 230.55,
+      "text": " Don't change the place."
+    },
+    {
+      "start": 233.97,
+      "end": 235.61,
+      "text": " Do it."
+    },
+    {
+      "start": 237.61,
+      "end": 238.89,
+      "text": " Try."
+    }
+  ]
+}

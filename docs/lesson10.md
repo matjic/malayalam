@@ -12,53 +12,61 @@
 <div class="lesson-audio">
 <p><strong>Vocabulary audio</strong></p>
 <audio controls preload="none" aria-label="Lesson 10: Vocabulary audio" src="assets/audio/moag/sections/lesson_10_vocabulary_0.mp3"></audio>
-<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_10_vocabulary_0.mp3" aria-pressed="true">Listen · 02:23</button></div>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_10_vocabulary_0.mp3" aria-pressed="true">Listen · 02:19</button></div>
 <p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
 </div>
 <!-- /moag-audio -->
 
-| Malayalam | English |
-|---|---|
-| കേരളം | Kerala |
-| സ്റ്റേറ്റ് | state |
-| ആകുന്നു | present of ആകുക, to be (a literary and formal equivalent of ആണ്) |
-| തെക്ക് | south |
-| തെക്കേ | southern |
-| ഭാഗം | part |
-| ആളുകൾ | people (ആൾ - person) |
-| താമസിക്കുക | to live, reside |
-| പടിഞ്ഞാറ് | west |
-| പടിഞ്ഞാറേ | western |
-| വശം | side |
-| കടൽ | sea |
-| അറബിക്കടൽ | Arabian sea |
-| കിഴക്ക് | east |
-| കിഴക്കേ | eastern |
-| പർവ്വതം | mountain, mountain range |
-| സഹ്യപർവ്വതം | the Sahya mountains |
-| സ്ഥിതിചെയ്യുക | to be situated, to be located |
-| ജില്ലകൾ | districts (ജില്ല - district) |
-| ഒഴികെ | except for |
-| ബാക്കി | remaining |
-| ഒരുപോലെ | the same |
-| ഇവ | these |
-| പട്ടണം | city |
-| അവ | those |
-| തലസ്ഥാനം | capital |
-| തുറമുഖം | port, harbor |
-| മദ്ധ്യ | middle, center (adjective) |
-| വടക്ക് | north |
-| <!-- Source: PDF page 196; printed page 142. --> വടക്കേ | northern |
-| അറ്റം | end |
-| തിരുവനന്തപുരത്ത് | in Thiruvananthapuram (Trivandrum) (irregular locative form) |
-| വരെ | to, up to (takes nominative) |
-| ഉദ്ദേശം | about, approximate |
-| മുന്നൂറ് | three hundred |
-| എളുപ്പം | easy |
-| യാത്ര | trip, journey |
-| ട്രെയിൻ | train |
-| ദിവസം | day |
-| യാത്ര ചെയ്യുക | to travel |
+<!-- moag-vocabulary-words -->
+<div class="lesson-audio">
+<p><strong>Selected vocabulary recording</strong></p>
+<audio data-table-audio-player controls preload="none" aria-label="Lesson 10: select a word in the vocabulary table"></audio>
+<p class="lesson-audio-note">Use the Audio column to hear a word. Recorded variants appear beside their written entry; additional recorded forms are included in the same table. Unconfirmed recordings stay in rows marked “check match” until their word is verified. A dash means no aligned recording yet.</p>
+</div>
+<!-- /moag-vocabulary-words -->
+
+| Malayalam | English | Audio |
+|---|---|---|
+| കേരളം | Kerala | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_001.mp3" data-audio-label="കേരളം" aria-label="Play കേരളം" title="Play കേരളം" aria-pressed="false">▶</button> |
+| സ്റ്റേറ്റ് | state | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_002.mp3" data-audio-label="സ്റ്റേറ്റ്" aria-label="Play സ്റ്റേറ്റ്" title="Play സ്റ്റേറ്റ്" aria-pressed="false">▶</button> |
+| ആകുന്നു | present of ആകുക, to be (a literary and formal equivalent of ആണ്) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_003.mp3" data-audio-label="ആകുന്നു" aria-label="Play ആകുന്നു" title="Play ആകുന്നു" aria-pressed="false">▶</button> |
+| തെക്ക് | south | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_004.mp3" data-audio-label="തെക്ക്" aria-label="Play തെക്ക്" title="Play തെക്ക്" aria-pressed="false">▶</button> |
+| തെക്കേ | southern | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_005.mp3" data-audio-label="തെക്കേ" aria-label="Play തെക്കേ" title="Play തെക്കേ" aria-pressed="false">▶</button> |
+| ഭാഗം | part | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_006.mp3" data-audio-label="ഭാഗം" aria-label="Play ഭാഗം" title="Play ഭാഗം" aria-pressed="false">▶</button> |
+| ആളുകൾ | people (ആൾ - person) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_007.mp3" data-audio-label="ആളുകൾ" aria-label="Play ആളുകൾ" title="Play ആളുകൾ" aria-pressed="false">▶</button> |
+| താമസിക്കുക | to live, reside | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_008.mp3" data-audio-label="താമസിക്കുക" aria-label="Play താമസിക്കുക" title="Play താമസിക്കുക" aria-pressed="false">▶</button> |
+| പടിഞ്ഞാറ് | west | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_009.mp3" data-audio-label="പടിഞ്ഞാറ്" aria-label="Play പടിഞ്ഞാറ്" title="Play പടിഞ്ഞാറ്" aria-pressed="false">▶</button> |
+| പടിഞ്ഞാറേ | western | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_010.mp3" data-audio-label="പടിഞ്ഞാറേ" aria-label="Play പടിഞ്ഞാറേ" title="Play പടിഞ്ഞാറേ" aria-pressed="false">▶</button> |
+| വശം | side | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_011.mp3" data-audio-label="വശം" aria-label="Play വശം" title="Play വശം" aria-pressed="false">▶</button> |
+| കടൽ | sea | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_012.mp3" data-audio-label="കടൽ" aria-label="Play കടൽ" title="Play കടൽ" aria-pressed="false">▶</button> |
+| അറബിക്കടൽ | Arabian sea | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_013.mp3" data-audio-label="അറബിക്കടൽ" aria-label="Play അറബിക്കടൽ" title="Play അറബിക്കടൽ" aria-pressed="false">▶</button> |
+| കിഴക്ക് | east | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_014.mp3" data-audio-label="കിഴക്ക്" aria-label="Play കിഴക്ക്" title="Play കിഴക്ക്" aria-pressed="false">▶</button> |
+| കിഴക്കേ | eastern | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_015.mp3" data-audio-label="കിഴക്കേ" aria-label="Play കിഴക്കേ" title="Play കിഴക്കേ" aria-pressed="false">▶</button> |
+| പർവ്വതം | mountain, mountain range | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_016.mp3" data-audio-label="പർവ്വതം" aria-label="Play പർവ്വതം" title="Play പർവ്വതം" aria-pressed="false">▶</button> |
+| സഹ്യപർവ്വതം | the Sahya mountains | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_017.mp3" data-audio-label="സഹ്യപർവ്വതം" aria-label="Play സഹ്യപർവ്വതം" title="Play സഹ്യപർവ്വതം" aria-pressed="false">▶</button> |
+| സ്ഥിതിചെയ്യുക | to be situated, to be located | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_018.mp3" data-audio-label="സ്ഥിതിചെയ്യുക" aria-label="Play സ്ഥിതിചെയ്യുക" title="Play സ്ഥിതിചെയ്യുക" aria-pressed="false">▶</button> |
+| ജില്ലകൾ | districts (ജില്ല - district) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_019.mp3" data-audio-label="ജില്ലകൾ" aria-label="Play ജില്ലകൾ" title="Play ജില്ലകൾ" aria-pressed="false">▶</button> |
+| ഒഴികെ | except for | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| ബാക്കി | remaining | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| ഒരുപോലെ | the same | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| ഇവ | these | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_020.mp3" data-audio-label="ഇവ" aria-label="Play ഇവ" title="Play ഇവ" aria-pressed="false">▶</button> |
+| പട്ടണം | city | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_021.mp3" data-audio-label="പട്ടണം" aria-label="Play പട്ടണം" title="Play പട്ടണം" aria-pressed="false">▶</button> |
+| അവ | those | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_022.mp3" data-audio-label="അവ" aria-label="Play അവ" title="Play അവ" aria-pressed="false">▶</button> |
+| തലസ്ഥാനം | capital | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_023.mp3" data-audio-label="തലസ്ഥാനം" aria-label="Play തലസ്ഥാനം" title="Play തലസ്ഥാനം" aria-pressed="false">▶</button> |
+| തുറമുഖം | port, harbor | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_024.mp3" data-audio-label="തുറമുഖം" aria-label="Play തുറമുഖം" title="Play തുറമുഖം" aria-pressed="false">▶</button> |
+| മദ്ധ്യ | middle, center (adjective) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_025.mp3" data-audio-label="മദ്ധ്യ" aria-label="Play മദ്ധ്യ" title="Play മദ്ധ്യ" aria-pressed="false">▶</button> |
+| വടക്ക് | north | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_026.mp3" data-audio-label="വടക്ക്" aria-label="Play വടക്ക്" title="Play വടക്ക്" aria-pressed="false">▶</button> |
+| <!-- Source: PDF page 196; printed page 142. --> വടക്കേ | northern | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_027.mp3" data-audio-label="വടക്കേ" aria-label="Play വടക്കേ" title="Play വടക്കേ" aria-pressed="false">▶</button> |
+| അറ്റം | end | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_028.mp3" data-audio-label="അറ്റം" aria-label="Play അറ്റം" title="Play അറ്റം" aria-pressed="false">▶</button> |
+| തിരുവനന്തപുരത്ത് | in Thiruvananthapuram (Trivandrum) (irregular locative form) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_029.mp3" data-audio-label="തിരുവനന്തപുരത്ത്" aria-label="Play തിരുവനന്തപുരത്ത്" title="Play തിരുവനന്തപുരത്ത്" aria-pressed="false">▶</button> |
+| വരെ | to, up to (takes nominative) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_030.mp3" data-audio-label="വരെ" aria-label="Play വരെ" title="Play വരെ" aria-pressed="false">▶</button> |
+| ഉദ്ദേശം | about, approximate | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_031.mp3" data-audio-label="ഉദ്ദേശം" aria-label="Play ഉദ്ദേശം" title="Play ഉദ്ദേശം" aria-pressed="false">▶</button> |
+| മുന്നൂറ് | three hundred | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_032.mp3" data-audio-label="മുന്നൂറ്" aria-label="Play മുന്നൂറ്" title="Play മുന്നൂറ്" aria-pressed="false">▶</button> |
+| എളുപ്പം | easy | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_033.mp3" data-audio-label="എളുപ്പം" aria-label="Play എളുപ്പം" title="Play എളുപ്പം" aria-pressed="false">▶</button> |
+| യാത്ര | trip, journey | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_034.mp3" data-audio-label="യാത്ര" aria-label="Play യാത്ര" title="Play യാത്ര" aria-pressed="false">▶</button> |
+| ട്രെയിൻ | train | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_035.mp3" data-audio-label="ട്രെയിൻ" aria-label="Play ട്രെയിൻ" title="Play ട്രെയിൻ" aria-pressed="false">▶</button> |
+| ദിവസം | day | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_036.mp3" data-audio-label="ദിവസം" aria-label="Play ദിവസം" title="Play ദിവസം" aria-pressed="false">▶</button> |
+| യാത്ര ചെയ്യുക | to travel | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
 
 <a id="lesson10-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice

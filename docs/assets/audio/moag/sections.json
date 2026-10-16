@@ -6,9 +6,9 @@
       "kind": "vocabulary",
       "label": "Listen",
       "start": 34.24,
-      "end": 304.69,
+      "end": 125.4823,
       "path": "docs/assets/audio/moag/sections/lesson_01_vocabulary_0.mp3",
-      "sha256": "9caa013e70609cf8719e2c7523a69df44ab2373ef0ca92b20375aca5e48eb897"
+      "sha256": "ab97ca579a2b255a54d371337160dcde0824303897f1a07335f0e6062ba5ef86"
     },
     {
       "lesson": 1,
@@ -66,6 +66,15 @@
     },
     {
       "lesson": 2,
+      "kind": "vocabulary",
+      "label": "Listen",
+      "start": 127.86,
+      "end": 234.1392,
+      "path": "docs/assets/audio/moag/sections/lesson_02_vocabulary_0.mp3",
+      "sha256": "949af5b0e5364b4f87555c956c6bb97e56801d384aeaef763857ca008e2b8819"
+    },
+    {
+      "lesson": 2,
       "kind": "conversation",
       "label": "Repeat with the speaker",
       "start": 1051.88,
@@ -114,9 +123,9 @@
       "kind": "vocabulary",
       "label": "Listen",
       "start": 28.71,
-      "end": 162.72,
+      "end": 160.3327,
       "path": "docs/assets/audio/moag/sections/lesson_03_vocabulary_0.mp3",
-      "sha256": "462d9f327cad4fe7cadebb6c2cb4febfcaa584bc09be23a02c96b8627281dcc3"
+      "sha256": "ea6655f9a13875be7cdd183a3bd329a43fb939eaba65585f3fc8013b20292ab4"
     },
     {
       "lesson": 3,
@@ -168,9 +177,9 @@
       "kind": "vocabulary",
       "label": "Listen",
       "start": 50.69,
-      "end": 299.39,
+      "end": 182.9397,
       "path": "docs/assets/audio/moag/sections/lesson_04_vocabulary_0.mp3",
-      "sha256": "843e722f56d18ac8b42cdab19074819a3ee23de3547d2d56a27e3a47d609da9e"
+      "sha256": "2b7dd7f1df4d4ef0fced243f9339b8f9d3e5386bb264bb137d76224f0e122dee"
     },
     {
       "lesson": 4,
@@ -222,9 +231,9 @@
       "kind": "vocabulary",
       "label": "Listen",
       "start": 6.67,
-      "end": 116.93,
+      "end": 114.8783,
       "path": "docs/assets/audio/moag/sections/lesson_05_vocabulary_0.mp3",
-      "sha256": "339e56cc17ee47ee300186a34a03595925ce0d5d18886b8057a4c52aa7ea6dd0"
+      "sha256": "d64f193a88e48096f4574db9ceb731c38dadb12187ec866cf4acf493bdf4a5ce"
     },
     {
       "lesson": 5,
@@ -285,9 +294,9 @@
       "kind": "vocabulary",
       "label": "Listen",
       "start": 140.64,
-      "end": 344.97,
+      "end": 242.2642,
       "path": "docs/assets/audio/moag/sections/lesson_06_vocabulary_0.mp3",
-      "sha256": "70d1c78b1e2fabddc9bbe4aa29d44312f778a954a7b8421bd7344cf86c7d71d7"
+      "sha256": "5d6bb4bb790181169db71595112b0fe713ac4f917ce323a307e0b3024b5dd184"
     },
     {
       "lesson": 6,
@@ -348,9 +357,9 @@
       "kind": "vocabulary",
       "label": "Listen",
       "start": 322.01,
-      "end": 422.62,
+      "end": 419.1038,
       "path": "docs/assets/audio/moag/sections/lesson_07_vocabulary_0.mp3",
-      "sha256": "5fddc6bf116f599c42645b6acab4df0ed8ea06f79a7a58b72f74cd573d47ba25"
+      "sha256": "ef3c5f40d5e96670571e718d387ec1fc47ef102c1a60fc5fbdd7fcc717c3e8fb"
     },
     {
       "lesson": 7,
@@ -420,9 +429,9 @@
       "kind": "vocabulary",
       "label": "Listen",
       "start": 137.83,
-      "end": 251.95,
+      "end": 247.3166,
       "path": "docs/assets/audio/moag/sections/lesson_08_vocabulary_0.mp3",
-      "sha256": "dac376f3dd66e477fa61248bdf3b21c50c8cfcd6fbd137293fc599ef849f2945"
+      "sha256": "31725158dc97c8f488711dfcbda9e70897500dba015ce5b4f905a7bb6b7af813"
     },
     {
       "lesson": 8,
@@ -464,10 +473,10 @@
       "lesson": 9,
       "kind": "vocabulary",
       "label": "Listen",
-      "start": 115.19,
-      "end": 228.18,
+      "start": 115.43,
+      "end": 226.908,
       "path": "docs/assets/audio/moag/sections/lesson_09_vocabulary_0.mp3",
-      "sha256": "865204d50126ddfac8aa00fbd35231477481d7f8449a0fbda9148950554f9ac6"
+      "sha256": "9fdf0304bb4ee35032d256d8dbd054fabb530968bd79700a5a01d865ffb54658"
     },
     {
       "lesson": 9,
@@ -536,10 +545,10 @@
       "lesson": 10,
       "kind": "vocabulary",
       "label": "Listen",
-      "start": 0.04,
-      "end": 144.01,
+      "start": 1.64,
+      "end": 141.1603,
       "path": "docs/assets/audio/moag/sections/lesson_10_vocabulary_0.mp3",
-      "sha256": "90e6b32964c3f34b702ca2438ba91471fe883bef8ac48d880736d54429f8472d"
+      "sha256": "553c5ef8e5da23af8cdf5879d28d0d75f8794cd191c5aed7dc2f77f06ee623a5"
     },
     {
       "lesson": 10,
@@ -573,9 +582,9 @@
       "kind": "vocabulary",
       "label": "Listen",
       "start": 99.39,
-      "end": 285.28,
+      "end": 282.2512,
       "path": "docs/assets/audio/moag/sections/lesson_11_vocabulary_0.mp3",
-      "sha256": "40300121571293467f729f821e56c3fda7fcd27bb6dd9ce7d34d2e59c2833097"
+      "sha256": "e4969bf71788e103db92963412aa94176fc3f2ae3e95c07e194a2810183e3541"
     },
     {
       "lesson": 11,
@@ -635,10 +644,10 @@
       "lesson": 12,
       "kind": "vocabulary",
       "label": "Listen",
-      "start": 216.19,
-      "end": 851.7,
+      "start": 230.87,
+      "end": 373.649,
       "path": "docs/assets/audio/moag/sections/lesson_12_vocabulary_0.mp3",
-      "sha256": "24d4f5297e64b8baa9d96437d7ddd180ada66304d187e350644611a136c555ac"
+      "sha256": "00ec9931f228d7403138eaac7ed42c7b25c1f9607d73ae3b1460d0dc984b97a2"
     },
     {
       "lesson": 12,
@@ -672,9 +681,9 @@
       "kind": "vocabulary",
       "label": "Listen",
       "start": 3.09,
-      "end": 241.05,
+      "end": 239.746,
       "path": "docs/assets/audio/moag/sections/lesson_13_vocabulary_0.mp3",
-      "sha256": "20710ae3eafc0ea6e5978da03ebd09170389721454c95e534189aee5396782e6"
+      "sha256": "35f2cf67bd7fbfd6e8c73d516496f60a41aa83481b632b91bbbb2b59ae0d1c9d"
     },
     {
       "lesson": 13,
@@ -734,10 +743,10 @@
       "lesson": 14,
       "kind": "vocabulary",
       "label": "Listen",
-      "start": 165.65,
-      "end": 423.9,
+      "start": 167.65,
+      "end": 421.5281,
       "path": "docs/assets/audio/moag/sections/lesson_14_vocabulary_0.mp3",
-      "sha256": "b2cb5582c4a78b000808250a5f9ef77baf641eaf551da2a11764756dd63118c7"
+      "sha256": "55c11ea059b4d2a440129f071e3210f52028181ee811bd1bcb94d1a9112004bf"
     },
     {
       "lesson": 14,
@@ -771,9 +780,9 @@
       "kind": "vocabulary",
       "label": "Listen",
       "start": 45.46,
-      "end": 273.47,
+      "end": 273.0714,
       "path": "docs/assets/audio/moag/sections/lesson_15_vocabulary_0.mp3",
-      "sha256": "9411aa5fadffd1694849b0ac9beee62e85688bdaa0dcef700cd190f18b1ef400"
+      "sha256": "7e409d6fabb7fa6f8724888222a87cc71d2932d5e57da8c50387b406f157e3a4"
     },
     {
       "lesson": 15,
@@ -825,9 +834,9 @@
       "kind": "vocabulary",
       "label": "Listen",
       "start": 2.45,
-      "end": 221.85,
+      "end": 220.4771,
       "path": "docs/assets/audio/moag/sections/lesson_16_vocabulary_0.mp3",
-      "sha256": "767a6ad85bf88fa7994563e89bd38ad735e69f46cf594a1671122bc3774eaa19"
+      "sha256": "71c91522f0cf9fc4535ded7e4e1fd0ed240fbb8fc411012096ce15e3feec1ab6"
     },
     {
       "lesson": 16,
@@ -861,9 +870,9 @@
       "kind": "vocabulary",
       "label": "Listen",
       "start": 2.81,
-      "end": 210.02,
+      "end": 157.1509,
       "path": "docs/assets/audio/moag/sections/lesson_17_vocabulary_0.mp3",
-      "sha256": "3de1b0db2fb1e454006ee2276421d3d3b9afd4510312a3e6f69dec508acc06bb"
+      "sha256": "346db1503231357a8949f1484fbd9223c4b7297cadbaeb361081689ee0f1a7d5"
     },
     {
       "lesson": 17,
@@ -960,9 +969,9 @@
       "kind": "vocabulary",
       "label": "Listen",
       "start": 1.9,
-      "end": 170.88,
+      "end": 170.2512,
       "path": "docs/assets/audio/moag/sections/lesson_18_vocabulary_0.mp3",
-      "sha256": "b40620dbd14ec943f63c39b6fd0773ab5d85ecdf029a7716a550842489972911"
+      "sha256": "4fc826d4bd1cf4d55708b31ba07f23306b56ad8f2c0fc4ff37dfdae699171e57"
     },
     {
       "lesson": 18,
@@ -1014,9 +1023,9 @@
       "kind": "vocabulary",
       "label": "Listen",
       "start": 2.05,
-      "end": 244.89,
+      "end": 241.5972,
       "path": "docs/assets/audio/moag/sections/lesson_19_vocabulary_0.mp3",
-      "sha256": "2740a840fb00ff9cae2e4fa865c166c0563d3ce732aeaef8f07c8e27f3f54130"
+      "sha256": "2a5dc5db6792d4dd31dabcac83029e11b8b15221677413cb33b11c79a9f1f0a4"
     },
     {
       "lesson": 19,
@@ -1077,9 +1086,9 @@
       "kind": "vocabulary",
       "label": "Listen",
       "start": 94.48,
-      "end": 436.83,
+      "end": 436.7167,
       "path": "docs/assets/audio/moag/sections/lesson_20_vocabulary_0.mp3",
-      "sha256": "3592be0a6fceda993201dfa8ad31eb0071fd8bdf9709b2377559d17d102ba3e1"
+      "sha256": "11de0e491664074fda1f17f1c638181549d8b205809c8d0496c59283c0639f63"
     },
     {
       "lesson": 20,
@@ -1098,6 +1107,15 @@
       "end": 1165.74,
       "path": "docs/assets/audio/moag/sections/lesson_20_exercise_0.mp3",
       "sha256": "1857a91ecb9b29eafbcb5ff08abc72fcc1ef899ac69fa40aba9d2bbd043b78de"
+    },
+    {
+      "lesson": 21,
+      "kind": "vocabulary",
+      "label": "Listen",
+      "start": 128.54,
+      "end": 342.3702,
+      "path": "docs/assets/audio/moag/sections/lesson_21_vocabulary_0.mp3",
+      "sha256": "246c24a11e4b147fe13caa931ecc38149224d0b945380c912f4d4ee4d95d0083"
     },
     {
       "lesson": 21,
@@ -1149,9 +1167,9 @@
       "kind": "vocabulary",
       "label": "Listen",
       "start": 8.01,
-      "end": 422.78,
+      "end": 310.5411,
       "path": "docs/assets/audio/moag/sections/lesson_22_vocabulary_0.mp3",
-      "sha256": "813650976364b8ae86e8590f7b768cff60d233109e746ecba4be1f41d79a17a7"
+      "sha256": "4ef29dcd3e93569d7ef54fd0ab57101bbd2e649855be065372642acac2696ab2"
     },
     {
       "lesson": 22,
@@ -1194,9 +1212,9 @@
       "kind": "vocabulary",
       "label": "Listen",
       "start": 196.17,
-      "end": 511.64,
+      "end": 508.1446,
       "path": "docs/assets/audio/moag/sections/lesson_23_vocabulary_0.mp3",
-      "sha256": "7b6fadbe21ec9325fef756c691fa691572f785b02cb4a35522f744b263eb9b3b"
+      "sha256": "eefee3dea7d3d70bfcd8aff80bd2118cd739ac336691dc73d93718289490421c"
     },
     {
       "lesson": 23,
@@ -1239,9 +1257,9 @@
       "kind": "vocabulary",
       "label": "Listen",
       "start": 228.75,
-      "end": 732.75,
+      "end": 517.8791,
       "path": "docs/assets/audio/moag/sections/lesson_24_vocabulary_0.mp3",
-      "sha256": "6a4ab68fe9a4d985cd99fab1c8fda7ea50e687d6341e72b54923b1444a3a2009"
+      "sha256": "e53bb6406be3c1305740a139d7e0190c68d4c5644cd9b8a4f3f5df569c50a81d"
     },
     {
       "lesson": 24,
@@ -1287,6 +1305,15 @@
       "end": 2371.03,
       "path": "docs/assets/audio/moag/sections/lesson_24_exercise_0.mp3",
       "sha256": "28be97a18516a3c8e15ac20452e5fd4fe9eb0ec149a5cb4e2b4a9b364ad6a2ad"
+    },
+    {
+      "lesson": 25,
+      "kind": "vocabulary",
+      "label": "Listen",
+      "start": 244.9,
+      "end": 628.0398,
+      "path": "docs/assets/audio/moag/sections/lesson_25_vocabulary_0.mp3",
+      "sha256": "6048c1d12f89bae455788fd8353c5f26804e8700b68ff9d9fdb034b3393203ed"
     },
     {
       "lesson": 25,

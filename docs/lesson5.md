@@ -11,34 +11,42 @@
 <div class="lesson-audio">
 <p><strong>Vocabulary audio</strong></p>
 <audio controls preload="none" aria-label="Lesson 5: Vocabulary audio" src="assets/audio/moag/sections/lesson_05_vocabulary_0.mp3"></audio>
-<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_05_vocabulary_0.mp3" aria-pressed="true">Listen · 01:50</button></div>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_05_vocabulary_0.mp3" aria-pressed="true">Listen · 01:48</button></div>
 <p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
 </div>
 <!-- /moag-audio -->
 
-| Malayalam | English |
-|---|---|
-| കൃഷ്ണൻ | a male name |
-| മുറി | room |
-| ഇരിക്കുന്നു | is, am, are sitting |
-| ചെയ്യുന്നു | is, am, are doing |
-| പഠിക്കുന്നു | is, am, are studying |
-| വായിക്കുന്നു | is, am, are reading |
-| സിനിമ (ഫിലിം) | movie, film, cinema |
-| കാണാൻ | to see |
-| പോകുന്നു | is, am, are going |
-| ഇല്ല | no, (negative of the verb ഉണ്ട്) |
-| ഇല്ലേ | question form of ഇല്ല |
-| വരുന്നില്ല | is, am, are not coming |
-| കാര്യം | matter |
-| എനിക്ക് കുറച്ച് ജോലി ഉണ്ട് | I have some work |
-| അല്ലേ? | isn’t, aren’t, you, they, etc. (question form of അല്ല) |
-| അങ്ങനെ | that way, like that |
-| പക്ഷേ | but |
-| മലയാളം | Malayalam |
-| എന്നാൽ | then, so |
-| പിന്നെ | then, later |
-| കാണാം or പിന്നെ കാണാം | See you later, so long |
+<!-- moag-vocabulary-words -->
+<div class="lesson-audio">
+<p><strong>Selected vocabulary recording</strong></p>
+<audio data-table-audio-player controls preload="none" aria-label="Lesson 5: select a word in the vocabulary table"></audio>
+<p class="lesson-audio-note">Use the Audio column to hear a word. Recorded variants appear beside their written entry; additional recorded forms are included in the same table. Unconfirmed recordings stay in rows marked “check match” until their word is verified. A dash means no aligned recording yet.</p>
+</div>
+<!-- /moag-vocabulary-words -->
+
+| Malayalam | English | Audio |
+|---|---|---|
+| കൃഷ്ണൻ | a male name | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_05_word_001.mp3" data-audio-label="കൃഷ്ണൻ" aria-label="Play കൃഷ്ണൻ" title="Play കൃഷ്ണൻ" aria-pressed="false">▶</button> |
+| മുറി | room | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_05_word_002.mp3" data-audio-label="മുറി" aria-label="Play മുറി" title="Play മുറി" aria-pressed="false">▶</button> |
+| ഇരിക്കുന്നു | is, am, are sitting | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_05_word_003.mp3" data-audio-label="ഇരിക്കുന്നു" aria-label="Play ഇരിക്കുന്നു" title="Play ഇരിക്കുന്നു" aria-pressed="false">▶</button> |
+| ചെയ്യുന്നു | is, am, are doing | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_05_word_004.mp3" data-audio-label="ചെയ്യുന്നു" aria-label="Play ചെയ്യുന്നു" title="Play ചെയ്യുന്നു" aria-pressed="false">▶</button> |
+| പഠിക്കുന്നു | is, am, are studying | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_05_word_005.mp3" data-audio-label="പഠിക്കുന്നു" aria-label="Play പഠിക്കുന്നു" title="Play പഠിക്കുന്നു" aria-pressed="false">▶</button> |
+| വായിക്കുന്നു | is, am, are reading | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_05_word_006.mp3" data-audio-label="വായിക്കുന്നു" aria-label="Play വായിക്കുന്നു" title="Play വായിക്കുന്നു" aria-pressed="false">▶</button> |
+| സിനിമ (ഫിലിം) | movie, film, cinema | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_05_word_007.mp3" data-audio-label="സിനിമ" aria-label="Play സിനിമ" title="Play സിനിമ" aria-pressed="false">▶</button> |
+| കാണാൻ | to see | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_05_word_008.mp3" data-audio-label="കാണാൻ" aria-label="Play കാണാൻ" title="Play കാണാൻ" aria-pressed="false">▶</button> |
+| പോകുന്നു | is, am, are going | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_05_word_009.mp3" data-audio-label="പോകുന്നു" aria-label="Play പോകുന്നു" title="Play പോകുന്നു" aria-pressed="false">▶</button> |
+| ഇല്ല | no, (negative of the verb ഉണ്ട്) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_05_word_010.mp3" data-audio-label="ഇല്ല" aria-label="Play ഇല്ല" title="Play ഇല്ല" aria-pressed="false">▶</button> |
+| ഇല്ലേ | question form of ഇല്ല | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_05_word_011.mp3" data-audio-label="ഇല്ലേ?" aria-label="Play ഇല്ലേ?" title="Play ഇല്ലേ?" aria-pressed="false">▶</button> |
+| വരുന്നില്ല | is, am, are not coming | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_05_word_012.mp3" data-audio-label="വരുന്നില്ല" aria-label="Play വരുന്നില്ല" title="Play വരുന്നില്ല" aria-pressed="false">▶</button> |
+| കാര്യം | matter | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_05_word_013.mp3" data-audio-label="കാര്യം" aria-label="Play കാര്യം" title="Play കാര്യം" aria-pressed="false">▶</button> |
+| എനിക്ക് കുറച്ച് ജോലി ഉണ്ട് | I have some work | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_05_word_014.mp3" data-audio-label="എനിക്ക് കുറച്ച് ജോലി ഉണ്ട്" aria-label="Play എനിക്ക് കുറച്ച് ജോലി ഉണ്ട്" title="Play എനിക്ക് കുറച്ച് ജോലി ഉണ്ട്" aria-pressed="false">▶</button> |
+| അല്ലേ? | isn’t, aren’t, you, they, etc. (question form of അല്ല) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_05_word_015.mp3" data-audio-label="അല്ലേ?" aria-label="Play അല്ലേ?" title="Play അല്ലേ?" aria-pressed="false">▶</button> |
+| അങ്ങനെ | that way, like that | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_05_word_016.mp3" data-audio-label="അങ്ങനെ" aria-label="Play അങ്ങനെ" title="Play അങ്ങനെ" aria-pressed="false">▶</button> |
+| പക്ഷേ | but | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_05_word_017.mp3" data-audio-label="പക്ഷേ" aria-label="Play പക്ഷേ" title="Play പക്ഷേ" aria-pressed="false">▶</button> |
+| മലയാളം | Malayalam | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_05_word_018.mp3" data-audio-label="മലയാളം" aria-label="Play മലയാളം" title="Play മലയാളം" aria-pressed="false">▶</button> |
+| എന്നാൽ | then, so | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_05_word_019.mp3" data-audio-label="എന്നാൽ" aria-label="Play എന്നാൽ" title="Play എന്നാൽ" aria-pressed="false">▶</button> |
+| പിന്നെ | then, later | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_05_word_020.mp3" data-audio-label="പിന്നെ" aria-label="Play പിന്നെ" title="Play പിന്നെ" aria-pressed="false">▶</button> |
+| കാണാം or പിന്നെ കാണാം | See you later, so long | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_05_word_021.mp3" data-audio-label="കാണാം" aria-label="Play കാണാം" title="Play കാണാം" aria-pressed="false">▶ <span lang="ml">കാണാം</span></button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_05_word_022.mp3" data-audio-label="പിന്നെ കാണാം" aria-label="Play പിന്നെ കാണാം" title="Play പിന്നെ കാണാം" aria-pressed="false">▶ <span lang="ml">പിന്നെ കാണാം</span></button> |
 
 <!-- Source: PDF page 104; printed page 54. -->
 <a id="lesson5-reading-practice"></a><!-- reading-anchor -->

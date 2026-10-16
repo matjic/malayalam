@@ -53,66 +53,74 @@
 <div class="lesson-audio">
 <p><strong>Vocabulary audio</strong></p>
 <audio controls preload="none" aria-label="Lesson 22: Vocabulary audio" src="assets/audio/moag/sections/lesson_22_vocabulary_0.mp3"></audio>
-<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_22_vocabulary_0.mp3" aria-pressed="true">Listen · 06:54</button></div>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_22_vocabulary_0.mp3" aria-pressed="true">Listen · 05:02</button></div>
 <p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
 </div>
 <!-- /moag-audio -->
 
-| Malayalam | English |
-| --- | --- |
-| മത്തായി | Malayalam form of Matthew |
-| മത്തായിച്ചൻ | Mr. Mathai (respectful) |
-| അകത്ത് | inside (locative of അകം) |
-| കിടക്കുക (past: കിടന്നു) | to lie down |
-| കിടപ്പുണ്ട് | is lying (eq: to കിടക്കുകയാണ്) |
-| --ഏക്ക് | to, into -- |
-| <!-- Source: PDF page 393; printed page 334. --> (ഞാൻ) എപ്പോൾ വന്നാലും | whenever I come |
-| പിള്ള | Pillai, a Nair surname |
-| പനി | fever |
-| വയസ് | age |
-| വയസ്സുകാലം | old age |
-| ഓരോ അസുഖങ്ങൾ | some illness or the other |
-| മഴ | rain |
-| മഴക്കാലം | rainy season |
-| എവിടെ പോയാലും | wherever (you) go |
-| ആർക്കെങ്കിലും | someone, to someone, to anyone at all |
-| പിടിക്കുക (past: പിടിച്ചു) | to be afflicted by, to catch a disease (dative subject); to grab, hold, catch hold of |
-| കഠിനം | severe, tough, cruel |
-| കൃഷി | agriculture, farming |
-| നശിക്കുക (past: നശിച്ചു) | to be ruined, destroyed |
-| കൃഷിക്കാർ | farmers |
-| ഭാഗ്യം | luck, fortune |
-| നിർഭാഗ്യം | bad luck, misfortune |
-| നിർഭാഗ്യകരമായ | unfortunate |
-| പൊതു | common, public |
-| പൊതുവേ | in general |
-| കൊയ്ത്ത് | harvest |
-| മോശം | bad |
-| സാധനം | thing |
-| പാവം | poor |
-| പാവപ്പെട്ടവർ (also: പാവങ്ങൾ) | poor people |
-| കഷ്ടം | difficulty |
-| കഷ്ടപ്പെടുക (past: കഷ്ടപ്പെട്ടു) | to suffer, to experience difficulty |
-| സർക്കാർ | government |
-| ഇടപെടുക (past: ഇടപെട്ടു) | to interfere, to take a hand |
-| <!-- Source: PDF page 394; printed page 335. --> കച്ചവടം | trade |
-| കച്ചവടക്കാർ | traders, merchants |
-| ന്യായം | justice |
-| അന്യായം | injustice |
-| ഭയങ്കര | huge, awful, frightful |
-| ലാഭം | profit |
-| (അവർക്ക്) എത്ര കിട്ടിയാലും | however much (they) get |
-| ഫലം | result, fruit |
-| (ഇതിന്റെ) ഫലമായി | as a result (of this) |
-| പണക്കാർ | rich people |
-| കൂടുതലായി | excessively |
-| വിഷമിക്കുകയും ചെയ്യുക | to be troubled for sure, to suffer for sure |
-| കഷ്ട കാലം | hard time(s) |
-| വേണ്ടി | for, in order to (dative, infinitive) |
-| പ്രാർത്ഥിക്കുക (past: പ്രാർത്ഥിച്ചു) | to pray |
-| അല്ലാതെ | otherwise |
-| രക്ഷ | refuge |
-| വരാറായി | is (are) about to come |
+<!-- moag-vocabulary-words -->
+<div class="lesson-audio">
+<p><strong>Selected vocabulary recording</strong></p>
+<audio data-table-audio-player controls preload="none" aria-label="Lesson 22: select a word in the vocabulary table"></audio>
+<p class="lesson-audio-note">Use the Audio column to hear a word. Recorded variants appear beside their written entry; additional recorded forms are included in the same table. Unconfirmed recordings stay in rows marked “check match” until their word is verified. A dash means no aligned recording yet.</p>
+</div>
+<!-- /moag-vocabulary-words -->
+
+| Malayalam | English | Audio |
+| --- | --- |---|
+| മത്തായി | Malayalam form of Matthew | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_001.mp3" data-audio-label="മത്തായി" aria-label="Play മത്തായി" title="Play മത്തായി" aria-pressed="false">▶</button> |
+| മത്തായിച്ചൻ | Mr. Mathai (respectful) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_002.mp3" data-audio-label="മത്തായിച്ചൻ" aria-label="Play മത്തായിച്ചൻ" title="Play മത്തായിച്ചൻ" aria-pressed="false">▶</button> |
+| അകത്ത് | inside (locative of അകം) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_003.mp3" data-audio-label="അകത്ത്" aria-label="Play അകത്ത്" title="Play അകത്ത്" aria-pressed="false">▶</button> |
+| കിടക്കുക (past: കിടന്നു) | to lie down | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_004.mp3" data-audio-label="കിടക്കുക" aria-label="Play കിടക്കുക" title="Play കിടക്കുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_005.mp3" data-audio-label="കിടന്നു" aria-label="Play കിടന്നു" title="Play കിടന്നു" aria-pressed="false">▶ <span lang="ml">കിടന്നു</span></button> |
+| കിടപ്പുണ്ട് | is lying (eq: to കിടക്കുകയാണ്) | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| --ഏക്ക് | to, into -- | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_006.mp3" data-audio-label="ഏക്ക്" aria-label="Play ഏക്ക്" title="Play ഏക്ക്" aria-pressed="false">▶</button> |
+| <!-- Source: PDF page 393; printed page 334. --> (ഞാൻ) എപ്പോൾ വന്നാലും | whenever I come | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_007.mp3" data-audio-label="ഞാൻ എപ്പോൾ വന്നാലും" aria-label="Play ഞാൻ എപ്പോൾ വന്നാലും" title="Play ഞാൻ എപ്പോൾ വന്നാലും" aria-pressed="false">▶ <span lang="ml">ഞാൻ എപ്പോൾ വന്നാലും</span></button> |
+| പിള്ള | Pillai, a Nair surname | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_008.mp3" data-audio-label="പിള്ള" aria-label="Play പിള്ള" title="Play പിള്ള" aria-pressed="false">▶</button> |
+| പനി | fever | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_009.mp3" data-audio-label="പനി" aria-label="Play പനി" title="Play പനി" aria-pressed="false">▶</button> |
+| വയസ് | age | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_010.mp3" data-audio-label="വയസ്" aria-label="Play വയസ്" title="Play വയസ്" aria-pressed="false">▶</button> |
+| വയസ്സുകാലം | old age | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_011.mp3" data-audio-label="വയസ്സുകാലം" aria-label="Play വയസ്സുകാലം" title="Play വയസ്സുകാലം" aria-pressed="false">▶</button> |
+| ഓരോ അസുഖങ്ങൾ | some illness or the other | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_012.mp3" data-audio-label="ഓരോ അസുഖങ്ങൾ" aria-label="Play ഓരോ അസുഖങ്ങൾ" title="Play ഓരോ അസുഖങ്ങൾ" aria-pressed="false">▶</button> |
+| മഴ | rain | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_013.mp3" data-audio-label="മഴ" aria-label="Play മഴ" title="Play മഴ" aria-pressed="false">▶</button> |
+| മഴക്കാലം | rainy season | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_014.mp3" data-audio-label="മഴക്കാലം" aria-label="Play മഴക്കാലം" title="Play മഴക്കാലം" aria-pressed="false">▶</button> |
+| എവിടെ പോയാലും | wherever (you) go | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_015.mp3" data-audio-label="എവിടെ പോയാലും" aria-label="Play എവിടെ പോയാലും" title="Play എവിടെ പോയാലും" aria-pressed="false">▶</button> |
+| ആർക്കെങ്കിലും | someone, to someone, to anyone at all | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_016.mp3" data-audio-label="ആർക്കെങ്കിലും" aria-label="Play ആർക്കെങ്കിലും" title="Play ആർക്കെങ്കിലും" aria-pressed="false">▶</button> |
+| പിടിക്കുക (past: പിടിച്ചു) | to be afflicted by, to catch a disease (dative subject); to grab, hold, catch hold of | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_017.mp3" data-audio-label="പിടിക്കുക" aria-label="Play പിടിക്കുക" title="Play പിടിക്കുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_018.mp3" data-audio-label="പിടിച്ചു" aria-label="Play പിടിച്ചു" title="Play പിടിച്ചു" aria-pressed="false">▶ <span lang="ml">പിടിച്ചു</span></button> |
+| കഠിനം | severe, tough, cruel | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_019.mp3" data-audio-label="കഠിനം" aria-label="Play കഠിനം" title="Play കഠിനം" aria-pressed="false">▶</button> |
+| കൃഷി | agriculture, farming | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_020.mp3" data-audio-label="കൃഷി" aria-label="Play കൃഷി" title="Play കൃഷി" aria-pressed="false">▶</button> |
+| നശിക്കുക (past: നശിച്ചു) | to be ruined, destroyed | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_021.mp3" data-audio-label="നശിക്കുക" aria-label="Play നശിക്കുക" title="Play നശിക്കുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_022.mp3" data-audio-label="നശിച്ചു" aria-label="Play നശിച്ചു" title="Play നശിച്ചു" aria-pressed="false">▶ <span lang="ml">നശിച്ചു</span></button> |
+| കൃഷിക്കാർ | farmers | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_023.mp3" data-audio-label="കൃഷിക്കാർ" aria-label="Play കൃഷിക്കാർ" title="Play കൃഷിക്കാർ" aria-pressed="false">▶</button> |
+| ഭാഗ്യം | luck, fortune | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_024.mp3" data-audio-label="ഭാഗ്യം" aria-label="Play ഭാഗ്യം" title="Play ഭാഗ്യം" aria-pressed="false">▶</button> |
+| നിർഭാഗ്യം | bad luck, misfortune | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_025.mp3" data-audio-label="നിർഭാഗ്യം" aria-label="Play നിർഭാഗ്യം" title="Play നിർഭാഗ്യം" aria-pressed="false">▶</button> |
+| നിർഭാഗ്യകരമായ | unfortunate | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_026.mp3" data-audio-label="നിർഭാഗ്യകരമായ" aria-label="Play നിർഭാഗ്യകരമായ" title="Play നിർഭാഗ്യകരമായ" aria-pressed="false">▶</button> |
+| പൊതു | common, public | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_027.mp3" data-audio-label="പൊതു" aria-label="Play പൊതു" title="Play പൊതു" aria-pressed="false">▶</button> |
+| പൊതുവേ | in general | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_028.mp3" data-audio-label="പൊതുവേ" aria-label="Play പൊതുവേ" title="Play പൊതുവേ" aria-pressed="false">▶</button> |
+| കൊയ്ത്ത് | harvest | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_029.mp3" data-audio-label="കൊയ്ത്ത്" aria-label="Play കൊയ്ത്ത്" title="Play കൊയ്ത്ത്" aria-pressed="false">▶</button> |
+| മോശം | bad | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_030.mp3" data-audio-label="മോശം" aria-label="Play മോശം" title="Play മോശം" aria-pressed="false">▶</button> |
+| സാധനം | thing | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_031.mp3" data-audio-label="സാധനം" aria-label="Play സാധനം" title="Play സാധനം" aria-pressed="false">▶</button> |
+| പാവം | poor | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_032.mp3" data-audio-label="പാവം" aria-label="Play പാവം" title="Play പാവം" aria-pressed="false">▶</button> |
+| പാവപ്പെട്ടവർ (also: പാവങ്ങൾ) | poor people | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_033.mp3" data-audio-label="പാവപ്പെട്ടവർ" aria-label="Play പാവപ്പെട്ടവർ" title="Play പാവപ്പെട്ടവർ" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_034.mp3" data-audio-label="പാവങ്ങൾ" aria-label="Play പാവങ്ങൾ" title="Play പാവങ്ങൾ" aria-pressed="false">▶ <span lang="ml">പാവങ്ങൾ</span></button> |
+| കഷ്ടം | difficulty | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_035.mp3" data-audio-label="കഷ്ടം" aria-label="Play കഷ്ടം" title="Play കഷ്ടം" aria-pressed="false">▶</button> |
+| കഷ്ടപ്പെടുക (past: കഷ്ടപ്പെട്ടു) | to suffer, to experience difficulty | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_036.mp3" data-audio-label="കഷ്ടപ്പെടുക" aria-label="Play കഷ്ടപ്പെടുക" title="Play കഷ്ടപ്പെടുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_037.mp3" data-audio-label="കഷ്ടപ്പെട്ടു" aria-label="Play കഷ്ടപ്പെട്ടു" title="Play കഷ്ടപ്പെട്ടു" aria-pressed="false">▶ <span lang="ml">കഷ്ടപ്പെട്ടു</span></button> |
+| സർക്കാർ | government | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_038.mp3" data-audio-label="സർക്കാർ" aria-label="Play സർക്കാർ" title="Play സർക്കാർ" aria-pressed="false">▶</button> |
+| ഇടപെടുക (past: ഇടപെട്ടു) | to interfere, to take a hand | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_039.mp3" data-audio-label="ഇടപെടുക" aria-label="Play ഇടപെടുക" title="Play ഇടപെടുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_040.mp3" data-audio-label="ഇടപെട്ടു" aria-label="Play ഇടപെട്ടു" title="Play ഇടപെട്ടു" aria-pressed="false">▶ <span lang="ml">ഇടപെട്ടു</span></button> |
+| <!-- Source: PDF page 394; printed page 335. --> കച്ചവടം | trade | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_041.mp3" data-audio-label="കച്ചവടം" aria-label="Play കച്ചവടം" title="Play കച്ചവടം" aria-pressed="false">▶</button> |
+| കച്ചവടക്കാർ | traders, merchants | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_042.mp3" data-audio-label="കച്ചവടക്കാർ" aria-label="Play കച്ചവടക്കാർ" title="Play കച്ചവടക്കാർ" aria-pressed="false">▶</button> |
+| ന്യായം | justice | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_043.mp3" data-audio-label="ന്യായം" aria-label="Play ന്യായം" title="Play ന്യായം" aria-pressed="false">▶</button> |
+| അന്യായം | injustice | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_044.mp3" data-audio-label="അന്യായം" aria-label="Play അന്യായം" title="Play അന്യായം" aria-pressed="false">▶</button> |
+| ഭയങ്കര | huge, awful, frightful | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| ലാഭം | profit | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_045.mp3" data-audio-label="ലാഭം" aria-label="Play ലാഭം" title="Play ലാഭം" aria-pressed="false">▶</button> |
+| (അവർക്ക്) എത്ര കിട്ടിയാലും | however much (they) get | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_046.mp3" data-audio-label="എത്ര കിട്ടിയാലും" aria-label="Play എത്ര കിട്ടിയാലും" title="Play എത്ര കിട്ടിയാലും" aria-pressed="false">▶ <span lang="ml">എത്ര കിട്ടിയാലും</span></button> |
+| ഫലം | result, fruit | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_047.mp3" data-audio-label="ഫലം" aria-label="Play ഫലം" title="Play ഫലം" aria-pressed="false">▶</button> |
+| (ഇതിന്റെ) ഫലമായി | as a result (of this) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_048.mp3" data-audio-label="ഇതിന്റെ ഫലമായി" aria-label="Play ഇതിന്റെ ഫലമായി" title="Play ഇതിന്റെ ഫലമായി" aria-pressed="false">▶ <span lang="ml">ഇതിന്റെ ഫലമായി</span></button> |
+| പണക്കാർ | rich people | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_049.mp3" data-audio-label="പണക്കാർ" aria-label="Play പണക്കാർ" title="Play പണക്കാർ" aria-pressed="false">▶</button> |
+| കൂടുതലായി | excessively | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_050.mp3" data-audio-label="കൂടുതലായി" aria-label="Play കൂടുതലായി" title="Play കൂടുതലായി" aria-pressed="false">▶</button> |
+| വിഷമിക്കുകയും ചെയ്യുക | to be troubled for sure, to suffer for sure | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_051.mp3" data-audio-label="വിഷമിക്കുകയും ചെയ്യുക" aria-label="Play വിഷമിക്കുകയും ചെയ്യുക" title="Play വിഷമിക്കുകയും ചെയ്യുക" aria-pressed="false">▶</button> |
+| കഷ്ട കാലം | hard time(s) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_052.mp3" data-audio-label="കഷ്ട കാലം" aria-label="Play കഷ്ട കാലം" title="Play കഷ്ട കാലം" aria-pressed="false">▶</button> |
+| വേണ്ടി | for, in order to (dative, infinitive) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_053.mp3" data-audio-label="വേണ്ടി" aria-label="Play വേണ്ടി" title="Play വേണ്ടി" aria-pressed="false">▶</button> |
+| പ്രാർത്ഥിക്കുക (past: പ്രാർത്ഥിച്ചു) | to pray | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_054.mp3" data-audio-label="പ്രാർത്ഥിക്കുക" aria-label="Play പ്രാർത്ഥിക്കുക" title="Play പ്രാർത്ഥിക്കുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_055.mp3" data-audio-label="പ്രാർത്ഥിച്ചു" aria-label="Play പ്രാർത്ഥിച്ചു" title="Play പ്രാർത്ഥിച്ചു" aria-pressed="false">▶ <span lang="ml">പ്രാർത്ഥിച്ചു</span></button> |
+| അല്ലാതെ | otherwise | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_056.mp3" data-audio-label="അല്ലാതെ" aria-label="Play അല്ലാതെ" title="Play അല്ലാതെ" aria-pressed="false">▶</button> |
+| രക്ഷ | refuge | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_057.mp3" data-audio-label="രക്ഷ" aria-label="Play രക്ഷ" title="Play രക്ഷ" aria-pressed="false">▶</button> |
+| വരാറായി | is (are) about to come | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_058.mp3" data-audio-label="വരാറായി" aria-label="Play വരാറായി" title="Play വരാറായി" aria-pressed="false">▶</button> |
 
 <a id="lesson22-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice

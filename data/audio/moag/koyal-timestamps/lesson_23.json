@@ -1,0 +1,1743 @@
+{
+  "format": "koyal-word-timestamps-v1",
+  "lesson": 23,
+  "source": "data/audio/moag/lesson_23.mp3",
+  "model": "adalat-ai/koyal-ml-120m-1.0",
+  "checkpoint": "/private/tmp/koyal-ml-120m-1.0/koyal-ml-120m-1.0.nemo",
+  "nemo_version": "3.0.0",
+  "sample_rate": 16000,
+  "vocabulary_range": {
+    "lesson": 23,
+    "start": 196.17,
+    "end": 508.1446
+  },
+  "transcription_range": {
+    "start": 195.17,
+    "end": 509.144625
+  },
+  "time_basis": "start/end are seconds in source MP3; section_start/end are relative to transcription_range.start",
+  "caveats": [
+    "Automatic ASR, not verified text or phonetic boundaries; preserve repeated words.",
+    "TDT timestamps approximate speech positions. Use nearby silence and padding for final cuts.",
+    "near_chunk_edge flags words within 0.25 seconds of a recognition chunk boundary.",
+    "Chunks meet at low-energy windows; no audio is omitted. A forced split can still divide speech.",
+    "English section announcements may be misrecognized by the Malayalam model."
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "start": 195.17,
+      "end": 218.01999999999998,
+      "text": "പൊക്കാബു റിപ്പയറാ സ്പീക്കർ വിനോദം വിനോദം തീർച്ച സൗകര്യം ഉണ്ടായിരുന്നെങ്കിൽ",
+      "raw_word_timestamps": [
+        {
+          "word": "പൊക്കാബു",
+          "start_offset": 53,
+          "end_offset": 66,
+          "start": 2.12,
+          "end": 2.64
+        },
+        {
+          "word": "റിപ്പയറാ",
+          "start_offset": 105,
+          "end_offset": 117,
+          "start": 4.2,
+          "end": 4.68
+        },
+        {
+          "word": "സ്പീക്കർ",
+          "start_offset": 122,
+          "end_offset": 136,
+          "start": 4.88,
+          "end": 5.44
+        },
+        {
+          "word": "വിനോദം",
+          "start_offset": 167,
+          "end_offset": 181,
+          "start": 6.68,
+          "end": 7.24
+        },
+        {
+          "word": "വിനോദം",
+          "start_offset": 222,
+          "end_offset": 237,
+          "start": 8.88,
+          "end": 9.48
+        },
+        {
+          "word": "തീർച്ച",
+          "start_offset": 344,
+          "end_offset": 355,
+          "start": 13.76,
+          "end": 14.200000000000001
+        },
+        {
+          "word": "സൗകര്യം",
+          "start_offset": 462,
+          "end_offset": 475,
+          "start": 18.48,
+          "end": 19.0
+        },
+        {
+          "word": "ഉണ്ടായിരുന്നെങ്കിൽ",
+          "start_offset": 535,
+          "end_offset": 561,
+          "start": 21.400000000000002,
+          "end": 22.44
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "start": 218.01999999999998,
+      "end": 240.46999999999997,
+      "text": "ഉണ്ടായിരുന്നെങ്കിൽ ആയിരുന്നു വിറ്റാൽ വിറ്റാൽ മതിയായിരുന്നു മതിയായിരുന്നു",
+      "raw_word_timestamps": [
+        {
+          "word": "ഉണ്ടായിരുന്നെങ്കിൽ",
+          "start_offset": 48,
+          "end_offset": 75,
+          "start": 1.92,
+          "end": 3.0
+        },
+        {
+          "word": "ആയിരുന്നു",
+          "start_offset": 207,
+          "end_offset": 215,
+          "start": 8.28,
+          "end": 8.6
+        },
+        {
+          "word": "വിറ്റാൽ",
+          "start_offset": 275,
+          "end_offset": 288,
+          "start": 11.0,
+          "end": 11.52
+        },
+        {
+          "word": "വിറ്റാൽ",
+          "start_offset": 348,
+          "end_offset": 362,
+          "start": 13.92,
+          "end": 14.48
+        },
+        {
+          "word": "മതിയായിരുന്നു",
+          "start_offset": 418,
+          "end_offset": 433,
+          "start": 16.72,
+          "end": 17.32
+        },
+        {
+          "word": "മതിയായിരുന്നു",
+          "start_offset": 492,
+          "end_offset": 504,
+          "start": 19.68,
+          "end": 20.16
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "start": 240.46999999999997,
+      "end": 264.52,
+      "text": "വിദേശീയർ സംസാരം രീതി രീതി അവസരം അവസരം ബുധനാഴ്ച",
+      "raw_word_timestamps": [
+        {
+          "word": "വിദേശീയർ",
+          "start_offset": 85,
+          "end_offset": 105,
+          "start": 3.4,
+          "end": 4.2
+        },
+        {
+          "word": "സംസാരം",
+          "start_offset": 225,
+          "end_offset": 243,
+          "start": 9.0,
+          "end": 9.72
+        },
+        {
+          "word": "രീതി",
+          "start_offset": 291,
+          "end_offset": 299,
+          "start": 11.64,
+          "end": 11.96
+        },
+        {
+          "word": "രീതി",
+          "start_offset": 349,
+          "end_offset": 357,
+          "start": 13.96,
+          "end": 14.280000000000001
+        },
+        {
+          "word": "അവസരം",
+          "start_offset": 411,
+          "end_offset": 425,
+          "start": 16.44,
+          "end": 17.0
+        },
+        {
+          "word": "അവസരം",
+          "start_offset": 475,
+          "end_offset": 489,
+          "start": 19.0,
+          "end": 19.56
+        },
+        {
+          "word": "ബുധനാഴ്ച",
+          "start_offset": 536,
+          "end_offset": 554,
+          "start": 21.44,
+          "end": 22.16
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "start": 264.52,
+      "end": 289.07,
+      "text": "ബുധനാഴ്ച തുടക്കം എന്താ? എന്താ പറയുന്നു? എന്തു പറയുന്നു? വ്യാഴാഴ്ച അന്ന്",
+      "raw_word_timestamps": [
+        {
+          "word": "ബുധനാഴ്ച",
+          "start_offset": 4,
+          "end_offset": 23,
+          "start": 0.16,
+          "end": 0.92
+        },
+        {
+          "word": "തുടക്കം",
+          "start_offset": 126,
+          "end_offset": 142,
+          "start": 5.04,
+          "end": 5.68
+        },
+        {
+          "word": "എന്താ?",
+          "start_offset": 183,
+          "end_offset": 195,
+          "start": 7.32,
+          "end": 7.8
+        },
+        {
+          "word": "എന്താ",
+          "start_offset": 240,
+          "end_offset": 252,
+          "start": 9.6,
+          "end": 10.08
+        },
+        {
+          "word": "പറയുന്നു?",
+          "start_offset": 309,
+          "end_offset": 320,
+          "start": 12.36,
+          "end": 12.8
+        },
+        {
+          "word": "എന്തു",
+          "start_offset": 371,
+          "end_offset": 379,
+          "start": 14.84,
+          "end": 15.16
+        },
+        {
+          "word": "പറയുന്നു?",
+          "start_offset": 379,
+          "end_offset": 389,
+          "start": 15.16,
+          "end": 15.56
+        },
+        {
+          "word": "വ്യാഴാഴ്ച",
+          "start_offset": 520,
+          "end_offset": 537,
+          "start": 20.8,
+          "end": 21.48
+        },
+        {
+          "word": "അന്ന്",
+          "start_offset": 593,
+          "end_offset": 601,
+          "start": 23.72,
+          "end": 24.04
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "start": 289.07,
+      "end": 312.52,
+      "text": "അന്ന് കാഴ്ച കാഴ്ച പിറ്റേ പിറ്റേ കന്യാകുമാരി കന്യാകുമാരി കോവളം കോവളം.",
+      "raw_word_timestamps": [
+        {
+          "word": "അന്ന്",
+          "start_offset": 34,
+          "end_offset": 42,
+          "start": 1.36,
+          "end": 1.68
+        },
+        {
+          "word": "കാഴ്ച",
+          "start_offset": 92,
+          "end_offset": 106,
+          "start": 3.68,
+          "end": 4.24
+        },
+        {
+          "word": "കാഴ്ച",
+          "start_offset": 151,
+          "end_offset": 164,
+          "start": 6.04,
+          "end": 6.5600000000000005
+        },
+        {
+          "word": "പിറ്റേ",
+          "start_offset": 215,
+          "end_offset": 227,
+          "start": 8.6,
+          "end": 9.08
+        },
+        {
+          "word": "പിറ്റേ",
+          "start_offset": 269,
+          "end_offset": 283,
+          "start": 10.76,
+          "end": 11.32
+        },
+        {
+          "word": "കന്യാകുമാരി",
+          "start_offset": 329,
+          "end_offset": 351,
+          "start": 13.16,
+          "end": 14.040000000000001
+        },
+        {
+          "word": "കന്യാകുമാരി",
+          "start_offset": 397,
+          "end_offset": 418,
+          "start": 15.88,
+          "end": 16.72
+        },
+        {
+          "word": "കോവളം",
+          "start_offset": 475,
+          "end_offset": 490,
+          "start": 19.0,
+          "end": 19.6
+        },
+        {
+          "word": "കോവളം.",
+          "start_offset": 534,
+          "end_offset": 551,
+          "start": 21.36,
+          "end": 22.04
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "start": 312.52,
+      "end": 335.87,
+      "text": "താമസം തിരിക്കുക തിരിക്കുക കടൽത്തീരം കടൽത്തീരം പ്രകൃതി പ്രകൃതി",
+      "raw_word_timestamps": [
+        {
+          "word": "താമസം",
+          "start_offset": 78,
+          "end_offset": 94,
+          "start": 3.12,
+          "end": 3.7600000000000002
+        },
+        {
+          "word": "തിരിക്കുക",
+          "start_offset": 142,
+          "end_offset": 158,
+          "start": 5.68,
+          "end": 6.32
+        },
+        {
+          "word": "തിരിക്കുക",
+          "start_offset": 207,
+          "end_offset": 225,
+          "start": 8.28,
+          "end": 9.0
+        },
+        {
+          "word": "കടൽത്തീരം",
+          "start_offset": 276,
+          "end_offset": 297,
+          "start": 11.040000000000001,
+          "end": 11.88
+        },
+        {
+          "word": "കടൽത്തീരം",
+          "start_offset": 356,
+          "end_offset": 377,
+          "start": 14.24,
+          "end": 15.08
+        },
+        {
+          "word": "പ്രകൃതി",
+          "start_offset": 441,
+          "end_offset": 455,
+          "start": 17.64,
+          "end": 18.2
+        },
+        {
+          "word": "പ്രകൃതി",
+          "start_offset": 515,
+          "end_offset": 528,
+          "start": 20.6,
+          "end": 21.12
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "start": 335.87,
+      "end": 358.91999999999996,
+      "text": "സൗന്ദര്യം പ്രകൃതി സുന്ദരം പ്രകൃതി സുന്ദരം കിടക്കുക.",
+      "raw_word_timestamps": [
+        {
+          "word": "സൗന്ദര്യം",
+          "start_offset": 233,
+          "end_offset": 252,
+          "start": 9.32,
+          "end": 10.08
+        },
+        {
+          "word": "പ്രകൃതി",
+          "start_offset": 314,
+          "end_offset": 324,
+          "start": 12.56,
+          "end": 12.96
+        },
+        {
+          "word": "സുന്ദരം",
+          "start_offset": 324,
+          "end_offset": 336,
+          "start": 12.96,
+          "end": 13.44
+        },
+        {
+          "word": "പ്രകൃതി",
+          "start_offset": 413,
+          "end_offset": 424,
+          "start": 16.52,
+          "end": 16.96
+        },
+        {
+          "word": "സുന്ദരം",
+          "start_offset": 424,
+          "end_offset": 436,
+          "start": 16.96,
+          "end": 17.44
+        },
+        {
+          "word": "കിടക്കുക.",
+          "start_offset": 495,
+          "end_offset": 513,
+          "start": 19.8,
+          "end": 20.52
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "start": 358.91999999999996,
+      "end": 381.97,
+      "text": "കിടക്കുക ബോട്ട് ബോട്ട് തിങ്കളാഴ്ച തിങ്കളാഴ്ച തേക്കടി",
+      "raw_word_timestamps": [
+        {
+          "word": "കിടക്കുക",
+          "start_offset": 4,
+          "end_offset": 19,
+          "start": 0.16,
+          "end": 0.76
+        },
+        {
+          "word": "ബോട്ട്",
+          "start_offset": 258,
+          "end_offset": 268,
+          "start": 10.32,
+          "end": 10.72
+        },
+        {
+          "word": "ബോട്ട്",
+          "start_offset": 321,
+          "end_offset": 333,
+          "start": 12.84,
+          "end": 13.32
+        },
+        {
+          "word": "തിങ്കളാഴ്ച",
+          "start_offset": 393,
+          "end_offset": 411,
+          "start": 15.72,
+          "end": 16.44
+        },
+        {
+          "word": "തിങ്കളാഴ്ച",
+          "start_offset": 466,
+          "end_offset": 485,
+          "start": 18.64,
+          "end": 19.400000000000002
+        },
+        {
+          "word": "തേക്കടി",
+          "start_offset": 545,
+          "end_offset": 554,
+          "start": 21.8,
+          "end": 22.16
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "start": 381.97,
+      "end": 404.12,
+      "text": "തേക്കടി ഉച്ച ഉച്ച വന്യമൃഗം വന്യമൃഗം സംരക്ഷണം കേന്ദ്രം കേന്ദ്രം.",
+      "raw_word_timestamps": [
+        {
+          "word": "തേക്കടി",
+          "start_offset": 28,
+          "end_offset": 43,
+          "start": 1.12,
+          "end": 1.72
+        },
+        {
+          "word": "ഉച്ച",
+          "start_offset": 92,
+          "end_offset": 100,
+          "start": 3.68,
+          "end": 4.0
+        },
+        {
+          "word": "ഉച്ച",
+          "start_offset": 149,
+          "end_offset": 157,
+          "start": 5.96,
+          "end": 6.28
+        },
+        {
+          "word": "വന്യമൃഗം",
+          "start_offset": 208,
+          "end_offset": 229,
+          "start": 8.32,
+          "end": 9.16
+        },
+        {
+          "word": "വന്യമൃഗം",
+          "start_offset": 275,
+          "end_offset": 296,
+          "start": 11.0,
+          "end": 11.84
+        },
+        {
+          "word": "സംരക്ഷണം",
+          "start_offset": 418,
+          "end_offset": 434,
+          "start": 16.72,
+          "end": 17.36
+        },
+        {
+          "word": "കേന്ദ്രം",
+          "start_offset": 462,
+          "end_offset": 477,
+          "start": 18.48,
+          "end": 19.080000000000002
+        },
+        {
+          "word": "കേന്ദ്രം.",
+          "start_offset": 531,
+          "end_offset": 546,
+          "start": 21.240000000000002,
+          "end": 21.84
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "start": 404.12,
+      "end": 427.66999999999996,
+      "text": "വന്യമൃഗസംരക്ഷണ കേന്ദ്രം വഴി വഴി ചൊവ്വാഴ്ച",
+      "raw_word_timestamps": [
+        {
+          "word": "വന്യമൃഗസംരക്ഷണ",
+          "start_offset": 199,
+          "end_offset": 235,
+          "start": 7.96,
+          "end": 9.4
+        },
+        {
+          "word": "കേന്ദ്രം",
+          "start_offset": 235,
+          "end_offset": 249,
+          "start": 9.4,
+          "end": 9.96
+        },
+        {
+          "word": "വഴി",
+          "start_offset": 332,
+          "end_offset": 340,
+          "start": 13.280000000000001,
+          "end": 13.6
+        },
+        {
+          "word": "വഴി",
+          "start_offset": 387,
+          "end_offset": 395,
+          "start": 15.48,
+          "end": 15.8
+        },
+        {
+          "word": "ചൊവ്വാഴ്ച",
+          "start_offset": 523,
+          "end_offset": 543,
+          "start": 20.92,
+          "end": 21.72
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "start": 427.66999999999996,
+      "end": 452.52,
+      "text": "പൂരം പൂരം പുതുമ പുതുമ വരുന്ന വഴിക്ക് ഗുരുവായൂർ തിരക്കേറിയ",
+      "raw_word_timestamps": [
+        {
+          "word": "പൂരം",
+          "start_offset": 6,
+          "end_offset": 16,
+          "start": 0.24,
+          "end": 0.64
+        },
+        {
+          "word": "പൂരം",
+          "start_offset": 64,
+          "end_offset": 75,
+          "start": 2.56,
+          "end": 3.0
+        },
+        {
+          "word": "പുതുമ",
+          "start_offset": 133,
+          "end_offset": 141,
+          "start": 5.32,
+          "end": 5.64
+        },
+        {
+          "word": "പുതുമ",
+          "start_offset": 191,
+          "end_offset": 200,
+          "start": 7.640000000000001,
+          "end": 8.0
+        },
+        {
+          "word": "വരുന്ന",
+          "start_offset": 337,
+          "end_offset": 345,
+          "start": 13.48,
+          "end": 13.8
+        },
+        {
+          "word": "വഴിക്ക്",
+          "start_offset": 348,
+          "end_offset": 359,
+          "start": 13.92,
+          "end": 14.36
+        },
+        {
+          "word": "ഗുരുവായൂർ",
+          "start_offset": 503,
+          "end_offset": 521,
+          "start": 20.12,
+          "end": 20.84
+        },
+        {
+          "word": "തിരക്കേറിയ",
+          "start_offset": 596,
+          "end_offset": 612,
+          "start": 23.84,
+          "end": 24.48
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "start": 452.52,
+      "end": 475.47,
+      "text": "തിരക്കേറിയ വിശ്രമം അവധി മേല മേല എടുത്തേനെ.",
+      "raw_word_timestamps": [
+        {
+          "word": "തിരക്കേറിയ",
+          "start_offset": 63,
+          "end_offset": 80,
+          "start": 2.52,
+          "end": 3.2
+        },
+        {
+          "word": "വിശ്രമം",
+          "start_offset": 228,
+          "end_offset": 244,
+          "start": 9.120000000000001,
+          "end": 9.76
+        },
+        {
+          "word": "അവധി",
+          "start_offset": 361,
+          "end_offset": 372,
+          "start": 14.44,
+          "end": 14.88
+        },
+        {
+          "word": "മേല",
+          "start_offset": 420,
+          "end_offset": 429,
+          "start": 16.8,
+          "end": 17.16
+        },
+        {
+          "word": "മേല",
+          "start_offset": 477,
+          "end_offset": 485,
+          "start": 19.080000000000002,
+          "end": 19.400000000000002
+        },
+        {
+          "word": "എടുത്തേനെ.",
+          "start_offset": 536,
+          "end_offset": 551,
+          "start": 21.44,
+          "end": 22.04
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "start": 475.47,
+      "end": 500.12,
+      "text": "എടുത്തേനെ. ചെയ്തേക്കൂ. ചെയ്തേക്കൂ. ഒന്നാം ക്ലാസ് ഒന്നാം ക്ലാസ് എടുക്കരുതേ, എടുക്കരുതേ. രണ്ടാം ക്ലാസ്.",
+      "raw_word_timestamps": [
+        {
+          "word": "എടുത്തേനെ.",
+          "start_offset": 28,
+          "end_offset": 44,
+          "start": 1.12,
+          "end": 1.76
+        },
+        {
+          "word": "ചെയ്തേക്കൂ.",
+          "start_offset": 100,
+          "end_offset": 117,
+          "start": 4.0,
+          "end": 4.68
+        },
+        {
+          "word": "ചെയ്തേക്കൂ.",
+          "start_offset": 177,
+          "end_offset": 193,
+          "start": 7.08,
+          "end": 7.72
+        },
+        {
+          "word": "ഒന്നാം",
+          "start_offset": 257,
+          "end_offset": 267,
+          "start": 10.28,
+          "end": 10.68
+        },
+        {
+          "word": "ക്ലാസ്",
+          "start_offset": 268,
+          "end_offset": 276,
+          "start": 10.72,
+          "end": 11.040000000000001
+        },
+        {
+          "word": "ഒന്നാം",
+          "start_offset": 340,
+          "end_offset": 352,
+          "start": 13.6,
+          "end": 14.08
+        },
+        {
+          "word": "ക്ലാസ്",
+          "start_offset": 352,
+          "end_offset": 361,
+          "start": 14.08,
+          "end": 14.44
+        },
+        {
+          "word": "എടുക്കരുതേ,",
+          "start_offset": 423,
+          "end_offset": 442,
+          "start": 16.92,
+          "end": 17.68
+        },
+        {
+          "word": "എടുക്കരുതേ.",
+          "start_offset": 497,
+          "end_offset": 516,
+          "start": 19.88,
+          "end": 20.64
+        },
+        {
+          "word": "രണ്ടാം",
+          "start_offset": 580,
+          "end_offset": 591,
+          "start": 23.2,
+          "end": 23.64
+        },
+        {
+          "word": "ക്ലാസ്.",
+          "start_offset": 591,
+          "end_offset": 599,
+          "start": 23.64,
+          "end": 23.96
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "start": 500.12,
+      "end": 509.144625,
+      "text": "രണ്ടാം ക്ലാസ് ചെയ്തേക്കാം ചെയ്തേക്കാം",
+      "raw_word_timestamps": [
+        {
+          "word": "രണ്ടാം",
+          "start_offset": 34,
+          "end_offset": 44,
+          "start": 1.36,
+          "end": 1.76
+        },
+        {
+          "word": "ക്ലാസ്",
+          "start_offset": 44,
+          "end_offset": 53,
+          "start": 1.76,
+          "end": 2.12
+        },
+        {
+          "word": "ചെയ്തേക്കാം",
+          "start_offset": 107,
+          "end_offset": 125,
+          "start": 4.28,
+          "end": 5.0
+        },
+        {
+          "word": "ചെയ്തേക്കാം",
+          "start_offset": 175,
+          "end_offset": 192,
+          "start": 7.0,
+          "end": 7.68
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "word": "പൊക്കാബു",
+      "start": 197.29,
+      "end": 197.81,
+      "section_start": 2.12,
+      "section_end": 2.64,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "റിപ്പയറാ",
+      "start": 199.37,
+      "end": 199.85,
+      "section_start": 4.2,
+      "section_end": 4.68,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സ്പീക്കർ",
+      "start": 200.05,
+      "end": 200.61,
+      "section_start": 4.88,
+      "section_end": 5.44,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വിനോദം",
+      "start": 201.85,
+      "end": 202.41,
+      "section_start": 6.68,
+      "section_end": 7.24,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വിനോദം",
+      "start": 204.05,
+      "end": 204.65,
+      "section_start": 8.88,
+      "section_end": 9.48,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "തീർച്ച",
+      "start": 208.93,
+      "end": 209.37,
+      "section_start": 13.76,
+      "section_end": 14.2,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സൗകര്യം",
+      "start": 213.65,
+      "end": 214.17,
+      "section_start": 18.48,
+      "section_end": 19.0,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഉണ്ടായിരുന്നെങ്കിൽ",
+      "start": 216.57,
+      "end": 217.61,
+      "section_start": 21.4,
+      "section_end": 22.44,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഉണ്ടായിരുന്നെങ്കിൽ",
+      "start": 219.94,
+      "end": 221.02,
+      "section_start": 24.77,
+      "section_end": 25.85,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ആയിരുന്നു",
+      "start": 226.3,
+      "end": 226.62,
+      "section_start": 31.13,
+      "section_end": 31.45,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വിറ്റാൽ",
+      "start": 229.02,
+      "end": 229.54,
+      "section_start": 33.85,
+      "section_end": 34.37,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വിറ്റാൽ",
+      "start": 231.94,
+      "end": 232.5,
+      "section_start": 36.77,
+      "section_end": 37.33,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "മതിയായിരുന്നു",
+      "start": 234.74,
+      "end": 235.34,
+      "section_start": 39.57,
+      "section_end": 40.17,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "മതിയായിരുന്നു",
+      "start": 237.7,
+      "end": 238.18,
+      "section_start": 42.53,
+      "section_end": 43.01,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വിദേശീയർ",
+      "start": 243.87,
+      "end": 244.67,
+      "section_start": 48.7,
+      "section_end": 49.5,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സംസാരം",
+      "start": 249.47,
+      "end": 250.19,
+      "section_start": 54.3,
+      "section_end": 55.02,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "രീതി",
+      "start": 252.11,
+      "end": 252.43,
+      "section_start": 56.94,
+      "section_end": 57.26,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "രീതി",
+      "start": 254.43,
+      "end": 254.75,
+      "section_start": 59.26,
+      "section_end": 59.58,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അവസരം",
+      "start": 256.91,
+      "end": 257.47,
+      "section_start": 61.74,
+      "section_end": 62.3,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അവസരം",
+      "start": 259.47,
+      "end": 260.03,
+      "section_start": 64.3,
+      "section_end": 64.86,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ബുധനാഴ്ച",
+      "start": 261.91,
+      "end": 262.63,
+      "section_start": 66.74,
+      "section_end": 67.46,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ബുധനാഴ്ച",
+      "start": 264.68,
+      "end": 265.44,
+      "section_start": 69.51,
+      "section_end": 70.27,
+      "chunk": 3,
+      "near_chunk_edge": true
+    },
+    {
+      "word": "തുടക്കം",
+      "start": 269.56,
+      "end": 270.2,
+      "section_start": 74.39,
+      "section_end": 75.03,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എന്താ?",
+      "start": 271.84,
+      "end": 272.32,
+      "section_start": 76.67,
+      "section_end": 77.15,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എന്താ",
+      "start": 274.12,
+      "end": 274.6,
+      "section_start": 78.95,
+      "section_end": 79.43,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പറയുന്നു?",
+      "start": 276.88,
+      "end": 277.32,
+      "section_start": 81.71,
+      "section_end": 82.15,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എന്തു",
+      "start": 279.36,
+      "end": 279.68,
+      "section_start": 84.19,
+      "section_end": 84.51,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പറയുന്നു?",
+      "start": 279.68,
+      "end": 280.08,
+      "section_start": 84.51,
+      "section_end": 84.91,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വ്യാഴാഴ്ച",
+      "start": 285.32,
+      "end": 286.0,
+      "section_start": 90.15,
+      "section_end": 90.83,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അന്ന്",
+      "start": 288.24,
+      "end": 288.56,
+      "section_start": 93.07,
+      "section_end": 93.39,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അന്ന്",
+      "start": 290.43,
+      "end": 290.75,
+      "section_start": 95.26,
+      "section_end": 95.58,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കാഴ്ച",
+      "start": 292.75,
+      "end": 293.31,
+      "section_start": 97.58,
+      "section_end": 98.14,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കാഴ്ച",
+      "start": 295.11,
+      "end": 295.63,
+      "section_start": 99.94,
+      "section_end": 100.46,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പിറ്റേ",
+      "start": 297.67,
+      "end": 298.15,
+      "section_start": 102.5,
+      "section_end": 102.98,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പിറ്റേ",
+      "start": 299.83,
+      "end": 300.39,
+      "section_start": 104.66,
+      "section_end": 105.22,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കന്യാകുമാരി",
+      "start": 302.23,
+      "end": 303.11,
+      "section_start": 107.06,
+      "section_end": 107.94,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കന്യാകുമാരി",
+      "start": 304.95,
+      "end": 305.79,
+      "section_start": 109.78,
+      "section_end": 110.62,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കോവളം",
+      "start": 308.07,
+      "end": 308.67,
+      "section_start": 112.9,
+      "section_end": 113.5,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കോവളം.",
+      "start": 310.43,
+      "end": 311.11,
+      "section_start": 115.26,
+      "section_end": 115.94,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "താമസം",
+      "start": 315.64,
+      "end": 316.28,
+      "section_start": 120.47,
+      "section_end": 121.11,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "തിരിക്കുക",
+      "start": 318.2,
+      "end": 318.84,
+      "section_start": 123.03,
+      "section_end": 123.67,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "തിരിക്കുക",
+      "start": 320.8,
+      "end": 321.52,
+      "section_start": 125.63,
+      "section_end": 126.35,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കടൽത്തീരം",
+      "start": 323.56,
+      "end": 324.4,
+      "section_start": 128.39,
+      "section_end": 129.23,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കടൽത്തീരം",
+      "start": 326.76,
+      "end": 327.6,
+      "section_start": 131.59,
+      "section_end": 132.43,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പ്രകൃതി",
+      "start": 330.16,
+      "end": 330.72,
+      "section_start": 134.99,
+      "section_end": 135.55,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പ്രകൃതി",
+      "start": 333.12,
+      "end": 333.64,
+      "section_start": 137.95,
+      "section_end": 138.47,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സൗന്ദര്യം",
+      "start": 345.19,
+      "end": 345.95,
+      "section_start": 150.02,
+      "section_end": 150.78,
+      "chunk": 6,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പ്രകൃതി",
+      "start": 348.43,
+      "end": 348.83,
+      "section_start": 153.26,
+      "section_end": 153.66,
+      "chunk": 6,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സുന്ദരം",
+      "start": 348.83,
+      "end": 349.31,
+      "section_start": 153.66,
+      "section_end": 154.14,
+      "chunk": 6,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പ്രകൃതി",
+      "start": 352.39,
+      "end": 352.83,
+      "section_start": 157.22,
+      "section_end": 157.66,
+      "chunk": 6,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സുന്ദരം",
+      "start": 352.83,
+      "end": 353.31,
+      "section_start": 157.66,
+      "section_end": 158.14,
+      "chunk": 6,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കിടക്കുക.",
+      "start": 355.67,
+      "end": 356.39,
+      "section_start": 160.5,
+      "section_end": 161.22,
+      "chunk": 6,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കിടക്കുക",
+      "start": 359.08,
+      "end": 359.68,
+      "section_start": 163.91,
+      "section_end": 164.51,
+      "chunk": 7,
+      "near_chunk_edge": true
+    },
+    {
+      "word": "ബോട്ട്",
+      "start": 369.24,
+      "end": 369.64,
+      "section_start": 174.07,
+      "section_end": 174.47,
+      "chunk": 7,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ബോട്ട്",
+      "start": 371.76,
+      "end": 372.24,
+      "section_start": 176.59,
+      "section_end": 177.07,
+      "chunk": 7,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "തിങ്കളാഴ്ച",
+      "start": 374.64,
+      "end": 375.36,
+      "section_start": 179.47,
+      "section_end": 180.19,
+      "chunk": 7,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "തിങ്കളാഴ്ച",
+      "start": 377.56,
+      "end": 378.32,
+      "section_start": 182.39,
+      "section_end": 183.15,
+      "chunk": 7,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "തേക്കടി",
+      "start": 380.72,
+      "end": 381.08,
+      "section_start": 185.55,
+      "section_end": 185.91,
+      "chunk": 7,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "തേക്കടി",
+      "start": 383.09,
+      "end": 383.69,
+      "section_start": 187.92,
+      "section_end": 188.52,
+      "chunk": 8,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഉച്ച",
+      "start": 385.65,
+      "end": 385.97,
+      "section_start": 190.48,
+      "section_end": 190.8,
+      "chunk": 8,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഉച്ച",
+      "start": 387.93,
+      "end": 388.25,
+      "section_start": 192.76,
+      "section_end": 193.08,
+      "chunk": 8,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വന്യമൃഗം",
+      "start": 390.29,
+      "end": 391.13,
+      "section_start": 195.12,
+      "section_end": 195.96,
+      "chunk": 8,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വന്യമൃഗം",
+      "start": 392.97,
+      "end": 393.81,
+      "section_start": 197.8,
+      "section_end": 198.64,
+      "chunk": 8,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സംരക്ഷണം",
+      "start": 398.69,
+      "end": 399.33,
+      "section_start": 203.52,
+      "section_end": 204.16,
+      "chunk": 8,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കേന്ദ്രം",
+      "start": 400.45,
+      "end": 401.05,
+      "section_start": 205.28,
+      "section_end": 205.88,
+      "chunk": 8,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കേന്ദ്രം.",
+      "start": 403.21,
+      "end": 403.81,
+      "section_start": 208.04,
+      "section_end": 208.64,
+      "chunk": 8,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വന്യമൃഗസംരക്ഷണ",
+      "start": 412.08,
+      "end": 413.52,
+      "section_start": 216.91,
+      "section_end": 218.35,
+      "chunk": 9,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കേന്ദ്രം",
+      "start": 413.52,
+      "end": 414.08,
+      "section_start": 218.35,
+      "section_end": 218.91,
+      "chunk": 9,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വഴി",
+      "start": 417.4,
+      "end": 417.72,
+      "section_start": 222.23,
+      "section_end": 222.55,
+      "chunk": 9,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വഴി",
+      "start": 419.6,
+      "end": 419.92,
+      "section_start": 224.43,
+      "section_end": 224.75,
+      "chunk": 9,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ചൊവ്വാഴ്ച",
+      "start": 425.04,
+      "end": 425.84,
+      "section_start": 229.87,
+      "section_end": 230.67,
+      "chunk": 9,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പൂരം",
+      "start": 427.91,
+      "end": 428.31,
+      "section_start": 232.74,
+      "section_end": 233.14,
+      "chunk": 10,
+      "near_chunk_edge": true
+    },
+    {
+      "word": "പൂരം",
+      "start": 430.23,
+      "end": 430.67,
+      "section_start": 235.06,
+      "section_end": 235.5,
+      "chunk": 10,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പുതുമ",
+      "start": 432.99,
+      "end": 433.31,
+      "section_start": 237.82,
+      "section_end": 238.14,
+      "chunk": 10,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പുതുമ",
+      "start": 435.31,
+      "end": 435.67,
+      "section_start": 240.14,
+      "section_end": 240.5,
+      "chunk": 10,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വരുന്ന",
+      "start": 441.15,
+      "end": 441.47,
+      "section_start": 245.98,
+      "section_end": 246.3,
+      "chunk": 10,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വഴിക്ക്",
+      "start": 441.59,
+      "end": 442.03,
+      "section_start": 246.42,
+      "section_end": 246.86,
+      "chunk": 10,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഗുരുവായൂർ",
+      "start": 447.79,
+      "end": 448.51,
+      "section_start": 252.62,
+      "section_end": 253.34,
+      "chunk": 10,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "തിരക്കേറിയ",
+      "start": 451.51,
+      "end": 452.15,
+      "section_start": 256.34,
+      "section_end": 256.98,
+      "chunk": 10,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "തിരക്കേറിയ",
+      "start": 455.04,
+      "end": 455.72,
+      "section_start": 259.87,
+      "section_end": 260.55,
+      "chunk": 11,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വിശ്രമം",
+      "start": 461.64,
+      "end": 462.28,
+      "section_start": 266.47,
+      "section_end": 267.11,
+      "chunk": 11,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അവധി",
+      "start": 466.96,
+      "end": 467.4,
+      "section_start": 271.79,
+      "section_end": 272.23,
+      "chunk": 11,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "മേല",
+      "start": 469.32,
+      "end": 469.68,
+      "section_start": 274.15,
+      "section_end": 274.51,
+      "chunk": 11,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "മേല",
+      "start": 471.6,
+      "end": 471.92,
+      "section_start": 276.43,
+      "section_end": 276.75,
+      "chunk": 11,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എടുത്തേനെ.",
+      "start": 473.96,
+      "end": 474.56,
+      "section_start": 278.79,
+      "section_end": 279.39,
+      "chunk": 11,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എടുത്തേനെ.",
+      "start": 476.59,
+      "end": 477.23,
+      "section_start": 281.42,
+      "section_end": 282.06,
+      "chunk": 12,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ചെയ്തേക്കൂ.",
+      "start": 479.47,
+      "end": 480.15,
+      "section_start": 284.3,
+      "section_end": 284.98,
+      "chunk": 12,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ചെയ്തേക്കൂ.",
+      "start": 482.55,
+      "end": 483.19,
+      "section_start": 287.38,
+      "section_end": 288.02,
+      "chunk": 12,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഒന്നാം",
+      "start": 485.75,
+      "end": 486.15,
+      "section_start": 290.58,
+      "section_end": 290.98,
+      "chunk": 12,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ക്ലാസ്",
+      "start": 486.19,
+      "end": 486.51,
+      "section_start": 291.02,
+      "section_end": 291.34,
+      "chunk": 12,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഒന്നാം",
+      "start": 489.07,
+      "end": 489.55,
+      "section_start": 293.9,
+      "section_end": 294.38,
+      "chunk": 12,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ക്ലാസ്",
+      "start": 489.55,
+      "end": 489.91,
+      "section_start": 294.38,
+      "section_end": 294.74,
+      "chunk": 12,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എടുക്കരുതേ,",
+      "start": 492.39,
+      "end": 493.15,
+      "section_start": 297.22,
+      "section_end": 297.98,
+      "chunk": 12,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എടുക്കരുതേ.",
+      "start": 495.35,
+      "end": 496.11,
+      "section_start": 300.18,
+      "section_end": 300.94,
+      "chunk": 12,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "രണ്ടാം",
+      "start": 498.67,
+      "end": 499.11,
+      "section_start": 303.5,
+      "section_end": 303.94,
+      "chunk": 12,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ക്ലാസ്.",
+      "start": 499.11,
+      "end": 499.43,
+      "section_start": 303.94,
+      "section_end": 304.26,
+      "chunk": 12,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "രണ്ടാം",
+      "start": 501.48,
+      "end": 501.88,
+      "section_start": 306.31,
+      "section_end": 306.71,
+      "chunk": 13,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ക്ലാസ്",
+      "start": 501.88,
+      "end": 502.24,
+      "section_start": 306.71,
+      "section_end": 307.07,
+      "chunk": 13,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ചെയ്തേക്കാം",
+      "start": 504.4,
+      "end": 505.12,
+      "section_start": 309.23,
+      "section_end": 309.95,
+      "chunk": 13,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ചെയ്തേക്കാം",
+      "start": 507.12,
+      "end": 507.8,
+      "section_start": 311.95,
+      "section_end": 312.63,
+      "chunk": 13,
+      "near_chunk_edge": false
+    }
+  ],
+  "text": "പൊക്കാബു റിപ്പയറാ സ്പീക്കർ വിനോദം വിനോദം തീർച്ച സൗകര്യം ഉണ്ടായിരുന്നെങ്കിൽ ഉണ്ടായിരുന്നെങ്കിൽ ആയിരുന്നു വിറ്റാൽ വിറ്റാൽ മതിയായിരുന്നു മതിയായിരുന്നു വിദേശീയർ സംസാരം രീതി രീതി അവസരം അവസരം ബുധനാഴ്ച ബുധനാഴ്ച തുടക്കം എന്താ? എന്താ പറയുന്നു? എന്തു പറയുന്നു? വ്യാഴാഴ്ച അന്ന് അന്ന് കാഴ്ച കാഴ്ച പിറ്റേ പിറ്റേ കന്യാകുമാരി കന്യാകുമാരി കോവളം കോവളം. താമസം തിരിക്കുക തിരിക്കുക കടൽത്തീരം കടൽത്തീരം പ്രകൃതി പ്രകൃതി സൗന്ദര്യം പ്രകൃതി സുന്ദരം പ്രകൃതി സുന്ദരം കിടക്കുക. കിടക്കുക ബോട്ട് ബോട്ട് തിങ്കളാഴ്ച തിങ്കളാഴ്ച തേക്കടി തേക്കടി ഉച്ച ഉച്ച വന്യമൃഗം വന്യമൃഗം സംരക്ഷണം കേന്ദ്രം കേന്ദ്രം. വന്യമൃഗസംരക്ഷണ കേന്ദ്രം വഴി വഴി ചൊവ്വാഴ്ച പൂരം പൂരം പുതുമ പുതുമ വരുന്ന വഴിക്ക് ഗുരുവായൂർ തിരക്കേറിയ തിരക്കേറിയ വിശ്രമം അവധി മേല മേല എടുത്തേനെ. എടുത്തേനെ. ചെയ്തേക്കൂ. ചെയ്തേക്കൂ. ഒന്നാം ക്ലാസ് ഒന്നാം ക്ലാസ് എടുക്കരുതേ, എടുക്കരുതേ. രണ്ടാം ക്ലാസ്. രണ്ടാം ക്ലാസ് ചെയ്തേക്കാം ചെയ്തേക്കാം"
+}

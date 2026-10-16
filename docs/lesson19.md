@@ -10,50 +10,72 @@
 <div class="lesson-audio">
 <p><strong>Vocabulary audio</strong></p>
 <audio controls preload="none" aria-label="Lesson 19: Vocabulary audio" src="assets/audio/moag/sections/lesson_19_vocabulary_0.mp3"></audio>
-<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_19_vocabulary_0.mp3" aria-pressed="true">Listen · 04:02</button></div>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_19_vocabulary_0.mp3" aria-pressed="true">Listen · 03:59</button></div>
 <p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
 </div>
 <!-- /moag-audio -->
 
-| Malayalam | Meaning |
-|---|---|
-| മാനേജർ | manager |
-| പ്യൂൺ | peon |
-| പോയിരിക്കുകയായിരുന്നു | have (you) been |
-| വെളിയിൽ | outside, out of doors |
-| തിരക്ക് | crowd, pressure |
-| ജോലിത്തിരക്കുള്ള | which has/have pressure of work |
-| പോകരുത് | (you) mustn’t go, don’t go |
-| ഭയങ്കര | awful, frightful |
-| വിശക്കുക (past tense: വിശന്നു) | to be hungry (with dative subject, impersonal) |
-| വിശപ്പ് | hunger |
-| വല്ലതും | something |
-| പുള്ളി | guy (colloq.) |
-| ഇടക്കിടെ | periodically, regularly |
-| ഇറങ്ങുക (past tense: ഇറങ്ങി) | to go out, to descend, to exit |
-| പോകാറുണ്ട് | to be in the habit of going |
-| ഓരോ കാരണങ്ങൾ | a different reason (every time) |
-| കാരണം | reason |
-| ഞാനാണ്--- ചെയ്യേണ്ടത് | I am the one who has to do ---. |
-| ഓ! പിന്നെ | Is that so! (sarcastic) |
-| ഓരോ കഥകൾ | a different story (each time) |
-| ---ില്ലാത്തത് കൊണ്ട് | because of not --- |
-| വിശ്വാസം | faith, belief |
-| അയാളെ എനിക്ക് വിശ്വാസമുണ്ട് | I have faith in him |
-| മടി | laziness |
-| മടിയൻ | lazy fellow |
-| മടിച്ചി | lazy person (feminine) |
-| മടിയാണ് | (you) are lazy (with dative subject) |
-| ജോലി ചെയ്യാൻ മടിയാണ് | reluctant, unwilling to do work (with dative subject) |
-| <!-- Source: PDF page 326; printed page 269. --> ഏതായാലും | anyhow, in any case |
-| ഇനിയും മുതൽ | from now on |
-| അല്ലെങ്കിൽ | otherwise |
-| മാറ്റുക (past tense: മാറ്റി) | to change (transitive) |
-| സ്ഥലം മാറ്റുക | to transfer |
-| എനിക്ക് നിങ്ങളെ സ്ഥലം മാറ്റേണ്ടതായി വരും | I will have to transfer you |
-| സ്ഥലം മാറ്റരുതേ | please don’t transfer (me) (connotes pleading) |
-| ചെയ്യാമേ | (I) will do (connotes submissiveness) |
-| പ്രയാസം | difficulty |
+<!-- moag-vocabulary-words -->
+<div class="lesson-audio">
+<p><strong>Selected vocabulary recording</strong></p>
+<audio data-table-audio-player controls preload="none" aria-label="Lesson 19: select a word in the vocabulary table"></audio>
+<p class="lesson-audio-note">Use the Audio column to hear a word. Recorded variants appear beside their written entry; additional recorded forms are included in the same table. Unconfirmed recordings stay in rows marked “check match” until their word is verified. A dash means no aligned recording yet.</p>
+</div>
+<!-- /moag-vocabulary-words -->
+
+| Malayalam | Meaning | Audio |
+|---|---|---|
+| മാനേജർ | manager | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_001.mp3" data-audio-label="മാനേജർ" aria-label="Play മാനേജർ" title="Play മാനേജർ" aria-pressed="false">▶</button> |
+| പ്യൂൺ | peon | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_002.mp3" data-audio-label="പ്യൂൺ" aria-label="Play പ്യൂൺ" title="Play പ്യൂൺ" aria-pressed="false">▶</button> |
+| പോയിരിക്കുകയായിരുന്നു | have (you) been | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_003.mp3" data-audio-label="പോയിരിക്കുകയായിരുന്നു" aria-label="Play പോയിരിക്കുകയായിരുന്നു" title="Play പോയിരിക്കുകയായിരുന്നു" aria-pressed="false">▶</button> |
+| വെളിയിൽ | outside, out of doors | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_004.mp3" data-audio-label="വെളിയിൽ" aria-label="Play വെളിയിൽ" title="Play വെളിയിൽ" aria-pressed="false">▶</button> |
+| തിരക്ക് | crowd, pressure | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_005.mp3" data-audio-label="തിരക്ക്" aria-label="Play തിരക്ക്" title="Play തിരക്ക്" aria-pressed="false">▶</button> |
+| ജോലിത്തിരക്കുള്ള | which has/have pressure of work | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_006.mp3" data-audio-label="ജോലിത്തിരക്കുള്ള" aria-label="Play ജോലിത്തിരക്കുള്ള" title="Play ജോലിത്തിരക്കുള്ള" aria-pressed="false">▶</button> |
+| പോകരുത് | (you) mustn’t go, don’t go | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_007.mp3" data-audio-label="പോകരുത്" aria-label="Play പോകരുത്" title="Play പോകരുത്" aria-pressed="false">▶</button> |
+| ഭയങ്കര | awful, frightful | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| വിശക്കുക (past tense: വിശന്നു) | to be hungry (with dative subject, impersonal) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_008.mp3" data-audio-label="വിശക്കുക" aria-label="Play വിശക്കുക" title="Play വിശക്കുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_009.mp3" data-audio-label="വിശന്നു" aria-label="Play വിശന്നു" title="Play വിശന്നു" aria-pressed="false">▶ <span lang="ml">വിശന്നു</span></button> |
+| വിശപ്പ് | hunger | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| വല്ലതും | something | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_010.mp3" data-audio-label="വല്ലതും" aria-label="Play വല്ലതും" title="Play വല്ലതും" aria-pressed="false">▶</button> |
+| പുള്ളി | guy (colloq.) | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| ഇടക്കിടെ | periodically, regularly | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_011.mp3" data-audio-label="ഇടക്കിടെ" aria-label="Play ഇടക്കിടെ" title="Play ഇടക്കിടെ" aria-pressed="false">▶</button> |
+| ഇറങ്ങുക (past tense: ഇറങ്ങി) | to go out, to descend, to exit | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_012.mp3" data-audio-label="ഇറങ്ങുക" aria-label="Play ഇറങ്ങുക" title="Play ഇറങ്ങുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_013.mp3" data-audio-label="ഇറങ്ങി" aria-label="Play ഇറങ്ങി" title="Play ഇറങ്ങി" aria-pressed="false">▶ <span lang="ml">ഇറങ്ങി</span></button> |
+| പോകാറുണ്ട് | to be in the habit of going | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_014.mp3" data-audio-label="പോകാറുണ്ട്" aria-label="Play പോകാറുണ്ട്" title="Play പോകാറുണ്ട്" aria-pressed="false">▶</button> |
+| ഓരോ കാരണങ്ങൾ | a different reason (every time) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_016.mp3" data-audio-label="ഓരോ കാരണങ്ങൾ" aria-label="Play ഓരോ കാരണങ്ങൾ" title="Play ഓരോ കാരണങ്ങൾ" aria-pressed="false">▶</button> |
+| കാരണം | reason | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_017.mp3" data-audio-label="കാരണം" aria-label="Play കാരണം" title="Play കാരണം" aria-pressed="false">▶</button> |
+| ഞാനാണ്--- ചെയ്യേണ്ടത് | I am the one who has to do ---. | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_019.mp3" data-audio-label="ഞാനാണ്--- ചെയ്യേണ്ടത്" aria-label="Play ഞാനാണ്--- ചെയ്യേണ്ടത്" title="Play ഞാനാണ്--- ചെയ്യേണ്ടത്" aria-pressed="false">▶</button> |
+| ഓ! പിന്നെ | Is that so! (sarcastic) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_020.mp3" data-audio-label="ഓ! പിന്നെ" aria-label="Play ഓ! പിന്നെ" title="Play ഓ! പിന്നെ" aria-pressed="false">▶</button> |
+| ഓരോ കഥകൾ | a different story (each time) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_021.mp3" data-audio-label="ഓരോ കഥകൾ" aria-label="Play ഓരോ കഥകൾ" title="Play ഓരോ കഥകൾ" aria-pressed="false">▶</button> |
+| ---ില്ലാത്തത് കൊണ്ട് | because of not --- | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| വിശ്വാസം | faith, belief | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_023.mp3" data-audio-label="വിശ്വാസം" aria-label="Play വിശ്വാസം" title="Play വിശ്വാസം" aria-pressed="false">▶</button> |
+| അയാളെ എനിക്ക് വിശ്വാസമുണ്ട് | I have faith in him | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_027.mp3" data-audio-label="അയാളെ എനിക്ക് വിശ്വാസമുണ്ട്" aria-label="Play അയാളെ എനിക്ക് വിശ്വാസമുണ്ട്" title="Play അയാളെ എനിക്ക് വിശ്വാസമുണ്ട്" aria-pressed="false">▶</button> |
+| മടി | laziness | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_028.mp3" data-audio-label="മടി" aria-label="Play മടി" title="Play മടി" aria-pressed="false">▶</button> |
+| മടിയൻ | lazy fellow | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_029.mp3" data-audio-label="മടിയൻ" aria-label="Play മടിയൻ" title="Play മടിയൻ" aria-pressed="false">▶</button> |
+| മടിച്ചി | lazy person (feminine) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_030.mp3" data-audio-label="മടിച്ചി" aria-label="Play മടിച്ചി" title="Play മടിച്ചി" aria-pressed="false">▶</button> |
+| മടിയാണ് | (you) are lazy (with dative subject) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_031.mp3" data-audio-label="മടിയാണ്" aria-label="Play മടിയാണ്" title="Play മടിയാണ്" aria-pressed="false">▶</button> |
+| ജോലി ചെയ്യാൻ മടിയാണ് | reluctant, unwilling to do work (with dative subject) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_033.mp3" data-audio-label="ജോലി ചെയ്യാൻ മടിയാണ്" aria-label="Play ജോലി ചെയ്യാൻ മടിയാണ്" title="Play ജോലി ചെയ്യാൻ മടിയാണ്" aria-pressed="false">▶</button> |
+| <!-- Source: PDF page 326; printed page 269. --> ഏതായാലും | anyhow, in any case | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_034.mp3" data-audio-label="ഏതായാലും" aria-label="Play ഏതായാലും" title="Play ഏതായാലും" aria-pressed="false">▶</button> |
+| ഇനിയും മുതൽ | from now on | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_037.mp3" data-audio-label="ഇനിയും മുതൽ" aria-label="Play ഇനിയും മുതൽ" title="Play ഇനിയും മുതൽ" aria-pressed="false">▶</button> |
+| അല്ലെങ്കിൽ | otherwise | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_038.mp3" data-audio-label="അല്ലെങ്കിൽ" aria-label="Play അല്ലെങ്കിൽ" title="Play അല്ലെങ്കിൽ" aria-pressed="false">▶</button> |
+| മാറ്റുക (past tense: മാറ്റി) | to change (transitive) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_039.mp3" data-audio-label="മാറ്റുക" aria-label="Play മാറ്റുക" title="Play മാറ്റുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_040.mp3" data-audio-label="മാറ്റി" aria-label="Play മാറ്റി" title="Play മാറ്റി" aria-pressed="false">▶ <span lang="ml">മാറ്റി</span></button> |
+| സ്ഥലം മാറ്റുക | to transfer | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_042.mp3" data-audio-label="സ്ഥലം മാറ്റുക" aria-label="Play സ്ഥലം മാറ്റുക" title="Play സ്ഥലം മാറ്റുക" aria-pressed="false">▶</button> |
+| എനിക്ക് നിങ്ങളെ സ്ഥലം മാറ്റേണ്ടതായി വരും | I will have to transfer you | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_047.mp3" data-audio-label="എനിക്ക് നിങ്ങളെ സ്ഥലം മാറ്റേണ്ടതായി വരും" aria-label="Play എനിക്ക് നിങ്ങളെ സ്ഥലം മാറ്റേണ്ടതായി വരും" title="Play എനിക്ക് നിങ്ങളെ സ്ഥലം മാറ്റേണ്ടതായി വരും" aria-pressed="false">▶</button> |
+| സ്ഥലം മാറ്റരുതേ | please don’t transfer (me) (connotes pleading) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_048.mp3" data-audio-label="സ്ഥലം മാറ്റരുതേ" aria-label="Play സ്ഥലം മാറ്റരുതേ" title="Play സ്ഥലം മാറ്റരുതേ" aria-pressed="false">▶</button> |
+| ചെയ്യാമേ | (I) will do (connotes submissiveness) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_049.mp3" data-audio-label="ചെയ്യാമേ" aria-label="Play ചെയ്യാമേ" title="Play ചെയ്യാമേ" aria-pressed="false">▶</button> |
+| പ്രയാസം | difficulty | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_050.mp3" data-audio-label="പ്രയാസം" aria-label="Play പ്രയാസം" title="Play പ്രയാസം" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> കാരണങ്ങൾ | reasons | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_015.mp3" data-audio-label="കാരണങ്ങൾ" aria-label="Play കാരണങ്ങൾ" title="Play കാരണങ്ങൾ" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> ഞാനാണ് | it is I; I am the one | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_018.mp3" data-audio-label="ഞാനാണ്" aria-label="Play ഞാനാണ്" title="Play ഞാനാണ്" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> ഇല്ലാത്തത് കൊണ്ട് | because there is none; because of the absence | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_022.mp3" data-audio-label="ഇല്ലാത്തത് കൊണ്ട്" aria-label="Play ഇല്ലാത്തത് കൊണ്ട്" title="Play ഇല്ലാത്തത് കൊണ്ട്" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> അയാളെ | him (object form) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_024.mp3" data-audio-label="അയാളെ" aria-label="Play അയാളെ" title="Play അയാളെ" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> എനിക്ക് | to me; for me | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_025.mp3" data-audio-label="എനിക്ക്" aria-label="Play എനിക്ക്" title="Play എനിക്ക്" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> വിശ്വാസമുണ്ട് | have faith; have confidence | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_026.mp3" data-audio-label="വിശ്വാസമുണ്ട്" aria-label="Play വിശ്വാസമുണ്ട്" title="Play വിശ്വാസമുണ്ട്" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> ജോലി ചെയ്യാൻ | to work; in order to work | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_032.mp3" data-audio-label="ജോലി ചെയ്യാൻ" aria-label="Play ജോലി ചെയ്യാൻ" title="Play ജോലി ചെയ്യാൻ" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> ഇനിയും | still; more; again | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_035.mp3" data-audio-label="ഇനിയും" aria-label="Play ഇനിയും" title="Play ഇനിയും" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> മുതൽ | from; since | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_036.mp3" data-audio-label="മുതൽ" aria-label="Play മുതൽ" title="Play മുതൽ" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> സ്ഥലം | place | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_041.mp3" data-audio-label="സ്ഥലം" aria-label="Play സ്ഥലം" title="Play സ്ഥലം" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> എനിക്ക് | to me; for me | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_043.mp3" data-audio-label="എനിക്ക്" aria-label="Play എനിക്ക്" title="Play എനിക്ക്" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> നിങ്ങളെ | you (object form) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_044.mp3" data-audio-label="നിങ്ങളെ" aria-label="Play നിങ്ങളെ" title="Play നിങ്ങളെ" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> സ്ഥലം മാറ്റേണ്ടതായി | needing to transfer (part of a longer phrase) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_045.mp3" data-audio-label="സ്ഥലം മാറ്റേണ്ടതായി" aria-label="Play സ്ഥലം മാറ്റേണ്ടതായി" title="Play സ്ഥലം മാറ്റേണ്ടതായി" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> വരും | will come | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_046.mp3" data-audio-label="വരും" aria-label="Play വരും" title="Play വരും" aria-pressed="false">▶</button> |
 
 <a id="lesson19-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice

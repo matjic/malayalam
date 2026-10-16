@@ -41,41 +41,51 @@
 <div class="lesson-audio">
 <p><strong>Vocabulary audio</strong></p>
 <audio controls preload="none" aria-label="Lesson 12: Vocabulary audio" src="assets/audio/moag/sections/lesson_12_vocabulary_0.mp3"></audio>
-<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_12_vocabulary_0.mp3" aria-pressed="true">Listen · 10:35</button></div>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_12_vocabulary_0.mp3" aria-pressed="true">Listen · 02:22</button></div>
 <p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
 </div>
 <!-- /moag-audio -->
 
-| Malayalam | Meaning |
-|---|---|
-| ഭർത്താവ് | husband |
-| മകൾ | daughter |
-| മകൻ | son |
-| ഭാര്യ | wife |
-| അസുഖം | illness, ill health |
-| വയറ് | stomach, belly |
-| വയറ്റിൽ | in the stomach |
-| വൈകിട്ട് | spoken form of വൈകുന്നേരം |
-| ആശുപത്രി | hospital |
-| കൊണ്ടുപോകണം<br>(past tense: കൊണ്ടുപോയി) | want to take, need to take, have to take |
-| എന്ന് | quotation marker required at the end of a direct or indirect quotation |
-| അതുകൊണ്ട് | that is why, therefore |
-| വീണ്ടും | again |
-| പോകണം<br>(past tense പോയി) | want to, need to, have to go |
-| കൊണ്ടുപോയാൽ | if (I) took |
-| കാണണ്ട | don't want to see<br>don't need to see<br>don't have to see |
-| കൂടുക (past tense: കൂടി) | to increase |
-| ആയിരിക്കും | might, might be |
-| കൂടുമായിരിക്കും | will probably increase |
-| ചേട്ടൻ | term commonly used by most Hindu wives in speaking to or about their husband. |
-| ആഴ്ച | week |
-| ഒരുപാട് | an awful lot of (colloquial) |
-| കുട്ടി | child (plural: കുട്ടികൾ) |
-| കൂടെ | with (takes associated noun in possessive) |
-| <!-- Source: PDF page 227; printed page 173. --> പോകുന്നതിനു മുമ്പ് | before going |
-| കൊണ്ടുവരട്ടെ | shall I bring, let me bring |
-| ഉണ്ടാക്കുക (past tense: ഉണ്ടാക്കി) | to make or build |
-| ഉണ്ടാക്കിക്കൊണ്ടുവരാം | will make and bring |
+<!-- moag-vocabulary-words -->
+<div class="lesson-audio">
+<p><strong>Selected vocabulary recording</strong></p>
+<audio data-table-audio-player controls preload="none" aria-label="Lesson 12: select a word in the vocabulary table"></audio>
+<p class="lesson-audio-note">Use the Audio column to hear a word. Recorded variants appear beside their written entry; additional recorded forms are included in the same table. Unconfirmed recordings stay in rows marked “check match” until their word is verified. A dash means no aligned recording yet.</p>
+</div>
+<!-- /moag-vocabulary-words -->
+
+| Malayalam | Meaning | Audio |
+|---|---|---|
+| ഭർത്താവ് | husband | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_12_word_001.mp3" data-audio-label="ഭർത്താവ്" aria-label="Play ഭർത്താവ്" title="Play ഭർത്താവ്" aria-pressed="false">▶</button> |
+| മകൾ | daughter | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_12_word_003.mp3" data-audio-label="മകൾ" aria-label="Play മകൾ" title="Play മകൾ" aria-pressed="false">▶</button> |
+| മകൻ | son | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_12_word_004.mp3" data-audio-label="മകൻ" aria-label="Play മകൻ" title="Play മകൻ" aria-pressed="false">▶</button> |
+| ഭാര്യ | wife | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_12_word_002.mp3" data-audio-label="ഭാര്യ" aria-label="Play ഭാര്യ" title="Play ഭാര്യ" aria-pressed="false">▶</button> |
+| അസുഖം | illness, ill health | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_12_word_005.mp3" data-audio-label="അസുഖം" aria-label="Play അസുഖം" title="Play അസുഖം" aria-pressed="false">▶</button> |
+| വയറ് | stomach, belly | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_12_word_006.mp3" data-audio-label="വയറ്" aria-label="Play വയറ്" title="Play വയറ്" aria-pressed="false">▶</button> |
+| വയറ്റിൽ | in the stomach | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_12_word_007.mp3" data-audio-label="വയറ്റിൽ" aria-label="Play വയറ്റിൽ" title="Play വയറ്റിൽ" aria-pressed="false">▶</button> |
+| വൈകിട്ട് | spoken form of വൈകുന്നേരം | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_12_word_008.mp3" data-audio-label="വൈകിട്ട്" aria-label="Play വൈകിട്ട്" title="Play വൈകിട്ട്" aria-pressed="false">▶</button> |
+| ആശുപത്രി | hospital | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_12_word_009.mp3" data-audio-label="ആശുപത്രി" aria-label="Play ആശുപത്രി" title="Play ആശുപത്രി" aria-pressed="false">▶</button> |
+| കൊണ്ടുപോകണം<br>(past tense: കൊണ്ടുപോയി) | want to take, need to take, have to take | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_12_word_010.mp3" data-audio-label="കൊണ്ടുപോകണം" aria-label="Play കൊണ്ടുപോകണം" title="Play കൊണ്ടുപോകണം" aria-pressed="false">▶</button> |
+| എന്ന് | quotation marker required at the end of a direct or indirect quotation | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_12_word_011.mp3" data-audio-label="എന്ന്" aria-label="Play എന്ന്" title="Play എന്ന്" aria-pressed="false">▶</button> |
+| അതുകൊണ്ട് | that is why, therefore | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_12_word_012.mp3" data-audio-label="അതുകൊണ്ട്" aria-label="Play അതുകൊണ്ട്" title="Play അതുകൊണ്ട്" aria-pressed="false">▶</button> |
+| വീണ്ടും | again | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| പോകണം<br>(past tense പോയി) | want to, need to, have to go | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_12_word_014.mp3" data-audio-label="പോകണം" aria-label="Play പോകണം" title="Play പോകണം" aria-pressed="false">▶</button> |
+| കൊണ്ടുപോയാൽ | if (I) took | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_12_word_016.mp3" data-audio-label="കൊണ്ടുപോയാൽ" aria-label="Play കൊണ്ടുപോയാൽ" title="Play കൊണ്ടുപോയാൽ" aria-pressed="false">▶</button> |
+| കാണണ്ട | don't want to see<br>don't need to see<br>don't have to see | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_12_word_017.mp3" data-audio-label="കാണണ്ട" aria-label="Play കാണണ്ട" title="Play കാണണ്ട" aria-pressed="false">▶</button> |
+| കൂടുക (past tense: കൂടി) | to increase | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_12_word_018.mp3" data-audio-label="കൂടുക" aria-label="Play കൂടുക" title="Play കൂടുക" aria-pressed="false">▶</button> |
+| ആയിരിക്കും | might, might be | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| കൂടുമായിരിക്കും | will probably increase | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_12_word_019.mp3" data-audio-label="കൂടുമായിരിക്കും" aria-label="Play കൂടുമായിരിക്കും" title="Play കൂടുമായിരിക്കും" aria-pressed="false">▶</button> |
+| ചേട്ടൻ | term commonly used by most Hindu wives in speaking to or about their husband. | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_12_word_020.mp3" data-audio-label="ചേട്ടൻ" aria-label="Play ചേട്ടൻ" title="Play ചേട്ടൻ" aria-pressed="false">▶</button> |
+| ആഴ്ച | week | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_12_word_021.mp3" data-audio-label="ആഴ്ച" aria-label="Play ആഴ്ച" title="Play ആഴ്ച" aria-pressed="false">▶</button> |
+| ഒരുപാട് | an awful lot of (colloquial) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_12_word_022.mp3" data-audio-label="ഒരുപാട്" aria-label="Play ഒരുപാട്" title="Play ഒരുപാട്" aria-pressed="false">▶</button> |
+| കുട്ടി | child (plural: കുട്ടികൾ) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_12_word_023.mp3" data-audio-label="കുട്ടി" aria-label="Play കുട്ടി" title="Play കുട്ടി" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_12_word_024.mp3" data-audio-label="കുട്ടികൾ" aria-label="Play കുട്ടികൾ" title="Play കുട്ടികൾ" aria-pressed="false">▶ <span lang="ml">കുട്ടികൾ</span></button> |
+| കൂടെ | with (takes associated noun in possessive) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_12_word_025.mp3" data-audio-label="കൂടെ" aria-label="Play കൂടെ" title="Play കൂടെ" aria-pressed="false">▶</button> |
+| <!-- Source: PDF page 227; printed page 173. --> പോകുന്നതിനു മുമ്പ് | before going | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_12_word_026.mp3" data-audio-label="പോകുന്നതിനു മുമ്പ്" aria-label="Play പോകുന്നതിനു മുമ്പ്" title="Play പോകുന്നതിനു മുമ്പ്" aria-pressed="false">▶</button> |
+| കൊണ്ടുവരട്ടെ | shall I bring, let me bring | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_12_word_027.mp3" data-audio-label="കൊണ്ടുവരട്ടെ" aria-label="Play കൊണ്ടുവരട്ടെ" title="Play കൊണ്ടുവരട്ടെ" aria-pressed="false">▶</button> |
+| ഉണ്ടാക്കുക (past tense: ഉണ്ടാക്കി) | to make or build | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_12_word_028.mp3" data-audio-label="ഉണ്ടാക്കുക" aria-label="Play ഉണ്ടാക്കുക" title="Play ഉണ്ടാക്കുക" aria-pressed="false">▶</button> |
+| ഉണ്ടാക്കിക്കൊണ്ടുവരാം | will make and bring | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_12_word_029.mp3" data-audio-label="ഉണ്ടാക്കിക്കൊണ്ടുവരാം" aria-label="Play ഉണ്ടാക്കിക്കൊണ്ടുവരാം" title="Play ഉണ്ടാക്കിക്കൊണ്ടുവരാം" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> പിന്നെയും | again; furthermore | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_12_word_013.mp3" data-audio-label="പിന്നെയും" aria-label="Play പിന്നെയും" title="Play പിന്നെയും" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> ഇന്ന് | today | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_12_word_015.mp3" data-audio-label="ഇന്ന്" aria-label="Play ഇന്ന്" title="Play ഇന്ന്" aria-pressed="false">▶</button> |
 
 <a id="lesson12-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice

@@ -1,0 +1,1066 @@
+{
+  "pipeline_version": 6,
+  "lesson": 17,
+  "source": "data/audio/moag/lesson_17.mp3",
+  "model": "Whisper large-v3 (32 encoder and 32 decoder layers), MLX",
+  "range_start": 13.99,
+  "range_end": 158.63,
+  "method": "Acoustic cepstrum comparison pairs repeated utterances independently of textbook order; large-v3 word end timestamps matched to pauses, then global spelling assignment against printed vocabulary (order is only a weak tie-breaker). Low-confidence labels require review. Raw recognizer text retained.",
+  "words": [
+    {
+      "utterances": [
+        {
+          "start": 15.6889,
+          "end": 16.4771
+        },
+        {
+          "start": 17.4905,
+          "end": 18.2602
+        }
+      ],
+      "raw_texts": [
+        "ഒന്നാമ്",
+        "ഒന്നാമ്"
+      ],
+      "english_segments": [],
+      "transcript": "ഒന്നാം",
+      "meaning": "first",
+      "textbook_row": 0,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_17_word_001"
+    },
+    {
+      "utterances": [
+        {
+          "start": 19.5275,
+          "end": 20.2053
+        },
+        {
+          "start": 21.2694,
+          "end": 21.9039
+        }
+      ],
+      "raw_texts": [
+        "മോള്",
+        "മോള്"
+      ],
+      "english_segments": [],
+      "transcript": "മോൾ",
+      "meaning": "colloquial (short form) of മകൾ",
+      "textbook_row": 1,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_17_word_002"
+    },
+    {
+      "utterances": [
+        {
+          "start": 23.0922,
+          "end": 23.8136
+        },
+        {
+          "start": 24.9146,
+          "end": 25.638
+        }
+      ],
+      "raw_texts": [
+        "മകള്",
+        "മകള്"
+      ],
+      "english_segments": [],
+      "transcript": "മകള്",
+      "meaning": "",
+      "textbook_row": null,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_17_word_003"
+    },
+    {
+      "utterances": [
+        {
+          "start": 26.9215,
+          "end": 27.6651
+        },
+        {
+          "start": 28.7982,
+          "end": 29.5873
+        }
+      ],
+      "raw_texts": [
+        "ലിലാ്",
+        "ലിലാ്"
+      ],
+      "english_segments": [],
+      "transcript": "ലീല",
+      "meaning": "a Hindu female name",
+      "textbook_row": 2,
+      "similarity": 0.857,
+      "status": "matched",
+      "id": "lesson_17_word_004"
+    },
+    {
+      "utterances": [
+        {
+          "start": 30.7475,
+          "end": 31.6516
+        },
+        {
+          "start": 32.9293,
+          "end": 33.808
+        }
+      ],
+      "raw_texts": [
+        "കല്യാണ്",
+        "കല്യാണ്"
+      ],
+      "english_segments": [
+        {
+          "start": 32.81,
+          "end": 40.33,
+          "text": " kalyani kalyani amma kalyani amma"
+        }
+      ],
+      "transcript": "കല്യാണി",
+      "meaning": "a Hindu female name (note that അമ്മ is usually added to many female names as in കല്യാണിയമ്മ)",
+      "textbook_row": 3,
+      "similarity": 0.909,
+      "status": "matched",
+      "id": "lesson_17_word_005"
+    },
+    {
+      "utterances": [
+        {
+          "start": 35.2654,
+          "end": 36.3893
+        },
+        {
+          "start": 37.8014,
+          "end": 38.9257
+        }
+      ],
+      "raw_texts": [
+        "കല്യാണ് അമ്മാ",
+        "കല്യാണ് അമ്മാ"
+      ],
+      "english_segments": [
+        {
+          "start": 32.81,
+          "end": 40.33,
+          "text": " kalyani kalyani amma kalyani amma"
+        }
+      ],
+      "transcript": "വലിയ ഇഷ്ടമാണ്",
+      "meaning": "(colloquial) to like very much",
+      "textbook_row": 23,
+      "similarity": 0.533,
+      "status": "review",
+      "id": "lesson_17_word_006"
+    },
+    {
+      "utterances": [
+        {
+          "start": 40.5415,
+          "end": 41.5025
+        },
+        {
+          "start": 42.7986,
+          "end": 43.7966
+        }
+      ],
+      "raw_texts": [
+        "ചങന്നൂര്",
+        "ചങന്ന്നൂര്"
+      ],
+      "english_segments": [
+        {
+          "start": 40.33,
+          "end": 45.21,
+          "text": " changan noor changan noor"
+        }
+      ],
+      "transcript": "ചെങ്ങന്നൂർ",
+      "meaning": "a town in the southern part of Kerala",
+      "textbook_row": 4,
+      "similarity": 0.909,
+      "status": "matched",
+      "id": "lesson_17_word_007"
+    },
+    {
+      "utterances": [
+        {
+          "start": 45.3533,
+          "end": 46.1257
+        },
+        {
+          "start": 47.4021,
+          "end": 48.2019
+        }
+      ],
+      "raw_texts": [
+        "മുളുവന്",
+        "മുളുവന്"
+      ],
+      "english_segments": [
+        {
+          "start": 45.21,
+          "end": 49.41,
+          "text": " mujhavan mujhavan"
+        }
+      ],
+      "transcript": "മുഴുവൻ",
+      "meaning": "full, complete",
+      "textbook_row": 5,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_17_word_008"
+    },
+    {
+      "utterances": [
+        {
+          "start": 49.6013,
+          "end": 50.3858
+        },
+        {
+          "start": 51.7046,
+          "end": 52.4785
+        }
+      ],
+      "raw_texts": [
+        "വര്ഷമ്",
+        "വര്ഷമ്"
+      ],
+      "english_segments": [
+        {
+          "start": 49.41,
+          "end": 53.57,
+          "text": " varsham varsham"
+        }
+      ],
+      "transcript": "വർഷം",
+      "meaning": "year",
+      "textbook_row": 6,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_17_word_009"
+    },
+    {
+      "utterances": [
+        {
+          "start": 53.7978,
+          "end": 54.7923
+        },
+        {
+          "start": 55.9983,
+          "end": 56.9308
+        }
+      ],
+      "raw_texts": [
+        "പഡിച്ച്രിന്നു",
+        "പഡിച്ച്രിന്നു"
+      ],
+      "english_segments": [
+        {
+          "start": 53.57,
+          "end": 58.17,
+          "text": " padichirinu padichirinu"
+        }
+      ],
+      "transcript": "പഠിച്ചിരുന്നു",
+      "meaning": "studied, used to study",
+      "textbook_row": 7,
+      "similarity": 0.855,
+      "status": "matched",
+      "id": "lesson_17_word_010"
+    },
+    {
+      "utterances": [
+        {
+          "start": 58.4291,
+          "end": 59.2161
+        },
+        {
+          "start": 60.5598,
+          "end": 61.3819
+        }
+      ],
+      "raw_texts": [
+        "ആവാമ്",
+        "ആവാമ്"
+      ],
+      "english_segments": [
+        {
+          "start": 58.17,
+          "end": 70.79,
+          "text": " avaam avaam or kuga or kuga or to or to"
+        }
+      ],
+      "transcript": "ആവാം",
+      "meaning": "colloquial form of ആകാം",
+      "textbook_row": 8,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_17_word_011"
+    },
+    {
+      "utterances": [
+        {
+          "start": 62.7672,
+          "end": 63.6946
+        },
+        {
+          "start": 64.9461,
+          "end": 65.8815
+        }
+      ],
+      "raw_texts": [
+        "ഓര്കുകാർ",
+        "ഓ�"
+      ],
+      "english_segments": [
+        {
+          "start": 58.17,
+          "end": 70.79,
+          "text": " avaam avaam or kuga or kuga or to or to"
+        }
+      ],
+      "transcript": "ഓർക്കുക",
+      "meaning": "to remember",
+      "textbook_row": 9,
+      "similarity": 0.833,
+      "status": "matched",
+      "id": "lesson_17_word_012"
+    },
+    {
+      "utterances": [
+        {
+          "start": 67.1331,
+          "end": 67.9382
+        },
+        {
+          "start": 69.2607,
+          "end": 70.0313
+        }
+      ],
+      "raw_texts": [
+        "ഓര്തു",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 58.17,
+          "end": 70.79,
+          "text": " avaam avaam or kuga or kuga or to or to"
+        }
+      ],
+      "transcript": "ഓർത്തു",
+      "meaning": "to remember",
+      "textbook_row": 9,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_17_word_013"
+    },
+    {
+      "utterances": [
+        {
+          "start": 71.4022,
+          "end": 72.0927
+        },
+        {
+          "start": 73.4041,
+          "end": 74.1808
+        }
+      ],
+      "raw_texts": [
+        "",
+        "ചേയുക"
+      ],
+      "english_segments": [
+        {
+          "start": 70.79,
+          "end": 83.59,
+          "text": " chaiya chaiya chaiyuka chaiyuka aate aate"
+        }
+      ],
+      "transcript": "ചെയ്യ്",
+      "meaning": "familiar version of command form of ചെയ്യുക",
+      "textbook_row": 10,
+      "similarity": 0.75,
+      "status": "matched",
+      "id": "lesson_17_word_014"
+    },
+    {
+      "utterances": [
+        {
+          "start": 75.4184,
+          "end": 76.2857
+        },
+        {
+          "start": 77.5264,
+          "end": 78.4017
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 70.79,
+          "end": 83.59,
+          "text": " chaiya chaiya chaiyuka chaiyuka aate aate"
+        }
+      ],
+      "transcript": "",
+      "meaning": "",
+      "textbook_row": null,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_17_word_015"
+    },
+    {
+      "utterances": [
+        {
+          "start": 79.6851,
+          "end": 80.4342
+        },
+        {
+          "start": 81.7806,
+          "end": 82.5408
+        }
+      ],
+      "raw_texts": [
+        "ആട്ടു",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 70.79,
+          "end": 83.59,
+          "text": " chaiya chaiya chaiyuka chaiyuka aate aate"
+        }
+      ],
+      "transcript": "ആട്ടെ",
+      "meaning": "colloquial form of ആകട്ടെ",
+      "textbook_row": 11,
+      "similarity": 0.667,
+      "status": "review",
+      "id": "lesson_17_word_016"
+    },
+    {
+      "utterances": [
+        {
+          "start": 83.8707,
+          "end": 84.7535
+        },
+        {
+          "start": 85.9947,
+          "end": 86.8299
+        }
+      ],
+      "raw_texts": [
+        "ഒരുമിച്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 83.59,
+          "end": 98.75,
+          "text": " orumich orumich innala innala vicharikyuka vicharikyuka vicharichu"
+        }
+      ],
+      "transcript": "ഒരുമിച്ച്",
+      "meaning": "together (another form of ഒന്നിച്ച്)",
+      "textbook_row": 12,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_17_word_017"
+    },
+    {
+      "utterances": [
+        {
+          "start": 88.0702,
+          "end": 88.8578
+        },
+        {
+          "start": 90.0602,
+          "end": 90.8365
+        }
+      ],
+      "raw_texts": [
+        "ഇന്നലെ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 83.59,
+          "end": 98.75,
+          "text": " orumich orumich innala innala vicharikyuka vicharikyuka vicharichu"
+        }
+      ],
+      "transcript": "ഇന്നലെ",
+      "meaning": "yesterday",
+      "textbook_row": 13,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_17_word_018"
+    },
+    {
+      "utterances": [
+        {
+          "start": 92.3079,
+          "end": 93.3647
+        },
+        {
+          "start": 94.506,
+          "end": 95.5693
+        }
+      ],
+      "raw_texts": [
+        "വിചാരിക്കുകാ",
+        "വിചാരിക്കുകാ"
+      ],
+      "english_segments": [
+        {
+          "start": 83.59,
+          "end": 98.75,
+          "text": " orumich orumich innala innala vicharikyuka vicharikyuka vicharichu"
+        }
+      ],
+      "transcript": "വിചാരിക്കുക",
+      "meaning": "to think",
+      "textbook_row": 14,
+      "similarity": 0.947,
+      "status": "matched",
+      "id": "lesson_17_word_019"
+    },
+    {
+      "utterances": [
+        {
+          "start": 96.8935,
+          "end": 97.869
+        },
+        {
+          "start": 99.1482,
+          "end": 100.0918
+        }
+      ],
+      "raw_texts": [
+        "വിചാരിച്ചു",
+        "വിചാരിച്ചു"
+      ],
+      "english_segments": [
+        {
+          "start": 83.59,
+          "end": 98.75,
+          "text": " orumich orumich innala innala vicharikyuka vicharikyuka vicharichu"
+        },
+        {
+          "start": 98.75,
+          "end": 113.75,
+          "text": " kootukaar kootukaaran kootukaari"
+        }
+      ],
+      "transcript": "വിചാരിച്ചു",
+      "meaning": "to think",
+      "textbook_row": 14,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_17_word_020"
+    },
+    {
+      "utterances": [
+        {
+          "start": 102.178,
+          "end": 103.0162
+        },
+        {
+          "start": 104.4024,
+          "end": 105.3493
+        }
+      ],
+      "raw_texts": [
+        "കൂട്ടുകാര",
+        "കൂടുകാര"
+      ],
+      "english_segments": [
+        {
+          "start": 98.75,
+          "end": 113.75,
+          "text": " kootukaar kootukaaran kootukaari"
+        }
+      ],
+      "transcript": "കൂട്ടുകാർ",
+      "meaning": "plural of കൂട്ടുകാരൻ, കൂട്ടുകാരി",
+      "textbook_row": 15,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_17_word_021"
+    },
+    {
+      "utterances": [
+        {
+          "start": 106.9842,
+          "end": 108.0873
+        },
+        {
+          "start": 109.5963,
+          "end": 110.6466
+        }
+      ],
+      "raw_texts": [
+        "കൂടുകാരണ്",
+        "കൂടുകാരണ്"
+      ],
+      "english_segments": [
+        {
+          "start": 98.75,
+          "end": 113.75,
+          "text": " kootukaar kootukaaran kootukaari"
+        }
+      ],
+      "transcript": "കാണുന്നു",
+      "meaning": "am seeing",
+      "textbook_row": 21,
+      "similarity": 0.455,
+      "status": "review",
+      "id": "lesson_17_word_022"
+    },
+    {
+      "utterances": [
+        {
+          "start": 112.3757,
+          "end": 113.403
+        },
+        {
+          "start": 115.0219,
+          "end": 116.0573
+        }
+      ],
+      "raw_texts": [
+        "കൂടുകാര്രീ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 98.75,
+          "end": 113.75,
+          "text": " kootukaar kootukaaran kootukaari"
+        },
+        {
+          "start": 113.75,
+          "end": 115.75,
+          "text": " kootu garhi"
+        },
+        {
+          "start": 115.75,
+          "end": 118.75,
+          "text": " nalatanne"
+        }
+      ],
+      "transcript": "കൂടുകാര്രീ",
+      "meaning": "",
+      "textbook_row": null,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_17_word_023"
+    },
+    {
+      "utterances": [
+        {
+          "start": 118.0663,
+          "end": 119.0449
+        },
+        {
+          "start": 120.5785,
+          "end": 121.6039
+        }
+      ],
+      "raw_texts": [
+        "",
+        "കൂടുക"
+      ],
+      "english_segments": [
+        {
+          "start": 115.75,
+          "end": 118.75,
+          "text": " nalatanne"
+        },
+        {
+          "start": 118.75,
+          "end": 121.75,
+          "text": " nalatanne"
+        }
+      ],
+      "transcript": "നാളെത്തന്നെ",
+      "meaning": "tomorrow itself",
+      "textbook_row": 16,
+      "similarity": 0.831,
+      "status": "matched",
+      "id": "lesson_17_word_024"
+    },
+    {
+      "utterances": [
+        {
+          "start": 123.3283,
+          "end": 124.3452
+        },
+        {
+          "start": 125.6078,
+          "end": 126.6276
+        }
+      ],
+      "raw_texts": [
+        "ക്ഷണിക്കുക്",
+        "ക്ഷണിക്കുക്"
+      ],
+      "english_segments": [
+        {
+          "start": 121.75,
+          "end": 124.75,
+          "text": " kshanikyuga"
+        },
+        {
+          "start": 124.75,
+          "end": 126.75,
+          "text": " kshanikyuga"
+        }
+      ],
+      "transcript": "ക്ഷണിക്കുക",
+      "meaning": "to invite",
+      "textbook_row": 17,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_17_word_025"
+    },
+    {
+      "utterances": [
+        {
+          "start": 128.0703,
+          "end": 128.9734
+        },
+        {
+          "start": 130.1842,
+          "end": 131.105
+        }
+      ],
+      "raw_texts": [
+        "ക്ഷണിച്",
+        "ക്ഷണിച്"
+      ],
+      "english_segments": [
+        {
+          "start": 126.75,
+          "end": 128.75,
+          "text": " kshanichu"
+        },
+        {
+          "start": 128.75,
+          "end": 130.75,
+          "text": " kshanichu"
+        },
+        {
+          "start": 130.75,
+          "end": 132.75,
+          "text": " elutha"
+        }
+      ],
+      "transcript": "ക്ഷണിച്ചു",
+      "meaning": "to invite",
+      "textbook_row": 17,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_17_word_026"
+    },
+    {
+      "utterances": [
+        {
+          "start": 132.5414,
+          "end": 133.3052
+        },
+        {
+          "start": 134.5586,
+          "end": 135.3624
+        }
+      ],
+      "raw_texts": [
+        "എളുത്",
+        "എളുത്"
+      ],
+      "english_segments": [
+        {
+          "start": 132.75,
+          "end": 134.75,
+          "text": " elutha"
+        },
+        {
+          "start": 134.75,
+          "end": 136.75,
+          "text": " ara"
+        }
+      ],
+      "transcript": "എഴുത്ത്",
+      "meaning": "letter",
+      "textbook_row": 18,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_17_word_027"
+    },
+    {
+      "utterances": [
+        {
+          "start": 136.5157,
+          "end": 137.2023
+        },
+        {
+          "start": 138.2806,
+          "end": 138.9869
+        }
+      ],
+      "raw_texts": [
+        "ആര",
+        "ആര"
+      ],
+      "english_segments": [
+        {
+          "start": 136.75,
+          "end": 138.75,
+          "text": " ara"
+        }
+      ],
+      "transcript": "അര",
+      "meaning": "half",
+      "textbook_row": 19,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_17_word_028"
+    },
+    {
+      "utterances": [
+        {
+          "start": 140.2347,
+          "end": 141.1358
+        },
+        {
+          "start": 142.2039,
+          "end": 143.0757
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 138.75,
+          "end": 140.75,
+          "text": " patara"
+        },
+        {
+          "start": 140.75,
+          "end": 142.75,
+          "text": " patara"
+        },
+        {
+          "start": 142.75,
+          "end": 158.63,
+          "text": " patara manikya patara manikya kaanununda kaanununda kootikundu varuga kootikundu varuga valiya"
+        }
+      ],
+      "transcript": "ഉണ്ട്",
+      "meaning": "am seeing",
+      "textbook_row": 21,
+      "similarity": 0.211,
+      "status": "review",
+      "id": "lesson_17_word_029"
+    },
+    {
+      "utterances": [
+        {
+          "start": 144.054,
+          "end": 145.2005
+        },
+        {
+          "start": 146.2987,
+          "end": 147.4537
+        }
+      ],
+      "raw_texts": [
+        "പത്തരമണിക്",
+        "പത്തരമണിക്"
+      ],
+      "english_segments": [
+        {
+          "start": 142.75,
+          "end": 158.63,
+          "text": " patara manikya patara manikya kaanununda kaanununda kootikundu varuga kootikundu varuga valiya"
+        }
+      ],
+      "transcript": "പത്തരമണിക്ക്",
+      "meaning": "at ten-thirty",
+      "textbook_row": 20,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_17_word_030"
+    },
+    {
+      "utterances": [
+        {
+          "start": 148.6317,
+          "end": 149.6381
+        },
+        {
+          "start": 150.7965,
+          "end": 151.8139
+        }
+      ],
+      "raw_texts": [
+        "കാണുന്നുണ്ട്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 142.75,
+          "end": 158.63,
+          "text": " patara manikya patara manikya kaanununda kaanununda kootikundu varuga kootikundu varuga valiya"
+        }
+      ],
+      "transcript": "കാണുന്നുണ്ട്",
+      "meaning": "am seeing",
+      "textbook_row": 21,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_17_word_031"
+    },
+    {
+      "utterances": [
+        {
+          "start": 153.1238,
+          "end": 154.4282
+        },
+        {
+          "start": 155.6093,
+          "end": 156.9509
+        }
+      ],
+      "raw_texts": [
+        "കൂട്ടിക്കുണ്ട് വരുക",
+        "കൂട്ടിക്കുണ്ട് വരുക"
+      ],
+      "english_segments": [
+        {
+          "start": 142.75,
+          "end": 158.63,
+          "text": " patara manikya patara manikya kaanununda kaanununda kootikundu varuga kootikundu varuga valiya"
+        }
+      ],
+      "transcript": "കൂട്ടികൊണ്ട് വരുക",
+      "meaning": "to bring along",
+      "textbook_row": 22,
+      "similarity": 0.917,
+      "status": "matched",
+      "id": "lesson_17_word_032"
+    }
+  ],
+  "textbook_vocabulary": [
+    {
+      "malayalam": "ഒന്നാം",
+      "meaning": "first"
+    },
+    {
+      "malayalam": "മോൾ",
+      "meaning": "colloquial (short form) of മകൾ"
+    },
+    {
+      "malayalam": "ലീല",
+      "meaning": "a Hindu female name"
+    },
+    {
+      "malayalam": "കല്യാണി",
+      "meaning": "a Hindu female name (note that അമ്മ is usually added to many female names as in കല്യാണിയമ്മ)"
+    },
+    {
+      "malayalam": "ചെങ്ങന്നൂർ",
+      "meaning": "a town in the southern part of Kerala"
+    },
+    {
+      "malayalam": "മുഴുവൻ",
+      "meaning": "full, complete"
+    },
+    {
+      "malayalam": "വർഷം",
+      "meaning": "year"
+    },
+    {
+      "malayalam": "പഠിച്ചിരുന്നു",
+      "meaning": "studied, used to study"
+    },
+    {
+      "malayalam": "ആവാം",
+      "meaning": "colloquial form of ആകാം"
+    },
+    {
+      "malayalam": "ഓർക്കുക (past tense: ഓർത്തു)",
+      "meaning": "to remember"
+    },
+    {
+      "malayalam": "ചെയ്യ്",
+      "meaning": "familiar version of command form of ചെയ്യുക"
+    },
+    {
+      "malayalam": "ആട്ടെ",
+      "meaning": "colloquial form of ആകട്ടെ"
+    },
+    {
+      "malayalam": "ഒരുമിച്ച്",
+      "meaning": "together (another form of ഒന്നിച്ച്)"
+    },
+    {
+      "malayalam": "ഇന്നലെ",
+      "meaning": "yesterday"
+    },
+    {
+      "malayalam": "വിചാരിക്കുക (past tense: വിചാരിച്ചു)",
+      "meaning": "to think"
+    },
+    {
+      "malayalam": "കൂട്ടുകാർ",
+      "meaning": "plural of കൂട്ടുകാരൻ, കൂട്ടുകാരി"
+    },
+    {
+      "malayalam": "നാളെത്തന്നെ",
+      "meaning": "tomorrow itself"
+    },
+    {
+      "malayalam": "ക്ഷണിക്കുക (past tense: ക്ഷണിച്ചു)",
+      "meaning": "to invite"
+    },
+    {
+      "malayalam": "എഴുത്ത്",
+      "meaning": "letter"
+    },
+    {
+      "malayalam": "അര",
+      "meaning": "half"
+    },
+    {
+      "malayalam": "പത്തരമണിക്ക്",
+      "meaning": "at ten-thirty"
+    },
+    {
+      "malayalam": "കാണുന്നുണ്ട് (കാണുന്നു + ഉണ്ട്)",
+      "meaning": "am seeing"
+    },
+    {
+      "malayalam": "കൂട്ടികൊണ്ട് വരുക",
+      "meaning": "to bring along"
+    },
+    {
+      "malayalam": "വലിയ ഇഷ്ടമാണ്",
+      "meaning": "(colloquial) to like very much"
+    }
+  ],
+  "unmatched_textbook_rows": [],
+  "recognition_sha256": "6a5069fd08ecf15c0e7f3a340cc07c941d473a55c93be57c8429fe67c4b47df8",
+  "boundary_sha256": "c67f516c72b8957467c4795c3ed16a6dfd84e337cd5de6ebe74d6e769e4abdbb"
+}

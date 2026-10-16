@@ -1,0 +1,519 @@
+{
+  "lesson": 12,
+  "model": "Whisper large-v3",
+  "purpose": "English announcements only; Malayalam transliterations are not teaching transcriptions.",
+  "range_start": 216.19,
+  "range_end": 851.7,
+  "segments": [
+    {
+      "start": 216.19,
+      "end": 228.47,
+      "text": " Agum. Ayrannu. Aai. Aaganam. Agatte."
+    },
+    {
+      "start": 230.87,
+      "end": 238.67,
+      "text": " Vocabulary practice. Repeat each item after the speaker. Each item is given twice. Ready? Listen and repeat."
+    },
+    {
+      "start": 238.67,
+      "end": 249.01,
+      "text": " bhartāva bhārya"
+    },
+    {
+      "start": 249.01,
+      "end": 257.05,
+      "text": " magal magan"
+    },
+    {
+      "start": 257.05,
+      "end": 265.51,
+      "text": " asukham vair"
+    },
+    {
+      "start": 265.51,
+      "end": 275.21,
+      "text": " vayatil vayatil vaygattu vaygattu"
+    },
+    {
+      "start": 275.21,
+      "end": 285.51,
+      "text": " ashupathri ashupathri konda poganam konda poganam"
+    },
+    {
+      "start": 285.51,
+      "end": 287.51,
+      "text": " enn"
+    },
+    {
+      "start": 287.51,
+      "end": 289.51,
+      "text": " enn"
+    },
+    {
+      "start": 289.51,
+      "end": 291.51,
+      "text": " adhukonda"
+    },
+    {
+      "start": 291.51,
+      "end": 293.51,
+      "text": " adhukonda"
+    },
+    {
+      "start": 293.51,
+      "end": 295.51,
+      "text": " pinnayum"
+    },
+    {
+      "start": 295.51,
+      "end": 297.51,
+      "text": " pinnayum"
+    },
+    {
+      "start": 297.51,
+      "end": 299.51,
+      "text": " poganam"
+    },
+    {
+      "start": 299.51,
+      "end": 301.51,
+      "text": " poganam"
+    },
+    {
+      "start": 301.51,
+      "end": 303.51,
+      "text": " inn"
+    },
+    {
+      "start": 303.51,
+      "end": 305.51,
+      "text": " inn"
+    },
+    {
+      "start": 305.51,
+      "end": 307.51,
+      "text": " kondupoyal"
+    },
+    {
+      "start": 307.51,
+      "end": 309.51,
+      "text": " kondupoyal"
+    },
+    {
+      "start": 309.51,
+      "end": 311.51,
+      "text": " kānanda"
+    },
+    {
+      "start": 311.51,
+      "end": 313.51,
+      "text": " kānanda"
+    },
+    {
+      "start": 313.51,
+      "end": 327.51,
+      "text": " kuuduka kuudumairikyum chetan"
+    },
+    {
+      "start": 327.51,
+      "end": 332.51,
+      "text": " week"
+    },
+    {
+      "start": 332.51,
+      "end": 336.51,
+      "text": " a song"
+    },
+    {
+      "start": 336.51,
+      "end": 340.51,
+      "text": " child"
+    },
+    {
+      "start": 340.51,
+      "end": 345.51,
+      "text": " children"
+    },
+    {
+      "start": 345.51,
+      "end": 349.51,
+      "text": " together"
+    },
+    {
+      "start": 349.51,
+      "end": 355.51,
+      "text": " before leaving"
+    },
+    {
+      "start": 355.51,
+      "end": 375.51,
+      "text": " kondu varatte kondu varatte undaaku ka undaaku ka undaaki kondu varam undaaki kondu varam"
+    },
+    {
+      "start": 375.51,
+      "end": 383.17,
+      "text": " reading practice read along as the following sentences are read out try to recognize words"
+    },
+    {
+      "start": 383.17,
+      "end": 385.17,
+      "text": " all parts of words."
+    },
+    {
+      "start": 413.17,
+      "end": 415.17,
+      "text": " How much are you?"
+    },
+    {
+      "start": 415.17,
+      "end": 417.17,
+      "text": " I am not coming."
+    },
+    {
+      "start": 417.17,
+      "end": 419.17,
+      "text": " You are not coming."
+    },
+    {
+      "start": 419.17,
+      "end": 421.17,
+      "text": " There are many people."
+    },
+    {
+      "start": 421.17,
+      "end": 423.17,
+      "text": " Will you come?"
+    },
+    {
+      "start": 423.17,
+      "end": 425.17,
+      "text": " Will you come?"
+    },
+    {
+      "start": 425.17,
+      "end": 427.17,
+      "text": " Will you come?"
+    },
+    {
+      "start": 427.17,
+      "end": 429.17,
+      "text": " Will you come?"
+    },
+    {
+      "start": 429.17,
+      "end": 431.17,
+      "text": " Note the desiderative,"
+    },
+    {
+      "start": 431.17,
+      "end": 433.17,
+      "text": " obligational forms of these verbs."
+    },
+    {
+      "start": 433.17,
+      "end": 435.17,
+      "text": " to buy"
+    },
+    {
+      "start": 435.17,
+      "end": 437.17,
+      "text": " to buy"
+    },
+    {
+      "start": 437.17,
+      "end": 439.17,
+      "text": " not to buy"
+    },
+    {
+      "start": 439.17,
+      "end": 441.17,
+      "text": " to see"
+    },
+    {
+      "start": 441.17,
+      "end": 448.95,
+      "text": " Kaananam Kaananda Varuga Varanam Varanda"
+    },
+    {
+      "start": 448.95,
+      "end": 457.69,
+      "text": " Poguga Poganam Pogannda Nadakuga Nadakkanam Nadakkannda"
+    },
+    {
+      "start": 457.69,
+      "end": 466.81,
+      "text": " Irikyuga Irikanam Irikannda Chayyuga Chayanam Chayannda"
+    },
+    {
+      "start": 466.81,
+      "end": 470.39,
+      "text": " Padikyuga, padhikanam, padhikyanda."
+    },
+    {
+      "start": 471.55,
+      "end": 475.21,
+      "text": " Aryuga, aryanam, aryanda."
+    },
+    {
+      "start": 476.23,
+      "end": 480.13,
+      "text": " Ayakyuga, ayakyanam, ayakyananda."
+    },
+    {
+      "start": 481.01,
+      "end": 484.81,
+      "text": " Vilikyuga, vilikyanam, vilikyanda."
+    },
+    {
+      "start": 486.31,
+      "end": 487.53,
+      "text": " Conversation 12."
+    },
+    {
+      "start": 488.41,
+      "end": 489.45,
+      "text": " Listening Practice."
+    },
+    {
+      "start": 490.37,
+      "end": 494.63,
+      "text": " Listen to the conversation enacted at a slightly slower than normal speed."
+    },
+    {
+      "start": 496.81,
+      "end": 498.81,
+      "text": " Your daughter is not well."
+    },
+    {
+      "start": 499.97,
+      "end": 503.37,
+      "text": " Oh, I didn't know that. What is the problem?"
+    },
+    {
+      "start": 504.33,
+      "end": 505.41,
+      "text": " She is not well."
+    },
+    {
+      "start": 506.19,
+      "end": 508.91,
+      "text": " She said she wants to take her to the hospital this evening."
+    },
+    {
+      "start": 510.91,
+      "end": 512.89,
+      "text": " But I have a lot of work today."
+    },
+    {
+      "start": 513.51,
+      "end": 515.91,
+      "text": " So I have to go to the office again this evening."
+    },
+    {
+      "start": 516.91,
+      "end": 517.89,
+      "text": " Can you take her?"
+    },
+    {
+      "start": 519.47,
+      "end": 521.55,
+      "text": " I want to watch a movie this evening."
+    },
+    {
+      "start": 522.15,
+      "end": 523.33,
+      "text": " Can I take her tomorrow?"
+    },
+    {
+      "start": 524.59,
+      "end": 526.13,
+      "text": " You don't want to watch a movie today."
+    },
+    {
+      "start": 526.81,
+      "end": 529.51,
+      "text": " You have to take her to the hospital today itself."
+    },
+    {
+      "start": 530.29,
+      "end": 531.83,
+      "text": " Otherwise, she will be in more trouble."
+    },
+    {
+      "start": 533.15,
+      "end": 535.89,
+      "text": " Okay. But can you take me to the cinema tomorrow?"
+    },
+    {
+      "start": 537.41,
+      "end": 538.53,
+      "text": " I have to take you."
+    },
+    {
+      "start": 539.23,
+      "end": 541.31,
+      "text": " I have a lot of work this week."
+    },
+    {
+      "start": 542.13,
+      "end": 543.97,
+      "text": " You can go with the kids, right?"
+    },
+    {
+      "start": 545.03,
+      "end": 546.09,
+      "text": " Let it be so."
+    },
+    {
+      "start": 546.83,
+      "end": 549.51,
+      "text": " Before you go to the office, let me bring coffee."
+    },
+    {
+      "start": 550.89,
+      "end": 551.21,
+      "text": " Okay."
+    },
+    {
+      "start": 552.31,
+      "end": 553.89,
+      "text": " But I will make it and bring it."
+    },
+    {
+      "start": 553.89,
+      "end": 558.43,
+      "text": " Now listen to the conversation at normal speed."
+    },
+    {
+      "start": 583.89,
+      "end": 612.29,
+      "text": " conversational practice. The lines of Bharat Ava will be provided on the tape. You respond"
+    },
+    {
+      "start": 612.29,
+      "end": 615.41,
+      "text": " with various lines in the spaces provided."
+    },
+    {
+      "start": 616.33,
+      "end": 618.31,
+      "text": " Ready? Listen and respond."
+    },
+    {
+      "start": 619.47,
+      "end": 621.47,
+      "text": " Chechi yada magal ka nalla suham illa."
+    },
+    {
+      "start": 624.95,
+      "end": 626.19,
+      "text": " Vayatila suham ana."
+    },
+    {
+      "start": 626.85,
+      "end": 629.93,
+      "text": " Avala inna vaikatta aashupatra it kondu pokanam anna chechi paranyu."
+    },
+    {
+      "start": 630.61,
+      "end": 632.59,
+      "text": " Pakshay inna enni ki valar joli unda."
+    },
+    {
+      "start": 632.89,
+      "end": 635.01,
+      "text": " Adukonda vaikatta veendam aafisil pokanam."
+    },
+    {
+      "start": 635.71,
+      "end": 636.79,
+      "text": " Nenaka avalai kondu pokaama?"
+    },
+    {
+      "start": 636.79,
+      "end": 647.79,
+      "text": " You don't have to watch the movie today. You have to take her to the hospital today itself. Otherwise, she will be in a lot of trouble."
+    },
+    {
+      "start": 647.79,
+      "end": 658.79,
+      "text": " I have to take you. I have a lot of work this week. You can go with the kids, right?"
+    },
+    {
+      "start": 658.79,
+      "end": 676.61,
+      "text": " Kula now let's reverse roles you take lines of part our and various lines will"
+    },
+    {
+      "start": 676.61,
+      "end": 683.03,
+      "text": " be provided on the tape when I say begin you come in with JT the mother can"
+    },
+    {
+      "start": 683.03,
+      "end": 688.03,
+      "text": " And so on to the end of the conversation."
+    },
+    {
+      "start": 688.03,
+      "end": 690.03,
+      "text": " Ready? Begin."
+    },
+    {
+      "start": 690.03,
+      "end": 696.03,
+      "text": " Oh, I didn't know that. What's the problem?"
+    },
+    {
+      "start": 696.03,
+      "end": 711.03,
+      "text": " I want to watch a movie tonight. Can I take you tomorrow?"
+    },
+    {
+      "start": 741.03,
+      "end": 752.83,
+      "text": " Exercise 1. Form phrases by adding kude and putting the words provided into the appropriate possessive form as in the model."
+    },
+    {
+      "start": 752.83,
+      "end": 769.77,
+      "text": " That is, when I say addeham, you say the possessive form addehatinde kude, then I give the correct form addehatinde kude and so on."
+    },
+    {
+      "start": 769.77,
+      "end": 775.45,
+      "text": " Now listen and give the appropriate possessive forms."
+    },
+    {
+      "start": 799.77,
+      "end": 824.27,
+      "text": " aval avalude kude irachi irachiude kude chetan chetande kude"
+    },
+    {
+      "start": 824.27,
+      "end": 839.17,
+      "text": " ninde makan ninde makan de koo de mani mani de koo de"
+    },
+    {
+      "start": 839.17,
+      "end": 842.53,
+      "text": " That child"
+    },
+    {
+      "start": 842.53,
+      "end": 846.33,
+      "text": " with that child"
+    },
+    {
+      "start": 846.33,
+      "end": 849.69,
+      "text": " He"
+    },
+    {
+      "start": 849.69,
+      "end": 851.69,
+      "text": " with him"
+    }
+  ]
+}

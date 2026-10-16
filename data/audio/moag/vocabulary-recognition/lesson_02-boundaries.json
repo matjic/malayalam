@@ -1,0 +1,344 @@
+{
+  "lesson": 2,
+  "model": "Whisper large-v3",
+  "purpose": "English announcements only; Malayalam transliterations are not teaching transcriptions.",
+  "range_start": 0,
+  "range_end": 442.83,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.14,
+      "text": " Malayalam, a university course on reference grammar by Rodney F. Moog."
+    },
+    {
+      "start": 5.14,
+      "end": 7.9,
+      "text": " Lesson 2. Reference List."
+    },
+    {
+      "start": 9.12,
+      "end": 12.1,
+      "text": " Listen as the speaker recites the items from the list."
+    },
+    {
+      "start": 12.84,
+      "end": 15.62,
+      "text": " Each item is given twice. Ready? Listen."
+    },
+    {
+      "start": 16.98,
+      "end": 18.96,
+      "text": " Nyan. Nyan."
+    },
+    {
+      "start": 20.1,
+      "end": 21.98,
+      "text": " Ni. Ni."
+    },
+    {
+      "start": 23.26,
+      "end": 25.18,
+      "text": " Ningal. Ningal."
+    },
+    {
+      "start": 26.94,
+      "end": 27.78,
+      "text": " Avan. Ivan."
+    },
+    {
+      "start": 27.78,
+      "end": 30.78,
+      "text": " Avan, Ivan"
+    },
+    {
+      "start": 30.78,
+      "end": 36.78,
+      "text": " Ayal, Iyal"
+    },
+    {
+      "start": 36.78,
+      "end": 43.78,
+      "text": " Addeham, Iddeham"
+    },
+    {
+      "start": 43.78,
+      "end": 50.78,
+      "text": " Aval, Ival"
+    },
+    {
+      "start": 50.78,
+      "end": 57.34,
+      "text": " avar ivar avar ivar"
+    },
+    {
+      "start": 57.34,
+      "end": 67.06,
+      "text": " nyangal nyangal nammal nammal"
+    },
+    {
+      "start": 67.06,
+      "end": 77.86,
+      "text": " ningal ningal avar ivar avar ivar"
+    },
+    {
+      "start": 77.86,
+      "end": 79.86,
+      "text": " Now the adverb trios."
+    },
+    {
+      "start": 79.86,
+      "end": 83.86,
+      "text": " ivide, avide, evide"
+    },
+    {
+      "start": 83.86,
+      "end": 87.86,
+      "text": " ivide, avide, evide"
+    },
+    {
+      "start": 87.86,
+      "end": 92.86,
+      "text": " ingota, angota, engota"
+    },
+    {
+      "start": 92.86,
+      "end": 96.86,
+      "text": " ingota, angota, engota"
+    },
+    {
+      "start": 96.86,
+      "end": 101.86,
+      "text": " ipol, apol, epol"
+    },
+    {
+      "start": 101.86,
+      "end": 105.86,
+      "text": " ipol, apol, epol"
+    },
+    {
+      "start": 105.86,
+      "end": 114.86,
+      "text": " inna, anna, enna"
+    },
+    {
+      "start": 114.86,
+      "end": 127.86,
+      "text": " ingane, angane, engane"
+    },
+    {
+      "start": 127.86,
+      "end": 130.86,
+      "text": " Vocabulary Practice"
+    },
+    {
+      "start": 130.86,
+      "end": 134.86,
+      "text": " Repeat each item after the speaker. Each item will be given twice."
+    },
+    {
+      "start": 134.86,
+      "end": 139.24,
+      "text": " ready listen and repeat"
+    },
+    {
+      "start": 164.86,
+      "end": 172.2,
+      "text": " Ivedetane Il Il"
+    },
+    {
+      "start": 172.2,
+      "end": 176.32,
+      "text": " Aapichil Aapichil"
+    },
+    {
+      "start": 176.32,
+      "end": 180.32,
+      "text": " Iaal Iaal"
+    },
+    {
+      "start": 180.32,
+      "end": 184.16,
+      "text": " Iaale manchilayo Iaale manchilayo"
+    },
+    {
+      "start": 184.16,
+      "end": 190.8,
+      "text": " Illa Illa"
+    },
+    {
+      "start": 190.8,
+      "end": 198.56,
+      "text": " Veed Every day"
+    },
+    {
+      "start": 198.56,
+      "end": 206.2,
+      "text": " Trishur Joli"
+    },
+    {
+      "start": 206.2,
+      "end": 214.22,
+      "text": " Gnan Poru"
+    },
+    {
+      "start": 214.22,
+      "end": 236.98,
+      "text": " doctor doctor um um e e keshavan keshavan kochi kochi teacher teacher"
+    },
+    {
+      "start": 236.98,
+      "end": 245.82,
+      "text": " with locatives. Form locative phrases by adding il to the words provided. This exercise is similar"
+    },
+    {
+      "start": 245.82,
+      "end": 252.46,
+      "text": " to section A of the reading practice, but does not parallel it directly. Listen to the model."
+    },
+    {
+      "start": 254.06,
+      "end": 262.38,
+      "text": " Speaker. Trishur. Student. Trishuril. After the space for you to give your locative phrase,"
+    },
+    {
+      "start": 262.38,
+      "end": 267.3,
+      "text": " the correct form of the phrase will be given for you to compare and to repeat once again."
+    },
+    {
+      "start": 268.6,
+      "end": 273.08,
+      "text": " The first group of words end in a consonant, hence add il directly."
+    },
+    {
+      "start": 273.86,
+      "end": 278.04,
+      "text": " Ready? Listen, form locative phrases, then repeat."
+    },
+    {
+      "start": 292.38,
+      "end": 299.38,
+      "text": " school schoolil"
+    },
+    {
+      "start": 299.38,
+      "end": 303.38,
+      "text": " Badras Badrasil"
+    },
+    {
+      "start": 303.38,
+      "end": 308.38,
+      "text": " Nyungal Nyungalil"
+    },
+    {
+      "start": 308.38,
+      "end": 313.38,
+      "text": " Texas Texasil"
+    },
+    {
+      "start": 313.38,
+      "end": 318.38,
+      "text": " Austin Austinil"
+    },
+    {
+      "start": 318.38,
+      "end": 324.48,
+      "text": " The next group of words ends in half U which drops before IL with one"
+    },
+    {
+      "start": 324.48,
+      "end": 341.38,
+      "text": " exception which is VIR. VITIL. Similarly, NAT country. NATIL."
+    },
+    {
+      "start": 341.38,
+      "end": 348.12,
+      "text": " Now listen and form the locative by dropping half u."
+    },
+    {
+      "start": 348.12,
+      "end": 350.8,
+      "text": " Adh"
+    },
+    {
+      "start": 350.8,
+      "end": 355.74,
+      "text": " Idh"
+    },
+    {
+      "start": 355.74,
+      "end": 360.98,
+      "text": " Afis"
+    },
+    {
+      "start": 360.98,
+      "end": 365.44,
+      "text": " Buk"
+    },
+    {
+      "start": 365.44,
+      "end": 375.96,
+      "text": " The following words end in a vowel or semi-vowel, hence ad-ya before il."
+    },
+    {
+      "start": 378.12,
+      "end": 382.52,
+      "text": " Kochi Kochiyal"
+    },
+    {
+      "start": 382.52,
+      "end": 388.28,
+      "text": " Joli Joliyal"
+    },
+    {
+      "start": 388.28,
+      "end": 394.36,
+      "text": " Kai Kaiyal"
+    },
+    {
+      "start": 394.36,
+      "end": 400.36,
+      "text": " Kasera Kaserayal"
+    },
+    {
+      "start": 400.36,
+      "end": 404.36,
+      "text": " Mesha Meshayal"
+    },
+    {
+      "start": 404.36,
+      "end": 408.18,
+      "text": " Pena, penayil."
+    },
+    {
+      "start": 411.52,
+      "end": 415.7,
+      "text": " The last group of words end in am,"
+    },
+    {
+      "start": 415.7,
+      "end": 419.56,
+      "text": " which changes to double t before il."
+    },
+    {
+      "start": 422.06,
+      "end": 425.54,
+      "text": " Keralam, keralatil."
+    },
+    {
+      "start": 429.56,
+      "end": 433.34,
+      "text": " Ernakulam, ernakulatil."
+    },
+    {
+      "start": 434.36,
+      "end": 436.36,
+      "text": " Pustakam."
+    },
+    {
+      "start": 436.36,
+      "end": 439.36,
+      "text": " Pustakatil."
+    }
+  ]
+}

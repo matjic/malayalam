@@ -46,46 +46,56 @@
 <div class="lesson-audio">
 <p><strong>Vocabulary audio</strong></p>
 <audio controls preload="none" aria-label="Lesson 11: Vocabulary audio" src="assets/audio/moag/sections/lesson_11_vocabulary_0.mp3"></audio>
-<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_11_vocabulary_0.mp3" aria-pressed="true">Listen · 03:05</button></div>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_11_vocabulary_0.mp3" aria-pressed="true">Listen · 03:02</button></div>
 <p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
 </div>
 <!-- /moag-audio -->
 
-| Malayalam | Meaning |
-|---|---|
-| ആയിരുന്നു | was, were (past of ആണ്) |
-| പോയി | went |
-| അയച്ചു | sent (past of അയക്കുക [y]) |
-| എന്തിന് | for what, why |
-| എന്തിനാണ് അയച്ചത്? | why is it that (you) sent (him)? |
-| ഇറച്ചി | meat |
-| തീർന്നു | finished (intransitive) |
-| തീർന്നുപോയി | ran out (compound verb) |
-| എടാ! | Hey! (vocative expression indicating informality or derogation, used with male social intimates or inferiors. To females, “എടി” is used.) |
-| അത്ര | that much, that many, so much, so many |
-| അത്രയും | as much as, as much as that |
-| കിട്ടി | got |
-| ചീത്ത | bad |
-| കൊണ്ടുവന്നു | brought |
-| നോക്കി | looked |
-| ഇല്ലായിരുന്നു | there was not (past negative of ഉണ്ട്) |
-| കൊടുത്തു | gave (to a third person) |
-| കൂടുതൽ | much, too much, much more |
-| അയ്യോ! | exclamation |
-| വെറുതെ | uselessly, to no purpose (for the heck of it) |
-| കളഞ്ഞു | threw away |
-| പോകട്ടെ | (let) (it) go, it's OK |
-| എന്നാലും | anyway, even though, still |
-| കറി | curry |
-| കറിവെക്കുക [y] | to make curry |
-| <!-- Source: PDF page 207; printed page 153. --> ചിലപ്പോൾ | sometimes |
-| പട്ടി | dog |
-| പറയണ്ട | shouldn't speak, don't speak |
-| കഴിക്കുക | to eat |
-| കേൾക്കുക | to hear, to listen |
-| കേട്ടോ? | did (you) hear? (very common expression) |
-| അടി വേണോ? | do (you) want a spanking? (commonly used by school-teachers and elders within the family.) |
-| വേറെ | else, other, another |
+<!-- moag-vocabulary-words -->
+<div class="lesson-audio">
+<p><strong>Selected vocabulary recording</strong></p>
+<audio data-table-audio-player controls preload="none" aria-label="Lesson 11: select a word in the vocabulary table"></audio>
+<p class="lesson-audio-note">Use the Audio column to hear a word. Recorded variants appear beside their written entry; additional recorded forms are included in the same table. Unconfirmed recordings stay in rows marked “check match” until their word is verified. A dash means no aligned recording yet.</p>
+</div>
+<!-- /moag-vocabulary-words -->
+
+| Malayalam | Meaning | Audio |
+|---|---|---|
+| ആയിരുന്നു | was, were (past of ആണ്) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_001.mp3" data-audio-label="ആയിരുന്നു" aria-label="Play ആയിരുന്നു" title="Play ആയിരുന്നു" aria-pressed="false">▶</button> |
+| പോയി | went | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_002.mp3" data-audio-label="പോയി" aria-label="Play പോയി" title="Play പോയി" aria-pressed="false">▶</button> |
+| അയച്ചു | sent (past of അയക്കുക [y]) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_003.mp3" data-audio-label="അയച്ചു" aria-label="Play അയച്ചു" title="Play അയച്ചു" aria-pressed="false">▶</button> |
+| എന്തിന് | for what, why | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_004.mp3" data-audio-label="എന്തിന്" aria-label="Play എന്തിന്" title="Play എന്തിന്" aria-pressed="false">▶</button> |
+| എന്തിനാണ് അയച്ചത്? | why is it that (you) sent (him)? | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| ഇറച്ചി | meat | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_007.mp3" data-audio-label="ഇറച്ചി" aria-label="Play ഇറച്ചി" title="Play ഇറച്ചി" aria-pressed="false">▶</button> |
+| തീർന്നു | finished (intransitive) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_008.mp3" data-audio-label="തീർന്നു" aria-label="Play തീർന്നു" title="Play തീർന്നു" aria-pressed="false">▶</button> |
+| തീർന്നുപോയി | ran out (compound verb) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_009.mp3" data-audio-label="തീർന്നുപോയി" aria-label="Play തീർന്നുപോയി" title="Play തീർന്നുപോയി" aria-pressed="false">▶</button> |
+| എടാ! | Hey! (vocative expression indicating informality or derogation, used with male social intimates or inferiors. To females, “എടി” is used.) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_010.mp3" data-audio-label="എടാ!" aria-label="Play എടാ!" title="Play എടാ!" aria-pressed="false">▶</button> |
+| അത്ര | that much, that many, so much, so many | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_011.mp3" data-audio-label="അത്ര" aria-label="Play അത്ര" title="Play അത്ര" aria-pressed="false">▶</button> |
+| അത്രയും | as much as, as much as that | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_013.mp3" data-audio-label="അത്രയും" aria-label="Play അത്രയും" title="Play അത്രയും" aria-pressed="false">▶</button> |
+| കിട്ടി | got | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_014.mp3" data-audio-label="കിട്ടി" aria-label="Play കിട്ടി" title="Play കിട്ടി" aria-pressed="false">▶</button> |
+| ചീത്ത | bad | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_015.mp3" data-audio-label="ചീത്ത" aria-label="Play ചീത്ത" title="Play ചീത്ത" aria-pressed="false">▶</button> |
+| കൊണ്ടുവന്നു | brought | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_016.mp3" data-audio-label="കൊണ്ടുവന്നു" aria-label="Play കൊണ്ടുവന്നു" title="Play കൊണ്ടുവന്നു" aria-pressed="false">▶</button> |
+| നോക്കി | looked | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_017.mp3" data-audio-label="നോക്കി" aria-label="Play നോക്കി" title="Play നോക്കി" aria-pressed="false">▶</button> |
+| ഇല്ലായിരുന്നു | there was not (past negative of ഉണ്ട്) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_018.mp3" data-audio-label="ഇല്ലായിരുന്നു" aria-label="Play ഇല്ലായിരുന്നു" title="Play ഇല്ലായിരുന്നു" aria-pressed="false">▶</button> |
+| കൊടുത്തു | gave (to a third person) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_019.mp3" data-audio-label="കൊടുത്തു" aria-label="Play കൊടുത്തു" title="Play കൊടുത്തു" aria-pressed="false">▶</button> |
+| കൂടുതൽ | much, too much, much more | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_020.mp3" data-audio-label="കൂടുതൽ" aria-label="Play കൂടുതൽ" title="Play കൂടുതൽ" aria-pressed="false">▶</button> |
+| അയ്യോ! | exclamation | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_021.mp3" data-audio-label="അയ്യോ!" aria-label="Play അയ്യോ!" title="Play അയ്യോ!" aria-pressed="false">▶</button> |
+| വെറുതെ | uselessly, to no purpose (for the heck of it) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_022.mp3" data-audio-label="വെറുതെ" aria-label="Play വെറുതെ" title="Play വെറുതെ" aria-pressed="false">▶</button> |
+| കളഞ്ഞു | threw away | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_023.mp3" data-audio-label="കളഞ്ഞു" aria-label="Play കളഞ്ഞു" title="Play കളഞ്ഞു" aria-pressed="false">▶</button> |
+| പോകട്ടെ | (let) (it) go, it's OK | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_024.mp3" data-audio-label="പോകട്ടെ" aria-label="Play പോകട്ടെ" title="Play പോകട്ടെ" aria-pressed="false">▶</button> |
+| എന്നാലും | anyway, even though, still | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_025.mp3" data-audio-label="എന്നാലും" aria-label="Play എന്നാലും" title="Play എന്നാലും" aria-pressed="false">▶</button> |
+| കറി | curry | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_026.mp3" data-audio-label="കറി" aria-label="Play കറി" title="Play കറി" aria-pressed="false">▶</button> |
+| കറിവെക്കുക [y] | to make curry | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_027.mp3" data-audio-label="കറിവെക്കുക" aria-label="Play കറിവെക്കുക" title="Play കറിവെക്കുക" aria-pressed="false">▶</button> |
+| <!-- Source: PDF page 207; printed page 153. --> ചിലപ്പോൾ | sometimes | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_028.mp3" data-audio-label="ചിലപ്പോൾ" aria-label="Play ചിലപ്പോൾ" title="Play ചിലപ്പോൾ" aria-pressed="false">▶</button> |
+| പട്ടി | dog | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_030.mp3" data-audio-label="പട്ടി" aria-label="Play പട്ടി" title="Play പട്ടി" aria-pressed="false">▶</button> |
+| പറയണ്ട | shouldn't speak, don't speak | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_031.mp3" data-audio-label="പറയണ്ട" aria-label="Play പറയണ്ട" title="Play പറയണ്ട" aria-pressed="false">▶</button> |
+| കഴിക്കുക | to eat | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_029.mp3" data-audio-label="കഴിക്കുക" aria-label="Play കഴിക്കുക" title="Play കഴിക്കുക" aria-pressed="false">▶</button> |
+| കേൾക്കുക | to hear, to listen | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_032.mp3" data-audio-label="കേൾക്കുക" aria-label="Play കേൾക്കുക" title="Play കേൾക്കുക" aria-pressed="false">▶</button> |
+| കേട്ടോ? | did (you) hear? (very common expression) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_033.mp3" data-audio-label="കേട്ടോ?" aria-label="Play കേട്ടോ?" title="Play കേട്ടോ?" aria-pressed="false">▶</button> |
+| അടി വേണോ? | do (you) want a spanking? (commonly used by school-teachers and elders within the family.) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_034.mp3" data-audio-label="അടി വേണോ?" aria-label="Play അടി വേണോ?" title="Play അടി വേണോ?" aria-pressed="false">▶</button> |
+| വേറെ | else, other, another | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| <!-- recorded-audio-row --> എന്തിനാണ് | why; what for? | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_005.mp3" data-audio-label="എന്തിനാണ്" aria-label="Play എന്തിനാണ്" title="Play എന്തിനാണ്" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> അയച്ചത് | sent; that which was sent | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_006.mp3" data-audio-label="അയച്ചത്" aria-label="Play അയച്ചത്" title="Play അയച്ചത്" aria-pressed="false">▶</button> |
 
 <a id="lesson11-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice

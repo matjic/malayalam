@@ -1,0 +1,557 @@
+[
+  {
+    "id": "lesson_24_word_027",
+    "lesson": 24,
+    "transcript": "സ്നേഹം",
+    "printed_entry": {
+      "malayalam": "സ്നേഹം",
+      "meaning": "love"
+    },
+    "placement": "reference",
+    "source": "data/audio/moag/lesson_24.mp3",
+    "source_sha256": "4df4ed4cccde3be5057a6eeaf54073d8526cbbe92538b35f414d4969feb96d55",
+    "start": 369.85,
+    "end": 373.7,
+    "utterances": [
+      {
+        "start": 369.85,
+        "end": 370.9466
+      },
+      {
+        "start": 372.1872,
+        "end": 373.7
+      }
+    ],
+    "previous": {
+      "lesson": 24,
+      "transcript": "സ്നേഹിക്കുക",
+      "meaning": "to love",
+      "status": "review",
+      "source": "data/audio/moag/lesson_24.mp3",
+      "start": 369.971,
+      "end": 374.5166,
+      "utterances": [
+        {
+          "start": 369.971,
+          "end": 370.9466
+        },
+        {
+          "start": 372.1872,
+          "end": 374.5166
+        }
+      ],
+      "recognition": [
+        "",
+        ""
+      ],
+      "recheck": "സ്നേഹമ് സ്നേഹമ് തമ്മെല്",
+      "adjustment": null,
+      "review": null,
+      "alignment_warning": "Duplicate proposed word assignment needs confirmation",
+      "path": "docs/assets/audio/moag/words/lesson_24_word_027.mp3",
+      "sha256": "daea729b0ddadce1236ac6e78bc39f32821ddb2fee5da680d87320cf217c5fe3"
+    },
+    "reviewer": "user",
+    "scope": "User approved all six experimental cuts after listening.",
+    "evidence": "data/audio/moag/koyal-coreml-boundary-trial.json",
+    "audio": "data/audio/moag/vocabulary-repaired-clips/lesson_24_word_027.mp3",
+    "audio_sha256": "7baa6ea0d56f404aeb9fddbf3541da61e7d6573c42a9463a794cd6d1279fab83"
+  },
+  {
+    "id": "lesson_24_word_028",
+    "lesson": 24,
+    "transcript": "തമ്മിൽ",
+    "printed_entry": {
+      "malayalam": "തമ്മിൽ",
+      "meaning": "between"
+    },
+    "placement": "vocabulary",
+    "source": "data/audio/moag/lesson_24.mp3",
+    "source_sha256": "4df4ed4cccde3be5057a6eeaf54073d8526cbbe92538b35f414d4969feb96d55",
+    "start": 373.65,
+    "end": 376.7,
+    "utterances": [
+      {
+        "start": 373.65,
+        "end": 374.5166
+      },
+      {
+        "start": 375.7708,
+        "end": 376.7
+      }
+    ],
+    "previous": {
+      "lesson": 24,
+      "transcript": "തമ്മിൽ",
+      "meaning": "between",
+      "status": "matched",
+      "source": "data/audio/moag/lesson_24.mp3",
+      "start": 375.7708,
+      "end": 376.4784,
+      "utterances": [
+        {
+          "start": 375.7708,
+          "end": 376.4784
+        }
+      ],
+      "recognition": [
+        ""
+      ],
+      "recheck": "തമ്മില്",
+      "adjustment": null,
+      "review": null,
+      "alignment_warning": null,
+      "path": "docs/assets/audio/moag/words/lesson_24_word_028.mp3",
+      "sha256": "3eb966a968fcae3d244f0d540f6be5d3aa68a680a109d8cd28d60128630ac172"
+    },
+    "reviewer": "user",
+    "scope": "User approved all six experimental cuts after listening.",
+    "evidence": "data/audio/moag/koyal-coreml-boundary-trial.json",
+    "audio": "data/audio/moag/vocabulary-repaired-clips/lesson_24_word_028.mp3",
+    "audio_sha256": "6ed33ac79c2f50bf2e7d3d34bee5785a01dbe58d784d61e9a47def93cd699e36"
+  },
+  {
+    "id": "lesson_24_word_051",
+    "lesson": 24,
+    "transcript": "ഗുണം",
+    "printed_entry": {
+      "malayalam": "ഗുണം",
+      "meaning": "good quality or attribute"
+    },
+    "placement": "vocabulary",
+    "source": "data/audio/moag/lesson_24.mp3",
+    "source_sha256": "4df4ed4cccde3be5057a6eeaf54073d8526cbbe92538b35f414d4969feb96d55",
+    "start": 481.05,
+    "end": 484.8,
+    "utterances": [
+      {
+        "start": 481.05,
+        "end": 482.0403
+      },
+      {
+        "start": 483.7421,
+        "end": 484.8
+      }
+    ],
+    "previous": {
+      "lesson": 24,
+      "transcript": "ഗുണം",
+      "meaning": "good quality or attribute",
+      "status": "matched",
+      "source": "data/audio/moag/lesson_24.mp3",
+      "start": 481.0015,
+      "end": 485.6156,
+      "utterances": [
+        {
+          "start": 481.0015,
+          "end": 482.0403
+        },
+        {
+          "start": 483.7421,
+          "end": 485.6156
+        }
+      ],
+      "recognition": [
+        "ഗുണം",
+        "കുരവ്"
+      ],
+      "recheck": null,
+      "adjustment": null,
+      "review": null,
+      "alignment_warning": null,
+      "path": "docs/assets/audio/moag/words/lesson_24_word_051.mp3",
+      "sha256": "3113d670b8403fbbfe407c84e2eddfef4cab724da66ae4aa67df6d5ceb03fd7a"
+    },
+    "reviewer": "user",
+    "scope": "User approved all six experimental cuts after listening.",
+    "evidence": "data/audio/moag/koyal-coreml-boundary-trial.json",
+    "audio": "data/audio/moag/vocabulary-repaired-clips/lesson_24_word_051.mp3",
+    "audio_sha256": "b5eed0d1d6f6e9c01a6324a3f71b31e56ec2e40d94ec9fa5063cf925a0ffbd5f"
+  },
+  {
+    "id": "lesson_24_word_052",
+    "lesson": 24,
+    "transcript": "കുറവ്",
+    "printed_entry": {
+      "malayalam": "കുറവ്",
+      "meaning": "deficiency, shortcoming"
+    },
+    "placement": "vocabulary",
+    "source": "data/audio/moag/lesson_24.mp3",
+    "source_sha256": "4df4ed4cccde3be5057a6eeaf54073d8526cbbe92538b35f414d4969feb96d55",
+    "start": 484.8,
+    "end": 487.75,
+    "utterances": [
+      {
+        "start": 484.8,
+        "end": 485.6156
+      },
+      {
+        "start": 486.7854,
+        "end": 487.75
+      }
+    ],
+    "previous": {
+      "lesson": 24,
+      "transcript": "കുറവ്",
+      "meaning": "deficiency, shortcoming",
+      "status": "matched",
+      "source": "data/audio/moag/lesson_24.mp3",
+      "start": 486.7854,
+      "end": 487.5574,
+      "utterances": [
+        {
+          "start": 486.7854,
+          "end": 487.5574
+        }
+      ],
+      "recognition": [
+        ""
+      ],
+      "recheck": "കുരവ്റ",
+      "adjustment": null,
+      "review": null,
+      "alignment_warning": null,
+      "path": "docs/assets/audio/moag/words/lesson_24_word_052.mp3",
+      "sha256": "77fb27f190e1bf146cbb97a480de96f8f1ab3e2c63d44db8b45c2c18b91a3d11"
+    },
+    "reviewer": "user",
+    "scope": "User approved all six experimental cuts after listening.",
+    "evidence": "data/audio/moag/koyal-coreml-boundary-trial.json",
+    "audio": "data/audio/moag/vocabulary-repaired-clips/lesson_24_word_052.mp3",
+    "audio_sha256": "59fc5c2d819969ca7b7e1562ecdeb2ebde068e747ba53388e0182a04bf0e87b4"
+  },
+  {
+    "id": "lesson_21_word_015",
+    "lesson": 21,
+    "transcript": "തരുക",
+    "printed_entry": {
+      "malayalam": "past participle + തരുക",
+      "meaning": "to do ‘verb’ for your or my benefit"
+    },
+    "placement": "vocabulary",
+    "source": "data/audio/moag/lesson_21.mp3",
+    "source_sha256": "cbc2a05d83a9c88832e98f5b236b2c9837a214104fe7d0ccb950ca59f61d6b4f",
+    "start": 204.45,
+    "end": 207.7,
+    "utterances": [
+      {
+        "start": 204.45,
+        "end": 205.3405
+      },
+      {
+        "start": 206.1725,
+        "end": 207.7
+      }
+    ],
+    "previous": {
+      "lesson": 21,
+      "transcript": "പറഞ്ഞുതരുക",
+      "meaning": "to tell (me or you)",
+      "status": "matched",
+      "source": "data/audio/moag/lesson_21.mp3",
+      "start": 204.5397,
+      "end": 209.8248,
+      "utterances": [
+        {
+          "start": 204.5397,
+          "end": 205.3405
+        },
+        {
+          "start": 206.1725,
+          "end": 209.8248
+        }
+      ],
+      "recognition": [
+        "",
+        ""
+      ],
+      "recheck": "തരുക തരുക പരണ്ങ തരുക",
+      "adjustment": null,
+      "review": null,
+      "alignment_warning": null,
+      "path": "docs/assets/audio/moag/words/lesson_21_word_015.mp3",
+      "sha256": "68ce50b69f8f5c745b79404d11822c0832b3bc863239c91fe807b929ba7c77c7"
+    },
+    "reviewer": "user",
+    "scope": "User approved all six experimental cuts after listening.",
+    "evidence": "data/audio/moag/koyal-coreml-boundary-trial.json",
+    "audio": "data/audio/moag/vocabulary-repaired-clips/lesson_21_word_015.mp3",
+    "audio_sha256": "184993e03d288a2dca94f92a75c08827624876d887c1961df05488458a9b8b9e"
+  },
+  {
+    "id": "lesson_21_word_016",
+    "lesson": 21,
+    "transcript": "പറഞ്ഞുതരുക",
+    "printed_entry": {
+      "malayalam": "പറഞ്ഞുതരുക",
+      "meaning": "to tell (me or you)"
+    },
+    "placement": "vocabulary",
+    "source": "data/audio/moag/lesson_21.mp3",
+    "source_sha256": "cbc2a05d83a9c88832e98f5b236b2c9837a214104fe7d0ccb950ca59f61d6b4f",
+    "start": 208.55,
+    "end": 212.3,
+    "utterances": [
+      {
+        "start": 208.55,
+        "end": 209.8248
+      },
+      {
+        "start": 210.4143,
+        "end": 212.3
+      }
+    ],
+    "previous": {
+      "lesson": 21,
+      "transcript": "തരുക",
+      "meaning": "to do ‘verb’ for your or my benefit",
+      "status": "review",
+      "source": "data/audio/moag/lesson_21.mp3",
+      "start": 210.4143,
+      "end": 212.0765,
+      "utterances": [
+        {
+          "start": 210.4143,
+          "end": 212.0765
+        }
+      ],
+      "recognition": [
+        ""
+      ],
+      "recheck": "പരന്യുട്ടായുളാ",
+      "adjustment": null,
+      "review": null,
+      "alignment_warning": null,
+      "path": "docs/assets/audio/moag/words/lesson_21_word_016.mp3",
+      "sha256": "49212fd1572e0ffbe9feb23fd74992d2ca29621a2d99e7ea521227b84702314f"
+    },
+    "reviewer": "user",
+    "scope": "User approved all six experimental cuts after listening.",
+    "evidence": "data/audio/moag/koyal-coreml-boundary-trial.json",
+    "audio": "data/audio/moag/vocabulary-repaired-clips/lesson_21_word_016.mp3",
+    "audio_sha256": "2f1f049614728eb70a888a1353ba4f9d5493d65303cc06214acd5b6752f13f75"
+  },
+  {
+    "id": "lesson_04_word_028",
+    "lesson": 4,
+    "transcript": "പണം",
+    "printed_entry": {
+      "malayalam": "പണം",
+      "meaning": "money"
+    },
+    "placement": "vocabulary",
+    "source": "data/audio/moag/lesson_04.mp3",
+    "source_sha256": "be900b7fd30b34e5c9e489a6e3ac38c2e121043fbc065046ee02f7bc62660810",
+    "start": 166.55,
+    "end": 169.75,
+    "utterances": [
+      {
+        "start": 166.55,
+        "end": 167.7
+      },
+      {
+        "start": 168.8,
+        "end": 169.75
+      }
+    ],
+    "previous": {
+      "lesson": 4,
+      "transcript": "ഒന്ന്",
+      "meaning": "please, would you mind (politeness marker)",
+      "status": "matched",
+      "source": "data/audio/moag/lesson_04.mp3",
+      "start": 166.7555,
+      "end": 172.8999,
+      "utterances": [
+        {
+          "start": 166.7555,
+          "end": 171.1863
+        },
+        {
+          "start": 172.2576,
+          "end": 172.8999
+        }
+      ],
+      "recognition": [
+        "ഒന്",
+        ""
+      ],
+      "recheck": null,
+      "adjustment": null,
+      "review": null,
+      "alignment_warning": null,
+      "path": "docs/assets/audio/moag/words/lesson_04_word_028.mp3",
+      "sha256": "b77459a7737eef6733e4e701fe3c1bb33503c22374fd96bd0ac6b0cd880c9d5e"
+    },
+    "reviewer": "automated",
+    "scope": "User identified the four-reading/silence boundary error and requested repair. Revised two-reading crop is stable across nine Core ML variations; noisy edge levels are retained in the trial report. The revised cut has not been separately approved by listening.",
+    "evidence": "data/audio/moag/koyal-coreml-boundary-trial.json",
+    "audio": "data/audio/moag/vocabulary-repaired-clips/lesson_04_word_028.mp3",
+    "audio_sha256": "db39f867d8bc3e57f4dcda1e8bca67954ffcd7135dd1fc332589030a5d37424b"
+  },
+  {
+    "id": "lesson_04_word_029",
+    "lesson": 4,
+    "transcript": "ഒന്ന്",
+    "printed_entry": {
+      "malayalam": "ഒന്ന്",
+      "meaning": "please, would you mind (politeness marker)"
+    },
+    "placement": "vocabulary",
+    "source": "data/audio/moag/lesson_04.mp3",
+    "source_sha256": "be900b7fd30b34e5c9e489a6e3ac38c2e121043fbc065046ee02f7bc62660810",
+    "start": 170.05,
+    "end": 173.1,
+    "utterances": [
+      {
+        "start": 170.05,
+        "end": 171.1863
+      },
+      {
+        "start": 172.2576,
+        "end": 173.1
+      }
+    ],
+    "previous": {
+      "lesson": 4,
+      "transcript": "അവന്",
+      "meaning": "him, to him (dative)",
+      "status": "matched",
+      "source": "data/audio/moag/lesson_04.mp3",
+      "start": 173.0891,
+      "end": 174.138,
+      "utterances": [
+        {
+          "start": 173.0891,
+          "end": 174.138
+        }
+      ],
+      "recognition": [
+        ""
+      ],
+      "recheck": "അങ്ങനെ അങ്ങന് അവന്നെ അവന്നെ അ",
+      "adjustment": null,
+      "review": null,
+      "alignment_warning": null,
+      "path": "docs/assets/audio/moag/words/lesson_04_word_029.mp3",
+      "sha256": "d1e94e5cb72c38dbbd85dd515463df4687711262ca37a202af791fbd01e8f16a"
+    },
+    "reviewer": "automated",
+    "scope": "User identified the four-reading/silence boundary error and requested repair. Revised two-reading crop is stable across nine Core ML variations; noisy edge levels are retained in the trial report. The revised cut has not been separately approved by listening.",
+    "evidence": "data/audio/moag/koyal-coreml-boundary-trial.json",
+    "audio": "data/audio/moag/vocabulary-repaired-clips/lesson_04_word_029.mp3",
+    "audio_sha256": "8f0eac88a9982feba7488790765a738319449f71e054c0e0492fd87aacbc1269"
+  },
+  {
+    "id": "lesson_04_word_027",
+    "lesson": 4,
+    "transcript": "അവന്",
+    "printed_entry": {
+      "malayalam": "അവന്",
+      "meaning": "him, to him (dative)"
+    },
+    "placement": "vocabulary",
+    "source": "data/audio/moag/lesson_04.mp3",
+    "source_sha256": "be900b7fd30b34e5c9e489a6e3ac38c2e121043fbc065046ee02f7bc62660810",
+    "start": 163.4704,
+    "end": 165.9109,
+    "utterances": [
+      {
+        "start": 163.4704,
+        "end": 164.0585
+      },
+      {
+        "start": 165.2893,
+        "end": 165.9109
+      }
+    ],
+    "previous": {
+      "lesson": 4,
+      "transcript": "പണം",
+      "meaning": "money",
+      "status": "matched",
+      "source": "data/audio/moag/lesson_04.mp3",
+      "start": 163.4704,
+      "end": 165.9109,
+      "utterances": [
+        {
+          "start": 163.4704,
+          "end": 164.0585
+        },
+        {
+          "start": 165.2893,
+          "end": 165.9109
+        }
+      ],
+      "recognition": [
+        "അവന്",
+        "പണം"
+      ],
+      "recheck": null,
+      "adjustment": null,
+      "review": null,
+      "alignment_warning": null,
+      "path": "docs/assets/audio/moag/words/lesson_04_word_027.mp3",
+      "sha256": "5e1d19bf4be4732abee881993ffbe45ca08f5ca5f98ac67fcd4306172ecaded7"
+    },
+    "reviewer": "user",
+    "scope": "User identified the original word as അവന് and said it sounds fine; original audio bytes retained. Existing edges were checked.",
+    "evidence": "data/audio/moag/koyal-coreml-boundary-trial.json",
+    "audio": null,
+    "audio_sha256": "5e1d19bf4be4732abee881993ffbe45ca08f5ca5f98ac67fcd4306172ecaded7"
+  },
+  {
+    "id": "lesson_11_word_011",
+    "lesson": 11,
+    "transcript": "അത്ര",
+    "printed_entry": {
+      "malayalam": "അത്ര",
+      "meaning": "that much, that many, so much, so many"
+    },
+    "placement": "vocabulary",
+    "source": "data/audio/moag/lesson_11.mp3",
+    "source_sha256": "3ddb760456c6e6c294382f70f97c11fe506689c822b37c23c323911ae7e8266c",
+    "start": 161.2,
+    "end": 164.7,
+    "utterances": [
+      {
+        "start": 161.2,
+        "end": 162.1232
+      },
+      {
+        "start": 162.6857,
+        "end": 164.7
+      }
+    ],
+    "previous": {
+      "lesson": 11,
+      "transcript": "അത്ര",
+      "meaning": "that much, that many, so much, so many",
+      "status": "matched",
+      "source": "data/audio/moag/lesson_11.mp3",
+      "start": 161.3335,
+      "end": 162.1232,
+      "utterances": [
+        {
+          "start": 161.3335,
+          "end": 162.1232
+        }
+      ],
+      "recognition": [
+        "അത്രാ"
+      ],
+      "recheck": "അത്രാ",
+      "adjustment": null,
+      "review": null,
+      "alignment_warning": null,
+      "path": "docs/assets/audio/moag/words/lesson_11_word_011.mp3",
+      "sha256": "391b3c893c524dfd4d6b816bafef5934a110fe84839d9be905a0a7ae7b8f70d2"
+    },
+    "reviewer": "automated",
+    "scope": "Consolidates the two readings split across the previous 011 and 012 clips. FP16 CPU_AND_NE and NeMo agree on അത്ര twice across all nine crop variations and the encoded MP3. Original source and old artifacts retained; not user listening approval.",
+    "evidence": "data/audio/moag/koyal-fp16-atra-cut-check.json",
+    "audio": "data/audio/moag/vocabulary-repaired-clips/lesson_11_word_011.mp3",
+    "audio_sha256": "e2ab80bc9a3471c48f950189b20fa546a8bfe2b29f85650f234c78691e65d5e2"
+  }
+]

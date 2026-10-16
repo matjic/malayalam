@@ -56,64 +56,76 @@
 <div class="lesson-audio">
 <p><strong>Vocabulary audio</strong></p>
 <audio controls preload="none" aria-label="Lesson 23: Vocabulary audio" src="assets/audio/moag/sections/lesson_23_vocabulary_0.mp3"></audio>
-<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_23_vocabulary_0.mp3" aria-pressed="true">Listen · 05:15</button></div>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_23_vocabulary_0.mp3" aria-pressed="true">Listen · 05:11</button></div>
 <p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
 </div>
 <!-- /moag-audio -->
 
-| Malayalam | Meaning |
-|---|---|
-| വിനോദം | pleasure |
-| തീർച്ച | certain |
-| സൗകര്യം | convenience |
-| ---ഉണ്ടായിരുന്നെങ്കിൽ ---ആയിരുന്നു | if (we) had --- it would have been --- |
-| ---വിറ്റാൽ മതിയായിരുന്നു | it would have been good if (we) had sold --- |
-| വിദേശീയർ | foreigners |
-| സംസാരം | talk, conversation |
-| രീതി | custom |
-| അവസരം | opportunity, chance |
-| ബുധനാഴ്ച | Wednesday |
-| തുടക്കം | beginning |
-| എന്താ<br>എന്തു പറയുന്നു | What do you say? (common tag question) |
-| വ്യാഴാഴ്ച | Thursday |
-| അന്ന് | that day |
-| കാഴ്ച | sight |
-| പിറേറ | next (used only with time units) |
-| കന്യാകുമാരി | Cape Comorin (the southern tip of India) |
-| കോവളം | Kovalam (a picturesque beach near Trivandrum) |
-| താമസം | stay, residence |
-| തിരിക്കുക | to turn something; colloquial (concerning travel), to proceed, to start |
-| കടൽത്തീരം | seacoast |
-| കൂടി | along (with locative) |
-| പ്രകൃതി | nature |
-| സുന്ദരം (noun: സൗന്ദര്യം) | beautiful |
-| <!-- Source: PDF page 414; printed page 353. --> പ്രകൃതിസുന്ദരം | picturesque |
-| കിടക്കുക | to stay over |
-| ഞായറാഴ്ച | Sunday |
-| ബോട്ട് | boat |
-| തിങ്കളാഴ്ച | Monday |
-| തേക്കടി | Thekkady, a game preserve near Kottayam |
-| ഉച്ച | noon |
-| വന്യമൃഗം | wild animal |
-| സംരക്ഷണം | protection |
-| കേന്ദ്രം | center |
-| വന്യമൃഗസംരക്ഷണകേന്ദ്രം | wildlife sanctuary |
-| ---വഴി | via ---, by way of --- |
-| ചൊവ്വാഴ്ച | Tuesday |
-| പൂരം | a famous temple festival in Trichur |
-| പുതുമ | novelty |
-| വരുന്നവഴിക്ക് | on the way |
-| ഗുരുവായൂർ | Guruvayoor, a pilgrimage spot near Calicut |
-| തിരക്കേറിയ | crowded |
-| വിശ്രമം | rest, relaxation |
-| അവധി | vacation, leave, holiday |
-| മേല (with infinitive) | can’t (dative subject) |
-| എടുത്തേനേ | would have taken |
-| --- ചെയ്തേക്കു | why don’t (you) go ahead and --- |
-| ഒന്നാം ക്ലാസ് | first class |
-| എടുക്കരുതേ | for heaven’s sake don’t get (take) |
-| രണ്ടാം ക്ലാസ് | second class |
-| --- ചെയ്തേക്കാം | might as well do --- (signifies acquiescence) |
+<!-- moag-vocabulary-words -->
+<div class="lesson-audio">
+<p><strong>Selected vocabulary recording</strong></p>
+<audio data-table-audio-player controls preload="none" aria-label="Lesson 23: select a word in the vocabulary table"></audio>
+<p class="lesson-audio-note">Use the Audio column to hear a word. Recorded variants appear beside their written entry; additional recorded forms are included in the same table. Unconfirmed recordings stay in rows marked “check match” until their word is verified. A dash means no aligned recording yet.</p>
+</div>
+<!-- /moag-vocabulary-words -->
+
+| Malayalam | Meaning | Audio |
+|---|---|---|
+| വിനോദം | pleasure | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_001.mp3" data-audio-label="വിനോദം" aria-label="Play വിനോദം" title="Play വിനോദം" aria-pressed="false">▶</button> |
+| തീർച്ച | certain | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_002.mp3" data-audio-label="തീർച്ച" aria-label="Play തീർച്ച" title="Play തീർച്ച" aria-pressed="false">▶</button> |
+| സൗകര്യം | convenience | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_003.mp3" data-audio-label="സൗകര്യം" aria-label="Play സൗകര്യം" title="Play സൗകര്യം" aria-pressed="false">▶</button> |
+| ---ഉണ്ടായിരുന്നെങ്കിൽ ---ആയിരുന്നു | if (we) had --- it would have been --- | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| ---വിറ്റാൽ മതിയായിരുന്നു | it would have been good if (we) had sold --- | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| വിദേശീയർ | foreigners | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_008.mp3" data-audio-label="വിദേശീയർ" aria-label="Play വിദേശീയർ" title="Play വിദേശീയർ" aria-pressed="false">▶</button> |
+| സംസാരം | talk, conversation | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_009.mp3" data-audio-label="സംസാരം" aria-label="Play സംസാരം" title="Play സംസാരം" aria-pressed="false">▶</button> |
+| രീതി | custom | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_010.mp3" data-audio-label="രീതി" aria-label="Play രീതി" title="Play രീതി" aria-pressed="false">▶</button> |
+| അവസരം | opportunity, chance | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_011.mp3" data-audio-label="അവസരം" aria-label="Play അവസരം" title="Play അവസരം" aria-pressed="false">▶</button> |
+| ബുധനാഴ്ച | Wednesday | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_012.mp3" data-audio-label="ബുധനാഴ്ച" aria-label="Play ബുധനാഴ്ച" title="Play ബുധനാഴ്ച" aria-pressed="false">▶</button> |
+| തുടക്കം | beginning | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_013.mp3" data-audio-label="തുടക്കം" aria-label="Play തുടക്കം" title="Play തുടക്കം" aria-pressed="false">▶</button> |
+| എന്താ<br>എന്തു പറയുന്നു | What do you say? (common tag question) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_014.mp3" data-audio-label="എന്താ" aria-label="Play എന്താ" title="Play എന്താ" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_015.mp3" data-audio-label="എന്തു പറയുന്നു" aria-label="Play എന്തു പറയുന്നു" title="Play എന്തു പറയുന്നു" aria-pressed="false">▶ <span lang="ml">എന്തു പറയുന്നു</span></button> |
+| വ്യാഴാഴ്ച | Thursday | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_016.mp3" data-audio-label="വ്യാഴാഴ്ച" aria-label="Play വ്യാഴാഴ്ച" title="Play വ്യാഴാഴ്ച" aria-pressed="false">▶</button> |
+| അന്ന് | that day | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_017.mp3" data-audio-label="അന്ന്" aria-label="Play അന്ന്" title="Play അന്ന്" aria-pressed="false">▶</button> |
+| കാഴ്ച | sight | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_018.mp3" data-audio-label="കാഴ്ച" aria-label="Play കാഴ്ച" title="Play കാഴ്ച" aria-pressed="false">▶</button> |
+| പിറേറ | next (used only with time units) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_019.mp3" data-audio-label="പിറേറ" aria-label="Play പിറേറ" title="Play പിറേറ" aria-pressed="false">▶</button> |
+| കന്യാകുമാരി | Cape Comorin (the southern tip of India) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_020.mp3" data-audio-label="കന്യാകുമാരി" aria-label="Play കന്യാകുമാരി" title="Play കന്യാകുമാരി" aria-pressed="false">▶</button> |
+| കോവളം | Kovalam (a picturesque beach near Trivandrum) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_021.mp3" data-audio-label="കോവളം" aria-label="Play കോവളം" title="Play കോവളം" aria-pressed="false">▶</button> |
+| താമസം | stay, residence | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_022.mp3" data-audio-label="താമസം" aria-label="Play താമസം" title="Play താമസം" aria-pressed="false">▶</button> |
+| തിരിക്കുക | to turn something; colloquial (concerning travel), to proceed, to start | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_023.mp3" data-audio-label="തിരിക്കുക" aria-label="Play തിരിക്കുക" title="Play തിരിക്കുക" aria-pressed="false">▶</button> |
+| കടൽത്തീരം | seacoast | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_024.mp3" data-audio-label="കടൽത്തീരം" aria-label="Play കടൽത്തീരം" title="Play കടൽത്തീരം" aria-pressed="false">▶</button> |
+| കൂടി | along (with locative) | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| പ്രകൃതി | nature | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_025.mp3" data-audio-label="പ്രകൃതി" aria-label="Play പ്രകൃതി" title="Play പ്രകൃതി" aria-pressed="false">▶</button> |
+| സുന്ദരം (noun: സൗന്ദര്യം) | beautiful | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_026.mp3" data-audio-label="സുന്ദരം" aria-label="Play സുന്ദരം" title="Play സുന്ദരം" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_027.mp3" data-audio-label="സൗന്ദര്യം" aria-label="Play സൗന്ദര്യം" title="Play സൗന്ദര്യം" aria-pressed="false">▶ <span lang="ml">സൗന്ദര്യം</span></button> |
+| <!-- Source: PDF page 414; printed page 353. --> പ്രകൃതിസുന്ദരം | picturesque | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_028.mp3" data-audio-label="പ്രകൃതിസുന്ദരം" aria-label="Play പ്രകൃതിസുന്ദരം" title="Play പ്രകൃതിസുന്ദരം" aria-pressed="false">▶</button> |
+| കിടക്കുക | to stay over | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_029.mp3" data-audio-label="കിടക്കുക" aria-label="Play കിടക്കുക" title="Play കിടക്കുക" aria-pressed="false">▶</button> |
+| ഞായറാഴ്ച | Sunday | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_030.mp3" data-audio-label="ഞായറാഴ്ച" aria-label="Play ഞായറാഴ്ച" title="Play ഞായറാഴ്ച" aria-pressed="false">▶</button> |
+| ബോട്ട് | boat | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_031.mp3" data-audio-label="ബോട്ട്" aria-label="Play ബോട്ട്" title="Play ബോട്ട്" aria-pressed="false">▶</button> |
+| തിങ്കളാഴ്ച | Monday | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_032.mp3" data-audio-label="തിങ്കളാഴ്ച" aria-label="Play തിങ്കളാഴ്ച" title="Play തിങ്കളാഴ്ച" aria-pressed="false">▶</button> |
+| തേക്കടി | Thekkady, a game preserve near Kottayam | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_033.mp3" data-audio-label="തേക്കടി" aria-label="Play തേക്കടി" title="Play തേക്കടി" aria-pressed="false">▶</button> |
+| ഉച്ച | noon | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_034.mp3" data-audio-label="ഉച്ച" aria-label="Play ഉച്ച" title="Play ഉച്ച" aria-pressed="false">▶</button> |
+| വന്യമൃഗം | wild animal | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_035.mp3" data-audio-label="വന്യമൃഗം" aria-label="Play വന്യമൃഗം" title="Play വന്യമൃഗം" aria-pressed="false">▶</button> |
+| സംരക്ഷണം | protection | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_036.mp3" data-audio-label="സംരക്ഷണം" aria-label="Play സംരക്ഷണം" title="Play സംരക്ഷണം" aria-pressed="false">▶</button> |
+| കേന്ദ്രം | center | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_037.mp3" data-audio-label="കേന്ദ്രം" aria-label="Play കേന്ദ്രം" title="Play കേന്ദ്രം" aria-pressed="false">▶</button> |
+| വന്യമൃഗസംരക്ഷണകേന്ദ്രം | wildlife sanctuary | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_038.mp3" data-audio-label="വന്യമൃഗസംരക്ഷണകേന്ദ്രം" aria-label="Play വന്യമൃഗസംരക്ഷണകേന്ദ്രം" title="Play വന്യമൃഗസംരക്ഷണകേന്ദ്രം" aria-pressed="false">▶</button> |
+| ---വഴി | via ---, by way of --- | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_039.mp3" data-audio-label="വഴി" aria-label="Play വഴി" title="Play വഴി" aria-pressed="false">▶</button> |
+| ചൊവ്വാഴ്ച | Tuesday | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_040.mp3" data-audio-label="ചൊവ്വാഴ്ച" aria-label="Play ചൊവ്വാഴ്ച" title="Play ചൊവ്വാഴ്ച" aria-pressed="false">▶</button> |
+| പൂരം | a famous temple festival in Trichur | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_041.mp3" data-audio-label="പൂരം" aria-label="Play പൂരം" title="Play പൂരം" aria-pressed="false">▶</button> |
+| പുതുമ | novelty | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_042.mp3" data-audio-label="പുതുമ" aria-label="Play പുതുമ" title="Play പുതുമ" aria-pressed="false">▶</button> |
+| വരുന്നവഴിക്ക് | on the way | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_043.mp3" data-audio-label="വരുന്നവഴിക്ക്" aria-label="Play വരുന്നവഴിക്ക്" title="Play വരുന്നവഴിക്ക്" aria-pressed="false">▶</button> |
+| ഗുരുവായൂർ | Guruvayoor, a pilgrimage spot near Calicut | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_044.mp3" data-audio-label="ഗുരുവായൂർ" aria-label="Play ഗുരുവായൂർ" title="Play ഗുരുവായൂർ" aria-pressed="false">▶</button> |
+| തിരക്കേറിയ | crowded | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_045.mp3" data-audio-label="തിരക്കേറിയ" aria-label="Play തിരക്കേറിയ" title="Play തിരക്കേറിയ" aria-pressed="false">▶</button> |
+| വിശ്രമം | rest, relaxation | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_046.mp3" data-audio-label="വിശ്രമം" aria-label="Play വിശ്രമം" title="Play വിശ്രമം" aria-pressed="false">▶</button> |
+| അവധി | vacation, leave, holiday | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_047.mp3" data-audio-label="അവധി" aria-label="Play അവധി" title="Play അവധി" aria-pressed="false">▶</button> |
+| മേല (with infinitive) | can’t (dative subject) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_048.mp3" data-audio-label="മേല" aria-label="Play മേല" title="Play മേല" aria-pressed="false">▶</button> |
+| എടുത്തേനേ | would have taken | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_049.mp3" data-audio-label="എടുത്തേനേ" aria-label="Play എടുത്തേനേ" title="Play എടുത്തേനേ" aria-pressed="false">▶</button> |
+| --- ചെയ്തേക്കു | why don’t (you) go ahead and --- | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_050.mp3" data-audio-label="ചെയ്തേക്കു" aria-label="Play ചെയ്തേക്കു" title="Play ചെയ്തേക്കു" aria-pressed="false">▶</button> |
+| ഒന്നാം ക്ലാസ് | first class | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_051.mp3" data-audio-label="ഒന്നാം ക്ലാസ്" aria-label="Play ഒന്നാം ക്ലാസ്" title="Play ഒന്നാം ക്ലാസ്" aria-pressed="false">▶</button> |
+| എടുക്കരുതേ | for heaven’s sake don’t get (take) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_052.mp3" data-audio-label="എടുക്കരുതേ" aria-label="Play എടുക്കരുതേ" title="Play എടുക്കരുതേ" aria-pressed="false">▶</button> |
+| രണ്ടാം ക്ലാസ് | second class | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_053.mp3" data-audio-label="രണ്ടാം ക്ലാസ്" aria-label="Play രണ്ടാം ക്ലാസ്" title="Play രണ്ടാം ക്ലാസ്" aria-pressed="false">▶</button> |
+| --- ചെയ്തേക്കാം | might as well do --- (signifies acquiescence) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_054.mp3" data-audio-label="ചെയ്തേക്കാം" aria-label="Play ചെയ്തേക്കാം" title="Play ചെയ്തേക്കാം" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> ഉണ്ടായിരുന്നെങ്കിൽ | if there had been; if (someone) had had | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_004.mp3" data-audio-label="ഉണ്ടായിരുന്നെങ്കിൽ" aria-label="Play ഉണ്ടായിരുന്നെങ്കിൽ" title="Play ഉണ്ടായിരുന്നെങ്കിൽ" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> ആയിരുന്നു | was; were | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_005.mp3" data-audio-label="ആയിരുന്നു" aria-label="Play ആയിരുന്നു" title="Play ആയിരുന്നു" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> വിറ്റാൽ | if (one) sells | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_006.mp3" data-audio-label="വിറ്റാൽ" aria-label="Play വിറ്റാൽ" title="Play വിറ്റാൽ" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> മതിയായിരുന്നു | would have been enough | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_007.mp3" data-audio-label="മതിയായിരുന്നു" aria-label="Play മതിയായിരുന്നു" title="Play മതിയായിരുന്നു" aria-pressed="false">▶</button> |
 
 <!-- Source: PDF page 415; printed page 354. -->
 

@@ -1,0 +1,1836 @@
+{
+  "pipeline_version": 6,
+  "lesson": 14,
+  "source": "data/audio/moag/lesson_14.mp3",
+  "model": "Whisper large-v3 (32 encoder and 32 decoder layers), MLX",
+  "range_start": 182.65,
+  "range_end": 423.9,
+  "method": "Acoustic cepstrum comparison pairs repeated utterances independently of textbook order; large-v3 word end timestamps matched to pauses, then global spelling assignment against printed vocabulary (order is only a weak tie-breaker). Low-confidence labels require review. Raw recognizer text retained.",
+  "words": [
+    {
+      "utterances": [
+        {
+          "start": 184.4902,
+          "end": 185.2835
+        },
+        {
+          "start": 186.1815,
+          "end": 187.0545
+        }
+      ],
+      "raw_texts": [
+        "വാരതാ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 182.65,
+          "end": 186.65,
+          "text": " VARTHAA"
+        },
+        {
+          "start": 186.65,
+          "end": 190.65,
+          "text": " CHURUKKAM"
+        }
+      ],
+      "transcript": "വാർത്ത",
+      "meaning": "news",
+      "textbook_row": 2,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_14_word_001"
+    },
+    {
+      "utterances": [
+        {
+          "start": 188.1914,
+          "end": 189.0297
+        },
+        {
+          "start": 189.9146,
+          "end": 190.7429
+        }
+      ],
+      "raw_texts": [
+        "ചുരുക്കം",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 186.65,
+          "end": 190.65,
+          "text": " CHURUKKAM"
+        }
+      ],
+      "transcript": "ചുരുക്കം",
+      "meaning": "brief",
+      "textbook_row": 28,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_14_word_002"
+    },
+    {
+      "utterances": [
+        {
+          "start": 191.9479,
+          "end": 192.6727
+        },
+        {
+          "start": 193.6528,
+          "end": 194.5037
+        }
+      ],
+      "raw_texts": [
+        "ഓടാ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 190.65,
+          "end": 211.65,
+          "text": " otta nottam vivaham vedhi vivahitar"
+        }
+      ],
+      "transcript": "ഒറ്റ",
+      "meaning": "one",
+      "textbook_row": 29,
+      "similarity": 0.8,
+      "status": "matched",
+      "id": "lesson_14_word_003"
+    },
+    {
+      "utterances": [
+        {
+          "start": 195.9025,
+          "end": 196.6463
+        },
+        {
+          "start": 197.8409,
+          "end": 198.6118
+        }
+      ],
+      "raw_texts": [
+        "നോടമ്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 190.65,
+          "end": 211.65,
+          "text": " otta nottam vivaham vedhi vivahitar"
+        }
+      ],
+      "transcript": "നോട്ടം",
+      "meaning": "look",
+      "textbook_row": 30,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_14_word_004"
+    },
+    {
+      "utterances": [
+        {
+          "start": 199.8278,
+          "end": 200.8023
+        },
+        {
+          "start": 201.9484,
+          "end": 202.8059
+        }
+      ],
+      "raw_texts": [
+        "വിവാഹം",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 190.65,
+          "end": 211.65,
+          "text": " otta nottam vivaham vedhi vivahitar"
+        }
+      ],
+      "transcript": "വിവാഹം",
+      "meaning": "marriage",
+      "textbook_row": 31,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_14_word_005"
+    },
+    {
+      "utterances": [
+        {
+          "start": 204.0816,
+          "end": 205.3027
+        },
+        {
+          "start": 205.562,
+          "end": 207.6275
+        }
+      ],
+      "raw_texts": [
+        "വേധീ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 190.65,
+          "end": 211.65,
+          "text": " otta nottam vivaham vedhi vivahitar"
+        }
+      ],
+      "transcript": "വേദി",
+      "meaning": "stage, section",
+      "textbook_row": 16,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_14_word_006"
+    },
+    {
+      "utterances": [
+        {
+          "start": 208.0895,
+          "end": 209.0993
+        },
+        {
+          "start": 210.1916,
+          "end": 211.7652
+        }
+      ],
+      "raw_texts": [
+        "വിവാഹിതര",
+        "വിവാഹിതര"
+      ],
+      "english_segments": [
+        {
+          "start": 190.65,
+          "end": 211.65,
+          "text": " otta nottam vivaham vedhi vivahitar"
+        }
+      ],
+      "transcript": "വിവാഹിതർ",
+      "meaning": "married persons",
+      "textbook_row": 32,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_14_word_007"
+    },
+    {
+      "utterances": [
+        {
+          "start": 212.0659,
+          "end": 213.3366
+        },
+        {
+          "start": 214.5652,
+          "end": 215.4062
+        }
+      ],
+      "raw_texts": [
+        "യുവാവ",
+        "യുവാവ"
+      ],
+      "english_segments": [
+        {
+          "start": 211.65,
+          "end": 228.65,
+          "text": " yuvava yuvati rangam vyaparam"
+        }
+      ],
+      "transcript": "യുവാവ്",
+      "meaning": "young man",
+      "textbook_row": 5,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_14_word_008"
+    },
+    {
+      "utterances": [
+        {
+          "start": 216.6857,
+          "end": 217.4721
+        },
+        {
+          "start": 218.7555,
+          "end": 219.5093
+        }
+      ],
+      "raw_texts": [
+        "യുവത്ത്",
+        "യുവത്"
+      ],
+      "english_segments": [
+        {
+          "start": 211.65,
+          "end": 228.65,
+          "text": " yuvava yuvati rangam vyaparam"
+        }
+      ],
+      "transcript": "യുവതി",
+      "meaning": "young woman",
+      "textbook_row": 4,
+      "similarity": 0.889,
+      "status": "matched",
+      "id": "lesson_14_word_009"
+    },
+    {
+      "utterances": [
+        {
+          "start": 220.7338,
+          "end": 221.4973
+        },
+        {
+          "start": 222.7294,
+          "end": 223.5139
+        }
+      ],
+      "raw_texts": [
+        "രങ്ങമ്",
+        "രങ്ങമ്"
+      ],
+      "english_segments": [
+        {
+          "start": 211.65,
+          "end": 228.65,
+          "text": " yuvava yuvati rangam vyaparam"
+        }
+      ],
+      "transcript": "ചരമം",
+      "meaning": "death",
+      "textbook_row": 36,
+      "similarity": 0.667,
+      "status": "review",
+      "id": "lesson_14_word_010"
+    },
+    {
+      "utterances": [
+        {
+          "start": 224.9878,
+          "end": 225.9342
+        },
+        {
+          "start": 227.0882,
+          "end": 227.9825
+        }
+      ],
+      "raw_texts": [
+        "വിആപാരം",
+        "വിആപാരം"
+      ],
+      "english_segments": [
+        {
+          "start": 211.65,
+          "end": 228.65,
+          "text": " yuvava yuvati rangam vyaparam"
+        }
+      ],
+      "transcript": "വ്യാപാരം",
+      "meaning": "business, trade",
+      "textbook_row": 34,
+      "similarity": 0.714,
+      "status": "matched",
+      "id": "lesson_14_word_011"
+    },
+    {
+      "utterances": [
+        {
+          "start": 229.3244,
+          "end": 230.3083
+        },
+        {
+          "start": 231.5637,
+          "end": 232.4865
+        }
+      ],
+      "raw_texts": [
+        "നിലവാരം",
+        "നിലവാരം"
+      ],
+      "english_segments": [
+        {
+          "start": 228.65,
+          "end": 242.65,
+          "text": " nila varam nila varam niriyanam niriyanam maranam maranam"
+        }
+      ],
+      "transcript": "നിലവാരം",
+      "meaning": "state, situation, standard",
+      "textbook_row": 35,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_14_word_012"
+    },
+    {
+      "utterances": [
+        {
+          "start": 233.817,
+          "end": 234.7934
+        },
+        {
+          "start": 235.9213,
+          "end": 236.8999
+        }
+      ],
+      "raw_texts": [
+        "നിരിയാണം",
+        "നിരിയാണം"
+      ],
+      "english_segments": [
+        {
+          "start": 228.65,
+          "end": 242.65,
+          "text": " nila varam nila varam niriyanam niriyanam maranam maranam"
+        }
+      ],
+      "transcript": "രംഗം",
+      "meaning": "scene",
+      "textbook_row": 7,
+      "similarity": 0.333,
+      "status": "review",
+      "id": "lesson_14_word_013"
+    },
+    {
+      "utterances": [
+        {
+          "start": 238.1624,
+          "end": 238.9186
+        },
+        {
+          "start": 240.2477,
+          "end": 241.0115
+        }
+      ],
+      "raw_texts": [
+        "മരണം",
+        "മരണം"
+      ],
+      "english_segments": [
+        {
+          "start": 228.65,
+          "end": 242.65,
+          "text": " nila varam nila varam niriyanam niriyanam maranam maranam"
+        }
+      ],
+      "transcript": "മരണം",
+      "meaning": "death",
+      "textbook_row": 37,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_14_word_014"
+    },
+    {
+      "utterances": [
+        {
+          "start": 242.5637,
+          "end": 243.4536
+        },
+        {
+          "start": 244.7293,
+          "end": 245.6421
+        }
+      ],
+      "raw_texts": [
+        "ഇന്നത്ത്",
+        "ഇന്നത്"
+      ],
+      "english_segments": [
+        {
+          "start": 242.65,
+          "end": 251.07,
+          "text": " Innatte Chinda"
+        }
+      ],
+      "transcript": "ഇന്നത്തെ",
+      "meaning": "today's",
+      "textbook_row": 20,
+      "similarity": 0.857,
+      "status": "matched",
+      "id": "lesson_14_word_015"
+    },
+    {
+      "utterances": [
+        {
+          "start": 246.8764,
+          "end": 247.678
+        },
+        {
+          "start": 248.7947,
+          "end": 249.5515
+        }
+      ],
+      "raw_texts": [
+        "ചിന്ദാ",
+        "ചിന്ദാ"
+      ],
+      "english_segments": [
+        {
+          "start": 242.65,
+          "end": 251.07,
+          "text": " Innatte Chinda"
+        }
+      ],
+      "transcript": "ചിന്ത",
+      "meaning": "thought",
+      "textbook_row": 38,
+      "similarity": 0.889,
+      "status": "matched",
+      "id": "lesson_14_word_016"
+    },
+    {
+      "utterances": [
+        {
+          "start": 250.9607,
+          "end": 251.7606
+        },
+        {
+          "start": 253.0615,
+          "end": 253.825
+        }
+      ],
+      "raw_texts": [
+        "പിഷയം",
+        "പിഷയം"
+      ],
+      "english_segments": [
+        {
+          "start": 251.07,
+          "end": 259.47,
+          "text": " Vishayam Abhiprayam"
+        }
+      ],
+      "transcript": "വിഷയം",
+      "meaning": "subject",
+      "textbook_row": 39,
+      "similarity": 0.8,
+      "status": "matched",
+      "id": "lesson_14_word_017"
+    },
+    {
+      "utterances": [
+        {
+          "start": 254.9258,
+          "end": 256.1915
+        },
+        {
+          "start": 257.2654,
+          "end": 258.2751
+        }
+      ],
+      "raw_texts": [
+        "അഭിപ്രായം",
+        "അഭിപ്രായം"
+      ],
+      "english_segments": [
+        {
+          "start": 251.07,
+          "end": 259.47,
+          "text": " Vishayam Abhiprayam"
+        }
+      ],
+      "transcript": "അഭിപ്രായം",
+      "meaning": "opinion, criticism",
+      "textbook_row": 40,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_14_word_018"
+    },
+    {
+      "utterances": [
+        {
+          "start": 259.38,
+          "end": 260.3428
+        },
+        {
+          "start": 261.401,
+          "end": 262.349
+        }
+      ],
+      "raw_texts": [
+        "പരിപാഡി",
+        "പരിപാഡി"
+      ],
+      "english_segments": [
+        {
+          "start": 259.47,
+          "end": 267.71,
+          "text": " Paripadi Patram"
+        }
+      ],
+      "transcript": "പരിപാടി",
+      "meaning": "program",
+      "textbook_row": 21,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_14_word_019"
+    },
+    {
+      "utterances": [
+        {
+          "start": 263.5394,
+          "end": 264.302
+        },
+        {
+          "start": 265.1114,
+          "end": 266.3151
+        }
+      ],
+      "raw_texts": [
+        "പത്രമ്",
+        "പത്രമ്"
+      ],
+      "english_segments": [
+        {
+          "start": 259.47,
+          "end": 267.71,
+          "text": " Paripadi Patram"
+        }
+      ],
+      "transcript": "പത്രം",
+      "meaning": "newspaper",
+      "textbook_row": 0,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_14_word_020"
+    },
+    {
+      "utterances": [
+        {
+          "start": 267.6424,
+          "end": 268.7293
+        },
+        {
+          "start": 269.9056,
+          "end": 271.0211
+        }
+      ],
+      "raw_texts": [
+        "പത്രാധ്പ്പ്ര",
+        "പത്രാധ്പ്പ്ര"
+      ],
+      "english_segments": [
+        {
+          "start": 267.71,
+          "end": 276.39,
+          "text": " Patrādhipar Kurippa"
+        }
+      ],
+      "transcript": "പത്രാധിപർ",
+      "meaning": "editor",
+      "textbook_row": 41,
+      "similarity": 0.933,
+      "status": "matched",
+      "id": "lesson_14_word_021"
+    },
+    {
+      "utterances": [
+        {
+          "start": 272.2317,
+          "end": 273.0361
+        },
+        {
+          "start": 274.2134,
+          "end": 275.0253
+        }
+      ],
+      "raw_texts": [
+        "കുരുപ്",
+        "കുരുപ്"
+      ],
+      "english_segments": [
+        {
+          "start": 267.71,
+          "end": 276.39,
+          "text": " Patrādhipar Kurippa"
+        }
+      ],
+      "transcript": "കുറിപ്പ്",
+      "meaning": "note (noun)",
+      "textbook_row": 42,
+      "similarity": 0.8,
+      "status": "matched",
+      "id": "lesson_14_word_022"
+    },
+    {
+      "utterances": [
+        {
+          "start": 276.3541,
+          "end": 277.0658
+        },
+        {
+          "start": 278.1119,
+          "end": 278.8269
+        }
+      ],
+      "raw_texts": [
+        "മുഖം",
+        "മുഖം"
+      ],
+      "english_segments": [
+        {
+          "start": 276.39,
+          "end": 284.47,
+          "text": " Mukham Prasangam"
+        }
+      ],
+      "transcript": "മുഖം",
+      "meaning": "face",
+      "textbook_row": 43,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_14_word_023"
+    },
+    {
+      "utterances": [
+        {
+          "start": 280.1365,
+          "end": 280.9778
+        },
+        {
+          "start": 282.1365,
+          "end": 282.9909
+        }
+      ],
+      "raw_texts": [
+        "പരസങ്ങം",
+        "പരസങ്ങം"
+      ],
+      "english_segments": [
+        {
+          "start": 276.39,
+          "end": 284.47,
+          "text": " Mukham Prasangam"
+        }
+      ],
+      "transcript": "പരസ്യം",
+      "meaning": "advertisement",
+      "textbook_row": 23,
+      "similarity": 0.8,
+      "status": "matched",
+      "id": "lesson_14_word_024"
+    },
+    {
+      "utterances": [
+        {
+          "start": 284.2091,
+          "end": 285.0624
+        },
+        {
+          "start": 286.2721,
+          "end": 286.9047
+        }
+      ],
+      "raw_texts": [
+        "കലാ",
+        "കലാ"
+      ],
+      "english_segments": [
+        {
+          "start": 276.39,
+          "end": 284.47,
+          "text": " Mukham Prasangam"
+        },
+        {
+          "start": 284.47,
+          "end": 292.79,
+          "text": " Kala Sāhityam"
+        }
+      ],
+      "transcript": "കല",
+      "meaning": "art",
+      "textbook_row": 15,
+      "similarity": 0.8,
+      "status": "matched",
+      "id": "lesson_14_word_025"
+    },
+    {
+      "utterances": [
+        {
+          "start": 288.272,
+          "end": 289.2259
+        },
+        {
+          "start": 290.4012,
+          "end": 291.3762
+        }
+      ],
+      "raw_texts": [
+        "സാഹിത്യം",
+        "സാഹിത്യം"
+      ],
+      "english_segments": [
+        {
+          "start": 284.47,
+          "end": 292.79,
+          "text": " Kala Sāhityam"
+        }
+      ],
+      "transcript": "സാഹിത്യം",
+      "meaning": "literature",
+      "textbook_row": 13,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_14_word_026"
+    },
+    {
+      "utterances": [
+        {
+          "start": 292.3044,
+          "end": 293.3561
+        },
+        {
+          "start": 294.8645,
+          "end": 295.4655
+        }
+      ],
+      "raw_texts": [
+        "തരം",
+        "തരം"
+      ],
+      "english_segments": [
+        {
+          "start": 284.47,
+          "end": 292.79,
+          "text": " Kala Sāhityam"
+        },
+        {
+          "start": 292.79,
+          "end": 301.47,
+          "text": " Tharam Tharaatharam"
+        }
+      ],
+      "transcript": "തരം",
+      "meaning": "type",
+      "textbook_row": 24,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_14_word_027"
+    },
+    {
+      "utterances": [
+        {
+          "start": 296.8563,
+          "end": 297.7822
+        },
+        {
+          "start": 299.1138,
+          "end": 300.0736
+        }
+      ],
+      "raw_texts": [
+        "തരാതരം",
+        "തരാതരം"
+      ],
+      "english_segments": [
+        {
+          "start": 292.79,
+          "end": 301.47,
+          "text": " Tharam Tharaatharam"
+        }
+      ],
+      "transcript": "തരാതരം",
+      "meaning": "various",
+      "textbook_row": 25,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_14_word_028"
+    },
+    {
+      "utterances": [
+        {
+          "start": 301.4014,
+          "end": 302.2291
+        },
+        {
+          "start": 303.2629,
+          "end": 304.1393
+        }
+      ],
+      "raw_texts": [
+        "വില്പണാ",
+        "വില്പണാ"
+      ],
+      "english_segments": [
+        {
+          "start": 301.47,
+          "end": 309.79,
+          "text": " Vilpana Vaataka"
+        }
+      ],
+      "transcript": "വിൽപ്പന",
+      "meaning": "sale",
+      "textbook_row": 26,
+      "similarity": 0.909,
+      "status": "matched",
+      "id": "lesson_14_word_029"
+    },
+    {
+      "utterances": [
+        {
+          "start": 305.3534,
+          "end": 306.141
+        },
+        {
+          "start": 307.4757,
+          "end": 308.3475
+        }
+      ],
+      "raw_texts": [
+        "വാടക",
+        "വാടക വാടക വാടക വാടക വാടക വാടക വാടക വാടക വാടക വാടക"
+      ],
+      "english_segments": [
+        {
+          "start": 301.47,
+          "end": 309.79,
+          "text": " Vilpana Vaataka"
+        }
+      ],
+      "transcript": "വാടക",
+      "meaning": "rent",
+      "textbook_row": 47,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_14_word_030"
+    },
+    {
+      "utterances": [
+        {
+          "start": 309.7195,
+          "end": 310.5181
+        },
+        {
+          "start": 311.9707,
+          "end": 312.7427
+        }
+      ],
+      "raw_texts": [
+        "അരിവ",
+        "അരിവ"
+      ],
+      "english_segments": [
+        {
+          "start": 309.79,
+          "end": 319.19,
+          "text": " Ariva Ariyikkuga"
+        }
+      ],
+      "transcript": "അറിവ്",
+      "meaning": "knowledge",
+      "textbook_row": 48,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_14_word_031"
+    },
+    {
+      "utterances": [
+        {
+          "start": 314.2493,
+          "end": 315.3782
+        },
+        {
+          "start": 316.3792,
+          "end": 317.7425
+        }
+      ],
+      "raw_texts": [
+        "അരിയിക്ക്ക്ക്",
+        "അരിയിക്ക്ക്"
+      ],
+      "english_segments": [
+        {
+          "start": 309.79,
+          "end": 319.19,
+          "text": " Ariva Ariyikkuga"
+        }
+      ],
+      "transcript": "അറിയിക്കുക",
+      "meaning": "to make known",
+      "textbook_row": 49,
+      "similarity": 0.857,
+      "status": "matched",
+      "id": "lesson_14_word_032"
+    },
+    {
+      "utterances": [
+        {
+          "start": 319.115,
+          "end": 320.0362
+        },
+        {
+          "start": 321.4477,
+          "end": 322.3785
+        }
+      ],
+      "raw_texts": [
+        "അരിപ്",
+        "അരിയിപ്"
+      ],
+      "english_segments": [
+        {
+          "start": 319.19,
+          "end": 323.87,
+          "text": " Haripa"
+        }
+      ],
+      "transcript": "അറിയിപ്പ്",
+      "meaning": "notice, announcement",
+      "textbook_row": 50,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_14_word_033"
+    },
+    {
+      "utterances": [
+        {
+          "start": 323.8461,
+          "end": 324.689
+        },
+        {
+          "start": 326.2543,
+          "end": 327.1821
+        }
+      ],
+      "raw_texts": [
+        "വായന",
+        "വായന"
+      ],
+      "english_segments": [
+        {
+          "start": 323.87,
+          "end": 328.67,
+          "text": " Vayana"
+        }
+      ],
+      "transcript": "വായന",
+      "meaning": "reading (noun)",
+      "textbook_row": 51,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_14_word_034"
+    },
+    {
+      "utterances": [
+        {
+          "start": 328.5958,
+          "end": 329.7886
+        },
+        {
+          "start": 331.3031,
+          "end": 332.4902
+        }
+      ],
+      "raw_texts": [
+        "വായനക്ക്ക്ക്",
+        "വായനക്ക്ക്"
+      ],
+      "english_segments": [
+        {
+          "start": 328.67,
+          "end": 333.85,
+          "text": " Vayanakkar"
+        }
+      ],
+      "transcript": "വായനക്കാർ",
+      "meaning": "readers",
+      "textbook_row": 52,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_14_word_035"
+    },
+    {
+      "utterances": [
+        {
+          "start": 333.7956,
+          "end": 334.5328
+        },
+        {
+          "start": 335.9105,
+          "end": 336.6392
+        }
+      ],
+      "raw_texts": [
+        "കത്ത്",
+        "കത്ത്"
+      ],
+      "english_segments": [
+        {
+          "start": 333.85,
+          "end": 338.25,
+          "text": " Katha"
+        }
+      ],
+      "transcript": "കത്ത്",
+      "meaning": "letter",
+      "textbook_row": 53,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_14_word_036"
+    },
+    {
+      "utterances": [
+        {
+          "start": 338.1847,
+          "end": 338.844
+        },
+        {
+          "start": 340.4517,
+          "end": 341.0401
+        }
+      ],
+      "raw_texts": [
+        "കളി",
+        "കളി"
+      ],
+      "english_segments": [
+        {
+          "start": 338.25,
+          "end": 342.75,
+          "text": " Kali"
+        }
+      ],
+      "transcript": "കളി",
+      "meaning": "game",
+      "textbook_row": 9,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_14_word_037"
+    },
+    {
+      "utterances": [
+        {
+          "start": 342.6882,
+          "end": 343.5953
+        },
+        {
+          "start": 344.9777,
+          "end": 345.8829
+        }
+      ],
+      "raw_texts": [
+        "കളിക്കുക",
+        "കളിക്കുക"
+      ],
+      "english_segments": [
+        {
+          "start": 342.75,
+          "end": 347.49,
+          "text": " Kalikkuga"
+        }
+      ],
+      "transcript": "കളിക്കുക",
+      "meaning": "to play",
+      "textbook_row": 10,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_14_word_038"
+    },
+    {
+      "utterances": [
+        {
+          "start": 347.0164,
+          "end": 348.2659
+        },
+        {
+          "start": 349.8627,
+          "end": 350.6944
+        }
+      ],
+      "raw_texts": [
+        "കളിച്ചു",
+        "കളിച്ച്"
+      ],
+      "english_segments": [
+        {
+          "start": 342.75,
+          "end": 347.49,
+          "text": " Kalikkuga"
+        },
+        {
+          "start": 347.49,
+          "end": 353.17,
+          "text": " kalichu kalichu"
+        }
+      ],
+      "transcript": "കളിച്ചു",
+      "meaning": "to play",
+      "textbook_row": 10,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_14_word_039"
+    },
+    {
+      "utterances": [
+        {
+          "start": 353.0902,
+          "end": 353.8057
+        },
+        {
+          "start": 355.2955,
+          "end": 355.9943
+        }
+      ],
+      "raw_texts": [
+        "താരം",
+        "താരം"
+      ],
+      "english_segments": [
+        {
+          "start": 353.17,
+          "end": 357.55,
+          "text": " taram taram"
+        }
+      ],
+      "transcript": "താരം",
+      "meaning": "star",
+      "textbook_row": 17,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_14_word_040"
+    },
+    {
+      "utterances": [
+        {
+          "start": 357.4856,
+          "end": 358.181
+        },
+        {
+          "start": 359.6994,
+          "end": 360.399
+        }
+      ],
+      "raw_texts": [
+        "പധമ",
+        "പധമ"
+      ],
+      "english_segments": [
+        {
+          "start": 357.55,
+          "end": 361.85,
+          "text": " padham padham"
+        }
+      ],
+      "transcript": "പഥം",
+      "meaning": "path",
+      "textbook_row": 18,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_14_word_041"
+    },
+    {
+      "utterances": [
+        {
+          "start": 361.7873,
+          "end": 362.8878
+        },
+        {
+          "start": 364.2744,
+          "end": 365.3872
+        }
+      ],
+      "raw_texts": [
+        "താരാപധമ",
+        "താരാപധമ"
+      ],
+      "english_segments": [
+        {
+          "start": 361.85,
+          "end": 367.05,
+          "text": " tarapatham tarapatham"
+        }
+      ],
+      "transcript": "താരാപഥം",
+      "meaning": "galaxy",
+      "textbook_row": 19,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_14_word_042"
+    },
+    {
+      "utterances": [
+        {
+          "start": 366.9727,
+          "end": 368.0084
+        },
+        {
+          "start": 369.674,
+          "end": 370.7425
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 367.05,
+          "end": 372.67,
+          "text": " pradesika pradesika"
+        }
+      ],
+      "transcript": "പ്രാദേശിക",
+      "meaning": "regional",
+      "textbook_row": 54,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_14_word_043"
+    },
+    {
+      "utterances": [
+        {
+          "start": 372.6029,
+          "end": 373.3993
+        },
+        {
+          "start": 375.024,
+          "end": 375.8184
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 372.67,
+          "end": 377.67,
+          "text": " Vaaram"
+        }
+      ],
+      "transcript": "വാരം",
+      "meaning": "week",
+      "textbook_row": 55,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_14_word_044"
+    },
+    {
+      "utterances": [
+        {
+          "start": 377.7041,
+          "end": 378.486
+        },
+        {
+          "start": 380.1679,
+          "end": 380.9405
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 377.67,
+          "end": 382.67,
+          "text": " Andhyam"
+        }
+      ],
+      "transcript": "അന്ത്യം",
+      "meaning": "end",
+      "textbook_row": 56,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_14_word_045"
+    },
+    {
+      "utterances": [
+        {
+          "start": 382.7437,
+          "end": 383.5239
+        },
+        {
+          "start": 385.1789,
+          "end": 385.9439
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 382.67,
+          "end": 387.67,
+          "text": " Padip"
+        }
+      ],
+      "transcript": "പതിപ്പ്",
+      "meaning": "edition",
+      "textbook_row": 57,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_14_word_046"
+    },
+    {
+      "utterances": [
+        {
+          "start": 387.7969,
+          "end": 388.5268
+        },
+        {
+          "start": 390.358,
+          "end": 391.0983
+        }
+      ],
+      "raw_texts": [
+        "",
+        "കാണും"
+      ],
+      "english_segments": [
+        {
+          "start": 387.67,
+          "end": 392.67,
+          "text": " Kaanum"
+        }
+      ],
+      "transcript": "കാണും",
+      "meaning": "one will find",
+      "textbook_row": 3,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_14_word_047"
+    },
+    {
+      "utterances": [
+        {
+          "start": 392.7703,
+          "end": 393.894
+        },
+        {
+          "start": 395.6148,
+          "end": 396.6305
+        }
+      ],
+      "raw_texts": [
+        "ഇഷ്ടമുല്ലാ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 392.67,
+          "end": 397.67,
+          "text": " Ishtamulla"
+        }
+      ],
+      "transcript": "ഇഷ്ടമുള്ള",
+      "meaning": "which (you) like",
+      "textbook_row": 6,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_14_word_048"
+    },
+    {
+      "utterances": [
+        {
+          "start": 398.2804,
+          "end": 399.0265
+        },
+        {
+          "start": 400.4492,
+          "end": 401.1957
+        }
+      ],
+      "raw_texts": [
+        "പത്ട്",
+        "പത്ട്"
+      ],
+      "english_segments": [
+        {
+          "start": 397.67,
+          "end": 412.31,
+          "text": " patti patti patti ulla patti ulla o o"
+        }
+      ],
+      "transcript": "പറ്റി",
+      "meaning": "about, concerning",
+      "textbook_row": 11,
+      "similarity": 0.667,
+      "status": "review",
+      "id": "lesson_14_word_049"
+    },
+    {
+      "utterances": [
+        {
+          "start": 402.0783,
+          "end": 403.6411
+        },
+        {
+          "start": 405.166,
+          "end": 406.1512
+        }
+      ],
+      "raw_texts": [
+        "പത്ട് ഉല്ലാ",
+        "പത്ട് ഉല്ലാ"
+      ],
+      "english_segments": [
+        {
+          "start": 397.67,
+          "end": 412.31,
+          "text": " patti patti patti ulla patti ulla o o"
+        }
+      ],
+      "transcript": "പറ്റിയുള്ള",
+      "meaning": "which (are) concerning",
+      "textbook_row": 12,
+      "similarity": 0.5,
+      "status": "review",
+      "id": "lesson_14_word_050"
+    },
+    {
+      "utterances": [
+        {
+          "start": 407.8151,
+          "end": 408.5034
+        },
+        {
+          "start": 410.2566,
+          "end": 410.8921
+        }
+      ],
+      "raw_texts": [
+        "ഓ",
+        "ഓ"
+      ],
+      "english_segments": [
+        {
+          "start": 397.67,
+          "end": 412.31,
+          "text": " patti patti patti ulla patti ulla o o"
+        }
+      ],
+      "transcript": "ഓ --ഓ",
+      "meaning": "— or —",
+      "textbook_row": 14,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_14_word_051"
+    },
+    {
+      "utterances": [
+        {
+          "start": 412.2131,
+          "end": 413.7222
+        },
+        {
+          "start": 415.2859,
+          "end": 416.2477
+        }
+      ],
+      "raw_texts": [
+        "വായചാല",
+        "വായചാല"
+      ],
+      "english_segments": [
+        {
+          "start": 412.31,
+          "end": 423.07,
+          "text": " vaichal vaichal nadakkuka nadakkuka"
+        }
+      ],
+      "transcript": "വായിച്ചാൽ",
+      "meaning": "if you read",
+      "textbook_row": 1,
+      "similarity": 0.923,
+      "status": "matched",
+      "id": "lesson_14_word_052"
+    },
+    {
+      "utterances": [
+        {
+          "start": 417.8633,
+          "end": 418.7781
+        },
+        {
+          "start": 420.4476,
+          "end": 421.3281
+        }
+      ],
+      "raw_texts": [
+        "നഡകുകാ",
+        "നഡകുകാ"
+      ],
+      "english_segments": [
+        {
+          "start": 412.31,
+          "end": 423.07,
+          "text": " vaichal vaichal nadakkuka nadakkuka"
+        }
+      ],
+      "transcript": "നടക്കുക",
+      "meaning": "to take place, to go on",
+      "textbook_row": 22,
+      "similarity": 0.909,
+      "status": "matched",
+      "id": "lesson_14_word_053"
+    }
+  ],
+  "textbook_vocabulary": [
+    {
+      "malayalam": "പത്രം",
+      "meaning": "newspaper"
+    },
+    {
+      "malayalam": "വായിച്ചാൽ",
+      "meaning": "if you read"
+    },
+    {
+      "malayalam": "വാർത്ത",
+      "meaning": "news"
+    },
+    {
+      "malayalam": "കാണും",
+      "meaning": "one will find"
+    },
+    {
+      "malayalam": "യുവതി (pl. യുവതികൾ)",
+      "meaning": "young woman"
+    },
+    {
+      "malayalam": "യുവാവ് (pl. യുവാക്കന്മാർ)",
+      "meaning": "young man"
+    },
+    {
+      "malayalam": "ഇഷ്ടമുള്ള",
+      "meaning": "which (you) like"
+    },
+    {
+      "malayalam": "രംഗം",
+      "meaning": "scene"
+    },
+    {
+      "malayalam": "യുവരംഗം",
+      "meaning": "youth scene"
+    },
+    {
+      "malayalam": "കളി",
+      "meaning": "game"
+    },
+    {
+      "malayalam": "കളിക്കുക (past: കളിച്ചു)",
+      "meaning": "to play"
+    },
+    {
+      "malayalam": "പറ്റി",
+      "meaning": "about, concerning"
+    },
+    {
+      "malayalam": "പറ്റിയുള്ള",
+      "meaning": "which (are) concerning"
+    },
+    {
+      "malayalam": "സാഹിത്യം",
+      "meaning": "literature"
+    },
+    {
+      "malayalam": "--ഓ --ഓ",
+      "meaning": "— or —"
+    },
+    {
+      "malayalam": "കല",
+      "meaning": "art"
+    },
+    {
+      "malayalam": "വേദി",
+      "meaning": "stage, section"
+    },
+    {
+      "malayalam": "താരം",
+      "meaning": "star"
+    },
+    {
+      "malayalam": "പഥം",
+      "meaning": "path"
+    },
+    {
+      "malayalam": "താരാപഥം",
+      "meaning": "galaxy"
+    },
+    {
+      "malayalam": "ഇന്നത്തെ",
+      "meaning": "today's"
+    },
+    {
+      "malayalam": "പരിപാടി",
+      "meaning": "program"
+    },
+    {
+      "malayalam": "നടക്കുക",
+      "meaning": "to take place, to go on"
+    },
+    {
+      "malayalam": "പരസ്യം",
+      "meaning": "advertisement"
+    },
+    {
+      "malayalam": "തരം",
+      "meaning": "type"
+    },
+    {
+      "malayalam": "തരാതരം",
+      "meaning": "various"
+    },
+    {
+      "malayalam": "വിൽപ്പന",
+      "meaning": "sale"
+    },
+    {
+      "malayalam": "വൈവാഹികം",
+      "meaning": "matrimonial"
+    },
+    {
+      "malayalam": "ചുരുക്കം",
+      "meaning": "brief"
+    },
+    {
+      "malayalam": "ഒറ്റ",
+      "meaning": "one"
+    },
+    {
+      "malayalam": "നോട്ടം",
+      "meaning": "look"
+    },
+    {
+      "malayalam": "വിവാഹം",
+      "meaning": "marriage"
+    },
+    {
+      "malayalam": "വിവാഹിതർ",
+      "meaning": "married persons"
+    },
+    {
+      "malayalam": "വിവാഹിതരാകുക",
+      "meaning": "to get married"
+    },
+    {
+      "malayalam": "വ്യാപാരം",
+      "meaning": "business, trade"
+    },
+    {
+      "malayalam": "നിലവാരം",
+      "meaning": "state, situation, standard"
+    },
+    {
+      "malayalam": "ചരമം",
+      "meaning": "death"
+    },
+    {
+      "malayalam": "മരണം",
+      "meaning": "death"
+    },
+    {
+      "malayalam": "ചിന്ത",
+      "meaning": "thought"
+    },
+    {
+      "malayalam": "വിഷയം",
+      "meaning": "subject"
+    },
+    {
+      "malayalam": "അഭിപ്രായം",
+      "meaning": "opinion, criticism"
+    },
+    {
+      "malayalam": "പത്രാധിപർ",
+      "meaning": "editor"
+    },
+    {
+      "malayalam": "കുറിപ്പ്",
+      "meaning": "note (noun)"
+    },
+    {
+      "malayalam": "മുഖം",
+      "meaning": "face"
+    },
+    {
+      "malayalam": "പ്രസംഗം",
+      "meaning": "speech"
+    },
+    {
+      "malayalam": "കാലം",
+      "meaning": "season, time, era"
+    },
+    {
+      "malayalam": "അവസ്ഥ",
+      "meaning": "situation"
+    },
+    {
+      "malayalam": "വാടക",
+      "meaning": "rent"
+    },
+    {
+      "malayalam": "അറിവ്",
+      "meaning": "knowledge"
+    },
+    {
+      "malayalam": "അറിയിക്കുക",
+      "meaning": "to make known"
+    },
+    {
+      "malayalam": "അറിയിപ്പ്",
+      "meaning": "notice, announcement"
+    },
+    {
+      "malayalam": "വായന",
+      "meaning": "reading (noun)"
+    },
+    {
+      "malayalam": "വായനക്കാർ",
+      "meaning": "readers"
+    },
+    {
+      "malayalam": "കത്ത്",
+      "meaning": "letter"
+    },
+    {
+      "malayalam": "പ്രാദേശിക",
+      "meaning": "regional"
+    },
+    {
+      "malayalam": "വാരം",
+      "meaning": "week"
+    },
+    {
+      "malayalam": "അന്ത്യം",
+      "meaning": "end"
+    },
+    {
+      "malayalam": "പതിപ്പ്",
+      "meaning": "edition"
+    }
+  ],
+  "unmatched_textbook_rows": [
+    {
+      "index": 8,
+      "malayalam": "യുവരംഗം",
+      "meaning": "youth scene"
+    },
+    {
+      "index": 27,
+      "malayalam": "വൈവാഹികം",
+      "meaning": "matrimonial"
+    },
+    {
+      "index": 33,
+      "malayalam": "വിവാഹിതരാകുക",
+      "meaning": "to get married"
+    },
+    {
+      "index": 44,
+      "malayalam": "പ്രസംഗം",
+      "meaning": "speech"
+    },
+    {
+      "index": 45,
+      "malayalam": "കാലം",
+      "meaning": "season, time, era"
+    },
+    {
+      "index": 46,
+      "malayalam": "അവസ്ഥ",
+      "meaning": "situation"
+    }
+  ],
+  "recognition_sha256": "03fb02edd8cba691cbb23383842261514d0ec53686584c1845954d112f419abb",
+  "boundary_sha256": "7a0548720b90f6f637bdd8778474d1a66747505760313f3e69ba5d79827cfd10"
+}

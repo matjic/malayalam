@@ -1,0 +1,1990 @@
+{
+  "pipeline_version": 6,
+  "lesson": 24,
+  "source": "data/audio/moag/lesson_24.mp3",
+  "model": "Whisper large-v3 (32 encoder and 32 decoder layers), MLX",
+  "range_start": 236.37,
+  "range_end": 519.11,
+  "method": "Acoustic cepstrum comparison pairs repeated utterances independently of textbook order; large-v3 word end timestamps matched to pauses, then global spelling assignment against printed vocabulary (order is only a weak tie-breaker). Low-confidence labels require review. Raw recognizer text retained.",
+  "words": [
+    {
+      "utterances": [
+        {
+          "start": 237.4157,
+          "end": 238.7223
+        },
+        {
+          "start": 240.125,
+          "end": 241.2448
+        }
+      ],
+      "raw_texts": [
+        "പാലാരിവട്ടമ്",
+        "പാലാരിവട്ടമ്"
+      ],
+      "english_segments": [],
+      "transcript": "പാലാരിവട്ടം",
+      "meaning": "Palarivattam – an area of Ernakulam city",
+      "textbook_row": 0,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_24_word_001"
+    },
+    {
+      "utterances": [
+        {
+          "start": 243.0119,
+          "end": 244.3275
+        },
+        {
+          "start": 245.9839,
+          "end": 247.3605
+        }
+      ],
+      "raw_texts": [
+        "ജനതാം ജങ്ഷണ്",
+        "ജനതാം ജങ്ഷണ്"
+      ],
+      "english_segments": [],
+      "transcript": "ജനതാ ജംഗ്ഷൻ",
+      "meaning": "Janata Junction – an intersection or crossroad in Ernakulam",
+      "textbook_row": 1,
+      "similarity": 0.778,
+      "status": "matched",
+      "id": "lesson_24_word_002"
+    },
+    {
+      "utterances": [
+        {
+          "start": 249.0481,
+          "end": 249.9181
+        },
+        {
+          "start": 250.744,
+          "end": 251.6684
+        }
+      ],
+      "raw_texts": [
+        "സമീപ്മ്",
+        ""
+      ],
+      "english_segments": [],
+      "transcript": "സമീപം",
+      "meaning": "near, (in the) vicinity",
+      "textbook_row": 2,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_24_word_003"
+    },
+    {
+      "utterances": [
+        {
+          "start": 252.7247,
+          "end": 253.5196
+        },
+        {
+          "start": 254.6662,
+          "end": 255.5541
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [],
+      "transcript": "കിടപ്പ്",
+      "meaning": "lying (down), repose",
+      "textbook_row": 3,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_24_word_004"
+    },
+    {
+      "utterances": [
+        {
+          "start": 256.4739,
+          "end": 257.5201
+        },
+        {
+          "start": 258.9007,
+          "end": 260.0002
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 258.75,
+          "end": 264.79,
+          "text": " Kedappu muri. Abhechikyuga. Abhechikyuga."
+        }
+      ],
+      "transcript": "അപേക്ഷിക്കുക",
+      "meaning": "to apply, to request, to entreat",
+      "textbook_row": 5,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_24_word_005"
+    },
+    {
+      "utterances": [
+        {
+          "start": 261.382,
+          "end": 262.5501
+        },
+        {
+          "start": 263.8518,
+          "end": 265.0129
+        }
+      ],
+      "raw_texts": [
+        "",
+        "സ"
+      ],
+      "english_segments": [
+        {
+          "start": 258.75,
+          "end": 264.79,
+          "text": " Kedappu muri. Abhechikyuga. Abhechikyuga."
+        }
+      ],
+      "transcript": "കിടപ്പുമുറി",
+      "meaning": "bedroom",
+      "textbook_row": 4,
+      "similarity": 0.438,
+      "status": "review",
+      "id": "lesson_24_word_006"
+    },
+    {
+      "utterances": [
+        {
+          "start": 266.5029,
+          "end": 267.788
+        },
+        {
+          "start": 269.7757,
+          "end": 271.0674
+        }
+      ],
+      "raw_texts": [
+        "ഏരികാട് വിള്ള",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 266.63,
+          "end": 270.93,
+          "text": " Erikaat veerda. Erikaat veerda."
+        }
+      ],
+      "transcript": "എറിക്കാട്ട് വീട്",
+      "meaning": "‘Ericattu house’, Ericattu is a family name",
+      "textbook_row": 6,
+      "similarity": 0.889,
+      "status": "matched",
+      "id": "lesson_24_word_007"
+    },
+    {
+      "utterances": [
+        {
+          "start": 272.8515,
+          "end": 273.8525
+        },
+        {
+          "start": 275.6661,
+          "end": 276.6404
+        }
+      ],
+      "raw_texts": [
+        "നാഗംപണ്പണ്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 272.99,
+          "end": 276.57,
+          "text": " Nagambadam. Nagambadam."
+        }
+      ],
+      "transcript": "നാഗമ്പടം",
+      "meaning": "Nagampadom, an area of Kottayam",
+      "textbook_row": 7,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_24_word_008"
+    },
+    {
+      "utterances": [
+        {
+          "start": 278.5896,
+          "end": 279.2997
+        },
+        {
+          "start": 280.4951,
+          "end": 281.2495
+        }
+      ],
+      "raw_texts": [
+        "വിധമ്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 276.57,
+          "end": 281.11,
+          "text": " Vidham. Vidham."
+        }
+      ],
+      "transcript": "വിധം",
+      "meaning": "type, manner, kind",
+      "textbook_row": 8,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_24_word_009"
+    },
+    {
+      "utterances": [
+        {
+          "start": 282.577,
+          "end": 283.2763
+        },
+        {
+          "start": 284.7766,
+          "end": 285.5361
+        }
+      ],
+      "raw_texts": [
+        "വിവരം",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 282.69,
+          "end": 285.41,
+          "text": " Vivaram. Vivaram."
+        }
+      ],
+      "transcript": "വിവരം",
+      "meaning": "detail",
+      "textbook_row": 9,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_24_word_010"
+    },
+    {
+      "utterances": [
+        {
+          "start": 287.1036,
+          "end": 287.9524
+        },
+        {
+          "start": 289.553,
+          "end": 290.4301
+        }
+      ],
+      "raw_texts": [
+        "നിര്രില്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 285.41,
+          "end": 287.83,
+          "text": " Nēril"
+        },
+        {
+          "start": 287.83,
+          "end": 292.77,
+          "text": " Nurse"
+        }
+      ],
+      "transcript": "നേഴ്സ്",
+      "meaning": "nurse",
+      "textbook_row": 11,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_24_word_011"
+    },
+    {
+      "utterances": [
+        {
+          "start": 292.1794,
+          "end": 293.019
+        },
+        {
+          "start": 294.6288,
+          "end": 295.4887
+        }
+      ],
+      "raw_texts": [
+        "നര്സ്",
+        "നര്സ്"
+      ],
+      "english_segments": [
+        {
+          "start": 287.83,
+          "end": 292.77,
+          "text": " Nurse"
+        },
+        {
+          "start": 292.77,
+          "end": 300.07,
+          "text": " Pokkam"
+        }
+      ],
+      "transcript": "നേരിൽ",
+      "meaning": "directly, in person",
+      "textbook_row": 10,
+      "similarity": 0.5,
+      "status": "review",
+      "id": "lesson_24_word_012"
+    },
+    {
+      "utterances": [
+        {
+          "start": 296.9544,
+          "end": 297.7191
+        },
+        {
+          "start": 299.427,
+          "end": 300.1974
+        }
+      ],
+      "raw_texts": [
+        "പക്കമ്",
+        "പക്കമ്"
+      ],
+      "english_segments": [
+        {
+          "start": 292.77,
+          "end": 300.07,
+          "text": " Pokkam"
+        }
+      ],
+      "transcript": "പൊക്കം",
+      "meaning": "height",
+      "textbook_row": 12,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_24_word_013"
+    },
+    {
+      "utterances": [
+        {
+          "start": 301.802,
+          "end": 302.6432
+        },
+        {
+          "start": 304.4905,
+          "end": 305.3523
+        }
+      ],
+      "raw_texts": [
+        "വിളുത്താ",
+        "വിളുത്താ"
+      ],
+      "english_segments": [
+        {
+          "start": 300.07,
+          "end": 305.41,
+          "text": " Veluthā"
+        }
+      ],
+      "transcript": "വെളുത്ത",
+      "meaning": "white (adj)",
+      "textbook_row": 13,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_24_word_014"
+    },
+    {
+      "utterances": [
+        {
+          "start": 306.9594,
+          "end": 307.6434
+        },
+        {
+          "start": 309.5272,
+          "end": 310.2146
+        }
+      ],
+      "raw_texts": [
+        "നിരമ്",
+        "നിരമ്"
+      ],
+      "english_segments": [
+        {
+          "start": 305.41,
+          "end": 310.15,
+          "text": " Niram"
+        }
+      ],
+      "transcript": "നിറം",
+      "meaning": "color, complexion",
+      "textbook_row": 14,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_24_word_015"
+    },
+    {
+      "utterances": [
+        {
+          "start": 312.0926,
+          "end": 312.8636
+        },
+        {
+          "start": 314.5864,
+          "end": 315.3852
+        }
+      ],
+      "raw_texts": [
+        "വന്ന്",
+        "വന്ന്"
+      ],
+      "english_segments": [
+        {
+          "start": 310.15,
+          "end": 313.41,
+          "text": " Vannam"
+        },
+        {
+          "start": 313.41,
+          "end": 332.41,
+          "text": " vannam kurayuga kuranyu kuranyada"
+        }
+      ],
+      "transcript": "വണ്ണം",
+      "meaning": "obesity, thickness",
+      "textbook_row": 15,
+      "similarity": 0.8,
+      "status": "matched",
+      "id": "lesson_24_word_016"
+    },
+    {
+      "utterances": [
+        {
+          "start": 317.1248,
+          "end": 318.0686
+        },
+        {
+          "start": 319.7664,
+          "end": 320.6794
+        }
+      ],
+      "raw_texts": [
+        "കുര�",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 313.41,
+          "end": 332.41,
+          "text": " vannam kurayuga kuranyu kuranyada"
+        }
+      ],
+      "transcript": "കുറഞ്ഞു",
+      "meaning": "to decrease",
+      "textbook_row": 16,
+      "similarity": 0.75,
+      "status": "matched",
+      "id": "lesson_24_word_017"
+    },
+    {
+      "utterances": [
+        {
+          "start": 322.5382,
+          "end": 323.4134
+        },
+        {
+          "start": 325.345,
+          "end": 326.227
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 313.41,
+          "end": 332.41,
+          "text": " vannam kurayuga kuranyu kuranyada"
+        }
+      ],
+      "transcript": "കുറയുക",
+      "meaning": "to decrease",
+      "textbook_row": 16,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_24_word_018"
+    },
+    {
+      "utterances": [
+        {
+          "start": 328.0435,
+          "end": 329.0292
+        },
+        {
+          "start": 330.8696,
+          "end": 331.8504
+        }
+      ],
+      "raw_texts": [
+        "കുരണ്യത്",
+        "കുരണ്യത്"
+      ],
+      "english_segments": [
+        {
+          "start": 313.41,
+          "end": 332.41,
+          "text": " vannam kurayuga kuranyu kuranyada"
+        }
+      ],
+      "transcript": "കുറഞ്ഞത്",
+      "meaning": "that which is small (or lacking)",
+      "textbook_row": 17,
+      "similarity": 0.727,
+      "status": "matched",
+      "id": "lesson_24_word_019"
+    },
+    {
+      "utterances": [
+        {
+          "start": 333.9088,
+          "end": 335.4247
+        },
+        {
+          "start": 337.6233,
+          "end": 339.1552
+        }
+      ],
+      "raw_texts": [
+        "വന്നമ് കുരണ്യത്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 332.41,
+          "end": 339.41,
+          "text": " Vannam kuranyadha"
+        }
+      ],
+      "transcript": "വണ്ണം കുറഞ്ഞത്",
+      "meaning": "one who is thin",
+      "textbook_row": 18,
+      "similarity": 0.852,
+      "status": "matched",
+      "id": "lesson_24_word_020"
+    },
+    {
+      "utterances": [
+        {
+          "start": 341.2418,
+          "end": 342.2622
+        },
+        {
+          "start": 343.9104,
+          "end": 344.9067
+        }
+      ],
+      "raw_texts": [
+        "എംജിന്യിയർ",
+        "എംജിന്യിയർ"
+      ],
+      "english_segments": [
+        {
+          "start": 339.41,
+          "end": 345.41,
+          "text": " Engineer"
+        }
+      ],
+      "transcript": "എൻജിനീയർ",
+      "meaning": "Engineer",
+      "textbook_row": 19,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_24_word_021"
+    },
+    {
+      "utterances": [
+        {
+          "start": 346.6604,
+          "end": 347.3982
+        },
+        {
+          "start": 348.7777,
+          "end": 349.5283
+        }
+      ],
+      "raw_texts": [
+        "വര� വരണ്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 345.41,
+          "end": 350.41,
+          "text": " Varan"
+        }
+      ],
+      "transcript": "വരൻ",
+      "meaning": "bridegroom",
+      "textbook_row": 20,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_24_word_022"
+    },
+    {
+      "utterances": [
+        {
+          "start": 351.0545,
+          "end": 352.0267
+        },
+        {
+          "start": 353.4198,
+          "end": 354.2943
+        }
+      ],
+      "raw_texts": [
+        "അഭേച്ച്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 350.41,
+          "end": 354.41,
+          "text": " Avesha"
+        }
+      ],
+      "transcript": "അപേക്ഷ",
+      "meaning": "application, request",
+      "textbook_row": 21,
+      "similarity": 0.691,
+      "status": "review",
+      "id": "lesson_24_word_023"
+    },
+    {
+      "utterances": [
+        {
+          "start": 354.9122,
+          "end": 356.758
+        },
+        {
+          "start": 357.9912,
+          "end": 359.1939
+        }
+      ],
+      "raw_texts": [
+        "ചോധുച്ചുകോലുഗ്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 354.41,
+          "end": 359.41,
+          "text": " Chodichu kolluka"
+        }
+      ],
+      "transcript": "ചോദിച്ചു കൊള്ളുക",
+      "meaning": "to go ahead and ask",
+      "textbook_row": 22,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_24_word_024"
+    },
+    {
+      "utterances": [
+        {
+          "start": 360.4591,
+          "end": 361.4326
+        },
+        {
+          "start": 362.6102,
+          "end": 363.6363
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 359.41,
+          "end": 363.57,
+          "text": " vyatyastam vyatyastam"
+        }
+      ],
+      "transcript": "വ്യത്യസ്തം",
+      "meaning": "different",
+      "textbook_row": 23,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_24_word_025"
+    },
+    {
+      "utterances": [
+        {
+          "start": 364.8531,
+          "end": 365.9973
+        },
+        {
+          "start": 367.2919,
+          "end": 368.4795
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 363.57,
+          "end": 368.29,
+          "text": " snehikyuga snehikyuga"
+        }
+      ],
+      "transcript": "നില നിൽക്കുക",
+      "meaning": "to endure, continue",
+      "textbook_row": 33,
+      "similarity": 0.543,
+      "status": "review",
+      "id": "lesson_24_word_026"
+    },
+    {
+      "utterances": [
+        {
+          "start": 369.971,
+          "end": 370.9466
+        },
+        {
+          "start": 372.1872,
+          "end": 374.5166
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 368.29,
+          "end": 373.09,
+          "text": " sneham sneham"
+        },
+        {
+          "start": 373.09,
+          "end": 376.39,
+          "text": " tamil tamil"
+        }
+      ],
+      "transcript": "സ്നേഹിക്കുക",
+      "meaning": "to love",
+      "textbook_row": 24,
+      "similarity": 0.633,
+      "status": "review",
+      "id": "lesson_24_word_027"
+    },
+    {
+      "utterances": [
+        {
+          "start": 375.7708,
+          "end": 376.4784
+        }
+      ],
+      "raw_texts": [
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 373.09,
+          "end": 376.39,
+          "text": " tamil tamil"
+        }
+      ],
+      "transcript": "തമ്മിൽ",
+      "meaning": "between",
+      "textbook_row": 25,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_24_word_028"
+    },
+    {
+      "utterances": [
+        {
+          "start": 377.6895,
+          "end": 378.7487
+        },
+        {
+          "start": 379.7796,
+          "end": 380.6707
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 376.39,
+          "end": 381.11,
+          "text": " vyatyasam vyatyasam"
+        }
+      ],
+      "transcript": "വ്യത്യാസം",
+      "meaning": "difference",
+      "textbook_row": 26,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_24_word_029"
+    },
+    {
+      "utterances": [
+        {
+          "start": 381.9231,
+          "end": 383.0984
+        },
+        {
+          "start": 384.5866,
+          "end": 385.8478
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 381.11,
+          "end": 385.69,
+          "text": " manasilaguga manasilaguga"
+        }
+      ],
+      "transcript": "മനസ്സിലാക്കുക",
+      "meaning": "to understand, comprehend",
+      "textbook_row": 27,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_24_word_030"
+    },
+    {
+      "utterances": [
+        {
+          "start": 387.3325,
+          "end": 388.176
+        },
+        {
+          "start": 389.5576,
+          "end": 390.3729
+        }
+      ],
+      "raw_texts": [
+        "വിയ്റ്റ്റ്റ്റ്റ്റ്റ്റ്റ്റ്റ്റ്റ്റ്റ്റ്റ്റ്റ്റ്റ്റ്റ",
+        "അവര അവര"
+      ],
+      "english_segments": [
+        {
+          "start": 385.69,
+          "end": 388.41,
+          "text": " avaravar"
+        },
+        {
+          "start": 388.41,
+          "end": 392.77,
+          "text": " saathikyuka"
+        }
+      ],
+      "transcript": "അവരവർ",
+      "meaning": "they themselves",
+      "textbook_row": 28,
+      "similarity": 0.909,
+      "status": "matched",
+      "id": "lesson_24_word_031"
+    },
+    {
+      "utterances": [
+        {
+          "start": 391.8615,
+          "end": 392.9877
+        },
+        {
+          "start": 394.2104,
+          "end": 395.2027
+        }
+      ],
+      "raw_texts": [
+        "സാധിക്കുക്ക്",
+        "സാധിക്കുക്ക്"
+      ],
+      "english_segments": [
+        {
+          "start": 388.41,
+          "end": 392.77,
+          "text": " saathikyuka"
+        },
+        {
+          "start": 392.77,
+          "end": 399.81,
+          "text": " paranya illa"
+        }
+      ],
+      "transcript": "സാധിക്കുക",
+      "meaning": "can ---",
+      "textbook_row": 29,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_24_word_032"
+    },
+    {
+      "utterances": [
+        {
+          "start": 396.5331,
+          "end": 397.5158
+        },
+        {
+          "start": 398.9069,
+          "end": 399.9327
+        }
+      ],
+      "raw_texts": [
+        "പരണ്യെ ഇല്ല",
+        "പരണ്യെ ഇല്ല"
+      ],
+      "english_segments": [
+        {
+          "start": 392.77,
+          "end": 399.81,
+          "text": " paranya illa"
+        }
+      ],
+      "transcript": "പറഞ്ഞയില്ല",
+      "meaning": "never said, didn’t say",
+      "textbook_row": 30,
+      "similarity": 0.826,
+      "status": "matched",
+      "id": "lesson_24_word_033"
+    },
+    {
+      "utterances": [
+        {
+          "start": 401.0105,
+          "end": 401.6314
+        },
+        {
+          "start": 402.8036,
+          "end": 403.4536
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 399.81,
+          "end": 401.49,
+          "text": " chila"
+        },
+        {
+          "start": 401.49,
+          "end": 405.81,
+          "text": " anniyoniyam"
+        }
+      ],
+      "transcript": "അന്യോന്യം",
+      "meaning": "mutual, each other",
+      "textbook_row": 32,
+      "similarity": 0.844,
+      "status": "matched",
+      "id": "lesson_24_word_034"
+    },
+    {
+      "utterances": [
+        {
+          "start": 404.0944,
+          "end": 405.3099
+        },
+        {
+          "start": 406.6572,
+          "end": 407.606
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 401.49,
+          "end": 405.81,
+          "text": " anniyoniyam"
+        },
+        {
+          "start": 405.81,
+          "end": 410.81,
+          "text": " nilanilkuka"
+        }
+      ],
+      "transcript": "ചില",
+      "meaning": "some",
+      "textbook_row": 31,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_24_word_035"
+    },
+    {
+      "utterances": [
+        {
+          "start": 409.1677,
+          "end": 410.3432
+        },
+        {
+          "start": 411.8873,
+          "end": 413.067
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 405.81,
+          "end": 410.81,
+          "text": " nilanilkuka"
+        },
+        {
+          "start": 410.81,
+          "end": 412.81,
+          "text": " nila nilkuga"
+        },
+        {
+          "start": 412.81,
+          "end": 415.51,
+          "text": " endu kondannal"
+        }
+      ],
+      "transcript": "",
+      "meaning": "",
+      "textbook_row": null,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_24_word_036"
+    },
+    {
+      "utterances": [
+        {
+          "start": 414.5269,
+          "end": 415.6081
+        },
+        {
+          "start": 417.4982,
+          "end": 418.5596
+        }
+      ],
+      "raw_texts": [
+        "ചി",
+        "എന്ദുകുണടന്ന്നൾല്"
+      ],
+      "english_segments": [
+        {
+          "start": 412.81,
+          "end": 415.51,
+          "text": " endu kondannal"
+        },
+        {
+          "start": 415.51,
+          "end": 418.75,
+          "text": " endu kondannal"
+        }
+      ],
+      "transcript": "എന്തുകൊണ്ടെന്നാൽ",
+      "meaning": "for (the reason that), because",
+      "textbook_row": 34,
+      "similarity": 0.871,
+      "status": "matched",
+      "id": "lesson_24_word_037"
+    },
+    {
+      "utterances": [
+        {
+          "start": 420.1148,
+          "end": 421.0256
+        }
+      ],
+      "raw_texts": [
+        "സമൂഹമ് സമൂഹമ്"
+      ],
+      "english_segments": [
+        {
+          "start": 418.75,
+          "end": 420.95,
+          "text": " samuham"
+        }
+      ],
+      "transcript": "സമൂഹം",
+      "meaning": "society, association, group",
+      "textbook_row": 35,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_24_word_038"
+    },
+    {
+      "utterances": [
+        {
+          "start": 422.2798,
+          "end": 425.2357
+        },
+        {
+          "start": 426.6932,
+          "end": 427.9323
+        }
+      ],
+      "raw_texts": [
+        "വിവാഹമോജന്നു",
+        "വിവാഹമോചനം"
+      ],
+      "english_segments": [
+        {
+          "start": 420.95,
+          "end": 423.25,
+          "text": " samuham"
+        },
+        {
+          "start": 423.25,
+          "end": 425.29,
+          "text": " vivaha mojanam"
+        },
+        {
+          "start": 425.29,
+          "end": 427.81,
+          "text": " vivaha mojanam"
+        }
+      ],
+      "transcript": "വിവാഹമോചനം",
+      "meaning": "divorce",
+      "textbook_row": 36,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_24_word_039"
+    },
+    {
+      "utterances": [
+        {
+          "start": 429.5514,
+          "end": 430.3918
+        },
+        {
+          "start": 431.6532,
+          "end": 432.5488
+        }
+      ],
+      "raw_texts": [
+        "നേഡുഗാ",
+        "നേഡുഗാ"
+      ],
+      "english_segments": [
+        {
+          "start": 428.41,
+          "end": 430.17,
+          "text": " neduga"
+        },
+        {
+          "start": 430.17,
+          "end": 432.35,
+          "text": " neduga"
+        }
+      ],
+      "transcript": "നേടുക",
+      "meaning": "to obtain, gain",
+      "textbook_row": 37,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_24_word_040"
+    },
+    {
+      "utterances": [
+        {
+          "start": 433.8685,
+          "end": 434.5959
+        },
+        {
+          "start": 435.7904,
+          "end": 436.5008
+        }
+      ],
+      "raw_texts": [
+        "നേഡീ",
+        "നേഡീ"
+      ],
+      "english_segments": [
+        {
+          "start": 432.35,
+          "end": 434.41,
+          "text": " nedi"
+        },
+        {
+          "start": 434.41,
+          "end": 436.39,
+          "text": " nedi"
+        }
+      ],
+      "transcript": "നേടി",
+      "meaning": "to obtain, gain",
+      "textbook_row": 37,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_24_word_041"
+    },
+    {
+      "utterances": [
+        {
+          "start": 437.7893,
+          "end": 438.7254
+        },
+        {
+          "start": 439.9935,
+          "end": 440.9727
+        }
+      ],
+      "raw_texts": [
+        "ഏദൃകുഗാ",
+        "ഏദൃകുഗാ"
+      ],
+      "english_segments": [
+        {
+          "start": 436.39,
+          "end": 438.55,
+          "text": " edirkuga"
+        },
+        {
+          "start": 438.55,
+          "end": 440.79,
+          "text": " edirkuga"
+        }
+      ],
+      "transcript": "എതിർക്കുക",
+      "meaning": "to oppose",
+      "textbook_row": 38,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_24_word_042"
+    },
+    {
+      "utterances": [
+        {
+          "start": 442.2128,
+          "end": 443.0487
+        },
+        {
+          "start": 444.3844,
+          "end": 445.1793
+        }
+      ],
+      "raw_texts": [
+        "ഏദൃതു",
+        "ഏദ�"
+      ],
+      "english_segments": [
+        {
+          "start": 440.79,
+          "end": 445.79,
+          "text": " edirthu, edirthu"
+        }
+      ],
+      "transcript": "എതിർത്തു",
+      "meaning": "to oppose",
+      "textbook_row": 38,
+      "similarity": 0.727,
+      "status": "matched",
+      "id": "lesson_24_word_043"
+    },
+    {
+      "utterances": [
+        {
+          "start": 446.7036,
+          "end": 447.431
+        },
+        {
+          "start": 449.2857,
+          "end": 450.006
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 445.79,
+          "end": 450.03,
+          "text": " kaal, kaal"
+        }
+      ],
+      "transcript": "കാൾ",
+      "meaning": "than --",
+      "textbook_row": 39,
+      "similarity": 0.633,
+      "status": "review",
+      "id": "lesson_24_word_044"
+    },
+    {
+      "utterances": [
+        {
+          "start": 451.6942,
+          "end": 452.5088
+        },
+        {
+          "start": 454.1552,
+          "end": 454.931
+        }
+      ],
+      "raw_texts": [
+        "കാളകുടാ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 450.03,
+          "end": 454.79,
+          "text": " kooda, kooda"
+        }
+      ],
+      "transcript": "കൂടാ",
+      "meaning": "can’t, shouldn’t",
+      "textbook_row": 40,
+      "similarity": 0.727,
+      "status": "matched",
+      "id": "lesson_24_word_045"
+    },
+    {
+      "utterances": [
+        {
+          "start": 456.5691,
+          "end": 457.2805
+        },
+        {
+          "start": 458.8795,
+          "end": 459.5955
+        }
+      ],
+      "raw_texts": [
+        "മറ്റ്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 455.37,
+          "end": 459.79,
+          "text": " mattu, mattu"
+        }
+      ],
+      "transcript": "മറ്റ്",
+      "meaning": "other, another",
+      "textbook_row": 41,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_24_word_046"
+    },
+    {
+      "utterances": [
+        {
+          "start": 461.082,
+          "end": 461.8601
+        },
+        {
+          "start": 463.4312,
+          "end": 464.2492
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 459.79,
+          "end": 463.79,
+          "text": " matturu, matturu"
+        }
+      ],
+      "transcript": "മറ്റൊരു",
+      "meaning": "another",
+      "textbook_row": 42,
+      "similarity": 0.422,
+      "status": "review",
+      "id": "lesson_24_word_047"
+    },
+    {
+      "utterances": [
+        {
+          "start": 465.749,
+          "end": 466.6922
+        },
+        {
+          "start": 467.9336,
+          "end": 469.1342
+        }
+      ],
+      "raw_texts": [
+        "കളിയുക",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 464.31,
+          "end": 468.89,
+          "text": " kajiyuga, kajiyuga"
+        }
+      ],
+      "transcript": "കഴിയുക",
+      "meaning": "can --",
+      "textbook_row": 43,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_24_word_048"
+    },
+    {
+      "utterances": [
+        {
+          "start": 470.6741,
+          "end": 471.5107
+        },
+        {
+          "start": 473.1549,
+          "end": 473.9713
+        }
+      ],
+      "raw_texts": [
+        "പരിചിതം",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 470.79,
+          "end": 475.75,
+          "text": " parichidam"
+        }
+      ],
+      "transcript": "പരിചിതം",
+      "meaning": "familiar",
+      "textbook_row": 44,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_24_word_049"
+    },
+    {
+      "utterances": [
+        {
+          "start": 475.6462,
+          "end": 476.6529
+        },
+        {
+          "start": 478.3843,
+          "end": 479.37
+        }
+      ],
+      "raw_texts": [
+        "അപരിചിദം",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 475.75,
+          "end": 481.39,
+          "text": " aparichidam"
+        }
+      ],
+      "transcript": "അപരിചിതം",
+      "meaning": "familiar",
+      "textbook_row": 44,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_24_word_050"
+    },
+    {
+      "utterances": [
+        {
+          "start": 481.0015,
+          "end": 482.0403
+        },
+        {
+          "start": 483.7421,
+          "end": 485.6156
+        }
+      ],
+      "raw_texts": [
+        "ഗുണം",
+        "കുരവ്"
+      ],
+      "english_segments": [
+        {
+          "start": 475.75,
+          "end": 481.39,
+          "text": " aparichidam"
+        },
+        {
+          "start": 481.39,
+          "end": 484.99,
+          "text": " gunam"
+        },
+        {
+          "start": 484.99,
+          "end": 488.79,
+          "text": " kurava"
+        }
+      ],
+      "transcript": "ഗുണം",
+      "meaning": "good quality or attribute",
+      "textbook_row": 45,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_24_word_051"
+    },
+    {
+      "utterances": [
+        {
+          "start": 486.7854,
+          "end": 487.5574
+        }
+      ],
+      "raw_texts": [
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 484.99,
+          "end": 488.79,
+          "text": " kurava"
+        }
+      ],
+      "transcript": "കുറവ്",
+      "meaning": "deficiency, shortcoming",
+      "textbook_row": 46,
+      "similarity": 0.864,
+      "status": "matched",
+      "id": "lesson_24_word_052"
+    },
+    {
+      "utterances": [
+        {
+          "start": 488.6713,
+          "end": 489.5807
+        },
+        {
+          "start": 490.8949,
+          "end": 491.8363
+        }
+      ],
+      "raw_texts": [
+        "ഉദാഹരണം",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 488.79,
+          "end": 493.35,
+          "text": " udaharanam"
+        }
+      ],
+      "transcript": "ഉദാഹരണം",
+      "meaning": "example",
+      "textbook_row": 47,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_24_word_053"
+    },
+    {
+      "utterances": [
+        {
+          "start": 493.2249,
+          "end": 494.0815
+        },
+        {
+          "start": 495.4573,
+          "end": 496.2796
+        }
+      ],
+      "raw_texts": [
+        "",
+        "ഏറ്റുകും"
+      ],
+      "english_segments": [
+        {
+          "start": 493.35,
+          "end": 497.67,
+          "text": " ettawam"
+        }
+      ],
+      "transcript": "ഏറ്റവും",
+      "meaning": "most, much, exceeding",
+      "textbook_row": 48,
+      "similarity": 0.727,
+      "status": "matched",
+      "id": "lesson_24_word_054"
+    },
+    {
+      "utterances": [
+        {
+          "start": 497.5415,
+          "end": 498.3076
+        },
+        {
+          "start": 499.5861,
+          "end": 500.5109
+        }
+      ],
+      "raw_texts": [
+        "പറ്റുക",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 497.67,
+          "end": 519.11,
+          "text": " pattuka pattuka paadilla paadilla tanukunnu tanukunnu tanuttu tanuttu tanupa tanupa"
+        }
+      ],
+      "transcript": "പറ്റുക",
+      "meaning": "to be possible to --<br>to be able to --",
+      "textbook_row": 49,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_24_word_055"
+    },
+    {
+      "utterances": [
+        {
+          "start": 501.7575,
+          "end": 502.5084
+        },
+        {
+          "start": 503.9594,
+          "end": 504.7196
+        }
+      ],
+      "raw_texts": [
+        "പാടില്ല",
+        "പാടില്ല"
+      ],
+      "english_segments": [
+        {
+          "start": 497.67,
+          "end": 519.11,
+          "text": " pattuka pattuka paadilla paadilla tanukunnu tanukunnu tanuttu tanuttu tanupa tanupa"
+        }
+      ],
+      "transcript": "പാടില്ല",
+      "meaning": "can’t, shouldn’t --",
+      "textbook_row": 50,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_24_word_056"
+    },
+    {
+      "utterances": [
+        {
+          "start": 506.1636,
+          "end": 507.0376
+        },
+        {
+          "start": 508.4023,
+          "end": 509.2766
+        }
+      ],
+      "raw_texts": [
+        "തനുകുന്നു",
+        "തണുകുന്നു"
+      ],
+      "english_segments": [
+        {
+          "start": 497.67,
+          "end": 519.11,
+          "text": " pattuka pattuka paadilla paadilla tanukunnu tanukunnu tanuttu tanuttu tanupa tanupa"
+        }
+      ],
+      "transcript": "തണുക്കുന്നു",
+      "meaning": "to be (feel) cold",
+      "textbook_row": 51,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_24_word_057"
+    },
+    {
+      "utterances": [
+        {
+          "start": 510.7058,
+          "end": 511.4326
+        },
+        {
+          "start": 512.8328,
+          "end": 513.6022
+        }
+      ],
+      "raw_texts": [
+        "തനുതു",
+        "തനുതു"
+      ],
+      "english_segments": [
+        {
+          "start": 497.67,
+          "end": 519.11,
+          "text": " pattuka pattuka paadilla paadilla tanukunnu tanukunnu tanuttu tanuttu tanupa tanupa"
+        }
+      ],
+      "transcript": "തണുത്തു",
+      "meaning": "to be (feel) cold",
+      "textbook_row": 51,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_24_word_058"
+    },
+    {
+      "utterances": [
+        {
+          "start": 514.6566,
+          "end": 515.6785
+        },
+        {
+          "start": 516.9481,
+          "end": 517.6791
+        }
+      ],
+      "raw_texts": [
+        "തനുപ്",
+        "തനുപ്"
+      ],
+      "english_segments": [
+        {
+          "start": 497.67,
+          "end": 519.11,
+          "text": " pattuka pattuka paadilla paadilla tanukunnu tanukunnu tanuttu tanuttu tanupa tanupa"
+        }
+      ],
+      "transcript": "തണുപ്പ്",
+      "meaning": "cold (temperature)",
+      "textbook_row": 52,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_24_word_059"
+    }
+  ],
+  "textbook_vocabulary": [
+    {
+      "malayalam": "പാലാരിവട്ടം",
+      "meaning": "Palarivattam – an area of Ernakulam city"
+    },
+    {
+      "malayalam": "ജനതാ ജംഗ്ഷൻ",
+      "meaning": "Janata Junction – an intersection or crossroad in Ernakulam"
+    },
+    {
+      "malayalam": "സമീപം",
+      "meaning": "near, (in the) vicinity"
+    },
+    {
+      "malayalam": "കിടപ്പ് (verbal noun)",
+      "meaning": "lying (down), repose"
+    },
+    {
+      "malayalam": "കിടപ്പുമുറി",
+      "meaning": "bedroom"
+    },
+    {
+      "malayalam": "അപേക്ഷിക്കുക",
+      "meaning": "to apply, to request, to entreat"
+    },
+    {
+      "malayalam": "എറിക്കാട്ട് വീട്",
+      "meaning": "‘Ericattu house’, Ericattu is a family name"
+    },
+    {
+      "malayalam": "നാഗമ്പടം",
+      "meaning": "Nagampadom, an area of Kottayam"
+    },
+    {
+      "malayalam": "വിധം",
+      "meaning": "type, manner, kind"
+    },
+    {
+      "malayalam": "വിവരം",
+      "meaning": "detail"
+    },
+    {
+      "malayalam": "നേരിൽ",
+      "meaning": "directly, in person"
+    },
+    {
+      "malayalam": "നേഴ്സ്",
+      "meaning": "nurse"
+    },
+    {
+      "malayalam": "പൊക്കം",
+      "meaning": "height"
+    },
+    {
+      "malayalam": "വെളുത്ത",
+      "meaning": "white (adj)"
+    },
+    {
+      "malayalam": "നിറം",
+      "meaning": "color, complexion"
+    },
+    {
+      "malayalam": "വണ്ണം",
+      "meaning": "obesity, thickness"
+    },
+    {
+      "malayalam": "കുറയുക (past: കുറഞ്ഞു)",
+      "meaning": "to decrease"
+    },
+    {
+      "malayalam": "കുറഞ്ഞത് (noun)",
+      "meaning": "that which is small (or lacking)"
+    },
+    {
+      "malayalam": "വണ്ണം കുറഞ്ഞത്",
+      "meaning": "one who is thin"
+    },
+    {
+      "malayalam": "എൻജിനീയർ",
+      "meaning": "Engineer"
+    },
+    {
+      "malayalam": "വരൻ",
+      "meaning": "bridegroom"
+    },
+    {
+      "malayalam": "അപേക്ഷ",
+      "meaning": "application, request"
+    },
+    {
+      "malayalam": "ചോദിച്ചു കൊള്ളുക",
+      "meaning": "to go ahead and ask"
+    },
+    {
+      "malayalam": "വ്യത്യസ്തം (noun)",
+      "meaning": "different"
+    },
+    {
+      "malayalam": "സ്നേഹിക്കുക",
+      "meaning": "to love"
+    },
+    {
+      "malayalam": "തമ്മിൽ",
+      "meaning": "between"
+    },
+    {
+      "malayalam": "വ്യത്യാസം",
+      "meaning": "difference"
+    },
+    {
+      "malayalam": "മനസ്സിലാക്കുക",
+      "meaning": "to understand, comprehend"
+    },
+    {
+      "malayalam": "അവരവർ",
+      "meaning": "they themselves"
+    },
+    {
+      "malayalam": "-- സാധിക്കുക",
+      "meaning": "can ---"
+    },
+    {
+      "malayalam": "പറഞ്ഞയില്ല",
+      "meaning": "never said, didn’t say"
+    },
+    {
+      "malayalam": "ചില",
+      "meaning": "some"
+    },
+    {
+      "malayalam": "അന്യോന്യം",
+      "meaning": "mutual, each other"
+    },
+    {
+      "malayalam": "നില നിൽക്കുക",
+      "meaning": "to endure, continue"
+    },
+    {
+      "malayalam": "എന്തുകൊണ്ടെന്നാൽ",
+      "meaning": "for (the reason that), because"
+    },
+    {
+      "malayalam": "സമൂഹം",
+      "meaning": "society, association, group"
+    },
+    {
+      "malayalam": "വിവാഹമോചനം",
+      "meaning": "divorce"
+    },
+    {
+      "malayalam": "നേടുക (past: നേടി)",
+      "meaning": "to obtain, gain"
+    },
+    {
+      "malayalam": "എതിർക്കുക (past: എതിർത്തു)",
+      "meaning": "to oppose"
+    },
+    {
+      "malayalam": "--കാൾ (accusative)",
+      "meaning": "than --"
+    },
+    {
+      "malayalam": "-- കൂടാ",
+      "meaning": "can’t, shouldn’t"
+    },
+    {
+      "malayalam": "മറ്റ് (adj)",
+      "meaning": "other, another"
+    },
+    {
+      "malayalam": "മറ്റൊരു (adj)",
+      "meaning": "another"
+    },
+    {
+      "malayalam": "-- കഴിയുക",
+      "meaning": "can --"
+    },
+    {
+      "malayalam": "പരിചിതം (antonym: അപരിചിതം)",
+      "meaning": "familiar"
+    },
+    {
+      "malayalam": "ഗുണം",
+      "meaning": "good quality or attribute"
+    },
+    {
+      "malayalam": "കുറവ്",
+      "meaning": "deficiency, shortcoming"
+    },
+    {
+      "malayalam": "ഉദാഹരണം",
+      "meaning": "example"
+    },
+    {
+      "malayalam": "ഏറ്റവും",
+      "meaning": "most, much, exceeding"
+    },
+    {
+      "malayalam": "-- പറ്റുക",
+      "meaning": "to be possible to --<br>to be able to --"
+    },
+    {
+      "malayalam": "-- പാടില്ല",
+      "meaning": "can’t, shouldn’t --"
+    },
+    {
+      "malayalam": "തണുക്കുന്നു (past: തണുത്തു)",
+      "meaning": "to be (feel) cold"
+    },
+    {
+      "malayalam": "തണുപ്പ് (noun)",
+      "meaning": "cold (temperature)"
+    }
+  ],
+  "unmatched_textbook_rows": [],
+  "recognition_sha256": "af1646d1ffff3ca3a53c21618057f0bbfb16c8e2ff2d5ce6394d25a6df76bc84",
+  "boundary_sha256": "1a9c3bc8b321a9f79fa8cbe3b6efa73db96a644bf46ca2f74f3889db4cc0edb0"
+}

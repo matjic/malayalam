@@ -31,38 +31,46 @@
 <div class="lesson-audio">
 <p><strong>Vocabulary audio</strong></p>
 <audio controls preload="none" aria-label="Lesson 6: Vocabulary audio" src="assets/audio/moag/sections/lesson_06_vocabulary_0.mp3"></audio>
-<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_06_vocabulary_0.mp3" aria-pressed="true">Listen · 03:24</button></div>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_06_vocabulary_0.mp3" aria-pressed="true">Listen · 01:41</button></div>
 <p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
 </div>
 <!-- /moag-audio -->
 
-| Malayalam | English |
-|---|---|
-| അടുത്ത് | (adverb) near, close by, next to, close to (postposition) |
-| ചന്ത | market |
-| ഉണ്ടല്ലോ | there certainly is, are, etc. |
-| ബ്രാഹ്മണഹോട്ടൽ | Brahmin Hotel |
-| അറിയില്ലേ | don't you know (dative subject) |
-| അറിയാം | I, you, etc. know |
-| <!-- Source: PDF page 118; printed page 68. --> പുറകിൽ | behind, in back of |
-| അമ്പലം | temple |
-| കാണാം | will see |
-| അപ്പുറത്ത് | beyond, on the other side (with dative or genitive noun) |
-| ഇപ്പുറത്ത് | before, on this side of |
-| തുണി | cloth, clothing |
-| ധാരാളം | a lot, many |
-| ഷർട്ട് | shirt |
-| സാരി | sari |
-| വാങ്ങിക്കണം | want to get |
-| സ്കൂൾ | school |
-| മുമ്പിൽ | opposite, in front of (with dative or genitive noun) |
-| കൃഷ്ണാ | a male name |
-| നോക്കൂ | look, look after (someone) |
-| നിന്ന് | from (with locative noun) |
-| നോക്കാം | will look, find out |
-| അവിടുന്ന് | from there |
-| നല്ല | good |
-| ചോദിക്കുക | to ask |
+<!-- moag-vocabulary-words -->
+<div class="lesson-audio">
+<p><strong>Selected vocabulary recording</strong></p>
+<audio data-table-audio-player controls preload="none" aria-label="Lesson 6: select a word in the vocabulary table"></audio>
+<p class="lesson-audio-note">Use the Audio column to hear a word. Recorded variants appear beside their written entry; additional recorded forms are included in the same table. Unconfirmed recordings stay in rows marked “check match” until their word is verified. A dash means no aligned recording yet.</p>
+</div>
+<!-- /moag-vocabulary-words -->
+
+| Malayalam | English | Audio |
+|---|---|---|
+| അടുത്ത് | (adverb) near, close by, next to, close to (postposition) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_06_word_001.mp3" data-audio-label="അടുത്ത്" aria-label="Play അടുത്ത്" title="Play അടുത്ത്" aria-pressed="false">▶</button> |
+| ചന്ത | market | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_06_word_002.mp3" data-audio-label="ചന്ത" aria-label="Play ചന്ത" title="Play ചന്ത" aria-pressed="false">▶</button> |
+| ഉണ്ടല്ലോ | there certainly is, are, etc. | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_06_word_003.mp3" data-audio-label="ഉണ്ടല്ലോ" aria-label="Play ഉണ്ടല്ലോ" title="Play ഉണ്ടല്ലോ" aria-pressed="false">▶</button> |
+| ബ്രാഹ്മണഹോട്ടൽ | Brahmin Hotel | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_06_word_004.mp3" data-audio-label="ബ്രാഹ്മണഹോട്ടൽ" aria-label="Play ബ്രാഹ്മണഹോട്ടൽ" title="Play ബ്രാഹ്മണഹോട്ടൽ" aria-pressed="false">▶</button> |
+| അറിയില്ലേ | don't you know (dative subject) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_06_word_005.mp3" data-audio-label="അറിയില്ലേ" aria-label="Play അറിയില്ലേ" title="Play അറിയില്ലേ" aria-pressed="false">▶</button> |
+| അറിയാം | I, you, etc. know | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_06_word_006.mp3" data-audio-label="അറിയാം" aria-label="Play അറിയാം" title="Play അറിയാം" aria-pressed="false">▶</button> |
+| <!-- Source: PDF page 118; printed page 68. --> പുറകിൽ | behind, in back of | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_06_word_007.mp3" data-audio-label="പുറകിൽ" aria-label="Play പുറകിൽ" title="Play പുറകിൽ" aria-pressed="false">▶</button> |
+| അമ്പലം | temple | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_06_word_008.mp3" data-audio-label="അമ്പലം" aria-label="Play അമ്പലം" title="Play അമ്പലം" aria-pressed="false">▶</button> |
+| കാണാം | will see | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_06_word_009.mp3" data-audio-label="കാണാം" aria-label="Play കാണാം" title="Play കാണാം" aria-pressed="false">▶</button> |
+| അപ്പുറത്ത് | beyond, on the other side (with dative or genitive noun) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_06_word_010.mp3" data-audio-label="അപ്പുറത്ത്" aria-label="Play അപ്പുറത്ത്" title="Play അപ്പുറത്ത്" aria-pressed="false">▶</button> |
+| ഇപ്പുറത്ത് | before, on this side of | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_06_word_011.mp3" data-audio-label="ഇപ്പുറത്ത്" aria-label="Play ഇപ്പുറത്ത്" title="Play ഇപ്പുറത്ത്" aria-pressed="false">▶</button> |
+| തുണി | cloth, clothing | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_06_word_012.mp3" data-audio-label="തുണി" aria-label="Play തുണി" title="Play തുണി" aria-pressed="false">▶</button> |
+| ധാരാളം | a lot, many | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_06_word_013.mp3" data-audio-label="ധാരാളം" aria-label="Play ധാരാളം" title="Play ധാരാളം" aria-pressed="false">▶</button> |
+| ഷർട്ട് | shirt | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_06_word_014.mp3" data-audio-label="ഷർട്ട്" aria-label="Play ഷർട്ട്" title="Play ഷർട്ട്" aria-pressed="false">▶</button> |
+| സാരി | sari | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_06_word_015.mp3" data-audio-label="സാരി" aria-label="Play സാരി" title="Play സാരി" aria-pressed="false">▶</button> |
+| വാങ്ങിക്കണം | want to get | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_06_word_016.mp3" data-audio-label="വാങ്ങിക്കണം" aria-label="Play വാങ്ങിക്കണം" title="Play വാങ്ങിക്കണം" aria-pressed="false">▶</button> |
+| സ്കൂൾ | school | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_06_word_017.mp3" data-audio-label="സ്കൂൾ" aria-label="Play സ്കൂൾ" title="Play സ്കൂൾ" aria-pressed="false">▶</button> |
+| മുമ്പിൽ | opposite, in front of (with dative or genitive noun) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_06_word_018.mp3" data-audio-label="മുമ്പിൽ" aria-label="Play മുമ്പിൽ" title="Play മുമ്പിൽ" aria-pressed="false">▶</button> |
+| കൃഷ്ണാ | a male name | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_06_word_019.mp3" data-audio-label="കൃഷ്ണാ" aria-label="Play കൃഷ്ണാ" title="Play കൃഷ്ണാ" aria-pressed="false">▶</button> |
+| നോക്കൂ | look, look after (someone) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_06_word_020.mp3" data-audio-label="നോക്കൂ" aria-label="Play നോക്കൂ" title="Play നോക്കൂ" aria-pressed="false">▶</button> |
+| നിന്ന് | from (with locative noun) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_06_word_021.mp3" data-audio-label="നിന്ന്" aria-label="Play നിന്ന്" title="Play നിന്ന്" aria-pressed="false">▶</button> |
+| നോക്കാം | will look, find out | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_06_word_022.mp3" data-audio-label="നോക്കാം" aria-label="Play നോക്കാം" title="Play നോക്കാം" aria-pressed="false">▶</button> |
+| അവിടുന്ന് | from there | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_06_word_023.mp3" data-audio-label="അവിടുന്ന്" aria-label="Play അവിടുന്ന്" title="Play അവിടുന്ന്" aria-pressed="false">▶</button> |
+| നല്ല | good | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| ചോദിക്കുക | to ask | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
 
 <a id="lesson6-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice

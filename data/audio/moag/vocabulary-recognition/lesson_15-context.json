@@ -1,0 +1,585 @@
+{
+  "model": "Whisper large-v3",
+  "source": "data/audio/moag/lesson_15.mp3",
+  "range_start": 118,
+  "range_end": 136,
+  "results": {
+    "en": {
+      "text": " Two names Kairuka Kairi Kairi Kairi Kairi Kairi",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 11800,
+          "start": 118.0,
+          "end": 119.48,
+          "text": " Two names",
+          "tokens": [
+            50365,
+            4453,
+            5288,
+            50465
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.6443919131630346,
+          "compression_ratio": 4.103448275862069,
+          "no_speech_prob": 0.20023295283317566,
+          "words": [
+            {
+              "word": " Two",
+              "start": 118.0,
+              "end": 119.26,
+              "probability": 0.125732421875
+            },
+            {
+              "word": " names",
+              "start": 119.26,
+              "end": 119.48,
+              "probability": 0.46337890625
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "seek": 11800,
+          "start": 121.6,
+          "end": 123.0,
+          "text": " Kairuka",
+          "tokens": [
+            50465,
+            591,
+            1246,
+            13599,
+            50621
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.6443919131630346,
+          "compression_ratio": 4.103448275862069,
+          "no_speech_prob": 0.20023295283317566,
+          "words": [
+            {
+              "word": " Kairuka",
+              "start": 121.6,
+              "end": 123.0,
+              "probability": 0.31005859375
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "seek": 11800,
+          "start": 127.22,
+          "end": 128.62,
+          "text": " Kairi",
+          "tokens": [
+            50621,
+            591,
+            1246,
+            72,
+            50909
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.6443919131630346,
+          "compression_ratio": 4.103448275862069,
+          "no_speech_prob": 0.20023295283317566,
+          "words": [
+            {
+              "word": " Kairi",
+              "start": 127.22,
+              "end": 128.62,
+              "probability": 0.845703125
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "seek": 11800,
+          "start": 130.14,
+          "end": 131.54,
+          "text": " Kairi",
+          "tokens": [
+            50909,
+            591,
+            1246,
+            72,
+            51047
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.6443919131630346,
+          "compression_ratio": 4.103448275862069,
+          "no_speech_prob": 0.20023295283317566,
+          "words": [
+            {
+              "word": " Kairi",
+              "start": 130.14,
+              "end": 131.54,
+              "probability": 0.74951171875
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "seek": 11800,
+          "start": 134.5,
+          "end": 135.9,
+          "text": " Kairi",
+          "tokens": [
+            51047,
+            591,
+            1246,
+            72,
+            51047
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.6443919131630346,
+          "compression_ratio": 4.103448275862069,
+          "no_speech_prob": 0.20023295283317566,
+          "words": [
+            {
+              "word": " Kairi",
+              "start": 134.5,
+              "end": 135.9,
+              "probability": 0.712890625
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "seek": 11800,
+          "start": 135.9,
+          "end": 135.92,
+          "text": " Kairi",
+          "tokens": [
+            51047,
+            591,
+            1246,
+            72,
+            51047
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.6443919131630346,
+          "compression_ratio": 4.103448275862069,
+          "no_speech_prob": 0.20023295283317566,
+          "words": [
+            {
+              "word": " Kairi",
+              "start": 135.9,
+              "end": 135.92,
+              "probability": 0.8271484375
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "seek": 11800,
+          "start": 135.92,
+          "end": 135.98,
+          "text": " Kairi",
+          "tokens": [
+            51047,
+            591,
+            1246,
+            72,
+            51048
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.6443919131630346,
+          "compression_ratio": 4.103448275862069,
+          "no_speech_prob": 0.20023295283317566,
+          "words": [
+            {
+              "word": " Kairi",
+              "start": 135.92,
+              "end": 135.98,
+              "probability": 0.90283203125
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "seek": 11800,
+          "start": 135.98,
+          "end": 135.98,
+          "text": "",
+          "tokens": [],
+          "temperature": 0,
+          "avg_logprob": -0.6443919131630346,
+          "compression_ratio": 4.103448275862069,
+          "no_speech_prob": 0.20023295283317566,
+          "words": []
+        },
+        {
+          "id": 8,
+          "seek": 11800,
+          "start": 135.98,
+          "end": 135.98,
+          "text": "",
+          "tokens": [],
+          "temperature": 0,
+          "avg_logprob": -0.6443919131630346,
+          "compression_ratio": 4.103448275862069,
+          "no_speech_prob": 0.20023295283317566,
+          "words": []
+        },
+        {
+          "id": 9,
+          "seek": 11800,
+          "start": 135.98,
+          "end": 135.98,
+          "text": "",
+          "tokens": [],
+          "temperature": 0,
+          "avg_logprob": -0.6443919131630346,
+          "compression_ratio": 4.103448275862069,
+          "no_speech_prob": 0.20023295283317566,
+          "words": []
+        },
+        {
+          "id": 10,
+          "seek": 11800,
+          "start": 135.98,
+          "end": 135.98,
+          "text": "",
+          "tokens": [],
+          "temperature": 0,
+          "avg_logprob": -0.6443919131630346,
+          "compression_ratio": 4.103448275862069,
+          "no_speech_prob": 0.20023295283317566,
+          "words": []
+        },
+        {
+          "id": 11,
+          "seek": 11800,
+          "start": 135.98,
+          "end": 135.98,
+          "text": "",
+          "tokens": [],
+          "temperature": 0,
+          "avg_logprob": -0.6443919131630346,
+          "compression_ratio": 4.103448275862069,
+          "no_speech_prob": 0.20023295283317566,
+          "words": []
+        },
+        {
+          "id": 12,
+          "seek": 11800,
+          "start": 135.98,
+          "end": 135.98,
+          "text": "",
+          "tokens": [],
+          "temperature": 0,
+          "avg_logprob": -0.6443919131630346,
+          "compression_ratio": 4.103448275862069,
+          "no_speech_prob": 0.20023295283317566,
+          "words": []
+        },
+        {
+          "id": 13,
+          "seek": 11800,
+          "start": 135.98,
+          "end": 135.98,
+          "text": "",
+          "tokens": [],
+          "temperature": 0,
+          "avg_logprob": -0.6443919131630346,
+          "compression_ratio": 4.103448275862069,
+          "no_speech_prob": 0.20023295283317566,
+          "words": []
+        },
+        {
+          "id": 14,
+          "seek": 11800,
+          "start": 135.98,
+          "end": 135.98,
+          "text": "",
+          "tokens": [],
+          "temperature": 0,
+          "avg_logprob": -0.6443919131630346,
+          "compression_ratio": 4.103448275862069,
+          "no_speech_prob": 0.20023295283317566,
+          "words": []
+        },
+        {
+          "id": 15,
+          "seek": 11800,
+          "start": 135.98,
+          "end": 135.98,
+          "text": "",
+          "tokens": [],
+          "temperature": 0,
+          "avg_logprob": -0.6443919131630346,
+          "compression_ratio": 4.103448275862069,
+          "no_speech_prob": 0.20023295283317566,
+          "words": []
+        },
+        {
+          "id": 16,
+          "seek": 11800,
+          "start": 135.98,
+          "end": 135.98,
+          "text": "",
+          "tokens": [],
+          "temperature": 0,
+          "avg_logprob": -0.6443919131630346,
+          "compression_ratio": 4.103448275862069,
+          "no_speech_prob": 0.20023295283317566,
+          "words": []
+        },
+        {
+          "id": 17,
+          "seek": 11800,
+          "start": 135.98,
+          "end": 135.98,
+          "text": "",
+          "tokens": [],
+          "temperature": 0,
+          "avg_logprob": -0.6443919131630346,
+          "compression_ratio": 4.103448275862069,
+          "no_speech_prob": 0.20023295283317566,
+          "words": []
+        },
+        {
+          "id": 18,
+          "seek": 11800,
+          "start": 135.98,
+          "end": 135.98,
+          "text": "",
+          "tokens": [],
+          "temperature": 0,
+          "avg_logprob": -0.6443919131630346,
+          "compression_ratio": 4.103448275862069,
+          "no_speech_prob": 0.20023295283317566,
+          "words": []
+        }
+      ],
+      "language": "en"
+    },
+    "ml": {
+      "text": " കയറുക കയറുക കയരുക കയരുക കയരുക കയരുക കയരുക കയരുക കയരുക കയരുക കയര",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 11800,
+          "start": 122.83999999999999,
+          "end": 135.98,
+          "text": " കയറുക കയറുക കയരുക കയരുക കയരുക കയരുക കയരുക കയരുക കയരുക കയരുക കയര",
+          "tokens": [
+            50365,
+            220,
+            46503,
+            243,
+            46503,
+            107,
+            46503,
+            109,
+            156,
+            113,
+            223,
+            46503,
+            243,
+            220,
+            46503,
+            243,
+            46503,
+            107,
+            46503,
+            109,
+            156,
+            113,
+            223,
+            46503,
+            243,
+            220,
+            46503,
+            243,
+            46503,
+            107,
+            46503,
+            108,
+            156,
+            113,
+            223,
+            46503,
+            243,
+            220,
+            46503,
+            243,
+            46503,
+            107,
+            46503,
+            108,
+            156,
+            113,
+            223,
+            46503,
+            243,
+            220,
+            46503,
+            243,
+            46503,
+            107,
+            46503,
+            108,
+            156,
+            113,
+            223,
+            46503,
+            243,
+            220,
+            46503,
+            243,
+            46503,
+            107,
+            46503,
+            108,
+            156,
+            113,
+            223,
+            46503,
+            243,
+            220,
+            46503,
+            243,
+            46503,
+            107,
+            46503,
+            108,
+            156,
+            113,
+            223,
+            46503,
+            243,
+            220,
+            46503,
+            243,
+            46503,
+            107,
+            46503,
+            108,
+            156,
+            113,
+            223,
+            46503,
+            243,
+            220,
+            46503,
+            243,
+            46503,
+            107,
+            46503,
+            108,
+            156,
+            113,
+            223,
+            46503,
+            243,
+            220,
+            46503,
+            243,
+            46503,
+            107,
+            46503,
+            108,
+            156,
+            113,
+            223,
+            46503,
+            243,
+            220,
+            46503,
+            243,
+            46503,
+            107,
+            46503,
+            108
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.14079441395840903,
+          "compression_ratio": 5.28125,
+          "no_speech_prob": 0.032802920788526535,
+          "words": [
+            {
+              "word": " കയറുക",
+              "start": 122.83999999999999,
+              "end": 124.24,
+              "probability": 0.58984375
+            },
+            {
+              "word": " കയറുക",
+              "start": 124.24,
+              "end": 125.64,
+              "probability": 0.74755859375
+            },
+            {
+              "word": " കയരുക",
+              "start": 125.64,
+              "end": 127.2,
+              "probability": 0.81640625
+            },
+            {
+              "word": " കയരുക",
+              "start": 127.2,
+              "end": 128.76,
+              "probability": 0.86669921875
+            },
+            {
+              "word": " കയരുക",
+              "start": 128.76,
+              "end": 128.78,
+              "probability": 0.9150390625
+            },
+            {
+              "word": " കയരുക",
+              "start": 128.78,
+              "end": 131.36,
+              "probability": 0.896484375
+            },
+            {
+              "word": " കയരുക",
+              "start": 131.36,
+              "end": 131.46,
+              "probability": 0.884765625
+            },
+            {
+              "word": " കയരുക",
+              "start": 131.46,
+              "end": 131.5,
+              "probability": 0.8935546875
+            },
+            {
+              "word": " കയരുക",
+              "start": 131.5,
+              "end": 131.5,
+              "probability": 0.90673828125
+            },
+            {
+              "word": " കയരുക",
+              "start": 131.5,
+              "end": 134.16,
+              "probability": 0.91845703125
+            },
+            {
+              "word": " കയര",
+              "start": 134.16,
+              "end": 135.98,
+              "probability": 0.888671875
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "seek": 13598,
+          "start": 135.96,
+          "end": 135.96,
+          "text": "",
+          "tokens": [],
+          "temperature": 0,
+          "avg_logprob": -0.4297504127025604,
+          "compression_ratio": 0.7419354838709677,
+          "no_speech_prob": 0.9310551881790161,
+          "words": []
+        }
+      ],
+      "language": "ml"
+    }
+  }
+}

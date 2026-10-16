@@ -1,0 +1,45 @@
+[
+  {
+    "id": "lesson_11_word_012",
+    "lesson": 11,
+    "source": "data/audio/moag/lesson_11.mp3",
+    "start": 162.6857,
+    "end": 164.5272,
+    "utterances": [
+      {
+        "start": 162.6857,
+        "end": 163.1137
+      },
+      {
+        "start": 163.4546,
+        "end": 164.5272
+      }
+    ],
+    "path": "docs/assets/audio/moag/words/lesson_11_word_012.mp3",
+    "sha256": "3807d135b888a09886196c12f0d2d5d034f8b3a61ed6fbe68fd20013bc82a8a1",
+    "reason": "Repeated-word fragment now included in the repaired lesson_11_word_011 clip. Retire the duplicate table player, retaining the old artifact and continuous recording.",
+    "retain_artifact": true,
+    "retained_in_continuous_recording": true
+  },
+  {
+    "id": "lesson_20_word_041",
+    "lesson": 20,
+    "source": "data/audio/moag/lesson_20.mp3",
+    "start": 256.7569,
+    "end": 258.2501,
+    "utterances": [
+      {
+        "start": 256.7569,
+        "end": 258.2501
+      }
+    ],
+    "path": "docs/assets/audio/moag/words/lesson_20_word_041.mp3",
+    "sha256": "2465cb402656fa2f6ad03b1c518d85f029bc8000a7c9f81620020b8c3ce8f4e3",
+    "transcript": "Part Two",
+    "reviewer": "user",
+    "human_confirmation": "Lesson 20 · clip 041 part two",
+    "reason": "User confirmed the English section announcement Part Two. Exclude from vocabulary players; retain the clip and full recording.",
+    "retain_artifact": true,
+    "retained_in_continuous_recording": true
+  }
+]

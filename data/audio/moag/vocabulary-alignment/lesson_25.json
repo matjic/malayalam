@@ -1,0 +1,2637 @@
+{
+  "pipeline_version": 6,
+  "lesson": 25,
+  "source": "data/audio/moag/lesson_25.mp3",
+  "model": "Whisper large-v3 (32 encoder and 32 decoder layers), MLX",
+  "range_start": 250.16,
+  "range_end": 631.36,
+  "method": "Acoustic cepstrum comparison pairs repeated utterances independently of textbook order; large-v3 word end timestamps matched to pauses, then global spelling assignment against printed vocabulary (order is only a weak tie-breaker). Low-confidence labels require review. Raw recognizer text retained.",
+  "words": [
+    {
+      "utterances": [
+        {
+          "start": 252.4276,
+          "end": 253.5462
+        }
+      ],
+      "raw_texts": [
+        "ജന്മദേഷമ്"
+      ],
+      "english_segments": [
+        {
+          "start": 250.16,
+          "end": 255.62,
+          "text": " janma desham"
+        }
+      ],
+      "transcript": "ജന്മദേശം",
+      "meaning": "native land",
+      "textbook_row": 0,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_25_word_001"
+    },
+    {
+      "utterances": [
+        {
+          "start": 255.5043,
+          "end": 256.1407
+        },
+        {
+          "start": 257.178,
+          "end": 257.812
+        }
+      ],
+      "raw_texts": [
+        "നദീ",
+        "നദീ"
+      ],
+      "english_segments": [
+        {
+          "start": 255.62,
+          "end": 259.16,
+          "text": " nadi"
+        }
+      ],
+      "transcript": "നദി",
+      "meaning": "river",
+      "textbook_row": 1,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_25_word_002"
+    },
+    {
+      "utterances": [
+        {
+          "start": 259.0429,
+          "end": 259.7555
+        },
+        {
+          "start": 260.9147,
+          "end": 261.6399
+        }
+      ],
+      "raw_texts": [
+        "അരുവീ",
+        "അരുവീ"
+      ],
+      "english_segments": [
+        {
+          "start": 259.16,
+          "end": 263.08,
+          "text": " aruvi"
+        }
+      ],
+      "transcript": "അരുവി",
+      "meaning": "stream",
+      "textbook_row": 2,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_25_word_003"
+    },
+    {
+      "utterances": [
+        {
+          "start": 262.959,
+          "end": 263.7774
+        },
+        {
+          "start": 264.8873,
+          "end": 265.673
+        }
+      ],
+      "raw_texts": [
+        "ഗ്രാമ്",
+        "ഗ്രാമ്"
+      ],
+      "english_segments": [
+        {
+          "start": 263.08,
+          "end": 267.28,
+          "text": " gramam"
+        }
+      ],
+      "transcript": "ഗ്രാമം",
+      "meaning": "village",
+      "textbook_row": 3,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_25_word_004"
+    },
+    {
+      "utterances": [
+        {
+          "start": 267.1563,
+          "end": 268.2151
+        },
+        {
+          "start": 269.6001,
+          "end": 270.6746
+        }
+      ],
+      "raw_texts": [
+        "തെങ്യൿന് തോപ്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 267.28,
+          "end": 272.18,
+          "text": " thingin thop"
+        }
+      ],
+      "transcript": "തെങ്ങിൻതോപ്പ്",
+      "meaning": "coconut grove",
+      "textbook_row": 4,
+      "similarity": 0.824,
+      "status": "matched",
+      "id": "lesson_25_word_005"
+    },
+    {
+      "utterances": [
+        {
+          "start": 272.0661,
+          "end": 272.6831
+        },
+        {
+          "start": 273.8934,
+          "end": 274.5423
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 272.18,
+          "end": 275.96,
+          "text": " vanam"
+        }
+      ],
+      "transcript": "വനം",
+      "meaning": "forest",
+      "textbook_row": 5,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_25_word_006"
+    },
+    {
+      "utterances": [
+        {
+          "start": 275.8378,
+          "end": 276.6958
+        },
+        {
+          "start": 277.829,
+          "end": 278.705
+        }
+      ],
+      "raw_texts": [
+        "",
+        "നിരയുക"
+      ],
+      "english_segments": [
+        {
+          "start": 275.96,
+          "end": 288.72,
+          "text": " nirayuga niranyu niranya"
+        }
+      ],
+      "transcript": "നിറയുക",
+      "meaning": "to be filled (intr.)",
+      "textbook_row": 6,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_25_word_007"
+    },
+    {
+      "utterances": [
+        {
+          "start": 280.1927,
+          "end": 280.9494
+        },
+        {
+          "start": 282.1576,
+          "end": 282.9886
+        }
+      ],
+      "raw_texts": [
+        "നിരണ്ഞു",
+        "നിരണ്ഞു"
+      ],
+      "english_segments": [
+        {
+          "start": 275.96,
+          "end": 288.72,
+          "text": " nirayuga niranyu niranya"
+        }
+      ],
+      "transcript": "നിറഞ്ഞു",
+      "meaning": "to be filled (intr.)",
+      "textbook_row": 6,
+      "similarity": 0.909,
+      "status": "matched",
+      "id": "lesson_25_word_008"
+    },
+    {
+      "utterances": [
+        {
+          "start": 284.361,
+          "end": 285.2945
+        },
+        {
+          "start": 286.3873,
+          "end": 287.3016
+        }
+      ],
+      "raw_texts": [
+        "നിരണ്ഞ്ഞൾ",
+        "നിരണ്ഞൾ"
+      ],
+      "english_segments": [
+        {
+          "start": 275.96,
+          "end": 288.72,
+          "text": " nirayuga niranyu niranya"
+        }
+      ],
+      "transcript": "നിറഞ്ഞ",
+      "meaning": "which is full of --",
+      "textbook_row": 7,
+      "similarity": 0.8,
+      "status": "matched",
+      "id": "lesson_25_word_009"
+    },
+    {
+      "utterances": [
+        {
+          "start": 288.5897,
+          "end": 289.4949
+        },
+        {
+          "start": 290.8707,
+          "end": 291.7729
+        }
+      ],
+      "raw_texts": [
+        "ആരുടേയും",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 288.72,
+          "end": 296.68,
+          "text": " arudayim hrudayam"
+        }
+      ],
+      "transcript": "ആരുടേയും",
+      "meaning": "anyone's",
+      "textbook_row": 8,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_25_word_010"
+    },
+    {
+      "utterances": [
+        {
+          "start": 293.019,
+          "end": 293.8202
+        },
+        {
+          "start": 294.7195,
+          "end": 295.5222
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 288.72,
+          "end": 296.68,
+          "text": " arudayim hrudayam"
+        }
+      ],
+      "transcript": "ഹൃദയം",
+      "meaning": "heart",
+      "textbook_row": 9,
+      "similarity": 0.554,
+      "status": "review",
+      "id": "lesson_25_word_011"
+    },
+    {
+      "utterances": [
+        {
+          "start": 296.5674,
+          "end": 297.5227
+        },
+        {
+          "start": 298.4818,
+          "end": 299.4215
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 296.68,
+          "end": 303.22,
+          "text": " kavaruga, kavaruga, kavarnu, kavarnu,"
+        }
+      ],
+      "transcript": "കവരുക",
+      "meaning": "to steal",
+      "textbook_row": 10,
+      "similarity": 0.4,
+      "status": "review",
+      "id": "lesson_25_word_012"
+    },
+    {
+      "utterances": [
+        {
+          "start": 300.2756,
+          "end": 301.1226
+        },
+        {
+          "start": 302.1434,
+          "end": 303.0046
+        }
+      ],
+      "raw_texts": [
+        "ആരുടേയും",
+        "കവര്ണു"
+      ],
+      "english_segments": [
+        {
+          "start": 296.68,
+          "end": 303.22,
+          "text": " kavaruga, kavaruga, kavarnu, kavarnu,"
+        }
+      ],
+      "transcript": "കവർന്നു",
+      "meaning": "to steal",
+      "textbook_row": 10,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_25_word_013"
+    },
+    {
+      "utterances": [
+        {
+          "start": 304.2844,
+          "end": 305.4843
+        },
+        {
+          "start": 306.3879,
+          "end": 307.3861
+        }
+      ],
+      "raw_texts": [
+        "പൂപ്രകൃദ്ദ്",
+        "പൂപ്രകൃദ്"
+      ],
+      "english_segments": [
+        {
+          "start": 304.42,
+          "end": 307.68,
+          "text": " phooprakriti, phooprakriti,"
+        }
+      ],
+      "transcript": "ഭൂപ്രകൃതി",
+      "meaning": "geographic layout",
+      "textbook_row": 11,
+      "similarity": 0.933,
+      "status": "matched",
+      "id": "lesson_25_word_014"
+    },
+    {
+      "utterances": [
+        {
+          "start": 308.8922,
+          "end": 309.8133
+        },
+        {
+          "start": 311.111,
+          "end": 312.0202
+        }
+      ],
+      "raw_texts": [
+        "മലനാഡ്",
+        "മലനാഡ്"
+      ],
+      "english_segments": [
+        {
+          "start": 309.04,
+          "end": 312.68,
+          "text": " malanadu, malanadu,"
+        }
+      ],
+      "transcript": "മലനാട്",
+      "meaning": "hilly country",
+      "textbook_row": 12,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_25_word_015"
+    },
+    {
+      "utterances": [
+        {
+          "start": 313.3864,
+          "end": 314.3786
+        },
+        {
+          "start": 315.6288,
+          "end": 316.5791
+        }
+      ],
+      "raw_texts": [
+        "ഇഡനാഡ്",
+        "ഇഡനാഡ്"
+      ],
+      "english_segments": [
+        {
+          "start": 313.54,
+          "end": 316.68,
+          "text": " idanadu, idanadu,"
+        }
+      ],
+      "transcript": "ഇടനാട്",
+      "meaning": "middle region",
+      "textbook_row": 13,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_25_word_016"
+    },
+    {
+      "utterances": [
+        {
+          "start": 318.0052,
+          "end": 318.9742
+        },
+        {
+          "start": 320.6077,
+          "end": 321.5143
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 316.68,
+          "end": 321.68,
+          "text": " samathalam, samathalam,"
+        }
+      ],
+      "transcript": "സമതലം",
+      "meaning": "plain, coastal region",
+      "textbook_row": 14,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_25_word_017"
+    },
+    {
+      "utterances": [
+        {
+          "start": 323.2054,
+          "end": 324.2978
+        },
+        {
+          "start": 325.6376,
+          "end": 326.7425
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 321.68,
+          "end": 326.68,
+          "text": " Pāgikyuga"
+        }
+      ],
+      "transcript": "ഭാഗിക്കുക",
+      "meaning": "to divide",
+      "textbook_row": 15,
+      "similarity": 0.894,
+      "status": "matched",
+      "id": "lesson_25_word_018"
+    },
+    {
+      "utterances": [
+        {
+          "start": 327.8293,
+          "end": 328.6082
+        },
+        {
+          "start": 329.6599,
+          "end": 330.4141
+        }
+      ],
+      "raw_texts": [
+        "സമ",
+        "രബ്ബര്"
+      ],
+      "english_segments": [
+        {
+          "start": 326.68,
+          "end": 330.68,
+          "text": " Rabbar"
+        }
+      ],
+      "transcript": "റബ്ബർ",
+      "meaning": "rubber",
+      "textbook_row": 16,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_25_word_019"
+    },
+    {
+      "utterances": [
+        {
+          "start": 331.7018,
+          "end": 332.5293
+        },
+        {
+          "start": 333.822,
+          "end": 334.73
+        }
+      ],
+      "raw_texts": [
+        "തൈല്യു",
+        "തൈല്യു"
+      ],
+      "english_segments": [
+        {
+          "start": 330.68,
+          "end": 334.68,
+          "text": " Teila"
+        }
+      ],
+      "transcript": "തേയില",
+      "meaning": "tea, tea leaves",
+      "textbook_row": 17,
+      "similarity": 0.864,
+      "status": "matched",
+      "id": "lesson_25_word_020"
+    },
+    {
+      "utterances": [
+        {
+          "start": 336.183,
+          "end": 336.9357
+        },
+        {
+          "start": 338.3813,
+          "end": 339.1429
+        }
+      ],
+      "raw_texts": [
+        "ഏല്യു",
+        "ഏല്യു"
+      ],
+      "english_segments": [
+        {
+          "start": 334.68,
+          "end": 339.68,
+          "text": " Elam"
+        }
+      ],
+      "transcript": "ഏലം",
+      "meaning": "cardamom",
+      "textbook_row": 18,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_25_word_021"
+    },
+    {
+      "utterances": [
+        {
+          "start": 340.7237,
+          "end": 341.4927
+        },
+        {
+          "start": 342.7979,
+          "end": 343.6299
+        }
+      ],
+      "raw_texts": [
+        "എന്നിവൾ",
+        "എന്നിവൾ"
+      ],
+      "english_segments": [
+        {
+          "start": 339.68,
+          "end": 343.68,
+          "text": " Enniva"
+        }
+      ],
+      "transcript": "എന്നിവ",
+      "meaning": "et cetera",
+      "textbook_row": 19,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_25_word_022"
+    },
+    {
+      "utterances": [
+        {
+          "start": 344.8389,
+          "end": 345.6232
+        },
+        {
+          "start": 346.9997,
+          "end": 347.7696
+        }
+      ],
+      "raw_texts": [
+        "ഇംജി",
+        "ഇംജി"
+      ],
+      "english_segments": [
+        {
+          "start": 343.68,
+          "end": 347.68,
+          "text": " Inji"
+        }
+      ],
+      "transcript": "ഇഞ്ചി",
+      "meaning": "ginger",
+      "textbook_row": 20,
+      "similarity": 0.844,
+      "status": "matched",
+      "id": "lesson_25_word_023"
+    },
+    {
+      "utterances": [
+        {
+          "start": 349.3985,
+          "end": 350.1891
+        },
+        {
+          "start": 351.5166,
+          "end": 352.2734
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 347.68,
+          "end": 357.16,
+          "text": " kuru mulagu"
+        }
+      ],
+      "transcript": "കുരുമുളക്",
+      "meaning": "black pepper",
+      "textbook_row": 22,
+      "similarity": 0.9,
+      "status": "matched",
+      "id": "lesson_25_word_024"
+    },
+    {
+      "utterances": [
+        {
+          "start": 354.007,
+          "end": 355.0014
+        },
+        {
+          "start": 356.3778,
+          "end": 357.2576
+        }
+      ],
+      "raw_texts": [
+        "",
+        "കുരുമുലഗ"
+      ],
+      "english_segments": [
+        {
+          "start": 347.68,
+          "end": 357.16,
+          "text": " kuru mulagu"
+        }
+      ],
+      "transcript": "മഞ്ഞൾ",
+      "meaning": "turmeric",
+      "textbook_row": 21,
+      "similarity": 0.364,
+      "status": "review",
+      "id": "lesson_25_word_025"
+    },
+    {
+      "utterances": [
+        {
+          "start": 358.7339,
+          "end": 359.7518
+        },
+        {
+          "start": 361.1688,
+          "end": 362.1374
+        }
+      ],
+      "raw_texts": [
+        "മരച്ചീന്ന്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 357.16,
+          "end": 362.0,
+          "text": " marachini"
+        }
+      ],
+      "transcript": "മരച്ചീനി",
+      "meaning": "tapioca",
+      "textbook_row": 23,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_25_word_026"
+    },
+    {
+      "utterances": [
+        {
+          "start": 363.5302,
+          "end": 364.4656
+        },
+        {
+          "start": 365.9604,
+          "end": 366.9936
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 362.0,
+          "end": 366.82,
+          "text": " mudalaya va"
+        }
+      ],
+      "transcript": "മുതലായവ",
+      "meaning": "et cetera",
+      "textbook_row": 24,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_25_word_027"
+    },
+    {
+      "utterances": [
+        {
+          "start": 368.3595,
+          "end": 369.1184
+        },
+        {
+          "start": 370.0261,
+          "end": 371.3503
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 366.82,
+          "end": 370.54,
+          "text": " thenga"
+        },
+        {
+          "start": 370.54,
+          "end": 372.26,
+          "text": " thenga"
+        }
+      ],
+      "transcript": "തെങ്ങ്",
+      "meaning": "coconut tree",
+      "textbook_row": 25,
+      "similarity": 0.691,
+      "status": "review",
+      "id": "lesson_25_word_028"
+    },
+    {
+      "utterances": [
+        {
+          "start": 371.6433,
+          "end": 372.4166
+        },
+        {
+          "start": 373.4127,
+          "end": 374.1837
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 370.54,
+          "end": 372.26,
+          "text": " thenga"
+        },
+        {
+          "start": 372.26,
+          "end": 374.04,
+          "text": " thenga"
+        }
+      ],
+      "transcript": "തേങ്ങ",
+      "meaning": "coconut",
+      "textbook_row": 26,
+      "similarity": 0.792,
+      "status": "matched",
+      "id": "lesson_25_word_029"
+    },
+    {
+      "utterances": [
+        {
+          "start": 375.2524,
+          "end": 375.9387
+        },
+        {
+          "start": 377.05,
+          "end": 377.7355
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 374.04,
+          "end": 375.8,
+          "text": " nella"
+        },
+        {
+          "start": 375.8,
+          "end": 377.66,
+          "text": " nella"
+        }
+      ],
+      "transcript": "നെല്ല്",
+      "meaning": "rice (paddy)",
+      "textbook_row": 27,
+      "similarity": 0.814,
+      "status": "matched",
+      "id": "lesson_25_word_030"
+    },
+    {
+      "utterances": [
+        {
+          "start": 378.8123,
+          "end": 379.5241
+        },
+        {
+          "start": 380.8637,
+          "end": 381.6132
+        }
+      ],
+      "raw_texts": [
+        "മരച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച്ച",
+        "വിളവ"
+      ],
+      "english_segments": [
+        {
+          "start": 377.66,
+          "end": 394.66,
+          "text": " vilava dhanyam pachatyar agarsikyuga"
+        }
+      ],
+      "transcript": "വിളവ്",
+      "meaning": "crop",
+      "textbook_row": 28,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_25_word_031"
+    },
+    {
+      "utterances": [
+        {
+          "start": 382.8629,
+          "end": 383.6632
+        },
+        {
+          "start": 384.8389,
+          "end": 385.6264
+        }
+      ],
+      "raw_texts": [
+        "ധന്യം",
+        "ധന്യം"
+      ],
+      "english_segments": [
+        {
+          "start": 377.66,
+          "end": 394.66,
+          "text": " vilava dhanyam pachatyar agarsikyuga"
+        }
+      ],
+      "transcript": "ധാന്യം",
+      "meaning": "richness",
+      "textbook_row": 29,
+      "similarity": 0.889,
+      "status": "matched",
+      "id": "lesson_25_word_032"
+    },
+    {
+      "utterances": [
+        {
+          "start": 386.2554,
+          "end": 387.6374
+        },
+        {
+          "start": 388.6051,
+          "end": 389.6473
+        }
+      ],
+      "raw_texts": [
+        "പാച്യാത്യര",
+        "പാച്യാത്യര"
+      ],
+      "english_segments": [
+        {
+          "start": 377.66,
+          "end": 394.66,
+          "text": " vilava dhanyam pachatyar agarsikyuga"
+        }
+      ],
+      "transcript": "പാശ്ചാത്യർ",
+      "meaning": "westerners",
+      "textbook_row": 30,
+      "similarity": 0.875,
+      "status": "matched",
+      "id": "lesson_25_word_033"
+    },
+    {
+      "utterances": [
+        {
+          "start": 390.9252,
+          "end": 392.0463
+        },
+        {
+          "start": 393.7644,
+          "end": 394.9256
+        }
+      ],
+      "raw_texts": [
+        "ആകഷെക്യുക",
+        "ആകഷെക്യുക"
+      ],
+      "english_segments": [
+        {
+          "start": 377.66,
+          "end": 394.66,
+          "text": " vilava dhanyam pachatyar agarsikyuga"
+        },
+        {
+          "start": 394.66,
+          "end": 399.56,
+          "text": " Jīvidam"
+        }
+      ],
+      "transcript": "ആകർഷിക്കുക",
+      "meaning": "to attract",
+      "textbook_row": 31,
+      "similarity": 0.75,
+      "status": "matched",
+      "id": "lesson_25_word_034"
+    },
+    {
+      "utterances": [
+        {
+          "start": 396.928,
+          "end": 397.7415
+        },
+        {
+          "start": 398.8043,
+          "end": 399.6179
+        }
+      ],
+      "raw_texts": [
+        "ജ�",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 394.66,
+          "end": 399.56,
+          "text": " Jīvidam"
+        }
+      ],
+      "transcript": "ജീവിതം",
+      "meaning": "life",
+      "textbook_row": 32,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_25_word_035"
+    },
+    {
+      "utterances": [
+        {
+          "start": 400.9701,
+          "end": 402.092
+        },
+        {
+          "start": 403.5204,
+          "end": 404.6795
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 399.56,
+          "end": 404.66,
+          "text": " Jīvidarīdī"
+        }
+      ],
+      "transcript": "ജീവിതരീതി",
+      "meaning": "lifestyle",
+      "textbook_row": 33,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_25_word_036"
+    },
+    {
+      "utterances": [
+        {
+          "start": 406.0905,
+          "end": 406.9112
+        },
+        {
+          "start": 408.3974,
+          "end": 409.1984
+        }
+      ],
+      "raw_texts": [
+        "",
+        "ലകു"
+      ],
+      "english_segments": [
+        {
+          "start": 404.66,
+          "end": 409.08,
+          "text": " Lakū"
+        }
+      ],
+      "transcript": "ലഘു",
+      "meaning": "light (adj)",
+      "textbook_row": 34,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_25_word_037"
+    },
+    {
+      "utterances": [
+        {
+          "start": 410.8298,
+          "end": 411.6032
+        },
+        {
+          "start": 413.0712,
+          "end": 413.8621
+        }
+      ],
+      "raw_texts": [
+        "ലലിദമ്",
+        "ലലിദമ്"
+      ],
+      "english_segments": [
+        {
+          "start": 409.08,
+          "end": 413.66,
+          "text": " Lalitham"
+        }
+      ],
+      "transcript": "ലളിതം",
+      "meaning": "simple",
+      "textbook_row": 35,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_25_word_038"
+    },
+    {
+      "utterances": [
+        {
+          "start": 415.5997,
+          "end": 416.4668
+        },
+        {
+          "start": 418.0153,
+          "end": 418.8771
+        }
+      ],
+      "raw_texts": [
+        "പുരുഷണ്",
+        "പുരുഷണ്"
+      ],
+      "english_segments": [
+        {
+          "start": 414.34,
+          "end": 418.66,
+          "text": " Purushan"
+        }
+      ],
+      "transcript": "പുരുഷൻ",
+      "meaning": "man",
+      "textbook_row": 36,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_25_word_039"
+    },
+    {
+      "utterances": [
+        {
+          "start": 420.4561,
+          "end": 421.1578
+        },
+        {
+          "start": 422.7777,
+          "end": 423.6047
+        }
+      ],
+      "raw_texts": [
+        "മുണ്ഡ്",
+        "മുണ്ഡ്"
+      ],
+      "english_segments": [
+        {
+          "start": 418.66,
+          "end": 423.66,
+          "text": " Mundā"
+        }
+      ],
+      "transcript": "മുണ്ട്",
+      "meaning": "a white saronglike lower garment",
+      "textbook_row": 37,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_25_word_040"
+    },
+    {
+      "utterances": [
+        {
+          "start": 425.059,
+          "end": 425.9044
+        },
+        {
+          "start": 427.3815,
+          "end": 428.2145
+        }
+      ],
+      "raw_texts": [
+        "ജുബ്ബ്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 424.66,
+          "end": 434.62,
+          "text": " Jubba Tharikyuga"
+        }
+      ],
+      "transcript": "ജുബ്ബ",
+      "meaning": "a kind of shirt",
+      "textbook_row": 38,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_25_word_041"
+    },
+    {
+      "utterances": [
+        {
+          "start": 429.7512,
+          "end": 430.7613
+        },
+        {
+          "start": 432.5274,
+          "end": 433.4831
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 424.66,
+          "end": 434.62,
+          "text": " Jubba Tharikyuga"
+        }
+      ],
+      "transcript": "ധരിക്കുക",
+      "meaning": "to wear",
+      "textbook_row": 39,
+      "similarity": 0.724,
+      "status": "matched",
+      "id": "lesson_25_word_042"
+    },
+    {
+      "utterances": [
+        {
+          "start": 435.0511,
+          "end": 435.9469
+        },
+        {
+          "start": 437.6825,
+          "end": 438.5558
+        }
+      ],
+      "raw_texts": [
+        "ജു�",
+        "ആഭരണമ്"
+      ],
+      "english_segments": [
+        {
+          "start": 434.62,
+          "end": 439.86,
+          "text": " Abharanam"
+        }
+      ],
+      "transcript": "ആഭരണം",
+      "meaning": "ornament",
+      "textbook_row": 40,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_25_word_043"
+    },
+    {
+      "utterances": [
+        {
+          "start": 440.2531,
+          "end": 440.9357
+        },
+        {
+          "start": 442.4952,
+          "end": 443.1812
+        }
+      ],
+      "raw_texts": [
+        "തുളീല്",
+        "തുളീല്"
+      ],
+      "english_segments": [
+        {
+          "start": 439.86,
+          "end": 444.62,
+          "text": " Todil"
+        }
+      ],
+      "transcript": "തൊഴിൽ",
+      "meaning": "occupation",
+      "textbook_row": 41,
+      "similarity": 0.8,
+      "status": "matched",
+      "id": "lesson_25_word_044"
+    },
+    {
+      "utterances": [
+        {
+          "start": 445.0074,
+          "end": 445.6546
+        },
+        {
+          "start": 447.4384,
+          "end": 448.0942
+        }
+      ],
+      "raw_texts": [
+        "കൈര്",
+        "കൈര്"
+      ],
+      "english_segments": [
+        {
+          "start": 444.62,
+          "end": 460.62,
+          "text": " Kairu pirikkal"
+        }
+      ],
+      "transcript": "കയർ",
+      "meaning": "coir",
+      "textbook_row": 42,
+      "similarity": 0.667,
+      "status": "review",
+      "id": "lesson_25_word_045"
+    },
+    {
+      "utterances": [
+        {
+          "start": 449.7717,
+          "end": 450.5746
+        },
+        {
+          "start": 452.1965,
+          "end": 453.0002
+        }
+      ],
+      "raw_texts": [
+        "കൈര്",
+        "കൈര്"
+      ],
+      "english_segments": [
+        {
+          "start": 444.62,
+          "end": 460.62,
+          "text": " Kairu pirikkal"
+        }
+      ],
+      "transcript": "കയറ്",
+      "meaning": "coir",
+      "textbook_row": 42,
+      "similarity": 0.667,
+      "status": "review",
+      "id": "lesson_25_word_046"
+    },
+    {
+      "utterances": [
+        {
+          "start": 454.7137,
+          "end": 455.839
+        },
+        {
+          "start": 457.7152,
+          "end": 458.8853
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 444.62,
+          "end": 460.62,
+          "text": " Kairu pirikkal"
+        }
+      ],
+      "transcript": "കയറുപിരിക്കൽ",
+      "meaning": "twisting of coconut fiber into coir",
+      "textbook_row": 43,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_25_word_047"
+    },
+    {
+      "utterances": [
+        {
+          "start": 461.6468,
+          "end": 462.6946
+        },
+        {
+          "start": 464.4265,
+          "end": 465.4556
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 460.62,
+          "end": 466.62,
+          "text": " meenpidutham"
+        }
+      ],
+      "transcript": "മീൻപിടുത്തം",
+      "meaning": "fishing, catching fish",
+      "textbook_row": 44,
+      "similarity": 0.855,
+      "status": "matched",
+      "id": "lesson_25_word_048"
+    },
+    {
+      "utterances": [
+        {
+          "start": 467.5115,
+          "end": 468.4776
+        },
+        {
+          "start": 469.9054,
+          "end": 470.9254
+        }
+      ],
+      "raw_texts": [
+        "കൈരുപ്പ്പ്പ്പ്�",
+        "വിവസായ്യം"
+      ],
+      "english_segments": [
+        {
+          "start": 466.62,
+          "end": 471.62,
+          "text": " vyavasayam"
+        }
+      ],
+      "transcript": "വ്യവസായം",
+      "meaning": "industry",
+      "textbook_row": 45,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_25_word_049"
+    },
+    {
+      "utterances": [
+        {
+          "start": 472.4597,
+          "end": 473.4635
+        },
+        {
+          "start": 474.8687,
+          "end": 475.7592
+        }
+      ],
+      "raw_texts": [
+        "നവീന",
+        "നവീന"
+      ],
+      "english_segments": [
+        {
+          "start": 471.62,
+          "end": 476.62,
+          "text": " naveena"
+        }
+      ],
+      "transcript": "നവീന",
+      "meaning": "new",
+      "textbook_row": 46,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_25_word_050"
+    },
+    {
+      "utterances": [
+        {
+          "start": 477.5202,
+          "end": 478.8833
+        },
+        {
+          "start": 480.3264,
+          "end": 481.6695
+        }
+      ],
+      "raw_texts": [
+        "വിദ്യാഭ്യാസ്മ",
+        "വിദ്യാഭ്യാസ്മ"
+      ],
+      "english_segments": [
+        {
+          "start": 476.62,
+          "end": 482.62,
+          "text": " vidyabhyasam"
+        }
+      ],
+      "transcript": "വിദ്യാഭ്യാസം",
+      "meaning": "education",
+      "textbook_row": 47,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_25_word_051"
+    },
+    {
+      "utterances": [
+        {
+          "start": 483.4727,
+          "end": 484.3817
+        },
+        {
+          "start": 486.1509,
+          "end": 487.0888
+        }
+      ],
+      "raw_texts": [
+        "സ്താന്മ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 482.62,
+          "end": 487.62,
+          "text": " sthanam"
+        }
+      ],
+      "transcript": "സ്ഥാനം",
+      "meaning": "place",
+      "textbook_row": 48,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_25_word_052"
+    },
+    {
+      "utterances": [
+        {
+          "start": 489.154,
+          "end": 490.1327
+        },
+        {
+          "start": 491.5795,
+          "end": 492.5612
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 487.62,
+          "end": 492.62,
+          "text": " talparyam"
+        }
+      ],
+      "transcript": "താൽപര്യം",
+      "meaning": "interest",
+      "textbook_row": 49,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_25_word_053"
+    },
+    {
+      "utterances": [
+        {
+          "start": 494.1295,
+          "end": 495.0735
+        },
+        {
+          "start": 496.565,
+          "end": 497.5467
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 492.62,
+          "end": 497.62,
+          "text": " keraliya"
+        }
+      ],
+      "transcript": "കേരളീയ",
+      "meaning": "belonging to Kerala",
+      "textbook_row": 50,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_25_word_054"
+    },
+    {
+      "utterances": [
+        {
+          "start": 499.2236,
+          "end": 500.1754
+        },
+        {
+          "start": 501.9434,
+          "end": 502.8346
+        }
+      ],
+      "raw_texts": [
+        "സ്താ",
+        "കധകളേ"
+      ],
+      "english_segments": [
+        {
+          "start": 497.62,
+          "end": 502.62,
+          "text": " kathagali"
+        }
+      ],
+      "transcript": "കഥകളി",
+      "meaning": "a spectacular lyric dance drama of Kerala based on Hindu mythology",
+      "textbook_row": 51,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_25_word_055"
+    },
+    {
+      "utterances": [
+        {
+          "start": 504.895,
+          "end": 505.8931
+        },
+        {
+          "start": 507.6651,
+          "end": 508.6682
+        }
+      ],
+      "raw_texts": [
+        "ഓട്ടമ്തുള്ളല്",
+        "ഓട്ടമ്തുള്ളല്"
+      ],
+      "english_segments": [
+        {
+          "start": 502.62,
+          "end": 507.62,
+          "text": " otamthulal"
+        },
+        {
+          "start": 507.62,
+          "end": 512.62,
+          "text": " mohini aattam"
+        }
+      ],
+      "transcript": "ഓട്ടംതുള്ളൽ",
+      "meaning": "another lyric dance drama of Kerala",
+      "textbook_row": 52,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_25_word_056"
+    },
+    {
+      "utterances": [
+        {
+          "start": 510.8835,
+          "end": 512.0084
+        },
+        {
+          "start": 514.0317,
+          "end": 515.2089
+        }
+      ],
+      "raw_texts": [
+        "മോഹിണിയാട്ടമ്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 507.62,
+          "end": 512.62,
+          "text": " mohini aattam"
+        },
+        {
+          "start": 512.62,
+          "end": 526.62,
+          "text": " Mohini Aattam Prasiddhi Prasiddhi Sangheedam Sangheedam"
+        }
+      ],
+      "transcript": "മോഹിനിയാട്ടം",
+      "meaning": "a Kerala dance form similar to Bharatnatyam",
+      "textbook_row": 53,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_25_word_057"
+    },
+    {
+      "utterances": [
+        {
+          "start": 517.1052,
+          "end": 517.9874
+        },
+        {
+          "start": 519.5613,
+          "end": 520.4565
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 512.62,
+          "end": 526.62,
+          "text": " Mohini Aattam Prasiddhi Prasiddhi Sangheedam Sangheedam"
+        }
+      ],
+      "transcript": "പ്രസിദ്ധി",
+      "meaning": "fame",
+      "textbook_row": 54,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_25_word_058"
+    },
+    {
+      "utterances": [
+        {
+          "start": 522.1446,
+          "end": 523.14
+        },
+        {
+          "start": 524.8971,
+          "end": 525.8741
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 512.62,
+          "end": 526.62,
+          "text": " Mohini Aattam Prasiddhi Prasiddhi Sangheedam Sangheedam"
+        }
+      ],
+      "transcript": "സംഗീതം",
+      "meaning": "music",
+      "textbook_row": 55,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_25_word_059"
+    },
+    {
+      "utterances": [
+        {
+          "start": 527.8109,
+          "end": 528.7432
+        },
+        {
+          "start": 529.8825,
+          "end": 530.7844
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 526.62,
+          "end": 539.62,
+          "text": " Uyaruga Uyaruga Uyarnu Uyarnu Uyarna Uyarna"
+        }
+      ],
+      "transcript": "അല്ലാതെ",
+      "meaning": "instead",
+      "textbook_row": 74,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_25_word_060"
+    },
+    {
+      "utterances": [
+        {
+          "start": 531.9191,
+          "end": 532.7726
+        },
+        {
+          "start": 534.0221,
+          "end": 534.947
+        }
+      ],
+      "raw_texts": [
+        "മോഹിണിയാട� ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്�",
+        "ഉയര്ണു"
+      ],
+      "english_segments": [
+        {
+          "start": 526.62,
+          "end": 539.62,
+          "text": " Uyaruga Uyaruga Uyarnu Uyarnu Uyarna Uyarna"
+        }
+      ],
+      "transcript": "ഉയർന്നു",
+      "meaning": "to rise",
+      "textbook_row": 56,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_25_word_061"
+    },
+    {
+      "utterances": [
+        {
+          "start": 536.2203,
+          "end": 537.2196
+        },
+        {
+          "start": 538.426,
+          "end": 539.336
+        }
+      ],
+      "raw_texts": [
+        "ഉയര്ണാ",
+        "ഉയര്ണാ"
+      ],
+      "english_segments": [
+        {
+          "start": 526.62,
+          "end": 539.62,
+          "text": " Uyaruga Uyaruga Uyarnu Uyarnu Uyarna Uyarna"
+        }
+      ],
+      "transcript": "ഉയർന്ന",
+      "meaning": "exalted, high",
+      "textbook_row": 57,
+      "similarity": 0.889,
+      "status": "matched",
+      "id": "lesson_25_word_062"
+    },
+    {
+      "utterances": [
+        {
+          "start": 541.1882,
+          "end": 542.8979
+        },
+        {
+          "start": 544.7936,
+          "end": 546.4664
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 539.62,
+          "end": 546.62,
+          "text": " Karakaushala saathanam"
+        }
+      ],
+      "transcript": "കരകൗശലസാധനം",
+      "meaning": "handicraft",
+      "textbook_row": 58,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_25_word_063"
+    },
+    {
+      "utterances": [
+        {
+          "start": 548.501,
+          "end": 549.2683
+        },
+        {
+          "start": 550.377,
+          "end": 551.1877
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 546.62,
+          "end": 551.62,
+          "text": " Matip"
+        }
+      ],
+      "transcript": "മതിപ്പ്",
+      "meaning": "reputation, esteem",
+      "textbook_row": 59,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_25_word_064"
+    },
+    {
+      "utterances": [
+        {
+          "start": 552.215,
+          "end": 553.0597
+        },
+        {
+          "start": 554.0337,
+          "end": 554.8225
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 551.62,
+          "end": 555.62,
+          "text": " Churukkam"
+        }
+      ],
+      "transcript": "ചുരുക്കം",
+      "meaning": "few, scarce",
+      "textbook_row": 60,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_25_word_065"
+    },
+    {
+      "utterances": [
+        {
+          "start": 556.023,
+          "end": 556.7833
+        },
+        {
+          "start": 557.9941,
+          "end": 558.7267
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 555.62,
+          "end": 559.62,
+          "text": " Uruma"
+        }
+      ],
+      "transcript": "ഒരുമ",
+      "meaning": "unity, fellowship",
+      "textbook_row": 61,
+      "similarity": 0.76,
+      "status": "matched",
+      "id": "lesson_25_word_066"
+    },
+    {
+      "utterances": [
+        {
+          "start": 560.1263,
+          "end": 561.2007
+        },
+        {
+          "start": 562.3593,
+          "end": 563.413
+        }
+      ],
+      "raw_texts": [
+        "ക്രക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്�",
+        "ജീവികുക"
+      ],
+      "english_segments": [
+        {
+          "start": 559.62,
+          "end": 564.62,
+          "text": " Jeevikyuga"
+        }
+      ],
+      "transcript": "ജീവിക്കുക",
+      "meaning": "to live",
+      "textbook_row": 62,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_25_word_067"
+    },
+    {
+      "utterances": [
+        {
+          "start": 564.9779,
+          "end": 566.1577
+        },
+        {
+          "start": 567.9667,
+          "end": 569.1742
+        }
+      ],
+      "raw_texts": [
+        "ജീവിച്ച് വരിക്ക",
+        "ജീവിച്ച് വരിക്ക"
+      ],
+      "english_segments": [
+        {
+          "start": 564.62,
+          "end": 570.62,
+          "text": " Jīvichvaruga"
+        }
+      ],
+      "transcript": "ജീവിച്ചുവരുക",
+      "meaning": "to be living",
+      "textbook_row": 63,
+      "similarity": 0.909,
+      "status": "matched",
+      "id": "lesson_25_word_068"
+    },
+    {
+      "utterances": [
+        {
+          "start": 571.0514,
+          "end": 572.1563
+        },
+        {
+          "start": 573.4146,
+          "end": 574.5582
+        }
+      ],
+      "raw_texts": [
+        "യഹൂദന്",
+        "യഹൂദന്"
+      ],
+      "english_segments": [
+        {
+          "start": 570.62,
+          "end": 575.62,
+          "text": " Yehūdhan"
+        }
+      ],
+      "transcript": "യഹൂദൻ",
+      "meaning": "Jew",
+      "textbook_row": 64,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_25_word_069"
+    },
+    {
+      "utterances": [
+        {
+          "start": 575.9283,
+          "end": 577.1163
+        },
+        {
+          "start": 578.5089,
+          "end": 579.6876
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 575.62,
+          "end": 580.62,
+          "text": " Samskāram"
+        }
+      ],
+      "transcript": "സംസ്കാരം",
+      "meaning": "culture",
+      "textbook_row": 65,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_25_word_070"
+    },
+    {
+      "utterances": [
+        {
+          "start": 581.2817,
+          "end": 582.3085
+        },
+        {
+          "start": 583.7021,
+          "end": 584.7064
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 580.62,
+          "end": 585.62,
+          "text": " Svāgatam"
+        }
+      ],
+      "transcript": "സ്വാഗതം",
+      "meaning": "welcome",
+      "textbook_row": 66,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_25_word_071"
+    },
+    {
+      "utterances": [
+        {
+          "start": 586.3238,
+          "end": 587.6461
+        },
+        {
+          "start": 589.1092,
+          "end": 590.4405
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 585.62,
+          "end": 591.62,
+          "text": " Sannarsikyuga"
+        }
+      ],
+      "transcript": "സന്ദർശിക്കുക",
+      "meaning": "to visit",
+      "textbook_row": 67,
+      "similarity": 0.871,
+      "status": "matched",
+      "id": "lesson_25_word_072"
+    },
+    {
+      "utterances": [
+        {
+          "start": 592.2281,
+          "end": 593.3501
+        },
+        {
+          "start": 594.8772,
+          "end": 596.0475
+        }
+      ],
+      "raw_texts": [
+        "സമ്സക",
+        "കൈകുപുക"
+      ],
+      "english_segments": [
+        {
+          "start": 591.62,
+          "end": 601.62,
+          "text": " Kaikoopuga"
+        }
+      ],
+      "transcript": "കൈ കൂപ്പുക",
+      "meaning": "to fold hands",
+      "textbook_row": 68,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_25_word_073"
+    },
+    {
+      "utterances": [
+        {
+          "start": 597.6509,
+          "end": 598.5792
+        },
+        {
+          "start": 600.2415,
+          "end": 601.2795
+        }
+      ],
+      "raw_texts": [
+        "കൈകുപ്പ്പ്",
+        "കൈകുപ്പ്"
+      ],
+      "english_segments": [
+        {
+          "start": 591.62,
+          "end": 601.62,
+          "text": " Kaikoopuga"
+        }
+      ],
+      "transcript": "സുഖിക്കുക",
+      "meaning": "to enjoy",
+      "textbook_row": 72,
+      "similarity": 0.671,
+      "status": "review",
+      "id": "lesson_25_word_074"
+    },
+    {
+      "utterances": [
+        {
+          "start": 602.8915,
+          "end": 604.319
+        },
+        {
+          "start": 606.0553,
+          "end": 607.4704
+        }
+      ],
+      "raw_texts": [
+        "സ്വാഗതം ചെയ്യുക",
+        "സ്വാഗതം ചെയ്�"
+      ],
+      "english_segments": [
+        {
+          "start": 601.62,
+          "end": 608.62,
+          "text": " Swagatham chayuga"
+        }
+      ],
+      "transcript": "കൈകൂപ്പി സ്വാഗതം ചെയ്യുക",
+      "meaning": "to welcome with folded hands (traditional Indian way of welcome)",
+      "textbook_row": 69,
+      "similarity": 0.786,
+      "status": "matched",
+      "id": "lesson_25_word_075"
+    },
+    {
+      "utterances": [
+        {
+          "start": 609.4941,
+          "end": 610.2263
+        },
+        {
+          "start": 611.3027,
+          "end": 612.0224
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 608.62,
+          "end": 612.62,
+          "text": " Thirpti"
+        }
+      ],
+      "transcript": "തൃപ്തി",
+      "meaning": "satisfaction",
+      "textbook_row": 70,
+      "similarity": 0.792,
+      "status": "matched",
+      "id": "lesson_25_word_076"
+    },
+    {
+      "utterances": [
+        {
+          "start": 613.5728,
+          "end": 614.8966
+        },
+        {
+          "start": 616.5134,
+          "end": 617.821
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 612.62,
+          "end": 618.62,
+          "text": " Thirpti padutthuga"
+        }
+      ],
+      "transcript": "തൃപ്തിപ്പെടുത്തുക",
+      "meaning": "to satisfy",
+      "textbook_row": 71,
+      "similarity": 0.814,
+      "status": "matched",
+      "id": "lesson_25_word_077"
+    },
+    {
+      "utterances": [
+        {
+          "start": 619.7929,
+          "end": 620.808
+        },
+        {
+          "start": 622.0949,
+          "end": 623.0638
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 618.62,
+          "end": 620.62,
+          "text": " 即気球が"
+        },
+        {
+          "start": 620.62,
+          "end": 625.18,
+          "text": " 即中"
+        }
+      ],
+      "transcript": "സുഖിച്ച് നടക്കുക",
+      "meaning": "to take it easy, to loaf",
+      "textbook_row": 73,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_25_word_078"
+    },
+    {
+      "utterances": [
+        {
+          "start": 624.497,
+          "end": 625.4241
+        },
+        {
+          "start": 626.9005,
+          "end": 627.8398
+        }
+      ],
+      "raw_texts": [
+        "",
+        "സുഖിച്ചുക"
+      ],
+      "english_segments": [
+        {
+          "start": 620.62,
+          "end": 625.18,
+          "text": " 即中"
+        }
+      ],
+      "transcript": "സുഖിച്ചു",
+      "meaning": "to enjoy",
+      "textbook_row": 72,
+      "similarity": 0.923,
+      "status": "matched",
+      "id": "lesson_25_word_079"
+    }
+  ],
+  "textbook_vocabulary": [
+    {
+      "malayalam": "ജന്മദേശം",
+      "meaning": "native land"
+    },
+    {
+      "malayalam": "നദി",
+      "meaning": "river"
+    },
+    {
+      "malayalam": "അരുവി",
+      "meaning": "stream"
+    },
+    {
+      "malayalam": "ഗ്രാമം",
+      "meaning": "village"
+    },
+    {
+      "malayalam": "തെങ്ങിൻതോപ്പ്",
+      "meaning": "coconut grove"
+    },
+    {
+      "malayalam": "വനം",
+      "meaning": "forest"
+    },
+    {
+      "malayalam": "നിറയുക (past: നിറഞ്ഞു)",
+      "meaning": "to be filled (intr.)"
+    },
+    {
+      "malayalam": "-- നിറഞ്ഞ",
+      "meaning": "which is full of --"
+    },
+    {
+      "malayalam": "ആരുടേയും",
+      "meaning": "anyone's"
+    },
+    {
+      "malayalam": "ഹൃദയം",
+      "meaning": "heart"
+    },
+    {
+      "malayalam": "കവരുക (past: കവർന്നു)",
+      "meaning": "to steal"
+    },
+    {
+      "malayalam": "ഭൂപ്രകൃതി",
+      "meaning": "geographic layout"
+    },
+    {
+      "malayalam": "മലനാട്",
+      "meaning": "hilly country"
+    },
+    {
+      "malayalam": "ഇടനാട്",
+      "meaning": "middle region"
+    },
+    {
+      "malayalam": "സമതലം",
+      "meaning": "plain, coastal region"
+    },
+    {
+      "malayalam": "ഭാഗിക്കുക",
+      "meaning": "to divide"
+    },
+    {
+      "malayalam": "റബ്ബർ",
+      "meaning": "rubber"
+    },
+    {
+      "malayalam": "തേയില",
+      "meaning": "tea, tea leaves"
+    },
+    {
+      "malayalam": "ഏലം",
+      "meaning": "cardamom"
+    },
+    {
+      "malayalam": "എന്നിവ",
+      "meaning": "et cetera"
+    },
+    {
+      "malayalam": "ഇഞ്ചി",
+      "meaning": "ginger"
+    },
+    {
+      "malayalam": "മഞ്ഞൾ",
+      "meaning": "turmeric"
+    },
+    {
+      "malayalam": "കുരുമുളക്",
+      "meaning": "black pepper"
+    },
+    {
+      "malayalam": "മരച്ചീനി",
+      "meaning": "tapioca"
+    },
+    {
+      "malayalam": "മുതലായവ",
+      "meaning": "et cetera"
+    },
+    {
+      "malayalam": "തെങ്ങ്",
+      "meaning": "coconut tree"
+    },
+    {
+      "malayalam": "തേങ്ങ",
+      "meaning": "coconut"
+    },
+    {
+      "malayalam": "നെല്ല്",
+      "meaning": "rice (paddy)"
+    },
+    {
+      "malayalam": "വിളവ്",
+      "meaning": "crop"
+    },
+    {
+      "malayalam": "ധാന്യം",
+      "meaning": "richness"
+    },
+    {
+      "malayalam": "പാശ്ചാത്യർ",
+      "meaning": "westerners"
+    },
+    {
+      "malayalam": "ആകർഷിക്കുക",
+      "meaning": "to attract"
+    },
+    {
+      "malayalam": "ജീവിതം",
+      "meaning": "life"
+    },
+    {
+      "malayalam": "ജീവിതരീതി",
+      "meaning": "lifestyle"
+    },
+    {
+      "malayalam": "ലഘു",
+      "meaning": "light (adj)"
+    },
+    {
+      "malayalam": "ലളിതം",
+      "meaning": "simple"
+    },
+    {
+      "malayalam": "പുരുഷൻ",
+      "meaning": "man"
+    },
+    {
+      "malayalam": "മുണ്ട്",
+      "meaning": "a white saronglike lower garment"
+    },
+    {
+      "malayalam": "ജുബ്ബ",
+      "meaning": "a kind of shirt"
+    },
+    {
+      "malayalam": "ധരിക്കുക",
+      "meaning": "to wear"
+    },
+    {
+      "malayalam": "ആഭരണം",
+      "meaning": "ornament"
+    },
+    {
+      "malayalam": "തൊഴിൽ",
+      "meaning": "occupation"
+    },
+    {
+      "malayalam": "കയർ, കയറ്",
+      "meaning": "coir"
+    },
+    {
+      "malayalam": "കയറുപിരിക്കൽ",
+      "meaning": "twisting of coconut fiber into coir"
+    },
+    {
+      "malayalam": "മീൻപിടുത്തം",
+      "meaning": "fishing, catching fish"
+    },
+    {
+      "malayalam": "വ്യവസായം",
+      "meaning": "industry"
+    },
+    {
+      "malayalam": "നവീന",
+      "meaning": "new"
+    },
+    {
+      "malayalam": "വിദ്യാഭ്യാസം",
+      "meaning": "education"
+    },
+    {
+      "malayalam": "സ്ഥാനം",
+      "meaning": "place"
+    },
+    {
+      "malayalam": "താൽപര്യം",
+      "meaning": "interest"
+    },
+    {
+      "malayalam": "കേരളീയ",
+      "meaning": "belonging to Kerala"
+    },
+    {
+      "malayalam": "കഥകളി",
+      "meaning": "a spectacular lyric dance drama of Kerala based on Hindu mythology"
+    },
+    {
+      "malayalam": "ഓട്ടംതുള്ളൽ",
+      "meaning": "another lyric dance drama of Kerala"
+    },
+    {
+      "malayalam": "മോഹിനിയാട്ടം",
+      "meaning": "a Kerala dance form similar to Bharatnatyam"
+    },
+    {
+      "malayalam": "പ്രസിദ്ധി",
+      "meaning": "fame"
+    },
+    {
+      "malayalam": "സംഗീതം",
+      "meaning": "music"
+    },
+    {
+      "malayalam": "ഉയരുക (past: ഉയർന്നു)",
+      "meaning": "to rise"
+    },
+    {
+      "malayalam": "ഉയർന്ന",
+      "meaning": "exalted, high"
+    },
+    {
+      "malayalam": "കരകൗശലസാധനം",
+      "meaning": "handicraft"
+    },
+    {
+      "malayalam": "മതിപ്പ്",
+      "meaning": "reputation, esteem"
+    },
+    {
+      "malayalam": "ചുരുക്കം",
+      "meaning": "few, scarce"
+    },
+    {
+      "malayalam": "ഒരുമ",
+      "meaning": "unity, fellowship"
+    },
+    {
+      "malayalam": "ജീവിക്കുക",
+      "meaning": "to live"
+    },
+    {
+      "malayalam": "ജീവിച്ചുവരുക",
+      "meaning": "to be living"
+    },
+    {
+      "malayalam": "യഹൂദൻ",
+      "meaning": "Jew"
+    },
+    {
+      "malayalam": "സംസ്കാരം",
+      "meaning": "culture"
+    },
+    {
+      "malayalam": "സ്വാഗതം (noun)",
+      "meaning": "welcome"
+    },
+    {
+      "malayalam": "സന്ദർശിക്കുക",
+      "meaning": "to visit"
+    },
+    {
+      "malayalam": "കൈ കൂപ്പുക",
+      "meaning": "to fold hands"
+    },
+    {
+      "malayalam": "കൈകൂപ്പി സ്വാഗതം ചെയ്യുക",
+      "meaning": "to welcome with folded hands (traditional Indian way of welcome)"
+    },
+    {
+      "malayalam": "തൃപ്തി",
+      "meaning": "satisfaction"
+    },
+    {
+      "malayalam": "തൃപ്തിപ്പെടുത്തുക",
+      "meaning": "to satisfy"
+    },
+    {
+      "malayalam": "സുഖിക്കുക (past: സുഖിച്ചു)",
+      "meaning": "to enjoy"
+    },
+    {
+      "malayalam": "സുഖിച്ച് നടക്കുക",
+      "meaning": "to take it easy, to loaf"
+    },
+    {
+      "malayalam": "അല്ലാതെ",
+      "meaning": "instead"
+    }
+  ],
+  "unmatched_textbook_rows": [],
+  "recognition_sha256": "c092b0f1ef1637ae1b677f58a33a4a6d1885d2900436b7c9d3b57aef7df1ee82",
+  "boundary_sha256": "2bc1868bfb98865b8f49ddbf6ffec03f9fc1855bbf06387ede0f2879964b139c"
+}

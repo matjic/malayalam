@@ -1,0 +1,1887 @@
+{
+  "format": "koyal-word-timestamps-v1",
+  "lesson": 16,
+  "source": "data/audio/moag/lesson_16.mp3",
+  "model": "adalat-ai/koyal-ml-120m-1.0",
+  "checkpoint": "/private/tmp/koyal-ml-120m-1.0/koyal-ml-120m-1.0.nemo",
+  "nemo_version": "3.0.0",
+  "sample_rate": 16000,
+  "vocabulary_range": {
+    "lesson": 16,
+    "start": 2.45,
+    "end": 220.4771
+  },
+  "transcription_range": {
+    "start": 1.4500000000000002,
+    "end": 221.477125
+  },
+  "time_basis": "start/end are seconds in source MP3; section_start/end are relative to transcription_range.start",
+  "caveats": [
+    "Automatic ASR, not verified text or phonetic boundaries; preserve repeated words.",
+    "TDT timestamps approximate speech positions. Use nearby silence and padding for final cuts.",
+    "near_chunk_edge flags words within 0.25 seconds of a recognition chunk boundary.",
+    "Chunks meet at low-energy windows; no audio is omitted. A forced split can still divide speech.",
+    "English section announcements may be misrecognized by the Malayalam model."
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "start": 1.4500000000000002,
+      "end": 26.2,
+      "text": "റിപ്പീറ്റ് ഈച്ച് ഐറ്റം ആപ്റ്റർ ദി സ്പീക്കർ. ഈച്ച് ഐറ്റം ഈസ് ഗിവൺ ടു വൈസ്. റെഡി. ലിസൺ ആൻഡ് റിപ്പീറ്റ്. മിക്കവാറും മിക്കവാറും എല്ലാവരും എന്നും പല",
+      "raw_word_timestamps": [
+        {
+          "word": "റിപ്പീറ്റ്",
+          "start_offset": 104,
+          "end_offset": 115,
+          "start": 4.16,
+          "end": 4.6000000000000005
+        },
+        {
+          "word": "ഈച്ച്",
+          "start_offset": 117,
+          "end_offset": 123,
+          "start": 4.68,
+          "end": 4.92
+        },
+        {
+          "word": "ഐറ്റം",
+          "start_offset": 123,
+          "end_offset": 131,
+          "start": 4.92,
+          "end": 5.24
+        },
+        {
+          "word": "ആപ്റ്റർ",
+          "start_offset": 134,
+          "end_offset": 141,
+          "start": 5.36,
+          "end": 5.64
+        },
+        {
+          "word": "ദി",
+          "start_offset": 141,
+          "end_offset": 145,
+          "start": 5.64,
+          "end": 5.8
+        },
+        {
+          "word": "സ്പീക്കർ.",
+          "start_offset": 145,
+          "end_offset": 158,
+          "start": 5.8,
+          "end": 6.32
+        },
+        {
+          "word": "ഈച്ച്",
+          "start_offset": 181,
+          "end_offset": 188,
+          "start": 7.24,
+          "end": 7.5200000000000005
+        },
+        {
+          "word": "ഐറ്റം",
+          "start_offset": 188,
+          "end_offset": 196,
+          "start": 7.5200000000000005,
+          "end": 7.84
+        },
+        {
+          "word": "ഈസ്",
+          "start_offset": 198,
+          "end_offset": 203,
+          "start": 7.92,
+          "end": 8.120000000000001
+        },
+        {
+          "word": "ഗിവൺ",
+          "start_offset": 203,
+          "end_offset": 210,
+          "start": 8.120000000000001,
+          "end": 8.4
+        },
+        {
+          "word": "ടു",
+          "start_offset": 215,
+          "end_offset": 217,
+          "start": 8.6,
+          "end": 8.68
+        },
+        {
+          "word": "വൈസ്.",
+          "start_offset": 220,
+          "end_offset": 227,
+          "start": 8.8,
+          "end": 9.08
+        },
+        {
+          "word": "റെഡി.",
+          "start_offset": 246,
+          "end_offset": 256,
+          "start": 9.84,
+          "end": 10.24
+        },
+        {
+          "word": "ലിസൺ",
+          "start_offset": 263,
+          "end_offset": 270,
+          "start": 10.52,
+          "end": 10.8
+        },
+        {
+          "word": "ആൻഡ്",
+          "start_offset": 272,
+          "end_offset": 276,
+          "start": 10.88,
+          "end": 11.040000000000001
+        },
+        {
+          "word": "റിപ്പീറ്റ്.",
+          "start_offset": 277,
+          "end_offset": 289,
+          "start": 11.08,
+          "end": 11.56
+        },
+        {
+          "word": "മിക്കവാറും",
+          "start_offset": 324,
+          "end_offset": 342,
+          "start": 12.96,
+          "end": 13.68
+        },
+        {
+          "word": "മിക്കവാറും",
+          "start_offset": 368,
+          "end_offset": 386,
+          "start": 14.72,
+          "end": 15.44
+        },
+        {
+          "word": "എല്ലാവരും",
+          "start_offset": 465,
+          "end_offset": 480,
+          "start": 18.6,
+          "end": 19.2
+        },
+        {
+          "word": "എന്നും",
+          "start_offset": 518,
+          "end_offset": 525,
+          "start": 20.72,
+          "end": 21.0
+        },
+        {
+          "word": "പല",
+          "start_offset": 604,
+          "end_offset": 612,
+          "start": 24.16,
+          "end": 24.48
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "start": 26.2,
+      "end": 48.45,
+      "text": "പല ദിനം ദിനം ദിനപത്രം ദിനപത്രം. കേരള കൗമുദി, കേരള കൗമുദി, മലയാള മനോരമ, മലയാള മനോരമ, മാതൃഭൂമി.",
+      "raw_word_timestamps": [
+        {
+          "word": "പല",
+          "start_offset": 24,
+          "end_offset": 32,
+          "start": 0.96,
+          "end": 1.28
+        },
+        {
+          "word": "ദിനം",
+          "start_offset": 66,
+          "end_offset": 75,
+          "start": 2.64,
+          "end": 3.0
+        },
+        {
+          "word": "ദിനം",
+          "start_offset": 109,
+          "end_offset": 118,
+          "start": 4.36,
+          "end": 4.72
+        },
+        {
+          "word": "ദിനപത്രം",
+          "start_offset": 155,
+          "end_offset": 175,
+          "start": 6.2,
+          "end": 7.0
+        },
+        {
+          "word": "ദിനപത്രം.",
+          "start_offset": 206,
+          "end_offset": 226,
+          "start": 8.24,
+          "end": 9.040000000000001
+        },
+        {
+          "word": "കേരള",
+          "start_offset": 268,
+          "end_offset": 277,
+          "start": 10.72,
+          "end": 11.08
+        },
+        {
+          "word": "കൗമുദി,",
+          "start_offset": 277,
+          "end_offset": 292,
+          "start": 11.08,
+          "end": 11.68
+        },
+        {
+          "word": "കേരള",
+          "start_offset": 328,
+          "end_offset": 337,
+          "start": 13.120000000000001,
+          "end": 13.48
+        },
+        {
+          "word": "കൗമുദി,",
+          "start_offset": 339,
+          "end_offset": 353,
+          "start": 13.56,
+          "end": 14.120000000000001
+        },
+        {
+          "word": "മലയാള",
+          "start_offset": 394,
+          "end_offset": 405,
+          "start": 15.76,
+          "end": 16.2
+        },
+        {
+          "word": "മനോരമ,",
+          "start_offset": 405,
+          "end_offset": 420,
+          "start": 16.2,
+          "end": 16.8
+        },
+        {
+          "word": "മലയാള",
+          "start_offset": 462,
+          "end_offset": 474,
+          "start": 18.48,
+          "end": 18.96
+        },
+        {
+          "word": "മനോരമ,",
+          "start_offset": 474,
+          "end_offset": 488,
+          "start": 18.96,
+          "end": 19.52
+        },
+        {
+          "word": "മാതൃഭൂമി.",
+          "start_offset": 534,
+          "end_offset": 553,
+          "start": 21.36,
+          "end": 22.12
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "start": 48.45,
+      "end": 70.7,
+      "text": "മാതൃഭൂമി അവിടുത്തെ അവിടുത്തെ ഇവിടുത്തെ ഇവിടുത്തെ അച്ചടിക്കുക അച്ചടിച്ചു അച്ചടിച്ചു അച്ചടിച്ചു വരും.",
+      "raw_word_timestamps": [
+        {
+          "word": "മാതൃഭൂമി",
+          "start_offset": 36,
+          "end_offset": 56,
+          "start": 1.44,
+          "end": 2.24
+        },
+        {
+          "word": "അവിടുത്തെ",
+          "start_offset": 99,
+          "end_offset": 111,
+          "start": 3.96,
+          "end": 4.44
+        },
+        {
+          "word": "അവിടുത്തെ",
+          "start_offset": 152,
+          "end_offset": 165,
+          "start": 6.08,
+          "end": 6.6000000000000005
+        },
+        {
+          "word": "ഇവിടുത്തെ",
+          "start_offset": 205,
+          "end_offset": 217,
+          "start": 8.2,
+          "end": 8.68
+        },
+        {
+          "word": "ഇവിടുത്തെ",
+          "start_offset": 261,
+          "end_offset": 273,
+          "start": 10.44,
+          "end": 10.92
+        },
+        {
+          "word": "അച്ചടിക്കുക",
+          "start_offset": 371,
+          "end_offset": 390,
+          "start": 14.84,
+          "end": 15.6
+        },
+        {
+          "word": "അച്ചടിച്ചു",
+          "start_offset": 426,
+          "end_offset": 443,
+          "start": 17.04,
+          "end": 17.72
+        },
+        {
+          "word": "അച്ചടിച്ചു",
+          "start_offset": 477,
+          "end_offset": 493,
+          "start": 19.080000000000002,
+          "end": 19.72
+        },
+        {
+          "word": "അച്ചടിച്ചു",
+          "start_offset": 533,
+          "end_offset": 545,
+          "start": 21.32,
+          "end": 21.8
+        },
+        {
+          "word": "വരും.",
+          "start_offset": 547,
+          "end_offset": 554,
+          "start": 21.88,
+          "end": 22.16
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "start": 70.7,
+      "end": 92.75,
+      "text": "അച്ചടിച്ചുവരും സാധാരണയായി സാധാരണയായി അന്തരാഷ്ട്രീയത്തെ ആദ്യത്തെ",
+      "raw_word_timestamps": [
+        {
+          "word": "അച്ചടിച്ചുവരും",
+          "start_offset": 35,
+          "end_offset": 55,
+          "start": 1.4000000000000001,
+          "end": 2.2
+        },
+        {
+          "word": "സാധാരണയായി",
+          "start_offset": 132,
+          "end_offset": 215,
+          "start": 5.28,
+          "end": 8.6
+        },
+        {
+          "word": "സാധാരണയായി",
+          "start_offset": 258,
+          "end_offset": 280,
+          "start": 10.32,
+          "end": 11.200000000000001
+        },
+        {
+          "word": "അന്തരാഷ്ട്രീയത്തെ",
+          "start_offset": 393,
+          "end_offset": 480,
+          "start": 15.72,
+          "end": 19.2
+        },
+        {
+          "word": "ആദ്യത്തെ",
+          "start_offset": 522,
+          "end_offset": 533,
+          "start": 20.88,
+          "end": 21.32
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "start": 92.75,
+      "end": 116.10000000000001,
+      "text": "ലോകം ഏത് ഏതും കോൺ കോൺ സംഭവം സംഭവം? ഭാഷ, ഭാഷ, രാഷ്ട്രപതി.",
+      "raw_word_timestamps": [
+        {
+          "word": "ലോകം",
+          "start_offset": 70,
+          "end_offset": 83,
+          "start": 2.8000000000000003,
+          "end": 3.3200000000000003
+        },
+        {
+          "word": "ഏത്",
+          "start_offset": 122,
+          "end_offset": 130,
+          "start": 4.88,
+          "end": 5.2
+        },
+        {
+          "word": "ഏതും",
+          "start_offset": 214,
+          "end_offset": 226,
+          "start": 8.56,
+          "end": 9.040000000000001
+        },
+        {
+          "word": "കോൺ",
+          "start_offset": 309,
+          "end_offset": 320,
+          "start": 12.36,
+          "end": 12.8
+        },
+        {
+          "word": "കോൺ",
+          "start_offset": 350,
+          "end_offset": 360,
+          "start": 14.0,
+          "end": 14.4
+        },
+        {
+          "word": "സംഭവം",
+          "start_offset": 400,
+          "end_offset": 416,
+          "start": 16.0,
+          "end": 16.64
+        },
+        {
+          "word": "സംഭവം?",
+          "start_offset": 444,
+          "end_offset": 460,
+          "start": 17.76,
+          "end": 18.400000000000002
+        },
+        {
+          "word": "ഭാഷ,",
+          "start_offset": 487,
+          "end_offset": 497,
+          "start": 19.48,
+          "end": 19.88
+        },
+        {
+          "word": "ഭാഷ,",
+          "start_offset": 520,
+          "end_offset": 531,
+          "start": 20.8,
+          "end": 21.240000000000002
+        },
+        {
+          "word": "രാഷ്ട്രപതി.",
+          "start_offset": 563,
+          "end_offset": 580,
+          "start": 22.52,
+          "end": 23.2
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "start": 116.10000000000001,
+      "end": 140.64999999999998,
+      "text": "രാഷ് ട്രപതി തർജ്ജിമ, തർജ്ജിമ, തർജ്ജിമ ചെയ്യുക, തർജ്ജിമ ചെയ്യുക. തർജ്ജിമ ചെയ്തു, തർജ്ജിമ ചെയ്തു, എഴുതുക, എഴുതുക, എഴുതി എഴുതി എഴുതിവരും.",
+      "raw_word_timestamps": [
+        {
+          "word": "രാഷ്",
+          "start_offset": 24,
+          "end_offset": 31,
+          "start": 0.96,
+          "end": 1.24
+        },
+        {
+          "word": "ട്രപതി",
+          "start_offset": 31,
+          "end_offset": 43,
+          "start": 1.24,
+          "end": 1.72
+        },
+        {
+          "word": "തർജ്ജിമ,",
+          "start_offset": 74,
+          "end_offset": 89,
+          "start": 2.96,
+          "end": 3.56
+        },
+        {
+          "word": "തർജ്ജിമ,",
+          "start_offset": 119,
+          "end_offset": 133,
+          "start": 4.76,
+          "end": 5.32
+        },
+        {
+          "word": "തർജ്ജിമ",
+          "start_offset": 172,
+          "end_offset": 186,
+          "start": 6.88,
+          "end": 7.44
+        },
+        {
+          "word": "ചെയ്യുക,",
+          "start_offset": 186,
+          "end_offset": 198,
+          "start": 7.44,
+          "end": 7.92
+        },
+        {
+          "word": "തർജ്ജിമ",
+          "start_offset": 227,
+          "end_offset": 240,
+          "start": 9.08,
+          "end": 9.6
+        },
+        {
+          "word": "ചെയ്യുക.",
+          "start_offset": 240,
+          "end_offset": 252,
+          "start": 9.6,
+          "end": 10.08
+        },
+        {
+          "word": "തർജ്ജിമ",
+          "start_offset": 288,
+          "end_offset": 302,
+          "start": 11.52,
+          "end": 12.08
+        },
+        {
+          "word": "ചെയ്തു,",
+          "start_offset": 302,
+          "end_offset": 308,
+          "start": 12.08,
+          "end": 12.32
+        },
+        {
+          "word": "തർജ്ജിമ",
+          "start_offset": 346,
+          "end_offset": 358,
+          "start": 13.84,
+          "end": 14.32
+        },
+        {
+          "word": "ചെയ്തു,",
+          "start_offset": 360,
+          "end_offset": 368,
+          "start": 14.4,
+          "end": 14.72
+        },
+        {
+          "word": "എഴുതുക,",
+          "start_offset": 413,
+          "end_offset": 426,
+          "start": 16.52,
+          "end": 17.04
+        },
+        {
+          "word": "എഴുതുക,",
+          "start_offset": 454,
+          "end_offset": 468,
+          "start": 18.16,
+          "end": 18.72
+        },
+        {
+          "word": "എഴുതി",
+          "start_offset": 498,
+          "end_offset": 507,
+          "start": 19.92,
+          "end": 20.28
+        },
+        {
+          "word": "എഴുതി",
+          "start_offset": 533,
+          "end_offset": 544,
+          "start": 21.32,
+          "end": 21.76
+        },
+        {
+          "word": "എഴുതിവരും.",
+          "start_offset": 575,
+          "end_offset": 592,
+          "start": 23.0,
+          "end": 23.68
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "start": 140.64999999999998,
+      "end": 165.29999999999998,
+      "text": "എഴുതിവരും ഇന്ത്യ സംസ്ഥാനം സംസ്ഥാനം വിവാഹം കഴിക്കുക. വിവാഹം കഴിക്കുക. വിവാഹം കഴിച്ചു, വിവാഹം കഴിച്ചു, വിൽക്കുക, വിൽക്കുക, വിറ്റു, വിറ്റു.",
+      "raw_word_timestamps": [
+        {
+          "word": "എഴുതിവരും",
+          "start_offset": 6,
+          "end_offset": 22,
+          "start": 0.24,
+          "end": 0.88
+        },
+        {
+          "word": "ഇന്ത്യ",
+          "start_offset": 54,
+          "end_offset": 58,
+          "start": 2.16,
+          "end": 2.32
+        },
+        {
+          "word": "സംസ്ഥാനം",
+          "start_offset": 143,
+          "end_offset": 163,
+          "start": 5.72,
+          "end": 6.5200000000000005
+        },
+        {
+          "word": "സംസ്ഥാനം",
+          "start_offset": 186,
+          "end_offset": 206,
+          "start": 7.44,
+          "end": 8.24
+        },
+        {
+          "word": "വിവാഹം",
+          "start_offset": 233,
+          "end_offset": 245,
+          "start": 9.32,
+          "end": 9.8
+        },
+        {
+          "word": "കഴിക്കുക.",
+          "start_offset": 245,
+          "end_offset": 260,
+          "start": 9.8,
+          "end": 10.4
+        },
+        {
+          "word": "വിവാഹം",
+          "start_offset": 292,
+          "end_offset": 305,
+          "start": 11.68,
+          "end": 12.200000000000001
+        },
+        {
+          "word": "കഴിക്കുക.",
+          "start_offset": 305,
+          "end_offset": 319,
+          "start": 12.200000000000001,
+          "end": 12.76
+        },
+        {
+          "word": "വിവാഹം",
+          "start_offset": 355,
+          "end_offset": 368,
+          "start": 14.200000000000001,
+          "end": 14.72
+        },
+        {
+          "word": "കഴിച്ചു,",
+          "start_offset": 368,
+          "end_offset": 379,
+          "start": 14.72,
+          "end": 15.16
+        },
+        {
+          "word": "വിവാഹം",
+          "start_offset": 421,
+          "end_offset": 433,
+          "start": 16.84,
+          "end": 17.32
+        },
+        {
+          "word": "കഴിച്ചു,",
+          "start_offset": 433,
+          "end_offset": 444,
+          "start": 17.32,
+          "end": 17.76
+        },
+        {
+          "word": "വിൽക്കുക,",
+          "start_offset": 489,
+          "end_offset": 503,
+          "start": 19.56,
+          "end": 20.12
+        },
+        {
+          "word": "വിൽക്കുക,",
+          "start_offset": 527,
+          "end_offset": 542,
+          "start": 21.080000000000002,
+          "end": 21.68
+        },
+        {
+          "word": "വിറ്റു,",
+          "start_offset": 566,
+          "end_offset": 577,
+          "start": 22.64,
+          "end": 23.080000000000002
+        },
+        {
+          "word": "വിറ്റു.",
+          "start_offset": 602,
+          "end_offset": 612,
+          "start": 24.080000000000002,
+          "end": 24.48
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "start": 165.29999999999998,
+      "end": 190.25,
+      "text": "ഇന്ത്യൻ എക്സ്പ്രസ് പ്രസിദ്ധീകരിക്കുക പ്രസിദ്ധീകരിച്ചു",
+      "raw_word_timestamps": [
+        {
+          "word": "ഇന്ത്യൻ",
+          "start_offset": 293,
+          "end_offset": 301,
+          "start": 11.72,
+          "end": 12.040000000000001
+        },
+        {
+          "word": "എക്സ്പ്രസ്",
+          "start_offset": 301,
+          "end_offset": 312,
+          "start": 12.040000000000001,
+          "end": 12.48
+        },
+        {
+          "word": "പ്രസിദ്ധീകരിക്കുക",
+          "start_offset": 360,
+          "end_offset": 388,
+          "start": 14.4,
+          "end": 15.52
+        },
+        {
+          "word": "പ്രസിദ്ധീകരിച്ചു",
+          "start_offset": 595,
+          "end_offset": 618,
+          "start": 23.8,
+          "end": 24.72
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "start": 190.25,
+      "end": 213.6,
+      "text": "പ്രസിദ്ധീകരിക്കപ്പെടുന്നു മാത്രം മാത്രം കൂടാതെ കൂടാതെ ഹിന്ദു ഹിന്ദു അധികം അധികം സ്ഥലം.",
+      "raw_word_timestamps": [
+        {
+          "word": "പ്രസിദ്ധീകരിക്കപ്പെടുന്നു",
+          "start_offset": 143,
+          "end_offset": 174,
+          "start": 5.72,
+          "end": 6.96
+        },
+        {
+          "word": "മാത്രം",
+          "start_offset": 229,
+          "end_offset": 241,
+          "start": 9.16,
+          "end": 9.64
+        },
+        {
+          "word": "മാത്രം",
+          "start_offset": 267,
+          "end_offset": 282,
+          "start": 10.68,
+          "end": 11.28
+        },
+        {
+          "word": "കൂടാതെ",
+          "start_offset": 310,
+          "end_offset": 326,
+          "start": 12.4,
+          "end": 13.040000000000001
+        },
+        {
+          "word": "കൂടാതെ",
+          "start_offset": 350,
+          "end_offset": 367,
+          "start": 14.0,
+          "end": 14.68
+        },
+        {
+          "word": "ഹിന്ദു",
+          "start_offset": 392,
+          "end_offset": 405,
+          "start": 15.68,
+          "end": 16.2
+        },
+        {
+          "word": "ഹിന്ദു",
+          "start_offset": 433,
+          "end_offset": 445,
+          "start": 17.32,
+          "end": 17.8
+        },
+        {
+          "word": "അധികം",
+          "start_offset": 475,
+          "end_offset": 487,
+          "start": 19.0,
+          "end": 19.48
+        },
+        {
+          "word": "അധികം",
+          "start_offset": 516,
+          "end_offset": 530,
+          "start": 20.64,
+          "end": 21.2
+        },
+        {
+          "word": "സ്ഥലം.",
+          "start_offset": 554,
+          "end_offset": 569,
+          "start": 22.16,
+          "end": 22.76
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "start": 213.6,
+      "end": 221.477125,
+      "text": "സ്ഥലം എല്ലാം എല്ലാം എല്ലാം",
+      "raw_word_timestamps": [
+        {
+          "word": "സ്ഥലം",
+          "start_offset": 12,
+          "end_offset": 26,
+          "start": 0.48,
+          "end": 1.04
+        },
+        {
+          "word": "എല്ലാം",
+          "start_offset": 62,
+          "end_offset": 73,
+          "start": 2.48,
+          "end": 2.92
+        },
+        {
+          "word": "എല്ലാം",
+          "start_offset": 106,
+          "end_offset": 117,
+          "start": 4.24,
+          "end": 4.68
+        },
+        {
+          "word": "എല്ലാം",
+          "start_offset": 155,
+          "end_offset": 163,
+          "start": 6.2,
+          "end": 6.5200000000000005
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "word": "റിപ്പീറ്റ്",
+      "start": 5.61,
+      "end": 6.05,
+      "section_start": 4.16,
+      "section_end": 4.6,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഈച്ച്",
+      "start": 6.13,
+      "end": 6.37,
+      "section_start": 4.68,
+      "section_end": 4.92,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഐറ്റം",
+      "start": 6.37,
+      "end": 6.69,
+      "section_start": 4.92,
+      "section_end": 5.24,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ആപ്റ്റർ",
+      "start": 6.81,
+      "end": 7.09,
+      "section_start": 5.36,
+      "section_end": 5.64,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ദി",
+      "start": 7.09,
+      "end": 7.25,
+      "section_start": 5.64,
+      "section_end": 5.8,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സ്പീക്കർ.",
+      "start": 7.25,
+      "end": 7.77,
+      "section_start": 5.8,
+      "section_end": 6.32,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഈച്ച്",
+      "start": 8.69,
+      "end": 8.97,
+      "section_start": 7.24,
+      "section_end": 7.52,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഐറ്റം",
+      "start": 8.97,
+      "end": 9.29,
+      "section_start": 7.52,
+      "section_end": 7.84,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഈസ്",
+      "start": 9.37,
+      "end": 9.57,
+      "section_start": 7.92,
+      "section_end": 8.12,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഗിവൺ",
+      "start": 9.57,
+      "end": 9.85,
+      "section_start": 8.12,
+      "section_end": 8.4,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ടു",
+      "start": 10.05,
+      "end": 10.13,
+      "section_start": 8.6,
+      "section_end": 8.68,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വൈസ്.",
+      "start": 10.25,
+      "end": 10.53,
+      "section_start": 8.8,
+      "section_end": 9.08,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "റെഡി.",
+      "start": 11.29,
+      "end": 11.69,
+      "section_start": 9.84,
+      "section_end": 10.24,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ലിസൺ",
+      "start": 11.97,
+      "end": 12.25,
+      "section_start": 10.52,
+      "section_end": 10.8,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ആൻഡ്",
+      "start": 12.33,
+      "end": 12.49,
+      "section_start": 10.88,
+      "section_end": 11.04,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "റിപ്പീറ്റ്.",
+      "start": 12.53,
+      "end": 13.01,
+      "section_start": 11.08,
+      "section_end": 11.56,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "മിക്കവാറും",
+      "start": 14.41,
+      "end": 15.13,
+      "section_start": 12.96,
+      "section_end": 13.68,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "മിക്കവാറും",
+      "start": 16.17,
+      "end": 16.89,
+      "section_start": 14.72,
+      "section_end": 15.44,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എല്ലാവരും",
+      "start": 20.05,
+      "end": 20.65,
+      "section_start": 18.6,
+      "section_end": 19.2,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എന്നും",
+      "start": 22.17,
+      "end": 22.45,
+      "section_start": 20.72,
+      "section_end": 21.0,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പല",
+      "start": 25.61,
+      "end": 25.93,
+      "section_start": 24.16,
+      "section_end": 24.48,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പല",
+      "start": 27.16,
+      "end": 27.48,
+      "section_start": 25.71,
+      "section_end": 26.03,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ദിനം",
+      "start": 28.84,
+      "end": 29.2,
+      "section_start": 27.39,
+      "section_end": 27.75,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ദിനം",
+      "start": 30.56,
+      "end": 30.92,
+      "section_start": 29.11,
+      "section_end": 29.47,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ദിനപത്രം",
+      "start": 32.4,
+      "end": 33.2,
+      "section_start": 30.95,
+      "section_end": 31.75,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ദിനപത്രം.",
+      "start": 34.44,
+      "end": 35.24,
+      "section_start": 32.99,
+      "section_end": 33.79,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കേരള",
+      "start": 36.92,
+      "end": 37.28,
+      "section_start": 35.47,
+      "section_end": 35.83,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൗമുദി,",
+      "start": 37.28,
+      "end": 37.88,
+      "section_start": 35.83,
+      "section_end": 36.43,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കേരള",
+      "start": 39.32,
+      "end": 39.68,
+      "section_start": 37.87,
+      "section_end": 38.23,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൗമുദി,",
+      "start": 39.76,
+      "end": 40.32,
+      "section_start": 38.31,
+      "section_end": 38.87,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "മലയാള",
+      "start": 41.96,
+      "end": 42.4,
+      "section_start": 40.51,
+      "section_end": 40.95,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "മനോരമ,",
+      "start": 42.4,
+      "end": 43.0,
+      "section_start": 40.95,
+      "section_end": 41.55,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "മലയാള",
+      "start": 44.68,
+      "end": 45.16,
+      "section_start": 43.23,
+      "section_end": 43.71,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "മനോരമ,",
+      "start": 45.16,
+      "end": 45.72,
+      "section_start": 43.71,
+      "section_end": 44.27,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "മാതൃഭൂമി.",
+      "start": 47.56,
+      "end": 48.32,
+      "section_start": 46.11,
+      "section_end": 46.87,
+      "chunk": 1,
+      "near_chunk_edge": true
+    },
+    {
+      "word": "മാതൃഭൂമി",
+      "start": 49.89,
+      "end": 50.69,
+      "section_start": 48.44,
+      "section_end": 49.24,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അവിടുത്തെ",
+      "start": 52.41,
+      "end": 52.89,
+      "section_start": 50.96,
+      "section_end": 51.44,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അവിടുത്തെ",
+      "start": 54.53,
+      "end": 55.05,
+      "section_start": 53.08,
+      "section_end": 53.6,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഇവിടുത്തെ",
+      "start": 56.65,
+      "end": 57.13,
+      "section_start": 55.2,
+      "section_end": 55.68,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഇവിടുത്തെ",
+      "start": 58.89,
+      "end": 59.37,
+      "section_start": 57.44,
+      "section_end": 57.92,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അച്ചടിക്കുക",
+      "start": 63.29,
+      "end": 64.05,
+      "section_start": 61.84,
+      "section_end": 62.6,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അച്ചടിച്ചു",
+      "start": 65.49,
+      "end": 66.17,
+      "section_start": 64.04,
+      "section_end": 64.72,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അച്ചടിച്ചു",
+      "start": 67.53,
+      "end": 68.17,
+      "section_start": 66.08,
+      "section_end": 66.72,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അച്ചടിച്ചു",
+      "start": 69.77,
+      "end": 70.25,
+      "section_start": 68.32,
+      "section_end": 68.8,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വരും.",
+      "start": 70.33,
+      "end": 70.61,
+      "section_start": 68.88,
+      "section_end": 69.16,
+      "chunk": 2,
+      "near_chunk_edge": true
+    },
+    {
+      "word": "അച്ചടിച്ചുവരും",
+      "start": 72.1,
+      "end": 72.9,
+      "section_start": 70.65,
+      "section_end": 71.45,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സാധാരണയായി",
+      "start": 75.98,
+      "end": 79.3,
+      "section_start": 74.53,
+      "section_end": 77.85,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സാധാരണയായി",
+      "start": 81.02,
+      "end": 81.9,
+      "section_start": 79.57,
+      "section_end": 80.45,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അന്തരാഷ്ട്രീയത്തെ",
+      "start": 86.42,
+      "end": 89.9,
+      "section_start": 84.97,
+      "section_end": 88.45,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ആദ്യത്തെ",
+      "start": 91.58,
+      "end": 92.02,
+      "section_start": 90.13,
+      "section_end": 90.57,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ലോകം",
+      "start": 95.55,
+      "end": 96.07,
+      "section_start": 94.1,
+      "section_end": 94.62,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഏത്",
+      "start": 97.63,
+      "end": 97.95,
+      "section_start": 96.18,
+      "section_end": 96.5,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഏതും",
+      "start": 101.31,
+      "end": 101.79,
+      "section_start": 99.86,
+      "section_end": 100.34,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കോൺ",
+      "start": 105.11,
+      "end": 105.55,
+      "section_start": 103.66,
+      "section_end": 104.1,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കോൺ",
+      "start": 106.75,
+      "end": 107.15,
+      "section_start": 105.3,
+      "section_end": 105.7,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സംഭവം",
+      "start": 108.75,
+      "end": 109.39,
+      "section_start": 107.3,
+      "section_end": 107.94,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സംഭവം?",
+      "start": 110.51,
+      "end": 111.15,
+      "section_start": 109.06,
+      "section_end": 109.7,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഭാഷ,",
+      "start": 112.23,
+      "end": 112.63,
+      "section_start": 110.78,
+      "section_end": 111.18,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഭാഷ,",
+      "start": 113.55,
+      "end": 113.99,
+      "section_start": 112.1,
+      "section_end": 112.54,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "രാഷ്ട്രപതി.",
+      "start": 115.27,
+      "end": 115.95,
+      "section_start": 113.82,
+      "section_end": 114.5,
+      "chunk": 4,
+      "near_chunk_edge": true
+    },
+    {
+      "word": "രാഷ്",
+      "start": 117.06,
+      "end": 117.34,
+      "section_start": 115.61,
+      "section_end": 115.89,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ട്രപതി",
+      "start": 117.34,
+      "end": 117.82,
+      "section_start": 115.89,
+      "section_end": 116.37,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "തർജ്ജിമ,",
+      "start": 119.06,
+      "end": 119.66,
+      "section_start": 117.61,
+      "section_end": 118.21,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "തർജ്ജിമ,",
+      "start": 120.86,
+      "end": 121.42,
+      "section_start": 119.41,
+      "section_end": 119.97,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "തർജ്ജിമ",
+      "start": 122.98,
+      "end": 123.54,
+      "section_start": 121.53,
+      "section_end": 122.09,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ചെയ്യുക,",
+      "start": 123.54,
+      "end": 124.02,
+      "section_start": 122.09,
+      "section_end": 122.57,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "തർജ്ജിമ",
+      "start": 125.18,
+      "end": 125.7,
+      "section_start": 123.73,
+      "section_end": 124.25,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ചെയ്യുക.",
+      "start": 125.7,
+      "end": 126.18,
+      "section_start": 124.25,
+      "section_end": 124.73,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "തർജ്ജിമ",
+      "start": 127.62,
+      "end": 128.18,
+      "section_start": 126.17,
+      "section_end": 126.73,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ചെയ്തു,",
+      "start": 128.18,
+      "end": 128.42,
+      "section_start": 126.73,
+      "section_end": 126.97,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "തർജ്ജിമ",
+      "start": 129.94,
+      "end": 130.42,
+      "section_start": 128.49,
+      "section_end": 128.97,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ചെയ്തു,",
+      "start": 130.5,
+      "end": 130.82,
+      "section_start": 129.05,
+      "section_end": 129.37,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എഴുതുക,",
+      "start": 132.62,
+      "end": 133.14,
+      "section_start": 131.17,
+      "section_end": 131.69,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എഴുതുക,",
+      "start": 134.26,
+      "end": 134.82,
+      "section_start": 132.81,
+      "section_end": 133.37,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എഴുതി",
+      "start": 136.02,
+      "end": 136.38,
+      "section_start": 134.57,
+      "section_end": 134.93,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എഴുതി",
+      "start": 137.42,
+      "end": 137.86,
+      "section_start": 135.97,
+      "section_end": 136.41,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എഴുതിവരും.",
+      "start": 139.1,
+      "end": 139.78,
+      "section_start": 137.65,
+      "section_end": 138.33,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എഴുതിവരും",
+      "start": 140.89,
+      "end": 141.53,
+      "section_start": 139.44,
+      "section_end": 140.08,
+      "chunk": 6,
+      "near_chunk_edge": true
+    },
+    {
+      "word": "ഇന്ത്യ",
+      "start": 142.81,
+      "end": 142.97,
+      "section_start": 141.36,
+      "section_end": 141.52,
+      "chunk": 6,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സംസ്ഥാനം",
+      "start": 146.37,
+      "end": 147.17,
+      "section_start": 144.92,
+      "section_end": 145.72,
+      "chunk": 6,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സംസ്ഥാനം",
+      "start": 148.09,
+      "end": 148.89,
+      "section_start": 146.64,
+      "section_end": 147.44,
+      "chunk": 6,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വിവാഹം",
+      "start": 149.97,
+      "end": 150.45,
+      "section_start": 148.52,
+      "section_end": 149.0,
+      "chunk": 6,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കഴിക്കുക.",
+      "start": 150.45,
+      "end": 151.05,
+      "section_start": 149.0,
+      "section_end": 149.6,
+      "chunk": 6,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വിവാഹം",
+      "start": 152.33,
+      "end": 152.85,
+      "section_start": 150.88,
+      "section_end": 151.4,
+      "chunk": 6,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കഴിക്കുക.",
+      "start": 152.85,
+      "end": 153.41,
+      "section_start": 151.4,
+      "section_end": 151.96,
+      "chunk": 6,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വിവാഹം",
+      "start": 154.85,
+      "end": 155.37,
+      "section_start": 153.4,
+      "section_end": 153.92,
+      "chunk": 6,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കഴിച്ചു,",
+      "start": 155.37,
+      "end": 155.81,
+      "section_start": 153.92,
+      "section_end": 154.36,
+      "chunk": 6,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വിവാഹം",
+      "start": 157.49,
+      "end": 157.97,
+      "section_start": 156.04,
+      "section_end": 156.52,
+      "chunk": 6,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കഴിച്ചു,",
+      "start": 157.97,
+      "end": 158.41,
+      "section_start": 156.52,
+      "section_end": 156.96,
+      "chunk": 6,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വിൽക്കുക,",
+      "start": 160.21,
+      "end": 160.77,
+      "section_start": 158.76,
+      "section_end": 159.32,
+      "chunk": 6,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വിൽക്കുക,",
+      "start": 161.73,
+      "end": 162.33,
+      "section_start": 160.28,
+      "section_end": 160.88,
+      "chunk": 6,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വിറ്റു,",
+      "start": 163.29,
+      "end": 163.73,
+      "section_start": 161.84,
+      "section_end": 162.28,
+      "chunk": 6,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വിറ്റു.",
+      "start": 164.73,
+      "end": 165.13,
+      "section_start": 163.28,
+      "section_end": 163.68,
+      "chunk": 6,
+      "near_chunk_edge": true
+    },
+    {
+      "word": "ഇന്ത്യൻ",
+      "start": 177.02,
+      "end": 177.34,
+      "section_start": 175.57,
+      "section_end": 175.89,
+      "chunk": 7,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എക്സ്പ്രസ്",
+      "start": 177.34,
+      "end": 177.78,
+      "section_start": 175.89,
+      "section_end": 176.33,
+      "chunk": 7,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പ്രസിദ്ധീകരിക്കുക",
+      "start": 179.7,
+      "end": 180.82,
+      "section_start": 178.25,
+      "section_end": 179.37,
+      "chunk": 7,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പ്രസിദ്ധീകരിച്ചു",
+      "start": 189.1,
+      "end": 190.02,
+      "section_start": 187.65,
+      "section_end": 188.57,
+      "chunk": 7,
+      "near_chunk_edge": true
+    },
+    {
+      "word": "പ്രസിദ്ധീകരിക്കപ്പെടുന്നു",
+      "start": 195.97,
+      "end": 197.21,
+      "section_start": 194.52,
+      "section_end": 195.76,
+      "chunk": 8,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "മാത്രം",
+      "start": 199.41,
+      "end": 199.89,
+      "section_start": 197.96,
+      "section_end": 198.44,
+      "chunk": 8,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "മാത്രം",
+      "start": 200.93,
+      "end": 201.53,
+      "section_start": 199.48,
+      "section_end": 200.08,
+      "chunk": 8,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൂടാതെ",
+      "start": 202.65,
+      "end": 203.29,
+      "section_start": 201.2,
+      "section_end": 201.84,
+      "chunk": 8,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൂടാതെ",
+      "start": 204.25,
+      "end": 204.93,
+      "section_start": 202.8,
+      "section_end": 203.48,
+      "chunk": 8,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഹിന്ദു",
+      "start": 205.93,
+      "end": 206.45,
+      "section_start": 204.48,
+      "section_end": 205.0,
+      "chunk": 8,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഹിന്ദു",
+      "start": 207.57,
+      "end": 208.05,
+      "section_start": 206.12,
+      "section_end": 206.6,
+      "chunk": 8,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അധികം",
+      "start": 209.25,
+      "end": 209.73,
+      "section_start": 207.8,
+      "section_end": 208.28,
+      "chunk": 8,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അധികം",
+      "start": 210.89,
+      "end": 211.45,
+      "section_start": 209.44,
+      "section_end": 210.0,
+      "chunk": 8,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സ്ഥലം.",
+      "start": 212.41,
+      "end": 213.01,
+      "section_start": 210.96,
+      "section_end": 211.56,
+      "chunk": 8,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സ്ഥലം",
+      "start": 214.08,
+      "end": 214.64,
+      "section_start": 212.63,
+      "section_end": 213.19,
+      "chunk": 9,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എല്ലാം",
+      "start": 216.08,
+      "end": 216.52,
+      "section_start": 214.63,
+      "section_end": 215.07,
+      "chunk": 9,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എല്ലാം",
+      "start": 217.84,
+      "end": 218.28,
+      "section_start": 216.39,
+      "section_end": 216.83,
+      "chunk": 9,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എല്ലാം",
+      "start": 219.8,
+      "end": 220.12,
+      "section_start": 218.35,
+      "section_end": 218.67,
+      "chunk": 9,
+      "near_chunk_edge": false
+    }
+  ],
+  "text": "റിപ്പീറ്റ് ഈച്ച് ഐറ്റം ആപ്റ്റർ ദി സ്പീക്കർ. ഈച്ച് ഐറ്റം ഈസ് ഗിവൺ ടു വൈസ്. റെഡി. ലിസൺ ആൻഡ് റിപ്പീറ്റ്. മിക്കവാറും മിക്കവാറും എല്ലാവരും എന്നും പല പല ദിനം ദിനം ദിനപത്രം ദിനപത്രം. കേരള കൗമുദി, കേരള കൗമുദി, മലയാള മനോരമ, മലയാള മനോരമ, മാതൃഭൂമി. മാതൃഭൂമി അവിടുത്തെ അവിടുത്തെ ഇവിടുത്തെ ഇവിടുത്തെ അച്ചടിക്കുക അച്ചടിച്ചു അച്ചടിച്ചു അച്ചടിച്ചു വരും. അച്ചടിച്ചുവരും സാധാരണയായി സാധാരണയായി അന്തരാഷ്ട്രീയത്തെ ആദ്യത്തെ ലോകം ഏത് ഏതും കോൺ കോൺ സംഭവം സംഭവം? ഭാഷ, ഭാഷ, രാഷ്ട്രപതി. രാഷ് ട്രപതി തർജ്ജിമ, തർജ്ജിമ, തർജ്ജിമ ചെയ്യുക, തർജ്ജിമ ചെയ്യുക. തർജ്ജിമ ചെയ്തു, തർജ്ജിമ ചെയ്തു, എഴുതുക, എഴുതുക, എഴുതി എഴുതി എഴുതിവരും. എഴുതിവരും ഇന്ത്യ സംസ്ഥാനം സംസ്ഥാനം വിവാഹം കഴിക്കുക. വിവാഹം കഴിക്കുക. വിവാഹം കഴിച്ചു, വിവാഹം കഴിച്ചു, വിൽക്കുക, വിൽക്കുക, വിറ്റു, വിറ്റു. ഇന്ത്യൻ എക്സ്പ്രസ് പ്രസിദ്ധീകരിക്കുക പ്രസിദ്ധീകരിച്ചു പ്രസിദ്ധീകരിക്കപ്പെടുന്നു മാത്രം മാത്രം കൂടാതെ കൂടാതെ ഹിന്ദു ഹിന്ദു അധികം അധികം സ്ഥലം. സ്ഥലം എല്ലാം എല്ലാം എല്ലാം"
+}

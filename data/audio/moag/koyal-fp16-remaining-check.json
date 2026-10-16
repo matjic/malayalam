@@ -1,0 +1,1964 @@
+[
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_09_word_004.mp3",
+    "coreml": "ചേച്ചിയുടേത് ചേച്ചിയുടേത്",
+    "tokens": [
+      {
+        "id": 40,
+        "piece": "▁ച",
+        "start": 0.16,
+        "duration": 0.12
+      },
+      {
+        "id": 380,
+        "piece": "േ",
+        "start": 0.28,
+        "duration": 0.08
+      },
+      {
+        "id": 42,
+        "piece": "ച്ച",
+        "start": 0.36,
+        "duration": 0.12
+      },
+      {
+        "id": 48,
+        "piece": "ിയ",
+        "start": 0.48,
+        "duration": 0.08
+      },
+      {
+        "id": 216,
+        "piece": "ുട",
+        "start": 0.56,
+        "duration": 0.08
+      },
+      {
+        "id": 380,
+        "piece": "േ",
+        "start": 0.64,
+        "duration": 0.08
+      },
+      {
+        "id": 3,
+        "piece": "ത്",
+        "start": 0.72,
+        "duration": 0.16
+      },
+      {
+        "id": 40,
+        "piece": "▁ച",
+        "start": 2.0,
+        "duration": 0.08
+      },
+      {
+        "id": 380,
+        "piece": "േ",
+        "start": 2.08,
+        "duration": 0.08
+      },
+      {
+        "id": 42,
+        "piece": "ച്ച",
+        "start": 2.16,
+        "duration": 0.12
+      },
+      {
+        "id": 48,
+        "piece": "ിയ",
+        "start": 2.28,
+        "duration": 0.08
+      },
+      {
+        "id": 216,
+        "piece": "ുട",
+        "start": 2.36,
+        "duration": 0.08
+      },
+      {
+        "id": 380,
+        "piece": "േ",
+        "start": 2.44,
+        "duration": 0.08
+      },
+      {
+        "id": 3,
+        "piece": "ത്",
+        "start": 2.52,
+        "duration": 0.16
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.2726
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_09_word_018.mp3",
+    "coreml": "കൂട്ടുകാരി കൂട്ടുകാരി",
+    "tokens": [
+      {
+        "id": 143,
+        "piece": "▁കൂ",
+        "start": 0.16,
+        "duration": 0.16
+      },
+      {
+        "id": 18,
+        "piece": "ട്ട",
+        "start": 0.32,
+        "duration": 0.12
+      },
+      {
+        "id": 47,
+        "piece": "ുക",
+        "start": 0.44,
+        "duration": 0.08
+      },
+      {
+        "id": 361,
+        "piece": "ാ",
+        "start": 0.6,
+        "duration": 0.08
+      },
+      {
+        "id": 34,
+        "piece": "രി",
+        "start": 0.68,
+        "duration": 0.16
+      },
+      {
+        "id": 143,
+        "piece": "▁കൂ",
+        "start": 1.88,
+        "duration": 0.08
+      },
+      {
+        "id": 18,
+        "piece": "ട്ട",
+        "start": 2.12,
+        "duration": 0.12
+      },
+      {
+        "id": 47,
+        "piece": "ുക",
+        "start": 2.24,
+        "duration": 0.12
+      },
+      {
+        "id": 361,
+        "piece": "ാ",
+        "start": 2.36,
+        "duration": 0.08
+      },
+      {
+        "id": 34,
+        "piece": "രി",
+        "start": 2.44,
+        "duration": 0.12
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.1963
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_09_word_019.mp3",
+    "coreml": "കൂട്ടുകാരൻ കൂട്ടുകാരൻ",
+    "tokens": [
+      {
+        "id": 143,
+        "piece": "▁കൂ",
+        "start": 0.16,
+        "duration": 0.16
+      },
+      {
+        "id": 18,
+        "piece": "ട്ട",
+        "start": 0.32,
+        "duration": 0.12
+      },
+      {
+        "id": 47,
+        "piece": "ുക",
+        "start": 0.44,
+        "duration": 0.12
+      },
+      {
+        "id": 62,
+        "piece": "ാര",
+        "start": 0.56,
+        "duration": 0.16
+      },
+      {
+        "id": 389,
+        "piece": "ൻ",
+        "start": 0.72,
+        "duration": 0.12
+      },
+      {
+        "id": 143,
+        "piece": "▁കൂ",
+        "start": 1.72,
+        "duration": 0.16
+      },
+      {
+        "id": 18,
+        "piece": "ട്ട",
+        "start": 1.88,
+        "duration": 0.08
+      },
+      {
+        "id": 47,
+        "piece": "ുക",
+        "start": 2.04,
+        "duration": 0.12
+      },
+      {
+        "id": 62,
+        "piece": "ാര",
+        "start": 2.16,
+        "duration": 0.12
+      },
+      {
+        "id": 389,
+        "piece": "ൻ",
+        "start": 2.28,
+        "duration": 0.12
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.1897
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_10_word_014.mp3",
+    "coreml": "കിഴക്ക് കിഴക്ക്",
+    "tokens": [
+      {
+        "id": 8,
+        "piece": "▁ക",
+        "start": 0.08,
+        "duration": 0.08
+      },
+      {
+        "id": 356,
+        "piece": "ി",
+        "start": 0.16,
+        "duration": 0.08
+      },
+      {
+        "id": 401,
+        "piece": "ഴ",
+        "start": 0.24,
+        "duration": 0.12
+      },
+      {
+        "id": 46,
+        "piece": "ക്ക്",
+        "start": 0.36,
+        "duration": 0.08
+      },
+      {
+        "id": 8,
+        "piece": "▁ക",
+        "start": 1.68,
+        "duration": 0.08
+      },
+      {
+        "id": 356,
+        "piece": "ി",
+        "start": 1.76,
+        "duration": 0.08
+      },
+      {
+        "id": 401,
+        "piece": "ഴ",
+        "start": 1.84,
+        "duration": 0.12
+      },
+      {
+        "id": 46,
+        "piece": "ക്ക്",
+        "start": 1.96,
+        "duration": 0.08
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.1901
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_10_word_015.mp3",
+    "coreml": "കിഴക്കേ കിഴക്കേ",
+    "tokens": [
+      {
+        "id": 8,
+        "piece": "▁ക",
+        "start": 0.56,
+        "duration": 0.12
+      },
+      {
+        "id": 356,
+        "piece": "ി",
+        "start": 0.68,
+        "duration": 0.04
+      },
+      {
+        "id": 401,
+        "piece": "ഴ",
+        "start": 0.72,
+        "duration": 0.12
+      },
+      {
+        "id": 4,
+        "piece": "ക്ക",
+        "start": 0.84,
+        "duration": 0.08
+      },
+      {
+        "id": 380,
+        "piece": "േ",
+        "start": 1.08,
+        "duration": 0.08
+      },
+      {
+        "id": 8,
+        "piece": "▁ക",
+        "start": 2.48,
+        "duration": 0.08
+      },
+      {
+        "id": 356,
+        "piece": "ി",
+        "start": 2.56,
+        "duration": 0.08
+      },
+      {
+        "id": 401,
+        "piece": "ഴ",
+        "start": 2.64,
+        "duration": 0.12
+      },
+      {
+        "id": 4,
+        "piece": "ക്ക",
+        "start": 2.76,
+        "duration": 0.08
+      },
+      {
+        "id": 380,
+        "piece": "േ",
+        "start": 2.92,
+        "duration": 0.12
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.186
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_10_word_027.mp3",
+    "coreml": "വടക്കേ വടക്കേ",
+    "tokens": [
+      {
+        "id": 12,
+        "piece": "▁വ",
+        "start": 0.8,
+        "duration": 0.12
+      },
+      {
+        "id": 362,
+        "piece": "ട",
+        "start": 0.92,
+        "duration": 0.12
+      },
+      {
+        "id": 4,
+        "piece": "ക്ക",
+        "start": 1.04,
+        "duration": 0.08
+      },
+      {
+        "id": 380,
+        "piece": "േ",
+        "start": 1.24,
+        "duration": 0.12
+      },
+      {
+        "id": 12,
+        "piece": "▁വ",
+        "start": 2.36,
+        "duration": 0.12
+      },
+      {
+        "id": 362,
+        "piece": "ട",
+        "start": 2.48,
+        "duration": 0.12
+      },
+      {
+        "id": 4,
+        "piece": "ക്ക",
+        "start": 2.6,
+        "duration": 0.08
+      },
+      {
+        "id": 380,
+        "piece": "േ",
+        "start": 2.76,
+        "duration": 0.12
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.1855
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_10_word_028.mp3",
+    "coreml": "അത്തം അത്തം",
+    "tokens": [
+      {
+        "id": 9,
+        "piece": "▁അ",
+        "start": 0.16,
+        "duration": 0.12
+      },
+      {
+        "id": 37,
+        "piece": "ത്ത",
+        "start": 0.28,
+        "duration": 0.08
+      },
+      {
+        "id": 370,
+        "piece": "ം",
+        "start": 0.48,
+        "duration": 0.16
+      },
+      {
+        "id": 9,
+        "piece": "▁അ",
+        "start": 1.68,
+        "duration": 0.12
+      },
+      {
+        "id": 37,
+        "piece": "ത്ത",
+        "start": 1.8,
+        "duration": 0.12
+      },
+      {
+        "id": 370,
+        "piece": "ം",
+        "start": 2.0,
+        "duration": 0.12
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.1888
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_10_word_035.mp3",
+    "coreml": "ക്രെയിൻ ക്രെയിൻ",
+    "tokens": [
+      {
+        "id": 239,
+        "piece": "▁ക്",
+        "start": 0.72,
+        "duration": 0.08
+      },
+      {
+        "id": 179,
+        "piece": "രെ",
+        "start": 0.8,
+        "duration": 0.08
+      },
+      {
+        "id": 15,
+        "piece": "യി",
+        "start": 0.96,
+        "duration": 0.08
+      },
+      {
+        "id": 389,
+        "piece": "ൻ",
+        "start": 1.04,
+        "duration": 0.12
+      },
+      {
+        "id": 239,
+        "piece": "▁ക്",
+        "start": 2.84,
+        "duration": 0.08
+      },
+      {
+        "id": 179,
+        "piece": "രെ",
+        "start": 2.92,
+        "duration": 0.08
+      },
+      {
+        "id": 15,
+        "piece": "യി",
+        "start": 3.08,
+        "duration": 0.08
+      },
+      {
+        "id": 389,
+        "piece": "ൻ",
+        "start": 3.16,
+        "duration": 0.12
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.1881
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_14_word_010.mp3",
+    "coreml": "രംഗം രംഗം",
+    "tokens": [
+      {
+        "id": 78,
+        "piece": "▁ര",
+        "start": 0.16,
+        "duration": 0.16
+      },
+      {
+        "id": 288,
+        "piece": "ംഗ",
+        "start": 0.32,
+        "duration": 0.16
+      },
+      {
+        "id": 370,
+        "piece": "ം",
+        "start": 0.48,
+        "duration": 0.16
+      },
+      {
+        "id": 78,
+        "piece": "▁ര",
+        "start": 2.16,
+        "duration": 0.16
+      },
+      {
+        "id": 288,
+        "piece": "ംഗ",
+        "start": 2.32,
+        "duration": 0.12
+      },
+      {
+        "id": 370,
+        "piece": "ം",
+        "start": 2.56,
+        "duration": 0.16
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.1959
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_14_word_024.mp3",
+    "coreml": "പ്രസംഗം പ്രസംഗം",
+    "tokens": [
+      {
+        "id": 66,
+        "piece": "▁പ്ര",
+        "start": 0.16,
+        "duration": 0.16
+      },
+      {
+        "id": 373,
+        "piece": "സ",
+        "start": 0.32,
+        "duration": 0.12
+      },
+      {
+        "id": 288,
+        "piece": "ംഗ",
+        "start": 0.44,
+        "duration": 0.16
+      },
+      {
+        "id": 370,
+        "piece": "ം",
+        "start": 0.6,
+        "duration": 0.16
+      },
+      {
+        "id": 66,
+        "piece": "▁പ്ര",
+        "start": 2.16,
+        "duration": 0.16
+      },
+      {
+        "id": 373,
+        "piece": "സ",
+        "start": 2.32,
+        "duration": 0.16
+      },
+      {
+        "id": 288,
+        "piece": "ംഗ",
+        "start": 2.48,
+        "duration": 0.16
+      },
+      {
+        "id": 370,
+        "piece": "ം",
+        "start": 2.64,
+        "duration": 0.16
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.1902
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_15_word_017.mp3",
+    "coreml": "സ്ത്രീ സ്ത്രീ",
+    "tokens": [
+      {
+        "id": 94,
+        "piece": "▁സ്",
+        "start": 0.24,
+        "duration": 0.08
+      },
+      {
+        "id": 96,
+        "piece": "ത്ര",
+        "start": 0.32,
+        "duration": 0.12
+      },
+      {
+        "id": 388,
+        "piece": "ീ",
+        "start": 0.44,
+        "duration": 0.16
+      },
+      {
+        "id": 94,
+        "piece": "▁സ്",
+        "start": 2.4,
+        "duration": 0.12
+      },
+      {
+        "id": 96,
+        "piece": "ത്ര",
+        "start": 2.52,
+        "duration": 0.12
+      },
+      {
+        "id": 388,
+        "piece": "ീ",
+        "start": 2.64,
+        "duration": 0.12
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.1881
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_15_word_034.mp3",
+    "coreml": "തോന്നുക തോന്നുക",
+    "tokens": [
+      {
+        "id": 39,
+        "piece": "▁ത",
+        "start": 0.12,
+        "duration": 0.12
+      },
+      {
+        "id": 377,
+        "piece": "ോ",
+        "start": 0.24,
+        "duration": 0.12
+      },
+      {
+        "id": 7,
+        "piece": "ന്ന",
+        "start": 0.36,
+        "duration": 0.16
+      },
+      {
+        "id": 47,
+        "piece": "ുക",
+        "start": 0.52,
+        "duration": 0.16
+      },
+      {
+        "id": 39,
+        "piece": "▁ത",
+        "start": 2.64,
+        "duration": 0.12
+      },
+      {
+        "id": 377,
+        "piece": "ോ",
+        "start": 2.76,
+        "duration": 0.12
+      },
+      {
+        "id": 7,
+        "piece": "ന്ന",
+        "start": 2.88,
+        "duration": 0.16
+      },
+      {
+        "id": 47,
+        "piece": "ുക",
+        "start": 3.04,
+        "duration": 0.16
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.1883
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_16_word_010.mp3",
+    "coreml": "അവിടുത്തെ അവിടുത്തെ",
+    "tokens": [
+      {
+        "id": 9,
+        "piece": "▁അ",
+        "start": 0.4,
+        "duration": 0.08
+      },
+      {
+        "id": 71,
+        "piece": "വി",
+        "start": 0.48,
+        "duration": 0.12
+      },
+      {
+        "id": 64,
+        "piece": "ടു",
+        "start": 0.6,
+        "duration": 0.12
+      },
+      {
+        "id": 154,
+        "piece": "ത്തെ",
+        "start": 0.72,
+        "duration": 0.16
+      },
+      {
+        "id": 9,
+        "piece": "▁അ",
+        "start": 2.48,
+        "duration": 0.04
+      },
+      {
+        "id": 71,
+        "piece": "വി",
+        "start": 2.64,
+        "duration": 0.12
+      },
+      {
+        "id": 64,
+        "piece": "ടു",
+        "start": 2.76,
+        "duration": 0.12
+      },
+      {
+        "id": 154,
+        "piece": "ത്തെ",
+        "start": 2.88,
+        "duration": 0.12
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.1944
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_16_word_011.mp3",
+    "coreml": "ഇവിടുത്തെ",
+    "tokens": [
+      {
+        "id": 30,
+        "piece": "▁ഇ",
+        "start": 2.44,
+        "duration": 0.12
+      },
+      {
+        "id": 71,
+        "piece": "വി",
+        "start": 2.56,
+        "duration": 0.12
+      },
+      {
+        "id": 64,
+        "piece": "ടു",
+        "start": 2.68,
+        "duration": 0.12
+      },
+      {
+        "id": 154,
+        "piece": "ത്തെ",
+        "start": 2.8,
+        "duration": 0.16
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.1939
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_16_word_015.mp3",
+    "coreml": "സാധാരണ",
+    "tokens": [
+      {
+        "id": 275,
+        "piece": "▁സാധ",
+        "start": 0.32,
+        "duration": 0.16
+      },
+      {
+        "id": 62,
+        "piece": "ാര",
+        "start": 0.48,
+        "duration": 0.16
+      },
+      {
+        "id": 372,
+        "piece": "ണ",
+        "start": 0.64,
+        "duration": 0.16
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.1883
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_16_word_016.mp3",
+    "coreml": "സാധാരണയായി",
+    "tokens": [
+      {
+        "id": 275,
+        "piece": "▁സാധ",
+        "start": 2.8,
+        "duration": 0.16
+      },
+      {
+        "id": 62,
+        "piece": "ാര",
+        "start": 3.12,
+        "duration": 0.12
+      },
+      {
+        "id": 372,
+        "piece": "ണ",
+        "start": 3.24,
+        "duration": 0.12
+      },
+      {
+        "id": 363,
+        "piece": "യ",
+        "start": 3.36,
+        "duration": 0.12
+      },
+      {
+        "id": 45,
+        "piece": "ായി",
+        "start": 3.48,
+        "duration": 0.16
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.1959
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_19_word_028.mp3",
+    "coreml": "മതി മതി",
+    "tokens": [
+      {
+        "id": 19,
+        "piece": "▁മ",
+        "start": 0.16,
+        "duration": 0.16
+      },
+      {
+        "id": 11,
+        "piece": "തി",
+        "start": 0.32,
+        "duration": 0.12
+      },
+      {
+        "id": 19,
+        "piece": "▁മ",
+        "start": 1.12,
+        "duration": 0.16
+      },
+      {
+        "id": 11,
+        "piece": "തി",
+        "start": 1.28,
+        "duration": 0.16
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.1936
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_19_word_033.mp3",
+    "coreml": "ജോലി ചെയ്യാൻ മടിയാണ്",
+    "tokens": [
+      {
+        "id": 92,
+        "piece": "▁ജ",
+        "start": 3.0,
+        "duration": 0.12
+      },
+      {
+        "id": 377,
+        "piece": "ോ",
+        "start": 3.12,
+        "duration": 0.12
+      },
+      {
+        "id": 304,
+        "piece": "ലി",
+        "start": 3.24,
+        "duration": 0.16
+      },
+      {
+        "id": 130,
+        "piece": "▁ചെയ്യ",
+        "start": 3.4,
+        "duration": 0.16
+      },
+      {
+        "id": 59,
+        "piece": "ാൻ",
+        "start": 3.72,
+        "duration": 0.16
+      },
+      {
+        "id": 19,
+        "piece": "▁മ",
+        "start": 3.96,
+        "duration": 0.16
+      },
+      {
+        "id": 362,
+        "piece": "ട",
+        "start": 4.12,
+        "duration": 0.08
+      },
+      {
+        "id": 48,
+        "piece": "ിയ",
+        "start": 4.2,
+        "duration": 0.16
+      },
+      {
+        "id": 41,
+        "piece": "ാണ്",
+        "start": 4.36,
+        "duration": 0.16
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.1904
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_19_word_040.mp3",
+    "coreml": "മാറ്റി മാറ്റി",
+    "tokens": [
+      {
+        "id": 151,
+        "piece": "▁മാ",
+        "start": 0.16,
+        "duration": 0.16
+      },
+      {
+        "id": 250,
+        "piece": "റ്റി",
+        "start": 0.48,
+        "duration": 0.16
+      },
+      {
+        "id": 151,
+        "piece": "▁മാ",
+        "start": 1.72,
+        "duration": 0.16
+      },
+      {
+        "id": 250,
+        "piece": "റ്റി",
+        "start": 2.04,
+        "duration": 0.16
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.189
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_20_word_022.mp3",
+    "coreml": "ആകാശം ആകാശം",
+    "tokens": [
+      {
+        "id": 32,
+        "piece": "▁ആ",
+        "start": 0.16,
+        "duration": 0.16
+      },
+      {
+        "id": 357,
+        "piece": "ക",
+        "start": 0.32,
+        "duration": 0.12
+      },
+      {
+        "id": 361,
+        "piece": "ാ",
+        "start": 0.44,
+        "duration": 0.12
+      },
+      {
+        "id": 395,
+        "piece": "ശ",
+        "start": 0.56,
+        "duration": 0.16
+      },
+      {
+        "id": 370,
+        "piece": "ം",
+        "start": 0.72,
+        "duration": 0.16
+      },
+      {
+        "id": 32,
+        "piece": "▁ആ",
+        "start": 1.8,
+        "duration": 0.16
+      },
+      {
+        "id": 357,
+        "piece": "ക",
+        "start": 1.96,
+        "duration": 0.12
+      },
+      {
+        "id": 361,
+        "piece": "ാ",
+        "start": 2.08,
+        "duration": 0.12
+      },
+      {
+        "id": 395,
+        "piece": "ശ",
+        "start": 2.2,
+        "duration": 0.16
+      },
+      {
+        "id": 370,
+        "piece": "ം",
+        "start": 2.36,
+        "duration": 0.16
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.1932
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_20_word_024.mp3",
+    "coreml": "വളരുക, വളരുക",
+    "tokens": [
+      {
+        "id": 285,
+        "piece": "▁വള",
+        "start": 0.16,
+        "duration": 0.16
+      },
+      {
+        "id": 20,
+        "piece": "രു",
+        "start": 0.44,
+        "duration": 0.16
+      },
+      {
+        "id": 357,
+        "piece": "ക",
+        "start": 0.6,
+        "duration": 0.12
+      },
+      {
+        "id": 393,
+        "piece": ",",
+        "start": 0.8,
+        "duration": 0.16
+      },
+      {
+        "id": 285,
+        "piece": "▁വള",
+        "start": 1.44,
+        "duration": 0.12
+      },
+      {
+        "id": 20,
+        "piece": "രു",
+        "start": 1.72,
+        "duration": 0.16
+      },
+      {
+        "id": 357,
+        "piece": "ക",
+        "start": 1.88,
+        "duration": 0.16
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.194
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_20_word_043.mp3",
+    "coreml": "ആഘോഷിക്കപ്പെടുക ആഘോഷിക്കപ്പെടുക",
+    "tokens": [
+      {
+        "id": 32,
+        "piece": "▁ആ",
+        "start": 0.16,
+        "duration": 0.16
+      },
+      {
+        "id": 419,
+        "piece": "ഘ",
+        "start": 0.32,
+        "duration": 0.16
+      },
+      {
+        "id": 377,
+        "piece": "ോ",
+        "start": 0.48,
+        "duration": 0.12
+      },
+      {
+        "id": 392,
+        "piece": "ഷ",
+        "start": 0.6,
+        "duration": 0.12
+      },
+      {
+        "id": 50,
+        "piece": "ിക്ക",
+        "start": 0.72,
+        "duration": 0.16
+      },
+      {
+        "id": 140,
+        "piece": "പ്പെ",
+        "start": 0.88,
+        "duration": 0.12
+      },
+      {
+        "id": 362,
+        "piece": "ട",
+        "start": 1.12,
+        "duration": 0.08
+      },
+      {
+        "id": 47,
+        "piece": "ുക",
+        "start": 1.2,
+        "duration": 0.16
+      },
+      {
+        "id": 32,
+        "piece": "▁ആ",
+        "start": 2.56,
+        "duration": 0.16
+      },
+      {
+        "id": 419,
+        "piece": "ഘ",
+        "start": 2.72,
+        "duration": 0.12
+      },
+      {
+        "id": 377,
+        "piece": "ോ",
+        "start": 2.84,
+        "duration": 0.12
+      },
+      {
+        "id": 392,
+        "piece": "ഷ",
+        "start": 2.96,
+        "duration": 0.16
+      },
+      {
+        "id": 50,
+        "piece": "ിക്ക",
+        "start": 3.12,
+        "duration": 0.12
+      },
+      {
+        "id": 140,
+        "piece": "പ്പെ",
+        "start": 3.4,
+        "duration": 0.16
+      },
+      {
+        "id": 362,
+        "piece": "ട",
+        "start": 3.56,
+        "duration": 0.12
+      },
+      {
+        "id": 47,
+        "piece": "ുക",
+        "start": 3.68,
+        "duration": 0.16
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.1943
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_20_word_077.mp3",
+    "coreml": "ഹിന്ദു ഹിന്ദു",
+    "tokens": [
+      {
+        "id": 190,
+        "piece": "▁ഹ",
+        "start": 0.12,
+        "duration": 0.08
+      },
+      {
+        "id": 356,
+        "piece": "ി",
+        "start": 0.2,
+        "duration": 0.08
+      },
+      {
+        "id": 197,
+        "piece": "ന്ദ",
+        "start": 0.28,
+        "duration": 0.16
+      },
+      {
+        "id": 359,
+        "piece": "ു",
+        "start": 0.44,
+        "duration": 0.16
+      },
+      {
+        "id": 190,
+        "piece": "▁ഹ",
+        "start": 1.72,
+        "duration": 0.08
+      },
+      {
+        "id": 356,
+        "piece": "ി",
+        "start": 1.8,
+        "duration": 0.12
+      },
+      {
+        "id": 197,
+        "piece": "ന്ദ",
+        "start": 1.92,
+        "duration": 0.12
+      },
+      {
+        "id": 359,
+        "piece": "ു",
+        "start": 2.04,
+        "duration": 0.16
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.192
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_20_word_078.mp3",
+    "coreml": "ഹിന്ദുക്കൾ ഹിന്ദുക്കൾ",
+    "tokens": [
+      {
+        "id": 190,
+        "piece": "▁ഹ",
+        "start": 0.12,
+        "duration": 0.08
+      },
+      {
+        "id": 356,
+        "piece": "ി",
+        "start": 0.2,
+        "duration": 0.12
+      },
+      {
+        "id": 197,
+        "piece": "ന്ദ",
+        "start": 0.32,
+        "duration": 0.12
+      },
+      {
+        "id": 359,
+        "piece": "ു",
+        "start": 0.44,
+        "duration": 0.08
+      },
+      {
+        "id": 4,
+        "piece": "ക്ക",
+        "start": 0.52,
+        "duration": 0.16
+      },
+      {
+        "id": 383,
+        "piece": "ൾ",
+        "start": 0.68,
+        "duration": 0.16
+      },
+      {
+        "id": 190,
+        "piece": "▁ഹ",
+        "start": 2.2,
+        "duration": 0.12
+      },
+      {
+        "id": 356,
+        "piece": "ി",
+        "start": 2.32,
+        "duration": 0.12
+      },
+      {
+        "id": 197,
+        "piece": "ന്ദ",
+        "start": 2.44,
+        "duration": 0.12
+      },
+      {
+        "id": 359,
+        "piece": "ു",
+        "start": 2.56,
+        "duration": 0.08
+      },
+      {
+        "id": 4,
+        "piece": "ക്ക",
+        "start": 2.64,
+        "duration": 0.16
+      },
+      {
+        "id": 383,
+        "piece": "ൾ",
+        "start": 2.8,
+        "duration": 0.16
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.1955
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_20_word_079.mp3",
+    "coreml": "മുസ്ലിം മുസ്ലിം",
+    "tokens": [
+      {
+        "id": 167,
+        "piece": "▁മു",
+        "start": 0.16,
+        "duration": 0.16
+      },
+      {
+        "id": 373,
+        "piece": "സ",
+        "start": 0.32,
+        "duration": 0.08
+      },
+      {
+        "id": 29,
+        "piece": "്ല",
+        "start": 0.4,
+        "duration": 0.08
+      },
+      {
+        "id": 356,
+        "piece": "ി",
+        "start": 0.48,
+        "duration": 0.12
+      },
+      {
+        "id": 370,
+        "piece": "ം",
+        "start": 0.6,
+        "duration": 0.16
+      },
+      {
+        "id": 167,
+        "piece": "▁മു",
+        "start": 1.96,
+        "duration": 0.16
+      },
+      {
+        "id": 373,
+        "piece": "സ",
+        "start": 2.12,
+        "duration": 0.08
+      },
+      {
+        "id": 29,
+        "piece": "്ല",
+        "start": 2.2,
+        "duration": 0.08
+      },
+      {
+        "id": 356,
+        "piece": "ി",
+        "start": 2.28,
+        "duration": 0.08
+      },
+      {
+        "id": 370,
+        "piece": "ം",
+        "start": 2.36,
+        "duration": 0.16
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.1944
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_20_word_080.mp3",
+    "coreml": "മുസ്ലിങ്ങൾ മുസ്ലിങ്ങൾ",
+    "tokens": [
+      {
+        "id": 167,
+        "piece": "▁മു",
+        "start": 0.16,
+        "duration": 0.16
+      },
+      {
+        "id": 373,
+        "piece": "സ",
+        "start": 0.32,
+        "duration": 0.08
+      },
+      {
+        "id": 29,
+        "piece": "്ല",
+        "start": 0.4,
+        "duration": 0.12
+      },
+      {
+        "id": 356,
+        "piece": "ി",
+        "start": 0.52,
+        "duration": 0.08
+      },
+      {
+        "id": 81,
+        "piece": "ങ്ങൾ",
+        "start": 0.6,
+        "duration": 0.16
+      },
+      {
+        "id": 167,
+        "piece": "▁മു",
+        "start": 1.92,
+        "duration": 0.16
+      },
+      {
+        "id": 373,
+        "piece": "സ",
+        "start": 2.08,
+        "duration": 0.08
+      },
+      {
+        "id": 29,
+        "piece": "്ല",
+        "start": 2.16,
+        "duration": 0.08
+      },
+      {
+        "id": 356,
+        "piece": "ി",
+        "start": 2.24,
+        "duration": 0.08
+      },
+      {
+        "id": 81,
+        "piece": "ങ്ങൾ",
+        "start": 2.32,
+        "duration": 0.16
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.1936
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_21_word_001.mp3",
+    "coreml": "ഇംഗ്ലീഷ് ഇംഗ്ലീഷ്",
+    "tokens": [
+      {
+        "id": 30,
+        "piece": "▁ഇ",
+        "start": 0.16,
+        "duration": 0.08
+      },
+      {
+        "id": 288,
+        "piece": "ംഗ",
+        "start": 0.24,
+        "duration": 0.12
+      },
+      {
+        "id": 29,
+        "piece": "്ല",
+        "start": 0.36,
+        "duration": 0.08
+      },
+      {
+        "id": 388,
+        "piece": "ീ",
+        "start": 0.44,
+        "duration": 0.08
+      },
+      {
+        "id": 392,
+        "piece": "ഷ",
+        "start": 0.52,
+        "duration": 0.08
+      },
+      {
+        "id": 354,
+        "piece": "്",
+        "start": 0.6,
+        "duration": 0.12
+      },
+      {
+        "id": 30,
+        "piece": "▁ഇ",
+        "start": 2.12,
+        "duration": 0.08
+      },
+      {
+        "id": 288,
+        "piece": "ംഗ",
+        "start": 2.2,
+        "duration": 0.08
+      },
+      {
+        "id": 29,
+        "piece": "്ല",
+        "start": 2.28,
+        "duration": 0.08
+      },
+      {
+        "id": 388,
+        "piece": "ീ",
+        "start": 2.36,
+        "duration": 0.08
+      },
+      {
+        "id": 392,
+        "piece": "ഷ",
+        "start": 2.44,
+        "duration": 0.08
+      },
+      {
+        "id": 354,
+        "piece": "്",
+        "start": 2.52,
+        "duration": 0.12
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.189
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_21_word_021.mp3",
+    "coreml": "ആയിരിക്കണം ആയിരിക്കണം",
+    "tokens": [
+      {
+        "id": 272,
+        "piece": "▁ആയി",
+        "start": 0.16,
+        "duration": 0.16
+      },
+      {
+        "id": 108,
+        "piece": "രിക്ക",
+        "start": 0.48,
+        "duration": 0.16
+      },
+      {
+        "id": 125,
+        "piece": "ണം",
+        "start": 0.76,
+        "duration": 0.16
+      },
+      {
+        "id": 272,
+        "piece": "▁ആയി",
+        "start": 2.36,
+        "duration": 0.16
+      },
+      {
+        "id": 108,
+        "piece": "രിക്ക",
+        "start": 2.68,
+        "duration": 0.16
+      },
+      {
+        "id": 125,
+        "piece": "ണം",
+        "start": 2.84,
+        "duration": 0.16
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.186
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_24_word_011.mp3",
+    "coreml": "നേരിൽ നേരിൽ",
+    "tokens": [
+      {
+        "id": 228,
+        "piece": "▁നേ",
+        "start": 0.28,
+        "duration": 0.16
+      },
+      {
+        "id": 34,
+        "piece": "രി",
+        "start": 0.44,
+        "duration": 0.16
+      },
+      {
+        "id": 381,
+        "piece": "ൽ",
+        "start": 0.6,
+        "duration": 0.16
+      },
+      {
+        "id": 228,
+        "piece": "▁നേ",
+        "start": 2.68,
+        "duration": 0.16
+      },
+      {
+        "id": 34,
+        "piece": "രി",
+        "start": 2.92,
+        "duration": 0.16
+      },
+      {
+        "id": 381,
+        "piece": "ൽ",
+        "start": 3.08,
+        "duration": 0.16
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.1863
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_24_word_017.mp3",
+    "coreml": "കുറയുക കുറയുക",
+    "tokens": [
+      {
+        "id": 223,
+        "piece": "▁കുറ",
+        "start": 0.16,
+        "duration": 0.16
+      },
+      {
+        "id": 363,
+        "piece": "യ",
+        "start": 0.48,
+        "duration": 0.16
+      },
+      {
+        "id": 47,
+        "piece": "ുക",
+        "start": 0.64,
+        "duration": 0.16
+      },
+      {
+        "id": 223,
+        "piece": "▁കുറ",
+        "start": 2.8,
+        "duration": 0.16
+      },
+      {
+        "id": 363,
+        "piece": "യ",
+        "start": 3.08,
+        "duration": 0.16
+      },
+      {
+        "id": 47,
+        "piece": "ുക",
+        "start": 3.24,
+        "duration": 0.16
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.1854
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_24_word_018.mp3",
+    "coreml": "കുറഞ്ഞു കുറഞ്ഞു",
+    "tokens": [
+      {
+        "id": 223,
+        "piece": "▁കുറ",
+        "start": 0.16,
+        "duration": 0.16
+      },
+      {
+        "id": 85,
+        "piece": "ഞ്ഞ",
+        "start": 0.48,
+        "duration": 0.12
+      },
+      {
+        "id": 359,
+        "piece": "ു",
+        "start": 0.6,
+        "duration": 0.16
+      },
+      {
+        "id": 223,
+        "piece": "▁കുറ",
+        "start": 3.0,
+        "duration": 0.16
+      },
+      {
+        "id": 85,
+        "piece": "ഞ്ഞ",
+        "start": 3.28,
+        "duration": 0.12
+      },
+      {
+        "id": 359,
+        "piece": "ു",
+        "start": 3.4,
+        "duration": 0.16
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.1862
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_24_word_035.mp3",
+    "coreml": "അന്യോന്യം അന്യോന്യം",
+    "tokens": [
+      {
+        "id": 9,
+        "piece": "▁അ",
+        "start": 0.44,
+        "duration": 0.16
+      },
+      {
+        "id": 1,
+        "piece": "ന്",
+        "start": 0.6,
+        "duration": 0.08
+      },
+      {
+        "id": 363,
+        "piece": "യ",
+        "start": 0.68,
+        "duration": 0.08
+      },
+      {
+        "id": 377,
+        "piece": "ോ",
+        "start": 0.76,
+        "duration": 0.08
+      },
+      {
+        "id": 1,
+        "piece": "ന്",
+        "start": 0.84,
+        "duration": 0.12
+      },
+      {
+        "id": 324,
+        "piece": "യം",
+        "start": 0.96,
+        "duration": 0.16
+      },
+      {
+        "id": 9,
+        "piece": "▁അ",
+        "start": 2.68,
+        "duration": 0.16
+      },
+      {
+        "id": 1,
+        "piece": "ന്",
+        "start": 2.84,
+        "duration": 0.08
+      },
+      {
+        "id": 363,
+        "piece": "യ",
+        "start": 2.92,
+        "duration": 0.08
+      },
+      {
+        "id": 377,
+        "piece": "ോ",
+        "start": 3.0,
+        "duration": 0.12
+      },
+      {
+        "id": 1,
+        "piece": "ന്",
+        "start": 3.12,
+        "duration": 0.12
+      },
+      {
+        "id": 324,
+        "piece": "യം",
+        "start": 3.24,
+        "duration": 0.16
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.1882
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_25_word_024.mp3",
+    "coreml": "മഞ്ഞൾ മഞ്ഞൾ",
+    "tokens": [
+      {
+        "id": 19,
+        "piece": "▁മ",
+        "start": 0.16,
+        "duration": 0.16
+      },
+      {
+        "id": 85,
+        "piece": "ഞ്ഞ",
+        "start": 0.32,
+        "duration": 0.16
+      },
+      {
+        "id": 383,
+        "piece": "ൾ",
+        "start": 0.48,
+        "duration": 0.16
+      },
+      {
+        "id": 19,
+        "piece": "▁മ",
+        "start": 2.24,
+        "duration": 0.16
+      },
+      {
+        "id": 85,
+        "piece": "ഞ്ഞ",
+        "start": 2.4,
+        "duration": 0.16
+      },
+      {
+        "id": 383,
+        "piece": "ൾ",
+        "start": 2.56,
+        "duration": 0.16
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.194
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_25_word_078.mp3",
+    "coreml": "സുഖിക്കുക സുഖിക്കുക",
+    "tokens": [
+      {
+        "id": 17,
+        "piece": "▁സ",
+        "start": 0.16,
+        "duration": 0.12
+      },
+      {
+        "id": 359,
+        "piece": "ു",
+        "start": 0.28,
+        "duration": 0.08
+      },
+      {
+        "id": 412,
+        "piece": "ഖ",
+        "start": 0.36,
+        "duration": 0.16
+      },
+      {
+        "id": 50,
+        "piece": "ിക്ക",
+        "start": 0.52,
+        "duration": 0.16
+      },
+      {
+        "id": 47,
+        "piece": "ുക",
+        "start": 0.68,
+        "duration": 0.16
+      },
+      {
+        "id": 17,
+        "piece": "▁സ",
+        "start": 2.48,
+        "duration": 0.08
+      },
+      {
+        "id": 359,
+        "piece": "ു",
+        "start": 2.56,
+        "duration": 0.04
+      },
+      {
+        "id": 412,
+        "piece": "ഖ",
+        "start": 2.6,
+        "duration": 0.16
+      },
+      {
+        "id": 50,
+        "piece": "ിക്ക",
+        "start": 2.76,
+        "duration": 0.16
+      },
+      {
+        "id": 47,
+        "piece": "ുക",
+        "start": 2.92,
+        "duration": 0.16
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.1863
+  }
+]

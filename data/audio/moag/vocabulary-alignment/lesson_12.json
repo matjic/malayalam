@@ -1,0 +1,1014 @@
+{
+  "pipeline_version": 6,
+  "lesson": 12,
+  "source": "data/audio/moag/lesson_12.mp3",
+  "model": "Whisper large-v3 (32 encoder and 32 decoder layers), MLX",
+  "range_start": 238.67,
+  "range_end": 375.51,
+  "method": "Acoustic cepstrum comparison pairs repeated utterances independently of textbook order; large-v3 word end timestamps matched to pauses, then global spelling assignment against printed vocabulary (order is only a weak tie-breaker). Low-confidence labels require review. Raw recognizer text retained.",
+  "words": [
+    {
+      "utterances": [
+        {
+          "start": 240.0415,
+          "end": 240.9154
+        },
+        {
+          "start": 242.5674,
+          "end": 243.5044
+        }
+      ],
+      "raw_texts": [
+        "ഭര്താവ്",
+        "ഭര്താവ്"
+      ],
+      "english_segments": [
+        {
+          "start": 238.67,
+          "end": 249.01,
+          "text": " bhartāva bhārya"
+        }
+      ],
+      "transcript": "ഭർത്താവ്",
+      "meaning": "husband",
+      "textbook_row": 0,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_12_word_001"
+    },
+    {
+      "utterances": [
+        {
+          "start": 245.2403,
+          "end": 245.96
+        },
+        {
+          "start": 247.3275,
+          "end": 248.0499
+        }
+      ],
+      "raw_texts": [
+        "ഭാര്യ",
+        "ഭര്യ"
+      ],
+      "english_segments": [
+        {
+          "start": 238.67,
+          "end": 249.01,
+          "text": " bhartāva bhārya"
+        }
+      ],
+      "transcript": "ഭാര്യ",
+      "meaning": "wife",
+      "textbook_row": 3,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_12_word_002"
+    },
+    {
+      "utterances": [
+        {
+          "start": 249.4742,
+          "end": 250.1672
+        },
+        {
+          "start": 251.2912,
+          "end": 251.9749
+        }
+      ],
+      "raw_texts": [
+        "മഗല്",
+        "മഗല്"
+      ],
+      "english_segments": [
+        {
+          "start": 249.01,
+          "end": 257.05,
+          "text": " magal magan"
+        }
+      ],
+      "transcript": "മകൾ",
+      "meaning": "daughter",
+      "textbook_row": 1,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_12_word_003"
+    },
+    {
+      "utterances": [
+        {
+          "start": 253.099,
+          "end": 253.7287
+        },
+        {
+          "start": 255.223,
+          "end": 255.901
+        }
+      ],
+      "raw_texts": [
+        "മഗണ്",
+        "മഗണ്"
+      ],
+      "english_segments": [
+        {
+          "start": 249.01,
+          "end": 257.05,
+          "text": " magal magan"
+        }
+      ],
+      "transcript": "മകൻ",
+      "meaning": "son",
+      "textbook_row": 2,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_12_word_004"
+    },
+    {
+      "utterances": [
+        {
+          "start": 257.5981,
+          "end": 258.3395
+        },
+        {
+          "start": 259.7056,
+          "end": 260.5421
+        }
+      ],
+      "raw_texts": [
+        "അസുഖമ്",
+        "അസുഖമ്"
+      ],
+      "english_segments": [
+        {
+          "start": 257.05,
+          "end": 265.51,
+          "text": " asukham vair"
+        }
+      ],
+      "transcript": "അസുഖം",
+      "meaning": "illness, ill health",
+      "textbook_row": 4,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_12_word_005"
+    },
+    {
+      "utterances": [
+        {
+          "start": 261.5315,
+          "end": 262.5579
+        },
+        {
+          "start": 263.9311,
+          "end": 264.6453
+        }
+      ],
+      "raw_texts": [
+        "വായ്ര",
+        "വായ്ര"
+      ],
+      "english_segments": [
+        {
+          "start": 257.05,
+          "end": 265.51,
+          "text": " asukham vair"
+        }
+      ],
+      "transcript": "വയറ്",
+      "meaning": "stomach, belly",
+      "textbook_row": 5,
+      "similarity": 0.857,
+      "status": "matched",
+      "id": "lesson_12_word_006"
+    },
+    {
+      "utterances": [
+        {
+          "start": 266.1635,
+          "end": 267.0278
+        },
+        {
+          "start": 268.0907,
+          "end": 268.9857
+        }
+      ],
+      "raw_texts": [
+        "വയ്യട്ടുല്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 265.51,
+          "end": 275.21,
+          "text": " vayatil vayatil vaygattu vaygattu"
+        }
+      ],
+      "transcript": "വയറ്റിൽ",
+      "meaning": "in the stomach",
+      "textbook_row": 6,
+      "similarity": 0.8,
+      "status": "matched",
+      "id": "lesson_12_word_007"
+    },
+    {
+      "utterances": [
+        {
+          "start": 270.5148,
+          "end": 271.2919
+        },
+        {
+          "start": 272.6982,
+          "end": 273.5115
+        }
+      ],
+      "raw_texts": [
+        "വയ്യട്ടു",
+        "വയ്യട്ടു"
+      ],
+      "english_segments": [
+        {
+          "start": 265.51,
+          "end": 275.21,
+          "text": " vayatil vayatil vaygattu vaygattu"
+        }
+      ],
+      "transcript": "വൈകിട്ട്",
+      "meaning": "spoken form of വൈകുന്നേരം",
+      "textbook_row": 7,
+      "similarity": 0.444,
+      "status": "review",
+      "id": "lesson_12_word_008"
+    },
+    {
+      "utterances": [
+        {
+          "start": 276.0601,
+          "end": 276.9204
+        },
+        {
+          "start": 278.2354,
+          "end": 279.1044
+        }
+      ],
+      "raw_texts": [
+        "ആശുപത്രി",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 275.21,
+          "end": 285.51,
+          "text": " ashupathri ashupathri konda poganam konda poganam"
+        }
+      ],
+      "transcript": "ആശുപത്രി",
+      "meaning": "hospital",
+      "textbook_row": 8,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_12_word_009"
+    },
+    {
+      "utterances": [
+        {
+          "start": 280.7656,
+          "end": 281.8054
+        },
+        {
+          "start": 283.2774,
+          "end": 284.2893
+        }
+      ],
+      "raw_texts": [
+        "കുണ്ടെ പോകുന്നു",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 275.21,
+          "end": 285.51,
+          "text": " ashupathri ashupathri konda poganam konda poganam"
+        }
+      ],
+      "transcript": "കൊണ്ടുപോകണം",
+      "meaning": "want to take, need to take, have to take",
+      "textbook_row": 9,
+      "similarity": 0.667,
+      "status": "review",
+      "id": "lesson_12_word_010"
+    },
+    {
+      "utterances": [
+        {
+          "start": 285.3754,
+          "end": 285.9886
+        },
+        {
+          "start": 287.3693,
+          "end": 287.9944
+        }
+      ],
+      "raw_texts": [
+        "എന്ന",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 285.51,
+          "end": 287.51,
+          "text": " enn"
+        },
+        {
+          "start": 287.51,
+          "end": 289.51,
+          "text": " enn"
+        }
+      ],
+      "transcript": "എന്ന്",
+      "meaning": "quotation marker required at the end of a direct or indirect quotation",
+      "textbook_row": 10,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_12_word_011"
+    },
+    {
+      "utterances": [
+        {
+          "start": 289.6275,
+          "end": 290.4527
+        },
+        {
+          "start": 291.5365,
+          "end": 292.3593
+        }
+      ],
+      "raw_texts": [
+        "അധകുണ്ടെ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 289.51,
+          "end": 291.51,
+          "text": " adhukonda"
+        },
+        {
+          "start": 291.51,
+          "end": 293.51,
+          "text": " adhukonda"
+        }
+      ],
+      "transcript": "അതുകൊണ്ട്",
+      "meaning": "that is why, therefore",
+      "textbook_row": 11,
+      "similarity": 0.887,
+      "status": "matched",
+      "id": "lesson_12_word_012"
+    },
+    {
+      "utterances": [
+        {
+          "start": 293.5133,
+          "end": 294.2817
+        },
+        {
+          "start": 295.7415,
+          "end": 296.4931
+        }
+      ],
+      "raw_texts": [
+        "പിന്നേയും",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 293.51,
+          "end": 295.51,
+          "text": " pinnayum"
+        },
+        {
+          "start": 295.51,
+          "end": 297.51,
+          "text": " pinnayum"
+        }
+      ],
+      "transcript": "വീണ്ടും",
+      "meaning": "again",
+      "textbook_row": 12,
+      "similarity": 0.615,
+      "status": "review",
+      "id": "lesson_12_word_013"
+    },
+    {
+      "utterances": [
+        {
+          "start": 297.8185,
+          "end": 298.5805
+        },
+        {
+          "start": 300.0037,
+          "end": 300.7738
+        }
+      ],
+      "raw_texts": [
+        "പോകുന്നും",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 297.51,
+          "end": 299.51,
+          "text": " poganam"
+        },
+        {
+          "start": 299.51,
+          "end": 301.51,
+          "text": " poganam"
+        }
+      ],
+      "transcript": "പോകണം",
+      "meaning": "want to, need to, have to go",
+      "textbook_row": 13,
+      "similarity": 0.833,
+      "status": "matched",
+      "id": "lesson_12_word_014"
+    },
+    {
+      "utterances": [
+        {
+          "start": 301.9961,
+          "end": 302.6244
+        },
+        {
+          "start": 303.9473,
+          "end": 304.594
+        }
+      ],
+      "raw_texts": [
+        "ഇന്ന്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 301.51,
+          "end": 303.51,
+          "text": " inn"
+        },
+        {
+          "start": 303.51,
+          "end": 305.51,
+          "text": " inn"
+        }
+      ],
+      "transcript": "കൊണ്ടുപോയി",
+      "meaning": "want to take, need to take, have to take",
+      "textbook_row": 9,
+      "similarity": 0.182,
+      "status": "review",
+      "id": "lesson_12_word_015"
+    },
+    {
+      "utterances": [
+        {
+          "start": 305.9809,
+          "end": 307.0717
+        },
+        {
+          "start": 308.6755,
+          "end": 309.7152
+        }
+      ],
+      "raw_texts": [
+        "കുണ്ടുപോയാള്",
+        "കുണ്ടുപോയാള്"
+      ],
+      "english_segments": [
+        {
+          "start": 305.51,
+          "end": 307.51,
+          "text": " kondupoyal"
+        },
+        {
+          "start": 307.51,
+          "end": 309.51,
+          "text": " kondupoyal"
+        }
+      ],
+      "transcript": "കൊണ്ടുപോയാൽ",
+      "meaning": "if (I) took",
+      "textbook_row": 14,
+      "similarity": 0.9,
+      "status": "matched",
+      "id": "lesson_12_word_016"
+    },
+    {
+      "utterances": [
+        {
+          "start": 311.0005,
+          "end": 311.8017
+        },
+        {
+          "start": 312.9754,
+          "end": 313.7882
+        }
+      ],
+      "raw_texts": [
+        "കാണണ്ട",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 309.51,
+          "end": 311.51,
+          "text": " kānanda"
+        },
+        {
+          "start": 311.51,
+          "end": 313.51,
+          "text": " kānanda"
+        },
+        {
+          "start": 313.51,
+          "end": 327.51,
+          "text": " kuuduka kuudumairikyum chetan"
+        }
+      ],
+      "transcript": "കാണണ്ട",
+      "meaning": "don't want to see<br>don't need to see<br>don't have to see",
+      "textbook_row": 15,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_12_word_017"
+    },
+    {
+      "utterances": [
+        {
+          "start": 315.0927,
+          "end": 315.8468
+        },
+        {
+          "start": 317.2421,
+          "end": 318.0764
+        }
+      ],
+      "raw_texts": [
+        "കൂഡുഗാ",
+        "കൂഡുഗാ"
+      ],
+      "english_segments": [
+        {
+          "start": 313.51,
+          "end": 327.51,
+          "text": " kuuduka kuudumairikyum chetan"
+        }
+      ],
+      "transcript": "കൂടുക",
+      "meaning": "to increase",
+      "textbook_row": 16,
+      "similarity": 0.909,
+      "status": "matched",
+      "id": "lesson_12_word_018"
+    },
+    {
+      "utterances": [
+        {
+          "start": 319.5638,
+          "end": 320.6252
+        },
+        {
+          "start": 322.0861,
+          "end": 323.141
+        }
+      ],
+      "raw_texts": [
+        "കുടുമെയ്രിക്കും",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 313.51,
+          "end": 327.51,
+          "text": " kuuduka kuudumairikyum chetan"
+        }
+      ],
+      "transcript": "കൂടുമായിരിക്കും",
+      "meaning": "will probably increase",
+      "textbook_row": 18,
+      "similarity": 0.88,
+      "status": "matched",
+      "id": "lesson_12_word_019"
+    },
+    {
+      "utterances": [
+        {
+          "start": 324.5146,
+          "end": 325.265
+        },
+        {
+          "start": 326.8108,
+          "end": 328.0824
+        }
+      ],
+      "raw_texts": [
+        "ചേട്ടെന്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 313.51,
+          "end": 327.51,
+          "text": " kuuduka kuudumairikyum chetan"
+        },
+        {
+          "start": 327.51,
+          "end": 332.51,
+          "text": " week"
+        }
+      ],
+      "transcript": "ചേട്ടൻ",
+      "meaning": "term commonly used by most Hindu wives in speaking to or about their husband.",
+      "textbook_row": 19,
+      "similarity": 0.889,
+      "status": "matched",
+      "id": "lesson_12_word_020"
+    },
+    {
+      "utterances": [
+        {
+          "start": 328.8136,
+          "end": 329.6337
+        },
+        {
+          "start": 330.8466,
+          "end": 331.6209
+        }
+      ],
+      "raw_texts": [
+        "ആള്ച",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 327.51,
+          "end": 332.51,
+          "text": " week"
+        }
+      ],
+      "transcript": "ആഴ്ച",
+      "meaning": "week",
+      "textbook_row": 20,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_12_word_021"
+    },
+    {
+      "utterances": [
+        {
+          "start": 333.1091,
+          "end": 334.1233
+        },
+        {
+          "start": 335.2725,
+          "end": 336.3183
+        }
+      ],
+      "raw_texts": [
+        "ഒരുപാട്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 332.51,
+          "end": 336.51,
+          "text": " a song"
+        }
+      ],
+      "transcript": "ഒരുപാട്",
+      "meaning": "an awful lot of (colloquial)",
+      "textbook_row": 21,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_12_word_022"
+    },
+    {
+      "utterances": [
+        {
+          "start": 337.6729,
+          "end": 338.3901
+        },
+        {
+          "start": 339.7301,
+          "end": 340.4636
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 336.51,
+          "end": 340.51,
+          "text": " child"
+        }
+      ],
+      "transcript": "കുട്ടി",
+      "meaning": "child (plural: കുട്ടികൾ)",
+      "textbook_row": 22,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_12_word_023"
+    },
+    {
+      "utterances": [
+        {
+          "start": 341.8723,
+          "end": 342.7818
+        },
+        {
+          "start": 343.9501,
+          "end": 344.8299
+        }
+      ],
+      "raw_texts": [
+        "",
+        "കുട്ടുക്കുട്ട്ടുക്കുട്ടുക്കുട്ടുക്ക്കുട്ടുക്ക്കുക്ക്ക്"
+      ],
+      "english_segments": [
+        {
+          "start": 340.51,
+          "end": 345.51,
+          "text": " children"
+        }
+      ],
+      "transcript": "ആയിരിക്കും",
+      "meaning": "might, might be",
+      "textbook_row": 17,
+      "similarity": 0.253,
+      "status": "review",
+      "id": "lesson_12_word_024"
+    },
+    {
+      "utterances": [
+        {
+          "start": 346.2645,
+          "end": 347.0245
+        },
+        {
+          "start": 348.2423,
+          "end": 348.9496
+        }
+      ],
+      "raw_texts": [
+        "കുടെ",
+        "കുടെ"
+      ],
+      "english_segments": [
+        {
+          "start": 345.51,
+          "end": 349.51,
+          "text": " together"
+        }
+      ],
+      "transcript": "കൂടെ",
+      "meaning": "with (takes associated noun in possessive)",
+      "textbook_row": 23,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_12_word_025"
+    },
+    {
+      "utterances": [
+        {
+          "start": 350.4612,
+          "end": 351.8387
+        },
+        {
+          "start": 353.7758,
+          "end": 355.1171
+        }
+      ],
+      "raw_texts": [
+        "പോകുന്നതിനു മുമ്പ്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 349.51,
+          "end": 355.51,
+          "text": " before leaving"
+        }
+      ],
+      "transcript": "പോകുന്നതിനു മുമ്പ്",
+      "meaning": "before going",
+      "textbook_row": 24,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_12_word_026"
+    },
+    {
+      "utterances": [
+        {
+          "start": 356.9494,
+          "end": 358.0436
+        },
+        {
+          "start": 359.752,
+          "end": 360.8937
+        }
+      ],
+      "raw_texts": [
+        "കുണ്ടുവരട്ടെ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 355.51,
+          "end": 375.51,
+          "text": " kondu varatte kondu varatte undaaku ka undaaku ka undaaki kondu varam undaaki kondu varam"
+        }
+      ],
+      "transcript": "കൊണ്ടുവരട്ടെ",
+      "meaning": "shall I bring, let me bring",
+      "textbook_row": 25,
+      "similarity": 0.889,
+      "status": "matched",
+      "id": "lesson_12_word_027"
+    },
+    {
+      "utterances": [
+        {
+          "start": 362.6952,
+          "end": 363.7587
+        },
+        {
+          "start": 365.55,
+          "end": 366.6256
+        }
+      ],
+      "raw_texts": [
+        "ഉണ്ടാകുക",
+        "ഉണ്ടാകുക"
+      ],
+      "english_segments": [
+        {
+          "start": 355.51,
+          "end": 375.51,
+          "text": " kondu varatte kondu varatte undaaku ka undaaku ka undaaki kondu varam undaaki kondu varam"
+        }
+      ],
+      "transcript": "ഉണ്ടാക്കുക",
+      "meaning": "to make or build",
+      "textbook_row": 26,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_12_word_028"
+    },
+    {
+      "utterances": [
+        {
+          "start": 368.4944,
+          "end": 369.96
+        },
+        {
+          "start": 371.9663,
+          "end": 373.449
+        }
+      ],
+      "raw_texts": [
+        "ഉണ്ടാക്ക്കുന്ടുവരാം",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 355.51,
+          "end": 375.51,
+          "text": " kondu varatte kondu varatte undaaku ka undaaku ka undaaki kondu varam undaaki kondu varam"
+        }
+      ],
+      "transcript": "ഉണ്ടാക്കിക്കൊണ്ടുവരാം",
+      "meaning": "will make and bring",
+      "textbook_row": 27,
+      "similarity": 0.857,
+      "status": "matched",
+      "id": "lesson_12_word_029"
+    }
+  ],
+  "textbook_vocabulary": [
+    {
+      "malayalam": "ഭർത്താവ്",
+      "meaning": "husband"
+    },
+    {
+      "malayalam": "മകൾ",
+      "meaning": "daughter"
+    },
+    {
+      "malayalam": "മകൻ",
+      "meaning": "son"
+    },
+    {
+      "malayalam": "ഭാര്യ",
+      "meaning": "wife"
+    },
+    {
+      "malayalam": "അസുഖം",
+      "meaning": "illness, ill health"
+    },
+    {
+      "malayalam": "വയറ്",
+      "meaning": "stomach, belly"
+    },
+    {
+      "malayalam": "വയറ്റിൽ",
+      "meaning": "in the stomach"
+    },
+    {
+      "malayalam": "വൈകിട്ട്",
+      "meaning": "spoken form of വൈകുന്നേരം"
+    },
+    {
+      "malayalam": "ആശുപത്രി",
+      "meaning": "hospital"
+    },
+    {
+      "malayalam": "കൊണ്ടുപോകണം<br>(past tense: കൊണ്ടുപോയി)",
+      "meaning": "want to take, need to take, have to take"
+    },
+    {
+      "malayalam": "എന്ന്",
+      "meaning": "quotation marker required at the end of a direct or indirect quotation"
+    },
+    {
+      "malayalam": "അതുകൊണ്ട്",
+      "meaning": "that is why, therefore"
+    },
+    {
+      "malayalam": "വീണ്ടും",
+      "meaning": "again"
+    },
+    {
+      "malayalam": "പോകണം<br>(past tense പോയി)",
+      "meaning": "want to, need to, have to go"
+    },
+    {
+      "malayalam": "കൊണ്ടുപോയാൽ",
+      "meaning": "if (I) took"
+    },
+    {
+      "malayalam": "കാണണ്ട",
+      "meaning": "don't want to see<br>don't need to see<br>don't have to see"
+    },
+    {
+      "malayalam": "കൂടുക (past tense: കൂടി)",
+      "meaning": "to increase"
+    },
+    {
+      "malayalam": "ആയിരിക്കും",
+      "meaning": "might, might be"
+    },
+    {
+      "malayalam": "കൂടുമായിരിക്കും",
+      "meaning": "will probably increase"
+    },
+    {
+      "malayalam": "ചേട്ടൻ",
+      "meaning": "term commonly used by most Hindu wives in speaking to or about their husband."
+    },
+    {
+      "malayalam": "ആഴ്ച",
+      "meaning": "week"
+    },
+    {
+      "malayalam": "ഒരുപാട്",
+      "meaning": "an awful lot of (colloquial)"
+    },
+    {
+      "malayalam": "കുട്ടി",
+      "meaning": "child (plural: കുട്ടികൾ)"
+    },
+    {
+      "malayalam": "കൂടെ",
+      "meaning": "with (takes associated noun in possessive)"
+    },
+    {
+      "malayalam": "പോകുന്നതിനു മുമ്പ്",
+      "meaning": "before going"
+    },
+    {
+      "malayalam": "കൊണ്ടുവരട്ടെ",
+      "meaning": "shall I bring, let me bring"
+    },
+    {
+      "malayalam": "ഉണ്ടാക്കുക (past tense: ഉണ്ടാക്കി)",
+      "meaning": "to make or build"
+    },
+    {
+      "malayalam": "ഉണ്ടാക്കിക്കൊണ്ടുവരാം",
+      "meaning": "will make and bring"
+    }
+  ],
+  "unmatched_textbook_rows": [],
+  "recognition_sha256": "e7365ceb6692cf0939c9acee76fb92dc664b7b948bf759a25859419fc5e4d87e",
+  "boundary_sha256": "ca75628206c708e20c49073ad72251bda0e36a19863f9dc5d2d80504613682ba"
+}

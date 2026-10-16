@@ -1,0 +1,194 @@
+{
+  "lesson": 14,
+  "model": "Whisper large-v3",
+  "purpose": "English announcements only; Malayalam transliterations are not teaching transcriptions.",
+  "range_start": 165.65,
+  "range_end": 423.9,
+  "segments": [
+    {
+      "start": 165.65,
+      "end": 167.65,
+      "text": " VARANTHYA PATHIPPA"
+    },
+    {
+      "start": 167.65,
+      "end": 171.65,
+      "text": " Vocabulary Practice"
+    },
+    {
+      "start": 171.65,
+      "end": 177.65,
+      "text": " Repeat each item after the speaker."
+    },
+    {
+      "start": 177.65,
+      "end": 179.65,
+      "text": " Each item is given twice."
+    },
+    {
+      "start": 179.65,
+      "end": 182.65,
+      "text": " Ready? Listen and repeat."
+    },
+    {
+      "start": 182.65,
+      "end": 186.65,
+      "text": " VARTHAA"
+    },
+    {
+      "start": 186.65,
+      "end": 190.65,
+      "text": " CHURUKKAM"
+    },
+    {
+      "start": 190.65,
+      "end": 211.65,
+      "text": " otta nottam vivaham vedhi vivahitar"
+    },
+    {
+      "start": 211.65,
+      "end": 228.65,
+      "text": " yuvava yuvati rangam vyaparam"
+    },
+    {
+      "start": 228.65,
+      "end": 242.65,
+      "text": " nila varam nila varam niriyanam niriyanam maranam maranam"
+    },
+    {
+      "start": 242.65,
+      "end": 251.07,
+      "text": " Innatte Chinda"
+    },
+    {
+      "start": 251.07,
+      "end": 259.47,
+      "text": " Vishayam Abhiprayam"
+    },
+    {
+      "start": 259.47,
+      "end": 267.71,
+      "text": " Paripadi Patram"
+    },
+    {
+      "start": 267.71,
+      "end": 276.39,
+      "text": " Patrādhipar Kurippa"
+    },
+    {
+      "start": 276.39,
+      "end": 284.47,
+      "text": " Mukham Prasangam"
+    },
+    {
+      "start": 284.47,
+      "end": 292.79,
+      "text": " Kala Sāhityam"
+    },
+    {
+      "start": 292.79,
+      "end": 301.47,
+      "text": " Tharam Tharaatharam"
+    },
+    {
+      "start": 301.47,
+      "end": 309.79,
+      "text": " Vilpana Vaataka"
+    },
+    {
+      "start": 309.79,
+      "end": 319.19,
+      "text": " Ariva Ariyikkuga"
+    },
+    {
+      "start": 319.19,
+      "end": 323.87,
+      "text": " Haripa"
+    },
+    {
+      "start": 323.87,
+      "end": 328.67,
+      "text": " Vayana"
+    },
+    {
+      "start": 328.67,
+      "end": 333.85,
+      "text": " Vayanakkar"
+    },
+    {
+      "start": 333.85,
+      "end": 338.25,
+      "text": " Katha"
+    },
+    {
+      "start": 338.25,
+      "end": 342.75,
+      "text": " Kali"
+    },
+    {
+      "start": 342.75,
+      "end": 347.49,
+      "text": " Kalikkuga"
+    },
+    {
+      "start": 347.49,
+      "end": 353.17,
+      "text": " kalichu kalichu"
+    },
+    {
+      "start": 353.17,
+      "end": 357.55,
+      "text": " taram taram"
+    },
+    {
+      "start": 357.55,
+      "end": 361.85,
+      "text": " padham padham"
+    },
+    {
+      "start": 361.85,
+      "end": 367.05,
+      "text": " tarapatham tarapatham"
+    },
+    {
+      "start": 367.05,
+      "end": 372.67,
+      "text": " pradesika pradesika"
+    },
+    {
+      "start": 372.67,
+      "end": 377.67,
+      "text": " Vaaram"
+    },
+    {
+      "start": 377.67,
+      "end": 382.67,
+      "text": " Andhyam"
+    },
+    {
+      "start": 382.67,
+      "end": 387.67,
+      "text": " Padip"
+    },
+    {
+      "start": 387.67,
+      "end": 392.67,
+      "text": " Kaanum"
+    },
+    {
+      "start": 392.67,
+      "end": 397.67,
+      "text": " Ishtamulla"
+    },
+    {
+      "start": 397.67,
+      "end": 412.31,
+      "text": " patti patti patti ulla patti ulla o o"
+    },
+    {
+      "start": 412.31,
+      "end": 423.07,
+      "text": " vaichal vaichal nadakkuka nadakkuka"
+    }
+  ]
+}

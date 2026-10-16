@@ -1,0 +1,1144 @@
+{
+  "pipeline_version": 6,
+  "lesson": 11,
+  "source": "data/audio/moag/lesson_11.mp3",
+  "model": "Whisper large-v3 (32 encoder and 32 decoder layers), MLX",
+  "range_start": 108.33,
+  "range_end": 285.28,
+  "method": "Acoustic cepstrum comparison pairs repeated utterances independently of textbook order; large-v3 word end timestamps matched to pauses, then global spelling assignment against printed vocabulary (order is only a weak tie-breaker). Low-confidence labels require review. Raw recognizer text retained.",
+  "words": [
+    {
+      "utterances": [
+        {
+          "start": 111.8394,
+          "end": 112.7087
+        }
+      ],
+      "raw_texts": [
+        "ആയരുന്ന്"
+      ],
+      "english_segments": [],
+      "transcript": "ആയിരുന്നു",
+      "meaning": "was, were (past of ആണ്)",
+      "textbook_row": 0,
+      "similarity": 0.833,
+      "status": "matched",
+      "id": "lesson_11_word_001"
+    },
+    {
+      "utterances": [
+        {
+          "start": 114.2524,
+          "end": 114.9373
+        },
+        {
+          "start": 116.541,
+          "end": 117.4257
+        }
+      ],
+      "raw_texts": [
+        "പോയ്",
+        "പോയ്"
+      ],
+      "english_segments": [],
+      "transcript": "പോയി",
+      "meaning": "went",
+      "textbook_row": 1,
+      "similarity": 0.857,
+      "status": "matched",
+      "id": "lesson_11_word_002"
+    },
+    {
+      "utterances": [
+        {
+          "start": 119.1434,
+          "end": 119.974
+        },
+        {
+          "start": 121.888,
+          "end": 122.723
+        }
+      ],
+      "raw_texts": [
+        "ആയച്ചു",
+        "ആയച്ചു"
+      ],
+      "english_segments": [],
+      "transcript": "അയച്ചു",
+      "meaning": "sent (past of അയക്കുക [y])",
+      "textbook_row": 2,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_11_word_003"
+    },
+    {
+      "utterances": [
+        {
+          "start": 124.6679,
+          "end": 125.4821
+        },
+        {
+          "start": 127.0223,
+          "end": 127.8159
+        }
+      ],
+      "raw_texts": [
+        "എന്ദിന്ന്",
+        "എന്ദിന്"
+      ],
+      "english_segments": [],
+      "transcript": "എന്തിന്",
+      "meaning": "for what, why",
+      "textbook_row": 3,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_11_word_004"
+    },
+    {
+      "utterances": [
+        {
+          "start": 129.3911,
+          "end": 131.4405
+        },
+        {
+          "start": 132.1825,
+          "end": 133.6323
+        }
+      ],
+      "raw_texts": [
+        "എന്ദിന്ന്",
+        "എന്ദിന്ന് ആയച്ച്ച്ച്"
+      ],
+      "english_segments": [
+        {
+          "start": 129.39,
+          "end": 134.39,
+          "text": " Why?"
+        }
+      ],
+      "transcript": "എന്ദിന്ന് ആയച്ച്ച്ച്",
+      "meaning": "",
+      "textbook_row": null,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_11_word_005"
+    },
+    {
+      "utterances": [
+        {
+          "start": 134.5345,
+          "end": 139.4469
+        }
+      ],
+      "raw_texts": [
+        "ആയച്ച്ച്"
+      ],
+      "english_segments": [
+        {
+          "start": 134.39,
+          "end": 139.39,
+          "text": " Sent"
+        }
+      ],
+      "transcript": "എന്തിനാണ് അയച്ചത്?",
+      "meaning": "why is it that (you) sent (him)?",
+      "textbook_row": 4,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_11_word_006"
+    },
+    {
+      "utterances": [
+        {
+          "start": 140.0924,
+          "end": 141.8023
+        },
+        {
+          "start": 142.5049,
+          "end": 144.7215
+        }
+      ],
+      "raw_texts": [
+        "ഇരച്ച്",
+        "ഇര�"
+      ],
+      "english_segments": [
+        {
+          "start": 139.39,
+          "end": 144.39,
+          "text": " Sent"
+        },
+        {
+          "start": 144.39,
+          "end": 149.39,
+          "text": " Finished"
+        }
+      ],
+      "transcript": "ഇറച്ചി",
+      "meaning": "meat",
+      "textbook_row": 5,
+      "similarity": 0.857,
+      "status": "matched",
+      "id": "lesson_11_word_007"
+    },
+    {
+      "utterances": [
+        {
+          "start": 144.9444,
+          "end": 146.7951
+        },
+        {
+          "start": 147.2871,
+          "end": 148.6453
+        }
+      ],
+      "raw_texts": [
+        "തിരണു",
+        "തിരണു"
+      ],
+      "english_segments": [
+        {
+          "start": 144.39,
+          "end": 149.39,
+          "text": " Finished"
+        }
+      ],
+      "transcript": "തീർന്നു",
+      "meaning": "finished (intransitive)",
+      "textbook_row": 6,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_11_word_008"
+    },
+    {
+      "utterances": [
+        {
+          "start": 150.6239,
+          "end": 151.8162
+        },
+        {
+          "start": 153.5784,
+          "end": 154.7017
+        }
+      ],
+      "raw_texts": [
+        "തിരണു പോയു",
+        "തിരണു പോയു"
+      ],
+      "english_segments": [
+        {
+          "start": 149.39,
+          "end": 154.39,
+          "text": " Finished"
+        },
+        {
+          "start": 154.39,
+          "end": 160.39,
+          "text": " Hidā Hidā"
+        }
+      ],
+      "transcript": "തീർന്നുപോയി",
+      "meaning": "ran out (compound verb)",
+      "textbook_row": 7,
+      "similarity": 0.889,
+      "status": "matched",
+      "id": "lesson_11_word_009"
+    },
+    {
+      "utterances": [
+        {
+          "start": 156.5714,
+          "end": 157.2187
+        },
+        {
+          "start": 158.9087,
+          "end": 159.6163
+        }
+      ],
+      "raw_texts": [
+        "എഡാ",
+        "എഡാ"
+      ],
+      "english_segments": [
+        {
+          "start": 154.39,
+          "end": 160.39,
+          "text": " Hidā Hidā"
+        }
+      ],
+      "transcript": "എടാ!",
+      "meaning": "Hey! (vocative expression indicating informality or derogation, used with male social intimates or inferiors. To females, “എടി” is used.)",
+      "textbook_row": 8,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_11_word_010"
+    },
+    {
+      "utterances": [
+        {
+          "start": 161.3335,
+          "end": 162.1232
+        }
+      ],
+      "raw_texts": [
+        "അത്രാ"
+      ],
+      "english_segments": [
+        {
+          "start": 160.39,
+          "end": 165.39,
+          "text": " Atra Atra"
+        }
+      ],
+      "transcript": "അത്ര",
+      "meaning": "that much, that many, so much, so many",
+      "textbook_row": 9,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_11_word_011"
+    },
+    {
+      "utterances": [
+        {
+          "start": 162.6857,
+          "end": 163.1137
+        },
+        {
+          "start": 163.4546,
+          "end": 164.5272
+        }
+      ],
+      "raw_texts": [
+        "",
+        "അത്രാ"
+      ],
+      "english_segments": [
+        {
+          "start": 160.39,
+          "end": 165.39,
+          "text": " Atra Atra"
+        }
+      ],
+      "transcript": "വേറെ",
+      "meaning": "else, other, another",
+      "textbook_row": 32,
+      "similarity": 0.25,
+      "status": "review",
+      "id": "lesson_11_word_012"
+    },
+    {
+      "utterances": [
+        {
+          "start": 165.2893,
+          "end": 167.5379
+        },
+        {
+          "start": 168.8456,
+          "end": 170.2629
+        }
+      ],
+      "raw_texts": [
+        "അത്രായും",
+        "അത്രായും"
+      ],
+      "english_segments": [
+        {
+          "start": 165.39,
+          "end": 170.39,
+          "text": " Atrayum Atrayum"
+        }
+      ],
+      "transcript": "അത്രയും",
+      "meaning": "as much as, as much as that",
+      "textbook_row": 10,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_11_word_013"
+    },
+    {
+      "utterances": [
+        {
+          "start": 171.4829,
+          "end": 172.2189
+        },
+        {
+          "start": 173.9329,
+          "end": 174.6798
+        }
+      ],
+      "raw_texts": [
+        "കിട്ടീ",
+        "കിട്ട്"
+      ],
+      "english_segments": [
+        {
+          "start": 170.39,
+          "end": 175.39,
+          "text": " Kitti Kitti"
+        }
+      ],
+      "transcript": "കിട്ടി",
+      "meaning": "got",
+      "textbook_row": 11,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_11_word_014"
+    },
+    {
+      "utterances": [
+        {
+          "start": 176.4601,
+          "end": 177.3251
+        },
+        {
+          "start": 179.0702,
+          "end": 179.9262
+        }
+      ],
+      "raw_texts": [
+        "ചിത്ത്",
+        "ചിത്ത്"
+      ],
+      "english_segments": [
+        {
+          "start": 175.39,
+          "end": 180.39,
+          "text": " Chītā Chītā"
+        }
+      ],
+      "transcript": "ചീത്ത",
+      "meaning": "bad",
+      "textbook_row": 12,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_11_word_015"
+    },
+    {
+      "utterances": [
+        {
+          "start": 181.5943,
+          "end": 182.6915
+        },
+        {
+          "start": 184.2346,
+          "end": 185.2522
+        }
+      ],
+      "raw_texts": [
+        "കോണ്ടു വന്നു",
+        "കോണ്ടു"
+      ],
+      "english_segments": [
+        {
+          "start": 180.39,
+          "end": 186.39,
+          "text": " kondu vannu"
+        }
+      ],
+      "transcript": "കൊണ്ടുവന്നു",
+      "meaning": "brought",
+      "textbook_row": 13,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_11_word_016"
+    },
+    {
+      "utterances": [
+        {
+          "start": 186.9524,
+          "end": 188.0302
+        },
+        {
+          "start": 189.2957,
+          "end": 190.2146
+        }
+      ],
+      "raw_texts": [
+        "നോക്ക്",
+        "നോക്ക്"
+      ],
+      "english_segments": [
+        {
+          "start": 186.39,
+          "end": 191.39,
+          "text": " nouki"
+        }
+      ],
+      "transcript": "നോക്കി",
+      "meaning": "looked",
+      "textbook_row": 14,
+      "similarity": 0.857,
+      "status": "matched",
+      "id": "lesson_11_word_017"
+    },
+    {
+      "utterances": [
+        {
+          "start": 191.847,
+          "end": 193.182
+        },
+        {
+          "start": 194.5197,
+          "end": 195.5784
+        }
+      ],
+      "raw_texts": [
+        "ഇല്ലായരുന്നു",
+        "ഇല്ലായരുന്നു"
+      ],
+      "english_segments": [
+        {
+          "start": 191.39,
+          "end": 196.39,
+          "text": " illa irnnu"
+        }
+      ],
+      "transcript": "ഇല്ലായിരുന്നു",
+      "meaning": "there was not (past negative of ഉണ്ട്)",
+      "textbook_row": 15,
+      "similarity": 0.941,
+      "status": "matched",
+      "id": "lesson_11_word_018"
+    },
+    {
+      "utterances": [
+        {
+          "start": 197.2365,
+          "end": 198.0741
+        },
+        {
+          "start": 199.7167,
+          "end": 200.6132
+        }
+      ],
+      "raw_texts": [
+        "കോഡുത്തു",
+        "ਕੋਡੁതੁ"
+      ],
+      "english_segments": [
+        {
+          "start": 196.39,
+          "end": 201.39,
+          "text": " kuduthu"
+        }
+      ],
+      "transcript": "കൊടുത്തു",
+      "meaning": "gave (to a third person)",
+      "textbook_row": 16,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_11_word_019"
+    },
+    {
+      "utterances": [
+        {
+          "start": 201.9916,
+          "end": 203.4688
+        },
+        {
+          "start": 205.1145,
+          "end": 206.5236
+        }
+      ],
+      "raw_texts": [
+        "",
+        "കോഡിദല്"
+      ],
+      "english_segments": [
+        {
+          "start": 201.39,
+          "end": 206.39,
+          "text": " kooduthal"
+        }
+      ],
+      "transcript": "കൂടുതൽ",
+      "meaning": "much, too much, much more",
+      "textbook_row": 17,
+      "similarity": 0.814,
+      "status": "matched",
+      "id": "lesson_11_word_020"
+    },
+    {
+      "utterances": [
+        {
+          "start": 207.7662,
+          "end": 208.5604
+        },
+        {
+          "start": 210.2839,
+          "end": 211.1006
+        }
+      ],
+      "raw_texts": [
+        "അയോ",
+        "അയോ"
+      ],
+      "english_segments": [
+        {
+          "start": 206.39,
+          "end": 211.39,
+          "text": " ayyo"
+        }
+      ],
+      "transcript": "അയ്യോ!",
+      "meaning": "exclamation",
+      "textbook_row": 18,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_11_word_021"
+    },
+    {
+      "utterances": [
+        {
+          "start": 213.1723,
+          "end": 213.9892
+        },
+        {
+          "start": 215.7794,
+          "end": 216.5759
+        }
+      ],
+      "raw_texts": [
+        "വേരുദേ",
+        "വേരുദേ"
+      ],
+      "english_segments": [
+        {
+          "start": 211.39,
+          "end": 216.39,
+          "text": " veruthe"
+        }
+      ],
+      "transcript": "വെറുതെ",
+      "meaning": "uselessly, to no purpose (for the heck of it)",
+      "textbook_row": 19,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_11_word_022"
+    },
+    {
+      "utterances": [
+        {
+          "start": 218.6512,
+          "end": 219.4608
+        },
+        {
+          "start": 221.2068,
+          "end": 221.9643
+        }
+      ],
+      "raw_texts": [
+        "കളഞ്ഞു",
+        "കളഞ്ഞു"
+      ],
+      "english_segments": [
+        {
+          "start": 216.39,
+          "end": 221.39,
+          "text": " kalanyu"
+        },
+        {
+          "start": 221.39,
+          "end": 226.39,
+          "text": " pokatte"
+        }
+      ],
+      "transcript": "കളഞ്ഞു",
+      "meaning": "threw away",
+      "textbook_row": 20,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_11_word_023"
+    },
+    {
+      "utterances": [
+        {
+          "start": 224.029,
+          "end": 225.0881
+        },
+        {
+          "start": 226.5408,
+          "end": 227.4133
+        }
+      ],
+      "raw_texts": [
+        "പോകട്ടെ",
+        "പോകട്ടെ"
+      ],
+      "english_segments": [
+        {
+          "start": 221.39,
+          "end": 226.39,
+          "text": " pokatte"
+        },
+        {
+          "start": 226.39,
+          "end": 231.39,
+          "text": " ennalum"
+        }
+      ],
+      "transcript": "പോകട്ടെ",
+      "meaning": "(let) (it) go, it's OK",
+      "textbook_row": 21,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_11_word_024"
+    },
+    {
+      "utterances": [
+        {
+          "start": 229.1257,
+          "end": 229.9894
+        },
+        {
+          "start": 231.8637,
+          "end": 232.7101
+        }
+      ],
+      "raw_texts": [
+        "എന്നാലും",
+        "എന്നാലും"
+      ],
+      "english_segments": [
+        {
+          "start": 226.39,
+          "end": 231.39,
+          "text": " ennalum"
+        },
+        {
+          "start": 231.39,
+          "end": 233.39,
+          "text": " But"
+        }
+      ],
+      "transcript": "എന്നാലും",
+      "meaning": "anyway, even though, still",
+      "textbook_row": 22,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_11_word_025"
+    },
+    {
+      "utterances": [
+        {
+          "start": 234.5877,
+          "end": 235.5193
+        },
+        {
+          "start": 236.8608,
+          "end": 237.6941
+        }
+      ],
+      "raw_texts": [
+        "കരി",
+        "കരി"
+      ],
+      "english_segments": [
+        {
+          "start": 233.39,
+          "end": 238.39,
+          "text": " Curry"
+        }
+      ],
+      "transcript": "കറി",
+      "meaning": "curry",
+      "textbook_row": 23,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_11_word_026"
+    },
+    {
+      "utterances": [
+        {
+          "start": 239.6661,
+          "end": 240.8216
+        },
+        {
+          "start": 242.0307,
+          "end": 243.6011
+        }
+      ],
+      "raw_texts": [
+        "കരിവെക്കുക",
+        "കരിവെക്കുക"
+      ],
+      "english_segments": [
+        {
+          "start": 238.39,
+          "end": 244.39,
+          "text": " Keep the curry"
+        }
+      ],
+      "transcript": "കറിവെക്കുക [y]",
+      "meaning": "to make curry",
+      "textbook_row": 24,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_11_word_027"
+    },
+    {
+      "utterances": [
+        {
+          "start": 245.2943,
+          "end": 246.2195
+        },
+        {
+          "start": 247.9833,
+          "end": 248.9024
+        }
+      ],
+      "raw_texts": [
+        "ചിലപോള",
+        "ചിലപോള"
+      ],
+      "english_segments": [
+        {
+          "start": 244.39,
+          "end": 249.39,
+          "text": " Sometimes"
+        }
+      ],
+      "transcript": "ചിലപ്പോൾ",
+      "meaning": "sometimes",
+      "textbook_row": 25,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_11_word_028"
+    },
+    {
+      "utterances": [
+        {
+          "start": 250.5678,
+          "end": 251.5723
+        },
+        {
+          "start": 253.0567,
+          "end": 254.0249
+        }
+      ],
+      "raw_texts": [
+        "കളിക്കുക",
+        "കളിക്കുക"
+      ],
+      "english_segments": [
+        {
+          "start": 249.39,
+          "end": 255.39,
+          "text": " Eat"
+        }
+      ],
+      "transcript": "കഴിക്കുക",
+      "meaning": "to eat",
+      "textbook_row": 28,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_11_word_029"
+    },
+    {
+      "utterances": [
+        {
+          "start": 255.8651,
+          "end": 256.6542
+        },
+        {
+          "start": 258.3109,
+          "end": 259.0848
+        }
+      ],
+      "raw_texts": [
+        "പട്ട്",
+        "പട്ട്"
+      ],
+      "english_segments": [
+        {
+          "start": 255.39,
+          "end": 260.39,
+          "text": " Patti"
+        }
+      ],
+      "transcript": "പട്ടി",
+      "meaning": "dog",
+      "textbook_row": 26,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_11_word_030"
+    },
+    {
+      "utterances": [
+        {
+          "start": 260.9134,
+          "end": 261.8441
+        },
+        {
+          "start": 263.5002,
+          "end": 265.5041
+        }
+      ],
+      "raw_texts": [
+        "പരയന്ട പരയന്ട",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 260.39,
+          "end": 281.75,
+          "text": " parayanda parayanda keelkuga keelkuga keeto keeto adi venu adi venu"
+        }
+      ],
+      "transcript": "പറയണ്ട",
+      "meaning": "shouldn't speak, don't speak",
+      "textbook_row": 27,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_11_word_031"
+    },
+    {
+      "utterances": [
+        {
+          "start": 266.2668,
+          "end": 267.9285
+        },
+        {
+          "start": 268.8079,
+          "end": 269.9127
+        }
+      ],
+      "raw_texts": [
+        "കേള്കുക കരിവെക്കുക ച�",
+        "കേള്കുക"
+      ],
+      "english_segments": [
+        {
+          "start": 260.39,
+          "end": 281.75,
+          "text": " parayanda parayanda keelkuga keelkuga keeto keeto adi venu adi venu"
+        }
+      ],
+      "transcript": "കേൾക്കുക",
+      "meaning": "to hear, to listen",
+      "textbook_row": 29,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_11_word_032"
+    },
+    {
+      "utterances": [
+        {
+          "start": 271.4859,
+          "end": 272.2977
+        },
+        {
+          "start": 273.9539,
+          "end": 274.7691
+        }
+      ],
+      "raw_texts": [
+        "കേട്ടോ?",
+        "കേട്ടോ? അടി"
+      ],
+      "english_segments": [
+        {
+          "start": 260.39,
+          "end": 281.75,
+          "text": " parayanda parayanda keelkuga keelkuga keeto keeto adi venu adi venu"
+        }
+      ],
+      "transcript": "കേട്ടോ?",
+      "meaning": "did (you) hear? (very common expression)",
+      "textbook_row": 30,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_11_word_033"
+    },
+    {
+      "utterances": [
+        {
+          "start": 276.5797,
+          "end": 277.9709
+        },
+        {
+          "start": 279.1798,
+          "end": 281.0051
+        }
+      ],
+      "raw_texts": [
+        "വേണോ? അടി",
+        "വേണോ?"
+      ],
+      "english_segments": [
+        {
+          "start": 260.39,
+          "end": 281.75,
+          "text": " parayanda parayanda keelkuga keelkuga keeto keeto adi venu adi venu"
+        }
+      ],
+      "transcript": "അടി വേണോ?",
+      "meaning": "do (you) want a spanking? (commonly used by school-teachers and elders within the family.)",
+      "textbook_row": 31,
+      "similarity": 0.778,
+      "status": "matched",
+      "id": "lesson_11_word_034"
+    },
+    {
+      "utterances": [
+        {
+          "start": 281.199,
+          "end": 282.0512
+        }
+      ],
+      "raw_texts": [
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 260.39,
+          "end": 281.75,
+          "text": " parayanda parayanda keelkuga keelkuga keeto keeto adi venu adi venu"
+        }
+      ],
+      "transcript": "",
+      "meaning": "",
+      "textbook_row": null,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_11_word_035"
+    }
+  ],
+  "textbook_vocabulary": [
+    {
+      "malayalam": "ആയിരുന്നു",
+      "meaning": "was, were (past of ആണ്)"
+    },
+    {
+      "malayalam": "പോയി",
+      "meaning": "went"
+    },
+    {
+      "malayalam": "അയച്ചു",
+      "meaning": "sent (past of അയക്കുക [y])"
+    },
+    {
+      "malayalam": "എന്തിന്",
+      "meaning": "for what, why"
+    },
+    {
+      "malayalam": "എന്തിനാണ് അയച്ചത്?",
+      "meaning": "why is it that (you) sent (him)?"
+    },
+    {
+      "malayalam": "ഇറച്ചി",
+      "meaning": "meat"
+    },
+    {
+      "malayalam": "തീർന്നു",
+      "meaning": "finished (intransitive)"
+    },
+    {
+      "malayalam": "തീർന്നുപോയി",
+      "meaning": "ran out (compound verb)"
+    },
+    {
+      "malayalam": "എടാ!",
+      "meaning": "Hey! (vocative expression indicating informality or derogation, used with male social intimates or inferiors. To females, “എടി” is used.)"
+    },
+    {
+      "malayalam": "അത്ര",
+      "meaning": "that much, that many, so much, so many"
+    },
+    {
+      "malayalam": "അത്രയും",
+      "meaning": "as much as, as much as that"
+    },
+    {
+      "malayalam": "കിട്ടി",
+      "meaning": "got"
+    },
+    {
+      "malayalam": "ചീത്ത",
+      "meaning": "bad"
+    },
+    {
+      "malayalam": "കൊണ്ടുവന്നു",
+      "meaning": "brought"
+    },
+    {
+      "malayalam": "നോക്കി",
+      "meaning": "looked"
+    },
+    {
+      "malayalam": "ഇല്ലായിരുന്നു",
+      "meaning": "there was not (past negative of ഉണ്ട്)"
+    },
+    {
+      "malayalam": "കൊടുത്തു",
+      "meaning": "gave (to a third person)"
+    },
+    {
+      "malayalam": "കൂടുതൽ",
+      "meaning": "much, too much, much more"
+    },
+    {
+      "malayalam": "അയ്യോ!",
+      "meaning": "exclamation"
+    },
+    {
+      "malayalam": "വെറുതെ",
+      "meaning": "uselessly, to no purpose (for the heck of it)"
+    },
+    {
+      "malayalam": "കളഞ്ഞു",
+      "meaning": "threw away"
+    },
+    {
+      "malayalam": "പോകട്ടെ",
+      "meaning": "(let) (it) go, it's OK"
+    },
+    {
+      "malayalam": "എന്നാലും",
+      "meaning": "anyway, even though, still"
+    },
+    {
+      "malayalam": "കറി",
+      "meaning": "curry"
+    },
+    {
+      "malayalam": "കറിവെക്കുക [y]",
+      "meaning": "to make curry"
+    },
+    {
+      "malayalam": "ചിലപ്പോൾ",
+      "meaning": "sometimes"
+    },
+    {
+      "malayalam": "പട്ടി",
+      "meaning": "dog"
+    },
+    {
+      "malayalam": "പറയണ്ട",
+      "meaning": "shouldn't speak, don't speak"
+    },
+    {
+      "malayalam": "കഴിക്കുക",
+      "meaning": "to eat"
+    },
+    {
+      "malayalam": "കേൾക്കുക",
+      "meaning": "to hear, to listen"
+    },
+    {
+      "malayalam": "കേട്ടോ?",
+      "meaning": "did (you) hear? (very common expression)"
+    },
+    {
+      "malayalam": "അടി വേണോ?",
+      "meaning": "do (you) want a spanking? (commonly used by school-teachers and elders within the family.)"
+    },
+    {
+      "malayalam": "വേറെ",
+      "meaning": "else, other, another"
+    }
+  ],
+  "unmatched_textbook_rows": [],
+  "recognition_sha256": "72b23677c4d6e5dfa187597c474b2c5cc7eb54bdd5d7ae2b644270700205c1a6",
+  "boundary_sha256": "af525fca6487643be8036d313e86c3ac0bd0e8c60f47814c941bf426ab8e23b6"
+}

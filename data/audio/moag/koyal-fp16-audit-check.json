@@ -1,0 +1,320 @@
+[
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_03_word_001.mp3",
+    "coreml": "ഉണ്ട് ഉണ്ട്",
+    "tokens": [
+      {
+        "id": 57,
+        "piece": "▁ഉ",
+        "start": 0.44,
+        "duration": 0.16
+      },
+      {
+        "id": 68,
+        "piece": "ണ്ട്",
+        "start": 0.6,
+        "duration": 0.16
+      },
+      {
+        "id": 57,
+        "piece": "▁ഉ",
+        "start": 2.08,
+        "duration": 0.16
+      },
+      {
+        "id": 68,
+        "piece": "ണ്ട്",
+        "start": 2.24,
+        "duration": 0.16
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.2756
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_05_word_005.mp3",
+    "coreml": "പഠിക്കുന്നോ?",
+    "tokens": [
+      {
+        "id": 6,
+        "piece": "▁പ",
+        "start": 2.0,
+        "duration": 0.12
+      },
+      {
+        "id": 421,
+        "piece": "ഠ",
+        "start": 2.12,
+        "duration": 0.12
+      },
+      {
+        "id": 201,
+        "piece": "ിക്കുന്ന",
+        "start": 2.24,
+        "duration": 0.16
+      },
+      {
+        "id": 377,
+        "piece": "ോ",
+        "start": 2.52,
+        "duration": 0.12
+      },
+      {
+        "id": 410,
+        "piece": "?",
+        "start": 2.64,
+        "duration": 0.08
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.1979
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_10_word_014.mp3",
+    "coreml": "കിഴക്ക് കിഴക്ക്",
+    "tokens": [
+      {
+        "id": 8,
+        "piece": "▁ക",
+        "start": 0.08,
+        "duration": 0.08
+      },
+      {
+        "id": 356,
+        "piece": "ി",
+        "start": 0.16,
+        "duration": 0.08
+      },
+      {
+        "id": 401,
+        "piece": "ഴ",
+        "start": 0.24,
+        "duration": 0.12
+      },
+      {
+        "id": 46,
+        "piece": "ക്ക്",
+        "start": 0.36,
+        "duration": 0.08
+      },
+      {
+        "id": 8,
+        "piece": "▁ക",
+        "start": 1.68,
+        "duration": 0.08
+      },
+      {
+        "id": 356,
+        "piece": "ി",
+        "start": 1.76,
+        "duration": 0.08
+      },
+      {
+        "id": 401,
+        "piece": "ഴ",
+        "start": 1.84,
+        "duration": 0.12
+      },
+      {
+        "id": 46,
+        "piece": "ക്ക്",
+        "start": 1.96,
+        "duration": 0.08
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.1924
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_24_word_027.mp3",
+    "coreml": "സ്നേഹം സ്നേഹം",
+    "tokens": [
+      {
+        "id": 94,
+        "piece": "▁സ്",
+        "start": 0.32,
+        "duration": 0.12
+      },
+      {
+        "id": 358,
+        "piece": "ന",
+        "start": 0.44,
+        "duration": 0.12
+      },
+      {
+        "id": 380,
+        "piece": "േ",
+        "start": 0.56,
+        "duration": 0.08
+      },
+      {
+        "id": 404,
+        "piece": "ഹ",
+        "start": 0.64,
+        "duration": 0.16
+      },
+      {
+        "id": 370,
+        "piece": "ം",
+        "start": 0.8,
+        "duration": 0.16
+      },
+      {
+        "id": 94,
+        "piece": "▁സ്",
+        "start": 2.56,
+        "duration": 0.16
+      },
+      {
+        "id": 358,
+        "piece": "ന",
+        "start": 2.72,
+        "duration": 0.12
+      },
+      {
+        "id": 380,
+        "piece": "േ",
+        "start": 2.84,
+        "duration": 0.08
+      },
+      {
+        "id": 404,
+        "piece": "ഹ",
+        "start": 2.92,
+        "duration": 0.16
+      },
+      {
+        "id": 370,
+        "piece": "ം",
+        "start": 3.08,
+        "duration": 0.16
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.196
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_24_word_051.mp3",
+    "coreml": "ഗുണം ഗുണം",
+    "tokens": [
+      {
+        "id": 146,
+        "piece": "▁ഗ",
+        "start": 0.44,
+        "duration": 0.12
+      },
+      {
+        "id": 359,
+        "piece": "ു",
+        "start": 0.56,
+        "duration": 0.12
+      },
+      {
+        "id": 125,
+        "piece": "ണം",
+        "start": 0.68,
+        "duration": 0.16
+      },
+      {
+        "id": 146,
+        "piece": "▁ഗ",
+        "start": 2.88,
+        "duration": 0.12
+      },
+      {
+        "id": 359,
+        "piece": "ു",
+        "start": 3.0,
+        "duration": 0.12
+      },
+      {
+        "id": 125,
+        "piece": "ണം",
+        "start": 3.12,
+        "duration": 0.16
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.1893
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_25_word_074.mp3",
+    "coreml": "കൈകൂപ്പി കൈ കൂപ്പി",
+    "tokens": [
+      {
+        "id": 8,
+        "piece": "▁ക",
+        "start": 0.12,
+        "duration": 0.12
+      },
+      {
+        "id": 408,
+        "piece": "ൈ",
+        "start": 0.24,
+        "duration": 0.08
+      },
+      {
+        "id": 357,
+        "piece": "ക",
+        "start": 0.32,
+        "duration": 0.08
+      },
+      {
+        "id": 394,
+        "piece": "ൂ",
+        "start": 0.44,
+        "duration": 0.08
+      },
+      {
+        "id": 26,
+        "piece": "പ്പ",
+        "start": 0.52,
+        "duration": 0.08
+      },
+      {
+        "id": 356,
+        "piece": "ി",
+        "start": 0.68,
+        "duration": 0.16
+      },
+      {
+        "id": 8,
+        "piece": "▁ക",
+        "start": 2.68,
+        "duration": 0.16
+      },
+      {
+        "id": 408,
+        "piece": "ൈ",
+        "start": 2.84,
+        "duration": 0.12
+      },
+      {
+        "id": 143,
+        "piece": "▁കൂ",
+        "start": 2.96,
+        "duration": 0.12
+      },
+      {
+        "id": 26,
+        "piece": "പ്പ",
+        "start": 3.2,
+        "duration": 0.12
+      },
+      {
+        "id": 356,
+        "piece": "ി",
+        "start": 3.32,
+        "duration": 0.12
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.1856
+  }
+]

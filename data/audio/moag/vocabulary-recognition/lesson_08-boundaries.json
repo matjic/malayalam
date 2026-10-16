@@ -1,0 +1,159 @@
+{
+  "lesson": 8,
+  "model": "Whisper large-v3",
+  "purpose": "English announcements only; Malayalam transliterations are not teaching transcriptions.",
+  "range_start": 137.83,
+  "range_end": 251.95,
+  "segments": [
+    {
+      "start": 137.83,
+      "end": 139.79,
+      "text": " Lesson 8 Vocabulary Practice"
+    },
+    {
+      "start": 139.79,
+      "end": 143.87,
+      "text": " Repeat each item after the speaker. Each item is given twice."
+    },
+    {
+      "start": 144.17,
+      "end": 145.75,
+      "text": " Ready? Listen and repeat."
+    },
+    {
+      "start": 147.09,
+      "end": 147.39,
+      "text": " Hey"
+    },
+    {
+      "start": 147.39,
+      "end": 148.99,
+      "text": " Hey"
+    },
+    {
+      "start": 148.99,
+      "end": 150.39,
+      "text": " Ninaku"
+    },
+    {
+      "start": 150.39,
+      "end": 152.03,
+      "text": " Ninaku"
+    },
+    {
+      "start": 152.03,
+      "end": 153.21,
+      "text": " Revie"
+    },
+    {
+      "start": 153.21,
+      "end": 154.79,
+      "text": " Revie"
+    },
+    {
+      "start": 154.79,
+      "end": 156.57,
+      "text": " Class"
+    },
+    {
+      "start": 156.57,
+      "end": 158.11,
+      "text": " Class"
+    },
+    {
+      "start": 158.11,
+      "end": 160.29,
+      "text": " Patikinna"
+    },
+    {
+      "start": 160.29,
+      "end": 162.65,
+      "text": " Patikinna"
+    },
+    {
+      "start": 162.65,
+      "end": 164.23,
+      "text": " Inna"
+    },
+    {
+      "start": 164.23,
+      "end": 166.17,
+      "text": " Inna"
+    },
+    {
+      "start": 166.17,
+      "end": 167.73,
+      "text": " Kananam"
+    },
+    {
+      "start": 167.73,
+      "end": 173.73,
+      "text": " kaananam avanoda"
+    },
+    {
+      "start": 173.73,
+      "end": 178.73,
+      "text": " pettuka"
+    },
+    {
+      "start": 178.73,
+      "end": 183.73,
+      "text": " athu pettila"
+    },
+    {
+      "start": 183.73,
+      "end": 188.73,
+      "text": " naale"
+    },
+    {
+      "start": 188.73,
+      "end": 193.73,
+      "text": " padhiicha"
+    },
+    {
+      "start": 193.73,
+      "end": 198.73,
+      "text": " paripikyuga"
+    },
+    {
+      "start": 198.73,
+      "end": 202.73,
+      "text": " mumbu"
+    },
+    {
+      "start": 202.73,
+      "end": 206.73,
+      "text": " bank"
+    },
+    {
+      "start": 206.73,
+      "end": 210.73,
+      "text": " kore"
+    },
+    {
+      "start": 210.73,
+      "end": 214.73,
+      "text": " edukyuga"
+    },
+    {
+      "start": 214.73,
+      "end": 220.73,
+      "text": " adasaramilla"
+    },
+    {
+      "start": 220.73,
+      "end": 238.73,
+      "text": " vaiganeram paranyal pogate chodikyuga"
+    },
+    {
+      "start": 238.73,
+      "end": 243.03,
+      "text": " Ravile Ravile"
+    },
+    {
+      "start": 243.03,
+      "end": 246.97,
+      "text": " Ratri Ratri"
+    }
+  ]
+}

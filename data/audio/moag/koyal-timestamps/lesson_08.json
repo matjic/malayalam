@@ -1,0 +1,1223 @@
+{
+  "format": "koyal-word-timestamps-v1",
+  "lesson": 8,
+  "source": "data/audio/moag/lesson_08.mp3",
+  "model": "adalat-ai/koyal-ml-120m-1.0",
+  "checkpoint": "/private/tmp/koyal-ml-120m-1.0/koyal-ml-120m-1.0.nemo",
+  "nemo_version": "3.0.0",
+  "sample_rate": 16000,
+  "vocabulary_range": {
+    "lesson": 8,
+    "start": 137.83,
+    "end": 247.3166
+  },
+  "transcription_range": {
+    "start": 136.83,
+    "end": 248.31662500000002
+  },
+  "time_basis": "start/end are seconds in source MP3; section_start/end are relative to transcription_range.start",
+  "caveats": [
+    "Automatic ASR, not verified text or phonetic boundaries; preserve repeated words.",
+    "TDT timestamps approximate speech positions. Use nearby silence and padding for final cuts.",
+    "near_chunk_edge flags words within 0.25 seconds of a recognition chunk boundary.",
+    "Chunks meet at low-energy windows; no audio is omitted. A forced split can still divide speech.",
+    "English section announcements may be misrecognized by the Malayalam model."
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "start": 136.83,
+      "end": 160.58,
+      "text": "ലെസ്സൺ പ്രാക്ടീസ്. റിപ്പീറ്റ് ഈച്ച് ഐറ്റം ആഫ്റ്റർ ദി സ്പീക്കർ. ഈച്ച് ഐറ്റം ഈസ് ഗിവിൻ ടു വൈസ്. റെഡി. ലെസൺ ആൻഡ് റിപ്പീറ്റ്. ഹേയ് ഹേ, നിനക്ക് നിനക്ക് രവിയെ രവിയെ ക്ലാസ് ക്ലാസ് പഠിക്കുന്ന",
+      "raw_word_timestamps": [
+        {
+          "word": "ലെസ്സൺ",
+          "start_offset": 31,
+          "end_offset": 38,
+          "start": 1.24,
+          "end": 1.52
+        },
+        {
+          "word": "പ്രാക്ടീസ്.",
+          "start_offset": 64,
+          "end_offset": 76,
+          "start": 2.56,
+          "end": 3.04
+        },
+        {
+          "word": "റിപ്പീറ്റ്",
+          "start_offset": 97,
+          "end_offset": 107,
+          "start": 3.88,
+          "end": 4.28
+        },
+        {
+          "word": "ഈച്ച്",
+          "start_offset": 107,
+          "end_offset": 112,
+          "start": 4.28,
+          "end": 4.48
+        },
+        {
+          "word": "ഐറ്റം",
+          "start_offset": 113,
+          "end_offset": 120,
+          "start": 4.5200000000000005,
+          "end": 4.8
+        },
+        {
+          "word": "ആഫ്റ്റർ",
+          "start_offset": 121,
+          "end_offset": 127,
+          "start": 4.84,
+          "end": 5.08
+        },
+        {
+          "word": "ദി",
+          "start_offset": 128,
+          "end_offset": 130,
+          "start": 5.12,
+          "end": 5.2
+        },
+        {
+          "word": "സ്പീക്കർ.",
+          "start_offset": 131,
+          "end_offset": 141,
+          "start": 5.24,
+          "end": 5.64
+        },
+        {
+          "word": "ഈച്ച്",
+          "start_offset": 145,
+          "end_offset": 149,
+          "start": 5.8,
+          "end": 5.96
+        },
+        {
+          "word": "ഐറ്റം",
+          "start_offset": 150,
+          "end_offset": 157,
+          "start": 6.0,
+          "end": 6.28
+        },
+        {
+          "word": "ഈസ്",
+          "start_offset": 157,
+          "end_offset": 160,
+          "start": 6.28,
+          "end": 6.4
+        },
+        {
+          "word": "ഗിവിൻ",
+          "start_offset": 160,
+          "end_offset": 165,
+          "start": 6.4,
+          "end": 6.6000000000000005
+        },
+        {
+          "word": "ടു",
+          "start_offset": 166,
+          "end_offset": 168,
+          "start": 6.640000000000001,
+          "end": 6.72
+        },
+        {
+          "word": "വൈസ്.",
+          "start_offset": 170,
+          "end_offset": 178,
+          "start": 6.8,
+          "end": 7.12
+        },
+        {
+          "word": "റെഡി.",
+          "start_offset": 184,
+          "end_offset": 193,
+          "start": 7.36,
+          "end": 7.72
+        },
+        {
+          "word": "ലെസൺ",
+          "start_offset": 200,
+          "end_offset": 208,
+          "start": 8.0,
+          "end": 8.32
+        },
+        {
+          "word": "ആൻഡ്",
+          "start_offset": 210,
+          "end_offset": 214,
+          "start": 8.4,
+          "end": 8.56
+        },
+        {
+          "word": "റിപ്പീറ്റ്.",
+          "start_offset": 214,
+          "end_offset": 227,
+          "start": 8.56,
+          "end": 9.08
+        },
+        {
+          "word": "ഹേയ്",
+          "start_offset": 257,
+          "end_offset": 267,
+          "start": 10.28,
+          "end": 10.68
+        },
+        {
+          "word": "ഹേ,",
+          "start_offset": 294,
+          "end_offset": 301,
+          "start": 11.76,
+          "end": 12.040000000000001
+        },
+        {
+          "word": "നിനക്ക്",
+          "start_offset": 331,
+          "end_offset": 342,
+          "start": 13.24,
+          "end": 13.68
+        },
+        {
+          "word": "നിനക്ക്",
+          "start_offset": 366,
+          "end_offset": 377,
+          "start": 14.64,
+          "end": 15.08
+        },
+        {
+          "word": "രവിയെ",
+          "start_offset": 402,
+          "end_offset": 415,
+          "start": 16.080000000000002,
+          "end": 16.6
+        },
+        {
+          "word": "രവിയെ",
+          "start_offset": 440,
+          "end_offset": 454,
+          "start": 17.6,
+          "end": 18.16
+        },
+        {
+          "word": "ക്ലാസ്",
+          "start_offset": 484,
+          "end_offset": 492,
+          "start": 19.36,
+          "end": 19.68
+        },
+        {
+          "word": "ക്ലാസ്",
+          "start_offset": 520,
+          "end_offset": 530,
+          "start": 20.8,
+          "end": 21.2
+        },
+        {
+          "word": "പഠിക്കുന്ന",
+          "start_offset": 572,
+          "end_offset": 582,
+          "start": 22.88,
+          "end": 23.28
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "start": 160.58,
+      "end": 182.83,
+      "text": "പഠിക്കുന്ന ഇന്ന് ഇന്ന് കാണണം. കാണണം. അവനോട് അവനോട് പറ്റുക പറ്റുക. അത് പറ്റില്ല. അത് പറ്റില്ല.",
+      "raw_word_timestamps": [
+        {
+          "word": "പഠിക്കുന്ന",
+          "start_offset": 32,
+          "end_offset": 43,
+          "start": 1.28,
+          "end": 1.72
+        },
+        {
+          "word": "ഇന്ന്",
+          "start_offset": 81,
+          "end_offset": 89,
+          "start": 3.24,
+          "end": 3.56
+        },
+        {
+          "word": "ഇന്ന്",
+          "start_offset": 128,
+          "end_offset": 136,
+          "start": 5.12,
+          "end": 5.44
+        },
+        {
+          "word": "കാണണം.",
+          "start_offset": 167,
+          "end_offset": 179,
+          "start": 6.68,
+          "end": 7.16
+        },
+        {
+          "word": "കാണണം.",
+          "start_offset": 212,
+          "end_offset": 223,
+          "start": 8.48,
+          "end": 8.92
+        },
+        {
+          "word": "അവനോട്",
+          "start_offset": 257,
+          "end_offset": 271,
+          "start": 10.28,
+          "end": 10.84
+        },
+        {
+          "word": "അവനോട്",
+          "start_offset": 307,
+          "end_offset": 321,
+          "start": 12.280000000000001,
+          "end": 12.84
+        },
+        {
+          "word": "പറ്റുക",
+          "start_offset": 362,
+          "end_offset": 374,
+          "start": 14.48,
+          "end": 14.96
+        },
+        {
+          "word": "പറ്റുക.",
+          "start_offset": 407,
+          "end_offset": 418,
+          "start": 16.28,
+          "end": 16.72
+        },
+        {
+          "word": "അത്",
+          "start_offset": 481,
+          "end_offset": 483,
+          "start": 19.240000000000002,
+          "end": 19.32
+        },
+        {
+          "word": "പറ്റില്ല.",
+          "start_offset": 486,
+          "end_offset": 497,
+          "start": 19.44,
+          "end": 19.88
+        },
+        {
+          "word": "അത്",
+          "start_offset": 534,
+          "end_offset": 537,
+          "start": 21.36,
+          "end": 21.48
+        },
+        {
+          "word": "പറ്റില്ല.",
+          "start_offset": 540,
+          "end_offset": 549,
+          "start": 21.6,
+          "end": 21.96
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "start": 182.83,
+      "end": 206.88,
+      "text": "നാളെ നാളെ പരീക്ഷ പരീക്ഷ നല്ല പോലെ നല്ലപോലെ പഠിപ്പിക്കുക, പഠിപ്പിക്കുക മുമ്പ് മുമ്പ് ബാങ്ക് ബാങ്ക്.",
+      "raw_word_timestamps": [
+        {
+          "word": "നാളെ",
+          "start_offset": 51,
+          "end_offset": 62,
+          "start": 2.04,
+          "end": 2.48
+        },
+        {
+          "word": "നാളെ",
+          "start_offset": 98,
+          "end_offset": 109,
+          "start": 3.92,
+          "end": 4.36
+        },
+        {
+          "word": "പരീക്ഷ",
+          "start_offset": 137,
+          "end_offset": 150,
+          "start": 5.48,
+          "end": 6.0
+        },
+        {
+          "word": "പരീക്ഷ",
+          "start_offset": 178,
+          "end_offset": 191,
+          "start": 7.12,
+          "end": 7.640000000000001
+        },
+        {
+          "word": "നല്ല",
+          "start_offset": 224,
+          "end_offset": 228,
+          "start": 8.96,
+          "end": 9.120000000000001
+        },
+        {
+          "word": "പോലെ",
+          "start_offset": 230,
+          "end_offset": 237,
+          "start": 9.200000000000001,
+          "end": 9.48
+        },
+        {
+          "word": "നല്ലപോലെ",
+          "start_offset": 271,
+          "end_offset": 284,
+          "start": 10.84,
+          "end": 11.36
+        },
+        {
+          "word": "പഠിപ്പിക്കുക,",
+          "start_offset": 324,
+          "end_offset": 342,
+          "start": 12.96,
+          "end": 13.68
+        },
+        {
+          "word": "പഠിപ്പിക്കുക",
+          "start_offset": 369,
+          "end_offset": 388,
+          "start": 14.76,
+          "end": 15.52
+        },
+        {
+          "word": "മുമ്പ്",
+          "start_offset": 428,
+          "end_offset": 439,
+          "start": 17.12,
+          "end": 17.56
+        },
+        {
+          "word": "മുമ്പ്",
+          "start_offset": 471,
+          "end_offset": 482,
+          "start": 18.84,
+          "end": 19.28
+        },
+        {
+          "word": "ബാങ്ക്",
+          "start_offset": 529,
+          "end_offset": 540,
+          "start": 21.16,
+          "end": 21.6
+        },
+        {
+          "word": "ബാങ്ക്.",
+          "start_offset": 574,
+          "end_offset": 586,
+          "start": 22.96,
+          "end": 23.44
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "start": 206.88,
+      "end": 230.23000000000002,
+      "text": "കോറെ ക്വാറെടുക്കുക. എടുക്കുക. അത് സാരമില്ല. അത് സാരമില്ല. വൈകനേരം, വൈകനേരം പറഞ്ഞാൽ പറഞ്ഞാൽ.",
+      "raw_word_timestamps": [
+        {
+          "word": "കോറെ",
+          "start_offset": 24,
+          "end_offset": 32,
+          "start": 0.96,
+          "end": 1.28
+        },
+        {
+          "word": "ക്വാറെടുക്കുക.",
+          "start_offset": 69,
+          "end_offset": 135,
+          "start": 2.7600000000000002,
+          "end": 5.4
+        },
+        {
+          "word": "എടുക്കുക.",
+          "start_offset": 172,
+          "end_offset": 184,
+          "start": 6.88,
+          "end": 7.36
+        },
+        {
+          "word": "അത്",
+          "start_offset": 243,
+          "end_offset": 246,
+          "start": 9.72,
+          "end": 9.84
+        },
+        {
+          "word": "സാരമില്ല.",
+          "start_offset": 248,
+          "end_offset": 261,
+          "start": 9.92,
+          "end": 10.44
+        },
+        {
+          "word": "അത്",
+          "start_offset": 306,
+          "end_offset": 309,
+          "start": 12.24,
+          "end": 12.36
+        },
+        {
+          "word": "സാരമില്ല.",
+          "start_offset": 311,
+          "end_offset": 324,
+          "start": 12.44,
+          "end": 12.96
+        },
+        {
+          "word": "വൈകനേരം,",
+          "start_offset": 395,
+          "end_offset": 409,
+          "start": 15.8,
+          "end": 16.36
+        },
+        {
+          "word": "വൈകനേരം",
+          "start_offset": 455,
+          "end_offset": 470,
+          "start": 18.2,
+          "end": 18.8
+        },
+        {
+          "word": "പറഞ്ഞാൽ",
+          "start_offset": 509,
+          "end_offset": 527,
+          "start": 20.36,
+          "end": 21.080000000000002
+        },
+        {
+          "word": "പറഞ്ഞാൽ.",
+          "start_offset": 561,
+          "end_offset": 573,
+          "start": 22.44,
+          "end": 22.92
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "start": 230.23000000000002,
+      "end": 248.31662500000002,
+      "text": "പോകട്ടെ, പോകട്ടെ. ചോദിക്കുക, ചോദിക്കുക. രാവിലെ രാവിലെ രാത്രി രാത്രി.",
+      "raw_word_timestamps": [
+        {
+          "word": "പോകട്ടെ,",
+          "start_offset": 36,
+          "end_offset": 50,
+          "start": 1.44,
+          "end": 2.0
+        },
+        {
+          "word": "പോകട്ടെ.",
+          "start_offset": 85,
+          "end_offset": 99,
+          "start": 3.4,
+          "end": 3.96
+        },
+        {
+          "word": "ചോദിക്കുക,",
+          "start_offset": 142,
+          "end_offset": 157,
+          "start": 5.68,
+          "end": 6.28
+        },
+        {
+          "word": "ചോദിക്കുക.",
+          "start_offset": 198,
+          "end_offset": 214,
+          "start": 7.92,
+          "end": 8.56
+        },
+        {
+          "word": "രാവിലെ",
+          "start_offset": 260,
+          "end_offset": 272,
+          "start": 10.4,
+          "end": 10.88
+        },
+        {
+          "word": "രാവിലെ",
+          "start_offset": 307,
+          "end_offset": 319,
+          "start": 12.280000000000001,
+          "end": 12.76
+        },
+        {
+          "word": "രാത്രി",
+          "start_offset": 361,
+          "end_offset": 372,
+          "start": 14.44,
+          "end": 14.88
+        },
+        {
+          "word": "രാത്രി.",
+          "start_offset": 407,
+          "end_offset": 418,
+          "start": 16.28,
+          "end": 16.72
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "word": "ലെസ്സൺ",
+      "start": 138.07,
+      "end": 138.35,
+      "section_start": 1.24,
+      "section_end": 1.52,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പ്രാക്ടീസ്.",
+      "start": 139.39,
+      "end": 139.87,
+      "section_start": 2.56,
+      "section_end": 3.04,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "റിപ്പീറ്റ്",
+      "start": 140.71,
+      "end": 141.11,
+      "section_start": 3.88,
+      "section_end": 4.28,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഈച്ച്",
+      "start": 141.11,
+      "end": 141.31,
+      "section_start": 4.28,
+      "section_end": 4.48,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഐറ്റം",
+      "start": 141.35,
+      "end": 141.63,
+      "section_start": 4.52,
+      "section_end": 4.8,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ആഫ്റ്റർ",
+      "start": 141.67,
+      "end": 141.91,
+      "section_start": 4.84,
+      "section_end": 5.08,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ദി",
+      "start": 141.95,
+      "end": 142.03,
+      "section_start": 5.12,
+      "section_end": 5.2,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സ്പീക്കർ.",
+      "start": 142.07,
+      "end": 142.47,
+      "section_start": 5.24,
+      "section_end": 5.64,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഈച്ച്",
+      "start": 142.63,
+      "end": 142.79,
+      "section_start": 5.8,
+      "section_end": 5.96,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഐറ്റം",
+      "start": 142.83,
+      "end": 143.11,
+      "section_start": 6.0,
+      "section_end": 6.28,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഈസ്",
+      "start": 143.11,
+      "end": 143.23,
+      "section_start": 6.28,
+      "section_end": 6.4,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഗിവിൻ",
+      "start": 143.23,
+      "end": 143.43,
+      "section_start": 6.4,
+      "section_end": 6.6,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ടു",
+      "start": 143.47,
+      "end": 143.55,
+      "section_start": 6.64,
+      "section_end": 6.72,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വൈസ്.",
+      "start": 143.63,
+      "end": 143.95,
+      "section_start": 6.8,
+      "section_end": 7.12,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "റെഡി.",
+      "start": 144.19,
+      "end": 144.55,
+      "section_start": 7.36,
+      "section_end": 7.72,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ലെസൺ",
+      "start": 144.83,
+      "end": 145.15,
+      "section_start": 8.0,
+      "section_end": 8.32,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ആൻഡ്",
+      "start": 145.23,
+      "end": 145.39,
+      "section_start": 8.4,
+      "section_end": 8.56,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "റിപ്പീറ്റ്.",
+      "start": 145.39,
+      "end": 145.91,
+      "section_start": 8.56,
+      "section_end": 9.08,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഹേയ്",
+      "start": 147.11,
+      "end": 147.51,
+      "section_start": 10.28,
+      "section_end": 10.68,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഹേ,",
+      "start": 148.59,
+      "end": 148.87,
+      "section_start": 11.76,
+      "section_end": 12.04,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "നിനക്ക്",
+      "start": 150.07,
+      "end": 150.51,
+      "section_start": 13.24,
+      "section_end": 13.68,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "നിനക്ക്",
+      "start": 151.47,
+      "end": 151.91,
+      "section_start": 14.64,
+      "section_end": 15.08,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "രവിയെ",
+      "start": 152.91,
+      "end": 153.43,
+      "section_start": 16.08,
+      "section_end": 16.6,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "രവിയെ",
+      "start": 154.43,
+      "end": 154.99,
+      "section_start": 17.6,
+      "section_end": 18.16,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ക്ലാസ്",
+      "start": 156.19,
+      "end": 156.51,
+      "section_start": 19.36,
+      "section_end": 19.68,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ക്ലാസ്",
+      "start": 157.63,
+      "end": 158.03,
+      "section_start": 20.8,
+      "section_end": 21.2,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പഠിക്കുന്ന",
+      "start": 159.71,
+      "end": 160.11,
+      "section_start": 22.88,
+      "section_end": 23.28,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പഠിക്കുന്ന",
+      "start": 161.86,
+      "end": 162.3,
+      "section_start": 25.03,
+      "section_end": 25.47,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഇന്ന്",
+      "start": 163.82,
+      "end": 164.14,
+      "section_start": 26.99,
+      "section_end": 27.31,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഇന്ന്",
+      "start": 165.7,
+      "end": 166.02,
+      "section_start": 28.87,
+      "section_end": 29.19,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കാണണം.",
+      "start": 167.26,
+      "end": 167.74,
+      "section_start": 30.43,
+      "section_end": 30.91,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കാണണം.",
+      "start": 169.06,
+      "end": 169.5,
+      "section_start": 32.23,
+      "section_end": 32.67,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അവനോട്",
+      "start": 170.86,
+      "end": 171.42,
+      "section_start": 34.03,
+      "section_end": 34.59,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അവനോട്",
+      "start": 172.86,
+      "end": 173.42,
+      "section_start": 36.03,
+      "section_end": 36.59,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പറ്റുക",
+      "start": 175.06,
+      "end": 175.54,
+      "section_start": 38.23,
+      "section_end": 38.71,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പറ്റുക.",
+      "start": 176.86,
+      "end": 177.3,
+      "section_start": 40.03,
+      "section_end": 40.47,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അത്",
+      "start": 179.82,
+      "end": 179.9,
+      "section_start": 42.99,
+      "section_end": 43.07,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പറ്റില്ല.",
+      "start": 180.02,
+      "end": 180.46,
+      "section_start": 43.19,
+      "section_end": 43.63,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അത്",
+      "start": 181.94,
+      "end": 182.06,
+      "section_start": 45.11,
+      "section_end": 45.23,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പറ്റില്ല.",
+      "start": 182.18,
+      "end": 182.54,
+      "section_start": 45.35,
+      "section_end": 45.71,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "നാളെ",
+      "start": 184.87,
+      "end": 185.31,
+      "section_start": 48.04,
+      "section_end": 48.48,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "നാളെ",
+      "start": 186.75,
+      "end": 187.19,
+      "section_start": 49.92,
+      "section_end": 50.36,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പരീക്ഷ",
+      "start": 188.31,
+      "end": 188.83,
+      "section_start": 51.48,
+      "section_end": 52.0,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പരീക്ഷ",
+      "start": 189.95,
+      "end": 190.47,
+      "section_start": 53.12,
+      "section_end": 53.64,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "നല്ല",
+      "start": 191.79,
+      "end": 191.95,
+      "section_start": 54.96,
+      "section_end": 55.12,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പോലെ",
+      "start": 192.03,
+      "end": 192.31,
+      "section_start": 55.2,
+      "section_end": 55.48,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "നല്ലപോലെ",
+      "start": 193.67,
+      "end": 194.19,
+      "section_start": 56.84,
+      "section_end": 57.36,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പഠിപ്പിക്കുക,",
+      "start": 195.79,
+      "end": 196.51,
+      "section_start": 58.96,
+      "section_end": 59.68,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പഠിപ്പിക്കുക",
+      "start": 197.59,
+      "end": 198.35,
+      "section_start": 60.76,
+      "section_end": 61.52,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "മുമ്പ്",
+      "start": 199.95,
+      "end": 200.39,
+      "section_start": 63.12,
+      "section_end": 63.56,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "മുമ്പ്",
+      "start": 201.67,
+      "end": 202.11,
+      "section_start": 64.84,
+      "section_end": 65.28,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ബാങ്ക്",
+      "start": 203.99,
+      "end": 204.43,
+      "section_start": 67.16,
+      "section_end": 67.6,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ബാങ്ക്.",
+      "start": 205.79,
+      "end": 206.27,
+      "section_start": 68.96,
+      "section_end": 69.44,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കോറെ",
+      "start": 207.84,
+      "end": 208.16,
+      "section_start": 71.01,
+      "section_end": 71.33,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ക്വാറെടുക്കുക.",
+      "start": 209.64,
+      "end": 212.28,
+      "section_start": 72.81,
+      "section_end": 75.45,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എടുക്കുക.",
+      "start": 213.76,
+      "end": 214.24,
+      "section_start": 76.93,
+      "section_end": 77.41,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അത്",
+      "start": 216.6,
+      "end": 216.72,
+      "section_start": 79.77,
+      "section_end": 79.89,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സാരമില്ല.",
+      "start": 216.8,
+      "end": 217.32,
+      "section_start": 79.97,
+      "section_end": 80.49,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അത്",
+      "start": 219.12,
+      "end": 219.24,
+      "section_start": 82.29,
+      "section_end": 82.41,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സാരമില്ല.",
+      "start": 219.32,
+      "end": 219.84,
+      "section_start": 82.49,
+      "section_end": 83.01,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വൈകനേരം,",
+      "start": 222.68,
+      "end": 223.24,
+      "section_start": 85.85,
+      "section_end": 86.41,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വൈകനേരം",
+      "start": 225.08,
+      "end": 225.68,
+      "section_start": 88.25,
+      "section_end": 88.85,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പറഞ്ഞാൽ",
+      "start": 227.24,
+      "end": 227.96,
+      "section_start": 90.41,
+      "section_end": 91.13,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പറഞ്ഞാൽ.",
+      "start": 229.32,
+      "end": 229.8,
+      "section_start": 92.49,
+      "section_end": 92.97,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പോകട്ടെ,",
+      "start": 231.67,
+      "end": 232.23,
+      "section_start": 94.84,
+      "section_end": 95.4,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പോകട്ടെ.",
+      "start": 233.63,
+      "end": 234.19,
+      "section_start": 96.8,
+      "section_end": 97.36,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ചോദിക്കുക,",
+      "start": 235.91,
+      "end": 236.51,
+      "section_start": 99.08,
+      "section_end": 99.68,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ചോദിക്കുക.",
+      "start": 238.15,
+      "end": 238.79,
+      "section_start": 101.32,
+      "section_end": 101.96,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "രാവിലെ",
+      "start": 240.63,
+      "end": 241.11,
+      "section_start": 103.8,
+      "section_end": 104.28,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "രാവിലെ",
+      "start": 242.51,
+      "end": 242.99,
+      "section_start": 105.68,
+      "section_end": 106.16,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "രാത്രി",
+      "start": 244.67,
+      "end": 245.11,
+      "section_start": 107.84,
+      "section_end": 108.28,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "രാത്രി.",
+      "start": 246.51,
+      "end": 246.95,
+      "section_start": 109.68,
+      "section_end": 110.12,
+      "chunk": 4,
+      "near_chunk_edge": false
+    }
+  ],
+  "text": "ലെസ്സൺ പ്രാക്ടീസ്. റിപ്പീറ്റ് ഈച്ച് ഐറ്റം ആഫ്റ്റർ ദി സ്പീക്കർ. ഈച്ച് ഐറ്റം ഈസ് ഗിവിൻ ടു വൈസ്. റെഡി. ലെസൺ ആൻഡ് റിപ്പീറ്റ്. ഹേയ് ഹേ, നിനക്ക് നിനക്ക് രവിയെ രവിയെ ക്ലാസ് ക്ലാസ് പഠിക്കുന്ന പഠിക്കുന്ന ഇന്ന് ഇന്ന് കാണണം. കാണണം. അവനോട് അവനോട് പറ്റുക പറ്റുക. അത് പറ്റില്ല. അത് പറ്റില്ല. നാളെ നാളെ പരീക്ഷ പരീക്ഷ നല്ല പോലെ നല്ലപോലെ പഠിപ്പിക്കുക, പഠിപ്പിക്കുക മുമ്പ് മുമ്പ് ബാങ്ക് ബാങ്ക്. കോറെ ക്വാറെടുക്കുക. എടുക്കുക. അത് സാരമില്ല. അത് സാരമില്ല. വൈകനേരം, വൈകനേരം പറഞ്ഞാൽ പറഞ്ഞാൽ. പോകട്ടെ, പോകട്ടെ. ചോദിക്കുക, ചോദിക്കുക. രാവിലെ രാവിലെ രാത്രി രാത്രി."
+}

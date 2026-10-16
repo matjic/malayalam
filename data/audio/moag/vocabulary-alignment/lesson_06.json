@@ -1,0 +1,824 @@
+{
+  "pipeline_version": 6,
+  "lesson": 6,
+  "source": "data/audio/moag/lesson_06.mp3",
+  "model": "Whisper large-v3 (32 encoder and 32 decoder layers), MLX",
+  "range_start": 148.7,
+  "range_end": 245.98,
+  "method": "Acoustic cepstrum comparison pairs repeated utterances independently of textbook order; large-v3 word end timestamps matched to pauses, then global spelling assignment against printed vocabulary (order is only a weak tie-breaker). Low-confidence labels require review. Raw recognizer text retained.",
+  "words": [
+    {
+      "utterances": [
+        {
+          "start": 149.9308,
+          "end": 150.6502
+        },
+        {
+          "start": 151.4243,
+          "end": 152.1313
+        }
+      ],
+      "raw_texts": [
+        "അഡുത്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 150.04,
+          "end": 150.98,
+          "text": " Adathu"
+        },
+        {
+          "start": 150.98,
+          "end": 152.64,
+          "text": " Adathu"
+        }
+      ],
+      "transcript": "അടുത്ത്",
+      "meaning": "(adverb) near, close by, next to, close to (postposition)",
+      "textbook_row": 0,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_06_word_001"
+    },
+    {
+      "utterances": [
+        {
+          "start": 153.4677,
+          "end": 154.0883
+        },
+        {
+          "start": 155.0453,
+          "end": 155.6763
+        }
+      ],
+      "raw_texts": [
+        "ച്ണ്ദ്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 152.64,
+          "end": 153.9,
+          "text": " Chanda"
+        },
+        {
+          "start": 153.9,
+          "end": 155.58,
+          "text": " Chanda"
+        }
+      ],
+      "transcript": "ചന്ത",
+      "meaning": "market",
+      "textbook_row": 1,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_06_word_002"
+    },
+    {
+      "utterances": [
+        {
+          "start": 157.1078,
+          "end": 157.8664
+        },
+        {
+          "start": 159.0992,
+          "end": 159.8865
+        }
+      ],
+      "raw_texts": [
+        "ഉണ്ഡുലോ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 155.58,
+          "end": 157.64,
+          "text": " Undalo"
+        },
+        {
+          "start": 157.64,
+          "end": 159.7,
+          "text": " Undalo"
+        }
+      ],
+      "transcript": "ഉണ്ടല്ലോ",
+      "meaning": "there certainly is, are, etc.",
+      "textbook_row": 2,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_06_word_003"
+    },
+    {
+      "utterances": [
+        {
+          "start": 161.2586,
+          "end": 162.3501
+        },
+        {
+          "start": 163.4381,
+          "end": 164.5659
+        }
+      ],
+      "raw_texts": [
+        "ബ്രാമന് ഹോടല്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 159.7,
+          "end": 162.18,
+          "text": " Brahman Hotel"
+        },
+        {
+          "start": 162.18,
+          "end": 164.42,
+          "text": " Brahman Hotel"
+        }
+      ],
+      "transcript": "ബ്രാഹ്മണഹോട്ടൽ",
+      "meaning": "Brahmin Hotel",
+      "textbook_row": 3,
+      "similarity": 0.947,
+      "status": "matched",
+      "id": "lesson_06_word_004"
+    },
+    {
+      "utterances": [
+        {
+          "start": 166.2741,
+          "end": 167.042
+        },
+        {
+          "start": 168.2891,
+          "end": 169.0824
+        }
+      ],
+      "raw_texts": [
+        "അരീയലേ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 164.42,
+          "end": 166.78,
+          "text": " Ariyale"
+        },
+        {
+          "start": 166.78,
+          "end": 168.84,
+          "text": " Ariyale"
+        }
+      ],
+      "transcript": "അറിയില്ലേ",
+      "meaning": "don't you know (dative subject)",
+      "textbook_row": 4,
+      "similarity": 0.923,
+      "status": "matched",
+      "id": "lesson_06_word_005"
+    },
+    {
+      "utterances": [
+        {
+          "start": 170.5363,
+          "end": 171.1769
+        },
+        {
+          "start": 172.3668,
+          "end": 173.0339
+        }
+      ],
+      "raw_texts": [
+        "",
+        "അര്യാമ്"
+      ],
+      "english_segments": [
+        {
+          "start": 170.64,
+          "end": 194.9,
+          "text": " aryaam puragil ambalam kaanaam appuruthu ippuruthu"
+        }
+      ],
+      "transcript": "അറിയാം",
+      "meaning": "I, you, etc. know",
+      "textbook_row": 5,
+      "similarity": 0.909,
+      "status": "matched",
+      "id": "lesson_06_word_006"
+    },
+    {
+      "utterances": [
+        {
+          "start": 174.4357,
+          "end": 175.0468
+        },
+        {
+          "start": 176.4567,
+          "end": 177.1649
+        }
+      ],
+      "raw_texts": [
+        "പുരഗില്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 170.64,
+          "end": 194.9,
+          "text": " aryaam puragil ambalam kaanaam appuruthu ippuruthu"
+        }
+      ],
+      "transcript": "പുറകിൽ",
+      "meaning": "behind, in back of",
+      "textbook_row": 6,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_06_word_007"
+    },
+    {
+      "utterances": [
+        {
+          "start": 178.5916,
+          "end": 179.2798
+        },
+        {
+          "start": 180.4655,
+          "end": 181.1759
+        }
+      ],
+      "raw_texts": [
+        "അമ്ബലം",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 170.64,
+          "end": 194.9,
+          "text": " aryaam puragil ambalam kaanaam appuruthu ippuruthu"
+        }
+      ],
+      "transcript": "അമ്പലം",
+      "meaning": "temple",
+      "textbook_row": 7,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_06_word_008"
+    },
+    {
+      "utterances": [
+        {
+          "start": 182.4931,
+          "end": 183.2192
+        },
+        {
+          "start": 184.6321,
+          "end": 185.3099
+        }
+      ],
+      "raw_texts": [
+        "",
+        "കാണാമ്"
+      ],
+      "english_segments": [
+        {
+          "start": 170.64,
+          "end": 194.9,
+          "text": " aryaam puragil ambalam kaanaam appuruthu ippuruthu"
+        }
+      ],
+      "transcript": "കാണാം",
+      "meaning": "will see",
+      "textbook_row": 8,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_06_word_009"
+    },
+    {
+      "utterances": [
+        {
+          "start": 186.8526,
+          "end": 187.7288
+        },
+        {
+          "start": 188.5674,
+          "end": 189.4035
+        }
+      ],
+      "raw_texts": [
+        "അപുരുത്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 170.64,
+          "end": 194.9,
+          "text": " aryaam puragil ambalam kaanaam appuruthu ippuruthu"
+        }
+      ],
+      "transcript": "അപ്പുറത്ത്",
+      "meaning": "beyond, on the other side (with dative or genitive noun)",
+      "textbook_row": 9,
+      "similarity": 0.909,
+      "status": "matched",
+      "id": "lesson_06_word_010"
+    },
+    {
+      "utterances": [
+        {
+          "start": 190.5191,
+          "end": 191.3782
+        },
+        {
+          "start": 192.3945,
+          "end": 193.2477
+        }
+      ],
+      "raw_texts": [
+        "ഇപുരുത്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 170.64,
+          "end": 194.9,
+          "text": " aryaam puragil ambalam kaanaam appuruthu ippuruthu"
+        }
+      ],
+      "transcript": "ഇപ്പുറത്ത്",
+      "meaning": "before, on this side of",
+      "textbook_row": 10,
+      "similarity": 0.909,
+      "status": "matched",
+      "id": "lesson_06_word_011"
+    },
+    {
+      "utterances": [
+        {
+          "start": 194.7783,
+          "end": 195.3639
+        },
+        {
+          "start": 196.9784,
+          "end": 197.5224
+        }
+      ],
+      "raw_texts": [
+        "തുണി",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 194.9,
+          "end": 202.84,
+          "text": " Thunni Dharalam"
+        }
+      ],
+      "transcript": "തുണി",
+      "meaning": "cloth, clothing",
+      "textbook_row": 11,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_06_word_012"
+    },
+    {
+      "utterances": [
+        {
+          "start": 199.0194,
+          "end": 199.7328
+        },
+        {
+          "start": 200.7514,
+          "end": 201.5548
+        }
+      ],
+      "raw_texts": [
+        "ധരാളമ്",
+        "ധരാളമ്"
+      ],
+      "english_segments": [
+        {
+          "start": 194.9,
+          "end": 202.84,
+          "text": " Thunni Dharalam"
+        }
+      ],
+      "transcript": "ധാരാളം",
+      "meaning": "a lot, many",
+      "textbook_row": 12,
+      "similarity": 0.909,
+      "status": "matched",
+      "id": "lesson_06_word_013"
+    },
+    {
+      "utterances": [
+        {
+          "start": 202.7211,
+          "end": 203.4592
+        },
+        {
+          "start": 204.2656,
+          "end": 204.9858
+        }
+      ],
+      "raw_texts": [
+        "ഷർട്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 202.84,
+          "end": 210.18,
+          "text": " Shirt Sari"
+        }
+      ],
+      "transcript": "ഷർട്ട്",
+      "meaning": "shirt",
+      "textbook_row": 13,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_06_word_014"
+    },
+    {
+      "utterances": [
+        {
+          "start": 206.3176,
+          "end": 206.8877
+        },
+        {
+          "start": 208.2504,
+          "end": 208.8264
+        }
+      ],
+      "raw_texts": [
+        "സാരി",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 202.84,
+          "end": 210.18,
+          "text": " Shirt Sari"
+        }
+      ],
+      "transcript": "സാരി",
+      "meaning": "sari",
+      "textbook_row": 14,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_06_word_015"
+    },
+    {
+      "utterances": [
+        {
+          "start": 210.0528,
+          "end": 210.9545
+        },
+        {
+          "start": 211.9686,
+          "end": 212.8825
+        }
+      ],
+      "raw_texts": [
+        "വാങ്ങിക്കണം",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 210.18,
+          "end": 217.64,
+          "text": " Vangekyanam School"
+        }
+      ],
+      "transcript": "വാങ്ങിക്കണം",
+      "meaning": "want to get",
+      "textbook_row": 15,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_06_word_016"
+    },
+    {
+      "utterances": [
+        {
+          "start": 213.8944,
+          "end": 214.6102
+        },
+        {
+          "start": 215.7475,
+          "end": 216.4933
+        }
+      ],
+      "raw_texts": [
+        "സ്കൂ്ല്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 210.18,
+          "end": 217.64,
+          "text": " Vangekyanam School"
+        }
+      ],
+      "transcript": "സ്കൂൾ",
+      "meaning": "school",
+      "textbook_row": 16,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_06_word_017"
+    },
+    {
+      "utterances": [
+        {
+          "start": 217.5078,
+          "end": 218.1947
+        },
+        {
+          "start": 219.5396,
+          "end": 220.2571
+        }
+      ],
+      "raw_texts": [
+        "മുമ്പിൽ",
+        "മുമ്പിൽ"
+      ],
+      "english_segments": [
+        {
+          "start": 217.64,
+          "end": 230.18,
+          "text": " Mumbil Krishna Noku"
+        }
+      ],
+      "transcript": "മുമ്പിൽ",
+      "meaning": "opposite, in front of (with dative or genitive noun)",
+      "textbook_row": 17,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_06_word_018"
+    },
+    {
+      "utterances": [
+        {
+          "start": 221.9958,
+          "end": 222.7729
+        },
+        {
+          "start": 223.7185,
+          "end": 224.5556
+        }
+      ],
+      "raw_texts": [
+        "കൃഷ്ണാ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 217.64,
+          "end": 230.18,
+          "text": " Mumbil Krishna Noku"
+        }
+      ],
+      "transcript": "കൃഷ്ണാ",
+      "meaning": "a male name",
+      "textbook_row": 18,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_06_word_019"
+    },
+    {
+      "utterances": [
+        {
+          "start": 225.4335,
+          "end": 226.2073
+        },
+        {
+          "start": 227.3736,
+          "end": 228.1497
+        }
+      ],
+      "raw_texts": [
+        "നോക്കൂ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 217.64,
+          "end": 230.18,
+          "text": " Mumbil Krishna Noku"
+        }
+      ],
+      "transcript": "നോക്കൂ",
+      "meaning": "look, look after (someone)",
+      "textbook_row": 19,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_06_word_020"
+    },
+    {
+      "utterances": [
+        {
+          "start": 230.0319,
+          "end": 230.6991
+        },
+        {
+          "start": 231.7708,
+          "end": 232.4312
+        }
+      ],
+      "raw_texts": [
+        "",
+        "നിന്ന്"
+      ],
+      "english_segments": [
+        {
+          "start": 230.18,
+          "end": 239.36,
+          "text": " Ninna Nokam"
+        }
+      ],
+      "transcript": "നിന്ന്",
+      "meaning": "from (with locative noun)",
+      "textbook_row": 20,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_06_word_021"
+    },
+    {
+      "utterances": [
+        {
+          "start": 235.0595,
+          "end": 235.7639
+        },
+        {
+          "start": 237.0873,
+          "end": 237.854
+        }
+      ],
+      "raw_texts": [
+        "നോക്ക്കൂ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 230.18,
+          "end": 239.36,
+          "text": " Ninna Nokam"
+        }
+      ],
+      "transcript": "നോക്കാം",
+      "meaning": "will look, find out",
+      "textbook_row": 21,
+      "similarity": 0.679,
+      "status": "review",
+      "id": "lesson_06_word_022"
+    },
+    {
+      "utterances": [
+        {
+          "start": 239.2315,
+          "end": 239.9606
+        },
+        {
+          "start": 241.3112,
+          "end": 242.0642
+        }
+      ],
+      "raw_texts": [
+        "",
+        "അവളുന്ന്"
+      ],
+      "english_segments": [
+        {
+          "start": 239.36,
+          "end": 239.86,
+          "text": " Avarinna."
+        },
+        {
+          "start": 241.34,
+          "end": 241.94,
+          "text": " Avarinna."
+        }
+      ],
+      "transcript": "അവിടുന്ന്",
+      "meaning": "from there",
+      "textbook_row": 22,
+      "similarity": 0.727,
+      "status": "matched",
+      "id": "lesson_06_word_023"
+    }
+  ],
+  "textbook_vocabulary": [
+    {
+      "malayalam": "അടുത്ത്",
+      "meaning": "(adverb) near, close by, next to, close to (postposition)"
+    },
+    {
+      "malayalam": "ചന്ത",
+      "meaning": "market"
+    },
+    {
+      "malayalam": "ഉണ്ടല്ലോ",
+      "meaning": "there certainly is, are, etc."
+    },
+    {
+      "malayalam": "ബ്രാഹ്മണഹോട്ടൽ",
+      "meaning": "Brahmin Hotel"
+    },
+    {
+      "malayalam": "അറിയില്ലേ",
+      "meaning": "don't you know (dative subject)"
+    },
+    {
+      "malayalam": "അറിയാം",
+      "meaning": "I, you, etc. know"
+    },
+    {
+      "malayalam": "പുറകിൽ",
+      "meaning": "behind, in back of"
+    },
+    {
+      "malayalam": "അമ്പലം",
+      "meaning": "temple"
+    },
+    {
+      "malayalam": "കാണാം",
+      "meaning": "will see"
+    },
+    {
+      "malayalam": "അപ്പുറത്ത്",
+      "meaning": "beyond, on the other side (with dative or genitive noun)"
+    },
+    {
+      "malayalam": "ഇപ്പുറത്ത്",
+      "meaning": "before, on this side of"
+    },
+    {
+      "malayalam": "തുണി",
+      "meaning": "cloth, clothing"
+    },
+    {
+      "malayalam": "ധാരാളം",
+      "meaning": "a lot, many"
+    },
+    {
+      "malayalam": "ഷർട്ട്",
+      "meaning": "shirt"
+    },
+    {
+      "malayalam": "സാരി",
+      "meaning": "sari"
+    },
+    {
+      "malayalam": "വാങ്ങിക്കണം",
+      "meaning": "want to get"
+    },
+    {
+      "malayalam": "സ്കൂൾ",
+      "meaning": "school"
+    },
+    {
+      "malayalam": "മുമ്പിൽ",
+      "meaning": "opposite, in front of (with dative or genitive noun)"
+    },
+    {
+      "malayalam": "കൃഷ്ണാ",
+      "meaning": "a male name"
+    },
+    {
+      "malayalam": "നോക്കൂ",
+      "meaning": "look, look after (someone)"
+    },
+    {
+      "malayalam": "നിന്ന്",
+      "meaning": "from (with locative noun)"
+    },
+    {
+      "malayalam": "നോക്കാം",
+      "meaning": "will look, find out"
+    },
+    {
+      "malayalam": "അവിടുന്ന്",
+      "meaning": "from there"
+    },
+    {
+      "malayalam": "നല്ല",
+      "meaning": "good"
+    },
+    {
+      "malayalam": "ചോദിക്കുക",
+      "meaning": "to ask"
+    }
+  ],
+  "unmatched_textbook_rows": [
+    {
+      "index": 23,
+      "malayalam": "നല്ല",
+      "meaning": "good"
+    },
+    {
+      "index": 24,
+      "malayalam": "ചോദിക്കുക",
+      "meaning": "to ask"
+    }
+  ],
+  "recognition_sha256": "8fbb3b30cbe7cd3eafa5bcd480c4051182a6546392bec29c3c546650e6aedf7a",
+  "boundary_sha256": "81fec18a0f0aef8806f6663823fecbec37137377b711fda60f8ac58d4290c42e"
+}

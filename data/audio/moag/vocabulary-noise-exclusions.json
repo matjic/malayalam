@@ -1,0 +1,182 @@
+[
+  {
+    "id": "lesson_11_word_035",
+    "lesson": 11,
+    "source": "data/audio/moag/lesson_11.mp3",
+    "start": 281.199,
+    "end": 282.0512,
+    "utterances": [
+      {
+        "start": 281.199,
+        "end": 282.0512
+      }
+    ],
+    "path": "docs/assets/audio/moag/words/lesson_11_word_035.mp3",
+    "sha256": "0975287b7ee8c9d6886a2922f7b29c343b8fccef051c84296e2cea3c945d4e33",
+    "user_review": {
+      "id": "lesson_11_word_035",
+      "lesson": 11,
+      "clip": "assets/audio/moag/words/lesson_11_word_035.mp3",
+      "start_seconds": 281.199,
+      "end_seconds": 282.0512,
+      "proposed_transcript": "Unclear word",
+      "decision": "flagged",
+      "correction": "",
+      "notes": "nothing",
+      "reviewed_at": "2026-10-16T00:26:04.667Z"
+    },
+    "reason": "User listening review reports silence, nothing, or a click rather than a vocabulary word. Remove from table players; retain the existing artifact and original continuous recording for traceability.",
+    "retain_artifact": true,
+    "retained_in_continuous_recording": true
+  },
+  {
+    "id": "lesson_15_word_020",
+    "lesson": 15,
+    "source": "data/audio/moag/lesson_15.mp3",
+    "start": 159.9111,
+    "end": 160.7046,
+    "utterances": [
+      {
+        "start": 159.9111,
+        "end": 160.7046
+      }
+    ],
+    "path": "docs/assets/audio/moag/words/lesson_15_word_020.mp3",
+    "sha256": "26243005bb02121228bc5b31802759be1f56ed26d651a2d756b640fc35633b60",
+    "user_review": {
+      "id": "lesson_15_word_020",
+      "lesson": 15,
+      "clip": "assets/audio/moag/words/lesson_15_word_020.mp3",
+      "start_seconds": 159.9111,
+      "end_seconds": 160.7046,
+      "proposed_transcript": "Unclear word",
+      "decision": "flagged",
+      "correction": "",
+      "notes": "nothing",
+      "reviewed_at": "2026-10-16T00:29:51.092Z"
+    },
+    "reason": "User listening review reports silence, nothing, or a click rather than a vocabulary word. Remove from table players; retain the existing artifact and original continuous recording for traceability.",
+    "retain_artifact": true,
+    "retained_in_continuous_recording": true
+  },
+  {
+    "id": "lesson_16_word_043",
+    "lesson": 16,
+    "source": "data/audio/moag/lesson_16.mp3",
+    "start": 191.4518,
+    "end": 191.929,
+    "utterances": [
+      {
+        "start": 191.4518,
+        "end": 191.929
+      }
+    ],
+    "path": "docs/assets/audio/moag/words/lesson_16_word_043.mp3",
+    "sha256": "61fdbaa9afa1bdd5e715992572ec234335c3ef849a8185204aa58e51e5d18066",
+    "user_review": {
+      "id": "lesson_16_word_043",
+      "lesson": 16,
+      "clip": "assets/audio/moag/words/lesson_16_word_043.mp3",
+      "start_seconds": 191.4518,
+      "end_seconds": 191.929,
+      "proposed_transcript": "ഇൻഡ്യൻ എക്സ്പ്രസ്",
+      "decision": "flagged",
+      "correction": "",
+      "notes": "silence",
+      "reviewed_at": "2026-10-16T00:38:02.376Z"
+    },
+    "reason": "User listening review reports silence, nothing, or a click rather than a vocabulary word. Remove from table players; retain the existing artifact and original continuous recording for traceability.",
+    "retain_artifact": true,
+    "retained_in_continuous_recording": true
+  },
+  {
+    "id": "lesson_20_word_070",
+    "lesson": 20,
+    "source": "data/audio/moag/lesson_20.mp3",
+    "start": 371.5179,
+    "end": 372.06,
+    "utterances": [
+      {
+        "start": 371.5179,
+        "end": 372.06
+      }
+    ],
+    "path": "docs/assets/audio/moag/words/lesson_20_word_070.mp3",
+    "sha256": "bbdb8615e641f2c7ecf09bd46a30db5cfeb7c892cbabdffed4c2dba9654ac1e9",
+    "user_review": {
+      "id": "lesson_20_word_070",
+      "lesson": 20,
+      "clip": "assets/audio/moag/words/lesson_20_word_070.mp3",
+      "start_seconds": 371.5179,
+      "end_seconds": 372.06,
+      "proposed_transcript": "ക്രിസ്ത്യാനി",
+      "decision": "flagged",
+      "correction": "",
+      "notes": "silence",
+      "reviewed_at": "2026-10-16T00:56:50.142Z"
+    },
+    "reason": "User listening review reports silence, nothing, or a click rather than a vocabulary word. Remove from table players; retain the existing artifact and original continuous recording for traceability.",
+    "retain_artifact": true,
+    "retained_in_continuous_recording": true
+  },
+  {
+    "id": "lesson_21_word_013",
+    "lesson": 21,
+    "source": "data/audio/moag/lesson_21.mp3",
+    "start": 196.7626,
+    "end": 197.2289,
+    "utterances": [
+      {
+        "start": 196.7626,
+        "end": 197.2289
+      }
+    ],
+    "path": "docs/assets/audio/moag/words/lesson_21_word_013.mp3",
+    "sha256": "028113d50b01613deb2f700b70e78113054ce424345557d4003e01222fefa29e",
+    "user_review": {
+      "id": "lesson_21_word_013",
+      "lesson": 21,
+      "clip": "assets/audio/moag/words/lesson_21_word_013.mp3",
+      "start_seconds": 196.7626,
+      "end_seconds": 197.2289,
+      "proposed_transcript": "അറിയാമായിരിക്കാം",
+      "decision": "flagged",
+      "correction": "",
+      "notes": "silence",
+      "reviewed_at": "2026-10-16T00:57:33.922Z"
+    },
+    "reason": "User listening review reports silence, nothing, or a click rather than a vocabulary word. Remove from table players; retain the existing artifact and original continuous recording for traceability.",
+    "retain_artifact": true,
+    "retained_in_continuous_recording": true
+  },
+  {
+    "id": "lesson_22_word_059",
+    "lesson": 22,
+    "source": "data/audio/moag/lesson_22.mp3",
+    "start": 309.9141,
+    "end": 310.3411,
+    "utterances": [
+      {
+        "start": 309.9141,
+        "end": 310.3411
+      }
+    ],
+    "path": "docs/assets/audio/moag/words/lesson_22_word_059.mp3",
+    "sha256": "65777b7eff7ea0e40bd3978d5474d028c5e7a4751fb7de656dbb978724c2d39a",
+    "user_review": {
+      "id": "lesson_22_word_059",
+      "lesson": 22,
+      "clip": "assets/audio/moag/words/lesson_22_word_059.mp3",
+      "start_seconds": 309.9141,
+      "end_seconds": 310.3411,
+      "proposed_transcript": "വേണ്ടി",
+      "decision": "flagged",
+      "correction": "",
+      "notes": "just a click (no words)",
+      "reviewed_at": "2026-10-16T01:02:56.290Z"
+    },
+    "reason": "User listening review reports silence, nothing, or a click rather than a vocabulary word. Remove from table players; retain the existing artifact and original continuous recording for traceability.",
+    "retain_artifact": true,
+    "retained_in_continuous_recording": true
+  }
+]

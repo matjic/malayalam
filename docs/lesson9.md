@@ -27,43 +27,51 @@
 <div class="lesson-audio">
 <p><strong>Vocabulary audio</strong></p>
 <audio controls preload="none" aria-label="Lesson 9: Vocabulary audio" src="assets/audio/moag/sections/lesson_09_vocabulary_0.mp3"></audio>
-<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_09_vocabulary_0.mp3" aria-pressed="true">Listen · 01:52</button></div>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_09_vocabulary_0.mp3" aria-pressed="true">Listen · 01:51</button></div>
 <p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
 </div>
 <!-- /moag-audio -->
 
-| Malayalam | English |
-|---|---|
-| നല്ല | good |
-| ആരുടെ | whose (adjective) |
-| ആരുടേത് | whose (pronoun) |
-| ചേച്ചിയുടേത് | sister's (one) |
-| നന്നായിരിക്കുന്നു | it is very nice |
-| പുതിയ | new |
-| പുതിയത് | the new one |
-| പഴയ | old |
-| പഴയത് | old one |
-| കൊള്ളാം | that's nice, that's fine |
-| രണ്ടും | both |
-| നിന്റേത് | yours |
-| ഉടുക്കുക | wrap, wear, put on (sari, skirt, dhoti, lungi) |
-| നന്നായിരിക്കും | it will be nice |
-| ഉടുത്തോളു | go ahead and put it on |
-| <!-- Source: PDF page 178; printed page 128. --> ഒന്നും | anything, nothing (with a negative verb) |
-| ഒന്നും പറയില്ല | won't say anything |
-| എപ്പോഴും | always |
-| കൂട്ടുകാരി | friend (feminine) |
-| കൂട്ടുകാരൻ | friend (masculine) |
-| കൊടുക്കും | will give, give (habitual) |
-| ബ്ലൗസ് | blouse |
-| ഇതിനോട് | with this, with it |
-| ചേരും | will match, will fit (match, fit) (habitual) |
-| വേഗം | quickly |
-| സമയമായി | the time has come, it's time |
-| തയ്യാറാകുക | to be ready |
-| പള്ളി | church |
-| ചെറുത് (variant of ചെറിയത്) | little one, small one |
-| കൊള്ളുക | to fit inside of something, to stick (as an arrow) |
+<!-- moag-vocabulary-words -->
+<div class="lesson-audio">
+<p><strong>Selected vocabulary recording</strong></p>
+<audio data-table-audio-player controls preload="none" aria-label="Lesson 9: select a word in the vocabulary table"></audio>
+<p class="lesson-audio-note">Use the Audio column to hear a word. Recorded variants appear beside their written entry; additional recorded forms are included in the same table. Unconfirmed recordings stay in rows marked “check match” until their word is verified. A dash means no aligned recording yet.</p>
+</div>
+<!-- /moag-vocabulary-words -->
+
+| Malayalam | English | Audio |
+|---|---|---|
+| നല്ല | good | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_09_word_001.mp3" data-audio-label="നല്ല" aria-label="Play നല്ല" title="Play നല്ല" aria-pressed="false">▶</button> |
+| ആരുടെ | whose (adjective) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_09_word_002.mp3" data-audio-label="ആരുടെ" aria-label="Play ആരുടെ" title="Play ആരുടെ" aria-pressed="false">▶</button> |
+| ആരുടേത് | whose (pronoun) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_09_word_003.mp3" data-audio-label="ആരുടേത്" aria-label="Play ആരുടേത്" title="Play ആരുടേത്" aria-pressed="false">▶</button> |
+| ചേച്ചിയുടേത് | sister's (one) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_09_word_004.mp3" data-audio-label="ചേച്ചിയുടേത്" aria-label="Play ചേച്ചിയുടേത്" title="Play ചേച്ചിയുടേത്" aria-pressed="false">▶</button> |
+| നന്നായിരിക്കുന്നു | it is very nice | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_09_word_005.mp3" data-audio-label="നന്നായിരിക്കുന്നു" aria-label="Play നന്നായിരിക്കുന്നു" title="Play നന്നായിരിക്കുന്നു" aria-pressed="false">▶</button> |
+| പുതിയ | new | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_09_word_006.mp3" data-audio-label="പുതിയ" aria-label="Play പുതിയ" title="Play പുതിയ" aria-pressed="false">▶</button> |
+| പുതിയത് | the new one | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_09_word_007.mp3" data-audio-label="പുതിയത്" aria-label="Play പുതിയത്" title="Play പുതിയത്" aria-pressed="false">▶</button> |
+| പഴയ | old | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_09_word_008.mp3" data-audio-label="പഴയ" aria-label="Play പഴയ" title="Play പഴയ" aria-pressed="false">▶</button> |
+| പഴയത് | old one | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_09_word_009.mp3" data-audio-label="പഴയത്" aria-label="Play പഴയത്" title="Play പഴയത്" aria-pressed="false">▶</button> |
+| കൊള്ളാം | that's nice, that's fine | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_09_word_010.mp3" data-audio-label="കൊള്ളാം" aria-label="Play കൊള്ളാം" title="Play കൊള്ളാം" aria-pressed="false">▶</button> |
+| രണ്ടും | both | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_09_word_011.mp3" data-audio-label="രണ്ടും" aria-label="Play രണ്ടും" title="Play രണ്ടും" aria-pressed="false">▶</button> |
+| നിന്റേത് | yours | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_09_word_012.mp3" data-audio-label="നിന്റേത്" aria-label="Play നിന്റേത്" title="Play നിന്റേത്" aria-pressed="false">▶</button> |
+| ഉടുക്കുക | wrap, wear, put on (sari, skirt, dhoti, lungi) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_09_word_013.mp3" data-audio-label="ഉടുക്കുക" aria-label="Play ഉടുക്കുക" title="Play ഉടുക്കുക" aria-pressed="false">▶</button> |
+| നന്നായിരിക്കും | it will be nice | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_09_word_020.mp3" data-audio-label="നന്നായിരിക്കും" aria-label="Play നന്നായിരിക്കും" title="Play നന്നായിരിക്കും" aria-pressed="false">▶</button> |
+| ഉടുത്തോളു | go ahead and put it on | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_09_word_014.mp3" data-audio-label="ഉടുത്തോളു" aria-label="Play ഉടുത്തോളു" title="Play ഉടുത്തോളു" aria-pressed="false">▶</button> |
+| <!-- Source: PDF page 178; printed page 128. --> ഒന്നും | anything, nothing (with a negative verb) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_09_word_015.mp3" data-audio-label="ഒന്നും" aria-label="Play ഒന്നും" title="Play ഒന്നും" aria-pressed="false">▶</button> |
+| ഒന്നും പറയില്ല | won't say anything | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_09_word_016.mp3" data-audio-label="ഒന്നും പറയില്ല" aria-label="Play ഒന്നും പറയില്ല" title="Play ഒന്നും പറയില്ല" aria-pressed="false">▶</button> |
+| എപ്പോഴും | always | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_09_word_017.mp3" data-audio-label="എപ്പോഴും" aria-label="Play എപ്പോഴും" title="Play എപ്പോഴും" aria-pressed="false">▶</button> |
+| കൂട്ടുകാരി | friend (feminine) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_09_word_018.mp3" data-audio-label="കൂട്ടുകാരി" aria-label="Play കൂട്ടുകാരി" title="Play കൂട്ടുകാരി" aria-pressed="false">▶</button> |
+| കൂട്ടുകാരൻ | friend (masculine) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_09_word_019.mp3" data-audio-label="കൂട്ടുകാരൻ" aria-label="Play കൂട്ടുകാരൻ" title="Play കൂട്ടുകാരൻ" aria-pressed="false">▶</button> |
+| കൊടുക്കും | will give, give (habitual) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_09_word_021.mp3" data-audio-label="കൊടുക്കും" aria-label="Play കൊടുക്കും" title="Play കൊടുക്കും" aria-pressed="false">▶</button> |
+| ബ്ലൗസ് | blouse | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_09_word_022.mp3" data-audio-label="ബ്ലൗസ്" aria-label="Play ബ്ലൗസ്" title="Play ബ്ലൗസ്" aria-pressed="false">▶</button> |
+| ഇതിനോട് | with this, with it | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_09_word_023.mp3" data-audio-label="ഇതിനോട്" aria-label="Play ഇതിനോട്" title="Play ഇതിനോട്" aria-pressed="false">▶</button> |
+| ചേരും | will match, will fit (match, fit) (habitual) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_09_word_024.mp3" data-audio-label="ചേരും" aria-label="Play ചേരും" title="Play ചേരും" aria-pressed="false">▶</button> |
+| വേഗം | quickly | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_09_word_025.mp3" data-audio-label="വേഗം" aria-label="Play വേഗം" title="Play വേഗം" aria-pressed="false">▶</button> |
+| സമയമായി | the time has come, it's time | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_09_word_026.mp3" data-audio-label="സമയമായി" aria-label="Play സമയമായി" title="Play സമയമായി" aria-pressed="false">▶</button> |
+| തയ്യാറാകുക | to be ready | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_09_word_027.mp3" data-audio-label="തയ്യാറാകുക" aria-label="Play തയ്യാറാകുക" title="Play തയ്യാറാകുക" aria-pressed="false">▶</button> |
+| പള്ളി | church | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| ചെറുത് (variant of ചെറിയത്) | little one, small one | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| കൊള്ളുക | to fit inside of something, to stick (as an arrow) | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
 
 <a id="lesson9-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice

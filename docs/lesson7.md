@@ -162,36 +162,45 @@
 <div class="lesson-audio">
 <p><strong>Vocabulary audio</strong></p>
 <audio controls preload="none" aria-label="Lesson 7: Vocabulary audio" src="assets/audio/moag/sections/lesson_07_vocabulary_0.mp3"></audio>
-<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_07_vocabulary_0.mp3" aria-pressed="true">Listen · 01:40</button></div>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_07_vocabulary_0.mp3" aria-pressed="true">Listen · 01:37</button></div>
 <p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
 </div>
 <!-- /moag-audio -->
 
-| Malayalam | English |
-|---|---|
-| കൊല്ലം | Kollam, city in Kerala |
-| ബസ് | Bus |
-| എപ്പോൾ | when |
-| കിട്ടും | (dative subject) will get, will find |
-| കുറച്ച് കഴിഞ്ഞ് | after a little while |
-| അടുത്ത | next |
-| ഇപ്പോൾ | now |
-| മണി എത്രയായി? | what time is it? |
-| ആറു മണിക്ക് | at 6 o'clock |
-| ബസ് സ്റ്റാൻഡിലേക്ക് | to (up to) the bus stand |
-| ദൂരം | distance |
-| വലിയ | large, big |
-| മൈൽ | mile |
-| മൈലേയുള്ളു | just, only a mile |
-| എങ്ങനെ | how |
-| നമുക്ക് പോകാം | let's go |
-| നിങ്ങൾക്ക് കാറുണ്ടോ? | do you have a car? |
-| <!-- Source: PDF page 140; printed page 90. --> വേണമെങ്കിൽ | if (you) want |
-| ടാക്സി | taxi |
-| വിളിക്കാം | will call |
-| വേണ്ട | no (don't want, not necessary, etc.) |
-| നടന്ന് | walking |
-| ചെറിയ | small, little |
+<!-- moag-vocabulary-words -->
+<div class="lesson-audio">
+<p><strong>Selected vocabulary recording</strong></p>
+<audio data-table-audio-player controls preload="none" aria-label="Lesson 7: select a word in the vocabulary table"></audio>
+<p class="lesson-audio-note">Use the Audio column to hear a word. Recorded variants appear beside their written entry; additional recorded forms are included in the same table. Unconfirmed recordings stay in rows marked “check match” until their word is verified. A dash means no aligned recording yet.</p>
+</div>
+<!-- /moag-vocabulary-words -->
+
+| Malayalam | English | Audio |
+|---|---|---|
+| കൊല്ലം | Kollam, city in Kerala | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_07_word_001.mp3" data-audio-label="കൊല്ലം" aria-label="Play കൊല്ലം" title="Play കൊല്ലം" aria-pressed="false">▶</button> |
+| ബസ് | Bus | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_07_word_002.mp3" data-audio-label="ബസ്" aria-label="Play ബസ്" title="Play ബസ്" aria-pressed="false">▶</button> |
+| എപ്പോൾ | when | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_07_word_003.mp3" data-audio-label="എപ്പോൾ" aria-label="Play എപ്പോൾ" title="Play എപ്പോൾ" aria-pressed="false">▶</button> |
+| കിട്ടും | (dative subject) will get, will find | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_07_word_004.mp3" data-audio-label="കിട്ടും" aria-label="Play കിട്ടും" title="Play കിട്ടും" aria-pressed="false">▶</button> |
+| കുറച്ച് കഴിഞ്ഞ് | after a little while | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| അടുത്ത | next | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_07_word_006.mp3" data-audio-label="അടുത്ത" aria-label="Play അടുത്ത" title="Play അടുത്ത" aria-pressed="false">▶</button> |
+| ഇപ്പോൾ | now | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_07_word_007.mp3" data-audio-label="ഇപ്പോൾ" aria-label="Play ഇപ്പോൾ" title="Play ഇപ്പോൾ" aria-pressed="false">▶</button> |
+| മണി എത്രയായി? | what time is it? | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_07_word_008.mp3" data-audio-label="മണി എത്രയായി?" aria-label="Play മണി എത്രയായി?" title="Play മണി എത്രയായി?" aria-pressed="false">▶</button> |
+| ആറു മണിക്ക് | at 6 o'clock | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_07_word_009.mp3" data-audio-label="ആറു മണിക്ക്" aria-label="Play ആറു മണിക്ക്" title="Play ആറു മണിക്ക്" aria-pressed="false">▶</button> |
+| ബസ് സ്റ്റാൻഡിലേക്ക് | to (up to) the bus stand | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_07_word_010.mp3" data-audio-label="ബസ് സ്റ്റാൻഡിലേക്ക്" aria-label="Play ബസ് സ്റ്റാൻഡിലേക്ക്" title="Play ബസ് സ്റ്റാൻഡിലേക്ക്" aria-pressed="false">▶</button> |
+| ദൂരം | distance | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_07_word_011.mp3" data-audio-label="ദൂരം" aria-label="Play ദൂരം" title="Play ദൂരം" aria-pressed="false">▶</button> |
+| വലിയ | large, big | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_07_word_012.mp3" data-audio-label="വലിയ" aria-label="Play വലിയ" title="Play വലിയ" aria-pressed="false">▶</button> |
+| മൈൽ | mile | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_07_word_013.mp3" data-audio-label="മൈൽ" aria-label="Play മൈൽ" title="Play മൈൽ" aria-pressed="false">▶</button> |
+| മൈലേയുള്ളു | just, only a mile | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_07_word_014.mp3" data-audio-label="മൈലേയുള്ളു" aria-label="Play മൈലേയുള്ളു" title="Play മൈലേയുള്ളു" aria-pressed="false">▶</button> |
+| എങ്ങനെ | how | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_07_word_015.mp3" data-audio-label="എങ്ങനെ" aria-label="Play എങ്ങനെ" title="Play എങ്ങനെ" aria-pressed="false">▶</button> |
+| നമുക്ക് പോകാം | let's go | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_07_word_016.mp3" data-audio-label="നമുക്ക് പോകാം" aria-label="Play നമുക്ക് പോകാം" title="Play നമുക്ക് പോകാം" aria-pressed="false">▶</button> |
+| നിങ്ങൾക്ക് കാറുണ്ടോ? | do you have a car? | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_07_word_017.mp3" data-audio-label="നിങ്ങൾക്ക് കാറുണ്ടോ?" aria-label="Play നിങ്ങൾക്ക് കാറുണ്ടോ?" title="Play നിങ്ങൾക്ക് കാറുണ്ടോ?" aria-pressed="false">▶</button> |
+| <!-- Source: PDF page 140; printed page 90. --> വേണമെങ്കിൽ | if (you) want | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_07_word_018.mp3" data-audio-label="വേണമെങ്കിൽ" aria-label="Play വേണമെങ്കിൽ" title="Play വേണമെങ്കിൽ" aria-pressed="false">▶</button> |
+| ടാക്സി | taxi | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_07_word_019.mp3" data-audio-label="ടാക്സി" aria-label="Play ടാക്സി" title="Play ടാക്സി" aria-pressed="false">▶</button> |
+| വിളിക്കാം | will call | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_07_word_020.mp3" data-audio-label="വിളിക്കാം" aria-label="Play വിളിക്കാം" title="Play വിളിക്കാം" aria-pressed="false">▶</button> |
+| വേണ്ട | no (don't want, not necessary, etc.) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_07_word_021.mp3" data-audio-label="വേണ്ട" aria-label="Play വേണ്ട" title="Play വേണ്ട" aria-pressed="false">▶</button> |
+| നടന്ന് | walking | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_07_word_022.mp3" data-audio-label="നടന്ന്" aria-label="Play നടന്ന്" title="Play നടന്ന്" aria-pressed="false">▶</button> |
+| ചെറിയ | small, little | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_07_word_023.mp3" data-audio-label="ചെറിയ" aria-label="Play ചെറിയ" title="Play ചെറിയ" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> കുറച്ച് | a little; a few | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_07_word_005.mp3" data-audio-label="കുറച്ച്" aria-label="Play കുറച്ച്" title="Play കുറച്ച്" aria-pressed="false">▶</button> |
 
 <a id="lesson7-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice

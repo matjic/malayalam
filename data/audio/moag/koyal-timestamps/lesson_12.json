@@ -1,0 +1,1159 @@
+{
+  "format": "koyal-word-timestamps-v1",
+  "lesson": 12,
+  "source": "data/audio/moag/lesson_12.mp3",
+  "model": "adalat-ai/koyal-ml-120m-1.0",
+  "checkpoint": "/private/tmp/koyal-ml-120m-1.0/koyal-ml-120m-1.0.nemo",
+  "nemo_version": "3.0.0",
+  "sample_rate": 16000,
+  "vocabulary_range": {
+    "lesson": 12,
+    "start": 230.87,
+    "end": 373.649
+  },
+  "transcription_range": {
+    "start": 229.87,
+    "end": 374.649
+  },
+  "time_basis": "start/end are seconds in source MP3; section_start/end are relative to transcription_range.start",
+  "caveats": [
+    "Automatic ASR, not verified text or phonetic boundaries; preserve repeated words.",
+    "TDT timestamps approximate speech positions. Use nearby silence and padding for final cuts.",
+    "near_chunk_edge flags words within 0.25 seconds of a recognition chunk boundary.",
+    "Chunks meet at low-energy windows; no audio is omitted. A forced split can still divide speech.",
+    "English section announcements may be misrecognized by the Malayalam model."
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "start": 229.87,
+      "end": 252.52,
+      "text": "വൊക്കേബ്യലെ പ്രാക്ടീസ് റിപ്പീറ്റ് ഈച്ച് ഐറ്റം ആഫ്റ്റർ ദി സ്പീക്കർ. ഈച്ച് ഐറ്റം ഈസ് ഗിവിൻ ടു വോയിസ്. റെഡി ലിസൺ ആൻഡ് റിപ്പീറ്റ്. ഭർത്താവ് ഭർത്താവ് ഭാര്യ. ഭാര്യ മകൾ മകൾ.",
+      "raw_word_timestamps": [
+        {
+          "word": "വൊക്കേബ്യലെ",
+          "start_offset": 38,
+          "end_offset": 50,
+          "start": 1.52,
+          "end": 2.0
+        },
+        {
+          "word": "പ്രാക്ടീസ്",
+          "start_offset": 57,
+          "end_offset": 70,
+          "start": 2.2800000000000002,
+          "end": 2.8000000000000003
+        },
+        {
+          "word": "റിപ്പീറ്റ്",
+          "start_offset": 85,
+          "end_offset": 95,
+          "start": 3.4,
+          "end": 3.8000000000000003
+        },
+        {
+          "word": "ഈച്ച്",
+          "start_offset": 95,
+          "end_offset": 100,
+          "start": 3.8000000000000003,
+          "end": 4.0
+        },
+        {
+          "word": "ഐറ്റം",
+          "start_offset": 101,
+          "end_offset": 108,
+          "start": 4.04,
+          "end": 4.32
+        },
+        {
+          "word": "ആഫ്റ്റർ",
+          "start_offset": 109,
+          "end_offset": 116,
+          "start": 4.36,
+          "end": 4.64
+        },
+        {
+          "word": "ദി",
+          "start_offset": 117,
+          "end_offset": 119,
+          "start": 4.68,
+          "end": 4.76
+        },
+        {
+          "word": "സ്പീക്കർ.",
+          "start_offset": 120,
+          "end_offset": 132,
+          "start": 4.8,
+          "end": 5.28
+        },
+        {
+          "word": "ഈച്ച്",
+          "start_offset": 139,
+          "end_offset": 144,
+          "start": 5.5600000000000005,
+          "end": 5.76
+        },
+        {
+          "word": "ഐറ്റം",
+          "start_offset": 145,
+          "end_offset": 152,
+          "start": 5.8,
+          "end": 6.08
+        },
+        {
+          "word": "ഈസ്",
+          "start_offset": 152,
+          "end_offset": 156,
+          "start": 6.08,
+          "end": 6.24
+        },
+        {
+          "word": "ഗിവിൻ",
+          "start_offset": 156,
+          "end_offset": 161,
+          "start": 6.24,
+          "end": 6.44
+        },
+        {
+          "word": "ടു",
+          "start_offset": 162,
+          "end_offset": 164,
+          "start": 6.48,
+          "end": 6.5600000000000005
+        },
+        {
+          "word": "വോയിസ്.",
+          "start_offset": 166,
+          "end_offset": 173,
+          "start": 6.640000000000001,
+          "end": 6.92
+        },
+        {
+          "word": "റെഡി",
+          "start_offset": 178,
+          "end_offset": 186,
+          "start": 7.12,
+          "end": 7.44
+        },
+        {
+          "word": "ലിസൺ",
+          "start_offset": 199,
+          "end_offset": 206,
+          "start": 7.96,
+          "end": 8.24
+        },
+        {
+          "word": "ആൻഡ്",
+          "start_offset": 208,
+          "end_offset": 211,
+          "start": 8.32,
+          "end": 8.44
+        },
+        {
+          "word": "റിപ്പീറ്റ്.",
+          "start_offset": 212,
+          "end_offset": 223,
+          "start": 8.48,
+          "end": 8.92
+        },
+        {
+          "word": "ഭർത്താവ്",
+          "start_offset": 258,
+          "end_offset": 274,
+          "start": 10.32,
+          "end": 10.96
+        },
+        {
+          "word": "ഭർത്താവ്",
+          "start_offset": 322,
+          "end_offset": 339,
+          "start": 12.88,
+          "end": 13.56
+        },
+        {
+          "word": "ഭാര്യ.",
+          "start_offset": 390,
+          "end_offset": 399,
+          "start": 15.6,
+          "end": 15.96
+        },
+        {
+          "word": "ഭാര്യ",
+          "start_offset": 440,
+          "end_offset": 451,
+          "start": 17.6,
+          "end": 18.04
+        },
+        {
+          "word": "മകൾ",
+          "start_offset": 495,
+          "end_offset": 502,
+          "start": 19.8,
+          "end": 20.080000000000002
+        },
+        {
+          "word": "മകൾ.",
+          "start_offset": 540,
+          "end_offset": 547,
+          "start": 21.6,
+          "end": 21.88
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "start": 252.52,
+      "end": 275.27,
+      "text": "മകൻ, മകൻ അസുഖം, അസുഖം വയറ് വയറ്, വയറ്റിൽ, വയറ്റിൽ വൈകിട്ട് വൈകിട്ട്.",
+      "raw_word_timestamps": [
+        {
+          "word": "മകൻ,",
+          "start_offset": 19,
+          "end_offset": 29,
+          "start": 0.76,
+          "end": 1.16
+        },
+        {
+          "word": "മകൻ",
+          "start_offset": 73,
+          "end_offset": 84,
+          "start": 2.92,
+          "end": 3.36
+        },
+        {
+          "word": "അസുഖം,",
+          "start_offset": 130,
+          "end_offset": 143,
+          "start": 5.2,
+          "end": 5.72
+        },
+        {
+          "word": "അസുഖം",
+          "start_offset": 183,
+          "end_offset": 197,
+          "start": 7.32,
+          "end": 7.88
+        },
+        {
+          "word": "വയറ്",
+          "start_offset": 237,
+          "end_offset": 248,
+          "start": 9.48,
+          "end": 9.92
+        },
+        {
+          "word": "വയറ്,",
+          "start_offset": 288,
+          "end_offset": 299,
+          "start": 11.52,
+          "end": 11.96
+        },
+        {
+          "word": "വയറ്റിൽ,",
+          "start_offset": 345,
+          "end_offset": 360,
+          "start": 13.8,
+          "end": 14.4
+        },
+        {
+          "word": "വയറ്റിൽ",
+          "start_offset": 393,
+          "end_offset": 410,
+          "start": 15.72,
+          "end": 16.4
+        },
+        {
+          "word": "വൈകിട്ട്",
+          "start_offset": 453,
+          "end_offset": 466,
+          "start": 18.12,
+          "end": 18.64
+        },
+        {
+          "word": "വൈകിട്ട്.",
+          "start_offset": 508,
+          "end_offset": 521,
+          "start": 20.32,
+          "end": 20.84
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "start": 275.27,
+      "end": 297.42,
+      "text": "ആശുപത്രി കൊണ്ടുപോകണം എന്ന് പിന്നെയും പിന്നെയും",
+      "raw_word_timestamps": [
+        {
+          "word": "ആശുപത്രി",
+          "start_offset": 77,
+          "end_offset": 95,
+          "start": 3.08,
+          "end": 3.8000000000000003
+        },
+        {
+          "word": "കൊണ്ടുപോകണം",
+          "start_offset": 203,
+          "end_offset": 222,
+          "start": 8.120000000000001,
+          "end": 8.88
+        },
+        {
+          "word": "എന്ന്",
+          "start_offset": 257,
+          "end_offset": 261,
+          "start": 10.28,
+          "end": 10.44
+        },
+        {
+          "word": "പിന്നെയും",
+          "start_offset": 459,
+          "end_offset": 470,
+          "start": 18.36,
+          "end": 18.8
+        },
+        {
+          "word": "പിന്നെയും",
+          "start_offset": 514,
+          "end_offset": 525,
+          "start": 20.56,
+          "end": 21.0
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "start": 297.42,
+      "end": 321.27,
+      "text": "പോകണം പോകണം. ഇന്ന് ഇന്ന് കൊണ്ടുപോയാൽ കാണണ്ട, കാണണ്ട കൂടുക കൂടുക കൂടുമായിരിക്കും",
+      "raw_word_timestamps": [
+        {
+          "word": "പോകണം",
+          "start_offset": 15,
+          "end_offset": 26,
+          "start": 0.6,
+          "end": 1.04
+        },
+        {
+          "word": "പോകണം.",
+          "start_offset": 68,
+          "end_offset": 80,
+          "start": 2.72,
+          "end": 3.2
+        },
+        {
+          "word": "ഇന്ന്",
+          "start_offset": 118,
+          "end_offset": 126,
+          "start": 4.72,
+          "end": 5.04
+        },
+        {
+          "word": "ഇന്ന്",
+          "start_offset": 167,
+          "end_offset": 175,
+          "start": 6.68,
+          "end": 7.0
+        },
+        {
+          "word": "കൊണ്ടുപോയാൽ",
+          "start_offset": 285,
+          "end_offset": 305,
+          "start": 11.4,
+          "end": 12.200000000000001
+        },
+        {
+          "word": "കാണണ്ട,",
+          "start_offset": 343,
+          "end_offset": 354,
+          "start": 13.72,
+          "end": 14.16
+        },
+        {
+          "word": "കാണണ്ട",
+          "start_offset": 391,
+          "end_offset": 402,
+          "start": 15.64,
+          "end": 16.080000000000002
+        },
+        {
+          "word": "കൂടുക",
+          "start_offset": 445,
+          "end_offset": 459,
+          "start": 17.8,
+          "end": 18.36
+        },
+        {
+          "word": "കൂടുക",
+          "start_offset": 500,
+          "end_offset": 512,
+          "start": 20.0,
+          "end": 20.48
+        },
+        {
+          "word": "കൂടുമായിരിക്കും",
+          "start_offset": 555,
+          "end_offset": 578,
+          "start": 22.2,
+          "end": 23.12
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "start": 321.27,
+      "end": 345.62,
+      "text": "കൂടുമായിരിക്കും ചേട്ടൻ ചേട്ടൻ ആഴ്ച ഒരുപാട് ഒരുപാട് കുട്ടി കുട്ടികൾ",
+      "raw_word_timestamps": [
+        {
+          "word": "കൂടുമായിരിക്കും",
+          "start_offset": 24,
+          "end_offset": 46,
+          "start": 0.96,
+          "end": 1.84
+        },
+        {
+          "word": "ചേട്ടൻ",
+          "start_offset": 84,
+          "end_offset": 97,
+          "start": 3.36,
+          "end": 3.88
+        },
+        {
+          "word": "ചേട്ടൻ",
+          "start_offset": 142,
+          "end_offset": 156,
+          "start": 5.68,
+          "end": 6.24
+        },
+        {
+          "word": "ആഴ്ച",
+          "start_offset": 192,
+          "end_offset": 204,
+          "start": 7.68,
+          "end": 8.16
+        },
+        {
+          "word": "ഒരുപാട്",
+          "start_offset": 299,
+          "end_offset": 315,
+          "start": 11.96,
+          "end": 12.6
+        },
+        {
+          "word": "ഒരുപാട്",
+          "start_offset": 354,
+          "end_offset": 370,
+          "start": 14.16,
+          "end": 14.8
+        },
+        {
+          "word": "കുട്ടി",
+          "start_offset": 413,
+          "end_offset": 421,
+          "start": 16.52,
+          "end": 16.84
+        },
+        {
+          "word": "കുട്ടികൾ",
+          "start_offset": 571,
+          "end_offset": 583,
+          "start": 22.84,
+          "end": 23.32
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "start": 345.62,
+      "end": 370.47,
+      "text": "കൂടെ കൂടെ പോകുന്നതിന് മുമ്പ് കൊണ്ടുവരട്ടെ കൊണ്ടുവരട്ടെ ഉണ്ടാക്കുക ഉണ്ടാക്കി കൊണ്ടുവരാം.",
+      "raw_word_timestamps": [
+        {
+          "word": "കൂടെ",
+          "start_offset": 20,
+          "end_offset": 32,
+          "start": 0.8,
+          "end": 1.28
+        },
+        {
+          "word": "കൂടെ",
+          "start_offset": 68,
+          "end_offset": 78,
+          "start": 2.72,
+          "end": 3.12
+        },
+        {
+          "word": "പോകുന്നതിന്",
+          "start_offset": 207,
+          "end_offset": 223,
+          "start": 8.28,
+          "end": 8.92
+        },
+        {
+          "word": "മുമ്പ്",
+          "start_offset": 223,
+          "end_offset": 234,
+          "start": 8.92,
+          "end": 9.36
+        },
+        {
+          "word": "കൊണ്ടുവരട്ടെ",
+          "start_offset": 286,
+          "end_offset": 308,
+          "start": 11.44,
+          "end": 12.32
+        },
+        {
+          "word": "കൊണ്ടുവരട്ടെ",
+          "start_offset": 356,
+          "end_offset": 379,
+          "start": 14.24,
+          "end": 15.16
+        },
+        {
+          "word": "ഉണ്ടാക്കുക",
+          "start_offset": 502,
+          "end_offset": 518,
+          "start": 20.080000000000002,
+          "end": 20.72
+        },
+        {
+          "word": "ഉണ്ടാക്കി",
+          "start_offset": 577,
+          "end_offset": 588,
+          "start": 23.080000000000002,
+          "end": 23.52
+        },
+        {
+          "word": "കൊണ്ടുവരാം.",
+          "start_offset": 588,
+          "end_offset": 607,
+          "start": 23.52,
+          "end": 24.28
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "start": 370.47,
+      "end": 374.649,
+      "text": "ഉണ്ടാക്കിക്കൊണ്ടുവരാം",
+      "raw_word_timestamps": [
+        {
+          "word": "ഉണ്ടാക്കിക്കൊണ്ടുവരാം",
+          "start_offset": 44,
+          "end_offset": 72,
+          "start": 1.76,
+          "end": 2.88
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "word": "വൊക്കേബ്യലെ",
+      "start": 231.39,
+      "end": 231.87,
+      "section_start": 1.52,
+      "section_end": 2.0,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പ്രാക്ടീസ്",
+      "start": 232.15,
+      "end": 232.67,
+      "section_start": 2.28,
+      "section_end": 2.8,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "റിപ്പീറ്റ്",
+      "start": 233.27,
+      "end": 233.67,
+      "section_start": 3.4,
+      "section_end": 3.8,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഈച്ച്",
+      "start": 233.67,
+      "end": 233.87,
+      "section_start": 3.8,
+      "section_end": 4.0,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഐറ്റം",
+      "start": 233.91,
+      "end": 234.19,
+      "section_start": 4.04,
+      "section_end": 4.32,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ആഫ്റ്റർ",
+      "start": 234.23,
+      "end": 234.51,
+      "section_start": 4.36,
+      "section_end": 4.64,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ദി",
+      "start": 234.55,
+      "end": 234.63,
+      "section_start": 4.68,
+      "section_end": 4.76,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സ്പീക്കർ.",
+      "start": 234.67,
+      "end": 235.15,
+      "section_start": 4.8,
+      "section_end": 5.28,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഈച്ച്",
+      "start": 235.43,
+      "end": 235.63,
+      "section_start": 5.56,
+      "section_end": 5.76,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഐറ്റം",
+      "start": 235.67,
+      "end": 235.95,
+      "section_start": 5.8,
+      "section_end": 6.08,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഈസ്",
+      "start": 235.95,
+      "end": 236.11,
+      "section_start": 6.08,
+      "section_end": 6.24,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഗിവിൻ",
+      "start": 236.11,
+      "end": 236.31,
+      "section_start": 6.24,
+      "section_end": 6.44,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ടു",
+      "start": 236.35,
+      "end": 236.43,
+      "section_start": 6.48,
+      "section_end": 6.56,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വോയിസ്.",
+      "start": 236.51,
+      "end": 236.79,
+      "section_start": 6.64,
+      "section_end": 6.92,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "റെഡി",
+      "start": 236.99,
+      "end": 237.31,
+      "section_start": 7.12,
+      "section_end": 7.44,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ലിസൺ",
+      "start": 237.83,
+      "end": 238.11,
+      "section_start": 7.96,
+      "section_end": 8.24,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ആൻഡ്",
+      "start": 238.19,
+      "end": 238.31,
+      "section_start": 8.32,
+      "section_end": 8.44,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "റിപ്പീറ്റ്.",
+      "start": 238.35,
+      "end": 238.79,
+      "section_start": 8.48,
+      "section_end": 8.92,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഭർത്താവ്",
+      "start": 240.19,
+      "end": 240.83,
+      "section_start": 10.32,
+      "section_end": 10.96,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഭർത്താവ്",
+      "start": 242.75,
+      "end": 243.43,
+      "section_start": 12.88,
+      "section_end": 13.56,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഭാര്യ.",
+      "start": 245.47,
+      "end": 245.83,
+      "section_start": 15.6,
+      "section_end": 15.96,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഭാര്യ",
+      "start": 247.47,
+      "end": 247.91,
+      "section_start": 17.6,
+      "section_end": 18.04,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "മകൾ",
+      "start": 249.67,
+      "end": 249.95,
+      "section_start": 19.8,
+      "section_end": 20.08,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "മകൾ.",
+      "start": 251.47,
+      "end": 251.75,
+      "section_start": 21.6,
+      "section_end": 21.88,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "മകൻ,",
+      "start": 253.28,
+      "end": 253.68,
+      "section_start": 23.41,
+      "section_end": 23.81,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "മകൻ",
+      "start": 255.44,
+      "end": 255.88,
+      "section_start": 25.57,
+      "section_end": 26.01,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അസുഖം,",
+      "start": 257.72,
+      "end": 258.24,
+      "section_start": 27.85,
+      "section_end": 28.37,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അസുഖം",
+      "start": 259.84,
+      "end": 260.4,
+      "section_start": 29.97,
+      "section_end": 30.53,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വയറ്",
+      "start": 262.0,
+      "end": 262.44,
+      "section_start": 32.13,
+      "section_end": 32.57,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വയറ്,",
+      "start": 264.04,
+      "end": 264.48,
+      "section_start": 34.17,
+      "section_end": 34.61,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വയറ്റിൽ,",
+      "start": 266.32,
+      "end": 266.92,
+      "section_start": 36.45,
+      "section_end": 37.05,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വയറ്റിൽ",
+      "start": 268.24,
+      "end": 268.92,
+      "section_start": 38.37,
+      "section_end": 39.05,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വൈകിട്ട്",
+      "start": 270.64,
+      "end": 271.16,
+      "section_start": 40.77,
+      "section_end": 41.29,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വൈകിട്ട്.",
+      "start": 272.84,
+      "end": 273.36,
+      "section_start": 42.97,
+      "section_end": 43.49,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ആശുപത്രി",
+      "start": 278.35,
+      "end": 279.07,
+      "section_start": 48.48,
+      "section_end": 49.2,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൊണ്ടുപോകണം",
+      "start": 283.39,
+      "end": 284.15,
+      "section_start": 53.52,
+      "section_end": 54.28,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എന്ന്",
+      "start": 285.55,
+      "end": 285.71,
+      "section_start": 55.68,
+      "section_end": 55.84,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പിന്നെയും",
+      "start": 293.63,
+      "end": 294.07,
+      "section_start": 63.76,
+      "section_end": 64.2,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പിന്നെയും",
+      "start": 295.83,
+      "end": 296.27,
+      "section_start": 65.96,
+      "section_end": 66.4,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പോകണം",
+      "start": 298.02,
+      "end": 298.46,
+      "section_start": 68.15,
+      "section_end": 68.59,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പോകണം.",
+      "start": 300.14,
+      "end": 300.62,
+      "section_start": 70.27,
+      "section_end": 70.75,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഇന്ന്",
+      "start": 302.14,
+      "end": 302.46,
+      "section_start": 72.27,
+      "section_end": 72.59,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഇന്ന്",
+      "start": 304.1,
+      "end": 304.42,
+      "section_start": 74.23,
+      "section_end": 74.55,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൊണ്ടുപോയാൽ",
+      "start": 308.82,
+      "end": 309.62,
+      "section_start": 78.95,
+      "section_end": 79.75,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കാണണ്ട,",
+      "start": 311.14,
+      "end": 311.58,
+      "section_start": 81.27,
+      "section_end": 81.71,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കാണണ്ട",
+      "start": 313.06,
+      "end": 313.5,
+      "section_start": 83.19,
+      "section_end": 83.63,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൂടുക",
+      "start": 315.22,
+      "end": 315.78,
+      "section_start": 85.35,
+      "section_end": 85.91,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൂടുക",
+      "start": 317.42,
+      "end": 317.9,
+      "section_start": 87.55,
+      "section_end": 88.03,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൂടുമായിരിക്കും",
+      "start": 319.62,
+      "end": 320.54,
+      "section_start": 89.75,
+      "section_end": 90.67,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൂടുമായിരിക്കും",
+      "start": 322.23,
+      "end": 323.11,
+      "section_start": 92.36,
+      "section_end": 93.24,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ചേട്ടൻ",
+      "start": 324.63,
+      "end": 325.15,
+      "section_start": 94.76,
+      "section_end": 95.28,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ചേട്ടൻ",
+      "start": 326.95,
+      "end": 327.51,
+      "section_start": 97.08,
+      "section_end": 97.64,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ആഴ്ച",
+      "start": 328.95,
+      "end": 329.43,
+      "section_start": 99.08,
+      "section_end": 99.56,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഒരുപാട്",
+      "start": 333.23,
+      "end": 333.87,
+      "section_start": 103.36,
+      "section_end": 104.0,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഒരുപാട്",
+      "start": 335.43,
+      "end": 336.07,
+      "section_start": 105.56,
+      "section_end": 106.2,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കുട്ടി",
+      "start": 337.79,
+      "end": 338.11,
+      "section_start": 107.92,
+      "section_end": 108.24,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കുട്ടികൾ",
+      "start": 344.11,
+      "end": 344.59,
+      "section_start": 114.24,
+      "section_end": 114.72,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൂടെ",
+      "start": 346.42,
+      "end": 346.9,
+      "section_start": 116.55,
+      "section_end": 117.03,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൂടെ",
+      "start": 348.34,
+      "end": 348.74,
+      "section_start": 118.47,
+      "section_end": 118.87,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പോകുന്നതിന്",
+      "start": 353.9,
+      "end": 354.54,
+      "section_start": 124.03,
+      "section_end": 124.67,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "മുമ്പ്",
+      "start": 354.54,
+      "end": 354.98,
+      "section_start": 124.67,
+      "section_end": 125.11,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൊണ്ടുവരട്ടെ",
+      "start": 357.06,
+      "end": 357.94,
+      "section_start": 127.19,
+      "section_end": 128.07,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൊണ്ടുവരട്ടെ",
+      "start": 359.86,
+      "end": 360.78,
+      "section_start": 129.99,
+      "section_end": 130.91,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഉണ്ടാക്കുക",
+      "start": 365.7,
+      "end": 366.34,
+      "section_start": 135.83,
+      "section_end": 136.47,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഉണ്ടാക്കി",
+      "start": 368.7,
+      "end": 369.14,
+      "section_start": 138.83,
+      "section_end": 139.27,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൊണ്ടുവരാം.",
+      "start": 369.14,
+      "end": 369.9,
+      "section_start": 139.27,
+      "section_end": 140.03,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഉണ്ടാക്കിക്കൊണ്ടുവരാം",
+      "start": 372.23,
+      "end": 373.35,
+      "section_start": 142.36,
+      "section_end": 143.48,
+      "chunk": 6,
+      "near_chunk_edge": false
+    }
+  ],
+  "text": "വൊക്കേബ്യലെ പ്രാക്ടീസ് റിപ്പീറ്റ് ഈച്ച് ഐറ്റം ആഫ്റ്റർ ദി സ്പീക്കർ. ഈച്ച് ഐറ്റം ഈസ് ഗിവിൻ ടു വോയിസ്. റെഡി ലിസൺ ആൻഡ് റിപ്പീറ്റ്. ഭർത്താവ് ഭർത്താവ് ഭാര്യ. ഭാര്യ മകൾ മകൾ. മകൻ, മകൻ അസുഖം, അസുഖം വയറ് വയറ്, വയറ്റിൽ, വയറ്റിൽ വൈകിട്ട് വൈകിട്ട്. ആശുപത്രി കൊണ്ടുപോകണം എന്ന് പിന്നെയും പിന്നെയും പോകണം പോകണം. ഇന്ന് ഇന്ന് കൊണ്ടുപോയാൽ കാണണ്ട, കാണണ്ട കൂടുക കൂടുക കൂടുമായിരിക്കും കൂടുമായിരിക്കും ചേട്ടൻ ചേട്ടൻ ആഴ്ച ഒരുപാട് ഒരുപാട് കുട്ടി കുട്ടികൾ കൂടെ കൂടെ പോകുന്നതിന് മുമ്പ് കൊണ്ടുവരട്ടെ കൊണ്ടുവരട്ടെ ഉണ്ടാക്കുക ഉണ്ടാക്കി കൊണ്ടുവരാം. ഉണ്ടാക്കിക്കൊണ്ടുവരാം"
+}

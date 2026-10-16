@@ -1,0 +1,849 @@
+{
+  "pipeline_version": 6,
+  "lesson": 2,
+  "source": "data/audio/moag/lesson_02.mp3",
+  "model": "Whisper large-v3 (32 encoder and 32 decoder layers), MLX",
+  "range_start": 139.24,
+  "range_end": 236.98,
+  "method": "Acoustic cepstrum comparison pairs repeated utterances independently of textbook order; large-v3 word end timestamps matched to pauses, then global spelling assignment against printed vocabulary (order is only a weak tie-breaker). Low-confidence labels require review. Raw recognizer text retained.",
+  "words": [
+    {
+      "utterances": [
+        {
+          "start": 138.3694,
+          "end": 138.9689
+        },
+        {
+          "start": 140.0184,
+          "end": 140.6379
+        }
+      ],
+      "raw_texts": [
+        "",
+        "സാരു"
+      ],
+      "english_segments": [
+        {
+          "start": 134.86,
+          "end": 139.24,
+          "text": " ready listen and repeat"
+        }
+      ],
+      "transcript": "സാർ",
+      "meaning": "you (respectful), gentleman, sir",
+      "textbook_row": 0,
+      "similarity": 0.857,
+      "status": "matched",
+      "id": "lesson_02_word_001"
+    },
+    {
+      "utterances": [
+        {
+          "start": 141.8886,
+          "end": 142.6527
+        },
+        {
+          "start": 143.6249,
+          "end": 144.4486
+        }
+      ],
+      "raw_texts": [
+        "സാരുന്ടെ",
+        "സാരുന്ടെ"
+      ],
+      "english_segments": [],
+      "transcript": "സാറിന്റെ",
+      "meaning": "your (respectful), gentleman’s",
+      "textbook_row": 1,
+      "similarity": 0.714,
+      "status": "matched",
+      "id": "lesson_02_word_002"
+    },
+    {
+      "utterances": [
+        {
+          "start": 145.4049,
+          "end": 146.1898
+        },
+        {
+          "start": 147.2602,
+          "end": 147.9997
+        }
+      ],
+      "raw_texts": [
+        "ആപീസ്",
+        "ആപീസ്"
+      ],
+      "english_segments": [],
+      "transcript": "ആഫീസ്",
+      "meaning": "office",
+      "textbook_row": 2,
+      "similarity": 0.75,
+      "status": "matched",
+      "id": "lesson_02_word_003"
+    },
+    {
+      "utterances": [
+        {
+          "start": 149.103,
+          "end": 150.0029
+        },
+        {
+          "start": 151.1982,
+          "end": 151.9029
+        }
+      ],
+      "raw_texts": [
+        "ഇവിടെ",
+        "ഇവിടെ"
+      ],
+      "english_segments": [],
+      "transcript": "ഇവിടെ",
+      "meaning": "here",
+      "textbook_row": 3,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_02_word_004"
+    },
+    {
+      "utterances": [
+        {
+          "start": 153.4222,
+          "end": 154.0931
+        },
+        {
+          "start": 155.1515,
+          "end": 155.807
+        }
+      ],
+      "raw_texts": [
+        "ആണോ",
+        "ആണോ"
+      ],
+      "english_segments": [],
+      "transcript": "ആണോ?",
+      "meaning": "is? are? (question form of ആണ്)",
+      "textbook_row": 4,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_02_word_005"
+    },
+    {
+      "utterances": [
+        {
+          "start": 157.0245,
+          "end": 157.8167
+        },
+        {
+          "start": 158.7586,
+          "end": 159.499
+        }
+      ],
+      "raw_texts": [
+        "ഹമീര്",
+        "ഹമീര്"
+      ],
+      "english_segments": [],
+      "transcript": "ഹമീദ്",
+      "meaning": "a male (Muslim) name",
+      "textbook_row": 5,
+      "similarity": 0.75,
+      "status": "matched",
+      "id": "lesson_02_word_006"
+    },
+    {
+      "utterances": [
+        {
+          "start": 160.7309,
+          "end": 161.3535
+        },
+        {
+          "start": 162.6091,
+          "end": 163.2359
+        }
+      ],
+      "raw_texts": [
+        "അദേ",
+        "അദേ"
+      ],
+      "english_segments": [],
+      "transcript": "അതെ",
+      "meaning": "yes",
+      "textbook_row": 6,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_02_word_007"
+    },
+    {
+      "utterances": [
+        {
+          "start": 164.1557,
+          "end": 165.1266
+        },
+        {
+          "start": 166.2313,
+          "end": 167.136
+        }
+      ],
+      "raw_texts": [
+        "ഇവിഡെ തനേ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 164.86,
+          "end": 172.2,
+          "text": " Ivedetane Il Il"
+        }
+      ],
+      "transcript": "ഇവിടെത്തന്നെ",
+      "meaning": "right here",
+      "textbook_row": 7,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_02_word_008"
+    },
+    {
+      "utterances": [
+        {
+          "start": 168.4074,
+          "end": 168.9523
+        },
+        {
+          "start": 170.0374,
+          "end": 170.5573
+        }
+      ],
+      "raw_texts": [
+        "ഇല്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 164.86,
+          "end": 172.2,
+          "text": " Ivedetane Il Il"
+        }
+      ],
+      "transcript": "ഇൽ",
+      "meaning": "in, among",
+      "textbook_row": 8,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_02_word_009"
+    },
+    {
+      "utterances": [
+        {
+          "start": 171.797,
+          "end": 172.6112
+        },
+        {
+          "start": 173.8369,
+          "end": 174.557
+        }
+      ],
+      "raw_texts": [
+        "ആപേച്ച്ച്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 164.86,
+          "end": 172.2,
+          "text": " Ivedetane Il Il"
+        },
+        {
+          "start": 172.2,
+          "end": 176.32,
+          "text": " Aapichil Aapichil"
+        }
+      ],
+      "transcript": "ആഫീസിൽ",
+      "meaning": "in the office",
+      "textbook_row": 9,
+      "similarity": 0.792,
+      "status": "matched",
+      "id": "lesson_02_word_010"
+    },
+    {
+      "utterances": [
+        {
+          "start": 176.0574,
+          "end": 176.7705
+        },
+        {
+          "start": 178.0333,
+          "end": 178.7504
+        }
+      ],
+      "raw_texts": [
+        "ഇയാൾൾ",
+        "ഇയാൾൾ"
+      ],
+      "english_segments": [
+        {
+          "start": 172.2,
+          "end": 176.32,
+          "text": " Aapichil Aapichil"
+        },
+        {
+          "start": 176.32,
+          "end": 180.32,
+          "text": " Iaal Iaal"
+        }
+      ],
+      "transcript": "ഇയാൾ",
+      "meaning": "he (equal, close by)",
+      "textbook_row": 10,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_02_word_011"
+    },
+    {
+      "utterances": [
+        {
+          "start": 180.0344,
+          "end": 181.3737
+        },
+        {
+          "start": 183.0173,
+          "end": 184.3155
+        }
+      ],
+      "raw_texts": [
+        "ഇയാൾൾൾ മനസ്സിലായോ?",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 176.32,
+          "end": 180.32,
+          "text": " Iaal Iaal"
+        },
+        {
+          "start": 180.32,
+          "end": 184.16,
+          "text": " Iaale manchilayo Iaale manchilayo"
+        }
+      ],
+      "transcript": "ഇയാളെ മനസ്സിലായോ?",
+      "meaning": "Do you know / recognize him?",
+      "textbook_row": 11,
+      "similarity": 0.96,
+      "status": "matched",
+      "id": "lesson_02_word_012"
+    },
+    {
+      "utterances": [
+        {
+          "start": 187.0121,
+          "end": 187.5743
+        },
+        {
+          "start": 188.6583,
+          "end": 189.2562
+        }
+      ],
+      "raw_texts": [
+        "ഇല്ല",
+        "ഇല്ല"
+      ],
+      "english_segments": [
+        {
+          "start": 184.16,
+          "end": 190.8,
+          "text": " Illa Illa"
+        }
+      ],
+      "transcript": "ഇല്ല",
+      "meaning": "no",
+      "textbook_row": 12,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_02_word_013"
+    },
+    {
+      "utterances": [
+        {
+          "start": 190.521,
+          "end": 191.2693
+        },
+        {
+          "start": 192.1005,
+          "end": 192.8706
+        }
+      ],
+      "raw_texts": [
+        "വീഡ്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 184.16,
+          "end": 190.8,
+          "text": " Illa Illa"
+        },
+        {
+          "start": 190.8,
+          "end": 198.56,
+          "text": " Veed Every day"
+        }
+      ],
+      "transcript": "വീട്",
+      "meaning": "house, home, native place",
+      "textbook_row": 14,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_02_word_014"
+    },
+    {
+      "utterances": [
+        {
+          "start": 194.597,
+          "end": 195.3093
+        },
+        {
+          "start": 196.4941,
+          "end": 197.184
+        }
+      ],
+      "raw_texts": [
+        "എവിടെ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 190.8,
+          "end": 198.56,
+          "text": " Veed Every day"
+        }
+      ],
+      "transcript": "എവിടെ",
+      "meaning": "where",
+      "textbook_row": 15,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_02_word_015"
+    },
+    {
+      "utterances": [
+        {
+          "start": 198.3401,
+          "end": 199.2031
+        },
+        {
+          "start": 200.0498,
+          "end": 200.9007
+        }
+      ],
+      "raw_texts": [
+        "തൃശൂർ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 198.56,
+          "end": 206.2,
+          "text": " Trishur Joli"
+        }
+      ],
+      "transcript": "തൃശ്ശൂർ",
+      "meaning": "Trichur, a town in central Kerala",
+      "textbook_row": 16,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_02_word_016"
+    },
+    {
+      "utterances": [
+        {
+          "start": 202.2961,
+          "end": 202.9195
+        },
+        {
+          "start": 204.0478,
+          "end": 204.7417
+        }
+      ],
+      "raw_texts": [
+        "ജോലി",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 198.56,
+          "end": 206.2,
+          "text": " Trishur Joli"
+        }
+      ],
+      "transcript": "ജോലി",
+      "meaning": "job, work",
+      "textbook_row": 17,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_02_word_017"
+    },
+    {
+      "utterances": [
+        {
+          "start": 205.9638,
+          "end": 206.6537
+        },
+        {
+          "start": 207.8466,
+          "end": 208.5533
+        }
+      ],
+      "raw_texts": [
+        "ഞാൻ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 206.2,
+          "end": 214.22,
+          "text": " Gnan Poru"
+        }
+      ],
+      "transcript": "ഞാൻ",
+      "meaning": "I",
+      "textbook_row": 18,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_02_word_018"
+    },
+    {
+      "utterances": [
+        {
+          "start": 210.4429,
+          "end": 211.0183
+        },
+        {
+          "start": 212.2771,
+          "end": 212.8869
+        }
+      ],
+      "raw_texts": [
+        "ഒരു",
+        "ടോരു"
+      ],
+      "english_segments": [
+        {
+          "start": 206.2,
+          "end": 214.22,
+          "text": " Gnan Poru"
+        }
+      ],
+      "transcript": "ഒരു",
+      "meaning": "one (indefinite article)",
+      "textbook_row": 19,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_02_word_019"
+    },
+    {
+      "utterances": [
+        {
+          "start": 213.9697,
+          "end": 214.6606
+        },
+        {
+          "start": 215.679,
+          "end": 216.405
+        }
+      ],
+      "raw_texts": [
+        "ഡാക്ടർ",
+        "ഡാക്ടർ"
+      ],
+      "english_segments": [
+        {
+          "start": 206.2,
+          "end": 214.22,
+          "text": " Gnan Poru"
+        },
+        {
+          "start": 214.22,
+          "end": 236.98,
+          "text": " doctor doctor um um e e keshavan keshavan kochi kochi teacher teacher"
+        }
+      ],
+      "transcript": "ഡാക്ടർ",
+      "meaning": "doctor",
+      "textbook_row": 20,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_02_word_020"
+    },
+    {
+      "utterances": [
+        {
+          "start": 217.5394,
+          "end": 218.0873
+        },
+        {
+          "start": 219.4991,
+          "end": 220.0937
+        }
+      ],
+      "raw_texts": [
+        "ഉമ്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 214.22,
+          "end": 236.98,
+          "text": " doctor doctor um um e e keshavan keshavan kochi kochi teacher teacher"
+        }
+      ],
+      "transcript": "ഉം",
+      "meaning": "also, too",
+      "textbook_row": 21,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_02_word_021"
+    },
+    {
+      "utterances": [
+        {
+          "start": 220.9894,
+          "end": 221.7098
+        },
+        {
+          "start": 222.8348,
+          "end": 223.4985
+        }
+      ],
+      "raw_texts": [
+        "ഈ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 214.22,
+          "end": 236.98,
+          "text": " doctor doctor um um e e keshavan keshavan kochi kochi teacher teacher"
+        }
+      ],
+      "transcript": "ഈ",
+      "meaning": "this (adjective)",
+      "textbook_row": 22,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_02_word_022"
+    },
+    {
+      "utterances": [
+        {
+          "start": 224.5238,
+          "end": 225.3088
+        },
+        {
+          "start": 226.3761,
+          "end": 227.1732
+        }
+      ],
+      "raw_texts": [
+        "കേശവൻ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 214.22,
+          "end": 236.98,
+          "text": " doctor doctor um um e e keshavan keshavan kochi kochi teacher teacher"
+        }
+      ],
+      "transcript": "കേശവൻ",
+      "meaning": "a male (Hindu) name",
+      "textbook_row": 23,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_02_word_023"
+    },
+    {
+      "utterances": [
+        {
+          "start": 228.3011,
+          "end": 228.9321
+        },
+        {
+          "start": 230.0801,
+          "end": 230.7458
+        }
+      ],
+      "raw_texts": [
+        "കൊച്ചി",
+        "കോച്ചി"
+      ],
+      "english_segments": [
+        {
+          "start": 214.22,
+          "end": 236.98,
+          "text": " doctor doctor um um e e keshavan keshavan kochi kochi teacher teacher"
+        }
+      ],
+      "transcript": "കൊച്ചി",
+      "meaning": "Cochin, an important port city in central Kerala",
+      "textbook_row": 24,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_02_word_024"
+    },
+    {
+      "utterances": [
+        {
+          "start": 231.7433,
+          "end": 232.4031
+        },
+        {
+          "start": 233.2618,
+          "end": 233.9392
+        }
+      ],
+      "raw_texts": [
+        "കോച്ചി കോച്ചി കോച്ചി കോച്ചി കോച്ചി കോച്ചി കോച്ചി കോച്ചി കോ ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത്ത",
+        "ടീച്ചെര്"
+      ],
+      "english_segments": [
+        {
+          "start": 214.22,
+          "end": 236.98,
+          "text": " doctor doctor um um e e keshavan keshavan kochi kochi teacher teacher"
+        }
+      ],
+      "transcript": "റ്റീച്ചർ",
+      "meaning": "teacher",
+      "textbook_row": 25,
+      "similarity": 0.889,
+      "status": "matched",
+      "id": "lesson_02_word_025"
+    }
+  ],
+  "textbook_vocabulary": [
+    {
+      "malayalam": "സാർ",
+      "meaning": "you (respectful), gentleman, sir"
+    },
+    {
+      "malayalam": "സാറിന്റെ",
+      "meaning": "your (respectful), gentleman’s"
+    },
+    {
+      "malayalam": "ആഫീസ്",
+      "meaning": "office"
+    },
+    {
+      "malayalam": "ഇവിടെ",
+      "meaning": "here"
+    },
+    {
+      "malayalam": "ആണോ?",
+      "meaning": "is? are? (question form of ആണ്)"
+    },
+    {
+      "malayalam": "ഹമീദ്",
+      "meaning": "a male (Muslim) name"
+    },
+    {
+      "malayalam": "അതെ",
+      "meaning": "yes"
+    },
+    {
+      "malayalam": "ഇവിടെത്തന്നെ",
+      "meaning": "right here"
+    },
+    {
+      "malayalam": "-ഇൽ",
+      "meaning": "in, among"
+    },
+    {
+      "malayalam": "ആഫീസിൽ",
+      "meaning": "in the office"
+    },
+    {
+      "malayalam": "ഇയാൾ",
+      "meaning": "he (equal, close by)"
+    },
+    {
+      "malayalam": "ഇയാളെ മനസ്സിലായോ?",
+      "meaning": "Do you know / recognize him?"
+    },
+    {
+      "malayalam": "ഇല്ല",
+      "meaning": "no"
+    },
+    {
+      "malayalam": "നമസ്കാരം",
+      "meaning": "a formal greeting (literally “I bow to you,” also നമസ്തേ)"
+    },
+    {
+      "malayalam": "വീട്",
+      "meaning": "house, home, native place"
+    },
+    {
+      "malayalam": "എവിടെ",
+      "meaning": "where"
+    },
+    {
+      "malayalam": "തൃശ്ശൂർ",
+      "meaning": "Trichur, a town in central Kerala"
+    },
+    {
+      "malayalam": "ജോലി",
+      "meaning": "job, work"
+    },
+    {
+      "malayalam": "ഞാൻ",
+      "meaning": "I"
+    },
+    {
+      "malayalam": "ഒരു",
+      "meaning": "one (indefinite article)"
+    },
+    {
+      "malayalam": "ഡാക്ടർ",
+      "meaning": "doctor"
+    },
+    {
+      "malayalam": "-ഉം",
+      "meaning": "also, too"
+    },
+    {
+      "malayalam": "ഈ",
+      "meaning": "this (adjective)"
+    },
+    {
+      "malayalam": "കേശവൻ",
+      "meaning": "a male (Hindu) name"
+    },
+    {
+      "malayalam": "കൊച്ചി",
+      "meaning": "Cochin, an important port city in central Kerala"
+    },
+    {
+      "malayalam": "റ്റീച്ചർ",
+      "meaning": "teacher"
+    },
+    {
+      "malayalam": "-ഓ",
+      "meaning": "question marker"
+    }
+  ],
+  "unmatched_textbook_rows": [
+    {
+      "index": 13,
+      "malayalam": "നമസ്കാരം",
+      "meaning": "a formal greeting (literally “I bow to you,” also നമസ്തേ)"
+    },
+    {
+      "index": 26,
+      "malayalam": "-ഓ",
+      "meaning": "question marker"
+    }
+  ],
+  "recognition_sha256": "7de581aa6ec89b7d848b918c0d8cf5043f7021853cbdd8ec714bfb05f196e833",
+  "boundary_sha256": "8f850932d6d6c3cc6031de2011e105098d6b45b9f3a6199dd9ab1fc7273c03e9"
+}

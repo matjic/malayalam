@@ -27,44 +27,52 @@
 <div class="lesson-audio">
 <p><strong>Vocabulary audio</strong></p>
 <audio controls preload="none" aria-label="Lesson 4: Vocabulary audio" src="assets/audio/moag/sections/lesson_04_vocabulary_0.mp3"></audio>
-<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_04_vocabulary_0.mp3" aria-pressed="true">Listen · 04:08</button></div>
+<div class="lesson-audio-cues"><button type="button" data-audio-src="assets/audio/moag/sections/lesson_04_vocabulary_0.mp3" aria-pressed="true">Listen · 02:12</button></div>
 <p class="lesson-audio-note">Approximate section boundaries; recorded wording may differ.</p>
 </div>
 <!-- /moag-audio -->
 
-| Malayalam | English |
-|---|---|
-| ഒരു | a, one (indefinite article) |
-| ചായ | tea |
-| കട | shop |
-| എന്തുണ്ട് | what do they have |
-| എല്ലാം | all, everything |
-| വേണം | (with dative) I, you want |
-| ഇഷ്ടം | liking |
-| ഇഷ്ടമാണ് | (with dative) I, you etc. like (habitual liking only) |
-| അല്ല | no, is not (negative of ആണ്) |
-| അപ്പോൾ | then |
-| കാപ്പി | coffee |
-| എനിക്ക് | me, to me (dative) |
-| വളരെ | very much, a lot |
-| <!-- Source: PDF page 90; printed page 40. --> കൊണ്ടുവരൂ | bring |
-| ദോശ | dosa (rice and lentil flour crêpe) |
-| ചമ്മന്തി | chutney |
-| ഇഷ്ടമായി | (with dative) I, you like (specific case) |
-| കുറച്ച് | a little |
-| കൂടി | more |
-| തരൂ | give (to me or you) |
-| കുടിക്കൂ | drink |
-| അങ്ങനെ ആകട്ടെ | let it be thus, OK (അങ്ങനെ—thus, ആകട്ടെ—let it be) |
-| പ്ലേറ്റ് | dishes |
-| കൊണ്ടുപോകൂ | take away |
-| പയ്യൻ | boy |
-| വേലക്കാരൻ | servant |
-| അവന് | him, to him (dative) |
-| പണം | money |
-| ഒന്ന് | please, would you mind (politeness marker) |
-| കൊടുക്കൂ | give (to a third person) |
-| പോകാം | let’s go |
+<!-- moag-vocabulary-words -->
+<div class="lesson-audio">
+<p><strong>Selected vocabulary recording</strong></p>
+<audio data-table-audio-player controls preload="none" aria-label="Lesson 4: select a word in the vocabulary table"></audio>
+<p class="lesson-audio-note">Use the Audio column to hear a word. Recorded variants appear beside their written entry; additional recorded forms are included in the same table. Unconfirmed recordings stay in rows marked “check match” until their word is verified. A dash means no aligned recording yet.</p>
+</div>
+<!-- /moag-vocabulary-words -->
+
+| Malayalam | English | Audio |
+|---|---|---|
+| ഒരു | a, one (indefinite article) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_04_word_001.mp3" data-audio-label="ഒരു" aria-label="Play ഒരു" title="Play ഒരു" aria-pressed="false">▶</button> |
+| ചായ | tea | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_04_word_002.mp3" data-audio-label="ചായ" aria-label="Play ചായ" title="Play ചായ" aria-pressed="false">▶</button> |
+| കട | shop | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_04_word_003.mp3" data-audio-label="കട" aria-label="Play കട" title="Play കട" aria-pressed="false">▶</button> |
+| എന്തുണ്ട് | what do they have | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_04_word_004.mp3" data-audio-label="എന്തുണ്ട്" aria-label="Play എന്തുണ്ട്" title="Play എന്തുണ്ട്" aria-pressed="false">▶</button> |
+| എല്ലാം | all, everything | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_04_word_005.mp3" data-audio-label="എല്ലാം" aria-label="Play എല്ലാം" title="Play എല്ലാം" aria-pressed="false">▶</button> |
+| വേണം | (with dative) I, you want | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_04_word_006.mp3" data-audio-label="വേണം" aria-label="Play വേണം" title="Play വേണം" aria-pressed="false">▶</button> |
+| ഇഷ്ടം | liking | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_04_word_007.mp3" data-audio-label="ഇഷ്ടം" aria-label="Play ഇഷ്ടം" title="Play ഇഷ്ടം" aria-pressed="false">▶</button> |
+| ഇഷ്ടമാണ് | (with dative) I, you etc. like (habitual liking only) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_04_word_008.mp3" data-audio-label="ഇഷ്ടമാണ്" aria-label="Play ഇഷ്ടമാണ്" title="Play ഇഷ്ടമാണ്" aria-pressed="false">▶</button> |
+| അല്ല | no, is not (negative of ആണ്) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_04_word_009.mp3" data-audio-label="അല്ല" aria-label="Play അല്ല" title="Play അല്ല" aria-pressed="false">▶</button> |
+| അപ്പോൾ | then | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_04_word_010.mp3" data-audio-label="അപ്പോൾ" aria-label="Play അപ്പോൾ" title="Play അപ്പോൾ" aria-pressed="false">▶</button> |
+| കാപ്പി | coffee | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_04_word_011.mp3" data-audio-label="കാപ്പി" aria-label="Play കാപ്പി" title="Play കാപ്പി" aria-pressed="false">▶</button> |
+| എനിക്ക് | me, to me (dative) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_04_word_012.mp3" data-audio-label="എനിക്ക്" aria-label="Play എനിക്ക്" title="Play എനിക്ക്" aria-pressed="false">▶</button> |
+| വളരെ | very much, a lot | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_04_word_013.mp3" data-audio-label="വളരെ" aria-label="Play വളരെ" title="Play വളരെ" aria-pressed="false">▶</button> |
+| <!-- Source: PDF page 90; printed page 40. --> കൊണ്ടുവരൂ | bring | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_04_word_014.mp3" data-audio-label="കൊണ്ടുവരൂ" aria-label="Play കൊണ്ടുവരൂ" title="Play കൊണ്ടുവരൂ" aria-pressed="false">▶</button> |
+| ദോശ | dosa (rice and lentil flour crêpe) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_04_word_015.mp3" data-audio-label="ദോശ" aria-label="Play ദോശ" title="Play ദോശ" aria-pressed="false">▶</button> |
+| ചമ്മന്തി | chutney | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_04_word_016.mp3" data-audio-label="ചമ്മന്തി" aria-label="Play ചമ്മന്തി" title="Play ചമ്മന്തി" aria-pressed="false">▶</button> |
+| ഇഷ്ടമായി | (with dative) I, you like (specific case) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_04_word_017.mp3" data-audio-label="ഇഷ്ടമായി" aria-label="Play ഇഷ്ടമായി" title="Play ഇഷ്ടമായി" aria-pressed="false">▶</button> |
+| കുറച്ച് | a little | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_04_word_018.mp3" data-audio-label="കുറച്ച്" aria-label="Play കുറച്ച്" title="Play കുറച്ച്" aria-pressed="false">▶</button> |
+| കൂടി | more | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_04_word_019.mp3" data-audio-label="കൂടി" aria-label="Play കൂടി" title="Play കൂടി" aria-pressed="false">▶</button> |
+| തരൂ | give (to me or you) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_04_word_020.mp3" data-audio-label="തരൂ" aria-label="Play തരൂ" title="Play തരൂ" aria-pressed="false">▶</button> |
+| കുടിക്കൂ | drink | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_04_word_021.mp3" data-audio-label="കുടിക്കൂ" aria-label="Play കുടിക്കൂ" title="Play കുടിക്കൂ" aria-pressed="false">▶</button> |
+| അങ്ങനെ ആകട്ടെ | let it be thus, OK (അങ്ങനെ—thus, ആകട്ടെ—let it be) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_04_word_022.mp3" data-audio-label="അങ്ങനെ ആകട്ടെ" aria-label="Play അങ്ങനെ ആകട്ടെ" title="Play അങ്ങനെ ആകട്ടെ" aria-pressed="false">▶</button> |
+| പ്ലേറ്റ് | dishes | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_04_word_023.mp3" data-audio-label="പ്ലേറ്റ്" aria-label="Play പ്ലേറ്റ്" title="Play പ്ലേറ്റ്" aria-pressed="false">▶</button> |
+| കൊണ്ടുപോകൂ | take away | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_04_word_024.mp3" data-audio-label="കൊണ്ടുപോകൂ" aria-label="Play കൊണ്ടുപോകൂ" title="Play കൊണ്ടുപോകൂ" aria-pressed="false">▶</button> |
+| പയ്യൻ | boy | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_04_word_025.mp3" data-audio-label="പയ്യൻ" aria-label="Play പയ്യൻ" title="Play പയ്യൻ" aria-pressed="false">▶</button> |
+| വേലക്കാരൻ | servant | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_04_word_026.mp3" data-audio-label="വേലക്കാരൻ" aria-label="Play വേലക്കാരൻ" title="Play വേലക്കാരൻ" aria-pressed="false">▶</button> |
+| അവന് | him, to him (dative) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_04_word_027.mp3" data-audio-label="അവന്" aria-label="Play അവന്" title="Play അവന്" aria-pressed="false">▶</button> |
+| പണം | money | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_04_word_028.mp3" data-audio-label="പണം" aria-label="Play പണം" title="Play പണം" aria-pressed="false">▶</button> |
+| ഒന്ന് | please, would you mind (politeness marker) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_04_word_029.mp3" data-audio-label="ഒന്ന്" aria-label="Play ഒന്ന്" title="Play ഒന്ന്" aria-pressed="false">▶</button> |
+| കൊടുക്കൂ | give (to a third person) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_04_word_030.mp3" data-audio-label="കൊടുക്കൂ" aria-label="Play കൊടുക്കൂ" title="Play കൊടുക്കൂ" aria-pressed="false">▶</button> |
+| പോകാം | let’s go | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_04_word_031.mp3" data-audio-label="പോകാം" aria-label="Play പോകാം" title="Play പോകാം" aria-pressed="false">▶</button> |
 
 <a id="lesson4-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice

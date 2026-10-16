@@ -1,0 +1,242 @@
+{
+  "model": "adalat-ai/koyal-ml-120m-1.0",
+  "device": "cpu",
+  "decoding": "default greedy",
+  "inference_seconds": 3.342272958951071,
+  "audio_seconds": 52.49429999999999,
+  "samples": [
+    {
+      "id": "lesson_01_word_001",
+      "source": "data/audio/moag/lesson_01.mp3",
+      "start": 44.0221,
+      "end": 46.7632,
+      "expected": "ബിൽ",
+      "whisper_raw": [
+        "ബീല്",
+        "ബീല്"
+      ],
+      "alignment_status": "matched",
+      "koyal": "ബിൻ ബിൻ"
+    },
+    {
+      "id": "lesson_01_word_002",
+      "source": "data/audio/moag/lesson_01.mp3",
+      "start": 47.450900000000004,
+      "end": 49.9602,
+      "expected": "രാമൻ",
+      "whisper_raw": [
+        "രാമന്",
+        "രാമന്"
+      ],
+      "alignment_status": "matched",
+      "koyal": "രാമൻ രാമൻ"
+    },
+    {
+      "id": "lesson_01_word_007",
+      "source": "data/audio/moag/lesson_01.mp3",
+      "start": 64.467,
+      "end": 66.75280000000001,
+      "expected": "എന്റെ",
+      "whisper_raw": [
+        "എന്ന്",
+        ""
+      ],
+      "alignment_status": "review",
+      "koyal": "എന്റെ"
+    },
+    {
+      "id": "lesson_05_word_001",
+      "source": "data/audio/moag/lesson_05.mp3",
+      "start": 15.6715,
+      "end": 18.7148,
+      "expected": "കൃഷ്ണൻ",
+      "whisper_raw": [
+        "കിഷ്ണാണ",
+        ""
+      ],
+      "alignment_status": "review",
+      "koyal": "കൃഷ്ണൻ കൃഷ്ണൻ"
+    },
+    {
+      "id": "lesson_05_word_002",
+      "source": "data/audio/moag/lesson_05.mp3",
+      "start": 19.815900000000003,
+      "end": 22.629099999999998,
+      "expected": "മുറി",
+      "whisper_raw": [
+        "മൂരീ",
+        ""
+      ],
+      "alignment_status": "matched",
+      "koyal": "മുറി മുറി"
+    },
+    {
+      "id": "lesson_05_word_003",
+      "source": "data/audio/moag/lesson_05.mp3",
+      "start": 23.788500000000003,
+      "end": 27.1331,
+      "expected": "",
+      "whisper_raw": [
+        "",
+        ""
+      ],
+      "alignment_status": "review",
+      "koyal": "ഇരിക്കുന്നു ഇരിക്കുന്നു"
+    },
+    {
+      "id": "lesson_10_word_001",
+      "source": "data/audio/moag/lesson_10.mp3",
+      "start": 9.4552,
+      "end": 12.0411,
+      "expected": "കേരളം",
+      "whisper_raw": [
+        "കേരലമ്",
+        "കേരലമ്"
+      ],
+      "alignment_status": "matched",
+      "koyal": "കേരളം കേരളം"
+    },
+    {
+      "id": "lesson_10_word_002",
+      "source": "data/audio/moag/lesson_10.mp3",
+      "start": 12.3845,
+      "end": 14.862,
+      "expected": "സ്റ്റേറ്റ്",
+      "whisper_raw": [
+        "സ്ടേട്",
+        "സ്ടേട്"
+      ],
+      "alignment_status": "matched",
+      "koyal": "സ്റ്റേറ്റ് സ്റ്റേറ്റ്"
+    },
+    {
+      "id": "lesson_10_word_014",
+      "source": "data/audio/moag/lesson_10.mp3",
+      "start": 53.638,
+      "end": 56.2707,
+      "expected": "കിഴക്കേ",
+      "whisper_raw": [
+        "കീരക്",
+        "കീരക്"
+      ],
+      "alignment_status": "review",
+      "koyal": "കിഴക്ക് കിഴക്ക്"
+    },
+    {
+      "id": "lesson_15_word_001",
+      "source": "data/audio/moag/lesson_15.mp3",
+      "start": 58.608200000000004,
+      "end": 62.972899999999996,
+      "expected": "ബസ്സ്റ്റാൻഡിലെ",
+      "whisper_raw": [
+        "ബസ്സട്ടെണ്ട്ടുലേ",
+        "ബസ്സട്ടുണ്ട്ടുലേ"
+      ],
+      "alignment_status": "matched",
+      "koyal": "ബസ് സ്റ്റാൻഡിലെ ബസ് സ്റ്റാൻഡിലെ"
+    },
+    {
+      "id": "lesson_15_word_002",
+      "source": "data/audio/moag/lesson_15.mp3",
+      "start": 64.47569999999999,
+      "end": 68.24430000000001,
+      "expected": "വറുഗീസ്",
+      "whisper_raw": [
+        "മരുഗീസ്",
+        "മരുഗീസ്"
+      ],
+      "alignment_status": "matched",
+      "koyal": "മറുഗീസ് മറുകീസ്"
+    },
+    {
+      "id": "lesson_15_word_012",
+      "source": "data/audio/moag/lesson_15.mp3",
+      "start": 121.0762,
+      "end": 126.0977,
+      "expected": "",
+      "whisper_raw": [
+        "",
+        ""
+      ],
+      "alignment_status": "review",
+      "koyal": "കയറുക കയറുക"
+    },
+    {
+      "id": "lesson_20_word_001",
+      "source": "data/audio/moag/lesson_20.mp3",
+      "start": 106.6908,
+      "end": 109.38180000000001,
+      "expected": "ഓണം",
+      "whisper_raw": [
+        "ഓണമ്",
+        "ഓണമ്"
+      ],
+      "alignment_status": "matched",
+      "koyal": "ഓണം ഓണം"
+    },
+    {
+      "id": "lesson_20_word_002",
+      "source": "data/audio/moag/lesson_20.mp3",
+      "start": 110.4092,
+      "end": 113.55630000000001,
+      "expected": "വിളവെടുപ്പ്",
+      "whisper_raw": [
+        "വിളവഡുപ്",
+        "വിളവഡുപ്"
+      ],
+      "alignment_status": "matched",
+      "koyal": "വിളവെടുപ്പ് വിളവെടുപ്പ്"
+    },
+    {
+      "id": "lesson_20_word_006",
+      "source": "data/audio/moag/lesson_20.mp3",
+      "start": 127.6832,
+      "end": 129.92170000000002,
+      "expected": "പണ്ട്",
+      "whisper_raw": [
+        "",
+        "മായ�"
+      ],
+      "alignment_status": "review",
+      "koyal": "പണ്ട് പണ്ട്"
+    },
+    {
+      "id": "lesson_25_word_001",
+      "source": "data/audio/moag/lesson_25.mp3",
+      "start": 252.2776,
+      "end": 253.6962,
+      "expected": "ജന്മദേശം",
+      "whisper_raw": [
+        "ജന്മദേഷമ്"
+      ],
+      "alignment_status": "matched",
+      "koyal": "ജന്മദേശം"
+    },
+    {
+      "id": "lesson_25_word_002",
+      "source": "data/audio/moag/lesson_25.mp3",
+      "start": 255.3543,
+      "end": 257.962,
+      "expected": "നദി",
+      "whisper_raw": [
+        "നദീ",
+        "നദീ"
+      ],
+      "alignment_status": "matched",
+      "koyal": "നദി നദി"
+    },
+    {
+      "id": "lesson_25_word_011",
+      "source": "data/audio/moag/lesson_25.mp3",
+      "start": 292.869,
+      "end": 295.6722,
+      "expected": "ഹൃദയം",
+      "whisper_raw": [
+        "",
+        ""
+      ],
+      "alignment_status": "review",
+      "koyal": "ഹൃദയം ഹൃദയം"
+    }
+  ]
+}

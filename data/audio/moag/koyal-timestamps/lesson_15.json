@@ -1,0 +1,1407 @@
+{
+  "format": "koyal-word-timestamps-v1",
+  "lesson": 15,
+  "source": "data/audio/moag/lesson_15.mp3",
+  "model": "adalat-ai/koyal-ml-120m-1.0",
+  "checkpoint": "/private/tmp/koyal-ml-120m-1.0/koyal-ml-120m-1.0.nemo",
+  "nemo_version": "3.0.0",
+  "sample_rate": 16000,
+  "vocabulary_range": {
+    "lesson": 15,
+    "start": 45.46,
+    "end": 273.0714
+  },
+  "transcription_range": {
+    "start": 44.46,
+    "end": 274.071375
+  },
+  "time_basis": "start/end are seconds in source MP3; section_start/end are relative to transcription_range.start",
+  "caveats": [
+    "Automatic ASR, not verified text or phonetic boundaries; preserve repeated words.",
+    "TDT timestamps approximate speech positions. Use nearby silence and padding for final cuts.",
+    "near_chunk_edge flags words within 0.25 seconds of a recognition chunk boundary.",
+    "Chunks meet at low-energy windows; no audio is omitted. A forced split can still divide speech.",
+    "English section announcements may be misrecognized by the Malayalam model."
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "start": 44.46,
+      "end": 68.31,
+      "text": "മൊക്കാബുലറി പ്രാക്ടീസ് റിപ്പീറ്റ് ഈച്ച് ഐഡം ആഫ്റ്റർ ദി സ്പീക്കർ. ഈച്ച് ഐഡം ഈസ് ഗിവിൻ ടു ആസ്. റെഡി. ലിസൺ ആൻഡ് റിപ്പീറ്റ്. ബസ് സ്റ്റാൻഡിലെ മറുഗീസ്.",
+      "raw_word_timestamps": [
+        {
+          "word": "മൊക്കാബുലറി",
+          "start_offset": 62,
+          "end_offset": 78,
+          "start": 2.48,
+          "end": 3.12
+        },
+        {
+          "word": "പ്രാക്ടീസ്",
+          "start_offset": 80,
+          "end_offset": 93,
+          "start": 3.2,
+          "end": 3.72
+        },
+        {
+          "word": "റിപ്പീറ്റ്",
+          "start_offset": 136,
+          "end_offset": 147,
+          "start": 5.44,
+          "end": 5.88
+        },
+        {
+          "word": "ഈച്ച്",
+          "start_offset": 147,
+          "end_offset": 152,
+          "start": 5.88,
+          "end": 6.08
+        },
+        {
+          "word": "ഐഡം",
+          "start_offset": 153,
+          "end_offset": 162,
+          "start": 6.12,
+          "end": 6.48
+        },
+        {
+          "word": "ആഫ്റ്റർ",
+          "start_offset": 172,
+          "end_offset": 179,
+          "start": 6.88,
+          "end": 7.16
+        },
+        {
+          "word": "ദി",
+          "start_offset": 179,
+          "end_offset": 182,
+          "start": 7.16,
+          "end": 7.28
+        },
+        {
+          "word": "സ്പീക്കർ.",
+          "start_offset": 183,
+          "end_offset": 197,
+          "start": 7.32,
+          "end": 7.88
+        },
+        {
+          "word": "ഈച്ച്",
+          "start_offset": 215,
+          "end_offset": 222,
+          "start": 8.6,
+          "end": 8.88
+        },
+        {
+          "word": "ഐഡം",
+          "start_offset": 228,
+          "end_offset": 235,
+          "start": 9.120000000000001,
+          "end": 9.4
+        },
+        {
+          "word": "ഈസ്",
+          "start_offset": 238,
+          "end_offset": 243,
+          "start": 9.52,
+          "end": 9.72
+        },
+        {
+          "word": "ഗിവിൻ",
+          "start_offset": 243,
+          "end_offset": 250,
+          "start": 9.72,
+          "end": 10.0
+        },
+        {
+          "word": "ടു",
+          "start_offset": 251,
+          "end_offset": 254,
+          "start": 10.040000000000001,
+          "end": 10.16
+        },
+        {
+          "word": "ആസ്.",
+          "start_offset": 256,
+          "end_offset": 263,
+          "start": 10.24,
+          "end": 10.52
+        },
+        {
+          "word": "റെഡി.",
+          "start_offset": 283,
+          "end_offset": 290,
+          "start": 11.32,
+          "end": 11.6
+        },
+        {
+          "word": "ലിസൺ",
+          "start_offset": 301,
+          "end_offset": 309,
+          "start": 12.040000000000001,
+          "end": 12.36
+        },
+        {
+          "word": "ആൻഡ്",
+          "start_offset": 311,
+          "end_offset": 315,
+          "start": 12.44,
+          "end": 12.6
+        },
+        {
+          "word": "റിപ്പീറ്റ്.",
+          "start_offset": 316,
+          "end_offset": 329,
+          "start": 12.64,
+          "end": 13.16
+        },
+        {
+          "word": "ബസ്",
+          "start_offset": 434,
+          "end_offset": 439,
+          "start": 17.36,
+          "end": 17.56
+        },
+        {
+          "word": "സ്റ്റാൻഡിലെ",
+          "start_offset": 439,
+          "end_offset": 454,
+          "start": 17.56,
+          "end": 18.16
+        },
+        {
+          "word": "മറുഗീസ്.",
+          "start_offset": 571,
+          "end_offset": 586,
+          "start": 22.84,
+          "end": 23.44
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "start": 68.31,
+      "end": 91.56,
+      "text": "ആഹാഹാ, കേശവൻ നായർ, കേശവൻ നായർ അയക്കുക, അയക്കുക. യാത്ര അയക്കുക.",
+      "raw_word_timestamps": [
+        {
+          "word": "ആഹാഹാ,",
+          "start_offset": 43,
+          "end_offset": 109,
+          "start": 1.72,
+          "end": 4.36
+        },
+        {
+          "word": "കേശവൻ",
+          "start_offset": 161,
+          "end_offset": 174,
+          "start": 6.44,
+          "end": 6.96
+        },
+        {
+          "word": "നായർ,",
+          "start_offset": 174,
+          "end_offset": 184,
+          "start": 6.96,
+          "end": 7.36
+        },
+        {
+          "word": "കേശവൻ",
+          "start_offset": 234,
+          "end_offset": 248,
+          "start": 9.36,
+          "end": 9.92
+        },
+        {
+          "word": "നായർ",
+          "start_offset": 248,
+          "end_offset": 257,
+          "start": 9.92,
+          "end": 10.28
+        },
+        {
+          "word": "അയക്കുക,",
+          "start_offset": 332,
+          "end_offset": 347,
+          "start": 13.280000000000001,
+          "end": 13.88
+        },
+        {
+          "word": "അയക്കുക.",
+          "start_offset": 399,
+          "end_offset": 411,
+          "start": 15.96,
+          "end": 16.44
+        },
+        {
+          "word": "യാത്ര",
+          "start_offset": 545,
+          "end_offset": 555,
+          "start": 21.8,
+          "end": 22.2
+        },
+        {
+          "word": "അയക്കുക.",
+          "start_offset": 555,
+          "end_offset": 568,
+          "start": 22.2,
+          "end": 22.72
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "start": 91.56,
+      "end": 114.21000000000001,
+      "text": "ഈയിടെ ഈയിടെ കല്യാണം കല്യാണം കഴിക്കുക. കല്യാണം കഴിക്കുക. രണ്ടുപേരും",
+      "raw_word_timestamps": [
+        {
+          "word": "ഈയിടെ",
+          "start_offset": 48,
+          "end_offset": 60,
+          "start": 1.92,
+          "end": 2.4
+        },
+        {
+          "word": "ഈയിടെ",
+          "start_offset": 110,
+          "end_offset": 121,
+          "start": 4.4,
+          "end": 4.84
+        },
+        {
+          "word": "കല്യാണം",
+          "start_offset": 240,
+          "end_offset": 258,
+          "start": 9.6,
+          "end": 10.32
+        },
+        {
+          "word": "കല്യാണം",
+          "start_offset": 324,
+          "end_offset": 339,
+          "start": 12.96,
+          "end": 13.56
+        },
+        {
+          "word": "കഴിക്കുക.",
+          "start_offset": 339,
+          "end_offset": 353,
+          "start": 13.56,
+          "end": 14.120000000000001
+        },
+        {
+          "word": "കല്യാണം",
+          "start_offset": 410,
+          "end_offset": 425,
+          "start": 16.4,
+          "end": 17.0
+        },
+        {
+          "word": "കഴിക്കുക.",
+          "start_offset": 425,
+          "end_offset": 439,
+          "start": 17.0,
+          "end": 17.56
+        },
+        {
+          "word": "രണ്ടുപേരും",
+          "start_offset": 539,
+          "end_offset": 559,
+          "start": 21.56,
+          "end": 22.36
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "start": 114.21000000000001,
+      "end": 136.96,
+      "text": "കയറുകയറി നിൽക്കുക",
+      "raw_word_timestamps": [
+        {
+          "word": "കയറുകയറി",
+          "start_offset": 276,
+          "end_offset": 434,
+          "start": 11.040000000000001,
+          "end": 17.36
+        },
+        {
+          "word": "നിൽക്കുക",
+          "start_offset": 542,
+          "end_offset": 555,
+          "start": 21.68,
+          "end": 22.2
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "start": 136.96,
+      "end": 159.41,
+      "text": "നിൽക്കുക, നിന്നു നിന്നു. സ്ത്രീ സന്തോഷം, സന്തോഷം. വളരെ സന്തോഷം, വളരെ സന്തോഷം.",
+      "raw_word_timestamps": [
+        {
+          "word": "നിൽക്കുക,",
+          "start_offset": 36,
+          "end_offset": 50,
+          "start": 1.44,
+          "end": 2.0
+        },
+        {
+          "word": "നിന്നു",
+          "start_offset": 103,
+          "end_offset": 115,
+          "start": 4.12,
+          "end": 4.6000000000000005
+        },
+        {
+          "word": "നിന്നു.",
+          "start_offset": 165,
+          "end_offset": 177,
+          "start": 6.6000000000000005,
+          "end": 7.08
+        },
+        {
+          "word": "സ്ത്രീ",
+          "start_offset": 283,
+          "end_offset": 294,
+          "start": 11.32,
+          "end": 11.76
+        },
+        {
+          "word": "സന്തോഷം,",
+          "start_offset": 340,
+          "end_offset": 357,
+          "start": 13.6,
+          "end": 14.280000000000001
+        },
+        {
+          "word": "സന്തോഷം.",
+          "start_offset": 397,
+          "end_offset": 415,
+          "start": 15.88,
+          "end": 16.6
+        },
+        {
+          "word": "വളരെ",
+          "start_offset": 465,
+          "end_offset": 473,
+          "start": 18.6,
+          "end": 18.92
+        },
+        {
+          "word": "സന്തോഷം,",
+          "start_offset": 473,
+          "end_offset": 489,
+          "start": 18.92,
+          "end": 19.56
+        },
+        {
+          "word": "വളരെ",
+          "start_offset": 535,
+          "end_offset": 543,
+          "start": 21.400000000000002,
+          "end": 21.72
+        },
+        {
+          "word": "സന്തോഷം.",
+          "start_offset": 543,
+          "end_offset": 558,
+          "start": 21.72,
+          "end": 22.32
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "start": 159.41,
+      "end": 182.96,
+      "text": "എനിക്ക് കണ്ടതിൽ വളരെ സന്തോഷമായി",
+      "raw_word_timestamps": [
+        {
+          "word": "എനിക്ക്",
+          "start_offset": 515,
+          "end_offset": 519,
+          "start": 20.6,
+          "end": 20.76
+        },
+        {
+          "word": "കണ്ടതിൽ",
+          "start_offset": 525,
+          "end_offset": 538,
+          "start": 21.0,
+          "end": 21.52
+        },
+        {
+          "word": "വളരെ",
+          "start_offset": 538,
+          "end_offset": 543,
+          "start": 21.52,
+          "end": 21.72
+        },
+        {
+          "word": "സന്തോഷമായി",
+          "start_offset": 545,
+          "end_offset": 559,
+          "start": 21.8,
+          "end": 22.36
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "start": 182.96,
+      "end": 205.41,
+      "text": "ആഗ്രഹം ആഗ്രഹം ആഗ്രഹമുണ്ട് ആഗ്രഹമുണ്ട്",
+      "raw_word_timestamps": [
+        {
+          "word": "ആഗ്രഹം",
+          "start_offset": 320,
+          "end_offset": 336,
+          "start": 12.8,
+          "end": 13.44
+        },
+        {
+          "word": "ആഗ്രഹം",
+          "start_offset": 376,
+          "end_offset": 394,
+          "start": 15.040000000000001,
+          "end": 15.76
+        },
+        {
+          "word": "ആഗ്രഹമുണ്ട്",
+          "start_offset": 450,
+          "end_offset": 469,
+          "start": 18.0,
+          "end": 18.76
+        },
+        {
+          "word": "ആഗ്രഹമുണ്ട്",
+          "start_offset": 520,
+          "end_offset": 540,
+          "start": 20.8,
+          "end": 21.6
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "start": 205.41,
+      "end": 229.36,
+      "text": "എനിക്ക് ആഗ്രഹമുണ്ട് ഈ സമയത്ത് വിട്ടുപോകുക വിട്ടുപോയി",
+      "raw_word_timestamps": [
+        {
+          "word": "എനിക്ക്",
+          "start_offset": 113,
+          "end_offset": 117,
+          "start": 4.5200000000000005,
+          "end": 4.68
+        },
+        {
+          "word": "ആഗ്രഹമുണ്ട്",
+          "start_offset": 125,
+          "end_offset": 143,
+          "start": 5.0,
+          "end": 5.72
+        },
+        {
+          "word": "ഈ",
+          "start_offset": 274,
+          "end_offset": 278,
+          "start": 10.96,
+          "end": 11.120000000000001
+        },
+        {
+          "word": "സമയത്ത്",
+          "start_offset": 282,
+          "end_offset": 294,
+          "start": 11.28,
+          "end": 11.76
+        },
+        {
+          "word": "വിട്ടുപോകുക",
+          "start_offset": 418,
+          "end_offset": 440,
+          "start": 16.72,
+          "end": 17.6
+        },
+        {
+          "word": "വിട്ടുപോയി",
+          "start_offset": 557,
+          "end_offset": 575,
+          "start": 22.28,
+          "end": 23.0
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "start": 229.36,
+      "end": 252.91,
+      "text": "വിട്ടുപോയ മണിക്കൂർ തൊന്നുക, തോന്നുക, തോന്നി തോന്നി ശരിയായിട്ടുള്ള",
+      "raw_word_timestamps": [
+        {
+          "word": "വിട്ടുപോയ",
+          "start_offset": 104,
+          "end_offset": 123,
+          "start": 4.16,
+          "end": 4.92
+        },
+        {
+          "word": "മണിക്കൂർ",
+          "start_offset": 246,
+          "end_offset": 259,
+          "start": 9.84,
+          "end": 10.36
+        },
+        {
+          "word": "തൊന്നുക,",
+          "start_offset": 314,
+          "end_offset": 327,
+          "start": 12.56,
+          "end": 13.08
+        },
+        {
+          "word": "തോന്നുക,",
+          "start_offset": 376,
+          "end_offset": 390,
+          "start": 15.040000000000001,
+          "end": 15.6
+        },
+        {
+          "word": "തോന്നി",
+          "start_offset": 433,
+          "end_offset": 446,
+          "start": 17.32,
+          "end": 17.84
+        },
+        {
+          "word": "തോന്നി",
+          "start_offset": 481,
+          "end_offset": 494,
+          "start": 19.240000000000002,
+          "end": 19.76
+        },
+        {
+          "word": "ശരിയായിട്ടുള്ള",
+          "start_offset": 536,
+          "end_offset": 560,
+          "start": 21.44,
+          "end": 22.400000000000002
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "start": 252.91,
+      "end": 274.071375,
+      "text": "ശരിയായിട്ടുള്ള പിന്നെയാകട്ടെ അത് പിന്നെ അത് പിന്നെ ആകട്ടെ ബസ്സിനടുത്തേക്ക് ബസ് നടുത്തേക്ക്.",
+      "raw_word_timestamps": [
+        {
+          "word": "ശരിയായിട്ടുള്ള",
+          "start_offset": 24,
+          "end_offset": 47,
+          "start": 0.96,
+          "end": 1.8800000000000001
+        },
+        {
+          "word": "പിന്നെയാകട്ടെ",
+          "start_offset": 103,
+          "end_offset": 124,
+          "start": 4.12,
+          "end": 4.96
+        },
+        {
+          "word": "അത്",
+          "start_offset": 245,
+          "end_offset": 249,
+          "start": 9.8,
+          "end": 9.96
+        },
+        {
+          "word": "പിന്നെ",
+          "start_offset": 251,
+          "end_offset": 253,
+          "start": 10.040000000000001,
+          "end": 10.120000000000001
+        },
+        {
+          "word": "അത്",
+          "start_offset": 321,
+          "end_offset": 325,
+          "start": 12.84,
+          "end": 13.0
+        },
+        {
+          "word": "പിന്നെ",
+          "start_offset": 327,
+          "end_offset": 330,
+          "start": 13.08,
+          "end": 13.200000000000001
+        },
+        {
+          "word": "ആകട്ടെ",
+          "start_offset": 334,
+          "end_offset": 348,
+          "start": 13.36,
+          "end": 13.92
+        },
+        {
+          "word": "ബസ്സിനടുത്തേക്ക്",
+          "start_offset": 398,
+          "end_offset": 421,
+          "start": 15.92,
+          "end": 16.84
+        },
+        {
+          "word": "ബസ്",
+          "start_offset": 470,
+          "end_offset": 475,
+          "start": 18.8,
+          "end": 19.0
+        },
+        {
+          "word": "നടുത്തേക്ക്.",
+          "start_offset": 478,
+          "end_offset": 492,
+          "start": 19.12,
+          "end": 19.68
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "word": "മൊക്കാബുലറി",
+      "start": 46.94,
+      "end": 47.58,
+      "section_start": 2.48,
+      "section_end": 3.12,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പ്രാക്ടീസ്",
+      "start": 47.66,
+      "end": 48.18,
+      "section_start": 3.2,
+      "section_end": 3.72,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "റിപ്പീറ്റ്",
+      "start": 49.9,
+      "end": 50.34,
+      "section_start": 5.44,
+      "section_end": 5.88,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഈച്ച്",
+      "start": 50.34,
+      "end": 50.54,
+      "section_start": 5.88,
+      "section_end": 6.08,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഐഡം",
+      "start": 50.58,
+      "end": 50.94,
+      "section_start": 6.12,
+      "section_end": 6.48,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ആഫ്റ്റർ",
+      "start": 51.34,
+      "end": 51.62,
+      "section_start": 6.88,
+      "section_end": 7.16,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ദി",
+      "start": 51.62,
+      "end": 51.74,
+      "section_start": 7.16,
+      "section_end": 7.28,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സ്പീക്കർ.",
+      "start": 51.78,
+      "end": 52.34,
+      "section_start": 7.32,
+      "section_end": 7.88,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഈച്ച്",
+      "start": 53.06,
+      "end": 53.34,
+      "section_start": 8.6,
+      "section_end": 8.88,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഐഡം",
+      "start": 53.58,
+      "end": 53.86,
+      "section_start": 9.12,
+      "section_end": 9.4,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഈസ്",
+      "start": 53.98,
+      "end": 54.18,
+      "section_start": 9.52,
+      "section_end": 9.72,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഗിവിൻ",
+      "start": 54.18,
+      "end": 54.46,
+      "section_start": 9.72,
+      "section_end": 10.0,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ടു",
+      "start": 54.5,
+      "end": 54.62,
+      "section_start": 10.04,
+      "section_end": 10.16,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ആസ്.",
+      "start": 54.7,
+      "end": 54.98,
+      "section_start": 10.24,
+      "section_end": 10.52,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "റെഡി.",
+      "start": 55.78,
+      "end": 56.06,
+      "section_start": 11.32,
+      "section_end": 11.6,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ലിസൺ",
+      "start": 56.5,
+      "end": 56.82,
+      "section_start": 12.04,
+      "section_end": 12.36,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ആൻഡ്",
+      "start": 56.9,
+      "end": 57.06,
+      "section_start": 12.44,
+      "section_end": 12.6,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "റിപ്പീറ്റ്.",
+      "start": 57.1,
+      "end": 57.62,
+      "section_start": 12.64,
+      "section_end": 13.16,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ബസ്",
+      "start": 61.82,
+      "end": 62.02,
+      "section_start": 17.36,
+      "section_end": 17.56,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സ്റ്റാൻഡിലെ",
+      "start": 62.02,
+      "end": 62.62,
+      "section_start": 17.56,
+      "section_end": 18.16,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "മറുഗീസ്.",
+      "start": 67.3,
+      "end": 67.9,
+      "section_start": 22.84,
+      "section_end": 23.44,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ആഹാഹാ,",
+      "start": 70.03,
+      "end": 72.67,
+      "section_start": 25.57,
+      "section_end": 28.21,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കേശവൻ",
+      "start": 74.75,
+      "end": 75.27,
+      "section_start": 30.29,
+      "section_end": 30.81,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "നായർ,",
+      "start": 75.27,
+      "end": 75.67,
+      "section_start": 30.81,
+      "section_end": 31.21,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കേശവൻ",
+      "start": 77.67,
+      "end": 78.23,
+      "section_start": 33.21,
+      "section_end": 33.77,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "നായർ",
+      "start": 78.23,
+      "end": 78.59,
+      "section_start": 33.77,
+      "section_end": 34.13,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അയക്കുക,",
+      "start": 81.59,
+      "end": 82.19,
+      "section_start": 37.13,
+      "section_end": 37.73,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അയക്കുക.",
+      "start": 84.27,
+      "end": 84.75,
+      "section_start": 39.81,
+      "section_end": 40.29,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "യാത്ര",
+      "start": 90.11,
+      "end": 90.51,
+      "section_start": 45.65,
+      "section_end": 46.05,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അയക്കുക.",
+      "start": 90.51,
+      "end": 91.03,
+      "section_start": 46.05,
+      "section_end": 46.57,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഈയിടെ",
+      "start": 93.48,
+      "end": 93.96,
+      "section_start": 49.02,
+      "section_end": 49.5,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഈയിടെ",
+      "start": 95.96,
+      "end": 96.4,
+      "section_start": 51.5,
+      "section_end": 51.94,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കല്യാണം",
+      "start": 101.16,
+      "end": 101.88,
+      "section_start": 56.7,
+      "section_end": 57.42,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കല്യാണം",
+      "start": 104.52,
+      "end": 105.12,
+      "section_start": 60.06,
+      "section_end": 60.66,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കഴിക്കുക.",
+      "start": 105.12,
+      "end": 105.68,
+      "section_start": 60.66,
+      "section_end": 61.22,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കല്യാണം",
+      "start": 107.96,
+      "end": 108.56,
+      "section_start": 63.5,
+      "section_end": 64.1,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കഴിക്കുക.",
+      "start": 108.56,
+      "end": 109.12,
+      "section_start": 64.1,
+      "section_end": 64.66,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "രണ്ടുപേരും",
+      "start": 113.12,
+      "end": 113.92,
+      "section_start": 68.66,
+      "section_end": 69.46,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കയറുകയറി",
+      "start": 125.25,
+      "end": 131.57,
+      "section_start": 80.79,
+      "section_end": 87.11,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "നിൽക്കുക",
+      "start": 135.89,
+      "end": 136.41,
+      "section_start": 91.43,
+      "section_end": 91.95,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "നിൽക്കുക,",
+      "start": 138.4,
+      "end": 138.96,
+      "section_start": 93.94,
+      "section_end": 94.5,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "നിന്നു",
+      "start": 141.08,
+      "end": 141.56,
+      "section_start": 96.62,
+      "section_end": 97.1,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "നിന്നു.",
+      "start": 143.56,
+      "end": 144.04,
+      "section_start": 99.1,
+      "section_end": 99.58,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സ്ത്രീ",
+      "start": 148.28,
+      "end": 148.72,
+      "section_start": 103.82,
+      "section_end": 104.26,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സന്തോഷം,",
+      "start": 150.56,
+      "end": 151.24,
+      "section_start": 106.1,
+      "section_end": 106.78,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സന്തോഷം.",
+      "start": 152.84,
+      "end": 153.56,
+      "section_start": 108.38,
+      "section_end": 109.1,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വളരെ",
+      "start": 155.56,
+      "end": 155.88,
+      "section_start": 111.1,
+      "section_end": 111.42,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സന്തോഷം,",
+      "start": 155.88,
+      "end": 156.52,
+      "section_start": 111.42,
+      "section_end": 112.06,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വളരെ",
+      "start": 158.36,
+      "end": 158.68,
+      "section_start": 113.9,
+      "section_end": 114.22,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സന്തോഷം.",
+      "start": 158.68,
+      "end": 159.28,
+      "section_start": 114.22,
+      "section_end": 114.82,
+      "chunk": 4,
+      "near_chunk_edge": true
+    },
+    {
+      "word": "എനിക്ക്",
+      "start": 180.01,
+      "end": 180.17,
+      "section_start": 135.55,
+      "section_end": 135.71,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കണ്ടതിൽ",
+      "start": 180.41,
+      "end": 180.93,
+      "section_start": 135.95,
+      "section_end": 136.47,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വളരെ",
+      "start": 180.93,
+      "end": 181.13,
+      "section_start": 136.47,
+      "section_end": 136.67,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സന്തോഷമായി",
+      "start": 181.21,
+      "end": 181.77,
+      "section_start": 136.75,
+      "section_end": 137.31,
+      "chunk": 5,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ആഗ്രഹം",
+      "start": 195.76,
+      "end": 196.4,
+      "section_start": 151.3,
+      "section_end": 151.94,
+      "chunk": 6,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ആഗ്രഹം",
+      "start": 198.0,
+      "end": 198.72,
+      "section_start": 153.54,
+      "section_end": 154.26,
+      "chunk": 6,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ആഗ്രഹമുണ്ട്",
+      "start": 200.96,
+      "end": 201.72,
+      "section_start": 156.5,
+      "section_end": 157.26,
+      "chunk": 6,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ആഗ്രഹമുണ്ട്",
+      "start": 203.76,
+      "end": 204.56,
+      "section_start": 159.3,
+      "section_end": 160.1,
+      "chunk": 6,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "എനിക്ക്",
+      "start": 209.93,
+      "end": 210.09,
+      "section_start": 165.47,
+      "section_end": 165.63,
+      "chunk": 7,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ആഗ്രഹമുണ്ട്",
+      "start": 210.41,
+      "end": 211.13,
+      "section_start": 165.95,
+      "section_end": 166.67,
+      "chunk": 7,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഈ",
+      "start": 216.37,
+      "end": 216.53,
+      "section_start": 171.91,
+      "section_end": 172.07,
+      "chunk": 7,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സമയത്ത്",
+      "start": 216.69,
+      "end": 217.17,
+      "section_start": 172.23,
+      "section_end": 172.71,
+      "chunk": 7,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വിട്ടുപോകുക",
+      "start": 222.13,
+      "end": 223.01,
+      "section_start": 177.67,
+      "section_end": 178.55,
+      "chunk": 7,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വിട്ടുപോയി",
+      "start": 227.69,
+      "end": 228.41,
+      "section_start": 183.23,
+      "section_end": 183.95,
+      "chunk": 7,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വിട്ടുപോയ",
+      "start": 233.52,
+      "end": 234.28,
+      "section_start": 189.06,
+      "section_end": 189.82,
+      "chunk": 8,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "മണിക്കൂർ",
+      "start": 239.2,
+      "end": 239.72,
+      "section_start": 194.74,
+      "section_end": 195.26,
+      "chunk": 8,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "തൊന്നുക,",
+      "start": 241.92,
+      "end": 242.44,
+      "section_start": 197.46,
+      "section_end": 197.98,
+      "chunk": 8,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "തോന്നുക,",
+      "start": 244.4,
+      "end": 244.96,
+      "section_start": 199.94,
+      "section_end": 200.5,
+      "chunk": 8,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "തോന്നി",
+      "start": 246.68,
+      "end": 247.2,
+      "section_start": 202.22,
+      "section_end": 202.74,
+      "chunk": 8,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "തോന്നി",
+      "start": 248.6,
+      "end": 249.12,
+      "section_start": 204.14,
+      "section_end": 204.66,
+      "chunk": 8,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ശരിയായിട്ടുള്ള",
+      "start": 250.8,
+      "end": 251.76,
+      "section_start": 206.34,
+      "section_end": 207.3,
+      "chunk": 8,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ശരിയായിട്ടുള്ള",
+      "start": 253.87,
+      "end": 254.79,
+      "section_start": 209.41,
+      "section_end": 210.33,
+      "chunk": 9,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പിന്നെയാകട്ടെ",
+      "start": 257.03,
+      "end": 257.87,
+      "section_start": 212.57,
+      "section_end": 213.41,
+      "chunk": 9,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അത്",
+      "start": 262.71,
+      "end": 262.87,
+      "section_start": 218.25,
+      "section_end": 218.41,
+      "chunk": 9,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പിന്നെ",
+      "start": 262.95,
+      "end": 263.03,
+      "section_start": 218.49,
+      "section_end": 218.57,
+      "chunk": 9,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അത്",
+      "start": 265.75,
+      "end": 265.91,
+      "section_start": 221.29,
+      "section_end": 221.45,
+      "chunk": 9,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പിന്നെ",
+      "start": 265.99,
+      "end": 266.11,
+      "section_start": 221.53,
+      "section_end": 221.65,
+      "chunk": 9,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ആകട്ടെ",
+      "start": 266.27,
+      "end": 266.83,
+      "section_start": 221.81,
+      "section_end": 222.37,
+      "chunk": 9,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ബസ്സിനടുത്തേക്ക്",
+      "start": 268.83,
+      "end": 269.75,
+      "section_start": 224.37,
+      "section_end": 225.29,
+      "chunk": 9,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ബസ്",
+      "start": 271.71,
+      "end": 271.91,
+      "section_start": 227.25,
+      "section_end": 227.45,
+      "chunk": 9,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "നടുത്തേക്ക്.",
+      "start": 272.03,
+      "end": 272.59,
+      "section_start": 227.57,
+      "section_end": 228.13,
+      "chunk": 9,
+      "near_chunk_edge": false
+    }
+  ],
+  "text": "മൊക്കാബുലറി പ്രാക്ടീസ് റിപ്പീറ്റ് ഈച്ച് ഐഡം ആഫ്റ്റർ ദി സ്പീക്കർ. ഈച്ച് ഐഡം ഈസ് ഗിവിൻ ടു ആസ്. റെഡി. ലിസൺ ആൻഡ് റിപ്പീറ്റ്. ബസ് സ്റ്റാൻഡിലെ മറുഗീസ്. ആഹാഹാ, കേശവൻ നായർ, കേശവൻ നായർ അയക്കുക, അയക്കുക. യാത്ര അയക്കുക. ഈയിടെ ഈയിടെ കല്യാണം കല്യാണം കഴിക്കുക. കല്യാണം കഴിക്കുക. രണ്ടുപേരും കയറുകയറി നിൽക്കുക നിൽക്കുക, നിന്നു നിന്നു. സ്ത്രീ സന്തോഷം, സന്തോഷം. വളരെ സന്തോഷം, വളരെ സന്തോഷം. എനിക്ക് കണ്ടതിൽ വളരെ സന്തോഷമായി ആഗ്രഹം ആഗ്രഹം ആഗ്രഹമുണ്ട് ആഗ്രഹമുണ്ട് എനിക്ക് ആഗ്രഹമുണ്ട് ഈ സമയത്ത് വിട്ടുപോകുക വിട്ടുപോയി വിട്ടുപോയ മണിക്കൂർ തൊന്നുക, തോന്നുക, തോന്നി തോന്നി ശരിയായിട്ടുള്ള ശരിയായിട്ടുള്ള പിന്നെയാകട്ടെ അത് പിന്നെ അത് പിന്നെ ആകട്ടെ ബസ്സിനടുത്തേക്ക് ബസ് നടുത്തേക്ക്."
+}

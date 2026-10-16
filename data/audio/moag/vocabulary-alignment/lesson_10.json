@@ -1,0 +1,1330 @@
+{
+  "pipeline_version": 6,
+  "lesson": 10,
+  "source": "data/audio/moag/lesson_10.mp3",
+  "model": "Whisper large-v3 (32 encoder and 32 decoder layers), MLX",
+  "range_start": 9.68,
+  "range_end": 144.01,
+  "method": "Acoustic cepstrum comparison pairs repeated utterances independently of textbook order; large-v3 word end timestamps matched to pauses, then global spelling assignment against printed vocabulary (order is only a weak tie-breaker). Low-confidence labels require review. Raw recognizer text retained.",
+  "words": [
+    {
+      "utterances": [
+        {
+          "start": 9.6052,
+          "end": 10.3571
+        },
+        {
+          "start": 11.108,
+          "end": 11.8911
+        }
+      ],
+      "raw_texts": [
+        "കേരലമ്",
+        "കേരലമ്"
+      ],
+      "english_segments": [
+        {
+          "start": 9.68,
+          "end": 11.18,
+          "text": " Keralam."
+        },
+        {
+          "start": 11.18,
+          "end": 12.6,
+          "text": " Keralam."
+        }
+      ],
+      "transcript": "കേരളം",
+      "meaning": "Kerala",
+      "textbook_row": 0,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_10_word_001"
+    },
+    {
+      "utterances": [
+        {
+          "start": 12.5345,
+          "end": 13.3455
+        },
+        {
+          "start": 13.8722,
+          "end": 14.712
+        }
+      ],
+      "raw_texts": [
+        "സ്ടേട്",
+        "സ്ടേട്"
+      ],
+      "english_segments": [
+        {
+          "start": 12.6,
+          "end": 13.94,
+          "text": " State."
+        },
+        {
+          "start": 13.94,
+          "end": 15.46,
+          "text": " State."
+        }
+      ],
+      "transcript": "സ്റ്റേറ്റ്",
+      "meaning": "state",
+      "textbook_row": 1,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_10_word_002"
+    },
+    {
+      "utterances": [
+        {
+          "start": 15.3926,
+          "end": 16.185
+        },
+        {
+          "start": 16.97,
+          "end": 17.7528
+        }
+      ],
+      "raw_texts": [
+        "ആഗന്നു",
+        "ആഗന്നു"
+      ],
+      "english_segments": [
+        {
+          "start": 15.46,
+          "end": 17.04,
+          "text": " Aagannu."
+        },
+        {
+          "start": 17.04,
+          "end": 18.96,
+          "text": " Aagannu."
+        }
+      ],
+      "transcript": "ആകുന്നു",
+      "meaning": "present of ആകുക, to be (a literary and formal equivalent of ആണ്)",
+      "textbook_row": 2,
+      "similarity": 0.889,
+      "status": "matched",
+      "id": "lesson_10_word_003"
+    },
+    {
+      "utterances": [
+        {
+          "start": 18.8927,
+          "end": 19.5524
+        },
+        {
+          "start": 20.4865,
+          "end": 21.1922
+        }
+      ],
+      "raw_texts": [
+        "തെക്ക്",
+        "തെക്"
+      ],
+      "english_segments": [
+        {
+          "start": 18.96,
+          "end": 20.56,
+          "text": " Thekku."
+        },
+        {
+          "start": 20.56,
+          "end": 22.32,
+          "text": " Thekku."
+        }
+      ],
+      "transcript": "തെക്ക്",
+      "meaning": "south",
+      "textbook_row": 3,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_10_word_004"
+    },
+    {
+      "utterances": [
+        {
+          "start": 22.2495,
+          "end": 22.9447
+        },
+        {
+          "start": 23.2275,
+          "end": 24.3903
+        }
+      ],
+      "raw_texts": [
+        "തെക്ക്",
+        "തെക്ക്"
+      ],
+      "english_segments": [
+        {
+          "start": 22.32,
+          "end": 23.76,
+          "text": " Thekke."
+        },
+        {
+          "start": 23.76,
+          "end": 25.24,
+          "text": " Thekke."
+        }
+      ],
+      "transcript": "തെക്കേ",
+      "meaning": "southern",
+      "textbook_row": 4,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_10_word_005"
+    },
+    {
+      "utterances": [
+        {
+          "start": 24.8208,
+          "end": 25.9074
+        },
+        {
+          "start": 26.7737,
+          "end": 27.5261
+        }
+      ],
+      "raw_texts": [
+        "ഭാഗമ്",
+        "ഭാഗമ്"
+      ],
+      "english_segments": [
+        {
+          "start": 23.76,
+          "end": 25.24,
+          "text": " Thekke."
+        },
+        {
+          "start": 25.24,
+          "end": 26.86,
+          "text": " Bhaagam."
+        },
+        {
+          "start": 26.86,
+          "end": 28.4,
+          "text": " Bhaagam."
+        }
+      ],
+      "transcript": "ഭാഗം",
+      "meaning": "part",
+      "textbook_row": 5,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_10_word_006"
+    },
+    {
+      "utterances": [
+        {
+          "start": 28.3151,
+          "end": 29.0255
+        },
+        {
+          "start": 29.7685,
+          "end": 30.5423
+        }
+      ],
+      "raw_texts": [
+        "ആളുഗല്",
+        "ആളുഗല്"
+      ],
+      "english_segments": [
+        {
+          "start": 28.4,
+          "end": 29.84,
+          "text": " Aalugala."
+        },
+        {
+          "start": 29.84,
+          "end": 31.84,
+          "text": " people"
+        }
+      ],
+      "transcript": "ആളുകൾ",
+      "meaning": "people (ആൾ - person)",
+      "textbook_row": 6,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_10_word_007"
+    },
+    {
+      "utterances": [
+        {
+          "start": 31.6466,
+          "end": 32.6584
+        },
+        {
+          "start": 33.234,
+          "end": 34.6707
+        }
+      ],
+      "raw_texts": [
+        "താമസ്യക്യുഗാ",
+        "താമസ്യക്യുഗാ"
+      ],
+      "english_segments": [
+        {
+          "start": 31.84,
+          "end": 35.84,
+          "text": " stay"
+        }
+      ],
+      "transcript": "താമസിക്കുക",
+      "meaning": "to live, reside",
+      "textbook_row": 7,
+      "similarity": 0.778,
+      "status": "matched",
+      "id": "lesson_10_word_008"
+    },
+    {
+      "utterances": [
+        {
+          "start": 35.6527,
+          "end": 36.5435
+        },
+        {
+          "start": 37.1902,
+          "end": 38.4264
+        }
+      ],
+      "raw_texts": [
+        "പഡിന്യാര്",
+        "പഡിന്യാര്"
+      ],
+      "english_segments": [
+        {
+          "start": 35.84,
+          "end": 41.84,
+          "text": " boat"
+        }
+      ],
+      "transcript": "പടിഞ്ഞാറ്",
+      "meaning": "west",
+      "textbook_row": 8,
+      "similarity": 0.769,
+      "status": "matched",
+      "id": "lesson_10_word_009"
+    },
+    {
+      "utterances": [
+        {
+          "start": 39.6897,
+          "end": 40.5525
+        },
+        {
+          "start": 41.3808,
+          "end": 42.2971
+        }
+      ],
+      "raw_texts": [
+        "പഡിന്യാര്",
+        "പഡിന്യാര്"
+      ],
+      "english_segments": [
+        {
+          "start": 35.84,
+          "end": 41.84,
+          "text": " boat"
+        },
+        {
+          "start": 41.84,
+          "end": 45.84,
+          "text": " boat"
+        }
+      ],
+      "transcript": "പടിഞ്ഞാറേ",
+      "meaning": "western",
+      "textbook_row": 9,
+      "similarity": 0.714,
+      "status": "matched",
+      "id": "lesson_10_word_010"
+    },
+    {
+      "utterances": [
+        {
+          "start": 43.2694,
+          "end": 43.9905
+        },
+        {
+          "start": 44.8067,
+          "end": 45.4873
+        }
+      ],
+      "raw_texts": [
+        "വഷമ്",
+        "വഷമ്"
+      ],
+      "english_segments": [
+        {
+          "start": 41.84,
+          "end": 45.84,
+          "text": " boat"
+        }
+      ],
+      "transcript": "വശം",
+      "meaning": "side",
+      "textbook_row": 10,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_10_word_011"
+    },
+    {
+      "utterances": [
+        {
+          "start": 46.3324,
+          "end": 46.9685
+        },
+        {
+          "start": 47.9797,
+          "end": 48.5901
+        }
+      ],
+      "raw_texts": [
+        "കഡല്",
+        "കഡല്"
+      ],
+      "english_segments": [
+        {
+          "start": 45.84,
+          "end": 49.84,
+          "text": " sea"
+        }
+      ],
+      "transcript": "കടൽ",
+      "meaning": "sea",
+      "textbook_row": 11,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_10_word_012"
+    },
+    {
+      "utterances": [
+        {
+          "start": 49.4385,
+          "end": 50.4039
+        },
+        {
+          "start": 51.5242,
+          "end": 52.447
+        }
+      ],
+      "raw_texts": [
+        "അരബ്ബികരല്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 45.84,
+          "end": 49.84,
+          "text": " sea"
+        },
+        {
+          "start": 49.84,
+          "end": 53.84,
+          "text": " Arab sea"
+        }
+      ],
+      "transcript": "അറബിക്കടൽ",
+      "meaning": "Arabian sea",
+      "textbook_row": 12,
+      "similarity": 0.857,
+      "status": "matched",
+      "id": "lesson_10_word_013"
+    },
+    {
+      "utterances": [
+        {
+          "start": 53.788,
+          "end": 54.5016
+        },
+        {
+          "start": 55.3724,
+          "end": 56.1207
+        }
+      ],
+      "raw_texts": [
+        "കീരക്",
+        "കീരക്"
+      ],
+      "english_segments": [
+        {
+          "start": 53.84,
+          "end": 57.84,
+          "text": " boat"
+        }
+      ],
+      "transcript": "കിഴക്കേ",
+      "meaning": "eastern",
+      "textbook_row": 14,
+      "similarity": 0.667,
+      "status": "review",
+      "id": "lesson_10_word_014"
+    },
+    {
+      "utterances": [
+        {
+          "start": 56.5877,
+          "end": 57.8122
+        },
+        {
+          "start": 58.9632,
+          "end": 59.7054
+        }
+      ],
+      "raw_texts": [
+        "കീരക്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 53.84,
+          "end": 57.84,
+          "text": " boat"
+        },
+        {
+          "start": 57.84,
+          "end": 67.84,
+          "text": " parbadam sakhiya parbadam"
+        }
+      ],
+      "transcript": "കിഴക്ക്",
+      "meaning": "east",
+      "textbook_row": 13,
+      "similarity": 0.75,
+      "status": "matched",
+      "id": "lesson_10_word_015"
+    },
+    {
+      "utterances": [
+        {
+          "start": 60.8612,
+          "end": 61.6128
+        },
+        {
+          "start": 62.5909,
+          "end": 63.333
+        }
+      ],
+      "raw_texts": [
+        "",
+        "പര്ബദ്ദ്ദ്ദ്"
+      ],
+      "english_segments": [
+        {
+          "start": 57.84,
+          "end": 67.84,
+          "text": " parbadam sakhiya parbadam"
+        }
+      ],
+      "transcript": "പർവ്വതം",
+      "meaning": "mountain, mountain range",
+      "textbook_row": 15,
+      "similarity": 0.667,
+      "status": "review",
+      "id": "lesson_10_word_016"
+    },
+    {
+      "utterances": [
+        {
+          "start": 64.1924,
+          "end": 65.3737
+        },
+        {
+          "start": 66.3628,
+          "end": 67.4926
+        }
+      ],
+      "raw_texts": [
+        "സക്ഷിയർപര്വദ്ദ്",
+        "സക്ഷിയർപര്വദ്ദ്"
+      ],
+      "english_segments": [
+        {
+          "start": 57.84,
+          "end": 67.84,
+          "text": " parbadam sakhiya parbadam"
+        }
+      ],
+      "transcript": "സഹ്യപർവ്വതം",
+      "meaning": "the Sahya mountains",
+      "textbook_row": 16,
+      "similarity": 0.667,
+      "status": "review",
+      "id": "lesson_10_word_017"
+    },
+    {
+      "utterances": [
+        {
+          "start": 68.918,
+          "end": 70.1549
+        },
+        {
+          "start": 71.2175,
+          "end": 72.3867
+        }
+      ],
+      "raw_texts": [
+        "സഥ്രിദ്ദ് ചെയുഗാ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 67.84,
+          "end": 75.84,
+          "text": " sthidi chayuga jilla"
+        }
+      ],
+      "transcript": "സ്ഥിതിചെയ്യുക",
+      "meaning": "to be situated, to be located",
+      "textbook_row": 17,
+      "similarity": 0.857,
+      "status": "matched",
+      "id": "lesson_10_word_018"
+    },
+    {
+      "utterances": [
+        {
+          "start": 73.5517,
+          "end": 74.2744
+        },
+        {
+          "start": 75.0267,
+          "end": 75.7599
+        }
+      ],
+      "raw_texts": [
+        "ജില്ല്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 67.84,
+          "end": 75.84,
+          "text": " sthidi chayuga jilla"
+        }
+      ],
+      "transcript": "ജില്ലകൾ",
+      "meaning": "districts (ജില്ല - district)",
+      "textbook_row": 18,
+      "similarity": 0.75,
+      "status": "matched",
+      "id": "lesson_10_word_019"
+    },
+    {
+      "utterances": [
+        {
+          "start": 76.7298,
+          "end": 77.3267
+        },
+        {
+          "start": 78.3742,
+          "end": 78.9619
+        }
+      ],
+      "raw_texts": [
+        "ഇവാ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 75.84,
+          "end": 82.84,
+          "text": " iva patnam"
+        }
+      ],
+      "transcript": "ഇവ",
+      "meaning": "these",
+      "textbook_row": 22,
+      "similarity": 0.8,
+      "status": "matched",
+      "id": "lesson_10_word_020"
+    },
+    {
+      "utterances": [
+        {
+          "start": 79.9688,
+          "end": 80.7524
+        },
+        {
+          "start": 81.666,
+          "end": 82.438
+        }
+      ],
+      "raw_texts": [
+        "പടനമ്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 75.84,
+          "end": 82.84,
+          "text": " iva patnam"
+        }
+      ],
+      "transcript": "പട്ടണം",
+      "meaning": "city",
+      "textbook_row": 23,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_10_word_021"
+    },
+    {
+      "utterances": [
+        {
+          "start": 83.2809,
+          "end": 84.132
+        },
+        {
+          "start": 85.2101,
+          "end": 85.8718
+        }
+      ],
+      "raw_texts": [
+        "അവാ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 82.84,
+          "end": 104.64,
+          "text": " ava ava talasthanam talasthanam turmukham turmukham madhya madhya vadakku vadakku vadakke"
+        }
+      ],
+      "transcript": "അവ",
+      "meaning": "those",
+      "textbook_row": 24,
+      "similarity": 0.8,
+      "status": "matched",
+      "id": "lesson_10_word_022"
+    },
+    {
+      "utterances": [
+        {
+          "start": 86.9234,
+          "end": 87.9257
+        },
+        {
+          "start": 88.8699,
+          "end": 89.7962
+        }
+      ],
+      "raw_texts": [
+        "തലസ്റാണമ്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 82.84,
+          "end": 104.64,
+          "text": " ava ava talasthanam talasthanam turmukham turmukham madhya madhya vadakku vadakku vadakke"
+        }
+      ],
+      "transcript": "തലസ്ഥാനം",
+      "meaning": "capital",
+      "textbook_row": 25,
+      "similarity": 0.857,
+      "status": "matched",
+      "id": "lesson_10_word_023"
+    },
+    {
+      "utterances": [
+        {
+          "start": 90.6131,
+          "end": 92.4216
+        },
+        {
+          "start": 93.7288,
+          "end": 94.6256
+        }
+      ],
+      "raw_texts": [
+        "",
+        "തുരുമുക്ക്ക്ക്ക്"
+      ],
+      "english_segments": [
+        {
+          "start": 82.84,
+          "end": 104.64,
+          "text": " ava ava talasthanam talasthanam turmukham turmukham madhya madhya vadakku vadakku vadakke"
+        }
+      ],
+      "transcript": "തുറമുഖം",
+      "meaning": "port, harbor",
+      "textbook_row": 26,
+      "similarity": 0.857,
+      "status": "matched",
+      "id": "lesson_10_word_024"
+    },
+    {
+      "utterances": [
+        {
+          "start": 96.195,
+          "end": 96.9423
+        },
+        {
+          "start": 97.6984,
+          "end": 98.6017
+        }
+      ],
+      "raw_texts": [
+        "മധ്യ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 82.84,
+          "end": 104.64,
+          "text": " ava ava talasthanam talasthanam turmukham turmukham madhya madhya vadakku vadakku vadakke"
+        }
+      ],
+      "transcript": "മദ്ധ്യ",
+      "meaning": "middle, center (adjective)",
+      "textbook_row": 27,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_10_word_025"
+    },
+    {
+      "utterances": [
+        {
+          "start": 99.5346,
+          "end": 100.3006
+        },
+        {
+          "start": 101.1941,
+          "end": 101.8873
+        }
+      ],
+      "raw_texts": [
+        "വഡക്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 82.84,
+          "end": 104.64,
+          "text": " ava ava talasthanam talasthanam turmukham turmukham madhya madhya vadakku vadakku vadakke"
+        }
+      ],
+      "transcript": "വടക്ക്",
+      "meaning": "north",
+      "textbook_row": 28,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_10_word_026"
+    },
+    {
+      "utterances": [
+        {
+          "start": 102.2312,
+          "end": 103.6873
+        },
+        {
+          "start": 104.4979,
+          "end": 105.2201
+        }
+      ],
+      "raw_texts": [
+        "",
+        "അറ്റം"
+      ],
+      "english_segments": [
+        {
+          "start": 82.84,
+          "end": 104.64,
+          "text": " ava ava talasthanam talasthanam turmukham turmukham madhya madhya vadakku vadakku vadakke"
+        },
+        {
+          "start": 104.64,
+          "end": 108.64,
+          "text": " Atam"
+        }
+      ],
+      "transcript": "അറ്റം",
+      "meaning": "end",
+      "textbook_row": 30,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_10_word_027"
+    },
+    {
+      "utterances": [
+        {
+          "start": 106.044,
+          "end": 106.7551
+        },
+        {
+          "start": 107.3851,
+          "end": 108.3175
+        }
+      ],
+      "raw_texts": [
+        "",
+        "അറ്റം"
+      ],
+      "english_segments": [
+        {
+          "start": 104.64,
+          "end": 108.64,
+          "text": " Atam"
+        }
+      ],
+      "transcript": "വടക്കേ",
+      "meaning": "northern",
+      "textbook_row": 29,
+      "similarity": 0.57,
+      "status": "review",
+      "id": "lesson_10_word_028"
+    },
+    {
+      "utterances": [
+        {
+          "start": 109.5575,
+          "end": 110.8086
+        },
+        {
+          "start": 111.7544,
+          "end": 113.0389
+        }
+      ],
+      "raw_texts": [
+        "തിരുവനന്ന്ന്ന്ന് പൂരത്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 108.64,
+          "end": 113.64,
+          "text": " Thiruvanandapurthu"
+        }
+      ],
+      "transcript": "തിരുവനന്തപുരത്ത്",
+      "meaning": "in Thiruvananthapuram (Trivandrum) (irregular locative form)",
+      "textbook_row": 31,
+      "similarity": 0.952,
+      "status": "matched",
+      "id": "lesson_10_word_029"
+    },
+    {
+      "utterances": [
+        {
+          "start": 116.018,
+          "end": 116.6576
+        },
+        {
+          "start": 117.3862,
+          "end": 118.311
+        }
+      ],
+      "raw_texts": [
+        "വരെ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 113.64,
+          "end": 118.64,
+          "text": " Vare"
+        }
+      ],
+      "transcript": "വരെ",
+      "meaning": "to, up to (takes nominative)",
+      "textbook_row": 32,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_10_word_030"
+    },
+    {
+      "utterances": [
+        {
+          "start": 119.1886,
+          "end": 120.1145
+        },
+        {
+          "start": 120.9811,
+          "end": 121.9033
+        }
+      ],
+      "raw_texts": [
+        "ഉദ്ദേശം",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 118.64,
+          "end": 122.64,
+          "text": " Uddesham"
+        }
+      ],
+      "transcript": "ഉദ്ദേശം",
+      "meaning": "about, approximate",
+      "textbook_row": 33,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_10_word_031"
+    },
+    {
+      "utterances": [
+        {
+          "start": 122.8291,
+          "end": 123.818
+        },
+        {
+          "start": 124.61,
+          "end": 125.5564
+        }
+      ],
+      "raw_texts": [
+        "മുനൂര്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 122.64,
+          "end": 125.64,
+          "text": " MuuNoor"
+        }
+      ],
+      "transcript": "മുന്നൂറ്",
+      "meaning": "three hundred",
+      "textbook_row": 34,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_10_word_032"
+    },
+    {
+      "utterances": [
+        {
+          "start": 126.6555,
+          "end": 127.4039
+        },
+        {
+          "start": 128.3221,
+          "end": 129.0804
+        }
+      ],
+      "raw_texts": [
+        "എളുപ്പം",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 125.64,
+          "end": 129.64,
+          "text": " Eluppam"
+        }
+      ],
+      "transcript": "എളുപ്പം",
+      "meaning": "easy",
+      "textbook_row": 35,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_10_word_033"
+    },
+    {
+      "utterances": [
+        {
+          "start": 130.327,
+          "end": 131.099
+        },
+        {
+          "start": 132.2209,
+          "end": 133.0429
+        }
+      ],
+      "raw_texts": [
+        "യാത്ര",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 129.64,
+          "end": 133.64,
+          "text": " Yatra"
+        }
+      ],
+      "transcript": "യാത്ര",
+      "meaning": "trip, journey",
+      "textbook_row": 36,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_10_word_034"
+    },
+    {
+      "utterances": [
+        {
+          "start": 133.5687,
+          "end": 134.9066
+        },
+        {
+          "start": 136.2811,
+          "end": 136.9943
+        }
+      ],
+      "raw_texts": [
+        "ട്രെയൿൻ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 133.64,
+          "end": 134.68,
+          "text": " Train."
+        },
+        {
+          "start": 136.38,
+          "end": 136.8,
+          "text": " Train."
+        }
+      ],
+      "transcript": "യാത്ര ചെയ്യുക",
+      "meaning": "to travel",
+      "textbook_row": 39,
+      "similarity": 0.533,
+      "status": "review",
+      "id": "lesson_10_word_035"
+    },
+    {
+      "utterances": [
+        {
+          "start": 137.99,
+          "end": 138.7965
+        },
+        {
+          "start": 140.0431,
+          "end": 140.9603
+        }
+      ],
+      "raw_texts": [
+        "ദിവസം",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 138.18,
+          "end": 138.64,
+          "text": " Divasam."
+        },
+        {
+          "start": 140.14,
+          "end": 140.86,
+          "text": " Divasam."
+        }
+      ],
+      "transcript": "ദിവസം",
+      "meaning": "day",
+      "textbook_row": 38,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_10_word_036"
+    },
+    {
+      "utterances": [
+        {
+          "start": 142.4289,
+          "end": 143.5904
+        }
+      ],
+      "raw_texts": [
+        "അല്ലസിന ടേന"
+      ],
+      "english_segments": [
+        {
+          "start": 142.52,
+          "end": 143.34,
+          "text": " Lesson 10."
+        }
+      ],
+      "transcript": "ട്രെയിൻ",
+      "meaning": "train",
+      "textbook_row": 37,
+      "similarity": 0.667,
+      "status": "review",
+      "id": "lesson_10_word_037"
+    }
+  ],
+  "textbook_vocabulary": [
+    {
+      "malayalam": "കേരളം",
+      "meaning": "Kerala"
+    },
+    {
+      "malayalam": "സ്റ്റേറ്റ്",
+      "meaning": "state"
+    },
+    {
+      "malayalam": "ആകുന്നു",
+      "meaning": "present of ആകുക, to be (a literary and formal equivalent of ആണ്)"
+    },
+    {
+      "malayalam": "തെക്ക്",
+      "meaning": "south"
+    },
+    {
+      "malayalam": "തെക്കേ",
+      "meaning": "southern"
+    },
+    {
+      "malayalam": "ഭാഗം",
+      "meaning": "part"
+    },
+    {
+      "malayalam": "ആളുകൾ",
+      "meaning": "people (ആൾ - person)"
+    },
+    {
+      "malayalam": "താമസിക്കുക",
+      "meaning": "to live, reside"
+    },
+    {
+      "malayalam": "പടിഞ്ഞാറ്",
+      "meaning": "west"
+    },
+    {
+      "malayalam": "പടിഞ്ഞാറേ",
+      "meaning": "western"
+    },
+    {
+      "malayalam": "വശം",
+      "meaning": "side"
+    },
+    {
+      "malayalam": "കടൽ",
+      "meaning": "sea"
+    },
+    {
+      "malayalam": "അറബിക്കടൽ",
+      "meaning": "Arabian sea"
+    },
+    {
+      "malayalam": "കിഴക്ക്",
+      "meaning": "east"
+    },
+    {
+      "malayalam": "കിഴക്കേ",
+      "meaning": "eastern"
+    },
+    {
+      "malayalam": "പർവ്വതം",
+      "meaning": "mountain, mountain range"
+    },
+    {
+      "malayalam": "സഹ്യപർവ്വതം",
+      "meaning": "the Sahya mountains"
+    },
+    {
+      "malayalam": "സ്ഥിതിചെയ്യുക",
+      "meaning": "to be situated, to be located"
+    },
+    {
+      "malayalam": "ജില്ലകൾ",
+      "meaning": "districts (ജില്ല - district)"
+    },
+    {
+      "malayalam": "ഒഴികെ",
+      "meaning": "except for"
+    },
+    {
+      "malayalam": "ബാക്കി",
+      "meaning": "remaining"
+    },
+    {
+      "malayalam": "ഒരുപോലെ",
+      "meaning": "the same"
+    },
+    {
+      "malayalam": "ഇവ",
+      "meaning": "these"
+    },
+    {
+      "malayalam": "പട്ടണം",
+      "meaning": "city"
+    },
+    {
+      "malayalam": "അവ",
+      "meaning": "those"
+    },
+    {
+      "malayalam": "തലസ്ഥാനം",
+      "meaning": "capital"
+    },
+    {
+      "malayalam": "തുറമുഖം",
+      "meaning": "port, harbor"
+    },
+    {
+      "malayalam": "മദ്ധ്യ",
+      "meaning": "middle, center (adjective)"
+    },
+    {
+      "malayalam": "വടക്ക്",
+      "meaning": "north"
+    },
+    {
+      "malayalam": "വടക്കേ",
+      "meaning": "northern"
+    },
+    {
+      "malayalam": "അറ്റം",
+      "meaning": "end"
+    },
+    {
+      "malayalam": "തിരുവനന്തപുരത്ത്",
+      "meaning": "in Thiruvananthapuram (Trivandrum) (irregular locative form)"
+    },
+    {
+      "malayalam": "വരെ",
+      "meaning": "to, up to (takes nominative)"
+    },
+    {
+      "malayalam": "ഉദ്ദേശം",
+      "meaning": "about, approximate"
+    },
+    {
+      "malayalam": "മുന്നൂറ്",
+      "meaning": "three hundred"
+    },
+    {
+      "malayalam": "എളുപ്പം",
+      "meaning": "easy"
+    },
+    {
+      "malayalam": "യാത്ര",
+      "meaning": "trip, journey"
+    },
+    {
+      "malayalam": "ട്രെയിൻ",
+      "meaning": "train"
+    },
+    {
+      "malayalam": "ദിവസം",
+      "meaning": "day"
+    },
+    {
+      "malayalam": "യാത്ര ചെയ്യുക",
+      "meaning": "to travel"
+    }
+  ],
+  "unmatched_textbook_rows": [
+    {
+      "index": 19,
+      "malayalam": "ഒഴികെ",
+      "meaning": "except for"
+    },
+    {
+      "index": 20,
+      "malayalam": "ബാക്കി",
+      "meaning": "remaining"
+    },
+    {
+      "index": 21,
+      "malayalam": "ഒരുപോലെ",
+      "meaning": "the same"
+    }
+  ],
+  "recognition_sha256": "197bce19349cb03ad5ae8cd6ad15ecfb75525433813e352a01ca5f532e2917d5",
+  "boundary_sha256": "c0b9e8e1a8683db414a17111382ece9261fddfb8a4b9b08a4828ae25a7bff07d"
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_04_word_028.mp3",
+    "coreml": "പണം പണം",
+    "tokens": [
+      {
+        "id": 6,
+        "piece": "▁പ",
+        "start": 0.64,
+        "duration": 0.16
+      },
+      {
+        "id": 125,
+        "piece": "ണം",
+        "start": 0.8,
+        "duration": 0.16
+      },
+      {
+        "id": 6,
+        "piece": "▁പ",
+        "start": 2.56,
+        "duration": 0.16
+      },
+      {
+        "id": 125,
+        "piece": "ണം",
+        "start": 2.72,
+        "duration": 0.16
+      }
+    ],
+    "compute_units": "cpu_only",
+    "precision": "float32",
+    "inference_seconds": 0.2044,
+    "nemo": "പണം പണം",
+    "matches_nemo": true
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_04_word_029.mp3",
+    "coreml": "ഒന്ന് ഒന്ന്",
+    "tokens": [
+      {
+        "id": 43,
+        "piece": "▁ഒ",
+        "start": 0.64,
+        "duration": 0.12
+      },
+      {
+        "id": 56,
+        "piece": "ന്ന്",
+        "start": 0.76,
+        "duration": 0.16
+      },
+      {
+        "id": 43,
+        "piece": "▁ഒ",
+        "start": 2.36,
+        "duration": 0.12
+      },
+      {
+        "id": 56,
+        "piece": "ന്ന്",
+        "start": 2.48,
+        "duration": 0.16
+      }
+    ],
+    "compute_units": "cpu_only",
+    "precision": "float32",
+    "inference_seconds": 0.1519,
+    "nemo": "ഒന്ന് ഒന്ന്",
+    "matches_nemo": true
+  }
+]

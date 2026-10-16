@@ -1,0 +1,798 @@
+{
+  "pipeline_version": 6,
+  "lesson": 7,
+  "source": "data/audio/moag/lesson_07.mp3",
+  "model": "Whisper large-v3 (32 encoder and 32 decoder layers), MLX",
+  "range_start": 329.45,
+  "range_end": 422.62,
+  "method": "Acoustic cepstrum comparison pairs repeated utterances independently of textbook order; large-v3 word end timestamps matched to pauses, then global spelling assignment against printed vocabulary (order is only a weak tie-breaker). Low-confidence labels require review. Raw recognizer text retained.",
+  "words": [
+    {
+      "utterances": [
+        {
+          "start": 330.4298,
+          "end": 331.0568
+        },
+        {
+          "start": 332.0841,
+          "end": 332.7385
+        }
+      ],
+      "raw_texts": [
+        "കോല്ലമ്",
+        "കോല്ലമ്"
+      ],
+      "english_segments": [],
+      "transcript": "കൊല്ലം",
+      "meaning": "Kollam, city in Kerala",
+      "textbook_row": 0,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_07_word_001"
+    },
+    {
+      "utterances": [
+        {
+          "start": 333.4855,
+          "end": 334.1044
+        },
+        {
+          "start": 334.934,
+          "end": 335.5762
+        }
+      ],
+      "raw_texts": [
+        "ബസ്",
+        "ബസ്"
+      ],
+      "english_segments": [],
+      "transcript": "ബസ്",
+      "meaning": "Bus",
+      "textbook_row": 1,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_07_word_002"
+    },
+    {
+      "utterances": [
+        {
+          "start": 336.516,
+          "end": 337.2113
+        },
+        {
+          "start": 338.1198,
+          "end": 338.8571
+        }
+      ],
+      "raw_texts": [
+        "എപോള്",
+        "എപോള്"
+      ],
+      "english_segments": [],
+      "transcript": "എപ്പോൾ",
+      "meaning": "when",
+      "textbook_row": 2,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_07_word_003"
+    },
+    {
+      "utterances": [
+        {
+          "start": 339.7083,
+          "end": 340.3976
+        },
+        {
+          "start": 341.1761,
+          "end": 341.8613
+        }
+      ],
+      "raw_texts": [
+        "ക്ടും",
+        "ക്ടും"
+      ],
+      "english_segments": [],
+      "transcript": "കിട്ടും",
+      "meaning": "(dative subject) will get, will find",
+      "textbook_row": 3,
+      "similarity": 0.889,
+      "status": "matched",
+      "id": "lesson_07_word_004"
+    },
+    {
+      "utterances": [
+        {
+          "start": 343.1005,
+          "end": 343.8221
+        },
+        {
+          "start": 344.551,
+          "end": 345.2605
+        }
+      ],
+      "raw_texts": [
+        "കൂര്ച്",
+        "കോര്ച്"
+      ],
+      "english_segments": [],
+      "transcript": "കുറച്ച് കഴിഞ്ഞ്",
+      "meaning": "after a little while",
+      "textbook_row": 4,
+      "similarity": 0.667,
+      "status": "review",
+      "id": "lesson_07_word_005"
+    },
+    {
+      "utterances": [
+        {
+          "start": 346.1031,
+          "end": 346.8701
+        },
+        {
+          "start": 347.8166,
+          "end": 348.5637
+        }
+      ],
+      "raw_texts": [
+        "അഡത്താ",
+        "അഡത്താ"
+      ],
+      "english_segments": [],
+      "transcript": "അടുത്ത",
+      "meaning": "next",
+      "textbook_row": 5,
+      "similarity": 0.75,
+      "status": "matched",
+      "id": "lesson_07_word_006"
+    },
+    {
+      "utterances": [
+        {
+          "start": 349.5562,
+          "end": 350.2209
+        },
+        {
+          "start": 351.2098,
+          "end": 351.9668
+        }
+      ],
+      "raw_texts": [
+        "ഇപോള",
+        ""
+      ],
+      "english_segments": [],
+      "transcript": "ഇപ്പോൾ",
+      "meaning": "now",
+      "textbook_row": 6,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_07_word_007"
+    },
+    {
+      "utterances": [
+        {
+          "start": 353.0127,
+          "end": 354.038
+        },
+        {
+          "start": 355.0699,
+          "end": 356.1765
+        }
+      ],
+      "raw_texts": [
+        "മന്യത്രിയായ്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 352.01,
+          "end": 365.91,
+          "text": " moni yathriyai? moni yathriyai? armani ki? armani ki? bus stand leki? bus stand leki?"
+        }
+      ],
+      "transcript": "മണി എത്രയായി?",
+      "meaning": "what time is it?",
+      "textbook_row": 7,
+      "similarity": 0.737,
+      "status": "matched",
+      "id": "lesson_07_word_008"
+    },
+    {
+      "utterances": [
+        {
+          "start": 357.7375,
+          "end": 358.7848
+        },
+        {
+          "start": 359.7308,
+          "end": 360.6026
+        }
+      ],
+      "raw_texts": [
+        "ആര്മണിക്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 352.01,
+          "end": 365.91,
+          "text": " moni yathriyai? moni yathriyai? armani ki? armani ki? bus stand leki? bus stand leki?"
+        }
+      ],
+      "transcript": "ആറു മണിക്ക്",
+      "meaning": "at 6 o'clock",
+      "textbook_row": 8,
+      "similarity": 0.923,
+      "status": "matched",
+      "id": "lesson_07_word_009"
+    },
+    {
+      "utterances": [
+        {
+          "start": 362.2937,
+          "end": 363.6288
+        },
+        {
+          "start": 364.8518,
+          "end": 366.1039
+        }
+      ],
+      "raw_texts": [
+        "ബസ്ടെണ്ട് ലേക്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 352.01,
+          "end": 365.91,
+          "text": " moni yathriyai? moni yathriyai? armani ki? armani ki? bus stand leki? bus stand leki?"
+        }
+      ],
+      "transcript": "ബസ് സ്റ്റാൻഡിലേക്ക്",
+      "meaning": "to (up to) the bus stand",
+      "textbook_row": 9,
+      "similarity": 0.842,
+      "status": "matched",
+      "id": "lesson_07_word_010"
+    },
+    {
+      "utterances": [
+        {
+          "start": 367.2145,
+          "end": 367.9288
+        },
+        {
+          "start": 368.8634,
+          "end": 369.5961
+        }
+      ],
+      "raw_texts": [
+        "ദൂരം",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 365.91,
+          "end": 367.91,
+          "text": " Dūram"
+        },
+        {
+          "start": 367.91,
+          "end": 369.49,
+          "text": " Dūram"
+        }
+      ],
+      "transcript": "ദൂരം",
+      "meaning": "distance",
+      "textbook_row": 10,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_07_word_011"
+    },
+    {
+      "utterances": [
+        {
+          "start": 370.738,
+          "end": 371.4224
+        },
+        {
+          "start": 372.3994,
+          "end": 373.0888
+        }
+      ],
+      "raw_texts": [
+        "വലിയാ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 369.49,
+          "end": 371.25,
+          "text": " Walia"
+        },
+        {
+          "start": 371.25,
+          "end": 373.01,
+          "text": " Walia"
+        }
+      ],
+      "transcript": "വലിയ",
+      "meaning": "large, big",
+      "textbook_row": 11,
+      "similarity": 0.889,
+      "status": "matched",
+      "id": "lesson_07_word_012"
+    },
+    {
+      "utterances": [
+        {
+          "start": 374.5869,
+          "end": 375.2494
+        },
+        {
+          "start": 376.3585,
+          "end": 377.035
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 373.01,
+          "end": 375.03,
+          "text": " Mail"
+        },
+        {
+          "start": 375.03,
+          "end": 376.87,
+          "text": " Mail"
+        }
+      ],
+      "transcript": "മൈൽ",
+      "meaning": "mile",
+      "textbook_row": 12,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_07_word_013"
+    },
+    {
+      "utterances": [
+        {
+          "start": 378.0523,
+          "end": 379.0129
+        },
+        {
+          "start": 380.2018,
+          "end": 381.1615
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 376.87,
+          "end": 378.87,
+          "text": " Mailai ullu"
+        },
+        {
+          "start": 378.87,
+          "end": 381.41,
+          "text": " Mailai ullu"
+        }
+      ],
+      "transcript": "മൈലേയുള്ളു",
+      "meaning": "just, only a mile",
+      "textbook_row": 13,
+      "similarity": 0.739,
+      "status": "matched",
+      "id": "lesson_07_word_014"
+    },
+    {
+      "utterances": [
+        {
+          "start": 383.3372,
+          "end": 384.0164
+        },
+        {
+          "start": 385.6312,
+          "end": 386.3477
+        }
+      ],
+      "raw_texts": [
+        "മൈലേയുള്ളു",
+        "എങ്ങ്ങ്ങ്ങ്ങ്"
+      ],
+      "english_segments": [
+        {
+          "start": 381.41,
+          "end": 383.79,
+          "text": " Engane"
+        },
+        {
+          "start": 383.79,
+          "end": 386.23,
+          "text": " Engane"
+        }
+      ],
+      "transcript": "എങ്ങനെ",
+      "meaning": "how",
+      "textbook_row": 14,
+      "similarity": 0.814,
+      "status": "matched",
+      "id": "lesson_07_word_015"
+    },
+    {
+      "utterances": [
+        {
+          "start": 387.6153,
+          "end": 389.018
+        },
+        {
+          "start": 390.0976,
+          "end": 391.1322
+        }
+      ],
+      "raw_texts": [
+        "നമുക് പോകാം",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 386.23,
+          "end": 388.97,
+          "text": " Namuk pogaam"
+        },
+        {
+          "start": 388.97,
+          "end": 390.99,
+          "text": " Namuk pogaam"
+        }
+      ],
+      "transcript": "നമുക്ക് പോകാം",
+      "meaning": "let's go",
+      "textbook_row": 15,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_07_word_016"
+    },
+    {
+      "utterances": [
+        {
+          "start": 393.87,
+          "end": 395.1214
+        },
+        {
+          "start": 395.9564,
+          "end": 397.3801
+        }
+      ],
+      "raw_texts": [
+        "നിങ്ങൾക് കാറുണ്ടോ?",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 393.81,
+          "end": 394.85,
+          "text": " Namuk pogaam"
+        },
+        {
+          "start": 394.85,
+          "end": 396.85,
+          "text": " Do you have a car?"
+        },
+        {
+          "start": 396.85,
+          "end": 398.85,
+          "text": " Do you have a car?"
+        }
+      ],
+      "transcript": "നിങ്ങൾക്ക് കാറുണ്ടോ?",
+      "meaning": "do you have a car?",
+      "textbook_row": 16,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_07_word_017"
+    },
+    {
+      "utterances": [
+        {
+          "start": 399.1344,
+          "end": 400.0542
+        },
+        {
+          "start": 400.9681,
+          "end": 401.8727
+        }
+      ],
+      "raw_texts": [
+        "",
+        "വേണമൈങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ�"
+      ],
+      "english_segments": [
+        {
+          "start": 398.85,
+          "end": 400.85,
+          "text": " If you want"
+        },
+        {
+          "start": 400.85,
+          "end": 402.85,
+          "text": " If you want"
+        }
+      ],
+      "transcript": "വേണമെങ്കിൽ",
+      "meaning": "if (you) want",
+      "textbook_row": 17,
+      "similarity": 0.667,
+      "status": "review",
+      "id": "lesson_07_word_018"
+    },
+    {
+      "utterances": [
+        {
+          "start": 402.8766,
+          "end": 403.5744
+        },
+        {
+          "start": 404.3804,
+          "end": 405.0916
+        }
+      ],
+      "raw_texts": [
+        "ടാക്സി",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 402.85,
+          "end": 404.85,
+          "text": " Taxi"
+        }
+      ],
+      "transcript": "ടാക്സി",
+      "meaning": "taxi",
+      "textbook_row": 18,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_07_word_019"
+    },
+    {
+      "utterances": [
+        {
+          "start": 405.8897,
+          "end": 406.6071
+        },
+        {
+          "start": 407.5393,
+          "end": 408.3635
+        }
+      ],
+      "raw_texts": [
+        "വിളിക്കാം",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 404.85,
+          "end": 406.85,
+          "text": " Taxi"
+        },
+        {
+          "start": 406.85,
+          "end": 408.85,
+          "text": " Call"
+        }
+      ],
+      "transcript": "വിളിക്കാം",
+      "meaning": "will call",
+      "textbook_row": 19,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_07_word_020"
+    },
+    {
+      "utterances": [
+        {
+          "start": 409.2933,
+          "end": 410.0694
+        },
+        {
+          "start": 410.8833,
+          "end": 411.5823
+        }
+      ],
+      "raw_texts": [
+        "വേണ്ട",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 408.85,
+          "end": 410.85,
+          "text": " Call"
+        },
+        {
+          "start": 410.85,
+          "end": 412.85,
+          "text": " No"
+        }
+      ],
+      "transcript": "വേണ്ട",
+      "meaning": "no (don't want, not necessary, etc.)",
+      "textbook_row": 20,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_07_word_021"
+    },
+    {
+      "utterances": [
+        {
+          "start": 412.7524,
+          "end": 413.4787
+        },
+        {
+          "start": 414.6457,
+          "end": 415.3866
+        }
+      ],
+      "raw_texts": [
+        "നടന്ന്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 412.85,
+          "end": 414.85,
+          "text": " No"
+        },
+        {
+          "start": 414.85,
+          "end": 416.85,
+          "text": " Walk"
+        }
+      ],
+      "transcript": "നടന്ന്",
+      "meaning": "walking",
+      "textbook_row": 21,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_07_word_022"
+    },
+    {
+      "utterances": [
+        {
+          "start": 416.4902,
+          "end": 417.2021
+        },
+        {
+          "start": 418.2634,
+          "end": 418.9038
+        }
+      ],
+      "raw_texts": [
+        "",
+        "ചെറിയ"
+      ],
+      "english_segments": [
+        {
+          "start": 414.85,
+          "end": 416.85,
+          "text": " Walk"
+        },
+        {
+          "start": 416.85,
+          "end": 418.85,
+          "text": " Walk"
+        }
+      ],
+      "transcript": "ചെറിയ",
+      "meaning": "small, little",
+      "textbook_row": 22,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_07_word_023"
+    }
+  ],
+  "textbook_vocabulary": [
+    {
+      "malayalam": "കൊല്ലം",
+      "meaning": "Kollam, city in Kerala"
+    },
+    {
+      "malayalam": "ബസ്",
+      "meaning": "Bus"
+    },
+    {
+      "malayalam": "എപ്പോൾ",
+      "meaning": "when"
+    },
+    {
+      "malayalam": "കിട്ടും",
+      "meaning": "(dative subject) will get, will find"
+    },
+    {
+      "malayalam": "കുറച്ച് കഴിഞ്ഞ്",
+      "meaning": "after a little while"
+    },
+    {
+      "malayalam": "അടുത്ത",
+      "meaning": "next"
+    },
+    {
+      "malayalam": "ഇപ്പോൾ",
+      "meaning": "now"
+    },
+    {
+      "malayalam": "മണി എത്രയായി?",
+      "meaning": "what time is it?"
+    },
+    {
+      "malayalam": "ആറു മണിക്ക്",
+      "meaning": "at 6 o'clock"
+    },
+    {
+      "malayalam": "ബസ് സ്റ്റാൻഡിലേക്ക്",
+      "meaning": "to (up to) the bus stand"
+    },
+    {
+      "malayalam": "ദൂരം",
+      "meaning": "distance"
+    },
+    {
+      "malayalam": "വലിയ",
+      "meaning": "large, big"
+    },
+    {
+      "malayalam": "മൈൽ",
+      "meaning": "mile"
+    },
+    {
+      "malayalam": "മൈലേയുള്ളു",
+      "meaning": "just, only a mile"
+    },
+    {
+      "malayalam": "എങ്ങനെ",
+      "meaning": "how"
+    },
+    {
+      "malayalam": "നമുക്ക് പോകാം",
+      "meaning": "let's go"
+    },
+    {
+      "malayalam": "നിങ്ങൾക്ക് കാറുണ്ടോ?",
+      "meaning": "do you have a car?"
+    },
+    {
+      "malayalam": "വേണമെങ്കിൽ",
+      "meaning": "if (you) want"
+    },
+    {
+      "malayalam": "ടാക്സി",
+      "meaning": "taxi"
+    },
+    {
+      "malayalam": "വിളിക്കാം",
+      "meaning": "will call"
+    },
+    {
+      "malayalam": "വേണ്ട",
+      "meaning": "no (don't want, not necessary, etc.)"
+    },
+    {
+      "malayalam": "നടന്ന്",
+      "meaning": "walking"
+    },
+    {
+      "malayalam": "ചെറിയ",
+      "meaning": "small, little"
+    }
+  ],
+  "unmatched_textbook_rows": [],
+  "recognition_sha256": "93cb0265b95ec150283d0409a40266bbd3cc7de6b0e6264f9b84d65ce21249f4",
+  "boundary_sha256": "ad04fe99d6bd59c67989bd4ab83d8c5c4cb636e9fcaae04330819e7f13040813"
+}

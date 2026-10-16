@@ -1,0 +1,149 @@
+{
+  "lesson": 15,
+  "model": "Whisper large-v3",
+  "purpose": "English announcements only; Malayalam transliterations are not teaching transcriptions.",
+  "range_start": 45.46,
+  "range_end": 273.47,
+  "segments": [
+    {
+      "start": 45.46,
+      "end": 57.5,
+      "text": " Vocabulary practice. Repeat each item after the speaker. Each item is given twice. Ready? Listen and repeat."
+    },
+    {
+      "start": 57.5,
+      "end": 64.5,
+      "text": " bus stand ile"
+    },
+    {
+      "start": 64.5,
+      "end": 69.5,
+      "text": " marugis"
+    },
+    {
+      "start": 69.5,
+      "end": 73.5,
+      "text": " aha"
+    },
+    {
+      "start": 73.5,
+      "end": 80.5,
+      "text": " k7 nair"
+    },
+    {
+      "start": 80.5,
+      "end": 85.5,
+      "text": " ayak yuga"
+    },
+    {
+      "start": 85.5,
+      "end": 92.5,
+      "text": " yathra ayakyuga"
+    },
+    {
+      "start": 92.5,
+      "end": 97.5,
+      "text": " ee yudha"
+    },
+    {
+      "start": 97.5,
+      "end": 103.5,
+      "text": " kalyanam"
+    },
+    {
+      "start": 103.5,
+      "end": 109.5,
+      "text": " kalyanam kadikyuga"
+    },
+    {
+      "start": 109.5,
+      "end": 121.5,
+      "text": " Two people"
+    },
+    {
+      "start": 122.5,
+      "end": 133.5,
+      "text": " Run"
+    },
+    {
+      "start": 133.5,
+      "end": 154.5,
+      "text": " nilkuga ninnu stri santosham"
+    },
+    {
+      "start": 154.5,
+      "end": 167.5,
+      "text": " very happy"
+    },
+    {
+      "start": 167.5,
+      "end": 183.5,
+      "text": " I am very happy to see you."
+    },
+    {
+      "start": 183.5,
+      "end": 194.5,
+      "text": " samsarikyuga samsarichu"
+    },
+    {
+      "start": 194.5,
+      "end": 205.5,
+      "text": " agraham agraham unda"
+    },
+    {
+      "start": 205.5,
+      "end": 212.5,
+      "text": " I have a desire"
+    },
+    {
+      "start": 212.5,
+      "end": 218.5,
+      "text": " At this time"
+    },
+    {
+      "start": 218.5,
+      "end": 224.5,
+      "text": " I will leave"
+    },
+    {
+      "start": 224.5,
+      "end": 234.5,
+      "text": " I will leave"
+    },
+    {
+      "start": 234.5,
+      "end": 240.5,
+      "text": " Manikkur"
+    },
+    {
+      "start": 240.5,
+      "end": 245.5,
+      "text": " Thonnuka"
+    },
+    {
+      "start": 245.5,
+      "end": 249.5,
+      "text": " Thonni"
+    },
+    {
+      "start": 249.5,
+      "end": 255.5,
+      "text": " Serihaayitulla"
+    },
+    {
+      "start": 255.5,
+      "end": 261.5,
+      "text": " Pinna yaagatte"
+    },
+    {
+      "start": 261.5,
+      "end": 268.5,
+      "text": " Let it happen later"
+    },
+    {
+      "start": 268.5,
+      "end": 273.5,
+      "text": " To walk the bus"
+    }
+  ]
+}

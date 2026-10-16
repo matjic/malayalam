@@ -15,38 +15,47 @@
 </div>
 <!-- /moag-audio -->
 
-| Malayalam | English |
-|---|---|
-| മദ്ധ്യം | middle, in between |
-| വഴി മദ്ധ്യേ | on the way (mainly written) |
-| ഇനിയും | still more, more |
-| സിനിമാശാല | cinema house, movie theater |
-| ഇറക്കം | downhill slope |
-| ഇടത് | left |
-| ഇടത്തോട്ടുള്ള | which is to the left (adjective) |
-| വഴി | way, path, road |
-| വഴിയേ | along the road (colloquial) |
-| ഫർലാംഗ് | furlong (a distance of 1/8th of a mile) |
-| എത്തുക (past tense: എത്തി) | to arrive, to reach |
-| ആകെ | in all, altogether |
-| അല്ലെ? | (tag question, used to make a statement into a rhetorical question, “isn't it right?”) |
-| അറിയാതെ | without knowing |
-| പറഞ്ഞ് പോയതാണ് | just happened to say |
-| ക്ഷമിക്കുക (past tense: ക്ഷമിച്ചു) | to forgive (takes object in the addressive form) |
-| വാസ്തവം | reality |
-| നാല് ഫർലാംഗാണ് ഉള്ളത് | it is 4 furlongs (distance) |
-| കൊച്ച് | little |
-| മിടുക്കി (masculine: മിടുക്കൻ) | smart girl |
-| കളിപ്പിക്കുക (past tense: കളിപ്പിച്ചു) | to fool, to cheat, to deceive |
-| മനഃപൂർവ്വം | intentional |
-| കൊതി | eagerness (literally: greed) |
-| തങ്കമ്മ | a feminine name |
-| <!-- Source: PDF page 311; printed page 254. --> തയ്യാർ | readiness |
-| വലത് | right |
-| തിരിയുക | to turn (intransitive) |
-| ഇല്ലാതെ | without (negative participle of ഉണ്ട്) |
-| വീഴുക | to fall |
-| വീഴാതെ നോക്കണേ! | be careful not to fall down! |
+<!-- moag-vocabulary-words -->
+<div class="lesson-audio">
+<p><strong>Selected vocabulary recording</strong></p>
+<audio data-table-audio-player controls preload="none" aria-label="Lesson 18: select a word in the vocabulary table"></audio>
+<p class="lesson-audio-note">Use the Audio column to hear a word. Recorded variants appear beside their written entry; additional recorded forms are included in the same table. Unconfirmed recordings stay in rows marked “check match” until their word is verified. A dash means no aligned recording yet.</p>
+</div>
+<!-- /moag-vocabulary-words -->
+
+| Malayalam | English | Audio |
+|---|---|---|
+| മദ്ധ്യം | middle, in between | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_001.mp3" data-audio-label="മദ്ധ്യം" aria-label="Play മദ്ധ്യം" title="Play മദ്ധ്യം" aria-pressed="false">▶</button> |
+| വഴി മദ്ധ്യേ | on the way (mainly written) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_002.mp3" data-audio-label="വഴി മദ്ധ്യേ" aria-label="Play വഴി മദ്ധ്യേ" title="Play വഴി മദ്ധ്യേ" aria-pressed="false">▶</button> |
+| ഇനിയും | still more, more | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_003.mp3" data-audio-label="ഇനിയും" aria-label="Play ഇനിയും" title="Play ഇനിയും" aria-pressed="false">▶</button> |
+| സിനിമാശാല | cinema house, movie theater | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_004.mp3" data-audio-label="സിനിമാശാല" aria-label="Play സിനിമാശാല" title="Play സിനിമാശാല" aria-pressed="false">▶</button> |
+| ഇറക്കം | downhill slope | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_005.mp3" data-audio-label="ഇറക്കം" aria-label="Play ഇറക്കം" title="Play ഇറക്കം" aria-pressed="false">▶</button> |
+| ഇടത് | left | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_006.mp3" data-audio-label="ഇടത്" aria-label="Play ഇടത്" title="Play ഇടത്" aria-pressed="false">▶</button> |
+| ഇടത്തോട്ടുള്ള | which is to the left (adjective) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_007.mp3" data-audio-label="ഇടത്തോട്ടുള്ള" aria-label="Play ഇടത്തോട്ടുള്ള" title="Play ഇടത്തോട്ടുള്ള" aria-pressed="false">▶</button> |
+| വഴി | way, path, road | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_008.mp3" data-audio-label="വഴി" aria-label="Play വഴി" title="Play വഴി" aria-pressed="false">▶</button> |
+| വഴിയേ | along the road (colloquial) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_009.mp3" data-audio-label="വഴിയേ" aria-label="Play വഴിയേ" title="Play വഴിയേ" aria-pressed="false">▶</button> |
+| ഫർലാംഗ് | furlong (a distance of 1/8th of a mile) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_010.mp3" data-audio-label="ഫർലാംഗ്" aria-label="Play ഫർലാംഗ്" title="Play ഫർലാംഗ്" aria-pressed="false">▶</button> |
+| എത്തുക (past tense: എത്തി) | to arrive, to reach | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_011.mp3" data-audio-label="എത്തുക" aria-label="Play എത്തുക" title="Play എത്തുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_012.mp3" data-audio-label="എത്തി" aria-label="Play എത്തി" title="Play എത്തി" aria-pressed="false">▶ <span lang="ml">എത്തി</span></button> |
+| ആകെ | in all, altogether | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_013.mp3" data-audio-label="ആകെ" aria-label="Play ആകെ" title="Play ആകെ" aria-pressed="false">▶</button> |
+| അല്ലെ? | (tag question, used to make a statement into a rhetorical question, “isn't it right?”) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_014.mp3" data-audio-label="അല്ലെ?" aria-label="Play അല്ലെ?" title="Play അല്ലെ?" aria-pressed="false">▶</button> |
+| അറിയാതെ | without knowing | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_015.mp3" data-audio-label="അറിയാതെ" aria-label="Play അറിയാതെ" title="Play അറിയാതെ" aria-pressed="false">▶</button> |
+| പറഞ്ഞ് പോയതാണ് | just happened to say | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_016.mp3" data-audio-label="പറഞ്ഞ് പോയതാണ്" aria-label="Play പറഞ്ഞ് പോയതാണ്" title="Play പറഞ്ഞ് പോയതാണ്" aria-pressed="false">▶</button> |
+| ക്ഷമിക്കുക (past tense: ക്ഷമിച്ചു) | to forgive (takes object in the addressive form) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_017.mp3" data-audio-label="ക്ഷമിക്കുക" aria-label="Play ക്ഷമിക്കുക" title="Play ക്ഷമിക്കുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_018.mp3" data-audio-label="ക്ഷമിച്ചു" aria-label="Play ക്ഷമിച്ചു" title="Play ക്ഷമിച്ചു" aria-pressed="false">▶ <span lang="ml">ക്ഷമിച്ചു</span></button> |
+| വാസ്തവം | reality | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_019.mp3" data-audio-label="വാസ്തവം" aria-label="Play വാസ്തവം" title="Play വാസ്തവം" aria-pressed="false">▶</button> |
+| നാല് ഫർലാംഗാണ് ഉള്ളത് | it is 4 furlongs (distance) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_021.mp3" data-audio-label="നാല് ഫർലാംഗാണ് ഉള്ളത്" aria-label="Play നാല് ഫർലാംഗാണ് ഉള്ളത്" title="Play നാല് ഫർലാംഗാണ് ഉള്ളത്" aria-pressed="false">▶</button> |
+| കൊച്ച് | little | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_022.mp3" data-audio-label="കൊച്ച്" aria-label="Play കൊച്ച്" title="Play കൊച്ച്" aria-pressed="false">▶</button> |
+| മിടുക്കി (masculine: മിടുക്കൻ) | smart girl | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_023.mp3" data-audio-label="മിടുക്കി" aria-label="Play മിടുക്കി" title="Play മിടുക്കി" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_024.mp3" data-audio-label="മിടുക്കൻ" aria-label="Play മിടുക്കൻ" title="Play മിടുക്കൻ" aria-pressed="false">▶ <span lang="ml">മിടുക്കൻ</span></button> |
+| കളിപ്പിക്കുക (past tense: കളിപ്പിച്ചു) | to fool, to cheat, to deceive | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_025.mp3" data-audio-label="കളിപ്പിക്കുക" aria-label="Play കളിപ്പിക്കുക" title="Play കളിപ്പിക്കുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_026.mp3" data-audio-label="കളിപ്പിച്ചു" aria-label="Play കളിപ്പിച്ചു" title="Play കളിപ്പിച്ചു" aria-pressed="false">▶ <span lang="ml">കളിപ്പിച്ചു</span></button> |
+| മനഃപൂർവ്വം | intentional | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_027.mp3" data-audio-label="മനഃപൂർവ്വം" aria-label="Play മനഃപൂർവ്വം" title="Play മനഃപൂർവ്വം" aria-pressed="false">▶</button> |
+| കൊതി | eagerness (literally: greed) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_028.mp3" data-audio-label="കൊതി" aria-label="Play കൊതി" title="Play കൊതി" aria-pressed="false">▶</button> |
+| തങ്കമ്മ | a feminine name | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_029.mp3" data-audio-label="തങ്കമ്മ" aria-label="Play തങ്കമ്മ" title="Play തങ്കമ്മ" aria-pressed="false">▶</button> |
+| <!-- Source: PDF page 311; printed page 254. --> തയ്യാർ | readiness | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_030.mp3" data-audio-label="തയ്യാർ" aria-label="Play തയ്യാർ" title="Play തയ്യാർ" aria-pressed="false">▶</button> |
+| വലത് | right | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_031.mp3" data-audio-label="വലത്" aria-label="Play വലത്" title="Play വലത്" aria-pressed="false">▶</button> |
+| തിരിയുക | to turn (intransitive) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_032.mp3" data-audio-label="തിരിയുക" aria-label="Play തിരിയുക" title="Play തിരിയുക" aria-pressed="false">▶</button> |
+| ഇല്ലാതെ | without (negative participle of ഉണ്ട്) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_033.mp3" data-audio-label="ഇല്ലാതെ" aria-label="Play ഇല്ലാതെ" title="Play ഇല്ലാതെ" aria-pressed="false">▶</button> |
+| വീഴുക | to fall | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| വീഴാതെ നോക്കണേ! | be careful not to fall down! | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| <!-- recorded-audio-row --> നാല് ഫർലാംഗാണ് | is four furlongs | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_020.mp3" data-audio-label="നാല് ഫർലാംഗാണ്" aria-label="Play നാല് ഫർലാംഗാണ്" title="Play നാല് ഫർലാംഗാണ്" aria-pressed="false">▶</button> |
 
 <a id="lesson18-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice

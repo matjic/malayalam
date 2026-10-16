@@ -10,6 +10,8 @@ The players below use UT Austin recordings. The complete recordings contain more
 
 Follow the [alphabet table](alphabet.md#alphabet-table-i-the-malayalam-alphabet) while listening. Consonants in the recitation include the inherent vowel: ക is recited as *ka*, rather than an isolated *k*.
 
+Use the [individual letter players](alphabet.md#letter-audio) to replay any vowel or consonant on its own, or listen to a complete row before repeating its letters.
+
 <audio controls preload="none" aria-label="Malayalam alphabet recitation" src="assets/ut-austin/alphabet.mp3"></audio>
 
 Then listen to the vowels alone. Pay attention to both how long a vowel lasts and how it sounds. English approximations can help you begin, but the recording is a better model than an English spelling.

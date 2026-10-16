@@ -1,0 +1,630 @@
+{
+  "method": "Individual letter utterances in source chart order; FFmpeg pause detection at -42 dB, 0.22 seconds, excluding noise shorter than 0.1 seconds. Each cut has 120 ms leading and 150 ms trailing padding. Re-encoded for sample-accurate cuts. Complete row recordings and alphabet recitation retained. Romanization follows the textbook; zha and rra disambiguate the last row.",
+  "source_page": "https://malayalam.la.utexas.edu/resources/pronunciation-the-basics/",
+  "license": "CC BY 4.0; see ../manifest.json for source credits.",
+  "recordings": [
+    {
+      "group": "simple-vowels",
+      "source": "data/ut-austin/assets/571065ff7755-Mal-Vowels-Row-1-Pronunciation.mp3",
+      "path": "docs/assets/ut-austin/letters/simple-vowels.mp3",
+      "sha256": "2f482d77b16288ca72fac22fbf66fb2a3e908b9b3f9260d770adf707e72df0cc"
+    },
+    {
+      "group": "other-vowels",
+      "source": "data/ut-austin/assets/5dfc96156a93-Mal-Vowels-Rows2-3-Pronunciation.mp3",
+      "path": "docs/assets/ut-austin/letters/other-vowels.mp3",
+      "sha256": "71b3ef8150fc5db70f9ec9c8cda19d2be7cdf107d3a40eca0dc0f79cd1b351a0"
+    },
+    {
+      "group": "ka-row",
+      "source": "data/ut-austin/assets/66b449bb683a-Mal-Consonants-Row-1-Pronunciation.mp3",
+      "path": "docs/assets/ut-austin/letters/ka-row.mp3",
+      "sha256": "5de88712d176212a78393b85b6a20466c926e2ccc8a47f3de6f3ad23eb122d03"
+    },
+    {
+      "group": "ca-row",
+      "source": "data/ut-austin/assets/375d8ea00de1-Mal-Consonants-Row-2-Pronunciation.mp3",
+      "path": "docs/assets/ut-austin/letters/ca-row.mp3",
+      "sha256": "d3605a49324f8a614d001b1822f4683bf95f3afc6a05ee91f105a27d6d633c3d"
+    },
+    {
+      "group": "tta-row",
+      "source": "data/ut-austin/assets/f211900719d9-Mal-Consonants-Row-3.mp3",
+      "path": "docs/assets/ut-austin/letters/tta-row.mp3",
+      "sha256": "300a93ca32a00c94326bc02d20931e988fe6a5441b5bc84696fe21cd3ec21f9f"
+    },
+    {
+      "group": "ta-row",
+      "source": "data/ut-austin/assets/90fbbe5af3a9-Mal-Consonants-ta-row.mp3",
+      "path": "docs/assets/ut-austin/letters/ta-row.mp3",
+      "sha256": "3ae20e4e7cd0492c6426e147ce98e2d85820051b6129336f5b11406714a8e2d7"
+    },
+    {
+      "group": "pa-row",
+      "source": "data/ut-austin/assets/eed4fedcdcfe-Mal-Consonants-pa-row.mp3",
+      "path": "docs/assets/ut-austin/letters/pa-row.mp3",
+      "sha256": "4e7f7364f3ae03c778d9c87590edc3b2ccb8ab12150836563d6cfd6e23ccec2f"
+    },
+    {
+      "group": "semivowels",
+      "source": "data/ut-austin/assets/6c8c96e67a93-Mal-Consonants-semivowels.mp3",
+      "path": "docs/assets/ut-austin/letters/semivowels.mp3",
+      "sha256": "bedf3469cb5b9f9b605f0f5cef33908c6f02b2082600b799f9f13b5d79389ab5"
+    },
+    {
+      "group": "sibilants",
+      "source": "data/ut-austin/assets/056a460ad698-Mal-Consonants-sibilants.mp3",
+      "path": "docs/assets/ut-austin/letters/sibilants.mp3",
+      "sha256": "097e2c02e0f81de55c5a21c44028a8f7d6e50fc6e56ca9c26ec7c0703c0602e7"
+    },
+    {
+      "group": "special-consonants",
+      "source": "data/ut-austin/assets/7fd7e07874a4-Mal-Consonants-Tamil-row.mp3",
+      "path": "docs/assets/ut-austin/letters/special-consonants.mp3",
+      "sha256": "b99dde8d1275ac25cac35df6d412062534208bb867fd5ba2a00b8d975ea7da13"
+    }
+  ],
+  "clips": [
+    {
+      "symbol": "അ",
+      "romanization": "a",
+      "group": "simple-vowels",
+      "source": "data/ut-austin/assets/571065ff7755-Mal-Vowels-Row-1-Pronunciation.mp3",
+      "source_sha256": "2f482d77b16288ca72fac22fbf66fb2a3e908b9b3f9260d770adf707e72df0cc",
+      "start": 0.9032,
+      "end": 1.5418,
+      "path": "docs/assets/ut-austin/letters/simple-vowels-01.mp3",
+      "sha256": "32805f2268093c74363a0f19116cceb4e93ae4521f6b73d62f75d8b034212060"
+    },
+    {
+      "symbol": "ആ",
+      "romanization": "aa",
+      "group": "simple-vowels",
+      "source": "data/ut-austin/assets/571065ff7755-Mal-Vowels-Row-1-Pronunciation.mp3",
+      "source_sha256": "2f482d77b16288ca72fac22fbf66fb2a3e908b9b3f9260d770adf707e72df0cc",
+      "start": 1.7864,
+      "end": 2.4782,
+      "path": "docs/assets/ut-austin/letters/simple-vowels-02.mp3",
+      "sha256": "c9addcd1d9069dee3299d1371fc3bd68d5892a058a3a69e8fe87c80621f74b0e"
+    },
+    {
+      "symbol": "ഇ",
+      "romanization": "i",
+      "group": "simple-vowels",
+      "source": "data/ut-austin/assets/571065ff7755-Mal-Vowels-Row-1-Pronunciation.mp3",
+      "source_sha256": "2f482d77b16288ca72fac22fbf66fb2a3e908b9b3f9260d770adf707e72df0cc",
+      "start": 3.0547,
+      "end": 3.6058,
+      "path": "docs/assets/ut-austin/letters/simple-vowels-03.mp3",
+      "sha256": "984ad4e3d53f46b3218893e697be24d3a04cf1fdbfe21a087137a6ab22d10efc"
+    },
+    {
+      "symbol": "ഈ",
+      "romanization": "ii",
+      "group": "simple-vowels",
+      "source": "data/ut-austin/assets/571065ff7755-Mal-Vowels-Row-1-Pronunciation.mp3",
+      "source_sha256": "2f482d77b16288ca72fac22fbf66fb2a3e908b9b3f9260d770adf707e72df0cc",
+      "start": 3.9139,
+      "end": 4.6281,
+      "path": "docs/assets/ut-austin/letters/simple-vowels-04.mp3",
+      "sha256": "fad1c821ab2c560f0ecb4c9266d88d2c386c70c75c0fbe8a6c627b10c35b9393"
+    },
+    {
+      "symbol": "ഉ",
+      "romanization": "u",
+      "group": "simple-vowels",
+      "source": "data/ut-austin/assets/571065ff7755-Mal-Vowels-Row-1-Pronunciation.mp3",
+      "source_sha256": "2f482d77b16288ca72fac22fbf66fb2a3e908b9b3f9260d770adf707e72df0cc",
+      "start": 4.9999,
+      "end": 5.641,
+      "path": "docs/assets/ut-austin/letters/simple-vowels-05.mp3",
+      "sha256": "ece43c75bcca11d0203a42244aaa883d93418c39ffe22d84bc7e42f881f9e974"
+    },
+    {
+      "symbol": "ഊ",
+      "romanization": "uu",
+      "group": "simple-vowels",
+      "source": "data/ut-austin/assets/571065ff7755-Mal-Vowels-Row-1-Pronunciation.mp3",
+      "source_sha256": "2f482d77b16288ca72fac22fbf66fb2a3e908b9b3f9260d770adf707e72df0cc",
+      "start": 5.7768,
+      "end": 6.5295,
+      "path": "docs/assets/ut-austin/letters/simple-vowels-06.mp3",
+      "sha256": "804260ff4d5a48a8da60ac85a70d4c2e4922782edc2e50c829be24e9d197edc9"
+    },
+    {
+      "symbol": "ഋ",
+      "romanization": "ru",
+      "group": "simple-vowels",
+      "source": "data/ut-austin/assets/571065ff7755-Mal-Vowels-Row-1-Pronunciation.mp3",
+      "source_sha256": "2f482d77b16288ca72fac22fbf66fb2a3e908b9b3f9260d770adf707e72df0cc",
+      "start": 6.7672,
+      "end": 7.3804,
+      "path": "docs/assets/ut-austin/letters/simple-vowels-07.mp3",
+      "sha256": "8f1d50dc404e795ecc3ea3a2a24de0621082a49509db472345f9b0b864c2730c"
+    },
+    {
+      "symbol": "എ",
+      "romanization": "e",
+      "group": "other-vowels",
+      "source": "data/ut-austin/assets/5dfc96156a93-Mal-Vowels-Rows2-3-Pronunciation.mp3",
+      "source_sha256": "71b3ef8150fc5db70f9ec9c8cda19d2be7cdf107d3a40eca0dc0f79cd1b351a0",
+      "start": 0.7203,
+      "end": 1.2313,
+      "path": "docs/assets/ut-austin/letters/other-vowels-01.mp3",
+      "sha256": "d5b5402b9185bdb1523f0f2b3d92a706645a48e43e3a3572a0ddd13908fbcb38"
+    },
+    {
+      "symbol": "ഏ",
+      "romanization": "ee",
+      "group": "other-vowels",
+      "source": "data/ut-austin/assets/5dfc96156a93-Mal-Vowels-Rows2-3-Pronunciation.mp3",
+      "source_sha256": "71b3ef8150fc5db70f9ec9c8cda19d2be7cdf107d3a40eca0dc0f79cd1b351a0",
+      "start": 1.6111,
+      "end": 2.258,
+      "path": "docs/assets/ut-austin/letters/other-vowels-02.mp3",
+      "sha256": "672092e8a6519c5d3c411bb63cf0d02e27e398432832c0557022fb2f84238a8b"
+    },
+    {
+      "symbol": "ഐ",
+      "romanization": "ai",
+      "group": "other-vowels",
+      "source": "data/ut-austin/assets/5dfc96156a93-Mal-Vowels-Rows2-3-Pronunciation.mp3",
+      "source_sha256": "71b3ef8150fc5db70f9ec9c8cda19d2be7cdf107d3a40eca0dc0f79cd1b351a0",
+      "start": 2.6732,
+      "end": 3.3044,
+      "path": "docs/assets/ut-austin/letters/other-vowels-03.mp3",
+      "sha256": "f58648eb5f2f105e3c4a964acc3100bc70bd1945d5b096622f48d01f2f003825"
+    },
+    {
+      "symbol": "ഒ",
+      "romanization": "o",
+      "group": "other-vowels",
+      "source": "data/ut-austin/assets/5dfc96156a93-Mal-Vowels-Rows2-3-Pronunciation.mp3",
+      "source_sha256": "71b3ef8150fc5db70f9ec9c8cda19d2be7cdf107d3a40eca0dc0f79cd1b351a0",
+      "start": 3.8392,
+      "end": 4.4582,
+      "path": "docs/assets/ut-austin/letters/other-vowels-04.mp3",
+      "sha256": "f17dc649046d7bd4c433ada1c0ba734752a25632caceaf74c4dff69cf788ec0f"
+    },
+    {
+      "symbol": "ഓ",
+      "romanization": "oo",
+      "group": "other-vowels",
+      "source": "data/ut-austin/assets/5dfc96156a93-Mal-Vowels-Rows2-3-Pronunciation.mp3",
+      "source_sha256": "71b3ef8150fc5db70f9ec9c8cda19d2be7cdf107d3a40eca0dc0f79cd1b351a0",
+      "start": 4.6804,
+      "end": 5.3801,
+      "path": "docs/assets/ut-austin/letters/other-vowels-05.mp3",
+      "sha256": "1b0148ec537afbfec3705e31e8b9852c03255cb3fbcf67914fdfb6706675bdda"
+    },
+    {
+      "symbol": "ഔ",
+      "romanization": "au",
+      "group": "other-vowels",
+      "source": "data/ut-austin/assets/5dfc96156a93-Mal-Vowels-Rows2-3-Pronunciation.mp3",
+      "source_sha256": "71b3ef8150fc5db70f9ec9c8cda19d2be7cdf107d3a40eca0dc0f79cd1b351a0",
+      "start": 5.4939,
+      "end": 6.1466,
+      "path": "docs/assets/ut-austin/letters/other-vowels-06.mp3",
+      "sha256": "6ef8c49d648108cafdbee0f055362e33968474ee3af713d70e6eed05bfad2736"
+    },
+    {
+      "symbol": "അം",
+      "romanization": "am",
+      "group": "other-vowels",
+      "source": "data/ut-austin/assets/5dfc96156a93-Mal-Vowels-Rows2-3-Pronunciation.mp3",
+      "source_sha256": "71b3ef8150fc5db70f9ec9c8cda19d2be7cdf107d3a40eca0dc0f79cd1b351a0",
+      "start": 6.8735,
+      "end": 7.5096,
+      "path": "docs/assets/ut-austin/letters/other-vowels-07.mp3",
+      "sha256": "400f5c73a711ed7398904cfd154891d1a5d28773933aebb0a650b801b24dc15a"
+    },
+    {
+      "symbol": "അഃ",
+      "romanization": "aha",
+      "group": "other-vowels",
+      "source": "data/ut-austin/assets/5dfc96156a93-Mal-Vowels-Rows2-3-Pronunciation.mp3",
+      "source_sha256": "71b3ef8150fc5db70f9ec9c8cda19d2be7cdf107d3a40eca0dc0f79cd1b351a0",
+      "start": 7.8219,
+      "end": 8.441,
+      "path": "docs/assets/ut-austin/letters/other-vowels-08.mp3",
+      "sha256": "091d5559b836843dadaddca77ead1113e3528cfe6311215d7df7d84bac2012ab"
+    },
+    {
+      "symbol": "ക",
+      "romanization": "ka",
+      "group": "ka-row",
+      "source": "data/ut-austin/assets/66b449bb683a-Mal-Consonants-Row-1-Pronunciation.mp3",
+      "source_sha256": "5de88712d176212a78393b85b6a20466c926e2ccc8a47f3de6f3ad23eb122d03",
+      "start": 1.2022,
+      "end": 1.7961,
+      "path": "docs/assets/ut-austin/letters/ka-row-01.mp3",
+      "sha256": "9951eff555064e31497465366b28d23dbf0d714f3651c7f000db99f498ee913c"
+    },
+    {
+      "symbol": "ഖ",
+      "romanization": "kha",
+      "group": "ka-row",
+      "source": "data/ut-austin/assets/66b449bb683a-Mal-Consonants-Row-1-Pronunciation.mp3",
+      "source_sha256": "5de88712d176212a78393b85b6a20466c926e2ccc8a47f3de6f3ad23eb122d03",
+      "start": 2.0878,
+      "end": 2.6828,
+      "path": "docs/assets/ut-austin/letters/ka-row-02.mp3",
+      "sha256": "b6a462831dfd2c724bd7fa8995af564b0b55504f7649fffd3fe6ddd7ed656a39"
+    },
+    {
+      "symbol": "ഗ",
+      "romanization": "ga",
+      "group": "ka-row",
+      "source": "data/ut-austin/assets/66b449bb683a-Mal-Consonants-Row-1-Pronunciation.mp3",
+      "source_sha256": "5de88712d176212a78393b85b6a20466c926e2ccc8a47f3de6f3ad23eb122d03",
+      "start": 3.1013,
+      "end": 3.7627,
+      "path": "docs/assets/ut-austin/letters/ka-row-03.mp3",
+      "sha256": "5eb937394dd03a1f2710c28f6449ad2f2f4e772fc9b1c71707a1d505dfc898c7"
+    },
+    {
+      "symbol": "ഘ",
+      "romanization": "gha",
+      "group": "ka-row",
+      "source": "data/ut-austin/assets/66b449bb683a-Mal-Consonants-Row-1-Pronunciation.mp3",
+      "source_sha256": "5de88712d176212a78393b85b6a20466c926e2ccc8a47f3de6f3ad23eb122d03",
+      "start": 4.0985,
+      "end": 4.7224,
+      "path": "docs/assets/ut-austin/letters/ka-row-04.mp3",
+      "sha256": "896c299064cf0ff17fb7701089e0c74c4c409a8762cd3f24526c43a073ff4ec8"
+    },
+    {
+      "symbol": "ങ",
+      "romanization": "nga",
+      "group": "ka-row",
+      "source": "data/ut-austin/assets/66b449bb683a-Mal-Consonants-Row-1-Pronunciation.mp3",
+      "source_sha256": "5de88712d176212a78393b85b6a20466c926e2ccc8a47f3de6f3ad23eb122d03",
+      "start": 5.0406,
+      "end": 5.6438,
+      "path": "docs/assets/ut-austin/letters/ka-row-05.mp3",
+      "sha256": "19d657608dd6a3c0ac6936e6bd9352596749c00089b8ad6a2d7ebea69a51e3bb"
+    },
+    {
+      "symbol": "ച",
+      "romanization": "ca",
+      "group": "ca-row",
+      "source": "data/ut-austin/assets/375d8ea00de1-Mal-Consonants-Row-2-Pronunciation.mp3",
+      "source_sha256": "d3605a49324f8a614d001b1822f4683bf95f3afc6a05ee91f105a27d6d633c3d",
+      "start": 1.095,
+      "end": 1.7723,
+      "path": "docs/assets/ut-austin/letters/ca-row-01.mp3",
+      "sha256": "3c062b5ef18edcfa90be01d2b9147415ce6b042ab795d9b9b916ecf94596ec35"
+    },
+    {
+      "symbol": "ഛ",
+      "romanization": "cha",
+      "group": "ca-row",
+      "source": "data/ut-austin/assets/375d8ea00de1-Mal-Consonants-Row-2-Pronunciation.mp3",
+      "source_sha256": "d3605a49324f8a614d001b1822f4683bf95f3afc6a05ee91f105a27d6d633c3d",
+      "start": 1.8552,
+      "end": 2.512,
+      "path": "docs/assets/ut-austin/letters/ca-row-02.mp3",
+      "sha256": "60d64b926756b2c61d47381b2d0cf132b99e1111d8978a5a40aa770a378fcda6"
+    },
+    {
+      "symbol": "ജ",
+      "romanization": "ja",
+      "group": "ca-row",
+      "source": "data/ut-austin/assets/375d8ea00de1-Mal-Consonants-Row-2-Pronunciation.mp3",
+      "source_sha256": "d3605a49324f8a614d001b1822f4683bf95f3afc6a05ee91f105a27d6d633c3d",
+      "start": 3.4153,
+      "end": 4.0542,
+      "path": "docs/assets/ut-austin/letters/ca-row-03.mp3",
+      "sha256": "3ca9f743ab2997868cc993e08b9ccc25145fe6d6bb4cd0b2d8e9215eb301f0aa"
+    },
+    {
+      "symbol": "ഝ",
+      "romanization": "jha",
+      "group": "ca-row",
+      "source": "data/ut-austin/assets/375d8ea00de1-Mal-Consonants-Row-2-Pronunciation.mp3",
+      "source_sha256": "d3605a49324f8a614d001b1822f4683bf95f3afc6a05ee91f105a27d6d633c3d",
+      "start": 4.2535,
+      "end": 4.9397,
+      "path": "docs/assets/ut-austin/letters/ca-row-04.mp3",
+      "sha256": "393fc0b92b70915fde0e3a5bf4344fbc01442fd8275c6fee4e088ec73dea905c"
+    },
+    {
+      "symbol": "ഞ",
+      "romanization": "nya",
+      "group": "ca-row",
+      "source": "data/ut-austin/assets/375d8ea00de1-Mal-Consonants-Row-2-Pronunciation.mp3",
+      "source_sha256": "d3605a49324f8a614d001b1822f4683bf95f3afc6a05ee91f105a27d6d633c3d",
+      "start": 5.3237,
+      "end": 5.9726,
+      "path": "docs/assets/ut-austin/letters/ca-row-05.mp3",
+      "sha256": "b44f6f62af35aa459d9faa9a247993ec7ad8209b17ea5256200509d503c44f4f"
+    },
+    {
+      "symbol": "ട",
+      "romanization": "Ta",
+      "group": "tta-row",
+      "source": "data/ut-austin/assets/f211900719d9-Mal-Consonants-Row-3.mp3",
+      "source_sha256": "300a93ca32a00c94326bc02d20931e988fe6a5441b5bc84696fe21cd3ec21f9f",
+      "start": 1.3595,
+      "end": 1.9368,
+      "path": "docs/assets/ut-austin/letters/tta-row-01.mp3",
+      "sha256": "1783050c1d8a10b584338795ab1394fa378da39fe2c8bbc34c742316b3239d20"
+    },
+    {
+      "symbol": "ഠ",
+      "romanization": "Tha",
+      "group": "tta-row",
+      "source": "data/ut-austin/assets/f211900719d9-Mal-Consonants-Row-3.mp3",
+      "source_sha256": "300a93ca32a00c94326bc02d20931e988fe6a5441b5bc84696fe21cd3ec21f9f",
+      "start": 2.2488,
+      "end": 2.8304,
+      "path": "docs/assets/ut-austin/letters/tta-row-02.mp3",
+      "sha256": "a6676167d50b7e33a9eb3c771e43013a5fc1557ac696bdc6cae544393e02ae43"
+    },
+    {
+      "symbol": "ഡ",
+      "romanization": "Da",
+      "group": "tta-row",
+      "source": "data/ut-austin/assets/f211900719d9-Mal-Consonants-Row-3.mp3",
+      "source_sha256": "300a93ca32a00c94326bc02d20931e988fe6a5441b5bc84696fe21cd3ec21f9f",
+      "start": 3.3801,
+      "end": 4.1022,
+      "path": "docs/assets/ut-austin/letters/tta-row-03.mp3",
+      "sha256": "ccbdd5388645177708b5e59e405ede9b749cffca3c8b4eb4a635cb5a621e86b7"
+    },
+    {
+      "symbol": "ഢ",
+      "romanization": "Dha",
+      "group": "tta-row",
+      "source": "data/ut-austin/assets/f211900719d9-Mal-Consonants-Row-3.mp3",
+      "source_sha256": "300a93ca32a00c94326bc02d20931e988fe6a5441b5bc84696fe21cd3ec21f9f",
+      "start": 4.2681,
+      "end": 4.9819,
+      "path": "docs/assets/ut-austin/letters/tta-row-04.mp3",
+      "sha256": "c24f753d1e64b3042577d72acb6f7812b5117972de46c7d1dec7b03ce19be4b3"
+    },
+    {
+      "symbol": "ണ",
+      "romanization": "Na",
+      "group": "tta-row",
+      "source": "data/ut-austin/assets/f211900719d9-Mal-Consonants-Row-3.mp3",
+      "source_sha256": "300a93ca32a00c94326bc02d20931e988fe6a5441b5bc84696fe21cd3ec21f9f",
+      "start": 5.3973,
+      "end": 6.1041,
+      "path": "docs/assets/ut-austin/letters/tta-row-05.mp3",
+      "sha256": "e74904f5e6caaa22364c58bd85f0a4eab5e671faf78e8c91a55efa640d8c2c28"
+    },
+    {
+      "symbol": "ത",
+      "romanization": "ta",
+      "group": "ta-row",
+      "source": "data/ut-austin/assets/90fbbe5af3a9-Mal-Consonants-ta-row.mp3",
+      "source_sha256": "3ae20e4e7cd0492c6426e147ce98e2d85820051b6129336f5b11406714a8e2d7",
+      "start": 0.6403,
+      "end": 1.1771,
+      "path": "docs/assets/ut-austin/letters/ta-row-01.mp3",
+      "sha256": "ed23d97d58c2df230a76db45ae37ebb916a8ad53fc4f6577715653f1e8a017a2"
+    },
+    {
+      "symbol": "ഥ",
+      "romanization": "tha",
+      "group": "ta-row",
+      "source": "data/ut-austin/assets/90fbbe5af3a9-Mal-Consonants-ta-row.mp3",
+      "source_sha256": "3ae20e4e7cd0492c6426e147ce98e2d85820051b6129336f5b11406714a8e2d7",
+      "start": 1.3655,
+      "end": 1.8863,
+      "path": "docs/assets/ut-austin/letters/ta-row-02.mp3",
+      "sha256": "f690f3f402c997a061d8bbead2c37746084b699108bd7b50bb92d75458945132"
+    },
+    {
+      "symbol": "ദ",
+      "romanization": "da",
+      "group": "ta-row",
+      "source": "data/ut-austin/assets/90fbbe5af3a9-Mal-Consonants-ta-row.mp3",
+      "source_sha256": "3ae20e4e7cd0492c6426e147ce98e2d85820051b6129336f5b11406714a8e2d7",
+      "start": 2.4495,
+      "end": 3.0473,
+      "path": "docs/assets/ut-austin/letters/ta-row-03.mp3",
+      "sha256": "e7c7595b5ed34221e6564d5dc074fa24ec37698979a97748161630bcf77b70ce"
+    },
+    {
+      "symbol": "ധ",
+      "romanization": "dha",
+      "group": "ta-row",
+      "source": "data/ut-austin/assets/90fbbe5af3a9-Mal-Consonants-ta-row.mp3",
+      "source_sha256": "3ae20e4e7cd0492c6426e147ce98e2d85820051b6129336f5b11406714a8e2d7",
+      "start": 3.1626,
+      "end": 3.7579,
+      "path": "docs/assets/ut-austin/letters/ta-row-04.mp3",
+      "sha256": "b2dcc77e84bbff5b3be2b5116ea662559ab26c011413ed563e4529a32f6284b3"
+    },
+    {
+      "symbol": "ന",
+      "romanization": "na",
+      "group": "ta-row",
+      "source": "data/ut-austin/assets/90fbbe5af3a9-Mal-Consonants-ta-row.mp3",
+      "source_sha256": "3ae20e4e7cd0492c6426e147ce98e2d85820051b6129336f5b11406714a8e2d7",
+      "start": 4.2338,
+      "end": 4.8092,
+      "path": "docs/assets/ut-austin/letters/ta-row-05.mp3",
+      "sha256": "0a1aba625d1eeda65ee1828c7a3db84227f885e68e9f1198e6e3d97b800a657d"
+    },
+    {
+      "symbol": "പ",
+      "romanization": "pa",
+      "group": "pa-row",
+      "source": "data/ut-austin/assets/eed4fedcdcfe-Mal-Consonants-pa-row.mp3",
+      "source_sha256": "4e7f7364f3ae03c778d9c87590edc3b2ccb8ab12150836563d6cfd6e23ccec2f",
+      "start": 1.0308,
+      "end": 1.6472,
+      "path": "docs/assets/ut-austin/letters/pa-row-01.mp3",
+      "sha256": "e045275385a9c8b09786e65289858e494d3135b910874a195a65e2b52ca29aa8"
+    },
+    {
+      "symbol": "ഫ",
+      "romanization": "pha",
+      "group": "pa-row",
+      "source": "data/ut-austin/assets/eed4fedcdcfe-Mal-Consonants-pa-row.mp3",
+      "source_sha256": "4e7f7364f3ae03c778d9c87590edc3b2ccb8ab12150836563d6cfd6e23ccec2f",
+      "start": 1.8755,
+      "end": 2.5657,
+      "path": "docs/assets/ut-austin/letters/pa-row-02.mp3",
+      "sha256": "17f4051e9c3113b3fc3740265692f1a6b343ff7d34c2180416db696f3ad321c6"
+    },
+    {
+      "symbol": "ബ",
+      "romanization": "ba",
+      "group": "pa-row",
+      "source": "data/ut-austin/assets/eed4fedcdcfe-Mal-Consonants-pa-row.mp3",
+      "source_sha256": "4e7f7364f3ae03c778d9c87590edc3b2ccb8ab12150836563d6cfd6e23ccec2f",
+      "start": 3.0905,
+      "end": 3.7677,
+      "path": "docs/assets/ut-austin/letters/pa-row-03.mp3",
+      "sha256": "cbe10a48c898027ff8e80e24d854939ad69c41f88523ebdb792c77121efbbcdd"
+    },
+    {
+      "symbol": "ഭ",
+      "romanization": "bha",
+      "group": "pa-row",
+      "source": "data/ut-austin/assets/eed4fedcdcfe-Mal-Consonants-pa-row.mp3",
+      "source_sha256": "4e7f7364f3ae03c778d9c87590edc3b2ccb8ab12150836563d6cfd6e23ccec2f",
+      "start": 3.9032,
+      "end": 4.6127,
+      "path": "docs/assets/ut-austin/letters/pa-row-04.mp3",
+      "sha256": "152187841ac45a633cea99563cb32c662cc4c520c92c0ea2e30e57612bb6212b"
+    },
+    {
+      "symbol": "മ",
+      "romanization": "ma",
+      "group": "pa-row",
+      "source": "data/ut-austin/assets/eed4fedcdcfe-Mal-Consonants-pa-row.mp3",
+      "source_sha256": "4e7f7364f3ae03c778d9c87590edc3b2ccb8ab12150836563d6cfd6e23ccec2f",
+      "start": 5.1748,
+      "end": 5.9024,
+      "path": "docs/assets/ut-austin/letters/pa-row-05.mp3",
+      "sha256": "69c161e26ed612ba8880b571ad343c3494185b7561b9cc50422d4e36fc0de61e"
+    },
+    {
+      "symbol": "യ",
+      "romanization": "ya",
+      "group": "semivowels",
+      "source": "data/ut-austin/assets/6c8c96e67a93-Mal-Consonants-semivowels.mp3",
+      "source_sha256": "bedf3469cb5b9f9b605f0f5cef33908c6f02b2082600b799f9f13b5d79389ab5",
+      "start": 1.347,
+      "end": 1.9867,
+      "path": "docs/assets/ut-austin/letters/semivowels-01.mp3",
+      "sha256": "9644b7ca47d25f0d8d249cf81eb9b11851a4e00f734fcc7f79306e9dd0eab923"
+    },
+    {
+      "symbol": "ര",
+      "romanization": "ra",
+      "group": "semivowels",
+      "source": "data/ut-austin/assets/6c8c96e67a93-Mal-Consonants-semivowels.mp3",
+      "source_sha256": "bedf3469cb5b9f9b605f0f5cef33908c6f02b2082600b799f9f13b5d79389ab5",
+      "start": 2.6244,
+      "end": 3.2849,
+      "path": "docs/assets/ut-austin/letters/semivowels-02.mp3",
+      "sha256": "4e328e35fc51009f9b54d5d72e75c53145914232ed356647a105ca8bf7f54f4f"
+    },
+    {
+      "symbol": "ല",
+      "romanization": "la",
+      "group": "semivowels",
+      "source": "data/ut-austin/assets/6c8c96e67a93-Mal-Consonants-semivowels.mp3",
+      "source_sha256": "bedf3469cb5b9f9b605f0f5cef33908c6f02b2082600b799f9f13b5d79389ab5",
+      "start": 4.1397,
+      "end": 4.8439,
+      "path": "docs/assets/ut-austin/letters/semivowels-03.mp3",
+      "sha256": "f4fffc68c2f1f7f3185d54bab74a3768d7fad7b596e92fdff84974001fd24ee3"
+    },
+    {
+      "symbol": "വ",
+      "romanization": "va",
+      "group": "semivowels",
+      "source": "data/ut-austin/assets/6c8c96e67a93-Mal-Consonants-semivowels.mp3",
+      "source_sha256": "bedf3469cb5b9f9b605f0f5cef33908c6f02b2082600b799f9f13b5d79389ab5",
+      "start": 5.5366,
+      "end": 6.1921,
+      "path": "docs/assets/ut-austin/letters/semivowels-04.mp3",
+      "sha256": "0cac2392c01e2b62f0802667b1bf443f2532603d3d4c67dc7b77fe6ad6952254"
+    },
+    {
+      "symbol": "ശ",
+      "romanization": "sha",
+      "group": "sibilants",
+      "source": "data/ut-austin/assets/056a460ad698-Mal-Consonants-sibilants.mp3",
+      "source_sha256": "097e2c02e0f81de55c5a21c44028a8f7d6e50fc6e56ca9c26ec7c0703c0602e7",
+      "start": 1.0242,
+      "end": 1.7413,
+      "path": "docs/assets/ut-austin/letters/sibilants-01.mp3",
+      "sha256": "5c7179b252fbb0349a445c7f7b942aef6f73aeeda544d53a3a33df3f332ec61d"
+    },
+    {
+      "symbol": "ഷ",
+      "romanization": "Sha",
+      "group": "sibilants",
+      "source": "data/ut-austin/assets/056a460ad698-Mal-Consonants-sibilants.mp3",
+      "source_sha256": "097e2c02e0f81de55c5a21c44028a8f7d6e50fc6e56ca9c26ec7c0703c0602e7",
+      "start": 1.9346,
+      "end": 2.6992,
+      "path": "docs/assets/ut-austin/letters/sibilants-02.mp3",
+      "sha256": "a1de4ab90d2332a1ee7198999be08cc2fd524687314bb667f45acb2b7dafbe9e"
+    },
+    {
+      "symbol": "സ",
+      "romanization": "sa",
+      "group": "sibilants",
+      "source": "data/ut-austin/assets/056a460ad698-Mal-Consonants-sibilants.mp3",
+      "source_sha256": "097e2c02e0f81de55c5a21c44028a8f7d6e50fc6e56ca9c26ec7c0703c0602e7",
+      "start": 3.0063,
+      "end": 3.678,
+      "path": "docs/assets/ut-austin/letters/sibilants-03.mp3",
+      "sha256": "89c8eae030dddac3589d84fbc12902387605c4715b772586ac8a1c603e544fc5"
+    },
+    {
+      "symbol": "ഹ",
+      "romanization": "ha",
+      "group": "sibilants",
+      "source": "data/ut-austin/assets/056a460ad698-Mal-Consonants-sibilants.mp3",
+      "source_sha256": "097e2c02e0f81de55c5a21c44028a8f7d6e50fc6e56ca9c26ec7c0703c0602e7",
+      "start": 4.0276,
+      "end": 4.6817,
+      "path": "docs/assets/ut-austin/letters/sibilants-04.mp3",
+      "sha256": "caa720d9c544de2df243497ea8af4663772ad9fcde0e0429b459e666f24a6e33"
+    },
+    {
+      "symbol": "ള",
+      "romanization": "La",
+      "group": "special-consonants",
+      "source": "data/ut-austin/assets/7fd7e07874a4-Mal-Consonants-Tamil-row.mp3",
+      "source_sha256": "b99dde8d1275ac25cac35df6d412062534208bb867fd5ba2a00b8d975ea7da13",
+      "start": 1.8006,
+      "end": 2.4164,
+      "path": "docs/assets/ut-austin/letters/special-consonants-01.mp3",
+      "sha256": "12e795ad2905f7978fdebed18d3cf711a7d0ae47e59806812c1c1ee02180fd46"
+    },
+    {
+      "symbol": "ഴ",
+      "romanization": "zha",
+      "group": "special-consonants",
+      "source": "data/ut-austin/assets/7fd7e07874a4-Mal-Consonants-Tamil-row.mp3",
+      "source_sha256": "b99dde8d1275ac25cac35df6d412062534208bb867fd5ba2a00b8d975ea7da13",
+      "start": 2.8894,
+      "end": 3.59,
+      "path": "docs/assets/ut-austin/letters/special-consonants-02.mp3",
+      "sha256": "13ca4f5b519949fdb55e432c299e7635b548df49b3b0e4ac701eccd63221bf2e"
+    },
+    {
+      "symbol": "റ",
+      "romanization": "rra",
+      "group": "special-consonants",
+      "source": "data/ut-austin/assets/7fd7e07874a4-Mal-Consonants-Tamil-row.mp3",
+      "source_sha256": "b99dde8d1275ac25cac35df6d412062534208bb867fd5ba2a00b8d975ea7da13",
+      "start": 3.9798,
+      "end": 4.6156,
+      "path": "docs/assets/ut-austin/letters/special-consonants-03.mp3",
+      "sha256": "a5e12794084c98c9bf9507228e35126a9ce92c5e1b5237fd56b054a93911756c"
+    }
+  ]
+}

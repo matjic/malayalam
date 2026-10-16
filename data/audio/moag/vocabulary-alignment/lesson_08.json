@@ -1,0 +1,910 @@
+{
+  "pipeline_version": 6,
+  "lesson": 8,
+  "source": "data/audio/moag/lesson_08.mp3",
+  "model": "Whisper large-v3 (32 encoder and 32 decoder layers), MLX",
+  "range_start": 145.75,
+  "range_end": 251.95,
+  "method": "Acoustic cepstrum comparison pairs repeated utterances independently of textbook order; large-v3 word end timestamps matched to pauses, then global spelling assignment against printed vocabulary (order is only a weak tie-breaker). Low-confidence labels require review. Raw recognizer text retained.",
+  "words": [
+    {
+      "utterances": [
+        {
+          "start": 146.9961,
+          "end": 147.5739
+        },
+        {
+          "start": 148.4876,
+          "end": 149.0971
+        }
+      ],
+      "raw_texts": [
+        "ഹേ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 147.09,
+          "end": 147.39,
+          "text": " Hey"
+        },
+        {
+          "start": 147.39,
+          "end": 148.99,
+          "text": " Hey"
+        }
+      ],
+      "transcript": "ഏയ്",
+      "meaning": "hey",
+      "textbook_row": 0,
+      "similarity": 0.76,
+      "status": "matched",
+      "id": "lesson_08_word_001"
+    },
+    {
+      "utterances": [
+        {
+          "start": 149.8669,
+          "end": 150.567
+        },
+        {
+          "start": 151.2876,
+          "end": 151.9974
+        }
+      ],
+      "raw_texts": [
+        "നിനക്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 148.99,
+          "end": 150.39,
+          "text": " Ninaku"
+        },
+        {
+          "start": 150.39,
+          "end": 152.03,
+          "text": " Ninaku"
+        }
+      ],
+      "transcript": "തനിക്ക്",
+      "meaning": "to you (familiar) (equal)",
+      "textbook_row": 1,
+      "similarity": 0.75,
+      "status": "matched",
+      "id": "lesson_08_word_002"
+    },
+    {
+      "utterances": [
+        {
+          "start": 152.7189,
+          "end": 153.4918
+        },
+        {
+          "start": 154.2776,
+          "end": 155.0619
+        }
+      ],
+      "raw_texts": [
+        "രവിയെ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 152.03,
+          "end": 153.21,
+          "text": " Revie"
+        },
+        {
+          "start": 153.21,
+          "end": 154.79,
+          "text": " Revie"
+        },
+        {
+          "start": 154.79,
+          "end": 156.57,
+          "text": " Class"
+        }
+      ],
+      "transcript": "രവിയെ",
+      "meaning": "Ravi (direct object of verb)",
+      "textbook_row": 2,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_08_word_003"
+    },
+    {
+      "utterances": [
+        {
+          "start": 156.0521,
+          "end": 156.8062
+        },
+        {
+          "start": 157.5333,
+          "end": 158.3346
+        }
+      ],
+      "raw_texts": [
+        "ക്ലാസ്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 154.79,
+          "end": 156.57,
+          "text": " Class"
+        },
+        {
+          "start": 156.57,
+          "end": 158.11,
+          "text": " Class"
+        }
+      ],
+      "transcript": "ക്ലാസ്",
+      "meaning": "class",
+      "textbook_row": 3,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_08_word_004"
+    },
+    {
+      "utterances": [
+        {
+          "start": 159.5882,
+          "end": 160.404
+        },
+        {
+          "start": 161.7366,
+          "end": 162.5808
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 158.11,
+          "end": 160.29,
+          "text": " Patikinna"
+        },
+        {
+          "start": 160.29,
+          "end": 162.65,
+          "text": " Patikinna"
+        }
+      ],
+      "transcript": "പഠിക്കുന്ന",
+      "meaning": "who or which studies (adjective)",
+      "textbook_row": 4,
+      "similarity": 0.831,
+      "status": "matched",
+      "id": "lesson_08_word_005"
+    },
+    {
+      "utterances": [
+        {
+          "start": 163.7457,
+          "end": 164.3179
+        },
+        {
+          "start": 165.5806,
+          "end": 166.1658
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 162.65,
+          "end": 164.23,
+          "text": " Inna"
+        },
+        {
+          "start": 164.23,
+          "end": 166.17,
+          "text": " Inna"
+        }
+      ],
+      "transcript": "ഇന്ന്",
+      "meaning": "today",
+      "textbook_row": 6,
+      "similarity": 0.76,
+      "status": "matched",
+      "id": "lesson_08_word_006"
+    },
+    {
+      "utterances": [
+        {
+          "start": 167.0982,
+          "end": 167.8329
+        },
+        {
+          "start": 168.8859,
+          "end": 169.6403
+        }
+      ],
+      "raw_texts": [
+        "കാണനമ്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 166.17,
+          "end": 167.73,
+          "text": " Kananam"
+        },
+        {
+          "start": 167.73,
+          "end": 173.73,
+          "text": " kaananam avanoda"
+        }
+      ],
+      "transcript": "കാണണം",
+      "meaning": "want to see, must see, have to see",
+      "textbook_row": 7,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_08_word_007"
+    },
+    {
+      "utterances": [
+        {
+          "start": 170.7211,
+          "end": 171.4698
+        },
+        {
+          "start": 172.7204,
+          "end": 173.4794
+        }
+      ],
+      "raw_texts": [
+        "അവനോട്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 167.73,
+          "end": 173.73,
+          "text": " kaananam avanoda"
+        }
+      ],
+      "transcript": "അവനോട്",
+      "meaning": "to him (with verbs of telling and asking)",
+      "textbook_row": 8,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_08_word_008"
+    },
+    {
+      "utterances": [
+        {
+          "start": 174.9465,
+          "end": 175.712
+        },
+        {
+          "start": 176.669,
+          "end": 177.4599
+        }
+      ],
+      "raw_texts": [
+        "പെടുക്ക്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 173.73,
+          "end": 178.73,
+          "text": " pettuka"
+        }
+      ],
+      "transcript": "പറ്റുക",
+      "meaning": "to happen",
+      "textbook_row": 9,
+      "similarity": 0.889,
+      "status": "matched",
+      "id": "lesson_08_word_009"
+    },
+    {
+      "utterances": [
+        {
+          "start": 179.6802,
+          "end": 180.5703
+        },
+        {
+          "start": 181.8102,
+          "end": 182.7117
+        }
+      ],
+      "raw_texts": [
+        "അദു പെട്ടുല്ല",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 178.73,
+          "end": 183.73,
+          "text": " athu pettila"
+        }
+      ],
+      "transcript": "അത് പറ്റില്ല",
+      "meaning": "that is impossible",
+      "textbook_row": 10,
+      "similarity": 0.714,
+      "status": "matched",
+      "id": "lesson_08_word_010"
+    },
+    {
+      "utterances": [
+        {
+          "start": 184.65,
+          "end": 185.3332
+        },
+        {
+          "start": 186.5334,
+          "end": 187.241
+        }
+      ],
+      "raw_texts": [
+        "നാളെ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 183.73,
+          "end": 188.73,
+          "text": " naale"
+        }
+      ],
+      "transcript": "നാളെ",
+      "meaning": "tomorrow",
+      "textbook_row": 11,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_08_word_011"
+    },
+    {
+      "utterances": [
+        {
+          "start": 188.2036,
+          "end": 189.0081
+        },
+        {
+          "start": 189.8414,
+          "end": 190.6385
+        }
+      ],
+      "raw_texts": [
+        "പഡീച്ച്",
+        "പഡീച്ച്"
+      ],
+      "english_segments": [
+        {
+          "start": 183.73,
+          "end": 188.73,
+          "text": " naale"
+        },
+        {
+          "start": 188.73,
+          "end": 193.73,
+          "text": " padhiicha"
+        }
+      ],
+      "transcript": "പരീക്ഷ",
+      "meaning": "examination",
+      "textbook_row": 12,
+      "similarity": 0.585,
+      "status": "review",
+      "id": "lesson_08_word_012"
+    },
+    {
+      "utterances": [
+        {
+          "start": 191.6328,
+          "end": 192.4295
+        },
+        {
+          "start": 193.4259,
+          "end": 194.285
+        }
+      ],
+      "raw_texts": [
+        "നല്ലപോളേ",
+        "നല്ലപോളേ"
+      ],
+      "english_segments": [
+        {
+          "start": 188.73,
+          "end": 193.73,
+          "text": " padhiicha"
+        },
+        {
+          "start": 193.73,
+          "end": 198.73,
+          "text": " paripikyuga"
+        }
+      ],
+      "transcript": "നല്ലപോലെ",
+      "meaning": "well, in a good way",
+      "textbook_row": 13,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_08_word_013"
+    },
+    {
+      "utterances": [
+        {
+          "start": 195.6703,
+          "end": 196.62
+        },
+        {
+          "start": 197.4992,
+          "end": 198.4302
+        }
+      ],
+      "raw_texts": [
+        "പടിപിക്കുഗാ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 193.73,
+          "end": 198.73,
+          "text": " paripikyuga"
+        }
+      ],
+      "transcript": "പഠിപ്പിക്കുക",
+      "meaning": "to teach",
+      "textbook_row": 14,
+      "similarity": 0.941,
+      "status": "matched",
+      "id": "lesson_08_word_014"
+    },
+    {
+      "utterances": [
+        {
+          "start": 199.8153,
+          "end": 200.4476
+        },
+        {
+          "start": 201.5156,
+          "end": 202.1775
+        }
+      ],
+      "raw_texts": [
+        "മുമ്ബു",
+        "മുമു"
+      ],
+      "english_segments": [
+        {
+          "start": 198.73,
+          "end": 202.73,
+          "text": " mumbu"
+        }
+      ],
+      "transcript": "മുൻപ്",
+      "meaning": "before (prior to)",
+      "textbook_row": 15,
+      "similarity": 0.667,
+      "status": "review",
+      "id": "lesson_08_word_015"
+    },
+    {
+      "utterances": [
+        {
+          "start": 203.8265,
+          "end": 204.5726
+        },
+        {
+          "start": 205.6687,
+          "end": 206.4836
+        }
+      ],
+      "raw_texts": [
+        "ബാങ്കു",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 202.73,
+          "end": 206.73,
+          "text": " bank"
+        }
+      ],
+      "transcript": "ബാങ്ക്",
+      "meaning": "bank",
+      "textbook_row": 16,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_08_word_016"
+    },
+    {
+      "utterances": [
+        {
+          "start": 207.745,
+          "end": 208.3184
+        },
+        {
+          "start": 209.5604,
+          "end": 210.1384
+        }
+      ],
+      "raw_texts": [
+        "കോരേ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 206.73,
+          "end": 210.73,
+          "text": " kore"
+        }
+      ],
+      "transcript": "കുറെ",
+      "meaning": "a lot",
+      "textbook_row": 17,
+      "similarity": 0.75,
+      "status": "matched",
+      "id": "lesson_08_word_017"
+    },
+    {
+      "utterances": [
+        {
+          "start": 211.5347,
+          "end": 212.3826
+        },
+        {
+          "start": 213.5909,
+          "end": 214.4371
+        }
+      ],
+      "raw_texts": [
+        "എടുകുക്കുക്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 210.73,
+          "end": 214.73,
+          "text": " edukyuga"
+        }
+      ],
+      "transcript": "എടുക്കുക",
+      "meaning": "to take",
+      "textbook_row": 18,
+      "similarity": 0.887,
+      "status": "matched",
+      "id": "lesson_08_word_018"
+    },
+    {
+      "utterances": [
+        {
+          "start": 216.4764,
+          "end": 217.4756
+        },
+        {
+          "start": 218.9791,
+          "end": 219.9689
+        }
+      ],
+      "raw_texts": [
+        "അദുസാരമില്ല",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 214.73,
+          "end": 220.73,
+          "text": " adasaramilla"
+        }
+      ],
+      "transcript": "അത് സാരമില്ല",
+      "meaning": "that's all right, that's no problem",
+      "textbook_row": 19,
+      "similarity": 0.941,
+      "status": "matched",
+      "id": "lesson_08_word_019"
+    },
+    {
+      "utterances": [
+        {
+          "start": 222.4313,
+          "end": 223.4466
+        },
+        {
+          "start": 224.9407,
+          "end": 225.9012
+        }
+      ],
+      "raw_texts": [
+        "വൈകുന്നേരം",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 220.73,
+          "end": 238.73,
+          "text": " vaiganeram paranyal pogate chodikyuga"
+        }
+      ],
+      "transcript": "വൈകുന്നേരം",
+      "meaning": "afternoon, evening, in the afternoon, in the evening",
+      "textbook_row": 20,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_08_word_020"
+    },
+    {
+      "utterances": [
+        {
+          "start": 227.1607,
+          "end": 228.0744
+        },
+        {
+          "start": 229.2266,
+          "end": 230.0478
+        }
+      ],
+      "raw_texts": [
+        "പറഞ്ഞാൽ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 220.73,
+          "end": 238.73,
+          "text": " vaiganeram paranyal pogate chodikyuga"
+        }
+      ],
+      "transcript": "പറഞ്ഞാൽ",
+      "meaning": "if (you) tell",
+      "textbook_row": 21,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_08_word_021"
+    },
+    {
+      "utterances": [
+        {
+          "start": 231.5986,
+          "end": 232.3093
+        },
+        {
+          "start": 233.4797,
+          "end": 234.2065
+        }
+      ],
+      "raw_texts": [
+        "പോകട്ടെ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 220.73,
+          "end": 238.73,
+          "text": " vaiganeram paranyal pogate chodikyuga"
+        }
+      ],
+      "transcript": "പോകട്ടെ",
+      "meaning": "may (I) go, let (me) go (familiar leave taking)",
+      "textbook_row": 22,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_08_word_022"
+    },
+    {
+      "utterances": [
+        {
+          "start": 235.7523,
+          "end": 236.6898
+        },
+        {
+          "start": 237.7088,
+          "end": 238.9156
+        }
+      ],
+      "raw_texts": [
+        "ചോദിക്കുക്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 220.73,
+          "end": 238.73,
+          "text": " vaiganeram paranyal pogate chodikyuga"
+        }
+      ],
+      "transcript": "ചോദിക്കു",
+      "meaning": "ask",
+      "textbook_row": 23,
+      "similarity": 0.923,
+      "status": "matched",
+      "id": "lesson_08_word_023"
+    },
+    {
+      "utterances": [
+        {
+          "start": 240.4687,
+          "end": 241.2359
+        },
+        {
+          "start": 242.3332,
+          "end": 243.1256
+        }
+      ],
+      "raw_texts": [
+        "രാവിലെ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 238.73,
+          "end": 243.03,
+          "text": " Ravile Ravile"
+        }
+      ],
+      "transcript": "രാവിലെ",
+      "meaning": "morning, in the morning",
+      "textbook_row": 24,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_08_word_024"
+    },
+    {
+      "utterances": [
+        {
+          "start": 244.472,
+          "end": 245.2392
+        },
+        {
+          "start": 246.3384,
+          "end": 247.1166
+        }
+      ],
+      "raw_texts": [
+        "രാത്രി",
+        "രാത്രി"
+      ],
+      "english_segments": [
+        {
+          "start": 243.03,
+          "end": 246.97,
+          "text": " Ratri Ratri"
+        }
+      ],
+      "transcript": "രാത്രി",
+      "meaning": "night",
+      "textbook_row": 25,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_08_word_025"
+    }
+  ],
+  "textbook_vocabulary": [
+    {
+      "malayalam": "ഏയ്",
+      "meaning": "hey"
+    },
+    {
+      "malayalam": "തനിക്ക്",
+      "meaning": "to you (familiar) (equal)"
+    },
+    {
+      "malayalam": "രവിയെ",
+      "meaning": "Ravi (direct object of verb)"
+    },
+    {
+      "malayalam": "ക്ലാസ്",
+      "meaning": "class"
+    },
+    {
+      "malayalam": "പഠിക്കുന്ന",
+      "meaning": "who or which studies (adjective)"
+    },
+    {
+      "malayalam": "താൻ",
+      "meaning": "you (familiar) (equal)"
+    },
+    {
+      "malayalam": "ഇന്ന്",
+      "meaning": "today"
+    },
+    {
+      "malayalam": "കാണണം",
+      "meaning": "want to see, must see, have to see"
+    },
+    {
+      "malayalam": "അവനോട്",
+      "meaning": "to him (with verbs of telling and asking)"
+    },
+    {
+      "malayalam": "പറ്റുക",
+      "meaning": "to happen"
+    },
+    {
+      "malayalam": "അത് പറ്റില്ല",
+      "meaning": "that is impossible"
+    },
+    {
+      "malayalam": "നാളെ",
+      "meaning": "tomorrow"
+    },
+    {
+      "malayalam": "പരീക്ഷ",
+      "meaning": "examination"
+    },
+    {
+      "malayalam": "നല്ലപോലെ",
+      "meaning": "well, in a good way"
+    },
+    {
+      "malayalam": "പഠിപ്പിക്കുക",
+      "meaning": "to teach"
+    },
+    {
+      "malayalam": "മുൻപ്",
+      "meaning": "before (prior to)"
+    },
+    {
+      "malayalam": "ബാങ്ക്",
+      "meaning": "bank"
+    },
+    {
+      "malayalam": "കുറെ",
+      "meaning": "a lot"
+    },
+    {
+      "malayalam": "എടുക്കുക",
+      "meaning": "to take"
+    },
+    {
+      "malayalam": "അത് സാരമില്ല",
+      "meaning": "that's all right, that's no problem"
+    },
+    {
+      "malayalam": "വൈകുന്നേരം",
+      "meaning": "afternoon, evening, in the afternoon, in the evening"
+    },
+    {
+      "malayalam": "പറഞ്ഞാൽ",
+      "meaning": "if (you) tell"
+    },
+    {
+      "malayalam": "പോകട്ടെ",
+      "meaning": "may (I) go, let (me) go (familiar leave taking)"
+    },
+    {
+      "malayalam": "ചോദിക്കു",
+      "meaning": "ask"
+    },
+    {
+      "malayalam": "രാവിലെ",
+      "meaning": "morning, in the morning"
+    },
+    {
+      "malayalam": "രാത്രി",
+      "meaning": "night"
+    },
+    {
+      "malayalam": "ഉച്ചക്ക്",
+      "meaning": "at noon"
+    }
+  ],
+  "unmatched_textbook_rows": [
+    {
+      "index": 5,
+      "malayalam": "താൻ",
+      "meaning": "you (familiar) (equal)"
+    },
+    {
+      "index": 26,
+      "malayalam": "ഉച്ചക്ക്",
+      "meaning": "at noon"
+    }
+  ],
+  "recognition_sha256": "0cf5df8c8d2aec91c71bbe4a36c613f0938867a03bc1731cd73a8f005527ba15",
+  "boundary_sha256": "3ac697e626b3dc82833c01c42fe0d97fe7ca5dc8b4a47b8d924bfe424b4e5a2f"
+}

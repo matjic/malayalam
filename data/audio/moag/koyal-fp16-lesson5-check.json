@@ -1,0 +1,88 @@
+[
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_05_word_005.mp3",
+    "coreml": "പഠിക്കുന്നോ?",
+    "tokens": [
+      {
+        "id": 6,
+        "piece": "▁പ",
+        "start": 2.0,
+        "duration": 0.12
+      },
+      {
+        "id": 421,
+        "piece": "ഠ",
+        "start": 2.12,
+        "duration": 0.12
+      },
+      {
+        "id": 201,
+        "piece": "ിക്കുന്ന",
+        "start": 2.24,
+        "duration": 0.16
+      },
+      {
+        "id": 377,
+        "piece": "ോ",
+        "start": 2.52,
+        "duration": 0.12
+      },
+      {
+        "id": 410,
+        "piece": "?",
+        "start": 2.64,
+        "duration": 0.08
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.2831
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_05_word_006.mp3",
+    "coreml": "",
+    "tokens": [],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.2031
+  },
+  {
+    "audio": "docs/assets/audio/moag/words/lesson_05_word_010.mp3",
+    "coreml": "ഇല്ല, ഇല്ല",
+    "tokens": [
+      {
+        "id": 30,
+        "piece": "▁ഇ",
+        "start": 0.16,
+        "duration": 0.12
+      },
+      {
+        "id": 33,
+        "piece": "ല്ല",
+        "start": 0.28,
+        "duration": 0.16
+      },
+      {
+        "id": 393,
+        "piece": ",",
+        "start": 0.52,
+        "duration": 0.16
+      },
+      {
+        "id": 30,
+        "piece": "▁ഇ",
+        "start": 1.96,
+        "duration": 0.16
+      },
+      {
+        "id": 33,
+        "piece": "ല്ല",
+        "start": 2.12,
+        "duration": 0.12
+      }
+    ],
+    "compute_units": "cpu_and_ne",
+    "precision": "float16",
+    "inference_seconds": 0.1969
+  }
+]

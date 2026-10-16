@@ -49,83 +49,94 @@
 </div>
 <!-- /moag-audio -->
 
+<!-- moag-vocabulary-words -->
+<div class="lesson-audio">
+<p><strong>Selected vocabulary recording</strong></p>
+<audio data-table-audio-player controls preload="none" aria-label="Lesson 20: select a word in the vocabulary table"></audio>
+<p class="lesson-audio-note">Use the Audio column to hear a word. Recorded variants appear beside their written entry; additional recorded forms are included in the same table. Unconfirmed recordings stay in rows marked “check match” until their word is verified. A dash means no aligned recording yet.</p>
+</div>
+<!-- /moag-vocabulary-words -->
+
 <a id="lesson20-part-i"></a><!-- reading-anchor -->
 ### Part I
 
-| Malayalam | Meaning |
-|---|---|
-| ഓണം | Onam, Kerala Harvest Festival |
-| വിളവെടുപ്പ് | harvest |
-| ഉൽസവം | festival |
-| രസകരം | that which has interest |
-| രസകരമായ | interesting |
-| പണ്ട് | long ago |
-| ഒരിക്കൽ | one time, once |
-| മഹാബലി | Mahabali, a mythical character |
-| ചക്രവർത്തി | emperor |
-| കാലം | time |
-| ദേവൻ | god |
-| ഇഷ്ടപ്പെടുക | to like |
-| പ്രകാരം | according to (word final -ം of the preceding noun drops when പ്രകാര is added) |
-| കീഴടക്കുക | to subjugate (to hold under) |
-| വിഷ്ണു | one of the three main Hindu gods – the protector |
-| വാമനൻ | dwarf; the fifth incarnation of വിഷ്ണു |
-| അടി | step, pace, foot (measure) |
-| നല്ലവനായ | good (adj) |
-| സമ്മതിക്കുക (past tense: സമ്മതിച്ചു) | to agree, to agree to, to allow |
-| ഉടനെ | immediately |
-| ആകാശം | sky |
-| ആകാശത്തോളം | up to or as far as the sky |
-| വളരുക (past tense: വളർന്നു) | to grow |
-| കൊണ്ട് | with or by means of (post pos. takes nominative) |
-| അളക്കുക (past tense: അളന്നു) | to measure |
-| <!-- Source: PDF page 350; printed page 291. --> മൂന്നാമത്തെ | third |
-| ഭൂമി | earth |
-| അടിയിൽ | beneath, at the bottom of |
-| താഴ്ത്തിക്കളയുക (past tense: താഴ്ത്തിക്കളഞ്ഞു) | to lower, to push something down |
-| ആണ്ട് | year |
-| തന്റെ | possessive of താൻ, self’s or own |
-| അനുസരിച്ച് | according to |
-| സന്തോഷിപ്പിക്കുക (past tense: സന്തോഷിപ്പിച്ചു) | to make happy |
-| പിന്നിൽ | behind (with possessive) |
+| Malayalam | Meaning | Audio |
+|---|---|---|
+| ഓണം | Onam, Kerala Harvest Festival | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_001.mp3" data-audio-label="ഓണം" aria-label="Play ഓണം" title="Play ഓണം" aria-pressed="false">▶</button> |
+| വിളവെടുപ്പ് | harvest | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_002.mp3" data-audio-label="വിളവെടുപ്പ്" aria-label="Play വിളവെടുപ്പ്" title="Play വിളവെടുപ്പ്" aria-pressed="false">▶</button> |
+| ഉൽസവം | festival | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_003.mp3" data-audio-label="ഉൽസവം" aria-label="Play ഉൽസവം" title="Play ഉൽസവം" aria-pressed="false">▶</button> |
+| രസകരം | that which has interest | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_004.mp3" data-audio-label="രസകരം" aria-label="Play രസകരം" title="Play രസകരം" aria-pressed="false">▶</button> |
+| രസകരമായ | interesting | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_005.mp3" data-audio-label="രസകരമായ" aria-label="Play രസകരമായ" title="Play രസകരമായ" aria-pressed="false">▶</button> |
+| പണ്ട് | long ago | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_006.mp3" data-audio-label="പണ്ട്" aria-label="Play പണ്ട്" title="Play പണ്ട്" aria-pressed="false">▶</button> |
+| ഒരിക്കൽ | one time, once | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_007.mp3" data-audio-label="ഒരിക്കൽ" aria-label="Play ഒരിക്കൽ" title="Play ഒരിക്കൽ" aria-pressed="false">▶</button> |
+| മഹാബലി | Mahabali, a mythical character | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_008.mp3" data-audio-label="മഹാബലി" aria-label="Play മഹാബലി" title="Play മഹാബലി" aria-pressed="false">▶</button> |
+| ചക്രവർത്തി | emperor | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_009.mp3" data-audio-label="ചക്രവർത്തി" aria-label="Play ചക്രവർത്തി" title="Play ചക്രവർത്തി" aria-pressed="false">▶</button> |
+| കാലം | time | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_010.mp3" data-audio-label="കാലം" aria-label="Play കാലം" title="Play കാലം" aria-pressed="false">▶</button> |
+| ദേവൻ | god | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_011.mp3" data-audio-label="ദേവൻ" aria-label="Play ദേവൻ" title="Play ദേവൻ" aria-pressed="false">▶</button> |
+| ഇഷ്ടപ്പെടുക | to like | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_012.mp3" data-audio-label="ഇഷ്ടപ്പെടുക" aria-label="Play ഇഷ്ടപ്പെടുക" title="Play ഇഷ്ടപ്പെടുക" aria-pressed="false">▶</button> |
+| പ്രകാരം | according to (word final -ം of the preceding noun drops when പ്രകാര is added) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_013.mp3" data-audio-label="പ്രകാരം" aria-label="Play പ്രകാരം" title="Play പ്രകാരം" aria-pressed="false">▶</button> |
+| കീഴടക്കുക | to subjugate (to hold under) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_014.mp3" data-audio-label="കീഴടക്കുക" aria-label="Play കീഴടക്കുക" title="Play കീഴടക്കുക" aria-pressed="false">▶</button> |
+| വിഷ്ണു | one of the three main Hindu gods – the protector | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_015.mp3" data-audio-label="വിഷ്ണു" aria-label="Play വിഷ്ണു" title="Play വിഷ്ണു" aria-pressed="false">▶</button> |
+| വാമനൻ | dwarf; the fifth incarnation of വിഷ്ണു | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_016.mp3" data-audio-label="വാമനൻ" aria-label="Play വാമനൻ" title="Play വാമനൻ" aria-pressed="false">▶</button> |
+| അടി | step, pace, foot (measure) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_017.mp3" data-audio-label="അടി" aria-label="Play അടി" title="Play അടി" aria-pressed="false">▶</button> |
+| നല്ലവനായ | good (adj) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_018.mp3" data-audio-label="നല്ലവനായ" aria-label="Play നല്ലവനായ" title="Play നല്ലവനായ" aria-pressed="false">▶</button> |
+| സമ്മതിക്കുക (past tense: സമ്മതിച്ചു) | to agree, to agree to, to allow | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_019.mp3" data-audio-label="സമ്മതിക്കുക" aria-label="Play സമ്മതിക്കുക" title="Play സമ്മതിക്കുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_020.mp3" data-audio-label="സമ്മതിച്ചു" aria-label="Play സമ്മതിച്ചു" title="Play സമ്മതിച്ചു" aria-pressed="false">▶ <span lang="ml">സമ്മതിച്ചു</span></button> |
+| ഉടനെ | immediately | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_021.mp3" data-audio-label="ഉടനെ" aria-label="Play ഉടനെ" title="Play ഉടനെ" aria-pressed="false">▶</button> |
+| ആകാശം | sky | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_022.mp3" data-audio-label="ആകാശം" aria-label="Play ആകാശം" title="Play ആകാശം" aria-pressed="false">▶</button> |
+| ആകാശത്തോളം | up to or as far as the sky | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_023.mp3" data-audio-label="ആകാശത്തോളം" aria-label="Play ആകാശത്തോളം" title="Play ആകാശത്തോളം" aria-pressed="false">▶</button> |
+| വളരുക (past tense: വളർന്നു) | to grow | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_024.mp3" data-audio-label="വളരുക" aria-label="Play വളരുക" title="Play വളരുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_025.mp3" data-audio-label="വളർന്നു" aria-label="Play വളർന്നു" title="Play വളർന്നു" aria-pressed="false">▶ <span lang="ml">വളർന്നു</span></button> |
+| കൊണ്ട് | with or by means of (post pos. takes nominative) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_026.mp3" data-audio-label="കൊണ്ട്" aria-label="Play കൊണ്ട്" title="Play കൊണ്ട്" aria-pressed="false">▶</button> |
+| അളക്കുക (past tense: അളന്നു) | to measure | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_027.mp3" data-audio-label="അളക്കുക" aria-label="Play അളക്കുക" title="Play അളക്കുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_028.mp3" data-audio-label="അളന്നു" aria-label="Play അളന്നു" title="Play അളന്നു" aria-pressed="false">▶ <span lang="ml">അളന്നു</span></button> |
+| <!-- Source: PDF page 350; printed page 291. --> മൂന്നാമത്തെ | third | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_029.mp3" data-audio-label="മൂന്നാമത്തെ" aria-label="Play മൂന്നാമത്തെ" title="Play മൂന്നാമത്തെ" aria-pressed="false">▶</button> |
+| ഭൂമി | earth | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_030.mp3" data-audio-label="ഭൂമി" aria-label="Play ഭൂമി" title="Play ഭൂമി" aria-pressed="false">▶</button> |
+| അടിയിൽ | beneath, at the bottom of | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_031.mp3" data-audio-label="അടിയിൽ" aria-label="Play അടിയിൽ" title="Play അടിയിൽ" aria-pressed="false">▶</button> |
+| താഴ്ത്തിക്കളയുക (past tense: താഴ്ത്തിക്കളഞ്ഞു) | to lower, to push something down | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_032.mp3" data-audio-label="താഴ്ത്തിക്കളയുക" aria-label="Play താഴ്ത്തിക്കളയുക" title="Play താഴ്ത്തിക്കളയുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_033.mp3" data-audio-label="താഴ്ത്തിക്കളഞ്ഞു" aria-label="Play താഴ്ത്തിക്കളഞ്ഞു" title="Play താഴ്ത്തിക്കളഞ്ഞു" aria-pressed="false">▶ <span lang="ml">താഴ്ത്തിക്കളഞ്ഞു</span></button> |
+| ആണ്ട് | year | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_034.mp3" data-audio-label="ആണ്ട്" aria-label="Play ആണ്ട്" title="Play ആണ്ട്" aria-pressed="false">▶</button> |
+| തന്റെ | possessive of താൻ, self’s or own | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_035.mp3" data-audio-label="തന്റെ" aria-label="Play തന്റെ" title="Play തന്റെ" aria-pressed="false">▶</button> |
+| അനുസരിച്ച് | according to | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_036.mp3" data-audio-label="അനുസരിച്ച്" aria-label="Play അനുസരിച്ച്" title="Play അനുസരിച്ച്" aria-pressed="false">▶</button> |
+| സന്തോഷിപ്പിക്കുക (past tense: സന്തോഷിപ്പിച്ചു) | to make happy | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_037.mp3" data-audio-label="സന്തോഷിപ്പിക്കുക" aria-label="Play സന്തോഷിപ്പിക്കുക" title="Play സന്തോഷിപ്പിക്കുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_038.mp3" data-audio-label="സന്തോഷിപ്പിച്ചു" aria-label="Play സന്തോഷിപ്പിച്ചു" title="Play സന്തോഷിപ്പിച്ചു" aria-pressed="false">▶ <span lang="ml">സന്തോഷിപ്പിച്ചു</span></button> |
+| പിന്നിൽ | behind (with possessive) | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
 
 <a id="lesson20-part-ii"></a><!-- reading-anchor -->
 ### Part II
 
-| Malayalam | Meaning |
-|---|---|
-| ആഘോഷം | celebration |
-| ആഘോഷിക്കപ്പെടുക (past: ആഘോഷിക്കപ്പെട്ടു) | to be celebrated |
-| ഉണ്ണുക (past: ഉണ്ടു) | to dine |
-| ആടുക (past: ആടി) | to swing, to dance |
-| പാടുക (past: പാടി) | to sing |
-| വസ്ത്രം | clothes, dress |
-| സന്തോഷിക്കുക (past: സന്തോഷിച്ചു) | to be happy |
-| സദ്യ | feast |
-| നടത്തുക | to hold, conduct, run, etc. |
-| ചിങ്ങമാസം | the month of Chingam (parts of August and September) |
-| പൂവ് (plural: പൂക്കൾ) | flower |
-| മാസം | month |
-| കളം | design, also the auspicious design drawn by Hindus on the ground in front of the door step |
-| അലങ്കരിക്കുക (past: അലങ്കരിച്ചു) | to decorate |
-| <!-- Source: PDF page 351; printed page 292. --> പ്രധാന | important, main (adj.) |
-| പ്രധാനം | (n.) |
-| ആറ് | river |
-| കായൽ | backwaters |
-| വള്ളം | boat (wooden), canoe |
-| മൽസരം | competition |
-| കൂടുക (past: കൂടി) | to gather (intransitive) |
-| ഊഞ്ഞാൽ | swing |
-| ഇടുക (past: ഇട്ടു) | to put, to put up, to set up |
-| മറുനാടൻ | overseas |
-| നാട് | country, homeland, used to refer to Kerala by Malayalis |
-| ഹിന്ദു (plural: ഹിന്ദുക്കൾ) | Hindu |
-| മുസ്ലീം (plural: മുസ്ലീങ്ങൾ) | Muslim |
-| ക്രിസ്ത്യാനി (plural: ക്രിസ്ത്യാനികൾ) | Christian |
-| ജാതി | kind, caste, community, race |
-| മതം | religion |
-| ഭേദം | difference, distinction, better |
-| ദേശീയ | national |
+| Malayalam | Meaning | Audio |
+|---|---|---|
+| ആഘോഷം | celebration | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_042.mp3" data-audio-label="ആഘോഷം" aria-label="Play ആഘോഷം" title="Play ആഘോഷം" aria-pressed="false">▶</button> |
+| ആഘോഷിക്കപ്പെടുക (past: ആഘോഷിക്കപ്പെട്ടു) | to be celebrated | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_043.mp3" data-audio-label="ആഘോഷിക്കപ്പെടുക" aria-label="Play ആഘോഷിക്കപ്പെടുക" title="Play ആഘോഷിക്കപ്പെടുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_044.mp3" data-audio-label="ആഘോഷിക്കപ്പെട്ടു" aria-label="Play ആഘോഷിക്കപ്പെട്ടു" title="Play ആഘോഷിക്കപ്പെട്ടു" aria-pressed="false">▶ <span lang="ml">ആഘോഷിക്കപ്പെട്ടു</span></button> |
+| ഉണ്ണുക (past: ഉണ്ടു) | to dine | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_045.mp3" data-audio-label="ഉണ്ണുക" aria-label="Play ഉണ്ണുക" title="Play ഉണ്ണുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_046.mp3" data-audio-label="ഉണ്ടു" aria-label="Play ഉണ്ടു" title="Play ഉണ്ടു" aria-pressed="false">▶ <span lang="ml">ഉണ്ടു</span></button> |
+| ആടുക (past: ആടി) | to swing, to dance | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_047.mp3" data-audio-label="ആടുക" aria-label="Play ആടുക" title="Play ആടുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_048.mp3" data-audio-label="ആടി" aria-label="Play ആടി" title="Play ആടി" aria-pressed="false">▶ <span lang="ml">ആടി</span></button> |
+| പാടുക (past: പാടി) | to sing | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_049.mp3" data-audio-label="പാടുക" aria-label="Play പാടുക" title="Play പാടുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_050.mp3" data-audio-label="പാടി" aria-label="Play പാടി" title="Play പാടി" aria-pressed="false">▶ <span lang="ml">പാടി</span></button> |
+| വസ്ത്രം | clothes, dress | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_051.mp3" data-audio-label="വസ്ത്രം" aria-label="Play വസ്ത്രം" title="Play വസ്ത്രം" aria-pressed="false">▶</button> |
+| സന്തോഷിക്കുക (past: സന്തോഷിച്ചു) | to be happy | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_052.mp3" data-audio-label="സന്തോഷിക്കുക" aria-label="Play സന്തോഷിക്കുക" title="Play സന്തോഷിക്കുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_053.mp3" data-audio-label="സന്തോഷിച്ചു" aria-label="Play സന്തോഷിച്ചു" title="Play സന്തോഷിച്ചു" aria-pressed="false">▶ <span lang="ml">സന്തോഷിച്ചു</span></button> |
+| സദ്യ | feast | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_054.mp3" data-audio-label="സദ്യ" aria-label="Play സദ്യ" title="Play സദ്യ" aria-pressed="false">▶</button> |
+| നടത്തുക | to hold, conduct, run, etc. | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_055.mp3" data-audio-label="നടത്തുക" aria-label="Play നടത്തുക" title="Play നടത്തുക" aria-pressed="false">▶</button> |
+| ചിങ്ങമാസം | the month of Chingam (parts of August and September) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_056.mp3" data-audio-label="ചിങ്ങമാസം" aria-label="Play ചിങ്ങമാസം" title="Play ചിങ്ങമാസം" aria-pressed="false">▶</button> |
+| പൂവ് (plural: പൂക്കൾ) | flower | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_057.mp3" data-audio-label="പൂവ്" aria-label="Play പൂവ്" title="Play പൂവ്" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_058.mp3" data-audio-label="പൂക്കൾ" aria-label="Play പൂക്കൾ" title="Play പൂക്കൾ" aria-pressed="false">▶ <span lang="ml">പൂക്കൾ</span></button> |
+| മാസം | month | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| കളം | design, also the auspicious design drawn by Hindus on the ground in front of the door step | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_059.mp3" data-audio-label="കളം" aria-label="Play കളം" title="Play കളം" aria-pressed="false">▶</button> |
+| അലങ്കരിക്കുക (past: അലങ്കരിച്ചു) | to decorate | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_060.mp3" data-audio-label="അലങ്കരിക്കുക" aria-label="Play അലങ്കരിക്കുക" title="Play അലങ്കരിക്കുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_061.mp3" data-audio-label="അലങ്കരിച്ചു" aria-label="Play അലങ്കരിച്ചു" title="Play അലങ്കരിച്ചു" aria-pressed="false">▶ <span lang="ml">അലങ്കരിച്ചു</span></button> |
+| <!-- Source: PDF page 351; printed page 292. --> പ്രധാന | important, main (adj.) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_062.mp3" data-audio-label="പ്രധാന" aria-label="Play പ്രധാന" title="Play പ്രധാന" aria-pressed="false">▶</button> |
+| പ്രധാനം | (n.) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_063.mp3" data-audio-label="പ്രധാനം" aria-label="Play പ്രധാനം" title="Play പ്രധാനം" aria-pressed="false">▶</button> |
+| ആറ് | river | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_064.mp3" data-audio-label="ആറ്" aria-label="Play ആറ്" title="Play ആറ്" aria-pressed="false">▶</button> |
+| കായൽ | backwaters | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_065.mp3" data-audio-label="കായൽ" aria-label="Play കായൽ" title="Play കായൽ" aria-pressed="false">▶</button> |
+| വള്ളം | boat (wooden), canoe | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_066.mp3" data-audio-label="വള്ളം" aria-label="Play വള്ളം" title="Play വള്ളം" aria-pressed="false">▶</button> |
+| മൽസരം | competition | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_068.mp3" data-audio-label="മൽസരം" aria-label="Play മൽസരം" title="Play മൽസരം" aria-pressed="false">▶</button> |
+| കൂടുക (past: കൂടി) | to gather (intransitive) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_069.mp3" data-audio-label="കൂടുക" aria-label="Play കൂടുക" title="Play കൂടുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_071.mp3" data-audio-label="കൂടി" aria-label="Play കൂടി" title="Play കൂടി" aria-pressed="false">▶ <span lang="ml">കൂടി</span></button> |
+| ഊഞ്ഞാൽ | swing | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_072.mp3" data-audio-label="ഊഞ്ഞാൽ" aria-label="Play ഊഞ്ഞാൽ" title="Play ഊഞ്ഞാൽ" aria-pressed="false">▶</button> |
+| ഇടുക (past: ഇട്ടു) | to put, to put up, to set up | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_073.mp3" data-audio-label="ഇടുക" aria-label="Play ഇടുക" title="Play ഇടുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_074.mp3" data-audio-label="ഇട്ടു" aria-label="Play ഇട്ടു" title="Play ഇട്ടു" aria-pressed="false">▶ <span lang="ml">ഇട്ടു</span></button> |
+| മറുനാടൻ | overseas | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_075.mp3" data-audio-label="മറുനാടൻ" aria-label="Play മറുനാടൻ" title="Play മറുനാടൻ" aria-pressed="false">▶</button> |
+| നാട് | country, homeland, used to refer to Kerala by Malayalis | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_076.mp3" data-audio-label="നാട്" aria-label="Play നാട്" title="Play നാട്" aria-pressed="false">▶</button> |
+| ഹിന്ദു (plural: ഹിന്ദുക്കൾ) | Hindu | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_077.mp3" data-audio-label="ഹിന്ദു" aria-label="Play ഹിന്ദു" title="Play ഹിന്ദു" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_078.mp3" data-audio-label="ഹിന്ദുക്കൾ" aria-label="Play ഹിന്ദുക്കൾ" title="Play ഹിന്ദുക്കൾ" aria-pressed="false">▶ <span lang="ml">ഹിന്ദുക്കൾ</span></button> |
+| മുസ്ലീം (plural: മുസ്ലീങ്ങൾ) | Muslim | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_079.mp3" data-audio-label="മുസ്ലീം" aria-label="Play മുസ്ലീം" title="Play മുസ്ലീം" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_080.mp3" data-audio-label="മുസ്ലീങ്ങൾ" aria-label="Play മുസ്ലീങ്ങൾ" title="Play മുസ്ലീങ്ങൾ" aria-pressed="false">▶ <span lang="ml">മുസ്ലീങ്ങൾ</span></button> |
+| ക്രിസ്ത്യാനി (plural: ക്രിസ്ത്യാനികൾ) | Christian | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_081.mp3" data-audio-label="ക്രിസ്ത്യാനി" aria-label="Play ക്രിസ്ത്യാനി" title="Play ക്രിസ്ത്യാനി" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_082.mp3" data-audio-label="ക്രിസ്ത്യാനികൾ" aria-label="Play ക്രിസ്ത്യാനികൾ" title="Play ക്രിസ്ത്യാനികൾ" aria-pressed="false">▶ <span lang="ml">ക്രിസ്ത്യാനികൾ</span></button> |
+| ജാതി | kind, caste, community, race | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_083.mp3" data-audio-label="ജാതി" aria-label="Play ജാതി" title="Play ജാതി" aria-pressed="false">▶</button> |
+| മതം | religion | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_084.mp3" data-audio-label="മതം" aria-label="Play മതം" title="Play മതം" aria-pressed="false">▶</button> |
+| ഭേദം | difference, distinction, better | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_085.mp3" data-audio-label="ഭേദം" aria-label="Play ഭേദം" title="Play ഭേദം" aria-pressed="false">▶</button> |
+| ദേശീയ | national | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_086.mp3" data-audio-label="ദേശീയ" aria-label="Play ദേശീയ" title="Play ദേശീയ" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> ആഘോഷിക്കുക | to celebrate | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_039.mp3" data-audio-label="ആഘോഷിക്കുക" aria-label="Play ആഘോഷിക്കുക" title="Play ആഘോഷിക്കുക" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> ആഘോഷിച്ചു | celebrated | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_040.mp3" data-audio-label="ആഘോഷിച്ചു" aria-label="Play ആഘോഷിച്ചു" title="Play ആഘോഷിച്ചു" aria-pressed="false">▶</button> |
+| <!-- recorded-audio-row --> വള്ളംകളി | boat race | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_067.mp3" data-audio-label="വള്ളംകളി" aria-label="Play വള്ളംകളി" title="Play വള്ളംകളി" aria-pressed="false">▶</button> |
 
 <a id="lesson20-reading-practice"></a><!-- reading-anchor -->
 ## Reading Practice

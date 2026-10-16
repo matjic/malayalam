@@ -1,0 +1,18 @@
+{
+  "lesson_01_word_007": {
+    "transcript": "എന്റെ",
+    "start": 64.617,
+    "end": 66.6028,
+    "status": "matched",
+    "reviewer": "user",
+    "scope": "User confirmed the displayed transcription in the table screenshot."
+  },
+  "lesson_08_word_012": {
+    "transcript": "പരീക്ഷ",
+    "start": 188.2036,
+    "end": 190.6385,
+    "status": "matched",
+    "reviewer": "user",
+    "scope": "User identified the second clip incorrectly attached to tomorrow as examination."
+  }
+}

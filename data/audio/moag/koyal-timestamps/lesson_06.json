@@ -1,0 +1,1095 @@
+{
+  "format": "koyal-word-timestamps-v1",
+  "lesson": 6,
+  "source": "data/audio/moag/lesson_06.mp3",
+  "model": "adalat-ai/koyal-ml-120m-1.0",
+  "checkpoint": "/private/tmp/koyal-ml-120m-1.0/koyal-ml-120m-1.0.nemo",
+  "nemo_version": "3.0.0",
+  "sample_rate": 16000,
+  "vocabulary_range": {
+    "lesson": 6,
+    "start": 140.64,
+    "end": 242.2642
+  },
+  "transcription_range": {
+    "start": 139.64,
+    "end": 243.2641875
+  },
+  "time_basis": "start/end are seconds in source MP3; section_start/end are relative to transcription_range.start",
+  "caveats": [
+    "Automatic ASR, not verified text or phonetic boundaries; preserve repeated words.",
+    "TDT timestamps approximate speech positions. Use nearby silence and padding for final cuts.",
+    "near_chunk_edge flags words within 0.25 seconds of a recognition chunk boundary.",
+    "Chunks meet at low-energy windows; no audio is omitted. A forced split can still divide speech.",
+    "English section announcements may be misrecognized by the Malayalam model."
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "start": 139.64,
+      "end": 163.39,
+      "text": "പ്രാക്ടീസ് റിപ്പീറ്റ് ഈച്ച് ഐറ്റം മാപ്പ് ഫുൾ ദി സ്പീക്കർ. ഈച്ച് ഐറ്റം ഈസ് ഗിവിൻ ടു വോയിസ്. വെരി ലിസൺ ആൻഡ് റിപ്പീറ്റ്. അടുത്ത് ചന്ദ ചന്ത. ഉണ്ടല്ലോ ഉണ്ടല്ലോ ബ്രാഹ്മൺ ഹോട്ടൽ.",
+      "raw_word_timestamps": [
+        {
+          "word": "പ്രാക്ടീസ്",
+          "start_offset": 64,
+          "end_offset": 76,
+          "start": 2.56,
+          "end": 3.04
+        },
+        {
+          "word": "റിപ്പീറ്റ്",
+          "start_offset": 89,
+          "end_offset": 99,
+          "start": 3.56,
+          "end": 3.96
+        },
+        {
+          "word": "ഈച്ച്",
+          "start_offset": 99,
+          "end_offset": 103,
+          "start": 3.96,
+          "end": 4.12
+        },
+        {
+          "word": "ഐറ്റം",
+          "start_offset": 104,
+          "end_offset": 112,
+          "start": 4.16,
+          "end": 4.48
+        },
+        {
+          "word": "മാപ്പ്",
+          "start_offset": 112,
+          "end_offset": 115,
+          "start": 4.48,
+          "end": 4.6000000000000005
+        },
+        {
+          "word": "ഫുൾ",
+          "start_offset": 116,
+          "end_offset": 120,
+          "start": 4.64,
+          "end": 4.8
+        },
+        {
+          "word": "ദി",
+          "start_offset": 120,
+          "end_offset": 122,
+          "start": 4.8,
+          "end": 4.88
+        },
+        {
+          "word": "സ്പീക്കർ.",
+          "start_offset": 122,
+          "end_offset": 134,
+          "start": 4.88,
+          "end": 5.36
+        },
+        {
+          "word": "ഈച്ച്",
+          "start_offset": 140,
+          "end_offset": 145,
+          "start": 5.6000000000000005,
+          "end": 5.8
+        },
+        {
+          "word": "ഐറ്റം",
+          "start_offset": 146,
+          "end_offset": 153,
+          "start": 5.84,
+          "end": 6.12
+        },
+        {
+          "word": "ഈസ്",
+          "start_offset": 153,
+          "end_offset": 156,
+          "start": 6.12,
+          "end": 6.24
+        },
+        {
+          "word": "ഗിവിൻ",
+          "start_offset": 156,
+          "end_offset": 162,
+          "start": 6.24,
+          "end": 6.48
+        },
+        {
+          "word": "ടു",
+          "start_offset": 162,
+          "end_offset": 164,
+          "start": 6.48,
+          "end": 6.5600000000000005
+        },
+        {
+          "word": "വോയിസ്.",
+          "start_offset": 166,
+          "end_offset": 175,
+          "start": 6.640000000000001,
+          "end": 7.0
+        },
+        {
+          "word": "വെരി",
+          "start_offset": 186,
+          "end_offset": 194,
+          "start": 7.44,
+          "end": 7.76
+        },
+        {
+          "word": "ലിസൺ",
+          "start_offset": 206,
+          "end_offset": 213,
+          "start": 8.24,
+          "end": 8.52
+        },
+        {
+          "word": "ആൻഡ്",
+          "start_offset": 214,
+          "end_offset": 218,
+          "start": 8.56,
+          "end": 8.72
+        },
+        {
+          "word": "റിപ്പീറ്റ്.",
+          "start_offset": 218,
+          "end_offset": 229,
+          "start": 8.72,
+          "end": 9.16
+        },
+        {
+          "word": "അടുത്ത്",
+          "start_offset": 298,
+          "end_offset": 309,
+          "start": 11.92,
+          "end": 12.36
+        },
+        {
+          "word": "ചന്ദ",
+          "start_offset": 348,
+          "end_offset": 355,
+          "start": 13.92,
+          "end": 14.200000000000001
+        },
+        {
+          "word": "ചന്ത.",
+          "start_offset": 388,
+          "end_offset": 395,
+          "start": 15.52,
+          "end": 15.8
+        },
+        {
+          "word": "ഉണ്ടല്ലോ",
+          "start_offset": 442,
+          "end_offset": 453,
+          "start": 17.68,
+          "end": 18.12
+        },
+        {
+          "word": "ഉണ്ടല്ലോ",
+          "start_offset": 489,
+          "end_offset": 503,
+          "start": 19.56,
+          "end": 20.12
+        },
+        {
+          "word": "ബ്രാഹ്മൺ",
+          "start_offset": 543,
+          "end_offset": 554,
+          "start": 21.72,
+          "end": 22.16
+        },
+        {
+          "word": "ഹോട്ടൽ.",
+          "start_offset": 556,
+          "end_offset": 568,
+          "start": 22.240000000000002,
+          "end": 22.72
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "start": 163.39,
+      "end": 188.33999999999997,
+      "text": "ബ്രാഹ്മൺ ഹോട്ടൽ അറിയല്ലേ? അറിയല്ലേ? അറിയാം, അറിയാം പുറകിൽ അമ്പലം അമ്പലം കാണാം, കാണാം അപ്പുറത്ത്.",
+      "raw_word_timestamps": [
+        {
+          "word": "ബ്രാഹ്മൺ",
+          "start_offset": 5,
+          "end_offset": 16,
+          "start": 0.2,
+          "end": 0.64
+        },
+        {
+          "word": "ഹോട്ടൽ",
+          "start_offset": 17,
+          "end_offset": 29,
+          "start": 0.68,
+          "end": 1.16
+        },
+        {
+          "word": "അറിയല്ലേ?",
+          "start_offset": 74,
+          "end_offset": 88,
+          "start": 2.96,
+          "end": 3.52
+        },
+        {
+          "word": "അറിയല്ലേ?",
+          "start_offset": 125,
+          "end_offset": 139,
+          "start": 5.0,
+          "end": 5.5600000000000005
+        },
+        {
+          "word": "അറിയാം,",
+          "start_offset": 182,
+          "end_offset": 193,
+          "start": 7.28,
+          "end": 7.72
+        },
+        {
+          "word": "അറിയാം",
+          "start_offset": 226,
+          "end_offset": 238,
+          "start": 9.040000000000001,
+          "end": 9.52
+        },
+        {
+          "word": "പുറകിൽ",
+          "start_offset": 329,
+          "end_offset": 342,
+          "start": 13.16,
+          "end": 13.68
+        },
+        {
+          "word": "അമ്പലം",
+          "start_offset": 383,
+          "end_offset": 397,
+          "start": 15.32,
+          "end": 15.88
+        },
+        {
+          "word": "അമ്പലം",
+          "start_offset": 429,
+          "end_offset": 444,
+          "start": 17.16,
+          "end": 17.76
+        },
+        {
+          "word": "കാണാം,",
+          "start_offset": 480,
+          "end_offset": 490,
+          "start": 19.2,
+          "end": 19.6
+        },
+        {
+          "word": "കാണാം",
+          "start_offset": 534,
+          "end_offset": 546,
+          "start": 21.36,
+          "end": 21.84
+        },
+        {
+          "word": "അപ്പുറത്ത്.",
+          "start_offset": 590,
+          "end_offset": 602,
+          "start": 23.6,
+          "end": 24.080000000000002
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "start": 188.33999999999997,
+      "end": 211.69,
+      "text": "അപ്പുറത്ത്, ഇപ്പുറത്ത്, ഇപ്പുറത്ത്, തുനി, തുനി, ധാരാളം ധാരാളം ഷട്ട്, ഷട്ട്, സാരി, സാരി വാങ്ങിക്കണം.",
+      "raw_word_timestamps": [
+        {
+          "word": "അപ്പുറത്ത്,",
+          "start_offset": 8,
+          "end_offset": 23,
+          "start": 0.32,
+          "end": 0.92
+        },
+        {
+          "word": "ഇപ്പുറത്ത്,",
+          "start_offset": 57,
+          "end_offset": 74,
+          "start": 2.2800000000000002,
+          "end": 2.96
+        },
+        {
+          "word": "ഇപ്പുറത്ത്,",
+          "start_offset": 105,
+          "end_offset": 119,
+          "start": 4.2,
+          "end": 4.76
+        },
+        {
+          "word": "തുനി,",
+          "start_offset": 163,
+          "end_offset": 172,
+          "start": 6.5200000000000005,
+          "end": 6.88
+        },
+        {
+          "word": "തുനി,",
+          "start_offset": 218,
+          "end_offset": 227,
+          "start": 8.72,
+          "end": 9.08
+        },
+        {
+          "word": "ധാരാളം",
+          "start_offset": 269,
+          "end_offset": 283,
+          "start": 10.76,
+          "end": 11.32
+        },
+        {
+          "word": "ധാരാളം",
+          "start_offset": 312,
+          "end_offset": 329,
+          "start": 12.48,
+          "end": 13.16
+        },
+        {
+          "word": "ഷട്ട്,",
+          "start_offset": 362,
+          "end_offset": 373,
+          "start": 14.48,
+          "end": 14.92
+        },
+        {
+          "word": "ഷട്ട്,",
+          "start_offset": 400,
+          "end_offset": 411,
+          "start": 16.0,
+          "end": 16.44
+        },
+        {
+          "word": "സാരി,",
+          "start_offset": 452,
+          "end_offset": 461,
+          "start": 18.080000000000002,
+          "end": 18.44
+        },
+        {
+          "word": "സാരി",
+          "start_offset": 499,
+          "end_offset": 509,
+          "start": 19.96,
+          "end": 20.36
+        },
+        {
+          "word": "വാങ്ങിക്കണം.",
+          "start_offset": 546,
+          "end_offset": 561,
+          "start": 21.84,
+          "end": 22.44
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "start": 211.69,
+      "end": 234.23999999999998,
+      "text": "വാങ്ങിക്കണം സ്കൂൾ, സ്കൂൾ മുമ്പിൽ മുമ്പിൽ കൃഷ്ണ, കൃഷ്ണ, നോക്കൂ, നോക്കൂ, നിന്ന് നിന്ന്",
+      "raw_word_timestamps": [
+        {
+          "word": "വാങ്ങിക്കണം",
+          "start_offset": 11,
+          "end_offset": 26,
+          "start": 0.44,
+          "end": 1.04
+        },
+        {
+          "word": "സ്കൂൾ,",
+          "start_offset": 58,
+          "end_offset": 71,
+          "start": 2.32,
+          "end": 2.84
+        },
+        {
+          "word": "സ്കൂൾ",
+          "start_offset": 105,
+          "end_offset": 118,
+          "start": 4.2,
+          "end": 4.72
+        },
+        {
+          "word": "മുമ്പിൽ",
+          "start_offset": 149,
+          "end_offset": 160,
+          "start": 5.96,
+          "end": 6.4
+        },
+        {
+          "word": "മുമ്പിൽ",
+          "start_offset": 200,
+          "end_offset": 210,
+          "start": 8.0,
+          "end": 8.4
+        },
+        {
+          "word": "കൃഷ്ണ,",
+          "start_offset": 260,
+          "end_offset": 269,
+          "start": 10.4,
+          "end": 10.76
+        },
+        {
+          "word": "കൃഷ്ണ,",
+          "start_offset": 303,
+          "end_offset": 315,
+          "start": 12.120000000000001,
+          "end": 12.6
+        },
+        {
+          "word": "നോക്കൂ,",
+          "start_offset": 350,
+          "end_offset": 360,
+          "start": 14.0,
+          "end": 14.4
+        },
+        {
+          "word": "നോക്കൂ,",
+          "start_offset": 398,
+          "end_offset": 408,
+          "start": 15.92,
+          "end": 16.32
+        },
+        {
+          "word": "നിന്ന്",
+          "start_offset": 462,
+          "end_offset": 470,
+          "start": 18.48,
+          "end": 18.8
+        },
+        {
+          "word": "നിന്ന്",
+          "start_offset": 506,
+          "end_offset": 514,
+          "start": 20.240000000000002,
+          "end": 20.56
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "start": 234.23999999999998,
+      "end": 243.2641875,
+      "text": "നോക്കാം നോക്കാം അവിടുന്ന് അവിടുന്ന്",
+      "raw_word_timestamps": [
+        {
+          "word": "നോക്കാം",
+          "start_offset": 24,
+          "end_offset": 34,
+          "start": 0.96,
+          "end": 1.36
+        },
+        {
+          "word": "നോക്കാം",
+          "start_offset": 77,
+          "end_offset": 89,
+          "start": 3.08,
+          "end": 3.56
+        },
+        {
+          "word": "അവിടുന്ന്",
+          "start_offset": 127,
+          "end_offset": 137,
+          "start": 5.08,
+          "end": 5.48
+        },
+        {
+          "word": "അവിടുന്ന്",
+          "start_offset": 180,
+          "end_offset": 191,
+          "start": 7.2,
+          "end": 7.640000000000001
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "word": "പ്രാക്ടീസ്",
+      "start": 142.2,
+      "end": 142.68,
+      "section_start": 2.56,
+      "section_end": 3.04,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "റിപ്പീറ്റ്",
+      "start": 143.2,
+      "end": 143.6,
+      "section_start": 3.56,
+      "section_end": 3.96,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഈച്ച്",
+      "start": 143.6,
+      "end": 143.76,
+      "section_start": 3.96,
+      "section_end": 4.12,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഐറ്റം",
+      "start": 143.8,
+      "end": 144.12,
+      "section_start": 4.16,
+      "section_end": 4.48,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "മാപ്പ്",
+      "start": 144.12,
+      "end": 144.24,
+      "section_start": 4.48,
+      "section_end": 4.6,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഫുൾ",
+      "start": 144.28,
+      "end": 144.44,
+      "section_start": 4.64,
+      "section_end": 4.8,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ദി",
+      "start": 144.44,
+      "end": 144.52,
+      "section_start": 4.8,
+      "section_end": 4.88,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സ്പീക്കർ.",
+      "start": 144.52,
+      "end": 145.0,
+      "section_start": 4.88,
+      "section_end": 5.36,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഈച്ച്",
+      "start": 145.24,
+      "end": 145.44,
+      "section_start": 5.6,
+      "section_end": 5.8,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഐറ്റം",
+      "start": 145.48,
+      "end": 145.76,
+      "section_start": 5.84,
+      "section_end": 6.12,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഈസ്",
+      "start": 145.76,
+      "end": 145.88,
+      "section_start": 6.12,
+      "section_end": 6.24,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഗിവിൻ",
+      "start": 145.88,
+      "end": 146.12,
+      "section_start": 6.24,
+      "section_end": 6.48,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ടു",
+      "start": 146.12,
+      "end": 146.2,
+      "section_start": 6.48,
+      "section_end": 6.56,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വോയിസ്.",
+      "start": 146.28,
+      "end": 146.64,
+      "section_start": 6.64,
+      "section_end": 7.0,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വെരി",
+      "start": 147.08,
+      "end": 147.4,
+      "section_start": 7.44,
+      "section_end": 7.76,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ലിസൺ",
+      "start": 147.88,
+      "end": 148.16,
+      "section_start": 8.24,
+      "section_end": 8.52,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ആൻഡ്",
+      "start": 148.2,
+      "end": 148.36,
+      "section_start": 8.56,
+      "section_end": 8.72,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "റിപ്പീറ്റ്.",
+      "start": 148.36,
+      "end": 148.8,
+      "section_start": 8.72,
+      "section_end": 9.16,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അടുത്ത്",
+      "start": 151.56,
+      "end": 152.0,
+      "section_start": 11.92,
+      "section_end": 12.36,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ചന്ദ",
+      "start": 153.56,
+      "end": 153.84,
+      "section_start": 13.92,
+      "section_end": 14.2,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ചന്ത.",
+      "start": 155.16,
+      "end": 155.44,
+      "section_start": 15.52,
+      "section_end": 15.8,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഉണ്ടല്ലോ",
+      "start": 157.32,
+      "end": 157.76,
+      "section_start": 17.68,
+      "section_end": 18.12,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഉണ്ടല്ലോ",
+      "start": 159.2,
+      "end": 159.76,
+      "section_start": 19.56,
+      "section_end": 20.12,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ബ്രാഹ്മൺ",
+      "start": 161.36,
+      "end": 161.8,
+      "section_start": 21.72,
+      "section_end": 22.16,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഹോട്ടൽ.",
+      "start": 161.88,
+      "end": 162.36,
+      "section_start": 22.24,
+      "section_end": 22.72,
+      "chunk": 0,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ബ്രാഹ്മൺ",
+      "start": 163.59,
+      "end": 164.03,
+      "section_start": 23.95,
+      "section_end": 24.39,
+      "chunk": 1,
+      "near_chunk_edge": true
+    },
+    {
+      "word": "ഹോട്ടൽ",
+      "start": 164.07,
+      "end": 164.55,
+      "section_start": 24.43,
+      "section_end": 24.91,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അറിയല്ലേ?",
+      "start": 166.35,
+      "end": 166.91,
+      "section_start": 26.71,
+      "section_end": 27.27,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അറിയല്ലേ?",
+      "start": 168.39,
+      "end": 168.95,
+      "section_start": 28.75,
+      "section_end": 29.31,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അറിയാം,",
+      "start": 170.67,
+      "end": 171.11,
+      "section_start": 31.03,
+      "section_end": 31.47,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അറിയാം",
+      "start": 172.43,
+      "end": 172.91,
+      "section_start": 32.79,
+      "section_end": 33.27,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "പുറകിൽ",
+      "start": 176.55,
+      "end": 177.07,
+      "section_start": 36.91,
+      "section_end": 37.43,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അമ്പലം",
+      "start": 178.71,
+      "end": 179.27,
+      "section_start": 39.07,
+      "section_end": 39.63,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അമ്പലം",
+      "start": 180.55,
+      "end": 181.15,
+      "section_start": 40.91,
+      "section_end": 41.51,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കാണാം,",
+      "start": 182.59,
+      "end": 182.99,
+      "section_start": 42.95,
+      "section_end": 43.35,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കാണാം",
+      "start": 184.75,
+      "end": 185.23,
+      "section_start": 45.11,
+      "section_end": 45.59,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അപ്പുറത്ത്.",
+      "start": 186.99,
+      "end": 187.47,
+      "section_start": 47.35,
+      "section_end": 47.83,
+      "chunk": 1,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അപ്പുറത്ത്,",
+      "start": 188.66,
+      "end": 189.26,
+      "section_start": 49.02,
+      "section_end": 49.62,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഇപ്പുറത്ത്,",
+      "start": 190.62,
+      "end": 191.3,
+      "section_start": 50.98,
+      "section_end": 51.66,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഇപ്പുറത്ത്,",
+      "start": 192.54,
+      "end": 193.1,
+      "section_start": 52.9,
+      "section_end": 53.46,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "തുനി,",
+      "start": 194.86,
+      "end": 195.22,
+      "section_start": 55.22,
+      "section_end": 55.58,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "തുനി,",
+      "start": 197.06,
+      "end": 197.42,
+      "section_start": 57.42,
+      "section_end": 57.78,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ധാരാളം",
+      "start": 199.1,
+      "end": 199.66,
+      "section_start": 59.46,
+      "section_end": 60.02,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ധാരാളം",
+      "start": 200.82,
+      "end": 201.5,
+      "section_start": 61.18,
+      "section_end": 61.86,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഷട്ട്,",
+      "start": 202.82,
+      "end": 203.26,
+      "section_start": 63.18,
+      "section_end": 63.62,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "ഷട്ട്,",
+      "start": 204.34,
+      "end": 204.78,
+      "section_start": 64.7,
+      "section_end": 65.14,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സാരി,",
+      "start": 206.42,
+      "end": 206.78,
+      "section_start": 66.78,
+      "section_end": 67.14,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സാരി",
+      "start": 208.3,
+      "end": 208.7,
+      "section_start": 68.66,
+      "section_end": 69.06,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വാങ്ങിക്കണം.",
+      "start": 210.18,
+      "end": 210.78,
+      "section_start": 70.54,
+      "section_end": 71.14,
+      "chunk": 2,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "വാങ്ങിക്കണം",
+      "start": 212.13,
+      "end": 212.73,
+      "section_start": 72.49,
+      "section_end": 73.09,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സ്കൂൾ,",
+      "start": 214.01,
+      "end": 214.53,
+      "section_start": 74.37,
+      "section_end": 74.89,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "സ്കൂൾ",
+      "start": 215.89,
+      "end": 216.41,
+      "section_start": 76.25,
+      "section_end": 76.77,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "മുമ്പിൽ",
+      "start": 217.65,
+      "end": 218.09,
+      "section_start": 78.01,
+      "section_end": 78.45,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "മുമ്പിൽ",
+      "start": 219.69,
+      "end": 220.09,
+      "section_start": 80.05,
+      "section_end": 80.45,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൃഷ്ണ,",
+      "start": 222.09,
+      "end": 222.45,
+      "section_start": 82.45,
+      "section_end": 82.81,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "കൃഷ്ണ,",
+      "start": 223.81,
+      "end": 224.29,
+      "section_start": 84.17,
+      "section_end": 84.65,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "നോക്കൂ,",
+      "start": 225.69,
+      "end": 226.09,
+      "section_start": 86.05,
+      "section_end": 86.45,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "നോക്കൂ,",
+      "start": 227.61,
+      "end": 228.01,
+      "section_start": 87.97,
+      "section_end": 88.37,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "നിന്ന്",
+      "start": 230.17,
+      "end": 230.49,
+      "section_start": 90.53,
+      "section_end": 90.85,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "നിന്ന്",
+      "start": 231.93,
+      "end": 232.25,
+      "section_start": 92.29,
+      "section_end": 92.61,
+      "chunk": 3,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "നോക്കാം",
+      "start": 235.2,
+      "end": 235.6,
+      "section_start": 95.56,
+      "section_end": 95.96,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "നോക്കാം",
+      "start": 237.32,
+      "end": 237.8,
+      "section_start": 97.68,
+      "section_end": 98.16,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അവിടുന്ന്",
+      "start": 239.32,
+      "end": 239.72,
+      "section_start": 99.68,
+      "section_end": 100.08,
+      "chunk": 4,
+      "near_chunk_edge": false
+    },
+    {
+      "word": "അവിടുന്ന്",
+      "start": 241.44,
+      "end": 241.88,
+      "section_start": 101.8,
+      "section_end": 102.24,
+      "chunk": 4,
+      "near_chunk_edge": false
+    }
+  ],
+  "text": "പ്രാക്ടീസ് റിപ്പീറ്റ് ഈച്ച് ഐറ്റം മാപ്പ് ഫുൾ ദി സ്പീക്കർ. ഈച്ച് ഐറ്റം ഈസ് ഗിവിൻ ടു വോയിസ്. വെരി ലിസൺ ആൻഡ് റിപ്പീറ്റ്. അടുത്ത് ചന്ദ ചന്ത. ഉണ്ടല്ലോ ഉണ്ടല്ലോ ബ്രാഹ്മൺ ഹോട്ടൽ. ബ്രാഹ്മൺ ഹോട്ടൽ അറിയല്ലേ? അറിയല്ലേ? അറിയാം, അറിയാം പുറകിൽ അമ്പലം അമ്പലം കാണാം, കാണാം അപ്പുറത്ത്. അപ്പുറത്ത്, ഇപ്പുറത്ത്, ഇപ്പുറത്ത്, തുനി, തുനി, ധാരാളം ധാരാളം ഷട്ട്, ഷട്ട്, സാരി, സാരി വാങ്ങിക്കണം. വാങ്ങിക്കണം സ്കൂൾ, സ്കൂൾ മുമ്പിൽ മുമ്പിൽ കൃഷ്ണ, കൃഷ്ണ, നോക്കൂ, നോക്കൂ, നിന്ന് നിന്ന് നോക്കാം നോക്കാം അവിടുന്ന് അവിടുന്ന്"
+}

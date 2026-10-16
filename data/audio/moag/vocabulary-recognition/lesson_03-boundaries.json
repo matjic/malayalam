@@ -1,0 +1,84 @@
+{
+  "lesson": 3,
+  "model": "Whisper large-v3",
+  "purpose": "English announcements only; Malayalam transliterations are not teaching transcriptions.",
+  "range_start": 28.71,
+  "range_end": 162.72,
+  "segments": [
+    {
+      "start": 28.71,
+      "end": 30.71,
+      "text": " Vocabulary Practice"
+    },
+    {
+      "start": 30.71,
+      "end": 36.71,
+      "text": " Repeat each item after the speaker. Each item is given twice. Ready? Listen and repeat."
+    },
+    {
+      "start": 66.71,
+      "end": 89.57,
+      "text": " irikyu irikyu chetan chetan ipol ipol namaskaram namaskaram sukham sukham sukhmano sukhmano"
+    },
+    {
+      "start": 89.57,
+      "end": 96.43,
+      "text": " tannay, tannay etra, etra"
+    },
+    {
+      "start": 96.43,
+      "end": 103.17,
+      "text": " peer, peer anj, anj"
+    },
+    {
+      "start": 103.17,
+      "end": 110.71,
+      "text": " nyangal, nyangal avar, avar"
+    },
+    {
+      "start": 110.71,
+      "end": 118.19,
+      "text": " aaroke, aaroke achan, achan"
+    },
+    {
+      "start": 118.19,
+      "end": 122.03,
+      "text": " Amma, Amma"
+    },
+    {
+      "start": 122.03,
+      "end": 126.07,
+      "text": " Umm, Umm"
+    },
+    {
+      "start": 126.07,
+      "end": 129.75,
+      "text": " Chechi, Chechi"
+    },
+    {
+      "start": 129.75,
+      "end": 133.67,
+      "text": " Aa, Aa"
+    },
+    {
+      "start": 133.67,
+      "end": 138.27,
+      "text": " Ida, Ida"
+    },
+    {
+      "start": 138.27,
+      "end": 142.39,
+      "text": " Path, Path"
+    },
+    {
+      "start": 142.39,
+      "end": 146.29,
+      "text": " Rooba, Rooba"
+    },
+    {
+      "start": 146.29,
+      "end": 162.73,
+      "text": " edukaan itra madhi anujati"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+[
+  {
+    "lesson": 5,
+    "start": 115.51,
+    "end": 118.7,
+    "text": "Reading practice.",
+    "model": "Whisper large-v3",
+    "evidence": "Recognition of source seconds 114\u2013124 identifies the following Reading practice announcement; its onset is placed at the preceding speech pause. Segment timestamps alone were late.",
+    "recognition": [
+      {
+        "id": 0,
+        "seek": 11400,
+        "start": 114.0,
+        "end": 117.88,
+        "text": " In the kana.",
+        "tokens": [
+          50365,
+          682,
+          264,
+          42372,
+          13,
+          50559
+        ],
+        "temperature": 0,
+        "avg_logprob": -0.40145668838963366,
+        "compression_ratio": 1.2061855670103092,
+        "no_speech_prob": 0.24574020504951477
+      },
+      {
+        "id": 1,
+        "seek": 11400,
+        "start": 117.88,
+        "end": 119.9,
+        "text": " Reading practice.",
+        "tokens": [
+          50559,
+          29766,
+          3124,
+          13,
+          50660
+        ],
+        "temperature": 0,
+        "avg_logprob": -0.40145668838963366,
+        "compression_ratio": 1.2061855670103092,
+        "no_speech_prob": 0.24574020504951477
+      },
+      {
+        "id": 2,
+        "seek": 11400,
+        "start": 119.9,
+        "end": 121.88,
+        "text": " Follow along as each column is read out.",
+        "tokens": [
+          50660,
+          9876,
+          2051,
+          382,
+          1184,
+          7738,
+          307,
+          1401,
+          484,
+          13,
+          50759
+        ],
+        "temperature": 0,
+        "avg_logprob": -0.40145668838963366,
+        "compression_ratio": 1.2061855670103092,
+        "no_speech_prob": 0.24574020504951477
+      },
+      {
+        "id": 3,
+        "seek": 11400,
+        "start": 121.88,
+        "end": 124.0,
+        "text": " One of the important functions of the reading",
+        "tokens": [
+          50759,
+          1485,
+          295,
+          264,
+          1021,
+          6828,
+          295,
+          264,
+          3760,
+          50865
+        ],
+        "temperature": 0,
+        "avg_logprob": -0.40145668838963366,
+        "compression_ratio": 1.2061855670103092,
+        "no_speech_prob": 0.24574020504951477
+      }
+    ]
+  }
+]

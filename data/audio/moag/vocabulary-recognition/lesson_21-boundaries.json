@@ -1,0 +1,744 @@
+{
+  "lesson": 21,
+  "model": "Whisper large-v3",
+  "purpose": "English announcements only; Malayalam transliterations are not teaching transcriptions.",
+  "range_start": 0,
+  "range_end": 468.674,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.88,
+      "text": " Lesson number 21. Reference list. Follow along as a full list of forms with Aayirikyuga are given below."
+    },
+    {
+      "start": 12.74,
+      "end": 14.6,
+      "text": " Ready? Read."
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": " I want to be"
+    },
+    {
+      "start": 34.18,
+      "end": 36.18,
+      "text": " I came"
+    },
+    {
+      "start": 37.28,
+      "end": 39.28,
+      "text": " I will come"
+    },
+    {
+      "start": 40.82,
+      "end": 42.82,
+      "text": " I came"
+    },
+    {
+      "start": 42.82,
+      "end": 44.82,
+      "text": " I will come"
+    },
+    {
+      "start": 45.68,
+      "end": 47.68,
+      "text": " I will come"
+    },
+    {
+      "start": 47.68,
+      "end": 49.68,
+      "text": " I will come"
+    },
+    {
+      "start": 50.96,
+      "end": 52.96,
+      "text": " I will come"
+    },
+    {
+      "start": 52.96,
+      "end": 54.96,
+      "text": " I will come"
+    },
+    {
+      "start": 55.96,
+      "end": 57.96,
+      "text": " I want to come"
+    },
+    {
+      "start": 57.96,
+      "end": 59.96,
+      "text": " Varun unda irikkanam."
+    },
+    {
+      "start": 59.96,
+      "end": 61.96,
+      "text": " Varun unda irikkanam."
+    },
+    {
+      "start": 61.96,
+      "end": 63.96,
+      "text": " Varun unda irikkanam."
+    },
+    {
+      "start": 63.96,
+      "end": 65.96,
+      "text": " Varun unda irikkanam."
+    },
+    {
+      "start": 65.96,
+      "end": 67.96,
+      "text": " Varun unda irikkanam."
+    },
+    {
+      "start": 67.96,
+      "end": 69.96,
+      "text": " Varun unda irikkanam."
+    },
+    {
+      "start": 69.96,
+      "end": 71.96,
+      "text": " Varun unda irikkanam."
+    },
+    {
+      "start": 71.96,
+      "end": 73.96,
+      "text": " Varun unda irikkanam."
+    },
+    {
+      "start": 73.96,
+      "end": 75.96,
+      "text": " Varun unda irikkanam."
+    },
+    {
+      "start": 75.96,
+      "end": 77.96,
+      "text": " Varun unda irikkanam."
+    },
+    {
+      "start": 77.96,
+      "end": 79.96,
+      "text": " Varun unda irikkanam."
+    },
+    {
+      "start": 79.96,
+      "end": 81.96,
+      "text": " Varun unda irikkanam."
+    },
+    {
+      "start": 81.96,
+      "end": 83.96,
+      "text": " Varun unda irikkanam."
+    },
+    {
+      "start": 83.96,
+      "end": 85.96,
+      "text": " Varun unda irikkanam."
+    },
+    {
+      "start": 85.96,
+      "end": 88.96,
+      "text": " Varumayairikyanam."
+    },
+    {
+      "start": 91.96,
+      "end": 92.84,
+      "text": " Varumayirinnu."
+    },
+    {
+      "start": 94.72,
+      "end": 95.68,
+      "text": " Varumayirikyum."
+    },
+    {
+      "start": 97.86,
+      "end": 98.94,
+      "text": " Varumayirikyaam."
+    },
+    {
+      "start": 100.94,
+      "end": 101.98,
+      "text": " Varumayirikyanam."
+    },
+    {
+      "start": 104.46,
+      "end": 105.4,
+      "text": " Varamayirinnu."
+    },
+    {
+      "start": 107.52,
+      "end": 108.62,
+      "text": " Varamayirikyum."
+    },
+    {
+      "start": 110.62,
+      "end": 112.06,
+      "text": " Varamayirikyaam."
+    },
+    {
+      "start": 114.06,
+      "end": 115.42,
+      "text": " Varamayirikyanam."
+    },
+    {
+      "start": 115.96,
+      "end": 118.96,
+      "text": " varanamayi rinnu"
+    },
+    {
+      "start": 118.96,
+      "end": 121.96,
+      "text": " varanamayi rikkum"
+    },
+    {
+      "start": 121.96,
+      "end": 125.4,
+      "text": " varanamayi rikkaam"
+    },
+    {
+      "start": 125.4,
+      "end": 128.54,
+      "text": " varanamayi rikkana"
+    },
+    {
+      "start": 128.54,
+      "end": 132.24,
+      "text": " Vocabulary practice"
+    },
+    {
+      "start": 132.24,
+      "end": 136.16,
+      "text": " Repeat each item after the speaker."
+    },
+    {
+      "start": 136.94,
+      "end": 138.5,
+      "text": " Each item is given twice."
+    },
+    {
+      "start": 138.5,
+      "end": 140.6,
+      "text": " Ready? Listen and repeat."
+    },
+    {
+      "start": 141.46,
+      "end": 141.84,
+      "text": " English"
+    },
+    {
+      "start": 141.84,
+      "end": 145.78,
+      "text": " Akam"
+    },
+    {
+      "start": 145.78,
+      "end": 147.24,
+      "text": " agam"
+    },
+    {
+      "start": 147.24,
+      "end": 149.88,
+      "text": " patthu minittin agam"
+    },
+    {
+      "start": 149.88,
+      "end": 152.78,
+      "text": " patthu minittin agam"
+    },
+    {
+      "start": 152.78,
+      "end": 154.66,
+      "text": " thiriyuga"
+    },
+    {
+      "start": 154.66,
+      "end": 156.36,
+      "text": " thiriyuga"
+    },
+    {
+      "start": 156.36,
+      "end": 158.64,
+      "text": " thirichu varuga"
+    },
+    {
+      "start": 158.64,
+      "end": 160.88,
+      "text": " thirichu varuga"
+    },
+    {
+      "start": 160.88,
+      "end": 163.8,
+      "text": " thirichu varumairikim"
+    },
+    {
+      "start": 163.8,
+      "end": 167.04,
+      "text": " thirichu varumairikim"
+    },
+    {
+      "start": 167.04,
+      "end": 169.4,
+      "text": " padham"
+    },
+    {
+      "start": 169.4,
+      "end": 171.02,
+      "text": " padham"
+    },
+    {
+      "start": 171.02,
+      "end": 173.86,
+      "text": " padhichu kundirinnapol"
+    },
+    {
+      "start": 173.86,
+      "end": 177.72,
+      "text": " Padichu kondi irunna pol"
+    },
+    {
+      "start": 177.72,
+      "end": 180.3,
+      "text": " Pol"
+    },
+    {
+      "start": 180.3,
+      "end": 182.18,
+      "text": " Pol"
+    },
+    {
+      "start": 182.18,
+      "end": 184.56,
+      "text": " Samsayam"
+    },
+    {
+      "start": 184.56,
+      "end": 186.42,
+      "text": " Samsayam"
+    },
+    {
+      "start": 186.42,
+      "end": 188.64,
+      "text": " Kalayuga"
+    },
+    {
+      "start": 188.64,
+      "end": 190.74,
+      "text": " Kalayuga"
+    },
+    {
+      "start": 190.74,
+      "end": 193.12,
+      "text": " Chodichu kalayam"
+    },
+    {
+      "start": 193.12,
+      "end": 196.12,
+      "text": " Chodichu kalayam"
+    },
+    {
+      "start": 196.12,
+      "end": 199.36,
+      "text": " Ariyam airikyam"
+    },
+    {
+      "start": 199.36,
+      "end": 202.42,
+      "text": " Ariyam airikyam"
+    },
+    {
+      "start": 202.42,
+      "end": 205.12,
+      "text": " Taruga"
+    },
+    {
+      "start": 205.12,
+      "end": 211.86,
+      "text": " Paranyu taruga"
+    },
+    {
+      "start": 211.86,
+      "end": 217.2,
+      "text": " Paranyu kudukuga"
+    },
+    {
+      "start": 217.2,
+      "end": 219.16,
+      "text": " Dukham"
+    },
+    {
+      "start": 219.16,
+      "end": 223.2,
+      "text": " Vipareetapadam"
+    },
+    {
+      "start": 223.2,
+      "end": 228.2,
+      "text": " Sukham"
+    },
+    {
+      "start": 228.2,
+      "end": 231.2,
+      "text": " Aayarikyanam"
+    },
+    {
+      "start": 231.2,
+      "end": 235.52,
+      "text": " Prasannatha"
+    },
+    {
+      "start": 235.52,
+      "end": 237.72,
+      "text": " Prasannatha"
+    },
+    {
+      "start": 237.72,
+      "end": 241.2,
+      "text": " Prasannatha illathadha"
+    },
+    {
+      "start": 241.2,
+      "end": 245.2,
+      "text": " Prasannatha illathadha"
+    },
+    {
+      "start": 246.18,
+      "end": 249.2,
+      "text": " Kannu"
+    },
+    {
+      "start": 249.2,
+      "end": 250.2,
+      "text": " Kannu"
+    },
+    {
+      "start": 250.2,
+      "end": 252.26,
+      "text": " Varuka illa irikkim"
+    },
+    {
+      "start": 252.26,
+      "end": 255.98,
+      "text": " Varuka illa irikkim"
+    },
+    {
+      "start": 255.98,
+      "end": 260.22,
+      "text": " Varanam enn unda irikkanam"
+    },
+    {
+      "start": 260.22,
+      "end": 265.54,
+      "text": " Paranam ennu undaayi rikyanam"
+    },
+    {
+      "start": 265.54,
+      "end": 268.6,
+      "text": " Kali yuga"
+    },
+    {
+      "start": 268.6,
+      "end": 274.74,
+      "text": " Padichu kali yuga"
+    },
+    {
+      "start": 274.74,
+      "end": 278.4,
+      "text": " Sangadam"
+    },
+    {
+      "start": 278.4,
+      "end": 281.54,
+      "text": " Sangadamayi rikyum"
+    },
+    {
+      "start": 281.54,
+      "end": 284.46,
+      "text": " Sangadamayi rikyum"
+    },
+    {
+      "start": 284.46,
+      "end": 287.32,
+      "text": " Vishamikyuga"
+    },
+    {
+      "start": 287.32,
+      "end": 293.54,
+      "text": " visamamunda"
+    },
+    {
+      "start": 293.54,
+      "end": 297.86,
+      "text": " kulichuga"
+    },
+    {
+      "start": 297.86,
+      "end": 302.54,
+      "text": " uduppa"
+    },
+    {
+      "start": 302.54,
+      "end": 305.38,
+      "text": " purappeduga"
+    },
+    {
+      "start": 305.38,
+      "end": 309.64,
+      "text": " purappetta"
+    },
+    {
+      "start": 309.64,
+      "end": 312.14,
+      "text": " purappedukayana"
+    },
+    {
+      "start": 312.14,
+      "end": 315.1,
+      "text": " purappedukayana"
+    },
+    {
+      "start": 315.1,
+      "end": 318.66,
+      "text": " udan, udan"
+    },
+    {
+      "start": 318.66,
+      "end": 321.58,
+      "text": " visap, visap"
+    },
+    {
+      "start": 321.58,
+      "end": 325.74,
+      "text": " visapunda, visapunda"
+    },
+    {
+      "start": 325.74,
+      "end": 330.58,
+      "text": " dahikyuga, dahikyuga"
+    },
+    {
+      "start": 330.58,
+      "end": 334.4,
+      "text": " daham, daham"
+    },
+    {
+      "start": 334.4,
+      "end": 338.58,
+      "text": " dahamunda, dahamunda"
+    },
+    {
+      "start": 338.58,
+      "end": 341.96,
+      "text": " una, una"
+    },
+    {
+      "start": 341.96,
+      "end": 346.42,
+      "text": " Reading Practice 21"
+    },
+    {
+      "start": 346.42,
+      "end": 354.42,
+      "text": " Note how Ukayana adds to the verb stem to give the progressive or continuous meaning."
+    },
+    {
+      "start": 356.14,
+      "end": 358.64,
+      "text": " Read along as the following are read out."
+    },
+    {
+      "start": 359.28,
+      "end": 361.98,
+      "text": " Try to recognize words or parts of words."
+    },
+    {
+      "start": 362.98,
+      "end": 364.02,
+      "text": " Samsaari Kugayana"
+    },
+    {
+      "start": 364.02,
+      "end": 366.44,
+      "text": " Kel Kugayana"
+    },
+    {
+      "start": 366.44,
+      "end": 368.58,
+      "text": " Kali Kugayana"
+    },
+    {
+      "start": 368.58,
+      "end": 370.9,
+      "text": " Vangi Kugayana"
+    },
+    {
+      "start": 370.9,
+      "end": 373.2,
+      "text": " Chodikyukyana"
+    },
+    {
+      "start": 373.2,
+      "end": 375.48,
+      "text": " Nokyukyana"
+    },
+    {
+      "start": 375.48,
+      "end": 377.56,
+      "text": " Idukyukyana"
+    },
+    {
+      "start": 377.56,
+      "end": 379.8,
+      "text": " Udukyukyana"
+    },
+    {
+      "start": 379.8,
+      "end": 381.98,
+      "text": " Chayyukyana"
+    },
+    {
+      "start": 381.98,
+      "end": 384.1,
+      "text": " Varukyana"
+    },
+    {
+      "start": 384.1,
+      "end": 386.28,
+      "text": " Irangukyana"
+    },
+    {
+      "start": 386.28,
+      "end": 388.64,
+      "text": " Tirichyukyana"
+    },
+    {
+      "start": 388.64,
+      "end": 391.08,
+      "text": " Paranyukyana"
+    },
+    {
+      "start": 391.08,
+      "end": 393.62,
+      "text": " Padichyukyana"
+    },
+    {
+      "start": 393.62,
+      "end": 395.78,
+      "text": " Nadukyana"
+    },
+    {
+      "start": 395.78,
+      "end": 397.88,
+      "text": " Padipykyana"
+    },
+    {
+      "start": 397.88,
+      "end": 400.08,
+      "text": " Kaanikyana"
+    },
+    {
+      "start": 400.08,
+      "end": 402.46,
+      "text": " Teerkkukaiyana"
+    },
+    {
+      "start": 402.46,
+      "end": 404.76,
+      "text": " Oottukaiyana"
+    },
+    {
+      "start": 404.76,
+      "end": 406.9,
+      "text": " Aayakkukaiyana"
+    },
+    {
+      "start": 406.9,
+      "end": 412.2,
+      "text": " Part B. Read along and recognize parts of words."
+    },
+    {
+      "start": 412.2,
+      "end": 423.04,
+      "text": " Note how the various forms of kundirikkuka can be added to a verb to convey the continuous in various tenses, etc."
+    },
+    {
+      "start": 425.22,
+      "end": 426.62,
+      "text": " Samsaarichu kundirikkunnu"
+    },
+    {
+      "start": 426.62,
+      "end": 429.2,
+      "text": " Samsaarichu kundirikkunnu nda"
+    },
+    {
+      "start": 429.2,
+      "end": 432.16,
+      "text": " samsarichi kondurikyuga yana"
+    },
+    {
+      "start": 432.16,
+      "end": 434.58,
+      "text": " samsarichi kondurinnu"
+    },
+    {
+      "start": 434.58,
+      "end": 437.66,
+      "text": " samsarichi kondurikyuga ayirinnu"
+    },
+    {
+      "start": 437.66,
+      "end": 439.86,
+      "text": " samsarichi kondurikyam"
+    },
+    {
+      "start": 439.86,
+      "end": 442.36,
+      "text": " samsarichi kondurikyum"
+    },
+    {
+      "start": 442.36,
+      "end": 445.04,
+      "text": " samsarichi kondurikanam"
+    },
+    {
+      "start": 445.04,
+      "end": 448.18,
+      "text": " samsarichi kondurikyuga ayirikkum"
+    },
+    {
+      "start": 448.18,
+      "end": 450.92,
+      "text": " samsarichi kondurikyuga ayirikkam"
+    },
+    {
+      "start": 450.92,
+      "end": 453.5,
+      "text": " samsarichi kondurinnirikkum"
+    },
+    {
+      "start": 453.5,
+      "end": 456.3,
+      "text": " samsarichi kondurinnirikkum"
+    },
+    {
+      "start": 456.3,
+      "end": 458.94,
+      "text": " samsarichi kondurikkum ayirikkum"
+    },
+    {
+      "start": 458.94,
+      "end": 461.78,
+      "text": " Samsaarich kondirikyum ayirikyam"
+    },
+    {
+      "start": 461.78,
+      "end": 464.78,
+      "text": " Samsaarich kondirikyam ayirikyam"
+    },
+    {
+      "start": 464.78,
+      "end": 467.84,
+      "text": " Samsaarich kondirikyam ayirikyam"
+    }
+  ]
+}

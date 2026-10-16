@@ -1,0 +1,1614 @@
+{
+  "pipeline_version": 6,
+  "lesson": 19,
+  "source": "data/audio/moag/lesson_19.mp3",
+  "model": "Whisper large-v3 (32 encoder and 32 decoder layers), MLX",
+  "range_start": 12.75,
+  "range_end": 244.89,
+  "method": "Acoustic cepstrum comparison pairs repeated utterances independently of textbook order; large-v3 word end timestamps matched to pauses, then global spelling assignment against printed vocabulary (order is only a weak tie-breaker). Low-confidence labels require review. Raw recognizer text retained.",
+  "words": [
+    {
+      "utterances": [
+        {
+          "start": 18.2831,
+          "end": 18.9961
+        }
+      ],
+      "raw_texts": [
+        "മാറ്റുക"
+      ],
+      "english_segments": [
+        {
+          "start": 12.75,
+          "end": 18.75,
+          "text": " Manager"
+        }
+      ],
+      "transcript": "മാനേജർ",
+      "meaning": "manager",
+      "textbook_row": 0,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_19_word_001"
+    },
+    {
+      "utterances": [
+        {
+          "start": 20.9011,
+          "end": 21.5595
+        },
+        {
+          "start": 22.9876,
+          "end": 23.6403
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 18.75,
+          "end": 23.75,
+          "text": " pune"
+        }
+      ],
+      "transcript": "പ്യൂൺ",
+      "meaning": "peon",
+      "textbook_row": 1,
+      "similarity": 0.712,
+      "status": "matched",
+      "id": "lesson_19_word_002"
+    },
+    {
+      "utterances": [
+        {
+          "start": 26.4338,
+          "end": 27.9234
+        },
+        {
+          "start": 29.2219,
+          "end": 30.7476
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 23.75,
+          "end": 30.75,
+          "text": " poirikkuke airunu"
+        }
+      ],
+      "transcript": "പോയിരിക്കുകയായിരുന്നു",
+      "meaning": "have (you) been",
+      "textbook_row": 2,
+      "similarity": 0.806,
+      "status": "matched",
+      "id": "lesson_19_word_003"
+    },
+    {
+      "utterances": [
+        {
+          "start": 32.6031,
+          "end": 33.3853
+        },
+        {
+          "start": 34.3214,
+          "end": 35.1005
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 30.75,
+          "end": 35.75,
+          "text": " veliil"
+        }
+      ],
+      "transcript": "വെളിയിൽ",
+      "meaning": "outside, out of doors",
+      "textbook_row": 3,
+      "similarity": 0.792,
+      "status": "matched",
+      "id": "lesson_19_word_004"
+    },
+    {
+      "utterances": [
+        {
+          "start": 37.2649,
+          "end": 38.041
+        },
+        {
+          "start": 39.3329,
+          "end": 40.1081
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 35.75,
+          "end": 40.75,
+          "text": " thirakku"
+        }
+      ],
+      "transcript": "തിരക്ക്",
+      "meaning": "crowd, pressure",
+      "textbook_row": 4,
+      "similarity": 0.864,
+      "status": "matched",
+      "id": "lesson_19_word_005"
+    },
+    {
+      "utterances": [
+        {
+          "start": 41.6117,
+          "end": 42.9405
+        },
+        {
+          "start": 44.2639,
+          "end": 45.5672
+        }
+      ],
+      "raw_texts": [
+        "പ്രിരുക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്ക്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 40.75,
+          "end": 45.75,
+          "text": " joili thirakkulla"
+        }
+      ],
+      "transcript": "ജോലിത്തിരക്കുള്ള",
+      "meaning": "which has/have pressure of work",
+      "textbook_row": 5,
+      "similarity": 0.912,
+      "status": "matched",
+      "id": "lesson_19_word_006"
+    },
+    {
+      "utterances": [
+        {
+          "start": 47.4444,
+          "end": 48.3038
+        },
+        {
+          "start": 49.2924,
+          "end": 50.1856
+        }
+      ],
+      "raw_texts": [
+        "",
+        "പോകരുദ്"
+      ],
+      "english_segments": [
+        {
+          "start": 45.75,
+          "end": 50.75,
+          "text": " Pokarudha"
+        }
+      ],
+      "transcript": "പോകരുത്",
+      "meaning": "(you) mustn’t go, don’t go",
+      "textbook_row": 6,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_19_word_007"
+    },
+    {
+      "utterances": [
+        {
+          "start": 51.5557,
+          "end": 52.4295
+        },
+        {
+          "start": 53.5507,
+          "end": 54.4907
+        }
+      ],
+      "raw_texts": [
+        "വിഷകുകാ",
+        "വിഷകുകാ"
+      ],
+      "english_segments": [
+        {
+          "start": 50.75,
+          "end": 54.75,
+          "text": " Vishakkuka"
+        }
+      ],
+      "transcript": "വിശക്കുക",
+      "meaning": "to be hungry (with dative subject, impersonal)",
+      "textbook_row": 8,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_19_word_008"
+    },
+    {
+      "utterances": [
+        {
+          "start": 56.0673,
+          "end": 56.919
+        },
+        {
+          "start": 57.9638,
+          "end": 58.8772
+        }
+      ],
+      "raw_texts": [
+        "വിഷന്നു",
+        "വിഷന്നു"
+      ],
+      "english_segments": [
+        {
+          "start": 54.75,
+          "end": 58.75,
+          "text": " Vishannu"
+        }
+      ],
+      "transcript": "വിശന്നു",
+      "meaning": "to be hungry (with dative subject, impersonal)",
+      "textbook_row": 8,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_19_word_009"
+    },
+    {
+      "utterances": [
+        {
+          "start": 60.4102,
+          "end": 61.1958
+        },
+        {
+          "start": 62.4454,
+          "end": 63.2331
+        }
+      ],
+      "raw_texts": [
+        "വല്ലതും",
+        "വല്ലെതും"
+      ],
+      "english_segments": [
+        {
+          "start": 58.75,
+          "end": 63.75,
+          "text": " Vallathum"
+        }
+      ],
+      "transcript": "വല്ലതും",
+      "meaning": "something",
+      "textbook_row": 10,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_19_word_010"
+    },
+    {
+      "utterances": [
+        {
+          "start": 64.5372,
+          "end": 65.4171
+        },
+        {
+          "start": 66.7691,
+          "end": 67.6766
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 63.75,
+          "end": 68.75,
+          "text": " Idakkida"
+        }
+      ],
+      "transcript": "ഇടക്കിടെ",
+      "meaning": "periodically, regularly",
+      "textbook_row": 12,
+      "similarity": 0.814,
+      "status": "matched",
+      "id": "lesson_19_word_011"
+    },
+    {
+      "utterances": [
+        {
+          "start": 69.2265,
+          "end": 70.0088
+        },
+        {
+          "start": 71.3893,
+          "end": 72.2623
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 68.75,
+          "end": 72.75,
+          "text": " Irannuka"
+        }
+      ],
+      "transcript": "ഇറങ്ങുക",
+      "meaning": "to go out, to descend, to exit",
+      "textbook_row": 13,
+      "similarity": 0.782,
+      "status": "matched",
+      "id": "lesson_19_word_012"
+    },
+    {
+      "utterances": [
+        {
+          "start": 73.6577,
+          "end": 74.4221
+        },
+        {
+          "start": 75.5742,
+          "end": 76.3915
+        }
+      ],
+      "raw_texts": [
+        "ഇഡ�",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 72.75,
+          "end": 77.75,
+          "text": " I went down."
+        }
+      ],
+      "transcript": "ഇഡ�",
+      "meaning": "",
+      "textbook_row": null,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_19_word_013"
+    },
+    {
+      "utterances": [
+        {
+          "start": 77.9788,
+          "end": 78.9467
+        },
+        {
+          "start": 80.037,
+          "end": 81.0648
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 77.75,
+          "end": 81.75,
+          "text": " I keep going."
+        }
+      ],
+      "transcript": "പോകാറുണ്ട്",
+      "meaning": "to be in the habit of going",
+      "textbook_row": 14,
+      "similarity": 0.335,
+      "status": "review",
+      "id": "lesson_19_word_014"
+    },
+    {
+      "utterances": [
+        {
+          "start": 82.7234,
+          "end": 83.687
+        },
+        {
+          "start": 84.7332,
+          "end": 85.7203
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 81.75,
+          "end": 86.75,
+          "text": " Reasons."
+        }
+      ],
+      "transcript": "ഇറങ്ങി",
+      "meaning": "to go out, to descend, to exit",
+      "textbook_row": 13,
+      "similarity": 0.38,
+      "status": "review",
+      "id": "lesson_19_word_015"
+    },
+    {
+      "utterances": [
+        {
+          "start": 87.1207,
+          "end": 88.4357
+        },
+        {
+          "start": 89.5497,
+          "end": 90.9152
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 86.75,
+          "end": 91.75,
+          "text": " Each reason."
+        }
+      ],
+      "transcript": "ില്ലാത്തത് കൊണ്ട്",
+      "meaning": "because of not ---",
+      "textbook_row": 20,
+      "similarity": 0.4,
+      "status": "review",
+      "id": "lesson_19_word_016"
+    },
+    {
+      "utterances": [
+        {
+          "start": 92.0718,
+          "end": 92.8941
+        },
+        {
+          "start": 94.0538,
+          "end": 95.2099
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 91.75,
+          "end": 95.75,
+          "text": " Reason."
+        }
+      ],
+      "transcript": "കാരണം",
+      "meaning": "reason",
+      "textbook_row": 16,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_19_word_017"
+    },
+    {
+      "utterances": [
+        {
+          "start": 96.6489,
+          "end": 97.5126
+        },
+        {
+          "start": 99.1511,
+          "end": 99.9691
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 95.75,
+          "end": 100.75,
+          "text": " It's me."
+        }
+      ],
+      "transcript": "",
+      "meaning": "",
+      "textbook_row": null,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_19_word_018"
+    },
+    {
+      "utterances": [
+        {
+          "start": 101.5948,
+          "end": 103.0914
+        },
+        {
+          "start": 104.7331,
+          "end": 106.2436
+        }
+      ],
+      "raw_texts": [
+        "പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്പ്�",
+        "നാനാനെ ചെയ്യിയിയിന്ടതാ"
+      ],
+      "english_segments": [
+        {
+          "start": 100.75,
+          "end": 107.75,
+          "text": " I have to do it."
+        }
+      ],
+      "transcript": "ഞാനാണ്--- ചെയ്യേണ്ടത്",
+      "meaning": "I am the one who has to do ---.",
+      "textbook_row": 17,
+      "similarity": 0.667,
+      "status": "review",
+      "id": "lesson_19_word_019"
+    },
+    {
+      "utterances": [
+        {
+          "start": 107.97,
+          "end": 109.0087
+        },
+        {
+          "start": 110.041,
+          "end": 111.0659
+        }
+      ],
+      "raw_texts": [
+        "ഓ പ്പിന്നെ",
+        "ഓ പ്പിന്നെ"
+      ],
+      "english_segments": [
+        {
+          "start": 107.75,
+          "end": 111.75,
+          "text": " Oh, then."
+        }
+      ],
+      "transcript": "ഓ! പിന്നെ",
+      "meaning": "Is that so! (sarcastic)",
+      "textbook_row": 18,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_19_word_020"
+    },
+    {
+      "utterances": [
+        {
+          "start": 112.6961,
+          "end": 113.7568
+        },
+        {
+          "start": 115.0198,
+          "end": 116.1354
+        }
+      ],
+      "raw_texts": [
+        "ഓരോ കധകല്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 111.75,
+          "end": 122.75,
+          "text": " Because of the absence of each story."
+        }
+      ],
+      "transcript": "ഓരോ കഥകൾ",
+      "meaning": "a different story (each time)",
+      "textbook_row": 19,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_19_word_021"
+    },
+    {
+      "utterances": [
+        {
+          "start": 117.8451,
+          "end": 119.0356
+        },
+        {
+          "start": 120.6005,
+          "end": 121.7653
+        }
+      ],
+      "raw_texts": [
+        "",
+        "ഒരോ"
+      ],
+      "english_segments": [
+        {
+          "start": 111.75,
+          "end": 122.75,
+          "text": " Because of the absence of each story."
+        }
+      ],
+      "transcript": "ഓരോ കാരണങ്ങൾ",
+      "meaning": "a different reason (every time)",
+      "textbook_row": 15,
+      "similarity": 0.5,
+      "status": "review",
+      "id": "lesson_19_word_022"
+    },
+    {
+      "utterances": [
+        {
+          "start": 123.4558,
+          "end": 124.3482
+        },
+        {
+          "start": 125.1128,
+          "end": 126.0246
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 122.75,
+          "end": 126.75,
+          "text": " Vishwasam Vishwasam"
+        }
+      ],
+      "transcript": "വിശപ്പ്",
+      "meaning": "hunger",
+      "textbook_row": 9,
+      "similarity": 0.585,
+      "status": "review",
+      "id": "lesson_19_word_023"
+    },
+    {
+      "utterances": [
+        {
+          "start": 127.6379,
+          "end": 128.3702
+        },
+        {
+          "start": 128.8518,
+          "end": 129.6124
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 126.75,
+          "end": 132.75,
+          "text": " Ayala Ayala Enikya Enikya"
+        }
+      ],
+      "transcript": "ഭയങ്കര",
+      "meaning": "awful, frightful",
+      "textbook_row": 7,
+      "similarity": 0.443,
+      "status": "review",
+      "id": "lesson_19_word_024"
+    },
+    {
+      "utterances": [
+        {
+          "start": 130.17,
+          "end": 130.948
+        },
+        {
+          "start": 131.4409,
+          "end": 132.1971
+        }
+      ],
+      "raw_texts": [
+        "കധ",
+        "എനിക്ക്"
+      ],
+      "english_segments": [
+        {
+          "start": 126.75,
+          "end": 132.75,
+          "text": " Ayala Ayala Enikya Enikya"
+        }
+      ],
+      "transcript": "എനിക്ക്",
+      "meaning": "",
+      "textbook_row": null,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_19_word_025"
+    },
+    {
+      "utterances": [
+        {
+          "start": 132.9751,
+          "end": 134.1039
+        },
+        {
+          "start": 134.6267,
+          "end": 135.7209
+        }
+      ],
+      "raw_texts": [
+        "വിഷ്വാസം ഉണ്ട",
+        "അയാളെ"
+      ],
+      "english_segments": [
+        {
+          "start": 132.75,
+          "end": 135.75,
+          "text": " Vishwasam Unda Vishwasam Unda"
+        }
+      ],
+      "transcript": "വിശ്വാസം",
+      "meaning": "faith, belief",
+      "textbook_row": 21,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_19_word_026"
+    },
+    {
+      "utterances": [
+        {
+          "start": 136.6181,
+          "end": 138.8094
+        }
+      ],
+      "raw_texts": [
+        "എനിക്ക് വിഷ്വാസം ഉണ്ട"
+      ],
+      "english_segments": [
+        {
+          "start": 135.75,
+          "end": 140.75,
+          "text": " Ayala Enikya Vishwasam Unda"
+        }
+      ],
+      "transcript": "അയാളെ എനിക്ക് വിശ്വാസമുണ്ട്",
+      "meaning": "I have faith in him",
+      "textbook_row": 22,
+      "similarity": 0.814,
+      "status": "matched",
+      "id": "lesson_19_word_027"
+    },
+    {
+      "utterances": [
+        {
+          "start": 141.7104,
+          "end": 142.3264
+        },
+        {
+          "start": 142.7089,
+          "end": 143.2769
+        }
+      ],
+      "raw_texts": [
+        "മഡീ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 140.75,
+          "end": 146.75,
+          "text": " Madi Madi Madiyan Madiyan"
+        }
+      ],
+      "transcript": "മാറ്റി",
+      "meaning": "to change (transitive)",
+      "textbook_row": 31,
+      "similarity": 0.857,
+      "status": "matched",
+      "id": "lesson_19_word_028"
+    },
+    {
+      "utterances": [
+        {
+          "start": 144.0851,
+          "end": 144.7449
+        },
+        {
+          "start": 145.269,
+          "end": 145.9337
+        }
+      ],
+      "raw_texts": [
+        "മഡീയണ്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 140.75,
+          "end": 146.75,
+          "text": " Madi Madi Madiyan Madiyan"
+        }
+      ],
+      "transcript": "മടിയൻ",
+      "meaning": "lazy fellow",
+      "textbook_row": 24,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_19_word_029"
+    },
+    {
+      "utterances": [
+        {
+          "start": 146.9175,
+          "end": 147.7332
+        },
+        {
+          "start": 148.2963,
+          "end": 149.0944
+        }
+      ],
+      "raw_texts": [
+        "മഡിച്ച്",
+        "മഡിച്"
+      ],
+      "english_segments": [
+        {
+          "start": 146.75,
+          "end": 149.75,
+          "text": " Madicchi Madicchi"
+        }
+      ],
+      "transcript": "മടിച്ചി",
+      "meaning": "lazy person (feminine)",
+      "textbook_row": 25,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_19_word_030"
+    },
+    {
+      "utterances": [
+        {
+          "start": 150.178,
+          "end": 151.0337
+        },
+        {
+          "start": 151.7205,
+          "end": 152.5496
+        }
+      ],
+      "raw_texts": [
+        "മഡിയന",
+        "മഡിയന"
+      ],
+      "english_segments": [
+        {
+          "start": 149.75,
+          "end": 163.75,
+          "text": " joli chaiyan madiyaana"
+        }
+      ],
+      "transcript": "ജോലി ചെയ്യാൻ മടിയാണ്",
+      "meaning": "reluctant, unwilling to do work (with dative subject)",
+      "textbook_row": 27,
+      "similarity": 0.64,
+      "status": "review",
+      "id": "lesson_19_word_031"
+    },
+    {
+      "utterances": [
+        {
+          "start": 154.0703,
+          "end": 155.1857
+        },
+        {
+          "start": 156.1177,
+          "end": 157.2298
+        }
+      ],
+      "raw_texts": [
+        "ജോലു ചെയ്യാന്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 149.75,
+          "end": 163.75,
+          "text": " joli chaiyan madiyaana"
+        }
+      ],
+      "transcript": "ചെയ്യാമേ",
+      "meaning": "(I) will do (connotes submissiveness)",
+      "textbook_row": 35,
+      "similarity": 0.727,
+      "status": "matched",
+      "id": "lesson_19_word_032"
+    },
+    {
+      "utterances": [
+        {
+          "start": 158.5309,
+          "end": 160.1709
+        },
+        {
+          "start": 161.3689,
+          "end": 163.4753
+        }
+      ],
+      "raw_texts": [
+        "മഡിയാണ്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 149.75,
+          "end": 163.75,
+          "text": " joli chaiyan madiyaana"
+        }
+      ],
+      "transcript": "മടിയാണ്",
+      "meaning": "(you) are lazy (with dative subject)",
+      "textbook_row": 26,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_19_word_033"
+    },
+    {
+      "utterances": [
+        {
+          "start": 166.3735,
+          "end": 167.4428
+        },
+        {
+          "start": 168.7256,
+          "end": 169.779
+        }
+      ],
+      "raw_texts": [
+        "ഏതായാളും",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 163.75,
+          "end": 169.67,
+          "text": " Edayalum"
+        }
+      ],
+      "transcript": "ഏതായാലും",
+      "meaning": "anyhow, in any case",
+      "textbook_row": 28,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_19_word_034"
+    },
+    {
+      "utterances": [
+        {
+          "start": 170.9465,
+          "end": 171.6203
+        },
+        {
+          "start": 172.3543,
+          "end": 173.0293
+        }
+      ],
+      "raw_texts": [
+        "ഇനിയും",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 169.67,
+          "end": 172.97,
+          "text": " Iniyum"
+        }
+      ],
+      "transcript": "ഇനിയും",
+      "meaning": "",
+      "textbook_row": null,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_19_word_035"
+    },
+    {
+      "utterances": [
+        {
+          "start": 173.9152,
+          "end": 174.5719
+        },
+        {
+          "start": 175.0952,
+          "end": 175.752
+        }
+      ],
+      "raw_texts": [
+        "മുതല്",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 172.97,
+          "end": 175.63,
+          "text": " Mudal"
+        }
+      ],
+      "transcript": "പുള്ളി",
+      "meaning": "guy (colloq.)",
+      "textbook_row": 11,
+      "similarity": 0.5,
+      "status": "review",
+      "id": "lesson_19_word_036"
+    },
+    {
+      "utterances": [
+        {
+          "start": 176.7906,
+          "end": 177.8698
+        },
+        {
+          "start": 178.6606,
+          "end": 179.768
+        }
+      ],
+      "raw_texts": [
+        "ഇനിയും",
+        "മുതല്"
+      ],
+      "english_segments": [
+        {
+          "start": 175.63,
+          "end": 179.61,
+          "text": " Iniyum mudal"
+        }
+      ],
+      "transcript": "ഇനിയും മുതൽ",
+      "meaning": "from now on",
+      "textbook_row": 29,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_19_word_037"
+    },
+    {
+      "utterances": [
+        {
+          "start": 181.1923,
+          "end": 181.9572
+        },
+        {
+          "start": 182.9811,
+          "end": 183.789
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 179.61,
+          "end": 183.65,
+          "text": " Allangil"
+        }
+      ],
+      "transcript": "അല്ലെങ്കിൽ",
+      "meaning": "otherwise",
+      "textbook_row": 30,
+      "similarity": 0.814,
+      "status": "matched",
+      "id": "lesson_19_word_038"
+    },
+    {
+      "utterances": [
+        {
+          "start": 185.0894,
+          "end": 185.9596
+        },
+        {
+          "start": 186.9029,
+          "end": 187.7603
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 183.65,
+          "end": 187.57,
+          "text": " Maattuka"
+        }
+      ],
+      "transcript": "മാറ്റുക",
+      "meaning": "to change (transitive)",
+      "textbook_row": 31,
+      "similarity": 0.792,
+      "status": "matched",
+      "id": "lesson_19_word_039"
+    },
+    {
+      "utterances": [
+        {
+          "start": 188.884,
+          "end": 189.6443
+        },
+        {
+          "start": 190.4443,
+          "end": 191.2245
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 187.57,
+          "end": 189.47,
+          "text": " Maatti"
+        },
+        {
+          "start": 189.47,
+          "end": 191.07,
+          "text": " Maatti"
+        }
+      ],
+      "transcript": "മടി",
+      "meaning": "laziness",
+      "textbook_row": 23,
+      "similarity": 0.95,
+      "status": "matched",
+      "id": "lesson_19_word_040"
+    },
+    {
+      "utterances": [
+        {
+          "start": 192.7316,
+          "end": 193.3758
+        },
+        {
+          "start": 194.175,
+          "end": 194.7781
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 191.07,
+          "end": 218.83,
+          "text": " stalam, stalam, stalam matuka, stalam matuka, enike, enike, ningale, ningale, stalam matteyendathai, stalam matteyendathai, varum, varum, enike ningale stalam matteyendathai varum."
+        }
+      ],
+      "transcript": "",
+      "meaning": "",
+      "textbook_row": null,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_19_word_041"
+    },
+    {
+      "utterances": [
+        {
+          "start": 195.8708,
+          "end": 196.9803
+        },
+        {
+          "start": 197.921,
+          "end": 199.0416
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 191.07,
+          "end": 218.83,
+          "text": " stalam, stalam, stalam matuka, stalam matuka, enike, enike, ningale, ningale, stalam matteyendathai, stalam matteyendathai, varum, varum, enike ningale stalam matteyendathai varum."
+        }
+      ],
+      "transcript": "",
+      "meaning": "",
+      "textbook_row": null,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_19_word_042"
+    },
+    {
+      "utterances": [
+        {
+          "start": 200.4995,
+          "end": 201.2611
+        },
+        {
+          "start": 202.302,
+          "end": 203.0158
+        }
+      ],
+      "raw_texts": [
+        "അല്ലങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 191.07,
+          "end": 218.83,
+          "text": " stalam, stalam, stalam matuka, stalam matuka, enike, enike, ningale, ningale, stalam matteyendathai, stalam matteyendathai, varum, varum, enike ningale stalam matteyendathai varum."
+        }
+      ],
+      "transcript": "അല്ലങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ്ങ",
+      "meaning": "",
+      "textbook_row": null,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_19_word_043"
+    },
+    {
+      "utterances": [
+        {
+          "start": 204.3863,
+          "end": 205.1302
+        },
+        {
+          "start": 206.1817,
+          "end": 206.9459
+        }
+      ],
+      "raw_texts": [
+        "നിങ്ങളെ",
+        "സ്ഥലം"
+      ],
+      "english_segments": [
+        {
+          "start": 191.07,
+          "end": 218.83,
+          "text": " stalam, stalam, stalam matuka, stalam matuka, enike, enike, ningale, ningale, stalam matteyendathai, stalam matteyendathai, varum, varum, enike ningale stalam matteyendathai varum."
+        }
+      ],
+      "transcript": "എനിക്ക് നിങ്ങളെ സ്ഥലം മാറ്റേണ്ടതായി വരും",
+      "meaning": "I will have to transfer you",
+      "textbook_row": 33,
+      "similarity": 0.514,
+      "status": "review",
+      "id": "lesson_19_word_044"
+    },
+    {
+      "utterances": [
+        {
+          "start": 208.4132,
+          "end": 210.0262
+        },
+        {
+          "start": 210.8598,
+          "end": 212.3883
+        }
+      ],
+      "raw_texts": [
+        "മാറ്റുക",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 191.07,
+          "end": 218.83,
+          "text": " stalam, stalam, stalam matuka, stalam matuka, enike, enike, ningale, ningale, stalam matteyendathai, stalam matteyendathai, varum, varum, enike ningale stalam matteyendathai varum."
+        }
+      ],
+      "transcript": "സ്ഥലം മാറ്റുക",
+      "meaning": "to transfer",
+      "textbook_row": 32,
+      "similarity": 0.769,
+      "status": "matched",
+      "id": "lesson_19_word_045"
+    },
+    {
+      "utterances": [
+        {
+          "start": 213.0635,
+          "end": 213.647
+        },
+        {
+          "start": 214.1401,
+          "end": 214.681
+        }
+      ],
+      "raw_texts": [
+        "",
+        "എനിക്ക്"
+      ],
+      "english_segments": [
+        {
+          "start": 191.07,
+          "end": 218.83,
+          "text": " stalam, stalam, stalam matuka, stalam matuka, enike, enike, ningale, ningale, stalam matteyendathai, stalam matteyendathai, varum, varum, enike ningale stalam matteyendathai varum."
+        }
+      ],
+      "transcript": "എനിക്ക്",
+      "meaning": "",
+      "textbook_row": null,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_19_word_046"
+    },
+    {
+      "utterances": [
+        {
+          "start": 216.0074,
+          "end": 218.9649
+        },
+        {
+          "start": 222.9431,
+          "end": 226.1277
+        }
+      ],
+      "raw_texts": [
+        "നിങ്ങളെ",
+        "സ്ഥലം മാറ്റുക"
+      ],
+      "english_segments": [
+        {
+          "start": 191.07,
+          "end": 218.83,
+          "text": " stalam, stalam, stalam matuka, stalam matuka, enike, enike, ningale, ningale, stalam matteyendathai, stalam matteyendathai, varum, varum, enike ningale stalam matteyendathai varum."
+        },
+        {
+          "start": 221.07,
+          "end": 225.93,
+          "text": " I will have to change the place for you."
+        }
+      ],
+      "transcript": "സ്ഥലം മാറ്റരുതേ",
+      "meaning": "please don’t transfer (me) (connotes pleading)",
+      "textbook_row": 34,
+      "similarity": 0.778,
+      "status": "matched",
+      "id": "lesson_19_word_047"
+    },
+    {
+      "utterances": [
+        {
+          "start": 229.3964,
+          "end": 230.7368
+        },
+        {
+          "start": 231.6473,
+          "end": 233.5103
+        }
+      ],
+      "raw_texts": [
+        "",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 228.47,
+          "end": 230.55,
+          "text": " Don't change the place."
+        }
+      ],
+      "transcript": "",
+      "meaning": "",
+      "textbook_row": null,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_19_word_048"
+    },
+    {
+      "utterances": [
+        {
+          "start": 234.5564,
+          "end": 235.7405
+        },
+        {
+          "start": 236.6184,
+          "end": 237.4962
+        }
+      ],
+      "raw_texts": [
+        "",
+        "എനിക്ക്"
+      ],
+      "english_segments": [
+        {
+          "start": 233.97,
+          "end": 235.61,
+          "text": " Do it."
+        }
+      ],
+      "transcript": "എനിക്ക്",
+      "meaning": "",
+      "textbook_row": null,
+      "similarity": 0,
+      "status": "review",
+      "id": "lesson_19_word_049"
+    },
+    {
+      "utterances": [
+        {
+          "start": 238.5676,
+          "end": 239.4404
+        },
+        {
+          "start": 240.3735,
+          "end": 241.3972
+        }
+      ],
+      "raw_texts": [
+        "പ്രയാസം",
+        ""
+      ],
+      "english_segments": [
+        {
+          "start": 237.61,
+          "end": 238.89,
+          "text": " Try."
+        }
+      ],
+      "transcript": "പ്രയാസം",
+      "meaning": "difficulty",
+      "textbook_row": 36,
+      "similarity": 1.0,
+      "status": "matched",
+      "id": "lesson_19_word_050"
+    }
+  ],
+  "textbook_vocabulary": [
+    {
+      "malayalam": "മാനേജർ",
+      "meaning": "manager"
+    },
+    {
+      "malayalam": "പ്യൂൺ",
+      "meaning": "peon"
+    },
+    {
+      "malayalam": "പോയിരിക്കുകയായിരുന്നു",
+      "meaning": "have (you) been"
+    },
+    {
+      "malayalam": "വെളിയിൽ",
+      "meaning": "outside, out of doors"
+    },
+    {
+      "malayalam": "തിരക്ക്",
+      "meaning": "crowd, pressure"
+    },
+    {
+      "malayalam": "ജോലിത്തിരക്കുള്ള",
+      "meaning": "which has/have pressure of work"
+    },
+    {
+      "malayalam": "പോകരുത്",
+      "meaning": "(you) mustn’t go, don’t go"
+    },
+    {
+      "malayalam": "ഭയങ്കര",
+      "meaning": "awful, frightful"
+    },
+    {
+      "malayalam": "വിശക്കുക (past tense: വിശന്നു)",
+      "meaning": "to be hungry (with dative subject, impersonal)"
+    },
+    {
+      "malayalam": "വിശപ്പ്",
+      "meaning": "hunger"
+    },
+    {
+      "malayalam": "വല്ലതും",
+      "meaning": "something"
+    },
+    {
+      "malayalam": "പുള്ളി",
+      "meaning": "guy (colloq.)"
+    },
+    {
+      "malayalam": "ഇടക്കിടെ",
+      "meaning": "periodically, regularly"
+    },
+    {
+      "malayalam": "ഇറങ്ങുക (past tense: ഇറങ്ങി)",
+      "meaning": "to go out, to descend, to exit"
+    },
+    {
+      "malayalam": "പോകാറുണ്ട്",
+      "meaning": "to be in the habit of going"
+    },
+    {
+      "malayalam": "ഓരോ കാരണങ്ങൾ",
+      "meaning": "a different reason (every time)"
+    },
+    {
+      "malayalam": "കാരണം",
+      "meaning": "reason"
+    },
+    {
+      "malayalam": "ഞാനാണ്--- ചെയ്യേണ്ടത്",
+      "meaning": "I am the one who has to do ---."
+    },
+    {
+      "malayalam": "ഓ! പിന്നെ",
+      "meaning": "Is that so! (sarcastic)"
+    },
+    {
+      "malayalam": "ഓരോ കഥകൾ",
+      "meaning": "a different story (each time)"
+    },
+    {
+      "malayalam": "---ില്ലാത്തത് കൊണ്ട്",
+      "meaning": "because of not ---"
+    },
+    {
+      "malayalam": "വിശ്വാസം",
+      "meaning": "faith, belief"
+    },
+    {
+      "malayalam": "അയാളെ എനിക്ക് വിശ്വാസമുണ്ട്",
+      "meaning": "I have faith in him"
+    },
+    {
+      "malayalam": "മടി",
+      "meaning": "laziness"
+    },
+    {
+      "malayalam": "മടിയൻ",
+      "meaning": "lazy fellow"
+    },
+    {
+      "malayalam": "മടിച്ചി",
+      "meaning": "lazy person (feminine)"
+    },
+    {
+      "malayalam": "മടിയാണ്",
+      "meaning": "(you) are lazy (with dative subject)"
+    },
+    {
+      "malayalam": "ജോലി ചെയ്യാൻ മടിയാണ്",
+      "meaning": "reluctant, unwilling to do work (with dative subject)"
+    },
+    {
+      "malayalam": "ഏതായാലും",
+      "meaning": "anyhow, in any case"
+    },
+    {
+      "malayalam": "ഇനിയും മുതൽ",
+      "meaning": "from now on"
+    },
+    {
+      "malayalam": "അല്ലെങ്കിൽ",
+      "meaning": "otherwise"
+    },
+    {
+      "malayalam": "മാറ്റുക (past tense: മാറ്റി)",
+      "meaning": "to change (transitive)"
+    },
+    {
+      "malayalam": "സ്ഥലം മാറ്റുക",
+      "meaning": "to transfer"
+    },
+    {
+      "malayalam": "എനിക്ക് നിങ്ങളെ സ്ഥലം മാറ്റേണ്ടതായി വരും",
+      "meaning": "I will have to transfer you"
+    },
+    {
+      "malayalam": "സ്ഥലം മാറ്റരുതേ",
+      "meaning": "please don’t transfer (me) (connotes pleading)"
+    },
+    {
+      "malayalam": "ചെയ്യാമേ",
+      "meaning": "(I) will do (connotes submissiveness)"
+    },
+    {
+      "malayalam": "പ്രയാസം",
+      "meaning": "difficulty"
+    }
+  ],
+  "unmatched_textbook_rows": [],
+  "recognition_sha256": "abd9c6ec3c8a4fd44e8f48ee60a4a143aea980e6b0120c2862ca43835d0869e3",
+  "boundary_sha256": "aca454d25735cf87a66ffb96bdd5f5cb481fed8ccdd54d6b9ae3b78ebf0e486a"
+}
