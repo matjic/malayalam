@@ -1,6 +1,8 @@
 <a id="glossary"></a><!-- reading-anchor -->
 # Malayalam-English Glossary
 
+For vocabulary from the lesson tables with recordings, use the [Vocabulary Glossary](vocabulary-glossary.md).
+
 <!-- Source: PDF page 503; printed page 440. -->
 
 Use the letter links to browse, or search for a Malayalam word or English meaning. Linked lesson numbers open that lesson’s vocabulary.

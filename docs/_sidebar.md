@@ -56,3 +56,4 @@
 
 * Review and supporting material
   * [Textbook Proofreading Review](proofreading-review.md)
+  * [Vocabulary Glossary](vocabulary-glossary.md)

@@ -14,7 +14,13 @@
         "docs:check-navigation": "python3 scripts/generate-reading-navigation.py --check && python3 scripts/generate-sidebar.py --check",
         "docs:check-reading": "python3 scripts/validate-reading.py",
         "docs:writing": "python3 scripts/build-writing-symbols.py",
-        "docs:check-writing": "python3 scripts/build-writing-symbols.py --check && python3 scripts/validate-writing-symbols.py"
+        "docs:check-writing": "python3 scripts/build-writing-symbols.py --check && python3 scripts/validate-writing-symbols.py",
+        "docs:vocabulary": "python3 scripts/build-vocabulary-catalog.py",
+        "docs:check-vocabulary": "python3 scripts/build-vocabulary-catalog.py --check",
+        "docs:anki": "python3 scripts/build-vocabulary-catalog.py && python3 scripts/build-anki.py",
+        "docs:check-anki": "python3 scripts/build-vocabulary-catalog.py --check && python3 scripts/test_anki.py",
+        "docs:glossary": "python3 scripts/build-vocabulary-catalog.py && python3 scripts/build-vocabulary-glossary.py",
+        "docs:check-glossary": "python3 scripts/build-vocabulary-catalog.py --check && python3 scripts/build-vocabulary-glossary.py --check"
     },
     "dependencies": {
         "docsify-cli": "^4.4.3"

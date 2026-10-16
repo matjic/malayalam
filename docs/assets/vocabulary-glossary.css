@@ -1,0 +1,4 @@
+.vocabulary-glossary-controls { margin: 1.5rem 0; display: grid; gap: .5rem; max-width: 36rem; }
+.vocabulary-glossary-controls label { font-weight: 600; }
+.vocabulary-glossary-controls input, .vocabulary-glossary-controls select { font: inherit; color: inherit; background: transparent; border: 1px solid #9aabb9; border-radius: 6px; padding: .6rem; width: 100%; }
+.markdown-section [hidden] { display: none !important; }
