@@ -55,5 +55,6 @@
 * [Index](book-index.md)
 
 * Review and supporting material
+  * [Anki Vocabulary Deck](anki.md)
   * [Textbook Proofreading Review](proofreading-review.md)
   * [Vocabulary Glossary](vocabulary-glossary.md)

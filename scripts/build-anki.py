@@ -65,6 +65,10 @@ def build(output):
         package = genanki.Package([parent, *decks.values()])
         package.media_files = files
         package.write_to_file(str(output / 'malayalam-moag.apkg'))
+    site_package = ROOT / 'docs/assets/decks/malayalam-moag.apkg'
+    site_package.parent.mkdir(parents=True, exist_ok=True)
+    if (output / 'malayalam-moag.apkg').resolve() != site_package.resolve():
+        shutil.copyfile(output / 'malayalam-moag.apkg', site_package)
     summary = dict(notes=len(data['entries']), cards=2*len(data['entries']), chapters=25,
                    notes_with_audio=sum(bool(e['audio']) for e in data['entries']), audio_files=len(media),
                    notes_without_audio=sum(not e['audio'] for e in data['entries']))
