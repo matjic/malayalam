@@ -63,7 +63,9 @@ can be inspected and revised.
 ## Delivery and validation
 
 The site is served as static files through GitHub Pages. GitHub Actions builds the
-EPUB with Pandoc, validates it with EPUBCheck, renders and validates a PDF, builds and tests the Anki deck, and deploys all three alongside the site.
+EPUB with Pandoc and validates it with EPUBCheck. Separate jobs render and validate
+the PDF and build and test the Anki deck in parallel. Once all three jobs pass, a
+publishing job downloads their artifacts and assembles the site for deployment.
 Both book formats share content preparation and reading order. The book exports retain the written content and omit audio players, recording
 links, and Audio columns. Anki packages embed recordings and a Malayalam font for offline study.
 
