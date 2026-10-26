@@ -1,31 +1,41 @@
-@font-face {
-  font-family: 'Noto Sans Malayalam';
-  src: url('../fonts/sJoi3K5XjsSdcnzn071rL37lpAOsUThnDZIfPdbeSNzVakglNM-Qw8EaeB8Nss-_RuDNG1bFn6E.woff2');
-}
-body { font-family: 'Noto Sans Malayalam', sans-serif; line-height: 1.5; }
+@font-face { font-family: 'Noto Serif Tamil'; src: url('../fonts/NotoSerifTamil-Regular.ttf'); font-weight: 400; }
+@font-face { font-family: 'Noto Serif Tamil'; src: url('../fonts/NotoSerifTamil-Bold.ttf'); font-weight: 700; }
+@font-face { font-family: 'Source Serif 4'; src: url('../fonts/SourceSerif4-Regular.ttf'); font-weight: 400; }
+@font-face { font-family: 'Source Serif 4'; src: url('../fonts/SourceSerif4-Bold.ttf'); font-weight: 700; }
+@font-face { font-family: 'Source Serif 4'; src: url('../fonts/SourceSerif4-Italic.ttf'); font-weight: 400; font-style: italic; }
+@font-face { font-family: 'Source Serif 4'; src: url('../fonts/SourceSerif4-BoldItalic.ttf'); font-weight: 700; font-style: italic; }
+@font-face { font-family: 'Noto Serif Malayalam'; src: url('../fonts/NotoSerifMalayalam-Regular.ttf'); font-weight: 400; }
+@font-face { font-family: 'Noto Serif Malayalam'; src: url('../fonts/NotoSerifMalayalam-Bold.ttf'); font-weight: 700; }
+body { font-family: 'Source Serif 4', 'Noto Serif Malayalam', 'Noto Serif Tamil', serif; line-height: 1.45; margin: 0; padding: 0; }
+h1, h2, h3 { line-height: 1.25; page-break-after: avoid; break-after: avoid; }
+h1 { font-size: 1.55em; font-weight: normal; margin: .3em 0 .65em; }
+h2 { font-size: 1.2em; font-weight: normal; margin: .8em 0 .35em; }
+h3 { font-size: 1.08em; margin: .65em 0 .3em; }
+p { margin: 0 0 .4em; orphans: 3; widows: 3; }
 img { max-width: 100%; height: auto; }
-table {
-  border-collapse: collapse;
-  width: 100%;
-  font-size: 0.85em;
-  /* Long tables may continue between rows. */
-  page-break-inside: auto;
-  break-inside: auto;
-}
+table { border-collapse: collapse; width: 100%; font-size: .95em; line-height: 1.4; margin: .55em 0; page-break-inside: auto; break-inside: auto; }
 tbody { page-break-inside: auto; break-inside: auto; }
-tr {
-  /* Cover both paged readers and readers that paginate with columns. */
-  page-break-inside: avoid;
-  break-inside: avoid;
-}
-thead {
-  display: table-header-group;
-  page-break-inside: avoid;
-  break-inside: avoid;
-  page-break-after: avoid;
-  break-after: avoid;
-}
+tr { page-break-inside: avoid; break-inside: avoid; }
+thead { display: table-header-group; page-break-inside: avoid; break-inside: avoid; page-break-after: avoid; break-after: avoid; }
 tfoot { display: table-footer-group; }
-th, td { padding: 0.3em; border: 1px solid #888; vertical-align: top; }
-h1, h2, h3 { page-break-after: avoid; }
-a { overflow-wrap: break-word; }
+th, td { padding: .2em .4em; border: 0; vertical-align: top; }
+th { text-align: left; }
+a { color: inherit; overflow-wrap: break-word; }
+blockquote { margin: .6em 0 .6em .4em; padding-left: .7em; border-left: 1px solid #888; font-size: .95em; }
+svg.writing-symbol, svg.writing-table { color: inherit; max-width: 100%; height: auto; display: block; margin: .5em auto; page-break-inside: avoid; break-inside: avoid; }
+svg.writing-symbol { width: 16em; }
+svg.writing-table { width: 100%; }
+
+ul, ol { margin-top: .3em; margin-bottom: .5em; }
+li { margin-bottom: .15em; }
+
+/* Keep vocabulary compact without imposing nested columns on ebook readers. */
+.vocabulary-list { margin: .35em 0; }
+.vocabulary-entry { page-break-inside: avoid; break-inside: avoid; margin: 0; padding: .1em 0; font-size: .95em; line-height: 1.35; }
+.vocabulary-entry p { display: table; table-layout: fixed; width: 100%; margin: 0; orphans: 1; widows: 1; }
+.vocabulary-term { display: table-cell; width: 40%; padding-right: .5em; font-weight: bold; overflow-wrap: break-word; }
+.vocabulary-definition { display: table-cell; overflow-wrap: break-word; }
+
+.vocabulary-entry-long p { display: block; }
+.vocabulary-entry-long .vocabulary-term { display: block; width: auto; padding-right: 0; }
+.vocabulary-entry-long .vocabulary-definition { display: block; margin-left: 40%; padding-left: .5em; }

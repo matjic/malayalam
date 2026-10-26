@@ -12,6 +12,7 @@ DOCS = ROOT / "docs"
 def generate():
     book = []
     supplements = []
+    project_notes = []
     order = {path.name: index for index, path in enumerate(reading_documents())}
     for path in DOCS.glob("*.md"):
         if path.name.startswith("_") or path.name in {"README.md", "contents.md", "digital-edition.md", "practice.md"}:
@@ -24,7 +25,9 @@ def generate():
         if title.isupper():
             title = title.title()
         link = f"* [{title}]({path.name})"
-        if path.name in order:
+        if path.name == "technical-notes.md":
+            project_notes.append(link)
+        elif path.name in order:
             book.append((order[path.name], path.name, link))
         else:
             supplements.append((path.name, link))
@@ -40,6 +43,8 @@ def generate():
     if supplements:
         lines.extend(["", "* Review and supporting material"])
         lines.extend(f"  {link}" for _, link in sorted(supplements))
+    if project_notes:
+        lines.extend(["", *project_notes])
     return "\n".join(lines) + "\n"
 
 

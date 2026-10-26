@@ -134,18 +134,28 @@
 
 Note how -ഉകയാണ് adds to the verb stem to give the progressive or continuous meaning.
 
-| | |
-|---|---|
-| സംസാരിക്കുകയാണ് | ഇറങ്ങുകയാണ് |
-| കേൾക്കുകയാണ് | തിരിച്ചുവരുകയാണ് |
-| കഴിക്കുകയാണ് | പറഞ്ഞുതരുകയാണ് |
-| വാങ്ങിക്കുകയാണ് | പഠിച്ചുതീരുകയാണ് |
-| ചോദിക്കുകയാണ് | നടത്തുകയാണ് |
-| നോക്കുകയാണ് | പഠിപ്പിക്കുകയാണ് |
-| എടുക്കുകയാണ് | കാണിക്കുകയാണ് |
-| ഉടുക്കുകയാണ് | തീർക്കുകയാണ് |
-| ചെയ്യുകയാണ് | ഊട്ടുകയാണ് |
-| വരുകയാണ് | അയക്കുകയാണ് |
+| Progressive form |
+|---|
+| സംസാരിക്കുകയാണ് |
+| കേൾക്കുകയാണ് |
+| കഴിക്കുകയാണ് |
+| വാങ്ങിക്കുകയാണ് |
+| ചോദിക്കുകയാണ് |
+| നോക്കുകയാണ് |
+| എടുക്കുകയാണ് |
+| ഉടുക്കുകയാണ് |
+| ചെയ്യുകയാണ് |
+| വരുകയാണ് |
+| ഇറങ്ങുകയാണ് |
+| തിരിച്ചുവരുകയാണ് |
+| പറഞ്ഞുതരുകയാണ് |
+| പഠിച്ചുതീരുകയാണ് |
+| നടത്തുകയാണ് |
+| പഠിപ്പിക്കുകയാണ് |
+| കാണിക്കുകയാണ് |
+| തീർക്കുകയാണ് |
+| ഊട്ടുകയാണ് |
+| അയക്കുകയാണ് |
 
 <a id="lesson21-b"></a><!-- reading-anchor -->
 ### B.
@@ -251,9 +261,7 @@ Note how the various forms of കൊണ്ടിരിക്കുക can be add
 **Model:** ഞാൻ ഈ പുസ്തകം ഇന്ന് വായിച്ചു കഴിയും. ഉടൻ (ഞാൻ) നിന്നോട് ഇതിന്റെ കഥ പറയാം.  
 ഞാൻ ഈ പുസ്തകം ഇന്ന് വായിച്ചു കഴിയുന്നയുടൻ നിന്നോട് ഇതിന്റെ കഥ പറയാം.
 
-<!-- Source: PDF page 378; printed page 319. -->
-
-1. ആ കുട്ടിക്ക് വിശന്നു. ഉടൻ അമ്മ അവന് ഊണ് കൊടുത്തു.
+1. ആ കുട്ടിക്ക് വിശന്നു. ഉടൻ അമ്മ അവന് ഊണ് കൊടുത്തു. <!-- Source: PDF page 378; printed page 319. -->
 2. അയാൾ ഇന്നലെ എന്നെ കണ്ടു. ഉടൻ (അയാൾ) മുഖം തിരിച്ചുകളഞ്ഞു.
 3. ഞാൻ ചോദിച്ചത് (ജെയിംസ്) കേട്ടു. ഉടൻ തന്നെ ജെയിംസ് അത് സമ്മതിച്ചു.
 4. അയാൾക്ക് പണം ആവശ്യമുണ്ട്. ഉടൻ തന്നെ പണം കിട്ടിയില്ലെങ്കിൽ അയാൾ വിഷമിക്കും.
@@ -342,9 +350,7 @@ Note that -ആകുക can be used meaning both “be” and “become” in th
 
 \* Note the doubling of പ when -പ്പോൾ is joined here.
 
-<!-- Source: PDF page 381; printed page 322. -->
-
-5. ഞാൻ ഡാക്ടർ ആയപ്പോൾ.........
+5. ഞാൻ ഡാക്ടർ ആയപ്പോൾ......... <!-- Source: PDF page 381; printed page 322. -->
 
    “When I became a doctor....”
 6. ഞാൻ പണക്കാരനാകുമ്പോൾ.........
@@ -414,9 +420,7 @@ Finally, note that as with all subordinate clauses in Malayalam, those treated h
 
 **A.** Time adverbial clauses expressing “by the time” and “as soon as” are formed with the complex conjunction അപ്പോഴേക്കും “by that time.” Like അപ്പോൾ (see [21.1](lesson21.md#section-21-1)) it only attaches to the future/habitual, to a past tense, or to a desiderative in which case the initial അ drops. When the verb in the time adverbial clause is future/habitual , the verb in the main clause must appear in the future perfect, formed with the conjunctive (past participle) of the verb plus the future or desiderative of the auxiliary ഇരിക്കുക. c.f.:
 
-<!-- Source: PDF page 383; printed page 324. -->
-
-1. നീ പോലീസിനോട് റിപ്പോർട്ട് ചെയ്യുമ്പോഴേക്കും അവൻ നാട് കടന്നിരിക്കും.
+1. നീ പോലീസിനോട് റിപ്പോർട്ട് ചെയ്യുമ്പോഴേക്കും അവൻ നാട് കടന്നിരിക്കും. <!-- Source: PDF page 383; printed page 324. -->
 
    “By the time you make a report to the police, he will have fled the country.”
 > **Editorial learner note:** അവസരം means “opportunity” or “chance”; it is listed again in Lesson Twenty-Three.
@@ -456,9 +460,7 @@ If you watched a videotape last night, you would say (using the past negative ve
 
 If you are draining a well, you might say:
 
-<!-- Source: PDF page 384; printed page 325. -->
-
-9. വെള്ളം കിട്ടാത്തത് വരെ പമ്പ് ചെയ്യണം. — “You should pump until you don't get (any) water”.
+9. വെള്ളം കിട്ടാത്തത് വരെ പമ്പ് ചെയ്യണം. — “You should pump until you don't get (any) water”. <!-- Source: PDF page 384; printed page 325. -->
 
 The past tense form would be:
 
@@ -495,9 +497,7 @@ B. എ occurs after words ending in:
 
 Note that the final vowel drops before adding എ.
 
-<!-- Source: PDF page 385; printed page 326. -->
-
-2. A few title words ending in ഉ. Examples:
+2. A few title words ending in ഉ. Examples: <!-- Source: PDF page 385; printed page 326. -->
 
 | Malayalam | English |
 | --- | --- |
@@ -607,9 +607,7 @@ In a few instances it is interchangeable with the progressive form of the verb (
 
 The other meaning is that of “away” in the sense of finality, i.e. of terminating all involvement with something, or of direction. Witness:
 
-<!-- Source: PDF page 390; printed page 331. -->
-
-6. ഞാൻ ഇതെല്ലാം വേലക്കാരിക്ക് കൊടുത്ത് കളയാം. — “I'll give all of this away to the servant (fem.).”
+6. ഞാൻ ഇതെല്ലാം വേലക്കാരിക്ക് കൊടുത്ത് കളയാം. — “I'll give all of this away to the servant (fem.).” <!-- Source: PDF page 390; printed page 331. -->
 7. അവർ പോയിക്കളയുന്നതിനുമുമ്പ് നമുക്ക് അവിടെ എത്താം. — “Let's get there before they go away.”
 
 **C.** The modifiers തരുക and കൊടുക്കുക are used to mark the benefactor of the action of the main verb. In this function they preserve the same opposition as to indirect object which they have as main verbs, that is തരുക can be used only when the benefactor is first or second persons and കൊടുക്കുക is used only when the benefactor is a third person. Thus പറഞ്ഞു തരുക can only mean “tell me” whereas പറഞ്ഞുകൊടുക്കുക can only mean “tell him, her, or them.” These modifiers are limited, of course, to those main verbs which can logically have a benefactor. Note, however, that this is a larger class than the small group which can take indirect objects. Witness:

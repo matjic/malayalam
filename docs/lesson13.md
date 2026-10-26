@@ -70,7 +70,7 @@
 <a id="lesson13-a-note-how--u0d1fu0d1f-combines-with-the-following-verbs"></a><!-- reading-anchor -->
 ### A. Note how -ിട്ട് combines with the following verbs.
 
-| | |
+| Dictionary form | With -ിട്ട് |
 |---|---|
 | പഠിക്കുക | പഠിച്ചിട്ട് |
 | വാങ്ങിക്കുക | വാങ്ങിച്ചിട്ട് |
@@ -90,15 +90,21 @@
 <a id="lesson13-b-note-how--u0d1fu0d1fu0d23u0d1f-joins-to-these-verbs"></a><!-- reading-anchor -->
 ### B. Note how -ിട്ടുണ്ട് joins to these verbs.
 
-| | |
-|---|---|
-| പഠിച്ചിട്ടുണ്ട് | വാങ്ങിച്ചിട്ടുണ്ട് |
-| കിട്ടിയിട്ടുണ്ട് | നോക്കിയിട്ടുണ്ട് |
-| എടുത്തിട്ടുണ്ട് | കൊടുത്തിട്ടുണ്ട് |
-| പറഞ്ഞിട്ടുണ്ട് | നടന്നിട്ടുണ്ട് |
-| ഇരുന്നിട്ടുണ്ട് | കേട്ടിട്ടുണ്ട് |
-| കണ്ടിട്ടുണ്ട് | പോയിട്ടുണ്ട് |
-| വന്നിട്ടുണ്ട് | |
+| Form with -ിട്ടുണ്ട് |
+|---|
+| പഠിച്ചിട്ടുണ്ട് |
+| കിട്ടിയിട്ടുണ്ട് |
+| എടുത്തിട്ടുണ്ട് |
+| പറഞ്ഞിട്ടുണ്ട് |
+| ഇരുന്നിട്ടുണ്ട് |
+| കണ്ടിട്ടുണ്ട് |
+| വന്നിട്ടുണ്ട് |
+| വാങ്ങിച്ചിട്ടുണ്ട് |
+| നോക്കിയിട്ടുണ്ട് |
+| കൊടുത്തിട്ടുണ്ട് |
+| നടന്നിട്ടുണ്ട് |
+| കേട്ടിട്ടുണ്ട് |
+| പോയിട്ടുണ്ട് |
 
 <!-- Source: PDF page 241; printed page 187. -->
 
@@ -146,10 +152,20 @@
 
 **2.** A. Give the Malayalam for the following numbers.
 
-| 25 | 38 | 53 | 21 |
-|---:|---:|---:|---:|
-| 33 | 44 | 99 | 87 |
-| 75 | 66 | 34 | 59 |
+| Number |
+|---|
+| 25 |
+| 33 |
+| 75 |
+| 38 |
+| 44 |
+| 66 |
+| 53 |
+| 99 |
+| 34 |
+| 21 |
+| 87 |
+| 59 |
 
 B. The teacher will call on individual students. Each student, in turn, calls on another student, giving him two numbers between twenty and one hundred, hopefully not too far apart. The designated student must then count from the lower to higher number, with no mistakes or omissions. Note, if a higher number is given followed by a lower number, the designated student must count backwards.
 
@@ -233,15 +249,21 @@ B.
 
 **7.** Add -ിട്ട് and -ിട്ടുണ്ട് to the following past tense forms.
 
-| | |
-|---|---|
-| വായിച്ചു | കഴിച്ചു |
-| വച്ചു | കാണിച്ചു |
-| പറ്റി | കിട്ടി |
-| ശരിയാക്കി | ഉടുത്തു |
-| എടുത്തു | കളഞ്ഞു |
-| നടന്നു | ചെയ്തു |
-| തന്നു |  |
+| Past tense form |
+|---|
+| വായിച്ചു |
+| വച്ചു |
+| പറ്റി |
+| ശരിയാക്കി |
+| എടുത്തു |
+| നടന്നു |
+| തന്നു |
+| കഴിച്ചു |
+| കാണിച്ചു |
+| കിട്ടി |
+| ഉടുത്തു |
+| കളഞ്ഞു |
+| ചെയ്തു |
 
 <!-- Source: PDF page 245; printed page 191. -->
 
@@ -250,15 +272,22 @@ B.
 Models: അച്ഛൻ — അച്ഛനെപ്പോലെ  
 മാങ്ങ — മാങ്ങ പോലെ
 
-| | |
-|---|---|
-| അദ്ദേഹം | വീട് |
-| നമ്മൾ | നിങ്ങൾ |
-| പഴം | മോട്ടോർ |
-| ഞാൻ | എഴുതുന്നത് |
-| കൃഷ്ണൻ | കഴിക്കുന്നത് |
-| ജെയിംസ് | ഇറച്ചി |
-| കുട്ടി | സ്ത്രീ |
+| Word to combine |
+|---|
+| അദ്ദേഹം |
+| നമ്മൾ |
+| പഴം |
+| ഞാൻ |
+| കൃഷ്ണൻ |
+| ജെയിംസ് |
+| കുട്ടി |
+| വീട് |
+| നിങ്ങൾ |
+| മോട്ടോർ |
+| എഴുതുന്നത് |
+| കഴിക്കുന്നത് |
+| ഇറച്ചി |
+| സ്ത്രീ |
 
 <a id="lesson13-grammar-notes"></a><!-- reading-anchor -->
 ## Grammar Notes
@@ -279,9 +308,7 @@ Note that the two exceptions which do not take യ are പോയി “went” a
 3. അവൻ മദ്രാസിൽ പോയിട്ടുണ്ടോ?
 “Has he ever been to Madras?”
 
-<!-- Source: PDF page 246; printed page 192. -->
-
-4. ഇറച്ചി ചീത്തയായിട്ടുണ്ട്.
+4. ഇറച്ചി ചീത്തയായിട്ടുണ്ട്. <!-- Source: PDF page 246; printed page 192. -->
 “The meat has gone bad, is spoiled.”
 
 The stative perfect is used somewhat less often in Malayalam than its counterpart in English. It is used to describe a completed event (hence the necessity of the completive marker -ിട്ട്) in past time, but one whose effects are still significantly in force in the present. Many events which are reported by stative perfect verbforms in English, such as “the taxi has come”, “they have had to study a lot this week”, etc., are reported by simple past tense verb in Malayalam, viz. ടാക്സി വന്നു, ഈ ആഴ്ച അവർ കൂടുതൽ പഠിക്കണമായിരുന്നു, etc. Malayalam stative perfect forms are often not equivalent in meaning to their English counterpart. This is particularly evident with some intransitive verbs as in:
@@ -352,9 +379,7 @@ literally, “Then I will make and bring (coffee) right away.”
 
 would appear most naturally in English as either “I will make (coffee) right away” or “I will bring (coffee) right away”. The most common instance of this is the standard leavetaking:
 
-<!-- Source: PDF page 249; printed page 195. -->
-
-5. പോയിട്ട് വരട്ടെ.
+5. പോയിട്ട് വരട്ടെ. <!-- Source: PDF page 249; printed page 195. -->
 
    “Let me go and (then) come.”
 
@@ -415,9 +440,7 @@ There is no way to predict which words will accept അതി-, so this informati
 
 It was shown in [8.2](lesson8.md#section-8-2) how adjectives may be formed from simple present tense verbforms by changing the final ഉ to അ. Adjectives may also be made from past tense verbforms. Those ending in ഉ replace ഉ with അ (just as the present forms), while those ending in ഇ require the joining device യ before adding the adjectival ending അ. Witness:
 
-<!-- Source: PDF page 251; printed page 197. -->
-
-1. കഴിഞ്ഞ ആഴ്ച — “last week”
+1. കഴിഞ്ഞ ആഴ്ച — “last week” <!-- Source: PDF page 251; printed page 197. -->
 2. ഇപ്പോൾ വന്ന സാർ — “the gentleman who just came”
 3. ആ ദിവസം കിട്ടിയ ബസ് — “the bus (we) got that day”
 
@@ -453,9 +476,7 @@ In [8.1](lesson8.md#section-8-1) it was shown that the postposition പോലെ
 
 One other postposition, കൂടാതെ “besides”, also requires that animate nouns be in the accusative and inanimate nouns be in the nominative. Thus:
 
-<!-- Source: PDF page 252; printed page 198. -->
-
-5. കുട്ടികളെക്കൂടാതെ — “besides the children”
+5. കുട്ടികളെക്കൂടാതെ — “besides the children” <!-- Source: PDF page 252; printed page 198. -->
 6. അത് കൂടാതെ — “besides that”, “besides”
 7. പുതിയത് കൂടാതെ — “besides the new one”
 8. സാർ പറഞ്ഞത് കൂടാതെ — “Besides what you (respected) said”

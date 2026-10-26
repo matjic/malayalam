@@ -229,9 +229,7 @@ Note how ‘ര’ joins to preceding consonants in these examples.
    B. “What’s the matter, do you want to stop for a little while?”  
    A. “I don’t want to stop, let’s go.”
 
-<!-- Source: PDF page 315; printed page 258. -->
-
-2. He does everything without thinking.
+2. He does everything without thinking. <!-- Source: PDF page 315; printed page 258. -->
 3. You know the doctor who lives near your house, didn’t he live in Madras previously?
 4. They arrived at quarter to eleven.
 5. It’s impossible to teach him; he doesn’t want to learn anything.
@@ -263,9 +261,7 @@ Note how ‘ര’ joins to preceding consonants in these examples.
 5. പത്രത്തിൽ ധാരാളം പരസ്യങ്ങളുണ്ട്.
 6. ഈ സ്ത്രീയെ കാണാൻ നല്ലതാണ്.
 7. ഈ ജോലിക്ക് ധാരാളം ഫോറം ആവശ്യമുണ്ട്
-<!-- Source: PDF page 316; printed page 259. -->
-
-8. അവൻ ധാരാളം പുസ്തകങ്ങൾ വായിക്കുന്നു.
+8. അവൻ ധാരാളം പുസ്തകങ്ങൾ വായിക്കുന്നു. <!-- Source: PDF page 316; printed page 259. -->
 9. അയാൾക്ക് ധാരാളം സ്ത്രീകളെ അറിയാം.
 10. യുവതികൾ ധാരാളം സിനിമ കാണുന്നു.
 
@@ -365,9 +361,7 @@ The negatives of several defective verbs such as അല്ല, ഇല്ല, വ
 
 The irregular negative verb വയ്യ and the regular form കഴിയാതെ both meaning “can't” often appear with -ആയി or -ആകും to indicate becoming unable to do something. E.g:
 
-<!-- Source: PDF page 319; printed page 262. -->
-
-6. കുഞ്ഞിന് അസുഖം കൂടിയിട്ട് കരയാൻ പോലും വയ്യാതായി.
+6. കുഞ്ഞിന് അസുഖം കൂടിയിട്ട് കരയാൻ പോലും വയ്യാതായി. <!-- Source: PDF page 319; printed page 262. -->
 
    “As the illness worsened, the child became unable even to cry.”
 
@@ -409,9 +403,8 @@ An alternate and more restricted form of the negative participle ends in -ാഞ
 12. ഏണി വീഴാതെ പിടിക്കു.
 
     "Hold the ladder so that it won't fall"
-<!-- Source: PDF page 320; printed page 263. -->
 
-13. വീട്ടിൽ ഈച്ച വരാതെ നോക്കണം.
+13. വീട്ടിൽ ഈച്ച വരാതെ നോക്കണം. <!-- Source: PDF page 320; printed page 263. -->
 
     “See that flies don't come into the house.”
 
@@ -538,9 +531,7 @@ Note that only nouns are required to take -ഉള്ളത്. Postpositions and
 
 When a sentence containing such a phrase is clefted so as to stress the item which has been made into an adjectival clause (or relative clause), then ആണ് is interposed between that item and -ഉള്ളത്. This accounts for the example in this lesson’s conversation:
 
-<!-- Source: PDF page 323; printed page 266. -->
-
-8. ആകെ വാസ്തവത്തിൽ നാല് ഫർലാംഗാണ് ഉള്ളത്.
+8. ആകെ വാസ്തവത്തിൽ നാല് ഫർലാംഗാണ് ഉള്ളത്. <!-- Source: PDF page 323; printed page 266. -->
 
    “In all it is really of four furlongs.”
 

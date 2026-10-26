@@ -1,0 +1,28 @@
+@font-face {
+    font-family: MalayalamDeck;
+    src: url("_malayalam_noto.woff2");
+}
+
+.card {
+    font-family: Arial, sans-serif;
+    font-size: 23px;
+    text-align: center;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+.ml {
+    font-family: MalayalamDeck, "Noto Sans Malayalam", sans-serif;
+    font-size: 34px;
+    line-height: 1.8;
+}
+
+.chapter, .source, .variant {
+    font-size: 14px;
+    opacity: .75;
+    margin: 16px 0;
+}
+
+.recording {
+    margin: 16px 0;
+}

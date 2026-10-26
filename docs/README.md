@@ -1,21 +1,45 @@
 # Malayalam: A University Course
 
-A proofread transcription of *Malayalam: A University Course and Reference Grammar* by Rodney F. Moag, fourth edition, from `Moag-Malayalam-CompleteTextbook.pdf`.
+Learn Malayalam with Rodney F. Moag’s *Malayalam: A University Course and Reference Grammar*. This digital edition brings together the textbook, companion recordings, writing models, and vocabulary tools for studying online or offline.
 
-The transcription covers all 557 PDF pages: opening material, 25 lessons, seven minilessons, six appendices, the glossary and the index. Source-page comments connect the text to the PDF. The writing diagrams have been redrawn as editable, scalable symbols; original photographs are retained as images.
+## Start learning
 
-This is an open-source digital edition. [Browse the source on GitHub](https://github.com/matjic/malayalam) to contribute improvements or report corrections. See the [project license](https://github.com/matjic/malayalam/blob/main/LICENSE.md) for reuse terms.
+- **New to the course?** Read [The Book and How to Use It](usage.md) for the course’s approach and study guidance.
+- **Learning the script?** Start with [The Malayalam Script](alphabet.md), then use [How to Write Malayalam Symbols](symbols.md) for writing practice.
+- **Ready for the lessons?** Begin with [Lesson 1: Introductions and Equative Sentences](lesson1.md), or choose a chapter from the [Contents](contents.md).
 
-Start with [the book and how to use it](usage.md), [the Malayalam alphabet](alphabet.md), or [Lesson 1](lesson1.md). Use the sidebar to browse the complete book. The [contents](contents.md) links to every chapter and grammar section. The [front matter](front-matter.md) includes the source license and original printed contents.
+Use the sidebar to browse the book and the previous/next links at the bottom of each chapter to continue in order. On a phone, open the navigation menu to see the chapters and search. [Reading the digital edition](digital-edition.md) explains navigation, references, and exercises.
 
-Read [Reading the digital edition](digital-edition.md) for how page references work, how to look up words and topics, and how to use the exercises. Digital pages depend on screen and font size; use chapter and section links to navigate.
+## Listen, practice, and review
 
-Look up words in the [Vocabulary Glossary](vocabulary-glossary.md), with Malayalam/English search, lesson filters, and recordings. Download the <a href="assets/decks/malayalam-moag.apkg" download data-ignore>Anki vocabulary deck</a> for offline flashcards: 25 chapter subdecks, cards in both directions, and audio where available. See [how to study with the Anki deck](anki.md) for introducing lessons gradually.
+Lesson pages include companion recordings for listening and speaking practice. Play a section recording or, where available, a word recording beside a vocabulary entry. Write exercise answers in a notebook or a separate document; the site does not save answers.
 
-The reading sequence includes [Practice Lessons A–C](practice.md): listen to pronunciation recordings, work through common spelling joins, and practice everyday conversations with translations and exercises. They follow the alphabet, Lesson 2, and Lesson 7, adapting selected UT Austin resources with links back to the relevant textbook grammar.
+The added [Practice Lessons A–C](practice.md) cover pronunciation, joining words and endings, and everyday conversations. They appear in the reading sequence after the alphabet, Lesson 2, and Lesson 7, with listening activities and selected reading answers.
 
-Obvious spelling and transcription errors have been corrected. Editorial notes distinguish learner guidance and substantive source corrections from the original text. See the [proofreading review](proofreading-review.md) for remaining source issues and the scope of the checks.
+For vocabulary study:
+
+- [Vocabulary Glossary](vocabulary-glossary.md): search Malayalam or English, filter by lesson, and hear available recordings.
+- [Anki vocabulary deck](anki.md): study flashcards in both directions, with recordings and a separate subdeck for each lesson. The guide explains how to introduce lessons gradually.
+
+## Find a word or grammar topic
+
+Use the sidebar search for words and phrases, the [Contents](contents.md) for numbered grammar sections, or the [Index](book-index.md) for topics. The [original textbook glossary](glossary.md) is also available separately from the searchable vocabulary tool.
 
 <!-- epub-download -->
-For offline reading, <a href="https://ml.matj.io/malayalam.epub" download data-ignore>download the EPUB</a>. Recordings remain online links.
+## Download for offline study
+
+- <a href="malayalam.pdf" download data-ignore>Digital edition PDF</a> — a newly typeset version for reading or printing.
+- <a href="malayalam.epub" download data-ignore>Digital edition EPUB</a> — reflowable text for an ebook reader, with adjustable text size.
+- <a href="assets/decks/malayalam-moag.apkg" download data-ignore>Anki vocabulary deck</a> — flashcards with embedded recordings for offline review. See the [Anki study guide](anki.md) before importing.
+- <a href="Moag-Malayalam-CompleteTextbook.pdf" download data-ignore>Original textbook PDF (36 MB)</a> — the source edition, with its original layout and printed page numbers.
+
+The digital edition PDF and EPUB contain the written material and images; use the website for lesson audio playback.
 <!-- /epub-download -->
+
+## About this edition
+
+This edition transcribes all 557 pages of the fourth-edition source PDF: 25 lessons, seven minilessons, six appendices, the glossary, index, and opening material. Writing diagrams have been redrawn as scalable symbols, and original photographs are retained. Practice Lessons A–C are additions with their own source credits.
+
+Obvious spelling and transcription errors have been corrected. Editorial notes identify substantive corrections and learner guidance; the [proofreading review](proofreading-review.md) records remaining source issues and the limits of the checks.
+
+Read [How This Digital Edition Was Built](technical-notes.md) for the transcription, proofreading, audio, and publishing processes. To report a problem or contribute, visit the [GitHub repository](https://github.com/matjic/malayalam). Publication details and the original textbook license are in the [Front Matter](front-matter.md); see the [project license](https://github.com/matjic/malayalam/blob/main/LICENSE.md) for reuse terms.

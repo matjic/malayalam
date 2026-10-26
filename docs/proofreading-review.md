@@ -49,28 +49,27 @@ Candidates such as പട്ടി, മഴ, കണ്ണ്, കത്ത്, �
 
 ## Remaining Source Issues
 
-The following need linguistic or editorial revision. Visible notes prevent the source defects from being mistaken for complete rules. PDF numbers below are physical PDF pages, not the textbook’s printed page numbers.
+The following need linguistic or editorial revision. Visible notes prevent the source defects from being mistaken for complete rules. Issues are identified by chapter and section.
 
-| Location | PDF page | Remaining issue |
-| --- | --- | --- |
-| [Lesson 6](lesson6.md), 6.7 | 133 | “Construction with -ാൻ” repeats the infinitive ending instead of naming its partner. A note identifies the illustrated infinitive + ഉണ്ട് construction; the source wording remains. |
-| [Lesson 7](lesson7.md), 7.6 | 151 | The list “-ന്നു or എന്ന്” does not reliably describe which forms take the limiter. The intended replacement is uncertain. |
-| [Lesson 8](lesson8.md), 8.5 | 171 | Missing wording in the restriction on ചോദിക്കുക. The same paragraph also glosses a future example as “I asked.” |
-| [Lesson 10](lesson10.md), 10.5 | 203 | Explanation discusses എന്ന് lists, while the revised reading uses എന്നിവയാണ്. |
-| [Lesson 13](lesson13.md), 13.3 | 249 | Incomplete sentence about the relationship between clauses. The translated examples still illustrate the intended contrast. |
-| [Lesson 14](lesson14.md), 14.1 | 259 | Garbled wording in the explanation of “each”; a note points learners to the translated pronoun and noun-phrase examples. |
-| [Lesson 17](lesson17.md), 17.4 | 307 | Missing prose between നീ and “attention”; address-particle examples remain usable. |
-| [Minilesson E](minilesson-e.md) | 293 | Claimed nominative requirement conflicts with example 1’s dative എനിക്ക്. |
-| [Lesson 19](lesson19.md), 19.3 | 336 | Promised treatment of obligation in 24.6 does not match that section’s ability/inability focus. |
-| [Lesson 21](lesson21.md), 21.3 | 384 | “Past” dependent-clause example still uses present negative കിട്ടാത്തത്. |
-| [Lesson 22](lesson22.md), 22.5 | 407 | Reference to 24.3 for emphasis with -ആയിട്ട് points to a section about self-benefit compounds. |
-| [Lesson 23](lesson23.md), 23.2 | 426 | Past-counterfactual English rendering lacks a corresponding past auxiliary in the Malayalam result clause. |
-| [Lesson 24](lesson24.md), 24.2 | 442 | Comparative explanation promises four elements but enumerates only two. |
-| [Lesson 24](lesson24.md), 24.6 | 453 | Introductory wording for വയ്യ is missing; a note points to 6.7 and the examples. |
-| [Lesson 25](lesson25.md), vocabulary | 461 | ധാന്യം glossed “richness” conflicts with ധന്യമായ/ധന്യമാണ് in the reading and exercise. |
-| [Appendix F](appendix-f.md), three-argument expressions | 500 | Three entries contain English translations without Malayalam example sentences, also absent in the PDF. |
-| [Glossary](glossary.md) | 516, 531 | Original editor queries remain unresolved, including the intended form and translation of പോയിരിക്കുകയായിരിന്നു. They are now labeled as queries. |
-| [Index](book-index.md) | 545–557 | Some source page references use obsolete pagination. For example, “Can” cites 399–402, while 24.6 starts on printed page 389. The [digital index](book-index.md) now supplies verified links for English meanings and selected grammar topics. The historical printed index is retained separately and has not been comprehensively remapped. |
+| Location | Remaining issue |
+| --- | --- |
+| [Lesson 6](lesson6.md), 6.7 | “Construction with -ാൻ” repeats the infinitive ending instead of naming its partner. A note identifies the illustrated infinitive + ഉണ്ട് construction; the source wording remains. |
+| [Lesson 7](lesson7.md), 7.6 | The list “-ന്നു or എന്ന്” does not reliably describe which forms take the limiter. The intended replacement is uncertain. |
+| [Lesson 8](lesson8.md), 8.5 | Missing wording in the restriction on ചോദിക്കുക. The same paragraph also glosses a future example as “I asked.” |
+| [Lesson 10](lesson10.md), 10.5 | Explanation discusses എന്ന് lists, while the revised reading uses എന്നിവയാണ്. |
+| [Lesson 13](lesson13.md), 13.3 | Incomplete sentence about the relationship between clauses. The translated examples still illustrate the intended contrast. |
+| [Lesson 14](lesson14.md), 14.1 | Garbled wording in the explanation of “each”; a note points learners to the translated pronoun and noun-phrase examples. |
+| [Lesson 17](lesson17.md), 17.4 | Missing prose between നീ and “attention”; address-particle examples remain usable. |
+| [Minilesson E](minilesson-e.md) | Claimed nominative requirement conflicts with example 1’s dative എനിക്ക്. |
+| [Lesson 19](lesson19.md), 19.3 | Promised treatment of obligation in 24.6 does not match that section’s ability/inability focus. |
+| [Lesson 21](lesson21.md), 21.3 | “Past” dependent-clause example still uses present negative കിട്ടാത്തത്. |
+| [Lesson 22](lesson22.md), 22.5 | Reference to 24.3 for emphasis with -ആയിട്ട് points to a section about self-benefit compounds. |
+| [Lesson 23](lesson23.md), 23.2 | Past-counterfactual English rendering lacks a corresponding past auxiliary in the Malayalam result clause. |
+| [Lesson 24](lesson24.md), 24.2 | Comparative explanation promises four elements but enumerates only two. |
+| [Lesson 24](lesson24.md), 24.6 | Introductory wording for വയ്യ is missing; a note points to 6.7 and the examples. |
+| [Lesson 25](lesson25.md), vocabulary | ധാന്യം glossed “richness” conflicts with ധന്യമായ/ധന്യമാണ് in the reading and exercise. |
+| [Appendix F](appendix-f.md), three-argument expressions | Three entries contain English translations without Malayalam example sentences, also absent in the PDF. |
+| [Glossary](glossary.md) | Original editor queries remain unresolved, including the intended form and translation of പോയിരിക്കുകയായിരിന്നു. They are now labeled as queries. |
 
 ## Historical and Factual Context
 

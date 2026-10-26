@@ -64,7 +64,7 @@
 <a id="lesson5-a-note-the-infinitive-forms-of-the-verbs-you-have-learned-so-far"></a><!-- reading-anchor -->
 ### A. Note the infinitive forms of the verbs you have learned so far.
 
-|  |  |
+| Dictionary form | Infinitive |
 |---|---|
 | പോകുക | പോകാൻ |
 | വരുക | വരാൻ |
@@ -151,12 +151,15 @@
 
 **Model:** പറയൂ, പറയുന്നു
 
-|  |  |
-|---|---|
-| വരൂ | പോകൂ |
-| ഇരിക്കൂ | പഠിക്കൂ |
-| കുടിക്കൂ | കൊണ്ടുവരൂ |
-| ചെയ്യൂ |  |
+| Command |
+|---|
+| വരൂ |
+| ഇരിക്കൂ |
+| കുടിക്കൂ |
+| ചെയ്യൂ |
+| പോകൂ |
+| പഠിക്കൂ |
+| കൊണ്ടുവരൂ |
 
 <!-- Source: PDF page 106; printed page 56. -->
 **2.** Read the following sentences making sure you understand the meaning, then repeat after the teacher.

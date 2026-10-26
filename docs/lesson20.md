@@ -277,9 +277,7 @@ Note that the following can take only -ആയ.
 വർഗ്ഗീസിനാൽ ചെയ്യപ്പെട്ട ജോലി പ്രയാസമുള്ളതായിരുന്നു.  
 വർഗ്ഗീസ് ചെയ്ത ജോലി പ്രയാസമുള്ളതായിരുന്നു.
 
-<!-- Source: PDF page 356; printed page 297. -->
-
-1. നിങ്ങളാൽ എഴുതപ്പെട്ട പുസ്തകം ഞാൻ വായിച്ചു.
+1. നിങ്ങളാൽ എഴുതപ്പെട്ട പുസ്തകം ഞാൻ വായിച്ചു. <!-- Source: PDF page 356; printed page 297. -->
 2. ഓണം ചിങ്ങമാസത്തിൽ ആഘോഷിക്കപ്പെടുന്നു. (കേരളീയരാൽ)
 3. ഈ ജോലി ഇങ്ങനെയാണ് ചെയ്യപ്പെടുന്നത്
 4. അമ്മയാൽ ക്ഷമിക്കപ്പെടാത്ത തെറ്റുകൾ ഒന്നുമില്ല.
@@ -362,9 +360,7 @@ This is obviously not the basis for സുഖമുള്ള യാത്ര “
 
 Section C of the Reading Practice shows examples where both -ഉള്ള and -ആയ are possible, but with distinct meanings. These relate to whether the original sentence is an equative or a possessive (existive) one. Witness:
 
-<!-- Source: PDF page 359; printed page 300. -->
-
-8. A. ഈ ഫോറം തെറ്റാണ്.<br>
+8. A. ഈ ഫോറം തെറ്റാണ്.<br> <!-- Source: PDF page 359; printed page 300. -->
    “This form is wrong.”<br>
    becomes:<br>
    B. തെറ്റായ ഫോറം<br>
@@ -419,9 +415,7 @@ Finally, it can be seen that -ആയ is used to form a relative clause only when
 
 It is impossible to make the indirect object എനിക്ക് the headword of a noun phrase with -ആയ as the relativizing participle as “the boy who likes that woman” (see below). Relative clauses made with -ഉള്ള, on the other hand, may modify a noun which functions as indirect object within them. The headword may even be the noun of a locative phrase. Witness:
 
-<!-- Source: PDF page 361; printed page 302. -->
-
-16. A. ആ സ്ത്രീക്ക് പ്യൂണിനെ ഇഷ്ടമാണ്.<br>
+16. A. ആ സ്ത്രീക്ക് പ്യൂണിനെ ഇഷ്ടമാണ്.<br> <!-- Source: PDF page 361; printed page 302. -->
     “That woman likes the peon.”<br>
     becomes:<br>
     B. പ്യൂണിനെ ഇഷ്ടമുള്ള സ്ത്രീ<br>
@@ -471,9 +465,7 @@ In this example, it is not necessary to double the പ, since its voiceless pron
 
 These notes have dealt with all forms of the noun save the instrumental. It is formed by adding -ാൽ, or alternatively -ിനാൽ, to the noun. The spelling changes in making these forms should be second nature by this time, so will not be restated here. They can be reviewed for -ാൽ in the section on the locative ending (2.1) and for -ിനാൽ in the section on the accusative (8.1). The instrumental forms of the noun may be used to fill the instrumental case role in the sentence, i.e. to express the thing by means of which the action of the verb was accomplished. Witness:
 
-<!-- Source: PDF page 363; printed page 304. -->
-
-1. വടി — “stick”<br>വടിയാൽ — “with or by means of a stick”
+1. വടി — “stick”<br>വടിയാൽ — “with or by means of a stick” <!-- Source: PDF page 363; printed page 304. -->
 2. അദ്ദേഹം — “he (respectful)”<br>അദ്ദേഹത്തിനാൽ — “by (through) him”
 3. വാൾ — “sword”<br>വാളാൽ — “with, by means of a sword”
 
@@ -493,9 +485,7 @@ The instrumental case role may also be filled with an embedded sentence whose ve
 
 Witness:
 
-<!-- Source: PDF page 364; printed page 305. -->
-
-10. ഞാൻ വളരെ അധികം ജോലി ചെയ്തത് കൊണ്ട് റേഡിയോയ്ക്കുള്ള പണം കിട്ടി. — “I got the money for the radio by, because of doing lots of work.”
+10. ഞാൻ വളരെ അധികം ജോലി ചെയ്തത് കൊണ്ട് റേഡിയോയ്ക്കുള്ള പണം കിട്ടി. — “I got the money for the radio by, because of doing lots of work.” <!-- Source: PDF page 364; printed page 305. -->
 
 The item or clause filling the instrumental case role, as with any other element in the sentence, may be brought into focus through the device of clefting (see [11.2](lesson11.md#section-11-2)). Consider:
 
@@ -512,9 +502,7 @@ The verb must also be changed when a sentence changes from active to passive. Th
 
 Witness:
 
-<!-- Source: PDF page 365; printed page 306. -->
-
-1. എല്ലാ വീടുകളും ഓണസമയത്ത് അലങ്കരിക്കപ്പെടുന്നു. — “All the houses are decorated at the Onam season.”
+1. എല്ലാ വീടുകളും ഓണസമയത്ത് അലങ്കരിക്കപ്പെടുന്നു. — “All the houses are decorated at the Onam season.” <!-- Source: PDF page 365; printed page 306. -->
 2. ഈ ജോലിയെല്ലാം ഒരാളാൽ ചെയ്യപ്പെട്ടു. — “This whole job has been done by one person.”
 
 As you can see from this lesson's conversation, it is also possible to make a passive verbform into a noun for purposes of clefting, or embedding. Witness:

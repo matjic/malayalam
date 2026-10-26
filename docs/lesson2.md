@@ -128,7 +128,7 @@
 <a id="lesson2-a-note-how--u0d07u0d7d-joins-to-the-following-words"></a><!-- reading-anchor -->
 ### A. Note how -ഇൽ joins to the following words.
 
-|  |  |
+| Noun | With -ഇൽ |
 |---|---|
 | വീട് | വീട്ടിൽ |
 | കസേര | കസേരയിൽ |
@@ -145,7 +145,7 @@
 <a id="lesson2-b-note-how--u0d09-joins-to-the-following-words"></a><!-- reading-anchor -->
 ### B. Note how -ഉം joins to the following words.
 
-|  |  |
+| Word | With -ഉം |
 |---|---|
 | കേശവൻ | കേശവനും |
 | അവൻ | അവനും |
@@ -251,9 +251,7 @@
    7. കൊച്ചിയും തൃശ്ശൂരും കേരളത്തിൽ ആണ്.
    8. അവരിൽ ആരാണ് ഡാക്ടർ?
 
-<!-- Source: PDF page 63; printed page 17. -->
-
-4. Match the following English sentences in Column I with their Malayalam equivalents in Column II.
+4. Match the following English sentences in Column I with their Malayalam equivalents in Column II. <!-- Source: PDF page 63; printed page 17. -->
 
    | Column I | Column II |
    |---|---|
@@ -281,9 +279,7 @@
    9. ചിക്കാഗോ എവിടെയാണ്?
    10. നിങ്ങളുടെ ജോലി എവിടെയാണ്?
 
-<!-- Source: PDF page 64; printed page 18. -->
-
-6. Practice introducing various class members to the instructor and to each other as per the model found in the conversation. Remember always to use അദ്ദേഹം or അവർ when referring to the instructor.
+6. Practice introducing various class members to the instructor and to each other as per the model found in the conversation. Remember always to use അദ്ദേഹം or അവർ when referring to the instructor. <!-- Source: PDF page 64; printed page 18. -->
 
 7. **A.** Rewrite the following sentences adding -ഉം to the underlined words.
 
@@ -300,15 +296,21 @@
 
    **B.** Separate the two individual words in each of the items below.
 
-   | | |
-   |---|---|
-   | ഇവിടെയാണോ | എന്താണ് |
-   | രാമനാണ് | ഡാക്ടറാണ് |
-   | സാറാണ് | ആരാണ് |
-   | പുസ്തകമാണ് | കൊച്ചിയിലാണ് |
-   | പഴമാണ് | റ്റീച്ചറാണ് |
-   | എവിടെയോ | അവളാണ് |
-   | തൃശ്ശൂരിലാ | |
+   | Form to separate |
+   |---|
+   | ഇവിടെയാണോ |
+   | രാമനാണ് |
+   | സാറാണ് |
+   | പുസ്തകമാണ് |
+   | പഴമാണ് |
+   | എവിടെയോ |
+   | തൃശ്ശൂരിലാ |
+   | എന്താണ് |
+   | ഡാക്ടറാണ് |
+   | ആരാണ് |
+   | കൊച്ചിയിലാണ് |
+   | റ്റീച്ചറാണ് |
+   | അവളാണ് |
 
 8. Pronunciation Practice:
 
@@ -369,9 +371,7 @@ There are basically two types of questions in Malayalam: information questions a
 
 Yes-no questions, on the other hand, contain no question word as such, and expect an answer that signifies only that the proposition contained in the question is valid or not valid. For instance, the question expressed in Example 1 below might be restated, “Your home is in Chicago--is that true or not true?”
 
-<!-- Source: PDF page 68; printed page 22. -->
-
-1. നിങ്ങളുടെ വീട് ചിക്കാഗോയിലാണോ?
+1. നിങ്ങളുടെ വീട് ചിക്കാഗോയിലാണോ? <!-- Source: PDF page 68; printed page 22. -->
 
 “Is your home in Chicago?”
 
@@ -407,9 +407,7 @@ Example 1 below follows the normal order and gives no emphasis, while Example 2 
 
 “He is Raman”
 
-<!-- Source: PDF page 70; printed page 24. -->
-
-2. അവനാണ് രാമൻ.
+2. അവനാണ് രാമൻ. <!-- Source: PDF page 70; printed page 24. -->
 
 “It’s *he* (not someone else), who is Raman.”
 
@@ -449,9 +447,7 @@ Negative sentences may also be re-ordered in this way with അല്ല (“am/i
 
 “Isn’t *Rajan* a doctor?”
 
-<!-- Source: PDF page 71; printed page 25. -->
-
-11. ഡാക്ടർ അല്ലേ രാജൻ?
+11. ഡാക്ടർ അല്ലേ രാജൻ? <!-- Source: PDF page 71; printed page 25. -->
 
 “Isn’t Rajan a *doctor*?”
 

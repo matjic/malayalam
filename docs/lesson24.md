@@ -322,9 +322,7 @@ b) കമലക്ക് ചായ ഇഷ്ടമാണ്. കമലക്ക�
 
 **Model:** അവൾ എന്റെ കൂടെ വരുന്നില്ല.<br>അവൾ എന്റെകൂടെ വരുന്നില്ല, എന്തുകൊണ്ടെന്നാൽ അവൾക്ക് എന്റെ കൂടെ വരാൻ മേല.
 
-<!-- Source: PDF page 438; printed page 377. -->
-
-1. രമ അധികം വായിക്കുകയില്ല.
+1. രമ അധികം വായിക്കുകയില്ല. <!-- Source: PDF page 438; printed page 377. -->
 2. തോമസ് വളരെ ദൂരം നടക്കുന്നില്ല.
 3. കേശവൻ ആ ജോലി ചെയ്യില്ല.
 4. അനിയൻ കാപ്പി കുടിക്കുകയില്ല.
@@ -354,10 +352,7 @@ b) കമലക്ക് ചായ ഇഷ്ടമാണ്. കമലക്ക�
 
 1. ഇവിടുത്തെ സർക്കാർ ആഫീസിൽ ഞാൻ രണ്ടു വർഷം മുമ്പ് ഒരു വായ്പക്ക് അപേക്ഷിച്ചതാണ്. പക്ഷെ, ഇതു വരെ കിട്ടിയില്ല.
 2. ഒരു ക്ലാർക്കിനെ ആവശ്യമുണ്ട്. എല്ലാ വിവരങ്ങളോടും കൂടെ അപേക്ഷിക്കുക.<br>കൃഷ്ണാ സിൽക്ക് ഹൗസ്<br>നാഗമ്പടം, കോട്ടയം.
-
-<!-- Source: PDF page 439; printed page 378. -->
-
-3. കോഴിക്കോട് നിന്ന് കൊച്ചിക്കുള്ള ട്രെയിൻ ടിക്കറ്റിന്റെ വിലയും ബസ്സ് ടിക്കറ്റിന്റെ വിലയും തമ്മിലുള്ള വ്യത്യാസം അഞ്ച് രൂപ മാത്രമാണ്.
+3. കോഴിക്കോട് നിന്ന് കൊച്ചിക്കുള്ള ട്രെയിൻ ടിക്കറ്റിന്റെ വിലയും ബസ്സ് ടിക്കറ്റിന്റെ വിലയും തമ്മിലുള്ള വ്യത്യാസം അഞ്ച് രൂപ മാത്രമാണ്. <!-- Source: PDF page 439; printed page 378. -->
 4. നിങ്ങൾ ഇടക്കിടെക്ക് അന്യോന്യം നോക്കുന്നത് ഞാൻ കണ്ടു. നിങ്ങൾ തമ്മിൽ എന്തെങ്കിലുമുണ്ടോ?
 5. വിവാഹമോചനം ചെയ്യുക, ഭാര്യമാർക്ക് ഭർത്താക്കന്മാർക്കും വളരെ പ്രയാസമുള്ള ഒരു കാര്യമാണ്. അവരുടെ മക്കൾക്ക് അതിനേക്കാളും പ്രയാസമാണ്.
 6. ആരെങ്കിലും വിഷമിച്ചിരിക്കുമ്പോൾ അയാളുടെ കുറവുകളെപ്പറ്റി പറഞ്ഞാൽ അയാൾ കൂടുതലായി വിഷമിക്കും. പക്ഷേ, അയാളുടെ ഗുണങ്ങളെപ്പറ്റി പറയുകയാണെങ്കിൽ അയാൾ സന്തോഷിക്കും.
@@ -452,9 +447,7 @@ With other verbs, the quality being compared may take the form of an adverb. Wit
 
 Indirect sentences with ഉണ്ട് showing possession, feelings, or character traits having dative subjects, and indirect verbs such as അറിയുക “to know” and കിട്ടുക “to get, find” which require dative personal subjects do not change their subject in comparisons. Witness:
 
-<!-- Source: PDF page 443; printed page 382. -->
-
-3. അമ്മക്ക് നമ്മളേക്കാൾ കൂടുതൽ വിശപ്പുണ്ടായിരിക്കണം.  
+3. അമ്മക്ക് നമ്മളേക്കാൾ കൂടുതൽ വിശപ്പുണ്ടായിരിക്കണം. <!-- Source: PDF page 443; printed page 382. -->
    “Mother must be more hungry than we (are).”
 4. പട്ടിക്ക് സ്വാമിയേക്കാൾ കൂടുതൽ അറിയാമെന്നാണ് എനിക്ക് തോന്നുന്നത്.  
    “I think that the dog knows more than the master.”
@@ -479,9 +472,7 @@ Negative comparative statements take a slightly different structure. Firstly, th
 8. ചേച്ചിക്ക് അനിയത്തിയുടെ അത്രയും നല്ല മാർക്ക് കിട്ടിയില്ല.  
    “Older sister did not get as good marks as younger sister.”
 
-<!-- Source: PDF page 444; printed page 383. -->
-
-9. ഞാൻ സതീഷിന്റെ അത്രയും വണ്ണം കുറഞ്ഞവൻ ആണ്.  
+9. ഞാൻ സതീഷിന്റെ അത്രയും വണ്ണം കുറഞ്ഞവൻ ആണ്. <!-- Source: PDF page 444; printed page 383. -->
    “I am just as thin (a person) as Satish.”
 10. A. ഞാൻ അയാളെ നിങ്ങളെ കാണിച്ച അത്രയും കാണിച്ചു.  
     “I showed him as much as I showed you.”  
@@ -509,9 +500,7 @@ The concept of “less” is handled with കുറച്ച് “a little,” 
 15. എനിക്ക് അയാളേക്കാൾ കുറച്ചാണ് കിട്ടിയത്.  
     “I got less than he (got).”
 
-<!-- Source: PDF page 445; printed page 384. -->
-
-16. അയാൾക്കാണ് ഏറ്റവും കുറച്ച് കിട്ടിയത്. — “He's the one who got the least.”
+16. അയാൾക്കാണ് ഏറ്റവും കുറച്ച് കിട്ടിയത്. — “He's the one who got the least.” <!-- Source: PDF page 445; printed page 384. -->
 
 Sometimes a fourth element is included in the superlative, ie, the basis of reference on which the superlative judgement is made. This is expressed in the locative (See 6.A above). When the basis of reference is a range of experience, a verbal noun with the locative ending is used. Witness:
 
@@ -526,9 +515,7 @@ Negative superlatives, in terms of qualities, are made with ഏറ്റവു�
 
 As you can see, from Example 18, the negative adjective may be made into a noun with a personal relative pronoun-- -വൻ, -വൾ or -വർ --as well as by the neuter -അത്. Note that the negative may be added by a prefix onto an adjective, or derived human noun as in:
 
-<!-- Source: PDF page 446; printed page 385. -->
-
-22. ഞാൻ കണ്ടിട്ടുള്ളതിൽ വച്ച് ഏറ്റവും വിരസൻ ആണയാൾ. — “He is the least interesting person I have ever met.”
+22. ഞാൻ കണ്ടിട്ടുള്ളതിൽ വച്ച് ഏറ്റവും വിരസൻ ആണയാൾ. — “He is the least interesting person I have ever met.” <!-- Source: PDF page 446; printed page 385. -->
 
 Note further that it is possible to move the subject of such sentences to the end where it may either precede, or follow the copula verb (see Examples 18, 21 and 22 above).
 
@@ -564,9 +551,7 @@ Finally, in spoken Malayalam, കൊള്ളുക is used with unsolicited com
 
 In general the order of elements within the noun phrase in Malayalam parallels that of English, hence there have been only a few mentions of it previously (see [3.2](lesson3.md#section-3-2)). The one exception to come up in these lessons so far is the relative clause (see [14.4](lesson14.md#section-14-4) and 20.1) which must appear to the left of the noun, in the normal adjective slot, in Malayalam rather than to the right of the noun as in English. In the mock advertisements in this lesson's Text, however, a few phrases show unusual ordering which bears comment. In these the indefinite article ഒരു “a, one” occurs between the adjective (actually a relative clause in this case) and its noun rather than before the adjective as both your English intuition and the previous lessons would lead you to expect. Witness:
 
-<!-- Source: PDF page 448; printed page 387. -->
-
-1. മൂന്നു കിടപ്പുമുറിയോടുകൂടിയ ഒരു വീട്. — “a three-bedroom house”
+1. മൂന്നു കിടപ്പുമുറിയോടുകൂടിയ ഒരു വീട്. — “a three-bedroom house” <!-- Source: PDF page 448; printed page 387. -->
 
 In most cases, this is an optional order which emphasizes the adjective, with the standard order of article, adjective, noun being more common. Compare:
 
@@ -608,9 +593,7 @@ The rule of having the possessive as the first modifier is normally inviolate, b
 
 An alternative order also exists for any noun phrase containing a quantifier. This consists of making the quantifier itself the head noun of the phrase. Any of the plural quantifiers may be made into pronouns by adding either the personal relative pronoun -ർ, or the neuter marker -അത്. The remainder of the noun phrase stays the same, save for the original head noun which takes a locative ending -ൽ. Witness:
 
-<!-- Source: PDF page 450; printed page 389. -->
-
-13. അയാളുടെ കൂട്ടുകാരിൽ ചിലർ — “some of his friends”
+13. അയാളുടെ കൂട്ടുകാരിൽ ചിലർ — “some of his friends” <!-- Source: PDF page 450; printed page 389. -->
 14. മേനോൻ സാറിന്റെ പഴയ പുസ്തകങ്ങളിൽ പലത് — “several of Mr. Menon's old books”
 
 <a id="section-24-5"></a><!-- reading-anchor -->
@@ -632,9 +615,7 @@ Section [14.5](lesson14.md#section-14-5) dealt with some words which take the sp
 
 In [6.3](lesson6.md#section-6-3), you learned that the -ാം verbform in its potential sense, i.e., with a dative personal subject, carries the idea of “can.” This construction can refer either to internal ability (a person's innate capacity to do something) or to external ability (whether or not the conditions in the situation will permit one to do something). Often the situation, or the meaning of the verb being used, makes it clear whether internal or external ability is intended. Witness the two possible interpretations of one sentence in:
 
-<!-- Source: PDF page 451; printed page 390. -->
-
-1. എനിക്ക് അതു കൊണ്ടുവരാം. — “I can bring it.” (either A) I am physically able to carry it, or (B) it is convenient for me to bring it)
+1. എനിക്ക് അതു കൊണ്ടുവരാം. — “I can bring it.” (either A) I am physically able to carry it, or (B) it is convenient for me to bring it) <!-- Source: PDF page 451; printed page 390. -->
 
 Potential statements in either meaning may be used in both the positive and negative, but do not permit clefting.
 
@@ -691,9 +672,7 @@ All three defective verbs may follow negative questions with -ഏ. It takes the 
 
 വയ്യ can even be used in response to a command, as in:
 
-<!-- Source: PDF page 454; printed page 393. -->
-
-17. കമലേ, കുഞ്ഞിനെ കുളിപ്പിച്ച് കൊടുക്ക്. — “Kamala, bathe the baby.”<br>എനിക്ക് വയ്യ, അമ്മേ. — “I can't mother.”
+17. കമലേ, കുഞ്ഞിനെ കുളിപ്പിച്ച് കൊടുക്ക്. — “Kamala, bathe the baby.”<br>എനിക്ക് വയ്യ, അമ്മേ. — “I can't mother.” <!-- Source: PDF page 454; printed page 393. -->
 
 <a id="section-24-7"></a><!-- reading-anchor -->
 ### 24.7 Additional Uses of the Addressive/Associative Form of the Noun

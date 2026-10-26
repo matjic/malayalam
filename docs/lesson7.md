@@ -219,7 +219,7 @@
 
 Note how **-എങ്കിൽ** joins to these words.
 
-|  |  |
+| Word | With -എങ്കിൽ |
 |---|---|
 | വേണം | വേണമെങ്കിൽ |
 | ഉണ്ട് | ഉണ്ടെങ്കിൽ |
@@ -235,7 +235,7 @@ Note how **-എങ്കിൽ** joins to these words.
 
 Note how **-അല്ലോ** joins to these words.
 
-|  |  |
+| Word | With -അല്ലോ |
 |---|---|
 | ആണ് | ആണല്ലോ |
 | ഇല്ല | ഇല്ലല്ലോ |
@@ -249,7 +249,7 @@ Note how **-അല്ലോ** joins to these words.
 
 Note how **-ഏയുള്ളു** (see §7.5, “The Two Part Qualifier -ഏയുള്ളു”) is added to these words.
 
-|  |  |
+| Word | With -ഏയുള്ളു |
 |---|---|
 | മൈൽ | മൈലേയുള്ളു |
 | പഴം | പഴമേയുള്ളു |
@@ -323,11 +323,14 @@ A: വേണ്ട, വേണ്ട. നടന്ന് പോകാം.
 
 **Model:** എനിക്ക് കാറുണ്ട്.
 
-|  |  |
-|---|---|
-| രണ്ട് ചേട്ടൻമാർ | ഒരു സാരിക്കട |
-| ഒരു അനുജൻ | മൂന്ന് ചേച്ചിമാർ |
-| ഒരു വലിയ വീട് | ഒരു കാർ |
+| Substitution |
+|---|
+| രണ്ട് ചേട്ടൻമാർ |
+| ഒരു അനുജൻ |
+| ഒരു വലിയ വീട് |
+| ഒരു സാരിക്കട |
+| മൂന്ന് ചേച്ചിമാർ |
+| ഒരു കാർ |
 
 **3. Telling Time:**
 
@@ -335,7 +338,7 @@ A: വേണ്ട, വേണ്ട. നടന്ന് പോകാം.
 
 **Model:** ബസ് ആറുമണിക്കാണ്
 
-|  |  |
+| Event | Time |
 |---|---|
 | ക്ലാസ് | മൂന്നുമണി |
 | മീറ്റിങ് | അഞ്ചുമണി |
@@ -406,13 +409,18 @@ A: വേണ്ട, വേണ്ട. നടന്ന് പോകാം.
 
 **7.** Add ആയി to the following words.
 
-|  |  |
-|---|---|
-| എത്ര | നാല് |
-| ദൂരം | അടുത്ത് |
-| ഇഷ്ടം | ശരി |
-| നാലുമൈൽ | ആറുമണി |
-| എങ്ങനെ | പത്ത് |
+| Word to combine |
+|---|
+| എത്ര |
+| ദൂരം |
+| ഇഷ്ടം |
+| നാലുമൈൽ |
+| എങ്ങനെ |
+| നാല് |
+| അടുത്ത് |
+| ശരി |
+| ആറുമണി |
+| പത്ത് |
 
 **8.** Pronunciation Practice. Practice making the difference between single ത and double ത്ത in the following pairs. Remember that single ത in between vowels should sound much like the initial sound in ‘this’ and ‘that’ in English.
 
@@ -432,13 +440,17 @@ A: വേണ്ട, വേണ്ട. നടന്ന് പോകാം.
 
 **Model:** പോകുന്നു → നമുക്ക് പോകാം.
 
-|  |  |
-|---|---|
-| നോക്കുന്നു | കുടിക്കുന്നു |
-| പഠിക്കുന്നു | ഇരിക്കുന്നു |
-| വാങ്ങിക്കുന്നു | പറയുന്നു |
-| ജോലി ചെയ്യുന്നു | നടക്കുന്നു |
-| വിളിക്കുന്നു |  |
+| Verb form |
+|---|
+| നോക്കുന്നു |
+| പഠിക്കുന്നു |
+| വാങ്ങിക്കുന്നു |
+| ജോലി ചെയ്യുന്നു |
+| വിളിക്കുന്നു |
+| കുടിക്കുന്നു |
+| ഇരിക്കുന്നു |
+| പറയുന്നു |
+| നടക്കുന്നു |
 
 <a id="lesson7-grammar-notes"></a><!-- reading-anchor -->
 ## Grammar Notes
@@ -485,9 +497,7 @@ With second person subject (നീ or നിങ്ങൾ), the -ാം verbforms
 
    “Father sits in this chair (habitually).” or “Father will sit in this chair (during the party).”
 
-<!-- Source: PDF page 147; printed page 97. -->
-
-8. ഹിന്ദുക്കൾ അമ്പലത്തിൽ പോകും.  
+8. ഹിന്ദുക്കൾ അമ്പലത്തിൽ പോകും. <!-- Source: PDF page 147; printed page 97. -->
    Hindus go to the temple.
 
 9. പശു പാൽ തരും.  
@@ -607,9 +617,7 @@ Note that when the verbform is a negative itself, -ഏയുള്ളു cannot 
 6. അവളുടെ പേര് മണിയല്ലെന്നേയുള്ളു, ബാക്കി ശരിയാണ്.  
    It's just that her name is not Mani, the rest is correct.
 
-<!-- Source: PDF page 151; printed page 101. -->
-
-7. അയാൾ ഇപ്പോൾ ഇവിടെ ഇല്ലെന്നേയുള്ളു, കുറച്ച് കഴിഞ്ഞ് വരും.  
+7. അയാൾ ഇപ്പോൾ ഇവിടെ ഇല്ലെന്നേയുള്ളു, കുറച്ച് കഴിഞ്ഞ് വരും. <!-- Source: PDF page 151; printed page 101. -->
    He's just not here now, but he will come in a little while.
 
 8. ഞാൻ അത്ര ദൂരം നടക്കുന്നില്ലെന്നേയുള്ളു, പക്ഷേ, ബസ്സിൽ പോകാം.  

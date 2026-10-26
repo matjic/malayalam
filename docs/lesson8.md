@@ -114,7 +114,7 @@
 <a id="lesson8-a-see-how-accusative-case-is-added-to-the-nouns"></a><!-- reading-anchor -->
 ### A. See how accusative case is added to the nouns.
 
-|  |  |
+| Noun | Accusative form |
 |---|---|
 | മണി | മണിയെ |
 | മാങ്ങ | മാങ്ങയെ |
@@ -141,7 +141,7 @@
 <a id="lesson8-b-see-how-associative-case-is-joined-to-the-nouns"></a><!-- reading-anchor -->
 ### B. See how associative case is joined to the nouns.
 
-|  |  |
+| Noun | Associative form |
 |---|---|
 | മണി | മണിയോട് |
 | മാങ്ങ | മാങ്ങയോട് |
@@ -239,11 +239,14 @@ A: ശരി, പിന്നെക്കാണാം.
 
    **Model:** എനിക്ക് ഒരു കാര്യം പറയണം.
 
-   |  |  |
-   |---|---|
-   | അയാൾ | ചേച്ചി |
-   | അവൻ | ഞങ്ങൾ |
-   | അദ്ദേഹം | അവൾ |
+   | Person |
+   |---|
+   | അയാൾ |
+   | അവൻ |
+   | അദ്ദേഹം |
+   | ചേച്ചി |
+   | ഞങ്ങൾ |
+   | അവൾ |
 
 **2.** Fill in the blanks with the desiderative form of the infinitive as in the model.
 
@@ -266,12 +269,15 @@ A: ശരി, പിന്നെക്കാണാം.
 
    **Model:** എനിക്ക് രവിയെ അറിയില്ല.
 
-   |  |  |
-   |---|---|
-   | അയാൾ | ആ സാർ |
-   | മണി | അവന്റെ അച്ഛൻ |
-   | കേശവൻ | ആ ഡാക്ടർ |
-   | അവളുടെ അമ്മ |  |
+   | Person |
+   |---|
+   | അയാൾ |
+   | മണി |
+   | കേശവൻ |
+   | അവളുടെ അമ്മ |
+   | ആ സാർ |
+   | അവന്റെ അച്ഛൻ |
+   | ആ ഡാക്ടർ |
 
 <!-- Source: PDF page 159; printed page 109. -->
 
@@ -279,13 +285,17 @@ A: ശരി, പിന്നെക്കാണാം.
 
 **നിങ്ങൾ അദ്ദേഹത്തിനോട് ചോദിക്കണം.**
 
-|  |  |
-|---|---|
-| അവൾ | ജെയിംസ് |
-| അനുജൻ | രവി |
-| ജോൺ | അമ്മ |
-| അയാൾ | ആ പയ്യൻ |
-| അനുജത്തി |  |
+| Person |
+|---|
+| അവൾ |
+| അനുജൻ |
+| ജോൺ |
+| അയാൾ |
+| അനുജത്തി |
+| ജെയിംസ് |
+| രവി |
+| അമ്മ |
+| ആ പയ്യൻ |
 
 **4.** Read the following sentences making sure you understand the meaning, then practice them orally by repeating after the teacher.
 
@@ -371,7 +381,7 @@ A: ശരി, പിന്നെക്കാണാം.
 
 **D.** Read the following pairs of words making sure you give the proper pronunciation to ണ and ന. Then the teacher or individual students can read out pairs with the others monitoring. If their pronunciation is correct, listeners should affirm by saying ശരി, “correct”. If the pronunciation is incorrect, listeners can respond with ശരിയല്ല, “(it’s) not correct”, or with തെറ്റ്, “mistake”.
 
-|  |  |
+| Word with ണ | Word with ന |
 |---|---|
 | പണി | പനി |
 | മണി | മന (Namboodiri ancestral home) |
@@ -413,9 +423,7 @@ A: ശരി, പിന്നെക്കാണാം.
 
 അവനോട് ഇവിടെ വരാൻ പറയാമോ?
 
-<!-- Source: PDF page 163; printed page 113. -->
-
-1. ഈ പ്ലേറ്റ് എല്ലാം കൊണ്ടുപോകു.
+1. ഈ പ്ലേറ്റ് എല്ലാം കൊണ്ടുപോകു. <!-- Source: PDF page 163; printed page 113. -->
 2. ഈ കസേരയിൽ ഇരിക്കു.
 3. അങ്ങോട്ട് പോകു.
 4. റിക്കാറ് വാങ്ങിക്കു.
@@ -504,9 +512,7 @@ The second use of the accusative is before a small set of postpositions which re
 
    Examples: അദ്ദേഹം “he”, അദ്ദേഹത്തിനെ “him”
 
-<!-- Source: PDF page 165; printed page 115. -->
-
-3. Final vowels ു and ൂ with വ as a joining device.
+3. Final vowels ു and ൂ with വ as a joining device. <!-- Source: PDF page 165; printed page 115. -->
 
    Examples: ഗുരുവിനെ പോലെ, “like the guru.”
 
@@ -535,9 +541,7 @@ Many times a whole sentence is used to describe a noun. Such descriptive sentenc
 
    “We will get the car that we are buying at four o’clock.”
 
-<!-- Source: PDF page 166; printed page 116. -->
-
-3. നിങ്ങൾക്ക് ഒരു പുസ്തകം വേണം. ആ പുസ്തകം ഇവിടെ ഇല്ല.
+3. നിങ്ങൾക്ക് ഒരു പുസ്തകം വേണം. ആ പുസ്തകം ഇവിടെ ഇല്ല. <!-- Source: PDF page 166; printed page 116. -->
 
    “You want a book. The book is not here.”
 
@@ -576,9 +580,7 @@ Note that when the verb വേണം becomes an adjective, it takes the form വ
 
 Malayalam has a separate form of the noun whose characteristic ending is -ോട് which may be called the addressive or associative form (or case). Its main use is with the indirect object of verbs of telling, asking, and the like. Such verbs are double object verbs since they have a direct object, the thing which is told or asked, (always a direct or indirect quote), and an indirect object, the person who is told or asked. Note the addressive ending on the indirect object, or addressee, in these examples.
 
-<!-- Source: PDF page 167; printed page 117. -->
-
-1. ഞാൻ അയാളോട് വരാൻ പറയും.
+1. ഞാൻ അയാളോട് വരാൻ പറയും. <!-- Source: PDF page 167; printed page 117. -->
 
    “I will tell him to come.”
 
@@ -616,9 +618,7 @@ In addition to ചേരുക there are a considerable number of verbs and noun
 
    അമ്മയോട് “mother, to mother, with mother”
 
-<!-- Source: PDF page 168; printed page 118. -->
-
-2. Final consonants ർ, ൾ, and ൻ.
+2. Final consonants ർ, ൾ, and ൻ. <!-- Source: PDF page 168; printed page 118. -->
 
    Examples: നിങ്ങളോട് “you, to you, with you”
 
@@ -720,9 +720,7 @@ Witness:
 
 It's also possible to use എന്ന് to report commands, c.f.
 
-<!-- Source: PDF page 171; printed page 121. -->
-
-2. ഞാൻ അവനോട് പ്ലേറ്റ് കൊണ്ടുപോകു എന്ന് പറയാം.  
+2. ഞാൻ അവനോട് പ്ലേറ്റ് കൊണ്ടുപോകു എന്ന് പറയാം. <!-- Source: PDF page 171; printed page 121. -->
    “I will tell him, 'take away the plates' (less common).”  
    or “I will tell him to take away the plates.”
 
@@ -863,9 +861,7 @@ In Malayalam the day is divided into four main time periods as follows:
 
 In English different prepositions are required with different times of the day. Both morning and evening take “in the” while night and noon require “at”. In Malayalam രാവിലെ and വൈകുന്നേരം require no case ending. Dative is required for ഉച്ചക്ക് and locative for രാത്രി. Witness:
 
-<!-- Source: PDF page 175; printed page 125. -->
-
-1. ഞങ്ങൾ രാവിലെ കാപ്പി കുടിക്കും, പക്ഷേ വൈകുന്നേരം ചായ കുടിക്കും.  
+1. ഞങ്ങൾ രാവിലെ കാപ്പി കുടിക്കും, പക്ഷേ വൈകുന്നേരം ചായ കുടിക്കും. <!-- Source: PDF page 175; printed page 125. -->
    “We drink coffee in the morning, but tea in the evening.”
 
 2. കുട്ടികൾ ഉച്ചക്ക് രണ്ട് മണിക്ക് സ്കൂളിൽ നിന്ന് വരും.  

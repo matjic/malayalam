@@ -67,7 +67,6 @@ Practice Lessons A–C are additions based on UT Austin learning resources, plac
 - [Open Educational Resources for South Asian Language Instruction](front-matter.md#front-matter-open-educational-resources-for-south-asian-language-instruction)
 - [Malayalam: A University Course and Reference Grammar](front-matter.md#front-matter-malayalam-a-university-course-and-reference-grammar)
 - [Malayalam: A University Course and Reference Grammar](front-matter.md#front-matter-malayalam-a-university-course-and-reference-grammar-2)
-- [Table of Contents](front-matter.md#front-matter-table-of-contents)
 
 ### [Acknowledgements](acknowledgments.md)
 
@@ -748,7 +747,3 @@ Practice Lessons A–C are additions based on UT Austin learning resources, plac
 
 - [English Meanings](book-index.md#book-index-english-meanings)
 - [Grammar Topics](book-index.md#book-index-grammar-topics)
-- [Original Printed Index](book-index.md#book-index-original-printed-index)
-  - [Index According To English Meaning](book-index.md#book-index-index-according-to-english-meaning)
-  - [Malayalam Word Index](book-index.md#book-index-malayalam-word-index)
-  - [Index According to Grammatical Category](book-index.md#book-index-index-according-to-grammatical-category)

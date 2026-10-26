@@ -9,7 +9,7 @@
 <a id="lesson14-section-titles-in-malayalam-newspapers"></a><!-- reading-anchor -->
 ### Section Titles in Malayalam Newspapers
 
-| | Malayalam | Meaning |
+| Item | Malayalam | Meaning |
 |---|---|---|
 | 1. a) | വാർത്തകൾ ചുരുക്കത്തിൽ | News in brief |
 | b) | ഒറ്റനോട്ടത്തിൽ | |
@@ -197,16 +197,24 @@ h. പുസ്തകാഭിപ്രായം
 
 **2.** Form the plurals of the singular nouns below.
 
-| | |
-|---|---|
-| വാർത്ത | പരസ്യം |
-| താരം | കുറിപ്പ് |
-| പരിപാടി | ചരമം |
-| വിഷയം | കല |
-| കത്ത് | വേദി |
-| കാര്യം | പട്ടി |
-| ആശുപത്രി | തുണി |
-| കട | കുട്ടി |
+| Singular noun |
+|---|
+| വാർത്ത |
+| താരം |
+| പരിപാടി |
+| വിഷയം |
+| കത്ത് |
+| കാര്യം |
+| ആശുപത്രി |
+| കട |
+| പരസ്യം |
+| കുറിപ്പ് |
+| ചരമം |
+| കല |
+| വേദി |
+| പട്ടി |
+| തുണി |
+| കുട്ടി |
 
 **3.** Read the following making sure you understand the meaning.
 
@@ -214,9 +222,7 @@ h. പുസ്തകാഭിപ്രായം
 2. A. “രാമന്റെ വീട് വിൽപ്പനക്കാണെന്ന് ഇന്നത്തെ പത്രത്തിൽ പരസ്യം ഉണ്ട്. നമുക്ക് അത് വാങ്ങിക്കണോ?”  
    B. “വാങ്ങിക്കാൻ എനിക്ക് ഇഷ്ടമാണ്. പക്ഷെ, പണം വേണ്ടേ?”
 
-<!-- Source: PDF page 258; printed page 204. -->
-
-3. ഇന്നത്തെ യുവതികൾക്കും യുവാക്കന്മാർക്കും പത്രത്തിൽ കലാരംഗം, സാഹിത്യവേദി, കളിരംഗം, സിനിമാരംഗം എന്നിവ വായിക്കുന്നത് ഇഷ്ടമാണ്.
+3. ഇന്നത്തെ യുവതികൾക്കും യുവാക്കന്മാർക്കും പത്രത്തിൽ കലാരംഗം, സാഹിത്യവേദി, കളിരംഗം, സിനിമാരംഗം എന്നിവ വായിക്കുന്നത് ഇഷ്ടമാണ്. <!-- Source: PDF page 258; printed page 204. -->
 4. തലസ്ഥാന വാർത്തകൾ വായിച്ചാൽ തിരുവനന്തപുരത്ത് നടക്കുന്ന കാര്യങ്ങളെല്ലാം അറിയാം.
 5. ഇന്നത്തെ പത്രാധിപക്കുറിപ്പ് നിങ്ങൾ വായിച്ചോ? വളരെ നന്നായിരിക്കുന്നു. വായിച്ചുനോക്കു.
 6. A. “റേഡിയോ വാർത്ത എത്ര മണിക്കാണെന്ന് അറിയാമോ?”  
@@ -242,9 +248,7 @@ The use of -ഉം in negative and some positive expressions is treated in [9.5]
 
 When എല്ലാ functions as a pronoun, meaning “all” or “everything,” then -ഉം is joined directly to it, with -ഉ being lost in the process. (Note that എല്ലാ is irregular in that it does not form a noun or pronoun with അത്). When taking case endings the -ം, becomes -ത്ത. Thus:
 
-<!-- Source: PDF page 259; printed page 205. -->
-
-1. ഞങ്ങൾ എല്ലാം കണ്ടു.
+1. ഞങ്ങൾ എല്ലാം കണ്ടു. <!-- Source: PDF page 259; printed page 205. -->
 
    “We saw everything.”
 
@@ -286,9 +290,7 @@ When എല്ലാ functions as an adjective describing the head noun in a nou
 
 Like other pronouns these can take all of the case endings. Witness:
 
-<!-- Source: PDF page 260; printed page 206. -->
-
-9. ഓരോരുത്തർക്കും നൂറ് രൂപ കൊടുക്കണം.
+9. ഓരോരുത്തർക്കും നൂറ് രൂപ കൊടുക്കണം. <!-- Source: PDF page 260; printed page 206. -->
 
    “Give each person a hundred rupees.”
 
@@ -368,9 +370,7 @@ Though the present and future “if” clauses are often interchangeable, there 
 
 Sometimes, instead of juxtaposing two nouns, the alternatives are stated in separate phrases or even clauses. Thus:
 
-<!-- Source: PDF page 262; printed page 208. -->
-
-2. നിങ്ങൾക്ക് ചായ വേണോ കാപ്പി വേണോ?
+2. നിങ്ങൾക്ക് ചായ വേണോ കാപ്പി വേണോ? <!-- Source: PDF page 262; printed page 208. -->
 
    “Do you want tea, or do you want coffee?”
 

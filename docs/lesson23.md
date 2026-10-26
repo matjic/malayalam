@@ -242,10 +242,7 @@ Read the following sentences expressing a change of state with -ആയി.
 3. എന്റെ വാച്ച് <u>ഈ ദേശത്ത്</u> (ഉണ്ടാക്കിയതല്ല).
 4. അതു ഒരു <u>രസം</u> കഥ (അല്ല).
 5. ഞാൻ ഒരു <u>വിശ്വാസി</u> (അല്ല).
-
-<!-- Source: PDF page 418; printed page 357. -->
-
-6. അവർ <u>പ്രധാന</u> വിഷയങ്ങളെപ്പറ്റി (സംസാരിക്കുകയേയില്ല).
+6. അവർ <u>പ്രധാന</u> വിഷയങ്ങളെപ്പറ്റി (സംസാരിക്കുകയേയില്ല). <!-- Source: PDF page 418; printed page 357. -->
 7. അവൻ <u>സമയത്ത്</u> (അല്ല) വന്നത്.
 8. അവന്റെ അസുഖം <u>സാരം</u> (അല്ല).
 9. ലോകത്തിൽ <u>അർത്ഥം</u> (ഇല്ലാത്ത) പല സംഭവങ്ങളും നടക്കുന്നു.
@@ -284,10 +281,7 @@ Read the following sentences expressing a change of state with -ആയി.
 5. ബില്ലേ, അമേരിക്കയിലെ കടൽത്തീരം കേരളത്തിലെ കടൽത്തീരത്തിന്റെ അത്രയും പ്രകൃതിസുന്ദരമാണോ?
 6. അയാൾ വിശ്രമമില്ലാതെ ജോലി ചെയ്തതിന്റെ ഫലമായി വലിയ അസുഖമായിട്ട് കിടക്കുന്നു. ഈ ജോലി ചെയ്യാൻ തുടങ്ങിയപ്പോൾ ഞാൻ പറഞ്ഞതാണ് ഇത്രയും അധികം ജോലി ചെയ്യരുതെന്ന്.
 7. തേക്കടിയിലെ വന്യമൃഗസംരക്ഷണകേന്ദ്രം വന്യമൃഗങ്ങൾക്ക് സംരക്ഷണം കൊടുക്കുന്നു. അവിടെയുള്ള വന്യമൃഗങ്ങളെ ആർക്കും പിടിച്ചുകൊണ്ടുപോകാൻ അനുവാദമില്ല.
-
-<!-- Source: PDF page 420; printed page 359. -->
-
-8. A. “നമുക്ക് പന്ത്രണ്ടരമണിക്ക് ഇവിടെ നിന്ന് തിരിക്കാം. എന്തു പറയുന്നു?”<br>B. “അതിനു മുമ്പ് എനിക്ക് കൃഷ്ണപിള്ളയെ ഒന്നു കാണണമല്ലോ. കുറച്ച് താമസിച്ച് പോകാമോ?”<br>A. “കുറച്ച് താമസിക്കാം. പക്ഷെ, ഏതായാലും എനിക്ക് ഒരു മണിക്ക് മുമ്പ് പോകണം. അയാളെ വേഗം പോയി കണ്ടിട്ട് വരു.”<br>B. “ശരി. ഞാൻ തിരിച്ചുവരാതെ പുറപ്പെടരുതേ.”
+8. A. “നമുക്ക് പന്ത്രണ്ടരമണിക്ക് ഇവിടെ നിന്ന് തിരിക്കാം. എന്തു പറയുന്നു?”<br>B. “അതിനു മുമ്പ് എനിക്ക് കൃഷ്ണപിള്ളയെ ഒന്നു കാണണമല്ലോ. കുറച്ച് താമസിച്ച് പോകാമോ?”<br>A. “കുറച്ച് താമസിക്കാം. പക്ഷെ, ഏതായാലും എനിക്ക് ഒരു മണിക്ക് മുമ്പ് പോകണം. അയാളെ വേഗം പോയി കണ്ടിട്ട് വരു.”<br>B. “ശരി. ഞാൻ തിരിച്ചുവരാതെ പുറപ്പെടരുതേ.” <!-- Source: PDF page 420; printed page 359. -->
 9. ആ സിനിമയുടെ കഥ പുതുമയുള്ളതാണ്.
 10. കമലേ, ഈയിടെയായിട്ട് നിന്നെ ഞാൻ സിനിമക്ക് കൊണ്ടുപോകാത്തത് എനിക്ക് തിരക്കേറിയ ജോലിയുള്ളതു കൊണ്ടാണ്. എനിക്ക് സമയമുണ്ടായിരുന്നെങ്കിൽ നിന്നെ തീർച്ചയായിട്ടും ഞാൻ കൊണ്ടുപോയേനേ.
 
@@ -358,9 +352,7 @@ There are certain limitations as to the constructions in which the negative memb
 
 Of course the negative may also be expressed by replacing the ഉണ്ട് in the positive sentences with ഇല്ല. The above limitations are also reflected in the formation of relative or adjective clauses where the negative words can only take ആയ, related to ആണ്, and the positive words take -ഉള്ള, derived from ഉണ്ട്. Compare:
 
-<!-- Source: PDF page 423; printed page 362. -->
-
-11. A. നിഷ്ഫലമായ കാര്യം — “a fruitless affair”<br>B. ഫലമുള്ള കാര്യം — “a fruitful affair”
+11. A. നിഷ്ഫലമായ കാര്യം — “a fruitless affair”<br>B. ഫലമുള്ള കാര്യം — “a fruitful affair” <!-- Source: PDF page 423; printed page 362. -->
 12. A. അന്യായമായ വില — “unjust price”<br>B. ന്യായമുള്ള വില — “just price”
 13. A. വിരസമായ കഥകൾ — “uninteresting stories”<br>B. രസമുള്ള കഥകൾ — “interesting stories”
 
@@ -407,9 +399,7 @@ Alternatively, a special form is often used in the result clause consisting of t
 
 Negative verbforms may appear in either, or both clauses of conditional sentences in all timeframes. They must take the conjunction -എങ്കിൽ never -ാൽ. When the negative is a desiderative ending in -ണ്ട, it may be embedded in a carrier sentence with എന്നാണ്. Note:
 
-<!-- Source: PDF page 426; printed page 365. -->
-
-16. നിനക്ക് വരാൻമേലെങ്കിൽ ഞാൻ കാർ അയക്കുകയില്ല. — “If you can't come, I won't send the car.”
+16. നിനക്ക് വരാൻമേലെങ്കിൽ ഞാൻ കാർ അയക്കുകയില്ല. — “If you can't come, I won't send the car.” <!-- Source: PDF page 426; printed page 365. -->
 17. നീ ചോദിച്ചില്ലെങ്കിൽ നിനക്ക് അവധി കിട്ടുകയില്ല. — “If you didn't ask, you wouldn't get leave.”
 > **Editorial source note:** Example 18 is translated as a past counterfactual, but the result clause lacks the past auxiliary used elsewhere in this section. The Malayalam and English tense correspondence needs review.
 
@@ -452,9 +442,7 @@ The Puram festival in Trichur is one such well-known festival. It derives its na
 
 This lesson's conversation contains examples of a compound verb formed with ഏക്കുക. As a main verb, it means “to join” or, colloquially “to agree.” When forming a compound, it conveys one of two meanings. It is often used to indicate a willingness to go along with some kind of proposal. As such, it is used either in commands which in essence give permission or agreement related to an already stated request, or in a statement agreeing to carry out what someone else has just asked or proposed. In this latter usage, it generally takes the intentive ending -ാം. Witness:
 
-<!-- Source: PDF page 428; printed page 367. -->
-
-1. നീ ഈ കത്ത് റ്റീച്ചറിന് കൊടുക്കാമോ? — “Will you give this letter to the teacher?”<br>കൊടുത്തേക്കാം. — “All right, I'll do that.”
+1. നീ ഈ കത്ത് റ്റീച്ചറിന് കൊടുക്കാമോ? — “Will you give this letter to the teacher?”<br>കൊടുത്തേക്കാം. — “All right, I'll do that.” <!-- Source: PDF page 428; printed page 367. -->
 2. ഈ സാരി ഞാൻ വേലക്കാരിക്ക് കൊടുക്കട്ടെ? — “Shall I give this sari to the servant?”<br>കൊടുത്തേക്കു. — “All right, please go ahead and give.”
 
 This compound can also convey the meaning of “might.” With third person subjects, this is the only possible meaning. See:

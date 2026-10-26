@@ -12,6 +12,16 @@ the tables; the website needs no runtime JSON fetching or new Markdown syntax.
 The Anki exporter consumes the catalog rather than parsing the tables again.
 This is a course vocabulary catalog, not a general Malayalam dictionary.
 
+`anki-english.json` supplies reviewed English wording for flashcards, keyed by
+the catalog's exact Malayalam form. It removes Malayalam spelling, synonym, and
+grammar hints from the English side and includes English spellings for names.
+The exporter rejects English text containing Malayalam script so new hints cannot
+slip into a rebuilt deck. These overrides leave catalog entries and their IDs
+unchanged, allowing existing Anki notes to update without losing review progress.
+Original glosses containing Malayalam spellings or related forms are retained as
+answer-only lesson notes in both directions. They share the existing `Source`
+field with the lesson link, preserving the note schema for existing imports.
+
 ## Import and study
 
 Open `dist/anki/malayalam-moag.apkg` in Anki. One package creates **Malayalam**
@@ -44,9 +54,10 @@ selecting its subdeck. Tags include `moag::lesson_01`, `moag::textbook`,
 `moag::recorded_addition`, and `audio::available`/`audio::unavailable`.
 
 Reimporting the same package does not duplicate notes or reset review progress.
-The generator uses stable model/deck IDs and note GUIDs. A note's initial identity
-includes chapter, written form, and meaning; changing those identity fields creates
-a new note. Do not delete and recreate decks to update them.
+The generator uses stable model/deck IDs and note GUIDs. The catalog builder
+preserves published entry IDs across unambiguous spelling or meaning corrections.
+If changing both fields, edit the catalog entry while retaining its ID before
+rebuilding. Do not delete and recreate decks to update them.
 
 ## Build and validate
 
@@ -60,9 +71,13 @@ python3 -m venv /private/tmp/malayalam-anki-env
 /private/tmp/malayalam-anki-env/bin/python scripts/build-vocabulary-catalog.py --check
 ```
 
-Outputs go to ignored `dist/anki/` (override with `--output`). For import tests,
+Outputs go to ignored `dist/anki/` (override with `--output`). The CLI also updates
+`docs/assets/decks/malayalam-moag.apkg`; use `--no-site-copy` for an isolated build.
+For import tests,
 install `requirements/anki-test.txt` in the same environment and run
-`scripts/test_anki.py`. The test imports into a disposable collection, checks card
+`scripts/test_anki_export.py` and `scripts/test_anki.py`. The first checks input
+validation and compatibility contracts. The second builds a fresh package in a
+temporary directory, imports into a disposable collection, and checks card
 rendering, chapter organization, embedded media and blank audio fields, then
 reimports to check deduplication and preservation of review progress.
 
@@ -71,6 +86,28 @@ The local Anki source's package metadata implementation confirms support for the
 legacy `collection.anki2`/media-map package format used by genanki. No modifications
 to the Anki source repository are needed. GUI/mobile appearance was not separately
 tested.
+
+GitHub Actions runs the catalog and identity checks, exporter tests, official Anki
+import/reimport tests, and deck build alongside the EPUB/PDF workflow. Each run
+uploads `dist/anki/` as the `malayalam-anki` artifact. Successful runs on `main`
+include the freshly built package in the deployed site's deck download; CI does
+not commit generated packages back to the repository.
+
+## Exporter maintenance
+
+`scripts/build-anki.py` is the CLI. `scripts/anki_export.py` separates catalog
+validation, card rendering, media verification, deck creation, and packaging;
+`scripts/anki.css` controls card appearance. Importing the module does no file IO.
+The `build(output)` API returns the summary and writes only to that output folder
+unless a `site_package` path is explicitly supplied. Tests never replace the site
+download or rely on an older package in `dist/`.
+
+Keep the model identity, field order, template order, deck identity keys, and entry
+GUID inputs stable so reimports update existing notes. Chapter lookups use their
+numbers rather than JSON array positions. Counts are derived from the catalog;
+audio checksums, duplicate IDs, media name collisions, and unused English overrides
+fail before package generation. No catalog or English-override schema migration
+is required for this refactor.
 
 ## Site glossary
 

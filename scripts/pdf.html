@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="$if(lang)$$lang$$else$en$endif$">
+<head>
+<meta charset="utf-8">
+<title>$pagetitle$</title>
+$for(author-meta)$
+<meta name="author" content="$author-meta$">
+$endfor$
+</head>
+<body>
+$if(toc)$
+<nav id="TOC" role="doc-toc">
+<h1 class="contents-title">Contents</h1>
+$table-of-contents$
+</nav>
+$endif$
+$body$
+</body>
+</html>

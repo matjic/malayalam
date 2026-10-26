@@ -40,9 +40,7 @@ In this sense it can only be used with nouns. It can be used with verbs to indic
 
 The word വേറെ indicates something different or apart from the thing previously serving as topic or focus of conversation as in:
 
-<!-- Source: PDF page 281; printed page 227. -->
-
-7. എനിക്ക് വേറെ കപ്പ് വേണം.
+7. എനിക്ക് വേറെ കപ്പ് വേണം. <!-- Source: PDF page 281; printed page 227. -->
 
    “I want a different cup.”
 

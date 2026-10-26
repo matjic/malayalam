@@ -1,121 +1,21 @@
 """Package docs as a portable EPUB 3; requires Pandoc on PATH."""
 
 import argparse
-import html
-import re
 import subprocess
 import tempfile
 from pathlib import Path
 
-from reading_order import DOCS, reading_documents
-
-ROOT = DOCS.parent
-AUDIO_BASE = 'https://raw.githubusercontent.com/matjic/malayalam/main/docs/'
-FONT = next((DOCS / 'assets/fonts').glob('*RuDNG1bFn6E.woff2'))
-
-
-def heading_slug(title):
-    return re.sub(r'\s+', '-', re.sub(r'[^\w\s-]', '', title.lower())).strip('-')
-
-
-def prepare(path, chapters):
-    text = path.read_text(encoding='utf-8')
-    if path.name == 'contents.md':
-        # Keep the chapter list; section anchors remain in the chapters themselves.
-        text = re.sub(r'^## Sections\n.*', '', text, flags=re.M | re.S)
-    text = re.sub(r'<!-- epub-download -->.*?<!-- /epub-download -->', '', text, flags=re.S)
-    # Raw browser links can contain boolean attributes invalid in EPUB XHTML.
-    # Let Pandoc serialize anchors, and keep non-book resources as online links.
-    def web_link(match):
-        attributes, label = match[1], match[2]
-        target = re.search(r'href=["\']([^"\']+)["\']', attributes)
-        if not target:
-            return match[0]
-        href = html.unescape(target[1])
-        if not re.match(r'(?:[a-zA-Z][\w+.-]*:|#|/)', href):
-            if not re.match(r'[\w-]+\.md(?:#|$)', href):
-                href = 'https://ml.matj.io/' + href
-        return '[' + html.unescape(re.sub(r'<[^>]+>', '', label)) + '](' + href + ')'
-
-    text = re.sub(r'<a\b([^>]*)>(.*?)</a>', web_link, text, flags=re.S)
-    # Give Pandoc the existing section IDs so it can rewrite cross-chapter links.
-    text = re.sub(
-        r'<a id="([^"]+)"></a><!-- reading-anchor -->\n(#{1,6} [^\n]+)',
-        lambda m: f'{m[2]} {{#{m[1]}}}', text)
-    text = re.sub(r'<a id="([^"]+)"></a>', r'\n\n[]{#\1}\n\n', text)
-    if not re.search(r'^# .*\{#', text, re.M):
-        text = re.sub(r'^(# [^\n]+)', rf'\1 {{#{path.stem}}}', text, count=1, flags=re.M)
-
-    # Pandoc's EPUB writer also assigns IDs to headings without explicit IDs.
-    text = re.sub(r'^(#{1,6} [^\n]+)$',
-                  lambda m: m[0] if re.search(r'\{#[^}]+\}$', m[0]) else
-                  f'{m[0]} {{#{path.stem}-{heading_slug(m[0].split(" ", 1)[1])}}}', text, flags=re.M)
-    # Raw HTML void tags must be well-formed XHTML in EPUB.
-    text = re.sub(r'<br\s*/?>', '<br />', text)
-
-    def link(match):
-        name, fragment = match[1], match[2]
-        if name not in chapters:
-            return f'(https://github.com/matjic/malayalam/blob/main/docs/{name}' + (f'#{fragment}' if fragment else '') + ')'
-        if fragment:
-            target = (DOCS / name).read_text(encoding='utf-8')
-            for heading in re.finditer(r'^(#{1,6}) (.+)$', target, re.M):
-                if heading_slug(heading[2]) == fragment:
-                    before = target[:heading.start()]
-                    anchor = re.search(r'<a id="([^"]+)"></a><!-- reading-anchor -->\n$', before)
-                    fragment = anchor[1] if anchor else f'{Path(name).stem}-{fragment}'
-                    break
-        return '(#' + (fragment or Path(name).stem) + ')'
-
-    text = re.sub(r'\(([\w-]+\.md)(?:#([^\s)]+))?\)', link, text)
-
-    def audio_links(match):
-        block = match[0]
-        clips = re.findall(r'<button\b[^>]*data-audio-src="([^"]+)"[^>]*>(.*?)</button>', block)
-        if not clips:
-            clips = [(src, label) for label, src in re.findall(
-                r'<audio\b[^>]*aria-label="([^"]+)"[^>]*src="([^"]+)"', block)]
-        return '\n\n' + ' · '.join(
-            f'[{html.unescape(label)}]({AUDIO_BASE}{src})' for src, label in clips) + '\n\n'
-
-    text = re.sub(r'<div class="lesson-audio">.*?</div>\s*</div>', audio_links, text, flags=re.S)
-    text = re.sub(r'<audio\b.*?</audio>', audio_links, text, flags=re.S)
-    # Word/letter table controls are not inside the section-player blocks.
-    def table_audio(match):
-        attributes = match[1]
-        source = re.search(r'data-row-audio-src="([^"]+)"', attributes)
-        if not source:
-            return match[0]
-        label = re.search(r'data-audio-label="([^"]+)"', attributes)
-        title = html.unescape(label[1]) if label else 'Recording'
-        return '[' + title + '](' + AUDIO_BASE + html.unescape(source[1]) + ')'
-
-    text = re.sub(r'<button\b([^>]*)>.*?</button>', table_audio, text, flags=re.S)
-    text = re.sub(r'</?details[^>]*>', '', text)
-    text = re.sub(r'<summary>(.*?)</summary>', r'\n\n**\1**\n\n', text)
-    # Use ordinary images: ebook readers do not run the SVG-inlining plugin.
-    text = re.sub(
-        r'<figure\b[^>]*>\s*<img src="([^"]+)" alt="([^"]+)"[^>]*>\s*<figcaption[^>]*>(.*?)</figcaption>\s*</figure>',
-        lambda m: f'\n\n![{html.unescape(m[2])}]({m[1]})\n\n{m[3]}\n\n', text, flags=re.S)
-    text = re.sub(r'</?div[^>]*>', '', text)
-    text = re.sub(r'\((assets/[^)]+\.json)\)', lambda m: f'({AUDIO_BASE}{m[1]})', text)
-    if path.name == 'digital-edition.md':
-        text = text.replace('an ebook has not been published by this change.',
-                            'this EPUB retains chapter and section navigation.')
-    return text
-
+from book_export import ROOT, DOCS, BOOK_FONTS, AUDIO_BASE, prepare, book_paths, book_markdown
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--output', type=Path, default=ROOT / 'dist/malayalam.epub')
     args = parser.parse_args()
-    paths = [DOCS / name for name in ('README.md', 'contents.md', 'digital-edition.md', 'practice.md')]
-    paths += reading_documents() + [DOCS / 'proofreading-review.md']
-    chapters = {path.name for path in paths}
-    content = '\n\n'.join(prepare(path, chapters) for path in paths)
+    paths = book_paths()
+    content = book_markdown()
     content = '# About this EPUB {#epub-notes}\n\n' + (
         'This edition includes the textbook and added practice lessons. '
-        'Recordings are online links and require an internet connection. '
+        'Audio playback is available separately on the website and in the Anki decks. '
         'Reading answers are always visible. Use the reader’s contents and search controls. '
         'Wide tables may need a smaller font or landscape orientation.\n\n') + content
     output = args.output.resolve()
@@ -126,12 +26,12 @@ def main():
         subprocess.run([
             'pandoc', str(source), '--from=markdown-auto_identifiers', '--to=epub3',
             '--output=' + str(output), '--resource-path=' + str(DOCS),
-            '--toc', '--toc-depth=2', '--epub-chapter-level=1',
+            '--toc', '--toc-depth=1', '--epub-chapter-level=1',
             '--metadata=title:Malayalam: A University Course and Reference Grammar',
             '--metadata=author:Rodney F. Moag', '--metadata=lang:en',
             '--metadata=rights:Creative Commons Attribution-NonCommercial-ShareAlike 4.0; added practice material retains its credited reuse terms.',
             '--epub-cover-image=' + str(DOCS / 'assets/images/front-cover-002.jpg'),
-            '--epub-embed-font=' + str(FONT),
+            *['--epub-embed-font=' + str(font) for font in BOOK_FONTS],
             '--css=' + str(ROOT / 'scripts/epub.css'),
         ], check=True, cwd=DOCS)
     print(f'Built {output} ({output.stat().st_size:,} bytes; {len(paths)} documents)')

@@ -7,6 +7,10 @@ It contains 990 vocabulary entries and 1,980 cards: Malayalam → English and En
 Recordings appear on the answer side where available; 65 entries are text-only.
 All 997 recordings and a Malayalam font are included for offline study.
 The same vocabulary is available in the [Vocabulary Glossary](vocabulary-glossary.md).
+English prompts omit Malayalam spelling and synonym hints. Names include their
+English spellings, such as “Raman (male name)”.
+Spelling variants and related-form explanations appear as lesson notes after
+revealing the answer in either direction.
 
 ## Start with one lesson
 
@@ -26,7 +30,17 @@ subdeck to study only that chapter.
 
 ## Updates and sources
 
-Reimporting the same package does not duplicate notes or reset review progress.
+Download the latest package and open it in Anki again to get corrections and new
+cards. Reimporting preserves existing review progress and does not duplicate
+notes. Leave **Import any learning progress** unchecked. Updates may overwrite
+your edits to vocabulary fields; cards removed from the package are not deleted
+from your collection automatically.
+
+For deck maintainers: the entry IDs in `data/vocabulary/moag.json` are persistent.
+The catalog builder preserves them across spelling or meaning corrections.
+If changing both the Malayalam and English text, update the corresponding
+catalog entry's text while keeping its ID before rebuilding. Keep the Anki model
+ID, field order, and card template order stable across releases.
 The deck is generated from the lesson vocabulary tables, including the additional
 recorded forms. Entries without audio remain available as text cards.
 The lesson pages retain source credits and recording reuse terms.

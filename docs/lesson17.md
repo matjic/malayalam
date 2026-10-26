@@ -75,7 +75,7 @@
 
 Note how അര, half past (for time), half, or plus one half, joins to the whole numbers.
 
-| | | |
+| Whole number | Addition | With one half |
 |---|---|---|
 | ഒന്ന് | + അര = | ഒന്നര |
 | രണ്ട് | + അര = | രണ്ടര |
@@ -95,7 +95,7 @@ Note how അര, half past (for time), half, or plus one half, joins to the whol
 
 Note how േ-- is added when കാൽ, quarter past (for time) or plus one quarter, and മുക്കാൽ, 45 minutes past (for time) or plus three quarters, are joined to whole numbers.
 
-| | | |
+| Whole number | With one quarter | With three quarters |
 |---|---|---|
 | ഒന്ന് | ഒന്നേകാൽ | ഒന്നേമുക്കാൽ |
 | രണ്ട് | രണ്ടേകാൽ | രണ്ടേമുക്കാൽ |
@@ -311,9 +311,7 @@ Section [7.3](lesson7.md#section-7-3) covers the asking and telling of time for 
 
 “Quarter past” the hour is expressed by adding -കാൽ “plus one quarter” to the number of the hour which has most recently struck. “Quarter to” is expressed in terms of the preceding hour (not the upcoming hour as in English) by the addition of മുക്കാൽ “plus three quarters” to the number for that hour. Note that in both these cases the final echo vowel of the number becomes long ഏ. Thus:
 
-<!-- Source: PDF page 304; printed page 247. -->
-
-2. എട്ടേകാൽ — “Quarter past eight, 8:15”
+2. എട്ടേകാൽ — “Quarter past eight, 8:15” <!-- Source: PDF page 304; printed page 247. -->
 3. രണ്ടേമുക്കാൽ — “Quarter to three, 2:45”
 
 Any such expression may be followed by ആയി when telling the present time, or by മണിക്ക് when giving the time at which something will take place.
@@ -341,10 +339,7 @@ Note that -അര, -കാൽ, and -മുക്കാൽ are also used with oth
 
 9. രണ്ടര കിലോ ഇറച്ചി — “two and a half kilos of meat”
 10. നാലേമുക്കാൽ അടി — “four and three quarter feet”
-
-<!-- Source: PDF page 305; printed page 248. -->
-
-11. ഒന്നേകാൽ കിലോമീറ്റർ — “one and a quarter kilometers”
+11. ഒന്നേകാൽ കിലോമീറ്റർ — “one and a quarter kilometers” <!-- Source: PDF page 305; printed page 248. -->
 
 <a id="section-17-2"></a><!-- reading-anchor -->
 ### 17.2 Numbers: Ordinals, Adjectives, and Adverbs
@@ -413,9 +408,7 @@ Note that the remote past is sometimes used to refer to rather extended events i
 
 True habitual action in past time is most commonly shown with the future/habitual -ഉം ending plus ആയിരുന്നു as in:
 
-<!-- Source: PDF page 307; printed page 250. -->
-
-4. മാധവൻ ആ ഹോട്ടലിൽ നിന്ന് കഴിക്കുമായിരുന്നു.
+4. മാധവൻ ആ ഹോട്ടലിൽ നിന്ന് കഴിക്കുമായിരുന്നു. <!-- Source: PDF page 307; printed page 250. -->
 
    “Madhavan used to eat in that hotel.”
 
@@ -463,9 +456,7 @@ These command forms were traditionally used with persons of very high status and
 
 The desiderative verbform is quite often used as a command, more or less equivalent to the polite command form in -ഊ. It is sometimes used in situations where the speaker is somewhat superior to the addressee as a boss to an employee, a government officer to a clerk, or the like. Witness:
 
-<!-- Source: PDF page 309; printed page 252. -->
-
-14. അയാളോട് നാളെ വരാൻ പറയണം.
+14. അയാളോട് നാളെ വരാൻ പറയണം. <!-- Source: PDF page 309; printed page 252. -->
 
     “Tell him to come tomorrow.”
 

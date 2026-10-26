@@ -80,32 +80,48 @@
 
 Note the command forms of the verbs you have learned so far.
 
-|  |  |
-|---|---|
-| ഇരിക്കൂ | കൊണ്ടുവരൂ |
-| ചെയ്യൂ | നോക്കൂ |
-| വരൂ | വായിക്കൂ |
-| കൊണ്ടുപോകൂ | കുടിക്കൂ |
-| <!-- Source: PDF page 119; printed page 69. --> പറയൂ | തരൂ |
-| പോകൂ | കൊടുക്കൂ |
-| പഠിക്കൂ | എടുക്കൂ |
-| കാണൂ | വാങ്ങിക്കൂ |
+| Command |
+|---|
+| ഇരിക്കൂ |
+| ചെയ്യൂ |
+| വരൂ |
+| കൊണ്ടുപോകൂ |
+| <!-- Source: PDF page 119; printed page 69. --> പറയൂ |
+| പോകൂ |
+| പഠിക്കൂ |
+| കാണൂ |
+| കൊണ്ടുവരൂ |
+| നോക്കൂ |
+| വായിക്കൂ |
+| കുടിക്കൂ |
+| തരൂ |
+| കൊടുക്കൂ |
+| എടുക്കൂ |
+| വാങ്ങിക്കൂ |
 
 <a id="lesson6-b"></a><!-- reading-anchor -->
 ### B.
 
 Note the future potential forms of the verbs you have learned so far.
 
-|  |  |
-|---|---|
-| ഇരിക്കാം | കുടിക്കാം |
-| ചെയ്യാം | തരാം |
-| വരാം | കൊടുക്കാം |
-| കൊണ്ടുപോകാം | എടുക്കാം |
-| പറയാം | പോകാം |
-| പഠിക്കാം | കാണാം |
-| വാങ്ങിക്കാം | കൊണ്ടുവരാം |
-| നോക്കാം | വായിക്കാം |
+| Future potential form |
+|---|
+| ഇരിക്കാം |
+| ചെയ്യാം |
+| വരാം |
+| കൊണ്ടുപോകാം |
+| പറയാം |
+| പഠിക്കാം |
+| വാങ്ങിക്കാം |
+| നോക്കാം |
+| കുടിക്കാം |
+| തരാം |
+| കൊടുക്കാം |
+| എടുക്കാം |
+| പോകാം |
+| കാണാം |
+| കൊണ്ടുവരാം |
+| വായിക്കാം |
 
 <a id="lesson6-conversation"></a><!-- reading-anchor -->
 ## Conversation
@@ -155,13 +171,18 @@ Note the future potential forms of the verbs you have learned so far.
 
 **Model:** കാണുന്നു, കാണാം
 
-|  |  |
-|---|---|
-| പറയുന്നു | വരുന്നു |
-| ഇരിക്കുന്നു | കുടിക്കുന്നു |
-| ചെയ്യുന്നു | പോകുന്നു |
-| പഠിക്കുന്നു | കൊണ്ടുവരുന്നു |
-| കൊടുക്കുന്നു | തരുന്നു |
+| Present tense form |
+|---|
+| പറയുന്നു |
+| ഇരിക്കുന്നു |
+| ചെയ്യുന്നു |
+| പഠിക്കുന്നു |
+| കൊടുക്കുന്നു |
+| വരുന്നു |
+| കുടിക്കുന്നു |
+| പോകുന്നു |
+| കൊണ്ടുവരുന്നു |
+| തരുന്നു |
 
 **2.** Form sentences by inserting appropriate person words from column I in the blanks in the sentences in column II.
 
@@ -238,8 +259,7 @@ Malayalam has long and short vowels. Besides the different pronunciation, the lo
 | Malayalam | English |
 |---|---|
 | ആണ് | is |
-<!-- Source: PDF page 123; printed page 73. -->
-| ആർ | who |
+| <!-- Source: PDF page 123; printed page 73. --> ആർ | who |
 | ചായ | tea |
 | നാട് | country |
 | ഡാക്ടർ | doctor |
@@ -441,9 +461,7 @@ In general, the dative is preferred in colloquial speech whereas the possessive 
 
 “The boy is sitting near older sister.”
 
-<!-- Source: PDF page 131; printed page 81. -->
-
-4. ചന്തക്ക് അടുത്ത് ഒരു അമ്പലമുണ്ട്.
+4. ചന്തക്ക് അടുത്ത് ഒരു അമ്പലമുണ്ട്. <!-- Source: PDF page 131; printed page 81. -->
 
 “There’s a temple near that market.”
 
@@ -528,9 +546,7 @@ Examples:
 
 ബില്ലിന്റെ — “Bill’s, of Bill”
 
-<!-- Source: PDF page 133; printed page 83. -->
-
-3. The high back vowels ഉ and ഊ. Note that the joining device വ is required here.
+3. The high back vowels ഉ and ഊ. Note that the joining device വ is required here. <!-- Source: PDF page 133; printed page 83. -->
 
 Examples:
 

@@ -386,9 +386,7 @@ In other cases these alternative forms function as discontinuous relative pronou
 
 The relative pronouns cited in Section B of the Reference List are discontinuous units. They are composed of the three parts mentioned earlier, but between the interrogative base and the conditional particle, the verb of the relative clause is found. The verb always has the form of the past stem due to the hypothetical nature of the quantity or item, or whatever, being described. As relatives, such clauses further explain or qualify some element in the main clause of the sentence. Witness:
 
-<!-- Source: PDF page 402; printed page 343. -->
-
-11. ആര് വന്നാലും അയാളോട് ഇരിക്കാൻ പറയണം.
+11. ആര് വന്നാലും അയാളോട് ഇരിക്കാൻ പറയണം. <!-- Source: PDF page 402; printed page 343. -->
 
     “Whoever comes, you should tell him to sit down.”
 12. സാർ എങ്ങനെ ചെയ്യണമെന്ന് പറഞ്ഞാലും നമുക്ക് അങ്ങനെ ചെയ്യാം.
@@ -490,9 +488,7 @@ All expressions with പെടുക may be made into relative clauses with the 
 
 Where the പെടുക clause goes beyond the experiential meaning (see Examples 3 and 4 above) the relative clause contrasts to that formed with -ഉള്ള. Witness:
 
-<!-- Source: PDF page 406; printed page 347. -->
-
-7. A. ജോലി ആവശ്യമുള്ളവൻ — “he who needs work”<br>B. ജോലി ആവശ്യപ്പെട്ടവൻ — “he who demanded work”
+7. A. ജോലി ആവശ്യമുള്ളവൻ — “he who needs work”<br>B. ജോലി ആവശ്യപ്പെട്ടവൻ — “he who demanded work” <!-- Source: PDF page 406; printed page 347. -->
 8. A. സർക്കാർ നല്ലതാണെന്ന് അഭിപ്രായമുള്ളവർ. — “those who hold a good opinion of the government”<br>B. സർക്കാർ നല്ലതാണെന്ന് അഭിപ്രായപ്പെടുന്നവർ. — “those who are expressing the opinion that the government is good”
 
 Note that colloquially പ്രയാസം is also used to express a dislike for doing something, but since this is something of a longterm nature rather than a temporary feeling which one might experience, it has no equivalent expression with പെടുക. Witness:
@@ -514,9 +510,7 @@ Even passive phrases made with പെടുക can be made into relative clauses
 
 Many words and phrases can be made into adverbs by the addition of the marker -ആയി. Section A of the Reading Practice of Lesson Twenty-Three contains a group of examples. Adverbs in general fall into two types, those which modify a verb or verb phrase within a sentence, and those which modify the sentence as a whole. Those which modify a verb are usually divided into adverbs of time, place, and manner. The marker -ആയി is used for manner adverbs and for sentence adverbs only. This lesson's conversation contains the sentence adverb:
 
-<!-- Source: PDF page 407; printed page 348. -->
-
-1. ഇതിന്റെ ഫലമായി — “as a result of this”
+1. ഇതിന്റെ ഫലമായി — “as a result of this” <!-- Source: PDF page 407; printed page 348. -->
 
 Manner adverbs may be made from adjectives as in:
 
@@ -562,9 +556,7 @@ In many cases these verbforms mean “about to” in the sense of “nearly” (
 
 These “about to” verbforms can take human subjects in both the nominative and dative. A nominative subject implies that the action of the verb is about to happen without the voluntary or active involvement of the subject, while a dative subject indicates some kind of want or need on the part of the subject. Thus:
 
-<!-- Source: PDF page 409; printed page 350. -->
-
-5. അവർ കാർ കാണാറായി. — “They are about to see (i.e. catch sight of) the car.”
+5. അവർ കാർ കാണാറായി. — “They are about to see (i.e. catch sight of) the car.” <!-- Source: PDF page 409; printed page 350. -->
 6. അവർക്ക് കാർ കാണാറായി. — “It's time that they saw the car (i.e. they need or want to see it).”
 
 In practice the dative subject version may sometimes be used with the meaning ordinarily conveyed by the nominative subject construction (involuntary involvement of the subject), but the nominative subject construction is never used in place of the dative (when the subject is volitionally involved).

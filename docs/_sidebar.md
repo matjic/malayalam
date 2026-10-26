@@ -58,3 +58,5 @@
   * [Anki Vocabulary Deck](anki.md)
   * [Textbook Proofreading Review](proofreading-review.md)
   * [Vocabulary Glossary](vocabulary-glossary.md)
+
+* [How This Digital Edition Was Built](technical-notes.md)

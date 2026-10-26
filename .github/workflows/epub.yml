@@ -1,4 +1,4 @@
-name: Build EPUB and deploy site
+name: Build EPUB/PDF/Anki and deploy site
 
 on:
   workflow_dispatch:
@@ -6,16 +6,54 @@ on:
     branches: [main]
     paths:
       - 'docs/**'
+      - 'Moag-Malayalam-CompleteTextbook.pdf'
+      - 'data/vocabulary/**'
+      - 'scripts/build-vocabulary-catalog.py'
+      - 'scripts/audio_tables.py'
+      - 'scripts/test_vocabulary_ids.py'
+      - 'scripts/build-anki.py'
+      - 'scripts/anki_export.py'
+      - 'scripts/anki.css'
+      - 'scripts/test_anki_export.py'
+      - 'scripts/test_anki.py'
+      - 'requirements/anki*.txt'
       - 'scripts/build-epub.py'
+      - 'scripts/book_export.py'
+      - 'scripts/build-pdf.py'
+      - 'scripts/validate-pdf.py'
+      - 'scripts/test_pdf_layout.py'
+      - 'scripts/pdf.css'
+      - 'scripts/pdf.html'
+      - 'requirements/pdf*.txt'
       - 'scripts/test_epub_export.py'
+      - 'scripts/check-list-structure.py'
       - 'scripts/reading_order.py'
       - 'scripts/epub.css'
       - '.github/workflows/epub.yml'
   pull_request:
     paths:
       - 'docs/**'
+      - 'Moag-Malayalam-CompleteTextbook.pdf'
+      - 'data/vocabulary/**'
+      - 'scripts/build-vocabulary-catalog.py'
+      - 'scripts/audio_tables.py'
+      - 'scripts/test_vocabulary_ids.py'
+      - 'scripts/build-anki.py'
+      - 'scripts/anki_export.py'
+      - 'scripts/anki.css'
+      - 'scripts/test_anki_export.py'
+      - 'scripts/test_anki.py'
+      - 'requirements/anki*.txt'
       - 'scripts/build-epub.py'
+      - 'scripts/book_export.py'
+      - 'scripts/build-pdf.py'
+      - 'scripts/validate-pdf.py'
+      - 'scripts/test_pdf_layout.py'
+      - 'scripts/pdf.css'
+      - 'scripts/pdf.html'
+      - 'requirements/pdf*.txt'
       - 'scripts/test_epub_export.py'
+      - 'scripts/check-list-structure.py'
       - 'scripts/reading_order.py'
       - 'scripts/epub.css'
       - '.github/workflows/epub.yml'
@@ -32,14 +70,21 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
-      - name: Install Pandoc and EPUBCheck
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install Pandoc, PDF renderer and EPUBCheck
         run: |
           sudo apt-get update
-          sudo apt-get install --no-install-recommends -y pandoc default-jre-headless unzip
+          sudo apt-get install --no-install-recommends -y pandoc default-jre-headless unzip libpango-1.0-0 libpangoft2-1.0-0 libharfbuzz-subset0 fonts-dejavu-core
           curl -fL https://github.com/w3c/epubcheck/releases/download/v5.3.0/epubcheck-5.3.0.zip -o "$RUNNER_TEMP/epubcheck.zip"
           unzip -q "$RUNNER_TEMP/epubcheck.zip" -d "$RUNNER_TEMP"
-      - name: Check EPUB link and audio conversions
+      - name: Install PDF and Anki Python dependencies
+        run: python3 -m pip install -r requirements/pdf-test.txt -r requirements/anki-test.txt
+      - name: Check book links and audio removal
         run: python3 scripts/test_epub_export.py
+      - name: Check numbered-list structure
+        run: python3 scripts/check-list-structure.py
       - name: Build EPUB from docs
         run: python3 scripts/build-epub.py
       - name: Validate EPUB
@@ -50,12 +95,44 @@ jobs:
           path: dist/malayalam.epub
           if-no-files-found: error
 
-      - name: Assemble site with EPUB download
+      - name: Check PDF page layout
+        run: python3 scripts/test_pdf_layout.py
+      - name: Build PDF from docs
+        run: python3 scripts/build-pdf.py
+      - name: Validate PDF
+        run: python3 scripts/validate-pdf.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: malayalam-pdf
+          path: dist/malayalam.pdf
+          if-no-files-found: error
+
+      - name: Check vocabulary catalog and persistent IDs
+        run: |
+          python3 scripts/build-vocabulary-catalog.py --check
+          python3 scripts/test_vocabulary_ids.py
+      - name: Test Anki validation and import/reimport
+        run: |
+          python3 scripts/test_anki_export.py
+          python3 scripts/test_anki.py
+      - name: Build Anki deck
+        run: python3 scripts/build-anki.py --no-site-copy
+      - uses: actions/upload-artifact@v4
+        with:
+          name: malayalam-anki
+          path: dist/anki/
+          if-no-files-found: error
+
+      - name: Assemble site with book and Anki downloads
         if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
         run: |
           mkdir -p dist/site
           cp -a docs/. dist/site/
           cp dist/malayalam.epub dist/site/malayalam.epub
+          cp dist/malayalam.pdf dist/site/malayalam.pdf
+          cp Moag-Malayalam-CompleteTextbook.pdf dist/site/Moag-Malayalam-CompleteTextbook.pdf
+          mkdir -p dist/site/assets/decks
+          cp dist/anki/malayalam-moag.apkg dist/site/assets/decks/malayalam-moag.apkg
       - name: Configure GitHub Pages
         if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
         uses: actions/configure-pages@v5

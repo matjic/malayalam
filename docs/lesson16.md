@@ -116,7 +116,7 @@ Note how the emphatic particle can be added to negative verbforms.
 
 Note how the nouns in the left-hand column drop final ‘-ം’ in order to form adjectives in the phrases in the right-hand column.
 
-| | |
+| Noun | Adjective phrase |
 |---|---|
 | മലയാളം | മലയാള ഭാഷ |
 | ദിനം | ദിനപ്പത്രം |
@@ -135,10 +135,7 @@ Note the various changes, including in some verbforms, when -എയുള്ള�
 2. ഞാൻ നോക്കി. ഞാൻ നോക്കിയേയുള്ളു.
 3. അവർ ഇന്നു വരും. അവർ ഇന്നേ വരുകയുള്ളു.
 4. ഞാൻ നിനക്ക് തരാം. ഞാൻ നിനക്കേ തരുകയുള്ളു.
-
-<!-- Source: PDF page 285; printed page 231. -->
-
-5. ഈ കസേരയിൽ ഇരിക്കു. ഈ കസേരയിലേ ഇരിക്കാവുള്ളു.
+5. ഈ കസേരയിൽ ഇരിക്കു. ഈ കസേരയിലേ ഇരിക്കാവുള്ളു. <!-- Source: PDF page 285; printed page 231. -->
 6. നീ അവളെ കാണണം. നീ അവളെ മാത്രമേ കാണാവുള്ളു.
 7. എനിക്ക് പുസ്തകം എടുക്കണം. എനിക്ക് പുസ്തകമേ എടുക്കേണ്ടതുള്ളു.
 
@@ -204,10 +201,7 @@ Model: കേരളം, പട്ടണങ്ങൾ
 5. ചന്ത, കടകൾ
 6. വീട്, മുറി
 7. പള്ളി, അച്ഛൻ
-
-<!-- Source: PDF page 287; printed page 233. -->
-
-8. സ്കൂൾ, റ്റീച്ചർ
+8. സ്കൂൾ, റ്റീച്ചർ <!-- Source: PDF page 287; printed page 233. -->
 9. സിനിമ, ഒരു രംഗം
 10. ആഫീസ്, ക്ലാർക്ക്
 11. ആശുപത്രി, ഡാക്ടർമാർ
@@ -240,9 +234,7 @@ Model: പത്രങ്ങളിലെല്ലാം
 4. A. “അന്താരാഷ്ട്രിയ വാർത്തകൾ ആരാണ് മലയാളത്തിലേക്ക് തർജ്ജമ ചെയ്യുന്നത്?”  
    B. “എനിക്ക് അറിയാൻ പാടില്ല.”
 
-<!-- Source: PDF page 288; printed page 234. -->
-
-5. A. “സാറിന്റെ മീറ്റിങ്ങ് തീർന്നോ?”  
+5. A. “സാറിന്റെ മീറ്റിങ്ങ് തീർന്നോ?” <!-- Source: PDF page 288; printed page 234. -->
    B. “തീർന്നില്ല. അഞ്ചു മിനിറ്റ് കഴിഞ്ഞ് തീരും. അപ്പോൾ നിങ്ങളെ കാണാം. ”
 6. ഈ ചന്തയിലെ കടയിൽ എല്ലാത്തരം സാരികൾ കാണും.
 7. കേശവൻ സാർ ഇറച്ചി കഴിക്കുകയില്ല. അദ്ദേഹത്തിന് ദോശയും കാപ്പിയും ഉണ്ടാക്കിയാൽ കൊള്ളാം.
@@ -269,7 +261,7 @@ Model B: രവി മാത്രം വരുന്നു.
 
 **5.** Form proper phrases from the word pairs below by making the first word into an adjective as in A of the Reading Exercise.
 
-| | |
+| First word | Second word |
 |---|---|
 | തുറമുഖം | പട്ടണം |
 | എളുപ്പം | കാര്യം |
@@ -360,9 +352,7 @@ Most other verbforms change when -ഉള്ളു is added. If the original verb
 
 With past and present tense verbforms another common way of including a limitation in a sentence is to attach -ഏ...-ഉള്ളു as a unit to the nominalized verb. Witness:
 
-<!-- Source: PDF page 292; printed page 238. -->
-
-1. A. അയാൾ ഇപ്പോൾ വന്നു.
+1. A. അയാൾ ഇപ്പോൾ വന്നു. <!-- Source: PDF page 292; printed page 238. -->
 
    “He came now.”
 

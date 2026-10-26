@@ -16,11 +16,14 @@
         "docs:writing": "python3 scripts/build-writing-symbols.py",
         "docs:check-writing": "python3 scripts/build-writing-symbols.py --check && python3 scripts/validate-writing-symbols.py",
         "docs:vocabulary": "python3 scripts/build-vocabulary-catalog.py",
-        "docs:check-vocabulary": "python3 scripts/build-vocabulary-catalog.py --check",
+        "docs:check-vocabulary": "python3 scripts/build-vocabulary-catalog.py --check && python3 scripts/test_vocabulary_ids.py",
         "docs:anki": "python3 scripts/build-vocabulary-catalog.py && python3 scripts/build-anki.py",
-        "docs:check-anki": "python3 scripts/build-vocabulary-catalog.py --check && python3 scripts/test_anki.py",
+        "docs:check-anki": "python3 scripts/build-vocabulary-catalog.py --check && python3 scripts/test_anki_export.py && python3 scripts/test_anki.py",
         "docs:glossary": "python3 scripts/build-vocabulary-catalog.py && python3 scripts/build-vocabulary-glossary.py",
-        "docs:check-glossary": "python3 scripts/build-vocabulary-catalog.py --check && python3 scripts/build-vocabulary-glossary.py --check"
+        "docs:check-glossary": "python3 scripts/build-vocabulary-catalog.py --check && python3 scripts/build-vocabulary-glossary.py --check",
+        "docs:pdf": "python3 scripts/build-pdf.py",
+        "docs:check-pdf": "python3 scripts/test_pdf_layout.py && python3 scripts/validate-pdf.py",
+        "docs:check-lists": "python3 scripts/check-list-structure.py"
     },
     "dependencies": {
         "docsify-cli": "^4.4.3"

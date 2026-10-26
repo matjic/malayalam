@@ -8,7 +8,7 @@
 
 Note: Meanings given here apply only when the verbal nouns appear without postpositions.
 
-| | | | |
+| Case | Present verbal noun | Past verbal noun | Meaning |
 |---|---|---|---|
 | Nominative | പോകുന്നത് | പോയത് | going, having gone |
 | Possessive | പോകുന്നതിന്റെ | പോയതിന്റെ | of going, having gone |
@@ -90,7 +90,7 @@ Note: Meanings given here apply only when the verbal nouns appear without postpo
 <a id="lesson15-a-read-the-past-conditional-forms-of-the-verbs-below"></a><!-- reading-anchor -->
 ### A. Read the past conditional forms of the verbs below.
 
-| | |
+| Past tense form | Past conditional form |
 |---|---|
 | സംസാരിച്ചു | സംസാരിച്ചാൽ |
 | അയച്ചു | അയച്ചാൽ |
@@ -122,7 +122,7 @@ Note: Meanings given here apply only when the verbal nouns appear without postpo
 <a id="lesson15-c-read-the-present-and-past-tense-verbal-adjectives-below"></a><!-- reading-anchor -->
 ### C. Read the present and past tense verbal adjectives below.
 
-| | |
+| Present verbal adjective | Past verbal adjective |
 |---|---|
 | സംസാരിക്കുന്ന | സംസാരിച്ച |
 | അയക്കുന്ന | അയച്ച |
@@ -185,9 +185,7 @@ Note: Meanings given here apply only when the verbal nouns appear without postpo
 Model: ഇപ്പോൾ _____ ആൾ ആരാണ്? (വരുക)  
 ഇപ്പോൾ വരുന്ന ആൾ ആരാണ്?
 
-<!-- Source: PDF page 270; printed page 216. -->
-
-1. ആ കടയിലേക്ക് ഇപ്പോൾ _____ സ്ത്രീ എന്റെ ഭാര്യയാണ്. (കയറുക)
+1. ആ കടയിലേക്ക് ഇപ്പോൾ _____ സ്ത്രീ എന്റെ ഭാര്യയാണ്. (കയറുക) <!-- Source: PDF page 270; printed page 216. -->
 2. അമ്മയോട് ഇപ്പോൾ _____ ആൾ ചന്തയുടെ മുമ്പിലുള്ള വീട്ടിലാണ് താമസിക്കുന്നത്. (സംസാരിക്കുക)
 3. ആ കാപ്പിക്കടയിൽ ജോലി _____ പയ്യന്റെ കൈയ്യിൽ ഇത് കൊടുക്കാമോ? (ചെയ്യുക)
 4. ആ മേശയുടെ അടുത്ത് _____ ആൾ ഒരു ഡാക്ടറാണ്. (ഇരിക്കുക)
@@ -215,10 +213,7 @@ Model: ഇപ്പോൾ ഒരു സ്ത്രീ വന്നു. അവ�
 4. ചേട്ടനും ചേച്ചിയും ഒരു സിനിമ കണ്ടു. അത് നന്നായിരുന്നോ?
 5. ആ ആഫീസിൽ ഒരു ക്ലാർക്ക് ജോലി ചെയ്യുന്നു. അയാൾക്ക് ഈ ഫോറം കൊടുക്കണം.
 6. ഒരു സ്ത്രീ ആശുപത്രിയിൽ കയറുന്നു. അവർ എന്റെ ചേച്ചിയാണ്.
-
-<!-- Source: PDF page 271; printed page 217. -->
-
-7. സാർ ഒരു പുസ്തകം വായിക്കുന്നു. അത് എന്റേതാണ്.
+7. സാർ ഒരു പുസ്തകം വായിക്കുന്നു. അത് എന്റേതാണ്. <!-- Source: PDF page 271; printed page 217. -->
 8. ഒരു സ്ത്രീ ഇന്ന് സാറിനെ കാണാൻ വന്നു. അവരെ നിങ്ങൾ കണ്ടോ?
 9. ഇൻഡ്യയുടെ വടക്കു ഭാഗത്ത് ഒരു പർവ്വതം സ്ഥിതി ചെയ്യുന്നു. അതിന്റെ പേരെന്താണ്?
 10. അതാ ഒരു സ്ത്രീ ആ കടയിൽ നിന്ന് തുണി വാങ്ങിക്കുന്നു. അവർ എന്റെ റ്റീച്ചറാണ്.
@@ -246,10 +241,7 @@ Model: ഇപ്പോൾ വരാമെങ്കിൽ സാറിനെ ക�
 3. അവിടെ ഇരിക്കുന്നയാൾ തൃശ്ശൂരിൽ നിന്നാണെന്ന് കേട്ടു.
 4. ആ സമയത്ത് അയാൾക്ക് സ്റ്റാമ്പ് മേടിക്കാൻ സമയമില്ലായിരുന്നു.
 5. സാർ നേരത്തെ തന്ന ഫോറം ഞാൻ പൂരിപ്പിച്ചിട്ട് കൊണ്ടുവന്നു. ഇപ്പോൾ അത് സാറിനെ ഒന്നു കാണിക്കണം.
-
-<!-- Source: PDF page 272; printed page 218. -->
-
-6. അനുജത്തിക്ക് ഒരു പുതിയ പേന ആവശ്യമുണ്ടെന്ന് തോന്നുന്നു. ഞാൻ ആ കടയിൽ പോയി വാങ്ങിക്കട്ടെ.
+6. അനുജത്തിക്ക് ഒരു പുതിയ പേന ആവശ്യമുണ്ടെന്ന് തോന്നുന്നു. ഞാൻ ആ കടയിൽ പോയി വാങ്ങിക്കട്ടെ. <!-- Source: PDF page 272; printed page 218. -->
 7. അമേരിക്കയിൽ പോകുന്നതിന് മുമ്പ് രാമനെ ഒന്നു കാണണമെന്ന് അവൾക്ക് ആഗ്രഹമുണ്ടായിരുന്നു.
 8. അവന്റെ പേര് എന്താണെന്ന് എനിക്ക് അറിയാൻ പാടില്ല.
 9. സാർ കേരളത്തിൽ പോയിട്ടുണ്ടെന്ന് എനിക്ക് തോന്നി. പക്ഷെ, അദ്ദേഹം പോയിട്ടില്ലെന്ന് പറഞ്ഞു.
@@ -277,10 +269,7 @@ Model: ഇപ്പോൾ വരാമെങ്കിൽ സാറിനെ ക�
 3. നിങ്ങൾക്ക് എന്റെ മകനോട് സംസാരിക്കണമോ?
 4. നിങ്ങൾ ഭാര്യയെ എവിടെയാണ് അയച്ചത്?
 5. അവർ കല്യാണം കഴിച്ചോ?
-
-<!-- Source: PDF page 273; printed page 219. -->
-
-6. വർഗീസും മേനോനും ഏത് ഹോട്ടലിലാണ് കയറിയത്?
+6. വർഗീസും മേനോനും ഏത് ഹോട്ടലിലാണ് കയറിയത്? <!-- Source: PDF page 273; printed page 219. -->
 7. ഇന്നത്തെ പരിപാടി വായിച്ചോ?
 8. നിങ്ങൾക്ക് ഇപ്പോൾ ഇതിന് സമയമുണ്ടോ?
 9. നീ ആ സാറിന്റെ അനുവാദം വാങ്ങിച്ചിട്ട് എന്തു ചെയ്തു?
@@ -419,9 +408,7 @@ Desires are expressed in Malayalam by the desiderative verbform with a dative su
 
 It is even possible to make a kind of “double desire” statement by embedding a desiderative verbform within a carrier sentence. Note that here the quotative marker എന്ന് is required, c.f.
 
-<!-- Source: PDF page 277; printed page 223. -->
-
-8. എനിക്ക് അവരോട് സംസാരിക്കണമെന്ന് ആഗ്രഹമുണ്ട്.
+8. എനിക്ക് അവരോട് സംസാരിക്കണമെന്ന് ആഗ്രഹമുണ്ട്. <!-- Source: PDF page 277; printed page 223. -->
 
    “I want to talk with them.”
 
@@ -454,9 +441,7 @@ Note that these reports are indirect only in the sense that the pronouns are cha
 
 In connected dialogue, indirect quotes are not generally repeated. Unlike other direct objects of verbs, however, they may not be completely omitted either. In sentences with തോന്നുക the adverb അങ്ങനെ “that way,” “like that” is usually used to stand for a quote or thought which has already been stated. This is sometimes transferred into Indian English in sentences such as “don't say like that”, translating അങ്ങനെ പറയരുത്. Witness:
 
-<!-- Source: PDF page 278; printed page 224. -->
-
-5. A. അവരുടെ കൈയ്യിൽ പണമുണ്ടെന്ന് എനിക്ക് തോന്നി.
+5. A. അവരുടെ കൈയ്യിൽ പണമുണ്ടെന്ന് എനിക്ക് തോന്നി. <!-- Source: PDF page 278; printed page 224. -->
 
    “I thought they had money on them.”
 

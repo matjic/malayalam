@@ -1,56 +1,106 @@
 # Malayalam: A University Course
 
-Install dependencies with `bun install`, then run `bun run dev` to preview the
-site locally. The static site is served from `docs/`.
+A source-traceable digital edition of Rodney F. Moag’s *Malayalam: A University
+Course and Reference Grammar*. The project combines a Markdown textbook, reviewed
+companion audio, editable writing diagrams, and a shared vocabulary catalog to
+produce a website, an EPUB, a PDF, and Anki flashcards.
 
-Run `bun run docs:sidebar` to regenerate navigation and
-`bun run docs:check-sidebar` to verify it is current.
+[Website](https://ml.matj.io/) · [Vocabulary glossary](https://ml.matj.io/#/vocabulary-glossary) · [Anki deck](https://ml.matj.io/assets/decks/malayalam-moag.apkg) · [EPUB](https://ml.matj.io/malayalam.epub) · [PDF](https://ml.matj.io/malayalam.pdf)
 
-After changing chapter headings, run `bun run docs:navigation` to regenerate
-section anchors, chapter navigation, contents, and the sidebar.
-Run `bun run docs:check-navigation` and `bun run docs:check-reading` to validate
-reading navigation, links, source-page coverage, and Markdown structure.
+## Architecture
 
-The symbols chapter uses 93 individually redrawn SVG models in responsive cards.
-Edit centerlines, guide curves, and number positions in `scripts/writing_shapes.py`;
-run `python3 scripts/build-writing-symbols.py` to regenerate SVGs and chapter grids,
-or add `--check` to verify generated files. This build only needs Python's standard
-library. The JPEG scans are archival references and are not loaded by the chapter.
+The repository is a static publishing system. Human-readable source files and
+versioned data feed small Python generators; the website uses Docsify to render
+Markdown in the browser. No application server or database is required in production.
 
-Each SVG separates `.writing-ink`, `.writing-guides`, and `.writing-labels`.
-Ink paths have named `data-part` attributes and numbered `data-movement`
-attributes where the source supplies writing directions. These numbered movements
-can be parts of a continuous stroke; they do not imply separate pen lifts.
-Diagrams show numbers and arrows with a thin line weight and responsive card sizing.
-`docs/assets/writing.css` also exposes `--writing-ink`, `--writing-guide-ink`,
-`--writing-background`, `--writing-stroke-width`, and `--writing-card-size`.
-The Docsify plugin inlines the SVGs to inherit styling; standalone images remain
-the fallback. The original table URLs now assemble the same redrawn models.
+| Layer | Representation | Role |
+|---|---|---|
+| Textbook | Markdown in `docs/` | Editable prose, examples, exercises, and vocabulary tables |
+| Source provenance | PDF-page comments, manifests, review records | Connect the edition and derived assets to their sources |
+| Writing models | Named paths and guides in `scripts/writing_shapes.py` | Generate standalone SVGs and assembled writing tables |
+| Audio | Original MP3s, timestamped clip manifests, explicit repairs | Preserve recordings while producing section, word, and letter playback |
+| Vocabulary | Generated `data/vocabulary/moag.json` | Shared structured input for the glossary and Anki exporter |
+| Website | Docsify, local JavaScript/CSS/fonts | Reading navigation, search, vocabulary filters, and audio controls |
+| Exports | Pandoc EPUB, WeasyPrint PDF, and genanki packages | Reuse the content in ebook readers and spaced-repetition study |
 
-Build an EPUB from `docs/` with `bun run docs:epub` (requires Python 3 and
-Pandoc 3). The result is `dist/malayalam.epub`; pass `--output PATH` directly to
-`python3 scripts/build-epub.py` to choose another destination.
-The **Build EPUB and deploy site** GitHub Action runs on docs/exporter changes
-and can also be started manually. It validates the book with EPUBCheck and uploads
-the `malayalam-epub` artifact. On `main`, it also deploys `docs/` and the generated
-book together to GitHub Pages, making the EPUB available at
-`https://ml.matj.io/malayalam.epub` through the homepage and footer download links.
-Pull requests build and validate without deploying.
+## Content and data flow
 
-For the initial switch from branch publishing, set **Settings → Pages → Build and
-deployment → Source** to **GitHub Actions** after merging this workflow. Keep the
-existing custom domain `ml.matj.io`. The EPUB is generated during deployment and
-does not need to be committed. It becomes available after the first successful
-deployment. Local `bun run dev` previews do not include the generated download;
-to serve it locally, build the EPUB, assemble `dist/site` as the workflow does,
-and run `python3 -m http.server --directory dist/site`.
+The lesson Markdown remains the editable source for vocabulary as well as prose.
+A catalog generator extracts written forms, meanings, chapter references, and audio
+associations from the tables. The generated glossary combines repeated entries
+across chapters; Anki preserves chapter membership through lesson subdecks.
+Both outputs use the same catalog rather than maintaining separate vocabulary lists.
 
-EPUB adaptations happen in a temporary copy; the website's Markdown is unchanged.
-The export includes the textbook in reading order, Practice Lessons A–C, the
-edition/practice guides, contents, and proofreading review. Chapter and section
-links, photographs, SVG writing diagrams, source credits, and reuse terms are
-retained. Audio players and all clip-selection buttons become online recording
-links (internet required); expandable answers become always-visible text.
-Docsify search, navigation controls, and JavaScript are replaced by the reader's
-own controls. A Malayalam font is embedded, but font support and wide-table
-layout vary between readers. No companion audio files are bundled.
+Writing diagrams follow a similar pattern: editable stroke geometry generates SVG
+assets for the site and ebook. Navigation is derived from chapter titles, explicit
+section anchors, and the book’s reading order.
+
+The main source covers all 557 PDF pages, including 25 lessons, seven minilessons,
+appendices, glossary, and index. Three supplementary practice lessons are identified
+separately from the original textbook. Physical PDF page numbers are retained in
+hidden comments, allowing prose and tables to flow across printed page boundaries
+without losing source references.
+
+## Audio and review
+
+Audio processing is an offline pipeline. Original recordings are retained with
+checksums; generated clips record source offsets and provenance. FFmpeg handles
+cutting and encoding. Full Whisper large-v3 recognition, pause detection, repetition
+comparison, and Koyal recognition supplied alignment evidence. Direct Core ML
+exports of Koyal, including FP16, supported faster experiments with short-clip
+boundaries.
+
+Automated output is supplemented by contextual checks and listening corrections.
+Explicit repairs bind labels and cuts to their source ranges and checksums, so a
+confirmation cannot silently carry over to changed audio. The vocabulary tables,
+glossary, and Anki decks reuse the resulting recordings. Missing audio stays absent.
+
+Recognition agreement and passing structural checks do not establish that every
+spoken form or translation is correct. The repository retains raw recognition,
+review exports, repair records, and unresolved editorial findings so those judgments
+can be inspected and revised.
+
+## Delivery and validation
+
+The site is served as static files through GitHub Pages. GitHub Actions builds the
+EPUB with Pandoc, validates it with EPUBCheck, renders and validates a PDF, builds and tests the Anki deck, and deploys all three alongside the site.
+Both book formats share content preparation and reading order. The book exports retain the written content and omit audio players, recording
+links, and Audio columns. Anki packages embed recordings and a Malayalam font for offline study.
+
+Checks cover page-marker coverage, links, section anchors, numbered-list structure, table structure,
+generated-file freshness, SVG models, audio checksums, and alignment regressions.
+Anki exports are tested with the official Anki Python backend, including repeat
+imports and preservation of review progress. These tests complement editorial and
+listening review; they do not replace them.
+
+## Working with the repository
+
+The site preview uses Bun and Docsify:
+
+```sh
+bun install
+bun run dev
+```
+
+Generators use Python; EPUB and PDF export additionally require Pandoc. The PDF
+renderer uses Pango and the dependencies in `requirements/pdf.txt`. Anki dependencies
+are isolated in `requirements/anki.txt`, with optional backend-test dependencies in
+`requirements/anki-test.txt`. Package scripts expose the common build and check
+commands.
+
+- [Technical account](docs/technical-notes.md): transcription, tools, review history, architecture, and rebuild commands.
+- [Vocabulary documentation](data/vocabulary/README.md): catalog schema conventions, Anki generation, and import tests.
+- [Audio documentation](data/audio/moag/README.md): recognition, alignment, boundary experiments, and repair provenance.
+- [Proofreading review](docs/proofreading-review.md): corrections, verification scope, and remaining source defects.
+- [Deployment workflow](.github/workflows/epub.yml): EPUB/PDF/Anki validation and static-site publication.
+
+## Sources and reuse
+
+The [original textbook PDF](Moag-Malayalam-CompleteTextbook.pdf) is preserved in
+this repository and included in the deployed site, alongside the digital edition.
+
+Original textbook material, companion recordings, and supplementary practice
+materials retain their respective credits and reuse terms. See [LICENSE.md](LICENSE.md),
+the [practice guide](docs/practice.md), and the audio provenance records. The
+repository license does not establish a separate reuse license for every imported
+recording.

@@ -8,9 +8,7 @@ Descriptive lesson titles have been added for navigation. They highlight each le
 
 Webpages and reflowable ebooks have no fixed page size. A reader’s page number changes with the device, font size, and reading software. Use chapter names and numbered grammar sections, such as [§24.6, Several More Ways to Say “Can”](lesson24.md#section-24-6), to identify a passage in this edition.
 
-The original printed page numbers are retained in the source contents and index for comparison with the textbook. They are not digital page numbers. Some source index references use older pagination, so a number there may not identify the intended topic even in the fourth-edition PDF. Use the verified links at the top of the [index](book-index.md) or the [contents](contents.md) to locate topics.
-
-Hidden source comments record both the physical PDF page and, where available, the printed page label. These are different numbering systems: physical PDF page 47, for example, is printed page 1. The comments preserve provenance without interrupting reading or imposing page breaks. For citation, include the book title, author, edition, chapter, and section; add the source printed page or physical PDF page when consulting the original PDF.
+Use the linked contents, topic index, and numbered grammar sections to navigate and cite this edition. Original printed page references are omitted from the reading text. Hidden source comments retain the PDF provenance for checking corrections against the source.
 
 ## Looking Up Words and Grammar
 

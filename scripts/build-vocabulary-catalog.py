@@ -12,6 +12,34 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'data/vocabulary/moag.json'
 
 
+def preserve_ids(entries, identities):
+    """Keep published IDs when a spelling or gloss is corrected.
+
+    Match exact rows first, then unambiguous single-field corrections. The
+    checked-in catalog supplies the published identities.
+    For edits to both fields, edit the catalog text while retaining its ID.
+    """
+    used = set()
+    pending = list(entries)
+    for fields in [('malayalam', 'english'), ('malayalam',), ('english',)]:
+        for entry in pending[:]:
+            candidates = [old for old in identities
+                          if old['id'] not in used and old['chapter'] == entry['chapter']
+                          and all(old[f] == entry[f] for f in fields)]
+            competing = [other for other in pending
+                         if other['chapter'] == entry['chapter']
+                         and all(other[f] == entry[f] for f in fields)]
+            if len(candidates) == len(competing) == 1:
+                entry['id'] = candidates[0]['id']
+                used.add(entry['id'])
+                pending.remove(entry)
+    known = {old['id'] for old in identities}
+    for entry in pending:
+        if entry['id'] in known:
+            raise ValueError(f"Ambiguous vocabulary identity: {entry['id']}")
+    assert len({e['id'] for e in entries}) == len(entries)
+
+
 def clean(value):
     value = re.sub(r'<!--.*?-->', '', value)
     value = re.sub(r'<br\s*/?>', '; ', value)
@@ -76,6 +104,8 @@ def main():
     parser.add_argument('--check', action='store_true')
     args = parser.parse_args()
     data = catalog()
+    identities = json.loads(OUT.read_text())['entries'] if OUT.exists() else []
+    preserve_ids(data['entries'], identities)
     rendered = json.dumps(data, ensure_ascii=False, indent=2)+'\n'
     if args.check:
         assert OUT.read_text() == rendered, 'Vocabulary catalog needs rebuilding'

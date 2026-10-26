@@ -113,9 +113,7 @@ Note how the nouns referring to male and female persons may be replaced in the f
 1. ദോശ കൊണ്ടുവന്ന പയ്യൻ.  
    ദോശ കൊണ്ടുവന്നവൻ.
 
-<!-- Source: PDF page 327; printed page 270. -->
-
-2. അവരുടെ വീട്ടിൽ ജോലി ചെയ്ത സ്ത്രീ.  
+2. അവരുടെ വീട്ടിൽ ജോലി ചെയ്ത സ്ത്രീ. <!-- Source: PDF page 327; printed page 270. -->
    അവരുടെ വീട്ടിൽ ജോലി ചെയ്തവൾ.
 3. ഞങ്ങളെ പഠിപ്പിക്കുന്ന റ്റീച്ചർ.  
    ഞങ്ങളെ പഠിപ്പിക്കുന്നവർ.
@@ -229,9 +227,7 @@ Model: ആ <u>തുണിക്കട</u> അറിയില്ലേ? ആ ത�
 Model: നിങ്ങൾ അത് ചെയ്യണം.  
 നിങ്ങൾ അത് ചെയ്യേണ്ടതാണ്.
 
-<!-- Source: PDF page 330; printed page 273. -->
-
-1. നിങ്ങൾ ഇങ്ങനെ ചെയ്യണം.
+1. നിങ്ങൾ ഇങ്ങനെ ചെയ്യണം. <!-- Source: PDF page 330; printed page 273. -->
 2. ഇതിന് തോമസ് സാറിനോട് അനുവാദം ചോദിക്കണം.
 3. മോളേ, നീ അമേരിക്കക്ക് പോകുന്നതിന് മുമ്പ് പള്ളിയിലെ അച്ഛനെ ഒന്നു കാണണം.
 4. രമ അവിടെ പോകണമെന്ന് അദ്ദേഹം പറഞ്ഞു.
@@ -261,9 +257,8 @@ Model: എനിക്ക് ഒരു സാരി വാങ്ങിക്ക�
    അത് ഈ സിനിമാശാലയിലാണ് നടക്കുന്നത്.
 4. നിങ്ങൾ ഒരു ഫോറം പൂരിപ്പിക്കണം.  
    ആ ഫോറം ഈ ആഫീസിൽ കിട്ടും.
-<!-- Source: PDF page 331; printed page 274. -->
 
-5. എനിക്ക് ചേട്ടനോട് ഒരു കാര്യം പറയണം. അത് ചേച്ചി കേൾക്കരുത്.
+5. എനിക്ക് ചേട്ടനോട് ഒരു കാര്യം പറയണം. അത് ചേച്ചി കേൾക്കരുത്. <!-- Source: PDF page 331; printed page 274. -->
 6. ജെയിംസേ, കമലയെ ഒരു ഡാക്ടറിനെ കാണിക്കാൻ കൊണ്ടു പോകണം. അയാളുടെ പേര് കേശവൻ നായർ എന്നാണ്.
 
 **4. A.** Combine the sentences in the pairs below by making the first into a dependent ‘because’ clause as in the model.
@@ -286,10 +281,7 @@ Model: എനിക്ക് ഒരു സാരി വാങ്ങിക്ക�
 
 1. രാമന് വളരെ അധികം ജോലിയുണ്ട്. അത് കൊണ്ട് അയാൾ വരുന്നില്ല.
 2. ഹമീദിന് നാളെ ഒരു പരീക്ഷയുണ്ട്. അത് കൊണ്ട് അയാൾ വീട്ടിൽ നിന്നും ഇറങ്ങുകയില്ല.
-
-<!-- Source: PDF page 332; printed page 275. -->
-
-3. മകൾക്ക് ധാരാളം പണമുണ്ട്. അതുകൊണ്ട് അവൾക്ക് എല്ലാം വാങ്ങിക്കാം.
+3. മകൾക്ക് ധാരാളം പണമുണ്ട്. അതുകൊണ്ട് അവൾക്ക് എല്ലാം വാങ്ങിക്കാം. <!-- Source: PDF page 332; printed page 275. -->
 4. എനിക്ക് കുറച്ച് സമയമുണ്ട്. അത് കൊണ്ട് ഞാൻ ഒരു പുസ്തകം വായിക്കാൻ പോകുകയാണ്.
 5. ഈ വഴിയിൽ നല്ല തിരക്കുണ്ട്. അത് കൊണ്ട് വേഗം നടക്കാൻ പറ്റുകയില്ല.
 
@@ -314,9 +306,7 @@ Model: എനിക്ക് ഒരു സാരി വാങ്ങിക്ക�
 4. A. “മോളേ, നീ ഈ തുണി കൃഷ്ണാസാരിക്കടയിൽ നിന്നായിരിക്കും വാങ്ങിച്ചത്. അല്ലേ!”  
    B. “അതെ. ഇതു പഴയതായിരിക്കും. അയാൾ നിന്നെ കളിപ്പിച്ചു എന്ന് തോന്നുന്നു.”
 
-<!-- Source: PDF page 333; printed page 276. -->
-
-5. ഈ പയ്യൻ എവിടെ പോയിരിക്കുകയാണ്? ജോലി ചെയ്യാനുള്ള സമയത്ത് അവനെ കാണുകയില്ല. ഇങ്ങനെ ഇറങ്ങിപ്പോകരുത് എന്ന് ഞാൻ അവനോട് എപ്പോഴും പറയുന്നതാണ്.
+5. ഈ പയ്യൻ എവിടെ പോയിരിക്കുകയാണ്? ജോലി ചെയ്യാനുള്ള സമയത്ത് അവനെ കാണുകയില്ല. ഇങ്ങനെ ഇറങ്ങിപ്പോകരുത് എന്ന് ഞാൻ അവനോട് എപ്പോഴും പറയുന്നതാണ്. <!-- Source: PDF page 333; printed page 276. -->
 6. ഹമീദ് മിക്കവാറും കമലയെ പോയി കാണാറുണ്ട്. ഹമീദിന് അവളെ വലിയ ഇഷ്ടമാണെന്ന് തോന്നുന്നു. എനിക്ക് തോന്നുന്നത് അവർ അവളെ കല്യാണം കഴിക്കുമെന്നാണ്.
 7. രാജൻ ഇടക്കിടെ കോട്ടയത്ത് വരാറുണ്ട് അല്ലേ? ഒരു ദിവസം എന്നെ ഒന്നു വന്നു കാണാൻ പറയു.
 8. A. “അമ്മേ, എനിക്ക് വിശക്കുന്നു. കഴിക്കാൻ വല്ലതും തരൂ.”  
@@ -375,9 +365,7 @@ The manager also makes some of his criticisms less direct by putting them into a
 
 For his part, the peon also tries to soften his retorts to the manager’s questions and criticisms. Firstly, he uses the softener ഒന്ന് to show deference. Also the use of the nonemphatic order in cleft sentences (see [15.1](lesson15.md#section-15-1)) gives his statements a milder, less assertive tone. Witness:
 
-<!-- Source: PDF page 335; printed page 278. -->
-
-6. വെറുതെ ഒന്നു വെളിയിൽ പോയതാ സാറേ.
+6. വെറുതെ ഒന്നു വെളിയിൽ പോയതാ സാറേ. <!-- Source: PDF page 335; printed page 278. -->
 
    “I just went out, that’s all” (note that വെറുതെ does not mean here “for no purpose” in the specific sense but rather carries the idea of “happened to”)
 7. വിശന്നിട്ട് വല്ലതും ഒന്നു കഴിക്കാൻ പോയതാ സാറേ.
@@ -489,10 +477,7 @@ Positive verbal adjectives, and nouns made from them, may show either present or
 In these examples, ഇരിക്കുക is brought in as the main verb of a carrier sentence which can show tense, and the negative sentence is embedded within it, with the negative verb taking the form of an adverb with the ending -ാതെ. Colloquially, there is an alternative means of expressing a negative verbal noun in the past without a carrier sentence. Thus example 6 above could also be rendered as:
 
 7. നീ അയാളെ ക്ഷണിക്കാഞ്ഞത് ശരിയല്ല. — “It's not good that you didn't invite him.”
-
-<!-- Source: PDF page 339; printed page 282. -->
-
-8. നീ അയാളുടെ കൂടെ പോകാഞ്ഞത് ശരിയല്ല. — “It's not good that you didn't go with him.”
+8. നീ അയാളുടെ കൂടെ പോകാഞ്ഞത് ശരിയല്ല. — “It's not good that you didn't go with him.” <!-- Source: PDF page 339; printed page 282. -->
 
 Like the other negative endings, ആഞ്ഞ് is added to the present verbal stem. It frequently occurs with the conditional marker -ാൽ, usually with a sense of warning of bad consequences if something is not done. Note that in such cases there is no actual past tense meaning, rather the past negative is used in a hypothetical sense, just as in English when we say “If you wouldn't show up on time, you would be fired”. Further, unlike -ാതെ, ആഞ്ഞ് can occur with perfective marker -ിട്ട്. Witness:
 
@@ -528,9 +513,7 @@ Several types of clauses are relativized through the use of -ഉള്ള. First
 
 Secondly, sentences containing verbforms other than simple present or past must be embedded in a carrier sentence whose main verb is ഉണ്ട് whose adjectival form is -ഉള്ള. Witness:
 
-<!-- Source: PDF page 341; printed page 284. -->
-
-6. എന്നോട് വല്ലതും ചോദിക്കണമെന്നുള്ളവർ — “those who want to ask me something.”
+6. എന്നോട് വല്ലതും ചോദിക്കണമെന്നുള്ളവർ — “those who want to ask me something.” <!-- Source: PDF page 341; printed page 284. -->
 
 Noun phrases comprised of a relative clause plus a relative pronoun may serve all of the functions which ordinary nouns serve in a sentence. They may be the subject or predicate, as they stand. They may become adverbs with the addition of the adverb marker -ആയി (see [22.5](lesson22.md#section-22-5)). They may also serve various case roles, with the addition of the appropriate dative, accusative, possessive, or other ending.
 
@@ -546,9 +529,7 @@ Section [13.1](lesson13.md#section-13-1) treats the stative perfect verbform whi
 
 **Functions:** The fact that the English translations are identical leads one to think that the stative and present perfect forms are identical in meaning. Actually, the two forms are complementary in most usages, and distinct in meaning under most conditions. They both report the same action but with different emphases. Thus Example 1 above and Example 3 below report that some people have come and that they are still present. Example 1 however indicates that they have just arrived while Example 3 emphasizes the new situation brought about by their arrival. In some instances the present perfect indicates that the effects of the action, rather than the action itself, have just occurred. Thus example 17 below, depending on the situation, indicates either that the letter has just been received, or that it had just been written, while 18 emphasizes the fact that the letter has been completed and is now in existence.
 
-<!-- Source: PDF page 342; printed page 285. -->
-
-3. അവർ വന്നിട്ടുണ്ട്. — “They have come.”
+3. അവർ വന്നിട്ടുണ്ട്. — “They have come.” <!-- Source: PDF page 342; printed page 285. -->
 4. അയാൾ ടിക്കറ്റ് വാങ്ങിക്കാൻ പോയിട്ടുണ്ട്. — “He has gone to buy the tickets.”
 
 Similarly, Example 2 and Example 4 report the same event but have different implications. Example 2 with the present perfect implies that the person is not here at the moment, while Example 4 would tend to be used to indicate that someone else has gone to buy tickets, hence the matter has been taken care of. This is true, since the stative perfect which contains the perfective marker -ിട്ട് emphasizes the completion of the action or process.
@@ -565,9 +546,7 @@ The two forms are very different in terms of their use in questions. Firstly, th
 
 In terms of yes-no questions, only the stative perfect (-ിട്ടുണ്ട്) form can be used to express “have... ever ...” questions (see [13.1](lesson13.md#section-13-1)). The present perfect, on the other hand, is used to inquire about a specific event pursuant to some topic already introduced into the discourse and which has taken place in the very immediate past. Witness:
 
-<!-- Source: PDF page 343; printed page 286. -->
-
-9. അവർ ആ ഹോട്ടലിൽ കയറിയിരിക്കുന്നോ? — “Have they gone into that hotel?”
+9. അവർ ആ ഹോട്ടലിൽ കയറിയിരിക്കുന്നോ? — “Have they gone into that hotel?” <!-- Source: PDF page 343; printed page 286. -->
 
 It will be further recalled, that the -ിട്ടുണ്ട് form is used for stative expressions in statements as well as yes-no questions such as:
 

@@ -8,6 +8,37 @@ from urllib.parse import unquote
 DOCS = Path(__file__).resolve().parents[1] / 'docs'
 
 
+def validate_tables(text, name):
+    """Check every pipe table, including indented tables and missing headers."""
+    errors = []
+    # Keep line numbers stable while removing source annotations and other HTML.
+    clean = re.sub(r'<!--.*?-->', lambda m: '\n' * m[0].count('\n'), text, flags=re.S)
+    lines = clean.splitlines()
+    index = 0
+    while index < len(lines):
+        if not lines[index].lstrip().startswith('|'):
+            index += 1
+            continue
+        start = index
+        rows = []
+        while index < len(lines) and lines[index].lstrip().startswith('|'):
+            row = lines[index].strip()
+            if not row.endswith('|'):
+                errors.append(f'{name}:{index + 1}: table row needs a closing pipe')
+            rows.append([cell.strip() for cell in re.split(r'(?<!\\)\|', row)[1:-1]])
+            index += 1
+        width = len(rows[0])
+        if len(rows) < 2 or not all(re.fullmatch(r':?-{3,}:?', cell) for cell in rows[1]):
+            errors.append(f'{name}:{start + 1}: table needs a header and separator row')
+        for column, cell in enumerate(rows[0], 1):
+            if not re.sub(r'<[^>]*>', '', cell).strip():
+                errors.append(f'{name}:{start + 1}: table header {column} is empty')
+        for offset, row in enumerate(rows):
+            if len(row) != width:
+                errors.append(f'{name}:{start + offset + 1}: table row has {len(row)} cells, expected {width}')
+    return errors
+
+
 def main():
     errors, pages, links, sections = [], [], 0, 0
     texts = {path: path.read_text() for path in DOCS.glob('*.md')}
@@ -25,20 +56,7 @@ def main():
         pages.extend(map(int, re.findall(r'Source: PDF page (\d+)', text)))
         if '\ufffd' in text:
             errors.append(f'{path.name}: Unicode replacement character')
-        # HTML source comments may contain punctuation or appear inside cells.
-        clean = re.sub(r'<!--.*?-->', '', text, flags=re.S)
-        width = None
-        lines = clean.splitlines()
-        for index, line in enumerate(lines):
-            if not line.startswith('|'):
-                width = None
-                continue
-            cells = re.split(r'(?<!\\)\|', line.rstrip())
-            count = len(cells) - 2
-            if index + 1 < len(lines) and re.fullmatch(r'\|[ :|\-]+\|', lines[index + 1]):
-                width = count
-            elif width is not None and count != width:
-                errors.append(f'{path.name}:{index + 1}: table row has {count} cells, expected {width}')
+        errors.extend(validate_tables(text, path.name))
 
     if sorted(pages) != list(range(1, 558)):
         missing = sorted(set(range(1, 558)) - set(pages))
@@ -53,6 +71,9 @@ def main():
             links += 1
             file, _, fragment = target.partition('#')
             destination = (path.parent / unquote(file)).resolve() if file else path.resolve()
+            # These books are generated into dist/site during deployment.
+            if destination in {DOCS / "malayalam.epub", DOCS / "malayalam.pdf"}:
+                continue
             if not destination.exists():
                 errors.append(f'{path.name}: missing link/image {target}')
             elif fragment and destination.suffix == '.md' and unquote(fragment) not in anchors.get(destination, set()):

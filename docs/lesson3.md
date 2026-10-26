@@ -102,7 +102,7 @@
 
 Note how **ഉണ്ട്** joins to the following words.
 
-|  |  |
+| Word | With ഉണ്ട് |
 |---|---|
 | അവൻ | അവനുണ്ട് |
 | അവൾ | അവളുണ്ട് |
@@ -266,60 +266,88 @@ Form sentences as in the model by matching the pronouns in Column I to the kinsh
 
    **Model:** സുഖം: സുഖമാ (meaning സുഖമാണ്)
 
-   | | |
-   |---|---|
-   | ഞങ്ങൾ | അമ്മ |
-   | ചേച്ചി | ചേട്ടൻ |
-   | അനുജത്തി | കൈ |
-   | പത്ത് | നിങ്ങൾ |
-   | ആർ | പുസ്തകം |
-   | പഴം | എന്ത് |
+   | Word to combine |
+   |---|
+   | ഞങ്ങൾ |
+   | ചേച്ചി |
+   | അനുജത്തി |
+   | പത്ത് |
+   | ആർ |
+   | പഴം |
+   | അമ്മ |
+   | ചേട്ടൻ |
+   | കൈ |
+   | നിങ്ങൾ |
+   | പുസ്തകം |
+   | എന്ത് |
 
    **B.** Combine the following words with ഉണ്ടോ.
 
    **Model:** വീട്: വീടുണ്ടോ?
 
-   | | |
-   |---|---|
-   | വീട്ടിൽ | കസേര |
-   | റ്റീച്ചർ | ഡാക്ടർ |
-   | പുസ്തകം | ജോലി |
-   | അയാൾ | അവർ |
+   | Word to combine |
+   |---|
+   | വീട്ടിൽ |
+   | റ്റീച്ചർ |
+   | പുസ്തകം |
+   | അയാൾ |
+   | കസേര |
+   | ഡാക്ടർ |
+   | ജോലി |
+   | അവർ |
 
 <!-- Source: PDF page 79; printed page 33. -->
 
-| | |
-|---|---|
-| ആഫീസ് | കേശവൻ |
-| സാർ | പേന |
-| മേശ | മാങ്ങ |
-| അദ്ദേഹം | പഴം |
-| അവൾ | അവൻ |
-| രാജൻ | ബുക്ക് |
-| അത് | അമ്മ |
+| Word to combine |
+|---|
+| ആഫീസ് |
+| സാർ |
+| മേശ |
+| അദ്ദേഹം |
+| അവൾ |
+| രാജൻ |
+| അത് |
+| കേശവൻ |
+| പേന |
+| മാങ്ങ |
+| പഴം |
+| അവൻ |
+| ബുക്ക് |
+| അമ്മ |
 
 **C.** Separate the individual words in each of the items below.
 
-| | |
-|---|---|
-| ചേട്ടനുണ്ടോ | അങ്ങനെയുണ്ടോ |
-| ജെയിംസുണ്ട് | ഇപ്പോളുണ്ട് |
-| കസേരയുണ്ട് | എത്രയുണ്ട് |
-| റ്റീച്ചറുണ്ട് | അവരുണ്ട് |
-| പത്തുരൂപയുണ്ട് | ആരൊക്കെയുണ്ട് |
-| അച്ഛനുണ്ട് | പുസ്തകമുണ്ടോ |
-| ചേച്ചിയുണ്ട് | കയ്യിലുണ്ടോ |
-| അതുണ്ട് | വീട്ടിലുണ്ട് |
+| Form to separate |
+|---|
+| ചേട്ടനുണ്ടോ |
+| ജെയിംസുണ്ട് |
+| കസേരയുണ്ട് |
+| റ്റീച്ചറുണ്ട് |
+| പത്തുരൂപയുണ്ട് |
+| അച്ഛനുണ്ട് |
+| ചേച്ചിയുണ്ട് |
+| അതുണ്ട് |
+| അങ്ങനെയുണ്ടോ |
+| ഇപ്പോളുണ്ട് |
+| എത്രയുണ്ട് |
+| അവരുണ്ട് |
+| ആരൊക്കെയുണ്ട് |
+| പുസ്തകമുണ്ടോ |
+| കയ്യിലുണ്ടോ |
+| വീട്ടിലുണ്ട് |
 
 **D.** Combine the following pairs of words using -ഉം as in the model.
 
 **Model:** അവൻ, അവൾ: അവനും അവളും.
 
-| | |
-|---|---|
-| മണി, കേശവൻ | ഞാൻ, നിങ്ങൾ |
-| മേശ, കസേര | ഇത്, അത് |
-| മാങ്ങ, പഴം | റ്റീച്ചർ, അമ്മ |
+| Word pair |
+|---|
+| മണി, കേശവൻ |
+| മേശ, കസേര |
+| മാങ്ങ, പഴം |
+| ഞാൻ, നിങ്ങൾ |
+| ഇത്, അത് |
+| റ്റീച്ചർ, അമ്മ |
 
 **8.** Pronunciation Practice.
 
@@ -359,9 +387,7 @@ The instructor will hold up flashcards with items from the above list. If the it
    **Model:** ചേട്ടൻ.<br>
    അത് എന്റെ ചേട്ടൻ.
 
-<!-- Source: PDF page 81; printed page 35. -->
-
-1. അച്ഛൻ
+1. അച്ഛൻ <!-- Source: PDF page 81; printed page 35. -->
 2. അമ്മ
 3. ചേച്ചി
 4. അനുജത്തി
@@ -387,9 +413,7 @@ In [1.2](lesson1.md#section-1-2) the equational type sentence was described, con
 
 These existive sentences may contain a locative expression as well, either stated or understood, but this is not a basic or required part of the existive sentence. For example:
 
-<!-- Source: PDF page 82; printed page 36. -->
-
-3. ആ മുറിയിൽ അഞ്ച് കസേരയുണ്ട്.
+3. ആ മുറിയിൽ അഞ്ച് കസേരയുണ്ട്. <!-- Source: PDF page 82; printed page 36. -->
 
 “There are five chairs in that room.”
 
@@ -423,9 +447,7 @@ II. Whenever English requires, or permits, “there is” or “there are” as 
 
 “There are two tables.”
 
-<!-- Source: PDF page 83; printed page 37. -->
-
-9. വീട്ടിൽ എത്ര പേരുണ്ട്?
+9. വീട്ടിൽ എത്ര പേരുണ്ട്? <!-- Source: PDF page 83; printed page 37. -->
 
 “How many people are (there) at home?”
 
@@ -489,9 +511,7 @@ Polite command forms of verbs always end in the long vowel -ഊ, which is attach
 
 Physical and emotional feelings in English are expressed with equational sentences: “I am fine/thirsty/angry/depressed,” etc. In Malayalam, these feelings are conveyed through impersonal expressions in which the *logical subject*, or the person experiencing the feeling, appears as a noun or pronoun in the dative case (as introduced in Lesson Four). In practice, it is often very natural to omit these dative subjects, since it is obvious who is being talked about. In this lesson’s conversation, therefore, we find the greeting sequence, സുഖമാണോ? (literally “Is there health for you?”) and സുഖം തന്നെ (literally “I have health, indeed.”), in which both lines appear with the personal subject unspecified. In fact, in conversational interchanges it is especially common to omit dative subjects. They are normally specified only if there is a subject other than the expected one, and then it would not be repeated in the reply. Witness the following example.
 
-<!-- Source: PDF page 86; printed page 40. -->
-
-1. അമ്മക്ക് സുഖം ആണോ?
+1. അമ്മക്ക് സുഖം ആണോ? <!-- Source: PDF page 86; printed page 40. -->
 
 “Is (your) mother well?”
 

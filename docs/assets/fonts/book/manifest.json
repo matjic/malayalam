@@ -1,0 +1,74 @@
+[
+  {
+    "file": "NotoSerifMalayalam-Bold.ttf",
+    "family": "Noto Serif Malayalam",
+    "style": "Bold",
+    "version": "Version 2.102; ttfautohint (v1.8) -l 8 -r 50 -G 200 -x 14 -D mlym -f none -a qsq -X \"\"",
+    "sha256": "a85eb59057a5f496b683d84bd6186ce7c656eacb0ec3dd19bbac29a25805d533",
+    "source": "https://raw.githubusercontent.com/notofonts/noto-fonts/main/hinted/ttf/NotoSerifMalayalam/NotoSerifMalayalam-Bold.ttf",
+    "license": "SIL Open Font License 1.1"
+  },
+  {
+    "file": "NotoSerifMalayalam-Regular.ttf",
+    "family": "Noto Serif Malayalam",
+    "style": "Regular",
+    "version": "Version 2.102; ttfautohint (v1.8) -l 8 -r 50 -G 200 -x 14 -D mlym -f none -a qsq -X \"\"",
+    "sha256": "78e06f3779a8bfa022692f8c333bf01c35b6f52de1cf1a07c259122d49f2f1c4",
+    "source": "https://raw.githubusercontent.com/notofonts/noto-fonts/main/hinted/ttf/NotoSerifMalayalam/NotoSerifMalayalam-Regular.ttf",
+    "license": "SIL Open Font License 1.1"
+  },
+  {
+    "file": "SourceSerif4-Bold.ttf",
+    "family": "Source Serif 4",
+    "style": "Bold",
+    "version": "Version 4.005;hotconv 1.1.0;makeotfexe 2.6.0",
+    "sha256": "7cf4f4e1ad74f45058d5bc61716b82560442fbdcd9d3654d2dea96bf6c683d86",
+    "source": "https://raw.githubusercontent.com/adobe-fonts/source-serif/release/TTF/SourceSerif4-Bold.ttf",
+    "license": "SIL Open Font License 1.1"
+  },
+  {
+    "file": "SourceSerif4-BoldItalic.ttf",
+    "family": "Source Serif 4",
+    "style": "Bold Italic",
+    "version": "Version 4.005;hotconv 1.1.0;makeotfexe 2.6.0",
+    "sha256": "7b215b37f8873f5579f3f8d2ded3ca7c588e2f435cd996605ebfc5befe2cd5eb",
+    "source": "https://raw.githubusercontent.com/adobe-fonts/source-serif/release/TTF/SourceSerif4-BoldIt.ttf",
+    "license": "SIL Open Font License 1.1"
+  },
+  {
+    "file": "SourceSerif4-Italic.ttf",
+    "family": "Source Serif 4",
+    "style": "Italic",
+    "version": "Version 4.005;hotconv 1.1.0;makeotfexe 2.6.0",
+    "sha256": "9d2950a8f1da66e21502c35d646a1d2148e79f9ea43fd2158cf02f5232e7f430",
+    "source": "https://raw.githubusercontent.com/adobe-fonts/source-serif/release/TTF/SourceSerif4-It.ttf",
+    "license": "SIL Open Font License 1.1"
+  },
+  {
+    "file": "SourceSerif4-Regular.ttf",
+    "family": "Source Serif 4",
+    "style": "Regular",
+    "version": "Version 4.005;hotconv 1.1.0;makeotfexe 2.6.0",
+    "sha256": "e5a4ee6a3d87bb9024796be390c6771e2a0eb1883dae25effaf57ca01668e24b",
+    "source": "https://raw.githubusercontent.com/adobe-fonts/source-serif/release/TTF/SourceSerif4-Regular.ttf",
+    "license": "SIL Open Font License 1.1"
+  },
+  {
+    "file": "NotoSerifTamil-Bold.ttf",
+    "family": "Noto Serif Tamil",
+    "style": "Bold",
+    "version": "Version 2.001; ttfautohint (v1.8) -l 8 -r 50 -G 200 -x 14 -D taml -f none -a qsq -X \"\"",
+    "sha256": "85f214d326e175a2bb6df01d2761c317c7ada0bc4ceebd85f3e93bd31ed6c7b1",
+    "source": "https://raw.githubusercontent.com/notofonts/noto-fonts/main/hinted/ttf/NotoSerifTamil/NotoSerifTamil-Bold.ttf",
+    "license": "SIL Open Font License 1.1"
+  },
+  {
+    "file": "NotoSerifTamil-Regular.ttf",
+    "family": "Noto Serif Tamil",
+    "style": "Regular",
+    "version": "Version 2.001; ttfautohint (v1.8) -l 8 -r 50 -G 200 -x 14 -D taml -f none -a qsq -X \"\"",
+    "sha256": "ceca1de97e8b2b65c1a7b7b0a62c6015d20c1544ecbfb4b1dd044bf6f56e0cb8",
+    "source": "https://raw.githubusercontent.com/notofonts/noto-fonts/main/hinted/ttf/NotoSerifTamil/NotoSerifTamil-Regular.ttf",
+    "license": "SIL Open Font License 1.1"
+  }
+]

@@ -1,0 +1,64 @@
+@font-face { font-family: 'Noto Serif Tamil'; src: url('../docs/assets/fonts/book/NotoSerifTamil-Regular.ttf'); font-weight: 400; }
+@font-face { font-family: 'Noto Serif Tamil'; src: url('../docs/assets/fonts/book/NotoSerifTamil-Bold.ttf'); font-weight: 700; }
+@font-face { font-family: 'Source Serif 4'; src: url('../docs/assets/fonts/book/SourceSerif4-Regular.ttf'); font-weight: 400; }
+@font-face { font-family: 'Source Serif 4'; src: url('../docs/assets/fonts/book/SourceSerif4-Bold.ttf'); font-weight: 700; }
+@font-face { font-family: 'Source Serif 4'; src: url('../docs/assets/fonts/book/SourceSerif4-Italic.ttf'); font-weight: 400; font-style: italic; }
+@font-face { font-family: 'Source Serif 4'; src: url('../docs/assets/fonts/book/SourceSerif4-BoldItalic.ttf'); font-weight: 700; font-style: italic; }
+@font-face { font-family: 'Noto Serif Malayalam'; src: url('../docs/assets/fonts/book/NotoSerifMalayalam-Regular.ttf'); font-weight: 400; }
+@font-face { font-family: 'Noto Serif Malayalam'; src: url('../docs/assets/fonts/book/NotoSerifMalayalam-Bold.ttf'); font-weight: 700; }
+@page {
+  size: A4;
+  margin: 21mm 20mm 21mm;
+  @top-left { content: string(chapter); font: 8pt 'Source Serif 4', 'Noto Serif Malayalam', 'Noto Serif Tamil', serif; color: #666; vertical-align: bottom; padding-bottom: 3mm; }
+  @bottom-right { content: counter(page); font: 9pt 'Source Serif 4', serif; color: #555; }
+}
+@page :first { @top-left { content: none; } @bottom-right { content: none; } }
+body { margin: 0; padding: 0; max-width: none; font-family: 'Source Serif 4', 'Noto Serif Malayalam', 'Noto Serif Tamil', serif; font-size: 11pt; line-height: 1.5; color: #222; }
+h1, h2, h3, h4 { line-height: 1.3; break-after: avoid; }
+h1 { font-size: 22pt; font-weight: 400; margin: 0 0 5mm; break-before: page; bookmark-level: 1; string-set: chapter content(text); }
+h2 { font-size: 14pt; font-weight: 400; margin: 4mm 0 2mm; bookmark-level: 2; }
+h3 { font-size: 11.5pt; font-weight: 700; margin: 3mm 0 1.5mm; bookmark-level: 3; }
+h4 { font-size: 11pt; margin: 2.5mm 0 1mm; }
+p { margin: 0 0 1.8mm; }
+p, li { orphans: 3; widows: 3; }
+a { color: inherit; text-decoration: none; overflow-wrap: anywhere; }
+img { max-width: 100%; max-height: 220mm; object-fit: contain; }
+table { display: table; border-collapse: collapse; width: 100% !important; font-size: 10pt; line-height: 1.45; margin: 2mm 0 3mm; }
+th, td { padding: .8mm 1.5mm; border: 0; vertical-align: top; overflow-wrap: anywhere; }
+th { font-weight: 700; text-align: left; padding-top: 1mm; padding-bottom: 1mm; }
+thead { display: table-header-group; }
+tr { break-inside: avoid; }
+ul, ol { padding-left: 6mm; margin-top: 1mm; }
+li { margin-bottom: .5mm; }
+pre { white-space: pre-wrap; overflow-wrap: anywhere; font-size: 8.5pt; }
+code { font-family: monospace; font-size: .8em; overflow-wrap: anywhere; }
+blockquote { margin: 2mm 0 2mm 3mm; padding-left: 3mm; border-left: .5pt solid #aaa; font-size: 10.5pt; color: #444; }
+svg.writing-symbol, svg.writing-table { display: block; color: #222; max-width: 100%; height: auto; margin: 2mm auto; break-inside: avoid; }
+svg.writing-symbol { width: 60mm; }
+svg.writing-table { width: 100%; }
+.titlepage { break-after: page; padding-top: 43mm; }
+.titlepage .kicker { font-size: 12pt; letter-spacing: .08em; }
+.titlepage h1 { font-size: 56pt; margin: 9mm 0 4mm; break-before: auto; bookmark-level: none; string-set: none; }
+.titlepage .subtitle { font-size: 19pt; line-height: 1.4; max-width: 110mm; }
+.titlepage .author { font-size: 15pt; margin-top: 14mm; }
+.titlepage .edition { border-top: .6pt solid #777; margin-top: 35mm; padding-top: 5mm; font-size: 10pt; color: #555; }
+#title-block-header { display: none; }
+#TOC { break-after: page; }
+#TOC > ul { padding: 0; list-style: none; columns: 2; column-gap: 8mm; }
+#TOC li { font-size: 8.5pt; line-height: 1.35; margin-bottom: 1mm; break-inside: avoid; }
+#TOC a { color: inherit; }
+#TOC a::after { content: leader('.') target-counter(attr(href), page); }
+
+#TOC .contents-title { break-before: auto; string-set: none; font-size: 20pt; margin: 0 0 5mm; }
+
+/* Dictionary-style vocabulary: read down the left column, then the right. */
+.vocabulary-list { columns: 2; column-gap: 7mm; column-fill: balance; margin: 1mm 0 2mm; }
+.vocabulary-entry { break-inside: avoid; margin: 0; padding: .3mm 0; font-size: 9.5pt; line-height: 1.4; }
+.vocabulary-entry p { display: table; table-layout: fixed; width: 100%; margin: 0; orphans: 1; widows: 1; }
+.vocabulary-term { display: table-cell; width: 42%; padding-right: 1.5mm; font-weight: 700; overflow-wrap: anywhere; }
+.vocabulary-definition { display: table-cell; overflow-wrap: anywhere; }
+
+/* Longer citation forms get a full line instead of colliding with their gloss. */
+.vocabulary-entry-long p { display: block; }
+.vocabulary-entry-long .vocabulary-term { display: block; width: auto; padding-right: 0; }
+.vocabulary-entry-long .vocabulary-definition { display: block; margin-left: 42%; padding-left: 1.5mm; }

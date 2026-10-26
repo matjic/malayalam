@@ -174,13 +174,18 @@
 
 ഞാൻ തിരുവനന്തപുരത്ത് പോകാം.
 
-|  |  |
-|---|---|
-| കൊല്ലം | കോട്ടയം |
-| ആലപ്പുഴ | എറണാകുളം |
-| തൃശ്ശൂർ | പാലക്കാട് |
-| കോഴിക്കോട് | മലപ്പുറം |
-| കണ്ണൂർ | കൊച്ചി |
+| Place |
+|---|
+| കൊല്ലം |
+| ആലപ്പുഴ |
+| തൃശ്ശൂർ |
+| കോഴിക്കോട് |
+| കണ്ണൂർ |
+| കോട്ടയം |
+| എറണാകുളം |
+| പാലക്കാട് |
+| മലപ്പുറം |
+| കൊച്ചി |
 
 **2. A.** Using the [map of Kerala](lesson9.md#map-and-photographs) at the beginning of this lesson as a reference, state the location of the second district, or city, in the pair in relation to the first member of the placename pair as in the model:
 
@@ -275,7 +280,7 @@
 
 Write the following phrases as single units, joining the words together.
 
-|  |  |
+| First word | Second word |
 |---|---|
 | പാലക്കാട്ട് | ആകുന്നു. |
 | കൊച്ചിയിൽ | ആകുന്നു. |

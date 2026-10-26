@@ -181,13 +181,18 @@
 
 **Model:** അദ്ദേഹം, അദ്ദേഹത്തിന്റെ കൂടെ
 
-| | |
-|---|---|
-| തോമസ് സാർ | പുസ്തകം |
-| അവൾ | ഇറച്ചി |
-| ചേട്ടൻ | നിന്റെ മകൻ |
-| മണി | ആ കുട്ടി |
-| അവൻ | നീ |
+| Word for phrase |
+|---|
+| തോമസ് സാർ |
+| അവൾ |
+| ചേട്ടൻ |
+| മണി |
+| അവൻ |
+| പുസ്തകം |
+| ഇറച്ചി |
+| നിന്റെ മകൻ |
+| ആ കുട്ടി |
+| നീ |
 
 **2.** Change the following sentences to negative as in the model.
 
@@ -211,10 +216,7 @@
 1. അത് പറ്റില്ല.
 2. എപ്പോൾ വരും?
 3. നിങ്ങൾക്ക് കാറുണ്ടോ?
-
-<!-- Source: PDF page 230; printed page 176. -->
-
-4. ഞാൻ തരാം.
+4. ഞാൻ തരാം. <!-- Source: PDF page 230; printed page 176. -->
 5. അച്ഛനോട് പറയാം.
 6. ഇത് നിന്റേതല്ല.
 7. അവർ എവിടെ താമസിക്കും?
@@ -247,10 +249,7 @@
 6. You ought to know how to write Malayalam.
 7. Can you teach us to make curry?
 8. I want to call my husband.
-
-<!-- Source: PDF page 231; printed page 177. -->
-
-9. He said I should not do (any) work today.
+9. He said I should not do (any) work today. <!-- Source: PDF page 231; printed page 177. -->
 10. Are you able to walk as far as the hospital?
 
 **6.** Prepare written Malayalam responses at home to the following.
@@ -425,9 +424,7 @@ Note that the permissive has no specific negative, however the negative desidera
 
 **Appropriate Response:** Command form is often used to respond to a “may I” question. It is a compound verb usually with കൊള്ളു “go ahead and... (since you want to)” attached. (See [23.4](lesson23.md#section-23-4)) Note that colloquially കൊള്ളു often reduces to ഓ.
 
-<!-- Source: PDF page 238; printed page 184. -->
-
-9. Speaker One: ഈ സാരി ഉടുക്കട്ടെ? — “Shall I put on this sari?”
+9. Speaker One: ഈ സാരി ഉടുക്കട്ടെ? — “Shall I put on this sari?” <!-- Source: PDF page 238; printed page 184. -->
 
    Speaker Two: ഉടുത്തോളു / ഉടുത്തോ — “Go ahead and put it on.”
 

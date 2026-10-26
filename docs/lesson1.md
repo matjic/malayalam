@@ -72,7 +72,7 @@
 
 Note how **ആണ്** joins to the following items.
 
-|  |  |
+| Word | With ആണ് |
 |---|---|
 | നിങ്ങൾ | നിങ്ങളാണ് |
 | അവൾ | അവളാണ് |
@@ -171,10 +171,7 @@ Note how **ആണ്** joins to the following items.
    2. She is Mani.
    3. What is this?
    4. I am Bill.
-
-   <!-- Source: PDF page 51; printed page 5. -->
-
-   5. He is Rajan.
+   5. He is Rajan. <!-- Source: PDF page 51; printed page 5. -->
    6. Who is Raman?
    7. This is a chair.
 
@@ -186,15 +183,22 @@ Note how **ആണ്** joins to the following items.
 
 6. Combine the following words with ആണോ for writing practice.
 
-   | | |
-   |---|---|
-   | ഞാൻ | ഞങ്ങൾ |
-   | അവർ | അദ്ദേഹം |
-   | എന്ത് | രാജൻ |
-   | ഇത് | മേശ |
-   | കസേര | മണി |
-   | എന്ന് | പുസ്തകം |
-   | ആര് | അവൾ |
+   | Word to combine |
+   |---|
+   | ഞാൻ |
+   | അവർ |
+   | എന്ത് |
+   | ഇത് |
+   | കസേര |
+   | എന്ന് |
+   | ആര് |
+   | ഞങ്ങൾ |
+   | അദ്ദേഹം |
+   | രാജൻ |
+   | മേശ |
+   | മണി |
+   | പുസ്തകം |
+   | അവൾ |
 
 7. Pronunciation Practice:
 

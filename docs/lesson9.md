@@ -248,10 +248,7 @@ Note the written versus colloquial forms of these future negative verbforms.
 
    B. “ചെറിയത് നന്നായിരിക്കുന്നു. അത് എടുക്കാം.”
 3. സിനിമയ്ക്ക് സമയമായി. നമുക്ക് വേഗം നടക്കാം.
-
-<!-- Source: PDF page 182; printed page 132. -->
-
-4. ഈ ബ്ലൗസ് ചേരില്ലെങ്കിൽ, ഞാൻ അത് തരാം.
+4. ഈ ബ്ലൗസ് ചേരില്ലെങ്കിൽ, ഞാൻ അത് തരാം. <!-- Source: PDF page 182; printed page 132. -->
 5. A. “ചേട്ടൻ ഇന്ന് എപ്പോൾ വരും?”
 
    B. “ആറുമണിക്ക് വരും.”
@@ -302,36 +299,54 @@ Note the written versus colloquial forms of these future negative verbforms.
 
 **7. A.** Write the plural of the following words using ‘-കൾ’.
 
-|  |  |
-|---|---|
-| കൂട്ടുകാരി | ജോലി |
-| സാരി | പള്ളി |
-| കട | ചന്ത |
-| മുറി | വീട് |
-| ബുക്ക് | മേശ |
-| കസേര | പേന |
-| കുട്ടി | മാങ്ങ |
-| തുണി | പ്ലേറ്റ് |
-| കുട | ക്ലാസ് |
-| ബസ് | പേര് |
+| Singular noun |
+|---|
+| കൂട്ടുകാരി |
+| സാരി |
+| കട |
+| മുറി |
+| ബുക്ക് |
+| കസേര |
+| കുട്ടി |
+| തുണി |
+| കുട |
+| ബസ് |
+| ജോലി |
+| പള്ളി |
+| ചന്ത |
+| വീട് |
+| മേശ |
+| പേന |
+| മാങ്ങ |
+| പ്ലേറ്റ് |
+| ക്ലാസ് |
+| പേര് |
 
 **B.** Write the plural of the following words using ‘-ങ്ങൾ’. Note that the final ‘-ം’ is removed from the word in forming the plural.
 
-|  |  |
-|---|---|
-| പുസ്തകം | ഇഷ്ടം |
-| പഴം | കുടുംബം |
-| പടം | അകം |
-| അമ്പലം | അർത്ഥം |
+| Singular noun |
+|---|
+| പുസ്തകം |
+| പഴം |
+| പടം |
+| അമ്പലം |
+| ഇഷ്ടം |
+| കുടുംബം |
+| അകം |
+| അർത്ഥം |
 
 **C.** Write the plural of the following words using ‘-മാർ’.
 
-|  |  |
-|---|---|
-| പയ്യൻ | അമ്മ |
-| അച്ഛൻ | അനിയൻ |
-| അനിയത്തി | ചേട്ടൻ |
-| ചേട്ടത്തി | ഡാക്ടർ |
+| Singular noun |
+|---|
+| പയ്യൻ |
+| അച്ഛൻ |
+| അനിയത്തി |
+| ചേട്ടത്തി |
+| അമ്മ |
+| അനിയൻ |
+| ചേട്ടൻ |
+| ഡാക്ടർ |
 
 <!-- Source: PDF page 184; printed page 134. -->
 
@@ -563,7 +578,7 @@ Map labels:
 
 <!-- Source: PDF page 192; unnumbered photograph page. -->
 
-![Photographs and Malayalam captions, PDF page 192](assets/images/lesson9-photos-142.jpg)
+![Photographs and Malayalam captions](assets/images/lesson9-photos-142.jpg)
 
 Captions:
 
@@ -573,7 +588,7 @@ Captions:
 
 <!-- Source: PDF page 193; unnumbered photograph page. -->
 
-![Photographs and Malayalam captions, PDF page 193](assets/images/lesson9-photos-143.jpg)
+![Photographs and Malayalam captions](assets/images/lesson9-photos-143.jpg)
 
 Captions:
 

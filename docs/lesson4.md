@@ -79,7 +79,7 @@
 
 Note how **അല്ല** joins to the following words.
 
-|  |  |
+| Word | With അല്ല |
 |---|---|
 | ഇഷ്ടം | ഇഷ്ടമല്ല |
 | ചമ്മന്തി | ചമ്മന്തിയല്ല |
@@ -169,12 +169,16 @@ Note how **അല്ല** joins to the following words.
 
 **Model:** നിങ്ങൾക്ക് ചായ വേണോ?
 
-|  |  |
-|---|---|
-| അയാൾ | അവൾ |
-| അവൻ | രാജൻ |
-| അവർ | മണി |
-| അദ്ദേഹം | ചേട്ടൻ |
+| Person |
+|---|
+| അയാൾ |
+| അവൻ |
+| അവർ |
+| അദ്ദേഹം |
+| അവൾ |
+| രാജൻ |
+| മണി |
+| ചേട്ടൻ |
 
 **B.** Give responses to the question when put by the teacher or by classmates.
 
@@ -193,13 +197,17 @@ Note how **അല്ല** joins to the following words.
 
 **Model:** നിങ്ങൾക്ക് പഴം ഇഷ്ടമാണോ?
 
-|  |  |
-|---|---|
-| മാങ്ങ | കാപ്പി |
-| ചായ | ദോശ |
-| ചമ്മന്തി | ഈ വീട് |
-| കൊച്ചി | ഈ ജോലി |
-| ഈ ആഫീസ് |  |
+| Item |
+|---|
+| മാങ്ങ |
+| ചായ |
+| ചമ്മന്തി |
+| കൊച്ചി |
+| ഈ ആഫീസ് |
+| കാപ്പി |
+| ദോശ |
+| ഈ വീട് |
+| ഈ ജോലി |
 
 **3.** Read the following sentences for reading practice, then practice orally by repeating after the teacher.
 
@@ -266,12 +274,16 @@ Note how **അല്ല** joins to the following words.
 
 **7. A.** Join അല്ല to the following words.
 
-| | |
-|---|---|
-| അങ്ങനെ | ഇഷ്ടം |
-| ദോശ | കാപ്പി |
-| ചായ | പഴം |
-| ശരി | പത്ത് രൂപ |
+| Word to combine |
+|---|
+| അങ്ങനെ |
+| ദോശ |
+| ചായ |
+| ശരി |
+| ഇഷ്ടം |
+| കാപ്പി |
+| പഴം |
+| പത്ത് രൂപ |
 
 **B.** Similarly, join ആകട്ടെ to the above words.
 
@@ -352,9 +364,7 @@ Look at the first two columns of consonants in the Malayalam alphabet. In the fi
 
 It was pointed out in [3.5](lesson3.md#section-3-5) that physical and emotional feelings are usually expressed by indirect sentences where the experiencer of the feeling must be rendered by a noun or pronoun in the dative form. The dative forms of the personal pronouns appear in the reference list for this lesson. The common way of expressing wants or needs is with the indirect verb വേണം “to want or need”. Witness:
 
-<!-- Source: PDF page 98; printed page 48. -->
-
-1. എനിക്ക് ഒരു പേന വേണം. “I want/need a pen”.
+1. എനിക്ക് ഒരു പേന വേണം. “I want/need a pen”. <!-- Source: PDF page 98; printed page 48. -->
 
 One irregularity of this verb is that when the question marker -ോ is added, the final -ം drops:
 
@@ -434,9 +444,7 @@ Examples:
 
 ഷിക്കാഗോയ്ക്ക് — “to or for Chicago”
 
-<!-- Source: PDF page 101; printed page 51. -->
-
-2. After human nouns ending in ൾ.
+2. After human nouns ending in ൾ. <!-- Source: PDF page 101; printed page 51. -->
 
 Examples:
 

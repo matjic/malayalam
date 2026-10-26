@@ -410,7 +410,7 @@ Jump to a letter:
 | കാണും | [14](lesson14.md#lesson14-vocabulary) | one will find (see) |
 | കാപ്പി | [4](lesson4.md#lesson4-vocabulary) | coffee |
 
-> **Source editor query:** “problem with this usage: David EJ” (PDF page 516). The source does not identify precisely which usage is in question.
+> **Source editor query:** “problem with this usage: David EJ”. The source does not identify precisely which usage is in question.
 
 <!-- Source: PDF page 517; printed page 454. -->
 
@@ -844,7 +844,7 @@ Jump to a letter:
 | പ്രാദേശിക | [14](lesson14.md#lesson14-vocabulary) | regional |
 | പ്രാദേശിക വാർത്തകൾ | [14](lesson14.md#lesson14-vocabulary) | regional news |
 
-> **Source editor query:** The source questions the translation of പോയിരിക്കുകയായിരിന്നു (PDF page 531). Its intended form and gloss need review; the entry above is not a reliable model.
+> **Source editor query:** The source questions the translation of പോയിരിക്കുകയായിരിന്നു. Its intended form and gloss need review; the entry above is not a reliable model.
 
 <!-- Source: PDF page 532; printed page 469. -->
 
