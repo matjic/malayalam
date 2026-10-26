@@ -3,7 +3,9 @@
 A source-traceable digital edition of Rodney F. Moag’s *Malayalam: A University
 Course and Reference Grammar*. The project combines a Markdown textbook, reviewed
 companion audio, editable writing diagrams, and a shared vocabulary catalog to
-produce a website, an EPUB, a PDF, and Anki flashcards.
+produce a website, an EPUB, a PDF, and Anki flashcards. The original textbook is
+by Rodney F. Moag; this independent digital adaptation and its modifications are
+by Mathew Jacob. This edition was not published by Moag.
 
 [Website](https://ml.matj.io/) · [Vocabulary glossary](https://ml.matj.io/#/vocabulary-glossary) · [Anki deck](https://ml.matj.io/assets/decks/malayalam-moag.apkg) · [EPUB](https://ml.matj.io/malayalam.epub) · [PDF](https://ml.matj.io/malayalam.pdf)
 

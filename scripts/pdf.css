@@ -41,10 +41,11 @@ svg.writing-table { width: 100%; }
 .titlepage h1 { font-size: 56pt; margin: 9mm 0 4mm; break-before: auto; bookmark-level: none; string-set: none; }
 .titlepage .subtitle { font-size: 19pt; line-height: 1.4; max-width: 110mm; }
 .titlepage .author { font-size: 15pt; margin-top: 14mm; }
+.titlepage .adaptation { font-size: 12pt; margin-top: 6mm; }
 .titlepage .edition { border-top: .6pt solid #777; margin-top: 35mm; padding-top: 5mm; font-size: 10pt; color: #555; }
 #title-block-header { display: none; }
 #TOC { break-after: page; }
-#TOC > ul { padding: 0; list-style: none; columns: 2; column-gap: 8mm; }
+#TOC > ul { padding: 0; list-style: none; }
 #TOC li { font-size: 8.5pt; line-height: 1.35; margin-bottom: 1mm; break-inside: avoid; }
 #TOC a { color: inherit; }
 #TOC a::after { content: leader('.') target-counter(attr(href), page); }

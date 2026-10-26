@@ -7,6 +7,11 @@ from audio_tables import TABLE, cells
 from reading_order import DOCS, reading_documents
 
 ROOT = DOCS.parent
+EDITION_CREDIT = (
+    'Original textbook by Rodney F. Moag. Digital adaptation and modifications by Mathew Jacob. '
+    'This independently prepared digital edition includes corrections, redrawn writing models, '
+    'audio integration, and added practice material; it was not published by Rodney F. Moag.'
+)
 AUDIO_BASE = 'https://raw.githubusercontent.com/matjic/malayalam/main/docs/'
 BOOK_FONTS = sorted((DOCS / 'assets/fonts/book').glob('*.ttf'))
 assert len(BOOK_FONTS) == 8, 'Expected four Latin, two Malayalam and two Tamil book font faces'

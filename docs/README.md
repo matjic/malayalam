@@ -1,6 +1,6 @@
 # Malayalam: A University Course
 
-Learn Malayalam with Rodney F. Moag’s *Malayalam: A University Course and Reference Grammar*. This digital edition brings together the textbook, companion recordings, writing models, and vocabulary tools for studying online or offline.
+Learn Malayalam with Rodney F. Moag’s *Malayalam: A University Course and Reference Grammar*. Adapted and modified for digital study by Mathew Jacob, this edition brings together the textbook, companion recordings, writing models, and vocabulary tools for studying online or offline.
 
 ## Start learning
 
@@ -37,6 +37,8 @@ The digital edition PDF and EPUB contain the written material and images; use th
 <!-- /epub-download -->
 
 ## About this edition
+
+The original textbook is by **Rodney F. Moag**. **Mathew Jacob** prepared this independent digital adaptation, including corrections, redrawn writing models, audio integration, and added practice material. This digital edition was not published by Moag.
 
 This edition transcribes all 557 pages of the fourth-edition source PDF: 25 lessons, seven minilessons, six appendices, the glossary, index, and opening material. Writing diagrams have been redrawn as scalable symbols, and original photographs are retained. Practice Lessons A–C are additions with their own source credits.
 

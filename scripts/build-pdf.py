@@ -5,7 +5,7 @@ import logging
 from pathlib import Path
 import subprocess
 import tempfile
-from book_export import ROOT, DOCS, book_markdown, book_paths
+from book_export import EDITION_CREDIT, ROOT, DOCS, book_markdown, book_paths
 
 
 def main():
@@ -17,7 +17,7 @@ def main():
     from weasyprint.text.fonts import FontConfiguration
 
     print('Preparing shared book content…', flush=True)
-    content = '# About this PDF {#pdf-notes}\n\n' + (
+    content = '# About this PDF {#pdf-notes}\n\n' + EDITION_CREDIT + '\n\n' + (
         'This digital edition includes the textbook and added practice lessons. '
         'Use the linked contents and PDF bookmarks to navigate. '
         'Audio playback is available separately on the website and in the Anki decks.\n\n') + book_markdown()
@@ -30,9 +30,9 @@ def main():
         subprocess.run(['pandoc', str(source), '--from=markdown-auto_identifiers', '--to=html5', '--standalone',
                         '--template=' + str(ROOT / 'scripts/pdf.html'),
                         '--toc', '--toc-depth=1', '--metadata=title:Malayalam: A University Course and Reference Grammar',
-                        '--metadata=author:Rodney F. Moag', '--metadata=lang:en', '-o', str(html_path)], check=True)
+                        '--metadata=author:Rodney F. Moag (original textbook)', '--metadata=lang:en', '-o', str(html_path)], check=True)
         document = html_path.read_text()
-        document = document.replace('<body>', '<body><div class="titlepage"><p class="kicker">A UNIVERSITY COURSE</p><h1>Malayalam</h1><p class="subtitle">A University Course and Reference Grammar</p><p class="author">Rodney F. Moag</p><p class="edition">Fourth edition · Digital edition<br>Text, examples, and writing models</p></div>', 1)
+        document = document.replace('<body>', '<body><div class="titlepage"><p class="kicker">A UNIVERSITY COURSE</p><h1>Malayalam</h1><p class="subtitle">A University Course and Reference Grammar</p><p class="author">Original textbook by Rodney F. Moag</p><p class="adaptation">Digital adaptation and modifications<br>by Mathew Jacob</p><p class="edition">Independent adaptation of the fourth edition<br>Not published by Rodney F. Moag</p></div>', 1)
         errors = []
         class RenderErrors(logging.Handler):
             def emit(self, record):
