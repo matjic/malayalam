@@ -16,6 +16,10 @@ PACKAGE_NAME = 'malayalam-moag.apkg'
 # Field order, template order, model/deck keys and GUID inputs must remain stable.
 
 
+def study_entries(entries):
+    return [entry for entry in entries if entry.get('study', True)]
+
+
 def english_for_card(entry, overrides):
     meaning = overrides.get(entry['id'], {}).get('meaning', entry['english'])
     if any('\u0d00' <= char <= '\u0d7f' for char in meaning):
@@ -76,10 +80,13 @@ def source_for_card(entry, source_url, overrides):
     if any('\u0d00' <= char <= '\u0d7f' for char in entry['english']):
         detail = '<div class="lesson-note">Lesson note: ' + html.escape(entry['english']) + '</div>'
     study = overrides.get(entry['id'], {})
-    if study.get('alternatives'):
+    alternatives = list(dict.fromkeys(study.get('alternatives', []) + entry.get('variants', [])))
+    if alternatives:
         detail += ('<div class="alternatives"><div>Also accept:</div><ul>'
                    + ''.join('<li lang="ml">' + html.escape(word) + '</li>'
-                             for word in study['alternatives']) + '</ul></div>')
+                             for word in alternatives) + '</ul></div>')
+    for note in entry.get('notes', []):
+        detail += '<div class="lesson-note">Source note: ' + html.escape(note) + '</div>'
     if study.get('explanation'):
         detail += '<div class="usage-note">' + html.escape(study['explanation']) + '</div>'
     return detail + f'<a href="{html.escape(source_url, quote=True)}">Open lesson</a>'
@@ -110,6 +117,8 @@ def load_inputs(root):
         ids.add(entry['id'])
         if entry['chapter'] not in chapters:
             raise ValueError(f"Unknown chapter for {entry['id']}: {entry['chapter']}")
+        if 'study' in entry and not isinstance(entry['study'], bool):
+            raise ValueError(f"Invalid study selection: {entry['id']}")
         study = overrides.get(entry['id'], {})
         if not isinstance(study, dict) or set(study) - {'meaning', 'recall', 'explanation', 'alternatives'}:
             raise ValueError(f"Invalid study metadata: {entry['id']}")
@@ -135,7 +144,7 @@ def audit_recall(entries, study):
     require editorial review; a passing check is not a linguistic certification.
     """
     groups = defaultdict(list)
-    for entry in entries:
+    for entry in study_entries(entries):
         prompt = recall_for_card(entry, study)
         normalized = re.sub(r'[^\w]+', ' ', prompt.casefold()).strip()
         if not normalized or re.fullmatch(r'(?:n|adj|adv|v|noun|verb)', normalized):
@@ -149,7 +158,8 @@ def audit_recall(entries, study):
         if len(words) < 2:
             continue
         for entry in group:
-            accepted = set(study.get(entry['id'], {}).get('alternatives', [])) | {entry['malayalam']}
+            accepted = (set(study.get(entry['id'], {}).get('alternatives', []))
+                        | set(entry.get('variants', [])) | {entry['malayalam']})
             if not words <= accepted:
                 raise ValueError(f"Ambiguous recall prompt: {prompt}: {entry['id']}")
         collisions.append(dict(prompt=prompt, entries=[e['id'] for e in group]))
@@ -218,10 +228,13 @@ def create_decks(data, overrides, chapters):
                              description=html.escape(chapter['title']))
         for number, chapter in chapters.items()
     }
-    for position, entry in enumerate(data['entries'], 1):
+    for position, entry in enumerate(study_entries(data['entries']), 1):
         chapter = chapters[entry['chapter']]
         sounds = audio_for_card(entry)
-        source_url = 'https://matjic.github.io/malayalam/#/lesson' + str(entry['chapter'])
+        page = Path(entry.get('source', f'lesson{entry["chapter"]}.md')).stem
+        source_url = 'https://matjic.github.io/malayalam/#/' + page
+        if entry.get('source_anchor'):
+            source_url += '?id=' + entry['source_anchor']
         note = genanki.Note(
             model=model, guid=genanki.guid_for(entry['id']), due=position,
             fields=[entry['id'], html.escape(entry['malayalam']), english_field_for_card(entry, overrides),
@@ -253,17 +266,19 @@ def build(output, *, root=ROOT, site_package=None):
     """Build artifacts in output; publishing the site copy is an explicit option."""
     output, root = Path(output), Path(root)
     data, overrides, chapters = load_inputs(root)
-    media = collect_media(data['entries'], root)
+    selected = study_entries(data['entries'])
+    media = collect_media(selected, root)
     fonts = sorted((root / 'docs/assets/fonts').glob('*RuDNG1bFn6E.woff2'))
     if len(fonts) != 1:
         raise ValueError(f'Expected one Malayalam deck font, found {len(fonts)}')
     decks = create_decks(data, overrides, chapters)
     destination = output / PACKAGE_NAME
     write_package(destination, decks, media, fonts[0])
-    with_audio = sum(bool(entry['audio']) for entry in data['entries'])
-    summary = dict(notes=len(data['entries']), cards=2 * len(data['entries']), chapters=len(chapters),
+    with_audio = sum(bool(entry['audio']) for entry in selected)
+    summary = dict(notes=len(selected), cards=2 * len(selected), chapters=len(chapters),
                    notes_with_audio=with_audio, audio_files=len(media),
-                   notes_without_audio=len(data['entries']) - with_audio)
+                   notes_without_audio=len(selected) - with_audio,
+                   reference_only_entries=len(data['entries']) - len(selected))
     shutil.copyfile(root / 'data/vocabulary/README.md', output / 'README.md')
     (output / 'summary.json').write_text(json.dumps(summary, indent=2) + '\n', encoding='utf-8')
     if site_package is not None and destination.resolve() != Path(site_package).resolve():

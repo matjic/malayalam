@@ -54,7 +54,8 @@
 </div>
 <!-- /moag-vocabulary-words -->
 
-| Malayalam | Meaning | Audio |
+<!-- vocabulary-table: {"kind":"vocabulary","category":"vocabulary","cards":true} -->
+| Malayalam | English | Audio |
 |---|---|---|
 | ഭർത്താവ് | husband | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_12_word_001.mp3" data-audio-label="ഭർത്താവ്" aria-label="Play ഭർത്താവ്" title="Play ഭർത്താവ്" aria-pressed="false">▶</button> |
 | മകൾ | daughter | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_12_word_003.mp3" data-audio-label="മകൾ" aria-label="Play മകൾ" title="Play മകൾ" aria-pressed="false">▶</button> |

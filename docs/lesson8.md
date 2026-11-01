@@ -6,12 +6,14 @@
 <a id="lesson8-reference-list"></a><!-- reading-anchor -->
 ## Reference List
 
-<a id="lesson8-all-forms-of-the-personal-pronouns"></a><!-- reading-anchor -->
-### All Forms of the Personal Pronouns
+<a id="lesson8-all-forms-of-the-personal-pronouns"></a>
+<a id="lesson8-personal-pronoun-case-forms"></a><!-- reading-anchor -->
+### Personal Pronoun Case Forms
 
 <a id="lesson8-i-singular"></a><!-- reading-anchor -->
 #### I. Singular
 
+<!-- vocabulary-table: {"kind":"paradigm","category":"personal_pronoun","cards":false,"group":"singular"} -->
 | Case | First Person | Second Person | Third Person* |
 |---|---|---|---|
 | Nominative | ഞാൻ | നീ, താൻ | അയാൾ |
@@ -25,11 +27,12 @@
 <a id="lesson8-ii-plural"></a><!-- reading-anchor -->
 #### II. Plural
 
+<!-- vocabulary-table: {"kind":"paradigm","category":"personal_pronoun","cards":false,"group":"plural"} -->
 | Case | 1st Person Inclusive | 1st Person Exclusive | 2nd Person | 3rd Person |
 |---|---|---|---|---|
 | Nominative | നമ്മൾ | ഞങ്ങൾ | നിങ്ങൾ | അവർ |
-| Possessive | നമ്മളുടെ | ഞങ്ങളുടെ | നിങ്ങളുടെ | അവരുടെ |
-| Dative | നമ്മൾക്ക് | ഞങ്ങൾക്ക് | നിങ്ങൾക്ക് | അവർക്ക് |
+| Possessive | നമ്മുടെ, നമ്മളുടെ | ഞങ്ങളുടെ | നിങ്ങളുടെ | അവരുടെ |
+| Dative | നമുക്ക്, നമ്മൾക്ക് | ഞങ്ങൾക്ക് | നിങ്ങൾക്ക് | അവർക്ക് |
 | Accusative | നമ്മളെ | ഞങ്ങളെ | നിങ്ങളെ | അവരെ |
 | Addressive | നമ്മളോട് | ഞങ്ങളോട് | നിങ്ങളോട് | അവരോട് |
 | Locative | നമ്മളിൽ | ഞങ്ങളിൽ | നിങ്ങളിൽ | അവരിൽ |
@@ -38,7 +41,8 @@
 <a id="lesson8-iii-marked-third-singular-pronouns"></a><!-- reading-anchor -->
 #### III. Marked Third Singular Pronouns
 
-| Case | Inferior / Intimate Masculine | Inferior / Intimate Feminine | Respected / Distant Masculine | Respected / Distant Feminine |
+<!-- vocabulary-table: {"kind":"paradigm","category":"personal_pronoun","cards":false,"group":"marked"} -->
+| Case | Familiar, Non-honorific Masculine | Familiar, Non-honorific Feminine | Honorific Masculine | Honorific Feminine |
 |---|---|---|---|---|
 | Nominative | അവൻ | അവൾ | അദ്ദേഹം | അവർ |
 | Possessive | അവന്റെ | അവളുടെ | അദ്ദേഹത്തിന്റെ | അവരുടെ |
@@ -47,7 +51,8 @@
 
 <!-- Source: PDF page 154; printed page 104. -->
 
-| Case | Inferior / Intimate Masculine | Inferior / Intimate Feminine | Respected / Distant Masculine | Respected / Distant Feminine |
+<!-- vocabulary-table: {"kind":"paradigm","category":"personal_pronoun","cards":false,"group":"marked"} -->
+| Case | Familiar, Non-honorific Masculine | Familiar, Non-honorific Feminine | Honorific Masculine | Honorific Feminine |
 |---|---|---|---|---|
 | Dative | അവന് | അവൾക്ക് | അദ്ദേഹത്തിന് | അവർക്ക് |
 | Accusative | അവനെ | അവളെ | അദ്ദേഹത്തിനെ* | അവരെ |
@@ -78,6 +83,7 @@
 </div>
 <!-- /moag-vocabulary-words -->
 
+<!-- vocabulary-table: {"kind":"vocabulary","category":"vocabulary","cards":true} -->
 | Malayalam | English | Audio |
 |---|---|---|
 | ഏയ് | hey | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_001.mp3" data-audio-label="ഏയ്" aria-label="Play ഏയ്" title="Play ഏയ്" aria-pressed="false">▶</button> |

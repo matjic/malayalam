@@ -37,6 +37,7 @@
 </div>
 <!-- /moag-vocabulary-words -->
 
+<!-- vocabulary-table: {"kind":"vocabulary","category":"vocabulary","cards":true} -->
 | Malayalam | English | Audio |
 |---|---|---|
 | ശരി | okay, fine, good | <span class="audio-unmatched" title="No aligned recording yet">—</span> |

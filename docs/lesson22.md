@@ -12,6 +12,7 @@
 <a id="lesson22-a-one-piece-indefinite-pronouns"></a><!-- reading-anchor -->
 #### A. One-Piece Indefinite Pronouns
 
+<!-- vocabulary-table: {"kind":"vocabulary","category":"indefinite","cards":true,"aliases":"br","origin":"reference_table"} -->
 | Malayalam | English |
 | --- | --- |
 | എപ്പോഴെങ്കിലും<br>എപ്പോഴായാലും | sometime, any time at all |
@@ -32,6 +33,7 @@
 <a id="lesson22-b-two-piece-relative-pronouns"></a><!-- reading-anchor -->
 #### B. Two-Piece Relative Pronouns
 
+<!-- vocabulary-table: {"kind":"reference","category":"relative_construction","cards":false} -->
 | Malayalam | English |
 | --- | --- |
 | എപ്പോൾ ---എങ്കിലും<br>എപ്പോൾ ---ആലും | whenever --- |
@@ -66,6 +68,7 @@
 </div>
 <!-- /moag-vocabulary-words -->
 
+<!-- vocabulary-table: {"kind":"vocabulary","category":"vocabulary","cards":true} -->
 | Malayalam | English | Audio |
 | --- | --- |---|
 | മത്തായി | Malayalam form of Matthew | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_22_word_001.mp3" data-audio-label="മത്തായി" aria-label="Play മത്തായി" title="Play മത്തായി" aria-pressed="false">▶</button> |

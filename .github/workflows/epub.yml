@@ -11,6 +11,11 @@ on:
       - 'scripts/build-vocabulary-catalog.py'
       - 'scripts/audio_tables.py'
       - 'scripts/test_vocabulary_ids.py'
+      - 'scripts/vocabulary_tables.py'
+      - 'scripts/test_vocabulary_tables.py'
+      - 'scripts/build-vocabulary-glossary.py'
+      - 'scripts/test_audio_row_alignment.py'
+      - 'scripts/audio_lexicon.py'
       - 'scripts/build-anki.py'
       - 'scripts/anki_export.py'
       - 'scripts/anki.css'
@@ -30,6 +35,7 @@ on:
       - 'scripts/reading_order.py'
       - 'scripts/epub.css'
       - '.github/workflows/epub.yml'
+      - '.github/workflows/unit-tests.yml'
   pull_request:
     paths:
       - 'docs/**'
@@ -38,6 +44,11 @@ on:
       - 'scripts/build-vocabulary-catalog.py'
       - 'scripts/audio_tables.py'
       - 'scripts/test_vocabulary_ids.py'
+      - 'scripts/vocabulary_tables.py'
+      - 'scripts/test_vocabulary_tables.py'
+      - 'scripts/build-vocabulary-glossary.py'
+      - 'scripts/test_audio_row_alignment.py'
+      - 'scripts/audio_lexicon.py'
       - 'scripts/build-anki.py'
       - 'scripts/anki_export.py'
       - 'scripts/anki.css'
@@ -57,6 +68,7 @@ on:
       - 'scripts/reading_order.py'
       - 'scripts/epub.css'
       - '.github/workflows/epub.yml'
+      - '.github/workflows/unit-tests.yml'
 
 permissions:
   contents: read
@@ -66,6 +78,10 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  unit-tests:
+    name: Required unit tests
+    uses: ./.github/workflows/unit-tests.yml
+
   epub:
     name: Build and validate EPUB
     runs-on: ubuntu-24.04
@@ -134,14 +150,8 @@ jobs:
           cache-dependency-path: requirements/anki*.txt
       - name: Install Anki Python dependencies
         run: python3 -m pip install -r requirements/anki-test.txt
-      - name: Check vocabulary catalog and persistent IDs
-        run: |
-          python3 scripts/build-vocabulary-catalog.py --check
-          python3 scripts/test_vocabulary_ids.py
-      - name: Test Anki validation and import/reimport
-        run: |
-          python3 scripts/test_anki_export.py
-          python3 scripts/test_anki.py
+      - name: Test Anki import/reimport
+        run: python3 scripts/test_anki.py
       - name: Build Anki deck
         run: python3 scripts/build-anki.py --no-site-copy
       - uses: actions/upload-artifact@v4
@@ -153,7 +163,7 @@ jobs:
   publish:
     name: Assemble site
     if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
-    needs: [epub, pdf, anki]
+    needs: [unit-tests, epub, pdf, anki]
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
@@ -187,7 +197,7 @@ jobs:
 
   deploy:
     if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
-    needs: publish
+    needs: [unit-tests, publish]
     runs-on: ubuntu-24.04
     permissions:
       pages: write

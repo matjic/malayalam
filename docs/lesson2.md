@@ -14,25 +14,33 @@
 
 **Singular:**
 
+<!-- vocabulary-table: {"kind":"vocabulary","category":"personal_pronoun","cards":true,"origin":"reference_table"} -->
 | Malayalam | English |
 |---|---|
 | ഞാൻ | I |
 | നീ | you (familiar singular, non-honorific) |
-| നിങ്ങൾ | you (polite) |
-| അവൻ, ഇവൻ | he (familiar, non-honorific) |
-| അയാൾ, ഇയാൾ | he (neutral, non-honorific) |
-| അദ്ദേഹം, ഇദ്ദേഹം | he (honorific) |
-| അവൾ, ഇവൾ | she (familiar, non-honorific) |
-| അവർ, ഇവർ | she (honorific) |
+| നിങ്ങൾ | you (polite singular) |
+| അവൻ | he (familiar, non-honorific; at a distance) |
+| ഇവൻ | he (familiar, non-honorific; nearby) |
+| അയാൾ | he (neutral, non-honorific; at a distance) |
+| ഇയാൾ | he (neutral, non-honorific; nearby) |
+| അദ്ദേഹം | he (honorific; at a distance) |
+| ഇദ്ദേഹം | he (honorific; nearby) |
+| അവൾ | she (familiar, non-honorific; at a distance) |
+| ഇവൾ | she (familiar, non-honorific; nearby) |
+| അവർ | she (honorific; at a distance) |
+| ഇവർ | she (honorific; nearby) |
 
 **Plural:**
 
+<!-- vocabulary-table: {"kind":"vocabulary","category":"personal_pronoun","cards":true,"origin":"reference_table"} -->
 | Malayalam | English |
 |---|---|
-| ഞങ്ങൾ | we (exclusive) |
-| നമ്മൾ | we (inclusive) |
-| നിങ്ങൾ | you (familiar and polite) |
-| അവർ, ഇവർ | they (masculine and feminine) |
+| ഞങ്ങൾ | we (excluding the listener) |
+| നമ്മൾ | we (including the listener) |
+| നിങ്ങൾ | you (plural) |
+| അവർ | they (people at a distance) |
+| ഇവർ | they (people nearby) |
 
 **NOTE:** In the pronoun pairs found above, those beginning in **അ-** refer to person(s) situated relatively far from the speaker at the time of the utterance, while those beginning in **ഇ-** refer to person(s) relatively close to the speaker.
 
@@ -43,6 +51,7 @@
 <a id="lesson2-adverbs-of-place"></a><!-- reading-anchor -->
 #### Adverbs of Place
 
+<!-- vocabulary-table: {"kind":"vocabulary","category":"question_and_adverb","cards":true,"origin":"reference_table"} -->
 | Malayalam | English |
 |---|---|
 | ഇവിടെ | here |
@@ -55,6 +64,7 @@
 <a id="lesson2-adverbs-of-time"></a><!-- reading-anchor -->
 #### Adverbs of Time
 
+<!-- vocabulary-table: {"kind":"vocabulary","category":"question_and_adverb","cards":true,"origin":"reference_table"} -->
 | Malayalam | English |
 |---|---|
 | ഇപ്പോൾ | now |
@@ -67,6 +77,7 @@
 <a id="lesson2-adverbs-of-manner"></a><!-- reading-anchor -->
 #### Adverbs of Manner
 
+<!-- vocabulary-table: {"kind":"vocabulary","category":"question_and_adverb","cards":true,"origin":"reference_table"} -->
 | Malayalam | English |
 |---|---|
 | ഇങ്ങനെ | this way, like this |
@@ -93,6 +104,7 @@
 </div>
 <!-- /moag-vocabulary-words -->
 
+<!-- vocabulary-table: {"kind":"vocabulary","category":"vocabulary","cards":true} -->
 | Malayalam | English | Audio |
 |---|---|---|
 | സാർ | you (respectful), gentleman, sir | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_001.mp3" data-audio-label="സാർ" aria-label="Play സാർ" title="Play സാർ" aria-pressed="false">▶</button> |

@@ -6,7 +6,7 @@ from pathlib import Path
 import re
 import tempfile
 import zipfile
-from anki_export import build, format_card_text, english_for_card, recall_for_card, create_model, stable_id, english_field_for_card
+from anki_export import build, format_card_text, english_for_card, recall_for_card, create_model, stable_id, english_field_for_card, study_entries
 import genanki
 from anki.collection import Collection
 from anki.import_export_pb2 import ImportAnkiPackageRequest, ImportAnkiPackageOptions
@@ -14,7 +14,7 @@ from anki.import_export_pb2 import ImportAnkiPackageRequest, ImportAnkiPackageOp
 ROOT = Path(__file__).resolve().parents[1]
 data = json.loads((ROOT / 'data/vocabulary/moag.json').read_text())
 overrides = json.loads((ROOT / 'data/vocabulary/study.json').read_text())
-entries = {e['id']: e for e in data['entries']}
+entries = {e['id']: e for e in study_entries(data['entries'])}
 expected_audio = {'moag_' + Path(clip['path']).name for entry in entries.values() for clip in entry['audio']}
 
 
@@ -28,7 +28,7 @@ def verify(package):
     with zipfile.ZipFile(package) as archive:
         media = json.loads(archive.read('media'))
         by_name = {name: archive.read(index) for index, name in media.items()}
-        for e in data['entries']:
+        for e in entries.values():
             for a in e['audio']:
                 name = 'moag_'+Path(a['path']).name
                 assert hashlib.sha256(by_name[name]).hexdigest() == a['sha256']

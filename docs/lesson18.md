@@ -23,6 +23,7 @@
 </div>
 <!-- /moag-vocabulary-words -->
 
+<!-- vocabulary-table: {"kind":"vocabulary","category":"vocabulary","cards":true} -->
 | Malayalam | English | Audio |
 |---|---|---|
 | മദ്ധ്യം | middle, in between | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_18_word_001.mp3" data-audio-label="മദ്ധ്യം" aria-label="Play മദ്ധ്യം" title="Play മദ്ധ്യം" aria-pressed="false">▶</button> |

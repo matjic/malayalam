@@ -8,17 +8,21 @@
 <a id="lesson4-dative-of-personal-pronouns"></a><!-- reading-anchor -->
 ### Dative of Personal Pronouns
 
-| Malayalam |
-|---|
-| എനിക്ക് |
-| നിനക്ക് |
-| അവന് |
-| അയാൾക്ക് |
-| അദ്ദേഹത്തിന് |
-| അവൾക്ക് |
-| അവർക്ക് |
-| നമ്മൾക്ക് |
-| ഞങ്ങൾക്ക് |
+<!-- vocabulary-table: {"kind":"vocabulary","category":"dative_pronoun","cards":true,"aliases":"br","origin":"reference_table"} -->
+| Malayalam | English |
+|---|---|
+| എനിക്ക് | to me; for me (dative) |
+| നിനക്ക് | to you; for you (familiar singular; dative) |
+| നിങ്ങൾക്ക് | to you; for you (plural or polite singular; dative) |
+| അവന് | to him; for him (familiar; dative) |
+| അയാൾക്ക് | to him; for him (neutral; dative) |
+| അദ്ദേഹത്തിന് | to him; for him (honorific; dative) |
+| അവൾക്ക് | to her; for her (familiar; dative) |
+| അവർക്ക് | to them; for them; to her; for her (plural or honorific singular; dative) |
+| നമുക്ക്<br>നമ്മൾക്ക് | to us; for us (including the listener; dative) |
+| ഞങ്ങൾക്ക് | to us; for us (excluding the listener; dative) |
+
+> **Learner note (editorial):** The table includes plural/polite നിങ്ങൾക്ക്. The shorter നമുക്ക് occurs throughout the conversations; നമ്മൾക്ക് is the fuller form used in the source table.
 
 <a id="lesson4-vocabulary"></a><!-- reading-anchor -->
 ### Vocabulary
@@ -40,6 +44,7 @@
 </div>
 <!-- /moag-vocabulary-words -->
 
+<!-- vocabulary-table: {"kind":"vocabulary","category":"vocabulary","cards":true} -->
 | Malayalam | English | Audio |
 |---|---|---|
 | ഒരു | a, one (indefinite article) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_04_word_001.mp3" data-audio-label="ഒരു" aria-label="Play ഒരു" title="Play ഒരു" aria-pressed="false">▶</button> |

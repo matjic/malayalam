@@ -23,7 +23,8 @@
 </div>
 <!-- /moag-vocabulary-words -->
 
-| Malayalam | Meaning | Audio |
+<!-- vocabulary-table: {"kind":"vocabulary","category":"vocabulary","cards":true} -->
+| Malayalam | English | Audio |
 |---|---|---|
 | നേരത്തെ | before, previously, early | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_001.mp3" data-audio-label="നേരത്തെ" aria-label="Play നേരത്തെ" title="Play നേരത്തെ" aria-pressed="false">▶</button> |
 | അനുവാദം | permission | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_13_word_002.mp3" data-audio-label="അനുവാദം" aria-label="Play അനുവാദം" title="Play അനുവാദം" aria-pressed="false">▶</button> |

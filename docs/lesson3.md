@@ -10,6 +10,7 @@
 <a id="lesson3-demonstratives"></a><!-- reading-anchor -->
 ### Demonstratives
 
+<!-- vocabulary-table: {"kind":"vocabulary","category":"demonstrative","cards":true,"origin":"reference_table"} -->
 | Type | Malayalam | English |
 |---|---|---|
 | Pronouns | ഇത് | this, this one |
@@ -39,6 +40,7 @@
 </div>
 <!-- /moag-vocabulary-words -->
 
+<!-- vocabulary-table: {"kind":"vocabulary","category":"vocabulary","cards":true} -->
 | Malayalam | English | Audio |
 |---|---|---|
 | ഉണ്ട് | is, there is | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_03_word_001.mp3" data-audio-label="ഉണ്ട്" aria-label="Play ഉണ്ട്" title="Play ഉണ്ട്" aria-pressed="false">▶</button> |

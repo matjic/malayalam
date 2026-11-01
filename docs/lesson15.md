@@ -42,7 +42,8 @@ Note: Meanings given here apply only when the verbal nouns appear without postpo
 </div>
 <!-- /moag-vocabulary-words -->
 
-| Malayalam | Meaning | Audio |
+<!-- vocabulary-table: {"kind":"vocabulary","category":"vocabulary","cards":true} -->
+| Malayalam | English | Audio |
 |---|---|---|
 | ബസ്സ്റ്റാൻഡിലെ | at/of the bus stop | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_001.mp3" data-audio-label="ബസ്സ്റ്റാൻഡിലെ" aria-label="Play ബസ്സ്റ്റാൻഡിലെ" title="Play ബസ്സ്റ്റാൻഡിലെ" aria-pressed="false">▶</button> |
 | വറുഗീസ് | a name, Malayalam form of George | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_15_word_002.mp3" data-audio-label="വറുഗീസ്" aria-label="Play വറുഗീസ്" title="Play വറുഗീസ്" aria-pressed="false">▶</button> |

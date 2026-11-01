@@ -75,6 +75,12 @@ class InputTests(unittest.TestCase):
         self.assertIn('Also accept:', note.fields[5])
         self.assertNotIn('Also accept:', note.fields[2])
 
+    def test_glossary_only_entries_do_not_create_cards(self):
+        self.data['entries'][0]['study'] = False
+        data, study, chapters = self.load()
+        decks = create_decks(data, study, chapters)
+        self.assertFalse(any(deck.notes for deck in decks))
+
     def test_invalid_study_metadata(self):
         for metadata in ({'recall': 'വാക്ക്'}, {'recall': ''},
                          {'alternatives': 'word'}, {'alternatives': ['']},

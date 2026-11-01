@@ -12,7 +12,7 @@
         const rows = Array.from(table.querySelectorAll('tbody tr')).map(function (row) {
           const cells = row.querySelectorAll('td');
           return {row: row, text: (cells[0].textContent + ' ' + cells[1].textContent).normalize('NFC').toLowerCase(),
-            chapters: Array.from(cells[2].querySelectorAll('a')).map(a => a.textContent.trim())};
+            chapters: Array.from(cells[2].querySelectorAll('a')).map(a => a.dataset.vocabularyChapter || a.textContent.trim())};
         });
         let heading = table.previousElementSibling;
         while (heading && heading.tagName !== 'H2') heading = heading.previousElementSibling;

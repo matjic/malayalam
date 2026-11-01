@@ -76,7 +76,8 @@
 </div>
 <!-- /moag-vocabulary-words -->
 
-| Malayalam | Meaning | Audio |
+<!-- vocabulary-table: {"kind":"vocabulary","category":"vocabulary","cards":true} -->
+| Malayalam | English | Audio |
 |---|---|---|
 | പാലാരിവട്ടം | Palarivattam – an area of Ernakulam city | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_001.mp3" data-audio-label="പാലാരിവട്ടം" aria-label="Play പാലാരിവട്ടം" title="Play പാലാരിവട്ടം" aria-pressed="false">▶</button> |
 | ജനതാ ജംഗ്ഷൻ | Janata Junction – an intersection or crossroad in Ernakulam | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_24_word_002.mp3" data-audio-label="ജനതാ ജംഗ്ഷൻ" aria-label="Play ജനതാ ജംഗ്ഷൻ" title="Play ജനതാ ജംഗ്ഷൻ" aria-pressed="false">▶</button> |

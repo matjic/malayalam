@@ -23,7 +23,8 @@
 </div>
 <!-- /moag-vocabulary-words -->
 
-| Malayalam | Meaning | Audio |
+<!-- vocabulary-table: {"kind":"vocabulary","category":"vocabulary","cards":true} -->
+| Malayalam | English | Audio |
 |---|---|---|
 | മാനേജർ | manager | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_001.mp3" data-audio-label="മാനേജർ" aria-label="Play മാനേജർ" title="Play മാനേജർ" aria-pressed="false">▶</button> |
 | പ്യൂൺ | peon | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_19_word_002.mp3" data-audio-label="പ്യൂൺ" aria-label="Play പ്യൂൺ" title="Play പ്യൂൺ" aria-pressed="false">▶</button> |

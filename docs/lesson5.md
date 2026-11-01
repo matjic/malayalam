@@ -24,6 +24,7 @@
 </div>
 <!-- /moag-vocabulary-words -->
 
+<!-- vocabulary-table: {"kind":"vocabulary","category":"vocabulary","cards":true} -->
 | Malayalam | English | Audio |
 |---|---|---|
 | കൃഷ്ണൻ | a male name | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_05_word_001.mp3" data-audio-label="കൃഷ്ണൻ" aria-label="Play കൃഷ്ണൻ" title="Play കൃഷ്ണൻ" aria-pressed="false">▶</button> |

@@ -65,7 +65,8 @@
 </div>
 <!-- /moag-vocabulary-words -->
 
-| Malayalam | Meaning | Audio |
+<!-- vocabulary-table: {"kind":"vocabulary","category":"vocabulary","cards":true} -->
+| Malayalam | English | Audio |
 |---|---|---|
 | പത്രം | newspaper | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_020.mp3" data-audio-label="പത്രം" aria-label="Play പത്രം" title="Play പത്രം" aria-pressed="false">▶</button> |
 | വായിച്ചാൽ | if you read | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_052.mp3" data-audio-label="വായിച്ചാൽ" aria-label="Play വായിച്ചാൽ" title="Play വായിച്ചാൽ" aria-pressed="false">▶</button> |
@@ -99,7 +100,8 @@
 <a id="lesson14-vocabulary-from-reference-list-and-exercises"></a><!-- reading-anchor -->
 ### Vocabulary from “Reference List” and “Exercises”
 
-| Malayalam | Meaning | Audio |
+<!-- vocabulary-table: {"kind":"vocabulary","category":"vocabulary","cards":true} -->
+| Malayalam | English | Audio |
 |---|---|---|
 | ചുരുക്കം | brief | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_002.mp3" data-audio-label="ചുരുക്കം" aria-label="Play ചുരുക്കം" title="Play ചുരുക്കം" aria-pressed="false">▶</button> |
 | ഒറ്റ | one | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_14_word_003.mp3" data-audio-label="ഒറ്റ" aria-label="Play ഒറ്റ" title="Play ഒറ്റ" aria-pressed="false">▶</button> |

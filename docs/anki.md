@@ -3,10 +3,13 @@
 <a href="assets/decks/malayalam-moag.apkg" download data-ignore>Download the Anki vocabulary deck</a> and open it in Anki.
 
 One package creates a **Malayalam** parent deck with **25 lesson subdecks**.
-It contains 990 vocabulary entries and 1,980 cards: Malayalam → English and English → Malayalam.
-Recordings appear on the answer side where available; 65 entries are text-only.
+It contains 1,085 vocabulary entries and 2,170 cards: Malayalam → English and English → Malayalam.
+Recordings appear on the answer side where available; 160 entries are text-only.
 All 997 recordings and a Malayalam font are included for offline study.
-The same vocabulary is available in the [Vocabulary Glossary](vocabulary-glossary.md).
+The [Vocabulary Glossary](vocabulary-glossary.md) also includes additional
+reference-only postpositions. Core reference-table pronouns and selected
+postpositions are included in the deck; full grammatical paradigms remain in
+the lesson reference tables.
 English prompts omit Malayalam spelling and synonym hints. Names include their
 English spellings, such as “Raman (male name)”.
 Spelling variants and related-form explanations appear as lesson notes after
@@ -53,6 +56,6 @@ The catalog builder preserves them across spelling or meaning corrections.
 If changing both the Malayalam and English text, update the corresponding
 catalog entry's text while keeping its ID before rebuilding. Keep the Anki model
 ID, field order, and card template order stable across releases.
-The deck is generated from the lesson vocabulary tables, including the additional
+The deck is generated from the lesson vocabulary tables, including explicitly selected reference tables and the additional
 recorded forms. Entries without audio remain available as text cards.
 The lesson pages retain source credits and recording reuse terms.

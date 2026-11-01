@@ -25,6 +25,7 @@
 </div>
 <!-- /moag-vocabulary-words -->
 
+<!-- vocabulary-table: {"kind":"vocabulary","category":"vocabulary","cards":true} -->
 | Malayalam | English | Audio |
 |---|---|---|
 | കേരളം | Kerala | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_10_word_001.mp3" data-audio-label="കേരളം" aria-label="Play കേരളം" title="Play കേരളം" aria-pressed="false">▶</button> |

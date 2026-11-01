@@ -73,7 +73,8 @@
 </div>
 <!-- /moag-vocabulary-words -->
 
-| Malayalam | Meaning | Audio |
+<!-- vocabulary-table: {"kind":"vocabulary","category":"vocabulary","cards":true} -->
+| Malayalam | English | Audio |
 |---|---|---|
 | ഇംഗ്ലീഷ് | English | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_21_word_001.mp3" data-audio-label="ഇംഗ്ലീഷ്" aria-label="Play ഇംഗ്ലീഷ്" title="Play ഇംഗ്ലീഷ്" aria-pressed="false">▶</button> |
 | -കം (requires dative of noun) | within — | <span class="audio-unmatched" title="No aligned recording yet">—</span> |

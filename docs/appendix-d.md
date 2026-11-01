@@ -13,6 +13,7 @@ Note: The postpositions are grouped according to the case ending required for th
 
 <!-- Editorial restoration: the character after “final-” is missing on PDF page 483; -ം is specified in Lesson 20.3 and the glossary entry for പ്രകാരം. -->
 
+<!-- vocabulary-table: {"kind":"vocabulary","category":"postposition","chapter":6,"cards":["പ്രകാരം","അനുസരിച്ച്","മുതൽ","വരെ","പോലെ","ഇല്ലാതെ"],"case":"nominative","aliases":"br","origin":"reference_table"} -->
 | Malayalam | English |
 |---|---|
 | പ്രകാരം<br>[Note that the final -ം of the preceding noun drops] | according to, in (this) manner |
@@ -30,6 +31,7 @@ Note: The postpositions are grouped according to the case ending required for th
 
 All unstarred items often take the dative in colloquial speech. Starred items take possessive only.
 
+<!-- vocabulary-table: {"kind":"vocabulary","category":"postposition","chapter":6,"cards":["അകത്ത്","മുകളിൽ","താഴെ","പുറത്ത്","വെളിയിൽ","അടുത്ത്","മുമ്പിൽ","പുറകിൽ","കൂടെ","ഇടയിൽ","ചുറ്റും"],"case":"possessive","aliases":"br","origin":"reference_table"} -->
 | Malayalam | English |
 |---|---|
 | മദ്ധ്യത്തിൽ<br>നടുവിൽ | in between, in the middle |
@@ -68,6 +70,7 @@ All unstarred items often take the dative in colloquial speech. Starred items ta
 <a id="appendix-d-dative"></a><!-- reading-anchor -->
 ### Dative
 
+<!-- vocabulary-table: {"kind":"vocabulary","category":"postposition","chapter":6,"cards":["വേണ്ടി","പകരം","എതിരെ","ശേഷം","മുമ്പ്"],"case":"dative","aliases":"br","origin":"reference_table"} -->
 | Malayalam | English |
 |---|---|
 | അപ്പുറം | ago |
@@ -82,13 +85,14 @@ All unstarred items often take the dative in colloquial speech. Starred items ta
 | തക്കപോലെ | according to |
 | ഒത്തപോലെ | suitable to |
 | ചുറ്റും | around, around about |
-| പടി | |
+| പടി <!-- vocabulary-exclude: English meaning absent in source; requires linguistic review --> | Meaning absent in source; under review |
 
 <!-- Source: PDF page 486; printed page 423. -->
 
 <a id="appendix-d-accusative"></a><!-- reading-anchor -->
 ### Accusative
 
+<!-- vocabulary-table: {"kind":"vocabulary","category":"postposition","chapter":6,"cards":["കൊണ്ട്","പറ്റി","കുറിച്ച്"],"case":"accusative","aliases":"br","origin":"reference_table"} -->
 | Malayalam | English |
 |---|---|
 | കൂടാതെ (with animate nouns only) | in addition to, besides |
@@ -102,6 +106,7 @@ All unstarred items often take the dative in colloquial speech. Starred items ta
 <a id="appendix-d-locative"></a><!-- reading-anchor -->
 ### Locative
 
+<!-- vocabulary-table: {"kind":"vocabulary","category":"postposition","chapter":6,"cards":["നിന്ന്","വെച്ച്"],"case":"locative","aliases":"br","origin":"reference_table"} -->
 | Malayalam | English |
 |---|---|
 | വെച്ച് | at, in |
@@ -113,6 +118,7 @@ All unstarred items often take the dative in colloquial speech. Starred items ta
 <a id="appendix-d-associative"></a><!-- reading-anchor -->
 ### Associative
 
+<!-- vocabulary-table: {"kind":"vocabulary","category":"postposition","chapter":6,"cards":["കൂടെ"],"case":"associative","aliases":"br","origin":"reference_table"} -->
 | Malayalam | English |
 |---|---|
 | കൂടെ<br>കൂടി | with |

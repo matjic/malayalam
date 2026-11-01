@@ -59,7 +59,8 @@
 </div>
 <!-- /moag-vocabulary-words -->
 
-| Malayalam | Meaning | Audio |
+<!-- vocabulary-table: {"kind":"vocabulary","category":"vocabulary","cards":true} -->
+| Malayalam | English | Audio |
 |---|---|---|
 | ആയിരുന്നു | was, were (past of ആണ്) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_001.mp3" data-audio-label="ആയിരുന്നു" aria-label="Play ആയിരുന്നു" title="Play ആയിരുന്നു" aria-pressed="false">▶</button> |
 | പോയി | went | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_11_word_002.mp3" data-audio-label="പോയി" aria-label="Play പോയി" title="Play പോയി" aria-pressed="false">▶</button> |

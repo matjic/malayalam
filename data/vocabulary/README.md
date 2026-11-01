@@ -1,16 +1,55 @@
 # Malayalam vocabulary and Anki decks
 
-`moag.json` is a reusable, chapter-organized export of the vocabulary tables in
-`docs/lesson1.md` through `docs/lesson25.md`, plus the recorded derived noun in
-the Reference List. It includes the additional recorded forms added to those
-tables, English meanings, origin, source chapter, and audio paths/transcripts/
-checksums. Identical word-and-meaning rows within a chapter are combined, keeping
-all their recordings. Words repeated in different chapters remain separate notes.
+`moag.json` is the generated vocabulary catalog shared by the glossary and Anki.
+Lesson and appendix Markdown tables are the editable source. Their adjacent
+`vocabulary-table` comments explicitly declare inclusion and handling; heading
+names no longer decide whether a table is exported. Untagged exercise tables
+are ignored.
 
-The Markdown remains the editable source. Rebuild this catalog after changing
-the tables; the website needs no runtime JSON fetching or new Markdown syntax.
-The Anki exporter consumes the catalog rather than parsing the tables again.
-This is a course vocabulary catalog, not a general Malayalam dictionary.
+```html
+<!-- vocabulary-table: {"kind":"vocabulary","category":"personal_pronoun","origin":"reference_table","cards":true} -->
+```
+
+The marker must immediately precede its table, after a stable source anchor.
+Each marker uses these rules:
+
+| Field | Meaning |
+|---|---|
+| `kind: "vocabulary"` | Export named word/meaning columns into the shared catalog. |
+| `cards: true` | Include entries in Anki as well as the glossary. |
+| `cards: false` | Include vocabulary entries in the glossary only. |
+| `cards: ["മുകളിൽ", "താഴെ"]` | Select rows containing these forms for cards; other rows remain glossary-only. Missing selected forms fail validation. |
+| `word`, `meaning` | Optional column names; defaults are `Malayalam` and `English`. |
+| `aliases: "br"` | Treat line-separated forms as alternatives for the row’s broad meaning. Keep the first as the head form and display the others as accepted answers. |
+| `category` | Required descriptive category, such as `personal_pronoun` or `postposition`; it does not decide inclusion. |
+| `origin: "reference_table"` | A reference-list addition, merged with matching published vocabulary where appropriate. Default `textbook` preserves published vocabulary/audio identities. |
+| `case` | Postposition case group; supplies the English recall cue. Appendix D’s starred possessive restrictions are preserved. |
+| `chapter` | Lesson placement for an appendix entry. The selected everyday Appendix D cards are grouped with Lesson 6’s introduction to postpositions. |
+| `kind: "paradigm"`, `group` | Validate one complete seven-case chart, possibly split across tables; do not flatten it into isolated word cards. Set `cards: false`. |
+| `kind: "reference"` | Validate a teaching table without exporting it. Set `cards: false`. |
+
+Unknown options, malformed markers, missing columns, incomplete meanings, and
+incomplete paradigms fail the build. An unresolved source row must carry an
+explicit exclusion reason, for example:
+`<!-- vocabulary-exclude: English meaning absent in source; requires review -->`.
+The audit reports these exclusions. Appendix D’s unglossed പടി is currently
+excluded rather than assigned a guessed meaning.
+
+The catalog now includes the basic personal pronouns and adverb/question-word
+trios in Lesson 2, demonstratives in Lesson 3, dative pronouns in Lesson 4,
+possessives in Lesson 6, one-piece indefinite forms in Lesson 22, and Appendix D’s
+postposition rows. Full case charts and two-piece relative constructions remain
+validated reference tables. The glossary is deliberately more extensive than the
+selected study deck; this is a course catalog, not a general Malayalam dictionary.
+
+Identical word-and-meaning rows within a lesson are combined. When a reference
+table repeats a word already taught in that lesson’s vocabulary, its source link
+is attached to the published entry rather than creating another note. Distinct
+new senses remain separate. Existing entry IDs and all audio associations are
+preserved; newly added reference forms are text-only unless a verified recording
+is explicitly associated. `source_anchor`, `references`, `variants`, `category`,
+and `study` carry the source and selection information. Absent `study` means true
+for backward compatibility with published vocabulary entries.
 
 `study.json` contains editorial study metadata keyed by stable catalog entry ID,
 so a spelling used in different lessons or senses can have different prompts:
@@ -73,10 +112,10 @@ Open `dist/anki/malayalam-moag.apkg` in Anki. One package creates **Malayalam**
 with 25 nested decks named **Lesson 01** through **Lesson 25**. Expand the parent
 to see the lessons; each subdeck's description contains the chapter title.
 
-There are 990 notes and 1,980 cards: Malayalam → English and English → Malayalam.
+There are 1,085 notes and 2,170 cards: Malayalam → English and English → Malayalam.
 The answer includes the recording where available, with the recorded form labeled
 when it differs from the written entry. All 997 MP3 clips and a Malayalam font
-are embedded for offline use. The 65 entries without recordings are text-only.
+are embedded for offline use. The 160 study entries without recordings are text-only.
 The “Open lesson” link requires internet. Original audio credits and reuse terms
 remain in the lesson pages and `data/audio/moag/README.md`; this export does not
 change those terms. Repository license: CC-BY-NC-SA-4.0.
@@ -129,11 +168,13 @@ reimports to check deduplication and preservation of review progress.
 Validated using genanki 0.13.1 and the official Anki 26.9.3 Python backend.
 The local Anki source's package metadata implementation confirms support for the
 legacy `collection.anki2`/media-map package format used by genanki. No modifications
-to the Anki source repository are needed. GUI/mobile appearance was not separately
-tested.
+to the Anki source repository are needed. Generated card visibility and layout have also been checked in a browser at desktop and phone widths; the native Anki GUI was not separately tested.
 
-GitHub Actions runs the catalog and identity checks, exporter tests, official Anki
-import/reimport tests, and deck build alongside the EPUB/PDF workflow. Each run
+The reusable `.github/workflows/unit-tests.yml` runs table-contract, coverage,
+identity, exporter, and audio alignment tests, plus catalog/glossary freshness
+checks. The site workflow calls it as `unit-tests`; both site assembly and
+deployment explicitly depend on its success. The separate Anki job runs official
+Anki import/reimport tests and builds the deck alongside the EPUB/PDF workflow. Each run
 uploads `dist/anki/` as the `malayalam-anki` artifact. Successful runs on `main`
 include the freshly built package in the deployed site's deck download; CI does
 not commit generated packages back to the repository.
@@ -152,6 +193,12 @@ GUID inputs stable so reimports update existing notes. Chapter lookups use their
 numbers rather than JSON array positions. Counts are derived from the catalog;
 audio checksums, duplicate IDs, media name collisions, and unused English overrides
 fail before package generation. Study metadata changes do not require an Anki schema migration.
+
+Run `bun run test` in a Python environment with `requirements/anki.txt` installed
+(or run the same Python commands from the package script). Coverage tests assert
+that core pronouns, question words and postpositions stay available for study,
+that source links resolve, and that social-ranking labels do not return in tables
+or headers. The `--check` commands detect stale generated outputs.
 
 ## Site glossary
 

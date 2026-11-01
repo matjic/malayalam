@@ -1,0 +1,30 @@
+name: Unit tests
+
+on:
+  workflow_call:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  unit-tests:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: requirements/anki.txt
+      - name: Install exporter dependencies
+        run: python3 -m pip install -r requirements/anki.txt
+      - name: Run source, coverage, identity, exporter, and audio unit tests
+        run: |
+          python3 -m unittest discover -s scripts -p 'test_vocabulary*.py' -v
+          python3 scripts/test_anki_export.py
+          python3 scripts/test_audio_row_alignment.py
+      - name: Check generated vocabulary and glossary
+        run: |
+          python3 scripts/build-vocabulary-catalog.py --check
+          python3 scripts/build-vocabulary-glossary.py --check

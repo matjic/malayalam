@@ -69,7 +69,8 @@
 </div>
 <!-- /moag-vocabulary-words -->
 
-| Malayalam | Meaning | Audio |
+<!-- vocabulary-table: {"kind":"vocabulary","category":"vocabulary","cards":true} -->
+| Malayalam | English | Audio |
 |---|---|---|
 | വിനോദം | pleasure | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_001.mp3" data-audio-label="വിനോദം" aria-label="Play വിനോദം" title="Play വിനോദം" aria-pressed="false">▶</button> |
 | തീർച്ച | certain | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_23_word_002.mp3" data-audio-label="തീർച്ച" aria-label="Play തീർച്ച" title="Play തീർച്ച" aria-pressed="false">▶</button> |

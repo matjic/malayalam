@@ -175,6 +175,7 @@
 </div>
 <!-- /moag-vocabulary-words -->
 
+<!-- vocabulary-table: {"kind":"vocabulary","category":"vocabulary","cards":true} -->
 | Malayalam | English | Audio |
 |---|---|---|
 | കൊല്ലം | Kollam, city in Kerala | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_07_word_001.mp3" data-audio-label="കൊല്ലം" aria-label="Play കൊല്ലം" title="Play കൊല്ലം" aria-pressed="false">▶</button> |

@@ -270,7 +270,7 @@ Practice Lessons A–C are additions based on UT Austin learning resources, plac
 ### [Lesson 8: Accusative Case, Relative Clauses, and Obligation](lesson8.md)
 
 - [Reference List](lesson8.md#lesson8-reference-list)
-  - [All Forms of the Personal Pronouns](lesson8.md#lesson8-all-forms-of-the-personal-pronouns)
+  - [Personal Pronoun Case Forms](lesson8.md#lesson8-personal-pronoun-case-forms)
 - [Vocabulary](lesson8.md#lesson8-vocabulary)
 - [Reading Practice](lesson8.md#lesson8-reading-practice)
   - [A. See how accusative case is added to the nouns.](lesson8.md#lesson8-a-see-how-accusative-case-is-added-to-the-nouns)

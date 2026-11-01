@@ -77,6 +77,7 @@
 </div>
 <!-- /moag-vocabulary-words -->
 
+<!-- vocabulary-table: {"kind":"vocabulary","category":"vocabulary","cards":true} -->
 | Malayalam | English | Audio |
 |---|---|---|
 | ജന്മദേശം | native land | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_001.mp3" data-audio-label="ജന്മദേശം" aria-label="Play ജന്മദേശം" title="Play ജന്മദേശം" aria-pressed="false">▶</button> |
@@ -112,6 +113,7 @@
 
 > **Editorial source note:** The source glosses ധാന്യം as “richness,” but the written word means “grain; cereal” ([Olam](https://olam.in/dictionary/english/malayalam/Grain)). The reading and exercise 3.8 instead use ധന്യമായ/ധന്യമാണ്. This edition translates the written vocabulary word; the source’s intended adjective remains uncertain.
 
+<!-- vocabulary-table: {"kind":"vocabulary","category":"vocabulary","cards":true} -->
 | Malayalam | English | Audio |
 |---|---|---|
 | പാശ്ചാത്യർ | westerners | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_033.mp3" data-audio-label="പാശ്ചാത്യർ" aria-label="Play പാശ്ചാത്യർ" title="Play പാശ്ചാത്യർ" aria-pressed="false">▶</button> |

@@ -40,6 +40,7 @@
 </div>
 <!-- /moag-vocabulary-words -->
 
+<!-- vocabulary-table: {"kind":"vocabulary","category":"vocabulary","cards":true} -->
 | Malayalam | English | Audio |
 |---|---|---|
 | നല്ല | good | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_09_word_001.mp3" data-audio-label="നല്ല" aria-label="Play നല്ല" title="Play നല്ല" aria-pressed="false">▶</button> |

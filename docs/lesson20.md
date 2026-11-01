@@ -60,7 +60,8 @@
 <a id="lesson20-part-i"></a><!-- reading-anchor -->
 ### Part I
 
-| Malayalam | Meaning | Audio |
+<!-- vocabulary-table: {"kind":"vocabulary","category":"vocabulary","cards":true} -->
+| Malayalam | English | Audio |
 |---|---|---|
 | ഓണം | Onam, Kerala Harvest Festival | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_001.mp3" data-audio-label="ഓണം" aria-label="Play ഓണം" title="Play ഓണം" aria-pressed="false">▶</button> |
 | വിളവെടുപ്പ് | harvest | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_002.mp3" data-audio-label="വിളവെടുപ്പ്" aria-label="Play വിളവെടുപ്പ്" title="Play വിളവെടുപ്പ്" aria-pressed="false">▶</button> |
@@ -100,7 +101,8 @@
 <a id="lesson20-part-ii"></a><!-- reading-anchor -->
 ### Part II
 
-| Malayalam | Meaning | Audio |
+<!-- vocabulary-table: {"kind":"vocabulary","category":"vocabulary","cards":true} -->
+| Malayalam | English | Audio |
 |---|---|---|
 | ആഘോഷം | celebration | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_042.mp3" data-audio-label="ആഘോഷം" aria-label="Play ആഘോഷം" title="Play ആഘോഷം" aria-pressed="false">▶</button> |
 | ആഘോഷിക്കപ്പെടുക (past: ആഘോഷിക്കപ്പെട്ടു) | to be celebrated | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_043.mp3" data-audio-label="ആഘോഷിക്കപ്പെടുക" aria-label="Play ആഘോഷിക്കപ്പെടുക" title="Play ആഘോഷിക്കപ്പെടുക" aria-pressed="false">▶</button> <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_20_word_044.mp3" data-audio-label="ആഘോഷിക്കപ്പെട്ടു" aria-label="Play ആഘോഷിക്കപ്പെട്ടു" title="Play ആഘോഷിക്കപ്പെട്ടു" aria-pressed="false">▶ <span lang="ml">ആഘോഷിക്കപ്പെട്ടു</span></button> |

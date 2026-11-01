@@ -23,7 +23,8 @@
 </div>
 <!-- /moag-vocabulary-words -->
 
-| Malayalam | Meaning | Audio |
+<!-- vocabulary-table: {"kind":"vocabulary","category":"vocabulary","cards":true} -->
+| Malayalam | English | Audio |
 |---|---|---|
 | ഒന്നാം | first | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_001.mp3" data-audio-label="ഒന്നാം" aria-label="Play ഒന്നാം" title="Play ഒന്നാം" aria-pressed="false">▶</button> |
 | മോൾ | colloquial (short form) of മകൾ | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_17_word_002.mp3" data-audio-label="മോൾ" aria-label="Play മോൾ" title="Play മോൾ" aria-pressed="false">▶</button> |

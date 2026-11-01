@@ -9,20 +9,23 @@
 <a id="lesson6-possessive-of-personal-pronouns"></a><!-- reading-anchor -->
 ### Possessive of Personal Pronouns
 
-| Number | Nominative | Possessive |
-|---|---|---|
-| Singular | ഞാൻ | എന്റെ |
-|  | നീ | നിന്റെ |
-|  | നിങ്ങൾ | നിങ്ങളുടെ |
-|  | അവൻ | അവന്റെ |
-|  | അയാൾ | അയാളുടെ |
-|  | അദ്ദേഹം | അദ്ദേഹത്തിന്റെ |
-|  | അവൾ | അവളുടെ |
-|  | അവർ | അവരുടെ |
-| Plural | നമ്മൾ | നമ്മളുടെ |
-|  | ഞങ്ങൾ | ഞങ്ങളുടെ |
-|  | നിങ്ങൾ | നിങ്ങളുടെ |
-|  | അവർ | അവരുടെ |
+<!-- vocabulary-table: {"kind":"vocabulary","category":"possessive_pronoun","cards":true,"word":"Possessive","aliases":"br","origin":"reference_table"} -->
+| Number | Nominative | Possessive | English |
+|---|---|---|---|
+| Singular | ഞാൻ | എന്റെ | my |
+| | നീ | നിന്റെ | your (familiar singular possessive) |
+| | നിങ്ങൾ | നിങ്ങളുടെ | your (plural or polite singular pronoun) |
+| | അവൻ | അവന്റെ | his (familiar possessive) |
+| | അയാൾ | അയാളുടെ | his (neutral possessive) |
+| | അദ്ദേഹം | അദ്ദേഹത്തിന്റെ | his (honorific possessive) |
+| | അവൾ | അവളുടെ | her (familiar possessive) |
+| | അവർ | അവരുടെ | her (honorific possessive) |
+| Plural | നമ്മൾ | നമ്മുടെ<br>നമ്മളുടെ | our (including the listener) |
+| | ഞങ്ങൾ | ഞങ്ങളുടെ | our (excluding the listener) |
+| | നിങ്ങൾ | നിങ്ങളുടെ | your (plural possessive) |
+| | അവർ | അവരുടെ | their (possessive) |
+
+> **Learner note (editorial):** നമ്മുടെ is used in the conversations (for example, Lesson 8); നമ്മളുടെ is the fuller form in the original reference table. Both express “our” including the listener.
 
 <a id="lesson6-vocabulary"></a><!-- reading-anchor -->
 ### Vocabulary
@@ -44,6 +47,7 @@
 </div>
 <!-- /moag-vocabulary-words -->
 
+<!-- vocabulary-table: {"kind":"vocabulary","category":"vocabulary","cards":true} -->
 | Malayalam | English | Audio |
 |---|---|---|
 | അടുത്ത് | (adverb) near, close by, next to, close to (postposition) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_06_word_001.mp3" data-audio-label="അടുത്ത്" aria-label="Play അടുത്ത്" title="Play അടുത്ത്" aria-pressed="false">▶</button> |

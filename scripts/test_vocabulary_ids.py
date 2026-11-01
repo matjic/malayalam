@@ -32,6 +32,18 @@ class IdentityTests(unittest.TestCase):
         catalog.preserve_ids(entries, json.loads(catalog.OUT.read_text())['entries'])
         self.assertEqual(entries[0]['id'], 'new-id')
 
+    def test_reference_senses_keep_ids_when_both_glosses_change(self):
+        identities = [dict(id='first', chapter=6, malayalam='കൂടെ', english='first sense',
+                           source_anchor='possessive'),
+                      dict(id='second', chapter=6, malayalam='കൂടെ', english='second sense',
+                           source_anchor='associative')]
+        entries = copy.deepcopy(identities)
+        for entry in entries:
+            entry['english'] += ' corrected'
+            entry['id'] = 'new-' + entry['id']
+        catalog.preserve_ids(entries, identities)
+        self.assertEqual([entry['id'] for entry in entries], ['first', 'second'])
+
 
 if __name__ == '__main__':
     unittest.main()

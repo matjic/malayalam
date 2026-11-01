@@ -29,7 +29,9 @@ Markdown in the browser. No application server or database is required in produc
 
 The lesson Markdown remains the editable source for vocabulary as well as prose.
 A catalog generator extracts written forms, meanings, chapter references, and audio
-associations from the tables. The generated glossary combines repeated entries
+associations from tables explicitly labeled with `vocabulary-table` comments.
+Those comments distinguish study vocabulary, glossary-only entries, and grammar
+reference tables. The generated glossary combines repeated entries
 across chapters; Anki preserves chapter membership through lesson subdecks.
 Both outputs use the same catalog rather than maintaining separate vocabulary lists.
 

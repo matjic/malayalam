@@ -49,7 +49,8 @@ Note how the emphatic particle can be added to negative verbforms.
 </div>
 <!-- /moag-vocabulary-words -->
 
-| Malayalam | Meaning | Audio |
+<!-- vocabulary-table: {"kind":"vocabulary","category":"vocabulary","cards":true} -->
+| Malayalam | English | Audio |
 |---|---|---|
 | മിക്കവാറും | nearly, almost | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_001.mp3" data-audio-label="മിക്കവാറും" aria-label="Play മിക്കവാറും" title="Play മിക്കവാറും" aria-pressed="false">▶</button> |
 | എല്ലാവരും | everyone (full form of എല്ലാരും) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_16_word_002.mp3" data-audio-label="എല്ലാവരും" aria-label="Play എല്ലാവരും" title="Play എല്ലാവരും" aria-pressed="false">▶</button> |

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "title": "Malayalam — Moag",
   "license": "CC-BY-NC-SA-4.0",
-  "source_of_truth": "Lesson Markdown tables; audio paths and checksums from the word manifest.",
+  "source_of_truth": "Explicit vocabulary-table comments in lesson and appendix Markdown; audio paths and checksums from the word manifest.",
   "chapters": [
     {
       "number": 1,
@@ -576,6 +576,13 @@
           "transcript": "ഇവിടെ",
           "sha256": "40fe7b0f9924c5e398fa35907fdf257453d02a3c6f15e9132bf7657bbd467877"
         }
+      ],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-adverbs-of-place",
+          "category": "question_and_adverb"
+        }
       ]
     },
     {
@@ -681,6 +688,13 @@
           "transcript": "ഇയാൾ",
           "sha256": "cb484f1415386d1a03958efd15dbf7adfb56ea0099dbf88f48c6eaacb537fa27"
         }
+      ],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-a-personal-pronouns",
+          "category": "personal_pronoun"
+        }
       ]
     },
     {
@@ -750,6 +764,13 @@
           "transcript": "എവിടെ",
           "sha256": "cd3063525aa6b0d47500a18403b81a28c8d6397bdcebec205e43936b37c5baf8"
         }
+      ],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-adverbs-of-place",
+          "category": "question_and_adverb"
+        }
       ]
     },
     {
@@ -794,6 +815,13 @@
           "path": "docs/assets/audio/moag/words/lesson_02_word_018.mp3",
           "transcript": "ഞാൻ",
           "sha256": "4e88047aaf1de5965a1f72dcb476c5d6c025cc5199ae7e820b0c103027d6a356"
+        }
+      ],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-a-personal-pronouns",
+          "category": "personal_pronoun"
         }
       ]
     },
@@ -1299,6 +1327,13 @@
           "transcript": "ആ",
           "sha256": "00d0bcf4e1fa640b9129fdc2353ea0d98f4bdcf4d87c3d2c947faa11068c52d8"
         }
+      ],
+      "references": [
+        {
+          "source": "docs/lesson3.md",
+          "anchor": "lesson3-demonstratives",
+          "category": "demonstrative"
+        }
       ]
     },
     {
@@ -1638,6 +1673,13 @@
           "transcript": "എനിക്ക്",
           "sha256": "7b646bb280c0265f14070ec9d1be939c397b2c905b5c4d5f2d85be53e97028ba"
         }
+      ],
+      "references": [
+        {
+          "source": "docs/lesson4.md",
+          "anchor": "lesson4-dative-of-personal-pronouns",
+          "category": "dative_pronoun"
+        }
       ]
     },
     {
@@ -1862,6 +1904,13 @@
           "path": "docs/assets/audio/moag/words/lesson_04_word_027.mp3",
           "transcript": "അവന്",
           "sha256": "5e1d19bf4be4732abee881993ffbe45ca08f5ca5f98ac67fcd4306172ecaded7"
+        }
+      ],
+      "references": [
+        {
+          "source": "docs/lesson4.md",
+          "anchor": "lesson4-dative-of-personal-pronouns",
+          "category": "dative_pronoun"
         }
       ]
     },
@@ -11556,6 +11605,16 @@
           "transcript": "ആർക്കെങ്കിലും",
           "sha256": "d7690b262d31769f608c889167d7f4546acdec054bfedc83b078fd6c14277eaa"
         }
+      ],
+      "variants": [
+        "ആർക്കായാലും"
+      ],
+      "references": [
+        {
+          "source": "docs/lesson22.md",
+          "anchor": "lesson22-a-one-piece-indefinite-pronouns",
+          "category": "indefinite"
+        }
       ]
     },
     {
@@ -14948,6 +15007,2645 @@
           "path": "docs/assets/audio/moag/words/lesson_25_word_075.mp3",
           "transcript": "സ്വാഗതം ചെയ്യുക",
           "sha256": "e15d97aa14e27a93e9bead5e3271e6a71883a0af2927fa5e05601704561cbf4f"
+        }
+      ]
+    },
+    {
+      "id": "moag-02-b4e477eb29977207",
+      "chapter": 2,
+      "malayalam": "നീ",
+      "english": "you (familiar singular, non-honorific)",
+      "origin": "reference_table",
+      "source": "docs/lesson2.md",
+      "source_anchor": "lesson2-a-personal-pronouns",
+      "category": "personal_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-a-personal-pronouns",
+          "category": "personal_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-02-3e8af7d3421938f4",
+      "chapter": 2,
+      "malayalam": "നിങ്ങൾ",
+      "english": "you (polite singular)",
+      "origin": "reference_table",
+      "source": "docs/lesson2.md",
+      "source_anchor": "lesson2-a-personal-pronouns",
+      "category": "personal_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-a-personal-pronouns",
+          "category": "personal_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-02-79b51a4e328ce6e1",
+      "chapter": 2,
+      "malayalam": "അവൻ",
+      "english": "he (familiar, non-honorific; at a distance)",
+      "origin": "reference_table",
+      "source": "docs/lesson2.md",
+      "source_anchor": "lesson2-a-personal-pronouns",
+      "category": "personal_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-a-personal-pronouns",
+          "category": "personal_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-02-a0d2b071dc925d88",
+      "chapter": 2,
+      "malayalam": "ഇവൻ",
+      "english": "he (familiar, non-honorific; nearby)",
+      "origin": "reference_table",
+      "source": "docs/lesson2.md",
+      "source_anchor": "lesson2-a-personal-pronouns",
+      "category": "personal_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-a-personal-pronouns",
+          "category": "personal_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-02-6f77ac95e932bfe7",
+      "chapter": 2,
+      "malayalam": "അയാൾ",
+      "english": "he (neutral, non-honorific; at a distance)",
+      "origin": "reference_table",
+      "source": "docs/lesson2.md",
+      "source_anchor": "lesson2-a-personal-pronouns",
+      "category": "personal_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-a-personal-pronouns",
+          "category": "personal_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-02-dc38fb82ce99a23d",
+      "chapter": 2,
+      "malayalam": "അദ്ദേഹം",
+      "english": "he (honorific; at a distance)",
+      "origin": "reference_table",
+      "source": "docs/lesson2.md",
+      "source_anchor": "lesson2-a-personal-pronouns",
+      "category": "personal_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-a-personal-pronouns",
+          "category": "personal_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-02-a1fb5c6941617521",
+      "chapter": 2,
+      "malayalam": "ഇദ്ദേഹം",
+      "english": "he (honorific; nearby)",
+      "origin": "reference_table",
+      "source": "docs/lesson2.md",
+      "source_anchor": "lesson2-a-personal-pronouns",
+      "category": "personal_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-a-personal-pronouns",
+          "category": "personal_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-02-45f18f99164f5307",
+      "chapter": 2,
+      "malayalam": "അവൾ",
+      "english": "she (familiar, non-honorific; at a distance)",
+      "origin": "reference_table",
+      "source": "docs/lesson2.md",
+      "source_anchor": "lesson2-a-personal-pronouns",
+      "category": "personal_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-a-personal-pronouns",
+          "category": "personal_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-02-abae189d94cbcc04",
+      "chapter": 2,
+      "malayalam": "ഇവൾ",
+      "english": "she (familiar, non-honorific; nearby)",
+      "origin": "reference_table",
+      "source": "docs/lesson2.md",
+      "source_anchor": "lesson2-a-personal-pronouns",
+      "category": "personal_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-a-personal-pronouns",
+          "category": "personal_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-02-0c6418552511d2c8",
+      "chapter": 2,
+      "malayalam": "അവർ",
+      "english": "she (honorific; at a distance)",
+      "origin": "reference_table",
+      "source": "docs/lesson2.md",
+      "source_anchor": "lesson2-a-personal-pronouns",
+      "category": "personal_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-a-personal-pronouns",
+          "category": "personal_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-02-ffa894955b3eb28e",
+      "chapter": 2,
+      "malayalam": "ഇവർ",
+      "english": "she (honorific; nearby)",
+      "origin": "reference_table",
+      "source": "docs/lesson2.md",
+      "source_anchor": "lesson2-a-personal-pronouns",
+      "category": "personal_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-a-personal-pronouns",
+          "category": "personal_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-02-936fc90c057d5758",
+      "chapter": 2,
+      "malayalam": "ഞങ്ങൾ",
+      "english": "we (excluding the listener)",
+      "origin": "reference_table",
+      "source": "docs/lesson2.md",
+      "source_anchor": "lesson2-a-personal-pronouns",
+      "category": "personal_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-a-personal-pronouns",
+          "category": "personal_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-02-44991d3544856d5a",
+      "chapter": 2,
+      "malayalam": "നമ്മൾ",
+      "english": "we (including the listener)",
+      "origin": "reference_table",
+      "source": "docs/lesson2.md",
+      "source_anchor": "lesson2-a-personal-pronouns",
+      "category": "personal_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-a-personal-pronouns",
+          "category": "personal_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-02-1721b1abe1c260eb",
+      "chapter": 2,
+      "malayalam": "നിങ്ങൾ",
+      "english": "you (plural)",
+      "origin": "reference_table",
+      "source": "docs/lesson2.md",
+      "source_anchor": "lesson2-a-personal-pronouns",
+      "category": "personal_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-a-personal-pronouns",
+          "category": "personal_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-02-3874309e9d3349a5",
+      "chapter": 2,
+      "malayalam": "അവർ",
+      "english": "they (people at a distance)",
+      "origin": "reference_table",
+      "source": "docs/lesson2.md",
+      "source_anchor": "lesson2-a-personal-pronouns",
+      "category": "personal_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-a-personal-pronouns",
+          "category": "personal_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-02-3e2c70dace9860a6",
+      "chapter": 2,
+      "malayalam": "ഇവർ",
+      "english": "they (people nearby)",
+      "origin": "reference_table",
+      "source": "docs/lesson2.md",
+      "source_anchor": "lesson2-a-personal-pronouns",
+      "category": "personal_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-a-personal-pronouns",
+          "category": "personal_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-02-cbbfb5f5ea150eca",
+      "chapter": 2,
+      "malayalam": "അവിടെ",
+      "english": "there",
+      "origin": "reference_table",
+      "source": "docs/lesson2.md",
+      "source_anchor": "lesson2-adverbs-of-place",
+      "category": "question_and_adverb",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-adverbs-of-place",
+          "category": "question_and_adverb"
+        }
+      ]
+    },
+    {
+      "id": "moag-02-0207aaa913a867c2",
+      "chapter": 2,
+      "malayalam": "ഇങ്ങോട്ട്",
+      "english": "over here, in this direction",
+      "origin": "reference_table",
+      "source": "docs/lesson2.md",
+      "source_anchor": "lesson2-adverbs-of-place",
+      "category": "question_and_adverb",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-adverbs-of-place",
+          "category": "question_and_adverb"
+        }
+      ]
+    },
+    {
+      "id": "moag-02-e5b3c112d90d1837",
+      "chapter": 2,
+      "malayalam": "അങ്ങോട്ട്",
+      "english": "over there, in that direction",
+      "origin": "reference_table",
+      "source": "docs/lesson2.md",
+      "source_anchor": "lesson2-adverbs-of-place",
+      "category": "question_and_adverb",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-adverbs-of-place",
+          "category": "question_and_adverb"
+        }
+      ]
+    },
+    {
+      "id": "moag-02-2625d4fc5517424a",
+      "chapter": 2,
+      "malayalam": "എങ്ങോട്ട്",
+      "english": "where?, in which direction?",
+      "origin": "reference_table",
+      "source": "docs/lesson2.md",
+      "source_anchor": "lesson2-adverbs-of-place",
+      "category": "question_and_adverb",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-adverbs-of-place",
+          "category": "question_and_adverb"
+        }
+      ]
+    },
+    {
+      "id": "moag-02-d4f7a4a9f58abeb7",
+      "chapter": 2,
+      "malayalam": "ഇപ്പോൾ",
+      "english": "now",
+      "origin": "reference_table",
+      "source": "docs/lesson2.md",
+      "source_anchor": "lesson2-adverbs-of-time",
+      "category": "question_and_adverb",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-adverbs-of-time",
+          "category": "question_and_adverb"
+        }
+      ]
+    },
+    {
+      "id": "moag-02-72eede6504521c4f",
+      "chapter": 2,
+      "malayalam": "അപ്പോൾ",
+      "english": "then",
+      "origin": "reference_table",
+      "source": "docs/lesson2.md",
+      "source_anchor": "lesson2-adverbs-of-time",
+      "category": "question_and_adverb",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-adverbs-of-time",
+          "category": "question_and_adverb"
+        }
+      ]
+    },
+    {
+      "id": "moag-02-9671bd62d85ef431",
+      "chapter": 2,
+      "malayalam": "എപ്പോൾ",
+      "english": "when?",
+      "origin": "reference_table",
+      "source": "docs/lesson2.md",
+      "source_anchor": "lesson2-adverbs-of-time",
+      "category": "question_and_adverb",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-adverbs-of-time",
+          "category": "question_and_adverb"
+        }
+      ]
+    },
+    {
+      "id": "moag-02-d3e5e2299bbf6328",
+      "chapter": 2,
+      "malayalam": "ഇന്ന്",
+      "english": "today",
+      "origin": "reference_table",
+      "source": "docs/lesson2.md",
+      "source_anchor": "lesson2-adverbs-of-time",
+      "category": "question_and_adverb",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-adverbs-of-time",
+          "category": "question_and_adverb"
+        }
+      ]
+    },
+    {
+      "id": "moag-02-9f94238695d559f6",
+      "chapter": 2,
+      "malayalam": "അന്ന്",
+      "english": "that day",
+      "origin": "reference_table",
+      "source": "docs/lesson2.md",
+      "source_anchor": "lesson2-adverbs-of-time",
+      "category": "question_and_adverb",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-adverbs-of-time",
+          "category": "question_and_adverb"
+        }
+      ]
+    },
+    {
+      "id": "moag-02-0f13272c6da4462b",
+      "chapter": 2,
+      "malayalam": "എന്ന്",
+      "english": "on which day?",
+      "origin": "reference_table",
+      "source": "docs/lesson2.md",
+      "source_anchor": "lesson2-adverbs-of-time",
+      "category": "question_and_adverb",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-adverbs-of-time",
+          "category": "question_and_adverb"
+        }
+      ]
+    },
+    {
+      "id": "moag-02-e5f5fd6f649fa1f4",
+      "chapter": 2,
+      "malayalam": "ഇങ്ങനെ",
+      "english": "this way, like this",
+      "origin": "reference_table",
+      "source": "docs/lesson2.md",
+      "source_anchor": "lesson2-adverbs-of-manner",
+      "category": "question_and_adverb",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-adverbs-of-manner",
+          "category": "question_and_adverb"
+        }
+      ]
+    },
+    {
+      "id": "moag-02-9681edd0be5cc25c",
+      "chapter": 2,
+      "malayalam": "അങ്ങനെ",
+      "english": "that way, like that",
+      "origin": "reference_table",
+      "source": "docs/lesson2.md",
+      "source_anchor": "lesson2-adverbs-of-manner",
+      "category": "question_and_adverb",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-adverbs-of-manner",
+          "category": "question_and_adverb"
+        }
+      ]
+    },
+    {
+      "id": "moag-02-17c592263f9889e5",
+      "chapter": 2,
+      "malayalam": "എങ്ങനെ",
+      "english": "which way?, how?",
+      "origin": "reference_table",
+      "source": "docs/lesson2.md",
+      "source_anchor": "lesson2-adverbs-of-manner",
+      "category": "question_and_adverb",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson2.md",
+          "anchor": "lesson2-adverbs-of-manner",
+          "category": "question_and_adverb"
+        }
+      ]
+    },
+    {
+      "id": "moag-03-9baa1fded7b99f98",
+      "chapter": 3,
+      "malayalam": "ഇത്",
+      "english": "this, this one (pronoun)",
+      "origin": "reference_table",
+      "source": "docs/lesson3.md",
+      "source_anchor": "lesson3-demonstratives",
+      "category": "demonstrative",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson3.md",
+          "anchor": "lesson3-demonstratives",
+          "category": "demonstrative"
+        }
+      ]
+    },
+    {
+      "id": "moag-03-78ccf6f3a635de70",
+      "chapter": 3,
+      "malayalam": "അത്",
+      "english": "that, that one (pronoun)",
+      "origin": "reference_table",
+      "source": "docs/lesson3.md",
+      "source_anchor": "lesson3-demonstratives",
+      "category": "demonstrative",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson3.md",
+          "anchor": "lesson3-demonstratives",
+          "category": "demonstrative"
+        }
+      ]
+    },
+    {
+      "id": "moag-03-04efad993f323e3d",
+      "chapter": 3,
+      "malayalam": "ഏത്",
+      "english": "which?, which one? (pronoun)",
+      "origin": "reference_table",
+      "source": "docs/lesson3.md",
+      "source_anchor": "lesson3-demonstratives",
+      "category": "demonstrative",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson3.md",
+          "anchor": "lesson3-demonstratives",
+          "category": "demonstrative"
+        }
+      ]
+    },
+    {
+      "id": "moag-03-627462679f441e4d",
+      "chapter": 3,
+      "malayalam": "ഈ",
+      "english": "this (adjective)",
+      "origin": "reference_table",
+      "source": "docs/lesson3.md",
+      "source_anchor": "lesson3-demonstratives",
+      "category": "demonstrative",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson3.md",
+          "anchor": "lesson3-demonstratives",
+          "category": "demonstrative"
+        }
+      ]
+    },
+    {
+      "id": "moag-03-60758e5b65037fd5",
+      "chapter": 3,
+      "malayalam": "ഏത്",
+      "english": "which? (adjective)",
+      "origin": "reference_table",
+      "source": "docs/lesson3.md",
+      "source_anchor": "lesson3-demonstratives",
+      "category": "demonstrative",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson3.md",
+          "anchor": "lesson3-demonstratives",
+          "category": "demonstrative"
+        }
+      ]
+    },
+    {
+      "id": "moag-04-9b464ada481d3512",
+      "chapter": 4,
+      "malayalam": "നിനക്ക്",
+      "english": "to you; for you (familiar singular; dative)",
+      "origin": "reference_table",
+      "source": "docs/lesson4.md",
+      "source_anchor": "lesson4-dative-of-personal-pronouns",
+      "category": "dative_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson4.md",
+          "anchor": "lesson4-dative-of-personal-pronouns",
+          "category": "dative_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-04-ace35b4a84be41ba",
+      "chapter": 4,
+      "malayalam": "നിങ്ങൾക്ക്",
+      "english": "to you; for you (plural or polite singular; dative)",
+      "origin": "reference_table",
+      "source": "docs/lesson4.md",
+      "source_anchor": "lesson4-dative-of-personal-pronouns",
+      "category": "dative_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson4.md",
+          "anchor": "lesson4-dative-of-personal-pronouns",
+          "category": "dative_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-04-88a9c3f725b28782",
+      "chapter": 4,
+      "malayalam": "അയാൾക്ക്",
+      "english": "to him; for him (neutral; dative)",
+      "origin": "reference_table",
+      "source": "docs/lesson4.md",
+      "source_anchor": "lesson4-dative-of-personal-pronouns",
+      "category": "dative_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson4.md",
+          "anchor": "lesson4-dative-of-personal-pronouns",
+          "category": "dative_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-04-4092ca76177c1eb7",
+      "chapter": 4,
+      "malayalam": "അദ്ദേഹത്തിന്",
+      "english": "to him; for him (honorific; dative)",
+      "origin": "reference_table",
+      "source": "docs/lesson4.md",
+      "source_anchor": "lesson4-dative-of-personal-pronouns",
+      "category": "dative_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson4.md",
+          "anchor": "lesson4-dative-of-personal-pronouns",
+          "category": "dative_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-04-18036d6db6ed846e",
+      "chapter": 4,
+      "malayalam": "അവൾക്ക്",
+      "english": "to her; for her (familiar; dative)",
+      "origin": "reference_table",
+      "source": "docs/lesson4.md",
+      "source_anchor": "lesson4-dative-of-personal-pronouns",
+      "category": "dative_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson4.md",
+          "anchor": "lesson4-dative-of-personal-pronouns",
+          "category": "dative_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-04-ae130dab8f5ccf37",
+      "chapter": 4,
+      "malayalam": "അവർക്ക്",
+      "english": "to them; for them; to her; for her (plural or honorific singular; dative)",
+      "origin": "reference_table",
+      "source": "docs/lesson4.md",
+      "source_anchor": "lesson4-dative-of-personal-pronouns",
+      "category": "dative_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson4.md",
+          "anchor": "lesson4-dative-of-personal-pronouns",
+          "category": "dative_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-04-9923d7ed357c2193",
+      "chapter": 4,
+      "malayalam": "നമുക്ക്",
+      "english": "to us; for us (including the listener; dative)",
+      "origin": "reference_table",
+      "source": "docs/lesson4.md",
+      "source_anchor": "lesson4-dative-of-personal-pronouns",
+      "category": "dative_pronoun",
+      "study": true,
+      "audio": [],
+      "variants": [
+        "നമ്മൾക്ക്"
+      ],
+      "references": [
+        {
+          "source": "docs/lesson4.md",
+          "anchor": "lesson4-dative-of-personal-pronouns",
+          "category": "dative_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-04-45456af87e024d9e",
+      "chapter": 4,
+      "malayalam": "ഞങ്ങൾക്ക്",
+      "english": "to us; for us (excluding the listener; dative)",
+      "origin": "reference_table",
+      "source": "docs/lesson4.md",
+      "source_anchor": "lesson4-dative-of-personal-pronouns",
+      "category": "dative_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson4.md",
+          "anchor": "lesson4-dative-of-personal-pronouns",
+          "category": "dative_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-2179e7162c7aaff6",
+      "chapter": 6,
+      "malayalam": "എന്റെ",
+      "english": "my",
+      "origin": "reference_table",
+      "source": "docs/lesson6.md",
+      "source_anchor": "lesson6-possessive-of-personal-pronouns",
+      "category": "possessive_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson6.md",
+          "anchor": "lesson6-possessive-of-personal-pronouns",
+          "category": "possessive_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-964e9519a3e3921b",
+      "chapter": 6,
+      "malayalam": "നിന്റെ",
+      "english": "your (familiar singular possessive)",
+      "origin": "reference_table",
+      "source": "docs/lesson6.md",
+      "source_anchor": "lesson6-possessive-of-personal-pronouns",
+      "category": "possessive_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson6.md",
+          "anchor": "lesson6-possessive-of-personal-pronouns",
+          "category": "possessive_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-9ef4fa1daa57bdc2",
+      "chapter": 6,
+      "malayalam": "നിങ്ങളുടെ",
+      "english": "your (plural or polite singular pronoun)",
+      "origin": "reference_table",
+      "source": "docs/lesson6.md",
+      "source_anchor": "lesson6-possessive-of-personal-pronouns",
+      "category": "possessive_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson6.md",
+          "anchor": "lesson6-possessive-of-personal-pronouns",
+          "category": "possessive_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-fc43615e22403a7b",
+      "chapter": 6,
+      "malayalam": "അവന്റെ",
+      "english": "his (familiar possessive)",
+      "origin": "reference_table",
+      "source": "docs/lesson6.md",
+      "source_anchor": "lesson6-possessive-of-personal-pronouns",
+      "category": "possessive_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson6.md",
+          "anchor": "lesson6-possessive-of-personal-pronouns",
+          "category": "possessive_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-d1c6771a3e3f02ed",
+      "chapter": 6,
+      "malayalam": "അയാളുടെ",
+      "english": "his (neutral possessive)",
+      "origin": "reference_table",
+      "source": "docs/lesson6.md",
+      "source_anchor": "lesson6-possessive-of-personal-pronouns",
+      "category": "possessive_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson6.md",
+          "anchor": "lesson6-possessive-of-personal-pronouns",
+          "category": "possessive_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-eb7a75a004405d7d",
+      "chapter": 6,
+      "malayalam": "അദ്ദേഹത്തിന്റെ",
+      "english": "his (honorific possessive)",
+      "origin": "reference_table",
+      "source": "docs/lesson6.md",
+      "source_anchor": "lesson6-possessive-of-personal-pronouns",
+      "category": "possessive_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson6.md",
+          "anchor": "lesson6-possessive-of-personal-pronouns",
+          "category": "possessive_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-d965ebcd86748274",
+      "chapter": 6,
+      "malayalam": "അവളുടെ",
+      "english": "her (familiar possessive)",
+      "origin": "reference_table",
+      "source": "docs/lesson6.md",
+      "source_anchor": "lesson6-possessive-of-personal-pronouns",
+      "category": "possessive_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson6.md",
+          "anchor": "lesson6-possessive-of-personal-pronouns",
+          "category": "possessive_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-48fd3e56f215c284",
+      "chapter": 6,
+      "malayalam": "അവരുടെ",
+      "english": "her (honorific possessive)",
+      "origin": "reference_table",
+      "source": "docs/lesson6.md",
+      "source_anchor": "lesson6-possessive-of-personal-pronouns",
+      "category": "possessive_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson6.md",
+          "anchor": "lesson6-possessive-of-personal-pronouns",
+          "category": "possessive_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-8b1d8219a62351bf",
+      "chapter": 6,
+      "malayalam": "നമ്മുടെ",
+      "english": "our (including the listener)",
+      "origin": "reference_table",
+      "source": "docs/lesson6.md",
+      "source_anchor": "lesson6-possessive-of-personal-pronouns",
+      "category": "possessive_pronoun",
+      "study": true,
+      "audio": [],
+      "variants": [
+        "നമ്മളുടെ"
+      ],
+      "references": [
+        {
+          "source": "docs/lesson6.md",
+          "anchor": "lesson6-possessive-of-personal-pronouns",
+          "category": "possessive_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-27bab4877154c80b",
+      "chapter": 6,
+      "malayalam": "ഞങ്ങളുടെ",
+      "english": "our (excluding the listener)",
+      "origin": "reference_table",
+      "source": "docs/lesson6.md",
+      "source_anchor": "lesson6-possessive-of-personal-pronouns",
+      "category": "possessive_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson6.md",
+          "anchor": "lesson6-possessive-of-personal-pronouns",
+          "category": "possessive_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-02a1c29233bc21fa",
+      "chapter": 6,
+      "malayalam": "നിങ്ങളുടെ",
+      "english": "your (plural possessive)",
+      "origin": "reference_table",
+      "source": "docs/lesson6.md",
+      "source_anchor": "lesson6-possessive-of-personal-pronouns",
+      "category": "possessive_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson6.md",
+          "anchor": "lesson6-possessive-of-personal-pronouns",
+          "category": "possessive_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-fc212d955aa10962",
+      "chapter": 6,
+      "malayalam": "അവരുടെ",
+      "english": "their (possessive)",
+      "origin": "reference_table",
+      "source": "docs/lesson6.md",
+      "source_anchor": "lesson6-possessive-of-personal-pronouns",
+      "category": "possessive_pronoun",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/lesson6.md",
+          "anchor": "lesson6-possessive-of-personal-pronouns",
+          "category": "possessive_pronoun"
+        }
+      ]
+    },
+    {
+      "id": "moag-22-2df7c78ce3294ebb",
+      "chapter": 22,
+      "malayalam": "എപ്പോഴെങ്കിലും",
+      "english": "sometime, any time at all",
+      "origin": "reference_table",
+      "source": "docs/lesson22.md",
+      "source_anchor": "lesson22-a-one-piece-indefinite-pronouns",
+      "category": "indefinite",
+      "study": true,
+      "audio": [],
+      "variants": [
+        "എപ്പോഴായാലും"
+      ],
+      "references": [
+        {
+          "source": "docs/lesson22.md",
+          "anchor": "lesson22-a-one-piece-indefinite-pronouns",
+          "category": "indefinite"
+        }
+      ]
+    },
+    {
+      "id": "moag-22-0a71ba7258263ced",
+      "chapter": 22,
+      "malayalam": "എന്നെങ്കിലും",
+      "english": "some day, any day at all",
+      "origin": "reference_table",
+      "source": "docs/lesson22.md",
+      "source_anchor": "lesson22-a-one-piece-indefinite-pronouns",
+      "category": "indefinite",
+      "study": true,
+      "audio": [],
+      "variants": [
+        "എന്നായാലും"
+      ],
+      "references": [
+        {
+          "source": "docs/lesson22.md",
+          "anchor": "lesson22-a-one-piece-indefinite-pronouns",
+          "category": "indefinite"
+        }
+      ]
+    },
+    {
+      "id": "moag-22-cc29d685776dd0bb",
+      "chapter": 22,
+      "malayalam": "എവിടെയെങ്കിലും",
+      "english": "somewhere, any where at all",
+      "origin": "reference_table",
+      "source": "docs/lesson22.md",
+      "source_anchor": "lesson22-a-one-piece-indefinite-pronouns",
+      "category": "indefinite",
+      "study": true,
+      "audio": [],
+      "variants": [
+        "എവിടെയായാലും"
+      ],
+      "references": [
+        {
+          "source": "docs/lesson22.md",
+          "anchor": "lesson22-a-one-piece-indefinite-pronouns",
+          "category": "indefinite"
+        }
+      ]
+    },
+    {
+      "id": "moag-22-d9d2f0c410468894",
+      "chapter": 22,
+      "malayalam": "എങ്ങോട്ടെങ്കിലും",
+      "english": "to somewhere, to anywhere at all",
+      "origin": "reference_table",
+      "source": "docs/lesson22.md",
+      "source_anchor": "lesson22-a-one-piece-indefinite-pronouns",
+      "category": "indefinite",
+      "study": true,
+      "audio": [],
+      "variants": [
+        "എങ്ങോട്ടായാലും"
+      ],
+      "references": [
+        {
+          "source": "docs/lesson22.md",
+          "anchor": "lesson22-a-one-piece-indefinite-pronouns",
+          "category": "indefinite"
+        }
+      ]
+    },
+    {
+      "id": "moag-22-2b050928f26ad535",
+      "chapter": 22,
+      "malayalam": "എത്രയെങ്കിലും",
+      "english": "some amount (number), any amount (number) at all",
+      "origin": "reference_table",
+      "source": "docs/lesson22.md",
+      "source_anchor": "lesson22-a-one-piece-indefinite-pronouns",
+      "category": "indefinite",
+      "study": true,
+      "audio": [],
+      "variants": [
+        "എത്രയായാലും"
+      ],
+      "references": [
+        {
+          "source": "docs/lesson22.md",
+          "anchor": "lesson22-a-one-piece-indefinite-pronouns",
+          "category": "indefinite"
+        }
+      ]
+    },
+    {
+      "id": "moag-22-aabc0fcbd6e47ab7",
+      "chapter": 22,
+      "malayalam": "എങ്ങനെയെങ്കിലും",
+      "english": "somehow, any way at all or anyhow",
+      "origin": "reference_table",
+      "source": "docs/lesson22.md",
+      "source_anchor": "lesson22-a-one-piece-indefinite-pronouns",
+      "category": "indefinite",
+      "study": true,
+      "audio": [],
+      "variants": [
+        "എങ്ങനെയായാലും"
+      ],
+      "references": [
+        {
+          "source": "docs/lesson22.md",
+          "anchor": "lesson22-a-one-piece-indefinite-pronouns",
+          "category": "indefinite"
+        }
+      ]
+    },
+    {
+      "id": "moag-22-ad5576321e783928",
+      "chapter": 22,
+      "malayalam": "ഏതെങ്കിലും",
+      "english": "some item (thing), any item (thing) at all",
+      "origin": "reference_table",
+      "source": "docs/lesson22.md",
+      "source_anchor": "lesson22-a-one-piece-indefinite-pronouns",
+      "category": "indefinite",
+      "study": true,
+      "audio": [],
+      "variants": [
+        "ഏതായാലും"
+      ],
+      "references": [
+        {
+          "source": "docs/lesson22.md",
+          "anchor": "lesson22-a-one-piece-indefinite-pronouns",
+          "category": "indefinite"
+        }
+      ]
+    },
+    {
+      "id": "moag-22-842f09af72d21e88",
+      "chapter": 22,
+      "malayalam": "എന്തെങ്കിലും",
+      "english": "something, any thing at all",
+      "origin": "reference_table",
+      "source": "docs/lesson22.md",
+      "source_anchor": "lesson22-a-one-piece-indefinite-pronouns",
+      "category": "indefinite",
+      "study": true,
+      "audio": [],
+      "variants": [
+        "എന്തായാലും"
+      ],
+      "references": [
+        {
+          "source": "docs/lesson22.md",
+          "anchor": "lesson22-a-one-piece-indefinite-pronouns",
+          "category": "indefinite"
+        }
+      ]
+    },
+    {
+      "id": "moag-22-7f22400e366ddd2a",
+      "chapter": 22,
+      "malayalam": "ആരെങ്കിലും",
+      "english": "someone, anyone at all",
+      "origin": "reference_table",
+      "source": "docs/lesson22.md",
+      "source_anchor": "lesson22-a-one-piece-indefinite-pronouns",
+      "category": "indefinite",
+      "study": true,
+      "audio": [],
+      "variants": [
+        "ആരായാലും"
+      ],
+      "references": [
+        {
+          "source": "docs/lesson22.md",
+          "anchor": "lesson22-a-one-piece-indefinite-pronouns",
+          "category": "indefinite"
+        }
+      ]
+    },
+    {
+      "id": "moag-22-2e56eae2bdbdeb93",
+      "chapter": 22,
+      "malayalam": "ആരുടെയെങ്കിലും",
+      "english": "someone's, anyone's at all",
+      "origin": "reference_table",
+      "source": "docs/lesson22.md",
+      "source_anchor": "lesson22-a-one-piece-indefinite-pronouns",
+      "category": "indefinite",
+      "study": true,
+      "audio": [],
+      "variants": [
+        "ആരുടെയായാലും"
+      ],
+      "references": [
+        {
+          "source": "docs/lesson22.md",
+          "anchor": "lesson22-a-one-piece-indefinite-pronouns",
+          "category": "indefinite"
+        }
+      ]
+    },
+    {
+      "id": "moag-22-cf28586125a27fc4",
+      "chapter": 22,
+      "malayalam": "ആരെയെങ്കിലും",
+      "english": "some one (object of a verb) anyone (object of a verb) at all",
+      "origin": "reference_table",
+      "source": "docs/lesson22.md",
+      "source_anchor": "lesson22-a-one-piece-indefinite-pronouns",
+      "category": "indefinite",
+      "study": true,
+      "audio": [],
+      "variants": [
+        "ആരെയായാലും"
+      ],
+      "references": [
+        {
+          "source": "docs/lesson22.md",
+          "anchor": "lesson22-a-one-piece-indefinite-pronouns",
+          "category": "indefinite"
+        }
+      ]
+    },
+    {
+      "id": "moag-22-4d58250d90b8a9f0",
+      "chapter": 22,
+      "malayalam": "ആരോടെങ്കിലും",
+      "english": "to someone (addressive), to anyone at all",
+      "origin": "reference_table",
+      "source": "docs/lesson22.md",
+      "source_anchor": "lesson22-a-one-piece-indefinite-pronouns",
+      "category": "indefinite",
+      "study": true,
+      "audio": [],
+      "variants": [
+        "ആരോടായാലും"
+      ],
+      "references": [
+        {
+          "source": "docs/lesson22.md",
+          "anchor": "lesson22-a-one-piece-indefinite-pronouns",
+          "category": "indefinite"
+        }
+      ]
+    },
+    {
+      "id": "moag-22-fa9216b2ed7423e5",
+      "chapter": 22,
+      "malayalam": "ആരിലെങ്കിലും",
+      "english": "in someone, in anyone at all",
+      "origin": "reference_table",
+      "source": "docs/lesson22.md",
+      "source_anchor": "lesson22-a-one-piece-indefinite-pronouns",
+      "category": "indefinite",
+      "study": true,
+      "audio": [],
+      "variants": [
+        "ആരിലായാലും"
+      ],
+      "references": [
+        {
+          "source": "docs/lesson22.md",
+          "anchor": "lesson22-a-one-piece-indefinite-pronouns",
+          "category": "indefinite"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-9f880a5995c2ff65",
+      "chapter": 6,
+      "malayalam": "പ്രകാരം",
+      "english": "according to, in (this) manner (postposition; after a nominative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-nominative",
+      "category": "postposition",
+      "study": true,
+      "audio": [],
+      "notes": [
+        "Note that the final -ം of the preceding noun drops"
+      ],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-nominative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-1ef0f5a0758a7dd3",
+      "chapter": 6,
+      "malayalam": "അനുസരിച്ച്",
+      "english": "according to (postposition; after a nominative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-nominative",
+      "category": "postposition",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-nominative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-7000e9fd902aa1d1",
+      "chapter": 6,
+      "malayalam": "തമ്മിൽ",
+      "english": "together, one another (postposition; after a nominative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-nominative",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-nominative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-faa22210c3c13d4e",
+      "chapter": 6,
+      "malayalam": "ഇല്ലാതെ",
+      "english": "without, except, besides (postposition; after a nominative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-nominative",
+      "category": "postposition",
+      "study": true,
+      "audio": [],
+      "variants": [
+        "അല്ലാതെ",
+        "ഒഴികെ"
+      ],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-nominative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-b78f81477905498a",
+      "chapter": 6,
+      "malayalam": "നിമിത്തം",
+      "english": "for the sake of, on account of (postposition; after a nominative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-nominative",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-nominative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-5ca528746ca8594c",
+      "chapter": 6,
+      "malayalam": "മുതൽ",
+      "english": "from (postposition; after a nominative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-nominative",
+      "category": "postposition",
+      "study": true,
+      "audio": [],
+      "variants": [
+        "തൊട്ട്"
+      ],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-nominative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-30822fb88cb5236b",
+      "chapter": 6,
+      "malayalam": "വരെ",
+      "english": "till, until (postposition; after a nominative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-nominative",
+      "category": "postposition",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-nominative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-f66e944a118b00e7",
+      "chapter": 6,
+      "malayalam": "പോലെ",
+      "english": "like (postposition; after a nominative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-nominative",
+      "category": "postposition",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-nominative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-ee92087767659149",
+      "chapter": 6,
+      "malayalam": "കൂടാതെ",
+      "english": "besides (with inanimate nouns) (postposition; after a nominative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-nominative",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-nominative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-db4ae43450294b17",
+      "chapter": 6,
+      "malayalam": "മദ്ധ്യത്തിൽ",
+      "english": "in between, in the middle (postposition; after a possessive noun; also dative in colloquial speech)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-possessive",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "variants": [
+        "നടുവിൽ"
+      ],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-possessive",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-0acee73440acdc33",
+      "chapter": 6,
+      "malayalam": "മദ്ധ്യ or നടുവിൽ",
+      "english": "between, midst, middle (postposition; after a possessive noun; also dative in colloquial speech)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-possessive",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "variants": [
+        "നടുവെ or നടുവേ"
+      ],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-possessive",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-642a1b3a1dcc0358",
+      "chapter": 6,
+      "malayalam": "അരികിൽ",
+      "english": "near, by (postposition; after a possessive noun; also dative in colloquial speech)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-possessive",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "variants": [
+        "അരികെ"
+      ],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-possessive",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-536652d4cd4427d4",
+      "chapter": 6,
+      "malayalam": "വക്കിൽ",
+      "english": "on the brim, edge (postposition; after a possessive noun; also dative in colloquial speech)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-possessive",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-possessive",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-5f65dccf58ccf343",
+      "chapter": 6,
+      "malayalam": "കരയിൽ",
+      "english": "on the shore, bank, side (postposition; after a possessive noun; also dative in colloquial speech)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-possessive",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-possessive",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-74840eab72e37924",
+      "chapter": 6,
+      "malayalam": "അറ്റത്ത്",
+      "english": "at the edge or end (postposition; after a possessive noun; also dative in colloquial speech)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-possessive",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-possessive",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-3d251ff648eb5b7b",
+      "chapter": 6,
+      "malayalam": "അവസാനം",
+      "english": "end (postposition; after a possessive noun; also dative in colloquial speech)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-possessive",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-possessive",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-eb969abdf101ec87",
+      "chapter": 6,
+      "malayalam": "അകത്ത്",
+      "english": "inside, within (postposition; after a possessive noun; also dative in colloquial speech)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-possessive",
+      "category": "postposition",
+      "study": true,
+      "audio": [],
+      "variants": [
+        "അകം",
+        "ഉള്ളിൽ"
+      ],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-possessive",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-971321bf3e2cb6fc",
+      "chapter": 6,
+      "malayalam": "മേലെ",
+      "english": "over, above, upon (postposition; after a possessive noun; also dative in colloquial speech)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-possessive",
+      "category": "postposition",
+      "study": true,
+      "audio": [],
+      "variants": [
+        "മീതെ",
+        "മേൽ",
+        "മുകളിൽ"
+      ],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-possessive",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-a13116e0692e63f0",
+      "chapter": 6,
+      "malayalam": "പുറത്ത്",
+      "english": "upon (postposition; after a possessive noun; also dative in colloquial speech)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-possessive",
+      "category": "postposition",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-possessive",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-a2f1e009eb907ecd",
+      "chapter": 6,
+      "malayalam": "കീഴെ",
+      "english": "beneath, below, under, down (postposition; after a possessive noun; also dative in colloquial speech)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-possessive",
+      "category": "postposition",
+      "study": true,
+      "audio": [],
+      "variants": [
+        "കീഴിൽ",
+        "താഴെ"
+      ],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-possessive",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-cb3e396130f4ca89",
+      "chapter": 6,
+      "malayalam": "അടിയിൽ",
+      "english": "at the bottom, under (postposition; after a possessive noun; also dative in colloquial speech)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-possessive",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-possessive",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-9e72bdec41c3adfd",
+      "chapter": 6,
+      "malayalam": "വെളിയിൽ",
+      "english": "outside (postposition; after a possessive noun; also dative in colloquial speech)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-possessive",
+      "category": "postposition",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-possessive",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-d4257e58631b4448",
+      "chapter": 6,
+      "malayalam": "അടുത്ത്",
+      "english": "near by, by (postposition; after a possessive noun; also dative in colloquial speech)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-possessive",
+      "category": "postposition",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-possessive",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-437de08809c451a0",
+      "chapter": 6,
+      "malayalam": "സമീപം",
+      "english": "nearby, by (postposition; after a possessive noun; also dative in colloquial speech)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-possessive",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "variants": [
+        "സമീപെ",
+        "സമീപത്ത്"
+      ],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-possessive",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-8ea1162a972bf9e7",
+      "chapter": 6,
+      "malayalam": "മുമ്പെ",
+      "english": "before, in front of, in the presence of (postposition; after a possessive noun; also dative in colloquial speech)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-possessive",
+      "category": "postposition",
+      "study": true,
+      "audio": [],
+      "variants": [
+        "മുമ്പാകെ",
+        "മുമ്പിൽ"
+      ],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-possessive",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-2444fd74f59adc8b",
+      "chapter": 6,
+      "malayalam": "പിമ്പെ",
+      "english": "behind (postposition; after a possessive noun; also dative in colloquial speech)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-possessive",
+      "category": "postposition",
+      "study": true,
+      "audio": [],
+      "variants": [
+        "പിമ്പിൽ",
+        "പുറകിൽ",
+        "പുറകെ"
+      ],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-possessive",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-56be8af0aa7a5d6e",
+      "chapter": 6,
+      "malayalam": "പിന്നിൽ",
+      "english": "behind, after, afterwards, following (postposition; after a possessive noun; also dative in colloquial speech)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-possessive",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "variants": [
+        "പിന്നാലെ"
+      ],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-possessive",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-9863aa65ae45bcdd",
+      "chapter": 6,
+      "malayalam": "അപ്പുറത്ത്",
+      "english": "on that side (postposition; after a possessive noun; also dative in colloquial speech)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-possessive",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-possessive",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-ca168d6b2e5dc1f1",
+      "chapter": 6,
+      "malayalam": "ഇപ്പുറത്ത്",
+      "english": "on this side (postposition; after a possessive noun; also dative in colloquial speech)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-possessive",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-possessive",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-3745571c830df39f",
+      "chapter": 6,
+      "malayalam": "മറുപുറത്ത്",
+      "english": "on the other or opposite side (postposition; after a possessive noun; also dative in colloquial speech)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-possessive",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-possessive",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-d69503d3f14d9558",
+      "chapter": 6,
+      "malayalam": "മുക്കിൽ",
+      "english": "at the corner (postposition; after a possessive noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-possessive",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "variants": [
+        "മൂലയിൽ"
+      ],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-possessive",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-25c8a72a316a27f2",
+      "chapter": 6,
+      "malayalam": "സീമയിൽ",
+      "english": "at the boundary (postposition; after a possessive noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-possessive",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-possessive",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-a70f09006a793adc",
+      "chapter": 6,
+      "malayalam": "ചുറ്റും",
+      "english": "all around, around (postposition; after a possessive noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-possessive",
+      "category": "postposition",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-possessive",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-05557ce901f49b3e",
+      "chapter": 6,
+      "malayalam": "വശത്ത്",
+      "english": "on the side (postposition; after a possessive noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-possessive",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-possessive",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-02733f62350fbc43",
+      "chapter": 6,
+      "malayalam": "ഇടത്ത്",
+      "english": "on the left side (postposition; after a possessive noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-possessive",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-possessive",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-13bfa9b898e5a56d",
+      "chapter": 6,
+      "malayalam": "വലത്ത്",
+      "english": "on the right side (postposition; after a possessive noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-possessive",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-possessive",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-730a164fd942b05d",
+      "chapter": 6,
+      "malayalam": "സമാനം",
+      "english": "equal to (postposition; after a possessive noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-possessive",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "variants": [
+        "സമം"
+      ],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-possessive",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-a7132e5d59fcbc70",
+      "chapter": 6,
+      "malayalam": "കൂടെ",
+      "english": "along with (postposition; after a possessive noun; also dative in colloquial speech)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-possessive",
+      "category": "postposition",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-possessive",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-b2b573b2392c5c16",
+      "chapter": 6,
+      "malayalam": "പക്കൽ",
+      "english": "by, with (postposition; after a possessive noun; also dative in colloquial speech)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-possessive",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-possessive",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-cdde74ab134dd6cd",
+      "chapter": 6,
+      "malayalam": "നേരെ",
+      "english": "against, towards, opposite to (postposition; after a possessive noun; also dative in colloquial speech)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-possessive",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-possessive",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-9dd793be1734e852",
+      "chapter": 6,
+      "malayalam": "ഇടയിൽ",
+      "english": "amongst (postposition; after a possessive noun; also dative in colloquial speech)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-possessive",
+      "category": "postposition",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-possessive",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-a6380179baedad29",
+      "chapter": 6,
+      "malayalam": "അപ്പുറം",
+      "english": "ago (postposition; after a dative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-dative",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-dative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-3210688c80584dcd",
+      "chapter": 6,
+      "malayalam": "വേണ്ടി",
+      "english": "for, for the sake of (postposition; after a dative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-dative",
+      "category": "postposition",
+      "study": true,
+      "audio": [],
+      "notes": [
+        "also used with infinitive"
+      ],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-dative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-0650052e0f141534",
+      "chapter": 6,
+      "malayalam": "പകരം",
+      "english": "instead of (postposition; after a dative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-dative",
+      "category": "postposition",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-dative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-064a1baef306ce87",
+      "chapter": 6,
+      "malayalam": "എതിരെ",
+      "english": "against, opposite to (postposition; after a dative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-dative",
+      "category": "postposition",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-dative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-12c5b7b7706a96bc",
+      "chapter": 6,
+      "malayalam": "ശേഷം",
+      "english": "after (postposition; after a dative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-dative",
+      "category": "postposition",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-dative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-ac6740e054d4dc7f",
+      "chapter": 6,
+      "malayalam": "മുമ്പ്",
+      "english": "before (postposition; after a dative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-dative",
+      "category": "postposition",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-dative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-f248acc6a448253e",
+      "chapter": 6,
+      "malayalam": "ഇടക്ക്",
+      "english": "during (postposition; after a dative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-dative",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-dative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-e5e17c6c719cb47b",
+      "chapter": 6,
+      "malayalam": "തക്ക",
+      "english": "according to (postposition; after a dative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-dative",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-dative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-3048cad842be814f",
+      "chapter": 6,
+      "malayalam": "തക്കവണ്ണം",
+      "english": "suitable to (postposition; after a dative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-dative",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "variants": [
+        "ഒത്ത",
+        "ഒത്തവണ്ണം"
+      ],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-dative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-beb0675a3c343835",
+      "chapter": 6,
+      "malayalam": "തക്കപോലെ",
+      "english": "according to (postposition; after a dative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-dative",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-dative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-8d48fe9287c83c1b",
+      "chapter": 6,
+      "malayalam": "ഒത്തപോലെ",
+      "english": "suitable to (postposition; after a dative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-dative",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-dative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-45e6e86d1b3047f8",
+      "chapter": 6,
+      "malayalam": "ചുറ്റും",
+      "english": "around, around about (postposition; after a dative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-dative",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-dative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-15b03d82e0fdab6a",
+      "chapter": 6,
+      "malayalam": "കൂടാതെ",
+      "english": "in addition to, besides (with animate nouns only) (postposition; after a accusative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-accusative",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-accusative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-1d275059da115cff",
+      "chapter": 6,
+      "malayalam": "-കാൾ",
+      "english": "than- (postposition; after a accusative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-accusative",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-accusative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-ced22a5be4761736",
+      "chapter": 6,
+      "malayalam": "പോലെ",
+      "english": "like, as (with animate nouns only) (postposition; after a accusative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-accusative",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-accusative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-7dfec21fb8bc71da",
+      "chapter": 6,
+      "malayalam": "കൊണ്ട്",
+      "english": "with, by means of (postposition; after a accusative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-accusative",
+      "category": "postposition",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-accusative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-a46bcd270f4ca842",
+      "chapter": 6,
+      "malayalam": "പറ്റി",
+      "english": "about, concerning (postposition; after a accusative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-accusative",
+      "category": "postposition",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-accusative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-a3301811dd283fc0",
+      "chapter": 6,
+      "malayalam": "-ഓളം",
+      "english": "as much as; as great as; as far as, until (postposition; after a accusative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-accusative",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "notes": [
+        "note that the accus. ending; -എ+ഓ=ഓ"
+      ],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-accusative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-c9e9428e5639217f",
+      "chapter": 6,
+      "malayalam": "കുറിച്ച്",
+      "english": "about, of, concerning, for the sake of (postposition; after a accusative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-accusative",
+      "category": "postposition",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-accusative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-5c239ebdb0d8f277",
+      "chapter": 6,
+      "malayalam": "വെച്ച്",
+      "english": "at, in (postposition; after a locative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-locative",
+      "category": "postposition",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-locative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-37cadc1b3967ae7c",
+      "chapter": 6,
+      "malayalam": "കൂടി",
+      "english": "through, along (postposition; after a locative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-locative",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-locative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-e8551f7997389efa",
+      "chapter": 6,
+      "malayalam": "നിന്ന്",
+      "english": "from (postposition; after a locative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-locative",
+      "category": "postposition",
+      "study": true,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-locative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-d0808a30e8791f35",
+      "chapter": 6,
+      "malayalam": "-ഏക്ക്",
+      "english": "towards, into (postposition; after a locative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-locative",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-locative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-e2e579214e1cab98",
+      "chapter": 6,
+      "malayalam": "-ഓളം",
+      "english": "as much as; as great as; as far as; until (postposition; after a locative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-locative",
+      "category": "postposition",
+      "study": false,
+      "audio": [],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-locative",
+          "category": "postposition"
+        }
+      ]
+    },
+    {
+      "id": "moag-06-3cc8a9d730d1ed8e",
+      "chapter": 6,
+      "malayalam": "കൂടെ",
+      "english": "with (postposition; after a associative noun)",
+      "origin": "reference_table",
+      "source": "docs/appendix-d.md",
+      "source_anchor": "appendix-d-associative",
+      "category": "postposition",
+      "study": true,
+      "audio": [],
+      "variants": [
+        "കൂടി"
+      ],
+      "references": [
+        {
+          "source": "docs/appendix-d.md",
+          "anchor": "appendix-d-associative",
+          "category": "postposition"
         }
       ]
     }
