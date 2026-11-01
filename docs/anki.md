@@ -11,6 +11,18 @@ English prompts omit Malayalam spelling and synonym hints. Names include their
 English spellings, such as “Raman (male name)”.
 Spelling variants and related-form explanations appear as lesson notes after
 revealing the answer in either direction.
+English → Malayalam questions include sense or grammar cues where needed. The
+main meaning appears prominently, with usage and grammar cues on smaller lines
+below it. Some
+broad meanings have several valid answers; these are listed as **Also accept**
+after revealing the answer. Count a listed alternative as correct for that prompt.
+The alternatives are specific to the card, not interchangeable in every sentence.
+A prompt requesting the dictionary/head form does not require the past tense or
+plural included as reference information on the answer.
+
+Pronoun labels distinguish familiar/non-honorific, neutral, and honorific usage.
+Familiar forms may express closeness or sound disrespectful depending on the
+relationship; see [Lesson 1, §1.6](lesson1.md#section-1-6).
 
 ## Start with one lesson
 

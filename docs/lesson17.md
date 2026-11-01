@@ -417,7 +417,7 @@ The verbs ഉണ്ട് and ആണ് have no separate remote past forms. They
 <a id="section-17-4"></a><!-- reading-anchor -->
 ### 17.4 Familiar and Formal Commands
 
-The polite command form made by adding -ഊ to the present stem of the verb was covered in [3.4](lesson3.md#section-3-4). This lesson's conversation contains examples of the familiar command form made by adding the echo vowel -ഉ to the present stem. Whereas polite command forms assume the use of the pronoun നിങ്ങൾ, familiar command forms are used only with those persons with whom the pronoun നീ is permitted. In modern Kerala life, there is a tendency to expand the territory of നിങ്ങൾ and its corresponding polite command forms and to restrict that of നീ and, hence, of its corresponding familiar command forms (see [1.6](lesson1.md#section-1-6)). Nevertheless, നീ is still generally used for younger siblings and for one's own children, but decreasingly for others who are clearly inferior in age or social status. It is probably safer not to use them with servants, especially adult ones, though many Keralites still do. All of the familiar command forms are regular except for a few very common verbs that have special short forms, e.g.
+The polite command form made by adding -ഊ to the present stem of the verb was covered in [3.4](lesson3.md#section-3-4). This lesson's conversation contains examples of the familiar command form made by adding the echo vowel -ഉ to the present stem. Whereas polite command forms assume the use of the pronoun നിങ്ങൾ, familiar command forms are used only with those persons with whom the pronoun നീ is permitted. In modern Kerala life, there is a tendency to expand the territory of നിങ്ങൾ and its corresponding polite command forms and to restrict that of നീ and, hence, of its corresponding familiar command forms (see [1.6](lesson1.md#section-1-6)). Nevertheless, നീ is still generally used for younger siblings and for one's own children, but decreasingly for others who are clearly younger or in a subordinate social role. It is probably safer not to use them with servants, especially adult ones, though many Keralites still do. All of the familiar command forms are regular except for a few very common verbs that have special short forms, e.g.
 
 1. ഇവിടെ വാ. — “Come here.”
 2. അയാളുടെ കൂടെ പോ. — “Go with him.”
@@ -428,9 +428,9 @@ Complex verbs made from വരുക and പോകുക also show these forms a
 4. രണ്ട് കാപ്പി കൊണ്ടുവാ. — “Bring two coffees.”
 5. ഈ പ്ലേറ്റ് കൊണ്ടുപോ. — “Take away this plate.”
 
-> **Editorial note:** The following source paragraph has missing prose between നീ and “attention.” Section [1.6](lesson1.md#section-1-6) and the preceding paragraph explain which relationships allow നീ; the examples below illustrate the familiar address particles.
+> **Editorial note:** The source paragraph has missing prose between നീ and “attention”; this edition supplies a short connecting explanation. Section [1.6](lesson1.md#section-1-6) and the preceding paragraph explain which relationships allow നീ; the examples below illustrate the familiar address particles.
 
-These familiar commands are often used along with the particle എടാ for male or എടീ for female addressees. This, too, is limited to persons with whom നീ attention as “hey,” or it may be added to the end of any sentence as a marker of the intimate and/or superior relationship which exists between the speaker and the addressee. It can, therefore, carry a <!-- Source: PDF page 308; printed page 251. --> full range of possible meanings from endearment to derogation. Here are some examples with familiar commands:
+These familiar commands are often used along with the particle എടാ for male or എടീ for female addressees. This, too, is limited to persons with whom നീ is appropriate. It can attract attention as “hey,” or it may be added to the end of any sentence as a marker of the close relationship and/or authority which exists between the speaker and the addressee. It can, therefore, carry a <!-- Source: PDF page 308; printed page 251. --> full range of possible meanings from endearment to derogation. Here are some examples with familiar commands:
 
 6. അവിടെ ഇരിക്കെടീ (you fem.) — “Sit down there.”
 7. വേഗം നടക്കെടാ (you masc.) — “Walk fast.”
@@ -454,7 +454,7 @@ These command forms were traditionally used with persons of very high status and
 
     “Would your holiness please come in” (to a bishop).
 
-The desiderative verbform is quite often used as a command, more or less equivalent to the polite command form in -ഊ. It is sometimes used in situations where the speaker is somewhat superior to the addressee as a boss to an employee, a government officer to a clerk, or the like. Witness:
+The desiderative verbform is quite often used as a command, more or less equivalent to the polite command form in -ഊ. It is sometimes used in situations where the speaker is in a position of authority over the addressee as a boss to an employee, a government officer to a clerk, or the like. Witness:
 
 14. അയാളോട് നാളെ വരാൻ പറയണം. <!-- Source: PDF page 309; printed page 252. -->
 

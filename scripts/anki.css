@@ -9,6 +9,9 @@
     text-align: center;
     line-height: 1.6;
     padding: 20px;
+    max-width: 42rem;
+    margin: 0 auto;
+    overflow-wrap: anywhere;
 }
 
 .ml {
@@ -23,6 +26,56 @@
     margin: 16px 0;
 }
 
+.chapter {
+    max-width: 32rem;
+    margin: 12px auto 32px;
+    line-height: 1.5;
+}
+
+.prompt-main {
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 1.35;
+    margin: 0 auto;
+    max-width: 30ch;
+}
+
+.prompt-cue {
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 1.5;
+    max-width: 42ch;
+    margin: 8px auto 0;
+    opacity: .8;
+}
+
+.source {
+    text-align: left;
+    line-height: 1.6;
+    margin: 28px auto 16px;
+    max-width: 38rem;
+}
+
+.source > div { margin-bottom: 14px; }
+.alternatives ul { margin: 4px 0 0; padding-left: 24px; }
+.alternatives li {
+    font-family: MalayalamDeck, "Noto Sans Malayalam", sans-serif;
+    font-size: 22px;
+}
+
+@media (max-width: 480px) {
+    .card { padding: 16px; }
+    .chapter { font-size: 13px; margin-bottom: 24px; }
+    .prompt-main { font-size: 27px; }
+    .prompt-cue { font-size: 16px; }
+}
+
 .recording {
     margin: 16px 0;
 }
+
+/* The English field has separate meaning and recall blocks without changing
+   the published Anki field schema. Legacy plain-text English still renders. */
+.english-recall { display: none; }
+.recall-question .english-meaning { display: none; }
+.recall-question .english-recall { display: block; }

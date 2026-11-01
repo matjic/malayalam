@@ -318,7 +318,7 @@ Here the teacher is speaking directly to Leela, but following the common convent
 
 2. സാറിന്റെ കൈയ്യിൽ ഇരിക്കുന്നത് എന്താണ്?
 
-   “What's that in your (polite) hand?”
+   “What's that in your (plural or polite singular pronoun) hand?”
 
    (literally,....in the gentleman's hand).
 

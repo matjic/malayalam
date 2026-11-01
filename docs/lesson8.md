@@ -81,11 +81,11 @@
 | Malayalam | English | Audio |
 |---|---|---|
 | ഏയ് | hey | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_001.mp3" data-audio-label="ഏയ്" aria-label="Play ഏയ്" title="Play ഏയ്" aria-pressed="false">▶</button> |
-| തനിക്ക് | to you (familiar) (equal) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_002.mp3" data-audio-label="തനിക്ക്" aria-label="Play തനിക്ക്" title="Play തനിക്ക്" aria-pressed="false">▶</button> |
+| തനിക്ക് | to you (familiar singular; between peers) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_002.mp3" data-audio-label="തനിക്ക്" aria-label="Play തനിക്ക്" title="Play തനിക്ക്" aria-pressed="false">▶</button> |
 | രവിയെ | Ravi (direct object of verb) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_003.mp3" data-audio-label="രവിയെ" aria-label="Play രവിയെ" title="Play രവിയെ" aria-pressed="false">▶</button> |
 | ക്ലാസ് | class | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_004.mp3" data-audio-label="ക്ലാസ്" aria-label="Play ക്ലാസ്" title="Play ക്ലാസ്" aria-pressed="false">▶</button> |
 | പഠിക്കുന്ന | who or which studies (adjective) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_005.mp3" data-audio-label="പഠിക്കുന്ന" aria-label="Play പഠിക്കുന്ന" title="Play പഠിക്കുന്ന" aria-pressed="false">▶</button> |
-| താൻ | you (familiar) (equal) | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
+| താൻ | you (familiar singular; between peers) | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
 | ഇന്ന് | today | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_006.mp3" data-audio-label="ഇന്ന്" aria-label="Play ഇന്ന്" title="Play ഇന്ന്" aria-pressed="false">▶</button> |
 | കാണണം | want to see, must see, have to see | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_007.mp3" data-audio-label="കാണണം" aria-label="Play കാണണം" title="Play കാണണം" aria-pressed="false">▶</button> |
 | അവനോട് | to him (with verbs of telling and asking) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_08_word_008.mp3" data-audio-label="അവനോട്" aria-label="Play അവനോട്" title="Play അവനോട്" aria-pressed="false">▶</button> |

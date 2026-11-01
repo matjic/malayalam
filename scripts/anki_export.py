@@ -2,6 +2,8 @@
 import hashlib
 import html
 import json
+import re
+from collections import defaultdict
 from pathlib import Path
 import shutil
 import tempfile
@@ -15,19 +17,71 @@ PACKAGE_NAME = 'malayalam-moag.apkg'
 
 
 def english_for_card(entry, overrides):
-    meaning = overrides.get(entry['malayalam'], entry['english'])
+    meaning = overrides.get(entry['id'], {}).get('meaning', entry['english'])
     if any('\u0d00' <= char <= '\u0d7f' for char in meaning):
         raise ValueError(f"English flashcard text needs review: {entry['malayalam']}: {meaning}")
     return meaning
 
 
-def source_for_card(entry, source_url):
+def recall_for_card(entry, overrides):
+    return overrides.get(entry['id'], {}).get('recall', english_for_card(entry, overrides))
+
+
+def format_card_text(text):
+    """Separate trailing usage cues without breaking parentheses inside sentences."""
+    main, cues = text.strip(), []
+    while main.endswith(')'):
+        depth, start = 0, None
+        for index in range(len(main) - 1, -1, -1):
+            if main[index] == ')':
+                depth += 1
+            elif main[index] == '(':
+                depth -= 1
+                if depth == 0:
+                    start = index
+                    break
+        if start is None or not main[:start].strip():
+            break
+        cues.insert(0, main[start + 1:-1])
+        main = main[:start].rstrip()
+    # A semicolon within nested parentheses is part of that cue, not a new line.
+    lines = []
+    for cue in cues:
+        depth, start = 0, 0
+        for index, char in enumerate(cue):
+            if char == '(':
+                depth += 1
+            elif char == ')':
+                depth -= 1
+            elif char == ';' and depth == 0:
+                lines.append(cue[start:index].strip())
+                start = index + 1
+        lines.append(cue[start:].strip())
+    return ('<div class="prompt-main">' + html.escape(main) + '</div>'
+            + ''.join('<div class="prompt-cue">' + html.escape(line) + '</div>'
+                      for line in lines if line))
+
+
+def english_field_for_card(entry, overrides):
+    """Two display blocks preserve the published six-field model on reimport."""
+    return ('<div class="english-meaning">' + format_card_text(english_for_card(entry, overrides))
+            + '</div><div class="english-recall">' + format_card_text(recall_for_card(entry, overrides)) + '</div>')
+
+
+def source_for_card(entry, source_url, overrides):
     # Keep the original lesson gloss when it explains a Malayalam form. Source
     # is already answer-only in both templates; reuse it to preserve the existing
     # Anki note schema and make upgrades safe for previously imported decks.
     detail = ''
     if any('\u0d00' <= char <= '\u0d7f' for char in entry['english']):
         detail = '<div class="lesson-note">Lesson note: ' + html.escape(entry['english']) + '</div>'
+    study = overrides.get(entry['id'], {})
+    if study.get('alternatives'):
+        detail += ('<div class="alternatives"><div>Also accept:</div><ul>'
+                   + ''.join('<li lang="ml">' + html.escape(word) + '</li>'
+                             for word in study['alternatives']) + '</ul></div>')
+    if study.get('explanation'):
+        detail += '<div class="usage-note">' + html.escape(study['explanation']) + '</div>'
     return detail + f'<a href="{html.escape(source_url, quote=True)}">Open lesson</a>'
 
 
@@ -37,7 +91,7 @@ def stable_id(text):
 
 def load_inputs(root):
     data = json.loads((root / 'data/vocabulary/moag.json').read_text(encoding='utf-8'))
-    overrides = json.loads((root / 'data/vocabulary/anki-english.json').read_text(encoding='utf-8'))
+    overrides = json.loads((root / 'data/vocabulary/study.json').read_text(encoding='utf-8'))
     if data.get('schema_version') != 1:
         raise ValueError('Unsupported vocabulary schema_version')
     chapters = {}
@@ -46,9 +100,9 @@ def load_inputs(root):
         if not isinstance(number, int) or number < 1 or number in chapters:
             raise ValueError(f'Invalid or duplicate chapter number: {number}')
         chapters[number] = chapter
-    unused = set(overrides) - {entry['malayalam'] for entry in data['entries']}
+    unused = set(overrides) - {entry['id'] for entry in data['entries']}
     if unused:
-        raise ValueError(f'Unused Anki English overrides: {sorted(unused)}')
+        raise ValueError(f'Unused study entries: {sorted(unused)}')
     ids = set()
     for entry in data['entries']:
         if not entry['id'] or entry['id'] in ids:
@@ -56,9 +110,50 @@ def load_inputs(root):
         ids.add(entry['id'])
         if entry['chapter'] not in chapters:
             raise ValueError(f"Unknown chapter for {entry['id']}: {entry['chapter']}")
+        study = overrides.get(entry['id'], {})
+        if not isinstance(study, dict) or set(study) - {'meaning', 'recall', 'explanation', 'alternatives'}:
+            raise ValueError(f"Invalid study metadata: {entry['id']}")
+        for field in ('meaning', 'recall', 'explanation'):
+            if field in study and (not isinstance(study[field], str) or not study[field].strip()):
+                raise ValueError(f"Empty or invalid {field}: {entry['id']}")
         if not entry['malayalam'].strip() or not english_for_card(entry, overrides).strip():
             raise ValueError(f"Empty flashcard text: {entry['id']}")
+        prompt = recall_for_card(entry, overrides)
+        if not prompt.strip() or any('\u0d00' <= c <= '\u0d7f' for c in prompt):
+            raise ValueError(f"Recall prompt needs review: {entry['id']}")
+        alternatives = study.get('alternatives', [])
+        if not isinstance(alternatives, list) or any(not isinstance(a, str) or not a.strip() for a in alternatives):
+            raise ValueError(f"Invalid alternatives: {entry['id']}")
+    audit_recall(data['entries'], overrides)
     return data, overrides, chapters
+
+
+def audit_recall(entries, study):
+    """Reject incomplete fronts and collisions lacking reciprocal accepted answers.
+
+    Normalization catches punctuation-only differences. Semantic overlaps still
+    require editorial review; a passing check is not a linguistic certification.
+    """
+    groups = defaultdict(list)
+    for entry in entries:
+        prompt = recall_for_card(entry, study)
+        normalized = re.sub(r'[^\w]+', ' ', prompt.casefold()).strip()
+        if not normalized or re.fullmatch(r'(?:n|adj|adv|v|noun|verb)', normalized):
+            raise ValueError(f"Incomplete recall prompt: {entry['id']}")
+        if re.search(r'\b(?:inferior|superior)s?\b', english_for_card(entry, study), re.I):
+            raise ValueError(f"Social ranking label needs review: {entry['id']}")
+        groups[normalized].append(entry)
+    collisions = []
+    for prompt, group in groups.items():
+        words = {entry['malayalam'] for entry in group}
+        if len(words) < 2:
+            continue
+        for entry in group:
+            accepted = set(study.get(entry['id'], {}).get('alternatives', [])) | {entry['malayalam']}
+            if not words <= accepted:
+                raise ValueError(f"Ambiguous recall prompt: {prompt}: {entry['id']}")
+        collisions.append(dict(prompt=prompt, entries=[e['id'] for e in group]))
+    return collisions
 
 
 def create_model():
@@ -74,8 +169,8 @@ def create_model():
             },
             {
                 'name': 'English → Malayalam',
-                'qfmt': '<div class="chapter">{{Chapter}}</div><div>{{English}}</div>',
-                'afmt': '{{FrontSide}}<hr id="answer"><div class="ml" lang="ml">{{Malayalam}}</div>{{Audio}}<div class="source">{{Source}}</div>',
+                'qfmt': '<div class="chapter">{{Chapter}}</div><div class="recall-question">{{English}}</div>',
+                'afmt': '{{FrontSide}}<hr id="answer"><div class="ml" lang="ml">{{Malayalam}}</div><div>{{English}}</div>{{Audio}}<div class="source">{{Source}}</div>',
             },
         ],
         css=Path(__file__).with_name('anki.css').read_text(encoding='utf-8'),
@@ -129,8 +224,8 @@ def create_decks(data, overrides, chapters):
         source_url = 'https://matjic.github.io/malayalam/#/lesson' + str(entry['chapter'])
         note = genanki.Note(
             model=model, guid=genanki.guid_for(entry['id']), due=position,
-            fields=[entry['id'], html.escape(entry['malayalam']), html.escape(english_for_card(entry, overrides)),
-                    sounds, html.escape(chapter['title']), source_for_card(entry, source_url)],
+            fields=[entry['id'], html.escape(entry['malayalam']), english_field_for_card(entry, overrides),
+                    sounds, html.escape(chapter['title']), source_for_card(entry, source_url, overrides)],
             tags=[f'moag::lesson_{entry["chapter"]:02}', 'moag::' + entry['origin'],
                   'audio::available' if sounds else 'audio::unavailable'])
         decks[entry['chapter']].add_note(note)

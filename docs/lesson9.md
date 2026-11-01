@@ -464,7 +464,7 @@ Witness:
 
 2. അവർ ഡാക്ടർ ആയിരിക്കുന്നു.
 
-   “She (respected) has become a doctor.”
+   “She (honorific) has become a doctor.”
 
 3. അത് പഴയതായിരിക്കുന്നു.
 

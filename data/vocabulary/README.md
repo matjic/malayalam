@@ -12,15 +12,60 @@ the tables; the website needs no runtime JSON fetching or new Markdown syntax.
 The Anki exporter consumes the catalog rather than parsing the tables again.
 This is a course vocabulary catalog, not a general Malayalam dictionary.
 
-`anki-english.json` supplies reviewed English wording for flashcards, keyed by
-the catalog's exact Malayalam form. It removes Malayalam spelling, synonym, and
-grammar hints from the English side and includes English spellings for names.
-The exporter rejects English text containing Malayalam script so new hints cannot
-slip into a rebuilt deck. These overrides leave catalog entries and their IDs
-unchanged, allowing existing Anki notes to update without losing review progress.
-Original glosses containing Malayalam spellings or related forms are retained as
-answer-only lesson notes in both directions. They share the existing `Source`
-field with the lesson link, preserving the note schema for existing imports.
+`study.json` contains editorial study metadata keyed by stable catalog entry ID,
+so a spelling used in different lessons or senses can have different prompts:
+
+- `meaning`: optional English answer wording, including English spellings for names.
+- `recall`: optional English → Malayalam question; defaults to the meaning.
+- `alternatives`: other Malayalam answers accepted for this specific prompt.
+- `explanation`: usage or grammar guidance shown after revealing the answer.
+
+Correct incomplete or inaccurate meanings in the lesson table first, then rebuild
+the catalog and glossary. Put exercise-specific instructions in `study.json`.
+Do not invent a register distinction just to make synonyms unique: use a natural
+context or accept alternatives for a broad prompt. Grammar constructions and
+inflected forms need explicit cues about the requested form. Parenthesized past
+tenses and plurals on the Malayalam answer remain reference information unless
+explicitly requested. Anki uses self-grading; alternatives are displayed guidance,
+not an automatic answer matcher.
+
+This replaces the former spelling-keyed `anki-english.json`. The English Anki
+field stores separate `english-meaning` and `english-recall` display blocks; the
+card template and CSS select the appropriate block. This preserves the published
+six-field model, template order, GUIDs, and review history. It also keeps detailed
+recall instructions off the visible Malayalam → English answer. Edit metadata
+and rebuild rather than editing these generated HTML blocks manually.
+Trailing parenthetical usage cues render below the main meaning in smaller type.
+Semicolons inside a cue separate lines; nested parentheses and parentheses inside
+sentences are preserved. This formatting applies to both English prompts and
+English answers. Accepted alternatives render as separate list items.
+
+The exporter rejects Malayalam script in English meanings and recall prompts.
+Original glosses containing Malayalam forms, accepted alternatives, and usage
+notes appear only after revealing the answer. Original glosses and editorial
+notes share the existing `Source` field with the lesson link.
+
+`python scripts/audit-vocabulary-prompts.py` checks every entry and reports shared
+prompts whose answers are explicitly accepted. Checks ignore punctuation and case,
+reject incomplete fronts such as “(n.)”, and require reciprocal alternatives when
+different Malayalam entries share a prompt. They run during every deck build and
+in the exporter tests. Different wording can still conceal a meaning overlap;
+these checks do not replace linguistic review.
+
+The initial recall review covered the 25-lesson catalog, exact and punctuation-only
+collisions, shared short English glosses, pronoun/address distinctions, commands,
+and head forms versus inflected forms. Metadata clarifies those cases rather than
+claiming that all possible English-to-Malayalam translations are unique.
+
+Pronoun descriptions use familiar/non-honorific, neutral, and honorific rather
+than labeling people “inferior” or “superior.” Lesson 1 explains that familiarity,
+age, social distance, and deference interact, and that familiar forms can be
+inappropriate where a polite form is expected. These are descriptions of usage,
+not personal worth. The original course's explanations are retained in the source
+PDF; revised teaching descriptions are identified editorially in the lessons.
+The [WALS Malayalam politeness notes](https://wals.info/valuesets/45A-mym), citing
+Asher and Kumari (1997), corroborate the importance of both familiarity and regional
+variation; they do not support treating every familiar form as universally rude.
 
 ## Import and study
 
@@ -106,8 +151,7 @@ Keep the model identity, field order, template order, deck identity keys, and en
 GUID inputs stable so reimports update existing notes. Chapter lookups use their
 numbers rather than JSON array positions. Counts are derived from the catalog;
 audio checksums, duplicate IDs, media name collisions, and unused English overrides
-fail before package generation. No catalog or English-override schema migration
-is required for this refactor.
+fail before package generation. Study metadata changes do not require an Anki schema migration.
 
 ## Site glossary
 

@@ -10,18 +10,20 @@
 <a id="lesson2-a-personal-pronouns"></a><!-- reading-anchor -->
 ### A. Personal Pronouns
 
+> **Learner note (editorial):** Familiar, non-honorific forms do not mark deference and can be inappropriate without an established familiar relationship. Honorific forms mark respect. These labels describe usage, not the value of the person. See [Lesson 1, §1.6](lesson1.md#section-1-6).
+
 **Singular:**
 
 | Malayalam | English |
 |---|---|
 | ഞാൻ | I |
-| നീ | you (familiar, inferior to speaker) |
+| നീ | you (familiar singular, non-honorific) |
 | നിങ്ങൾ | you (polite) |
-| അവൻ, ഇവൻ | he (inferior to speaker) |
-| അയാൾ, ഇയാൾ | he (equal to speaker) |
-| അദ്ദേഹം, ഇദ്ദേഹം | he (respected) |
-| അവൾ, ഇവൾ | she (equal / inferior to speaker) |
-| അവർ, ഇവർ | she (respected) |
+| അവൻ, ഇവൻ | he (familiar, non-honorific) |
+| അയാൾ, ഇയാൾ | he (neutral, non-honorific) |
+| അദ്ദേഹം, ഇദ്ദേഹം | he (honorific) |
+| അവൾ, ഇവൾ | she (familiar, non-honorific) |
+| അവർ, ഇവർ | she (honorific) |
 
 **Plural:**
 
@@ -94,7 +96,7 @@
 | Malayalam | English | Audio |
 |---|---|---|
 | സാർ | you (respectful), gentleman, sir | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_001.mp3" data-audio-label="സാർ" aria-label="Play സാർ" title="Play സാർ" aria-pressed="false">▶</button> |
-| സാറിന്റെ | your (respectful), gentleman’s | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_002.mp3" data-audio-label="സാറിന്റെ" aria-label="Play സാറിന്റെ" title="Play സാറിന്റെ" aria-pressed="false">▶</button> |
+| സാറിന്റെ | sir’s; your (addressing someone as “sir”) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_002.mp3" data-audio-label="സാറിന്റെ" aria-label="Play സാറിന്റെ" title="Play സാറിന്റെ" aria-pressed="false">▶</button> |
 | ആഫീസ് | office | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_003.mp3" data-audio-label="ആഫീസ്" aria-label="Play ആഫീസ്" title="Play ആഫീസ്" aria-pressed="false">▶</button> |
 | ഇവിടെ | here | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_004.mp3" data-audio-label="ഇവിടെ" aria-label="Play ഇവിടെ" title="Play ഇവിടെ" aria-pressed="false">▶</button> |
 | <!-- Source: PDF page 59; printed page 13. --> ആണോ? | is? are? (question form of ആണ്) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_005.mp3" data-audio-label="ആണോ?" aria-label="Play ആണോ?" title="Play ആണോ?" aria-pressed="false">▶</button> |
@@ -103,7 +105,7 @@
 | ഇവിടെത്തന്നെ | right here | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_008.mp3" data-audio-label="ഇവിടെത്തന്നെ" aria-label="Play ഇവിടെത്തന്നെ" title="Play ഇവിടെത്തന്നെ" aria-pressed="false">▶</button> |
 | -ഇൽ | in, among | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_009.mp3" data-audio-label="ഇൽ" aria-label="Play ഇൽ" title="Play ഇൽ" aria-pressed="false">▶</button> |
 | ആഫീസിൽ | in the office | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_010.mp3" data-audio-label="ആഫീസിൽ" aria-label="Play ആഫീസിൽ" title="Play ആഫീസിൽ" aria-pressed="false">▶</button> |
-| ഇയാൾ | he (equal, close by) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_011.mp3" data-audio-label="ഇയാൾ" aria-label="Play ഇയാൾ" title="Play ഇയാൾ" aria-pressed="false">▶</button> |
+| ഇയാൾ | he (neutral, non-honorific; nearby) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_011.mp3" data-audio-label="ഇയാൾ" aria-label="Play ഇയാൾ" title="Play ഇയാൾ" aria-pressed="false">▶</button> |
 | ഇയാളെ മനസ്സിലായോ? | Do you know / recognize him? | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_012.mp3" data-audio-label="ഇയാളെ മനസ്സിലായോ?" aria-label="Play ഇയാളെ മനസ്സിലായോ?" title="Play ഇയാളെ മനസ്സിലായോ?" aria-pressed="false">▶</button> |
 | ഇല്ല | no | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_013.mp3" data-audio-label="ഇല്ല" aria-label="Play ഇല്ല" title="Play ഇല്ല" aria-pressed="false">▶</button> |
 | നമസ്കാരം | a formal greeting (literally “I bow to you,” also നമസ്തേ) | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
@@ -338,8 +340,8 @@
 | എവിടെ | where? |
 | ഡാക്ടർ | doctor |
 | വീട് | house, home |
-| അയാൾ | he (equal to speaker, at a distance) |
-| അവൾ | she (inferior to speaker) |
+| അയാൾ | he (neutral, non-honorific; at a distance) |
+| അവൾ | she (familiar, non-honorific) |
 
 **D.** Identify and practice the items in the reference list containing retroflex sounds.
 

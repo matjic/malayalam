@@ -384,7 +384,7 @@ On the other hand, the peon does nothing to soften the categorical statements he
 <a id="section-19-2"></a><!-- reading-anchor -->
 ### 19.2 The Familiar/Forceful Negative Command Form
 
-The strongest type of negative command possible in Malayalam is made by adding -അരുത് to the present verbstem. Note that all forms with -അരുത് are regular without exception. While this type of command form tends to be used more with persons with whom നീ is permitted, (hence the title “familiar negative command”), its use is broader than this. Since one of the components of its meaning is a forceful tone, it can be used with persons with whom only നിങ്ങൾ is permitted, and even to social superiors, when the situation warrants. The peon, for instance, lowest on the office social hierarchy, is able to use it with the office manager to convey the strength of his feelings when he says:
+The strongest type of negative command possible in Malayalam is made by adding -അരുത് to the present verbstem. Note that all forms with -അരുത് are regular without exception. While this type of command form tends to be used more with persons with whom നീ is permitted, (hence the title “familiar negative command”), its use is broader than this. Since one of the components of its meaning is a forceful tone, it can be used with persons with whom only നിങ്ങൾ is permitted, and even to people normally addressed with deference, when the situation warrants. The peon, for instance, lowest on the office social hierarchy, is able to use it with the office manager to convey the strength of his feelings when he says:
 
 1. അയ്യോ സാറേ, എന്നെ സ്ഥലം മാറ്റരുതേ.
 

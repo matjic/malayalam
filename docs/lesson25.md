@@ -108,9 +108,9 @@
 | തേങ്ങ | coconut | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_029.mp3" data-audio-label="തേങ്ങ" aria-label="Play തേങ്ങ" title="Play തേങ്ങ" aria-pressed="false">▶</button> |
 | നെല്ല് | rice (paddy) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_030.mp3" data-audio-label="നെല്ല്" aria-label="Play നെല്ല്" title="Play നെല്ല്" aria-pressed="false">▶</button> |
 | വിളവ് | crop | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_031.mp3" data-audio-label="വിളവ്" aria-label="Play വിളവ്" title="Play വിളവ്" aria-pressed="false">▶</button> |
-| ധാന്യം | richness | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_032.mp3" data-audio-label="ധാന്യം" aria-label="Play ധാന്യം" title="Play ധാന്യം" aria-pressed="false">▶</button> |
+| ധാന്യം | grain; cereal | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_25_word_032.mp3" data-audio-label="ധാന്യം" aria-label="Play ധാന്യം" title="Play ധാന്യം" aria-pressed="false">▶</button> |
 
-> **Editorial source note:** The source glosses ധാന്യം as “richness,” but the reading and exercise 3.8 use ധന്യമായ/ധന്യമാണ്. The vocabulary entry and the intended adjective need linguistic review.
+> **Editorial source note:** The source glosses ധാന്യം as “richness,” but the written word means “grain; cereal” ([Olam](https://olam.in/dictionary/english/malayalam/Grain)). The reading and exercise 3.8 instead use ധന്യമായ/ധന്യമാണ്. This edition translates the written vocabulary word; the source’s intended adjective remains uncertain.
 
 | Malayalam | English | Audio |
 |---|---|---|

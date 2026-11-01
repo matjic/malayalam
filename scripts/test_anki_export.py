@@ -6,7 +6,7 @@ from pathlib import Path
 import tempfile
 import unittest
 
-from anki_export import collect_media, create_decks, create_model, load_inputs, ROOT
+from anki_export import format_card_text, audit_recall, collect_media, create_decks, create_model, load_inputs, ROOT
 
 
 class InputTests(unittest.TestCase):
@@ -26,7 +26,7 @@ class InputTests(unittest.TestCase):
         folder = self.root / 'data/vocabulary'
         folder.mkdir(parents=True, exist_ok=True)
         (folder / 'moag.json').write_text(json.dumps(self.data))
-        (folder / 'anki-english.json').write_text(json.dumps(overrides or {}))
+        (folder / 'study.json').write_text(json.dumps(overrides or {}))
         return load_inputs(self.root)
 
     def test_chapters_are_matched_by_number(self):
@@ -57,13 +57,54 @@ class InputTests(unittest.TestCase):
             self.load()
 
     def test_unused_override(self):
-        with self.assertRaisesRegex(ValueError, 'Unused Anki English'):
-            self.load({'absent': 'unused'})
+        with self.assertRaisesRegex(ValueError, 'Unused study'):
+            self.load({'absent': {'meaning': 'unused'}})
 
     def test_malayalam_and_empty_prompts(self):
         for prompt in ('വാക്ക്', '  '):
             with self.subTest(prompt=prompt), self.assertRaises(ValueError):
-                self.load({'വാക്ക്': prompt})
+                self.load({'published-id': {'meaning': prompt}})
+
+    def test_separate_prompt_and_answer_notes(self):
+        data, study, chapters = self.load({'published-id': {
+            'recall': 'a word (noun)', 'alternatives': ['മറ്റൊരു വാക്ക്'],
+            'explanation': 'Accept either word for this broad cue.'}})
+        note = create_decks(data, study, chapters)[1].notes[0]
+        self.assertIn('<div class="english-meaning">' + format_card_text('word') + '</div>', note.fields[2])
+        self.assertIn('<div class="english-recall">' + format_card_text('a word (noun)') + '</div>', note.fields[2])
+        self.assertIn('Also accept:', note.fields[5])
+        self.assertNotIn('Also accept:', note.fields[2])
+
+    def test_invalid_study_metadata(self):
+        for metadata in ({'recall': 'വാക്ക്'}, {'recall': ''},
+                         {'alternatives': 'word'}, {'alternatives': ['']},
+                         {'typo': 'word'}, 'word'):
+            with self.subTest(metadata=metadata), self.assertRaises(ValueError):
+                self.load({'published-id': metadata})
+
+    def test_punctuation_collisions_need_reciprocal_alternatives(self):
+        first = self.data['entries'][0]
+        second = {**first, 'id': 'second', 'malayalam': 'മറ്റൊന്ന്', 'english': 'Word!'}
+        entries = [first, second]
+        with self.assertRaisesRegex(ValueError, 'Ambiguous recall'):
+            audit_recall(entries, {})
+        study = {'published-id': {'alternatives': ['മറ്റൊന്ന്']}}
+        with self.assertRaisesRegex(ValueError, 'Ambiguous recall'):
+            audit_recall(entries, study)
+        study['second'] = {'alternatives': ['വാക്ക്']}
+        self.assertEqual(len(audit_recall(entries, study)), 1)
+
+    def test_incomplete_front(self):
+        self.data['entries'][0]['english'] = '(n.)'
+        with self.assertRaisesRegex(ValueError, 'Incomplete recall'):
+            self.load()
+
+    def test_same_spelling_different_senses_use_separate_prompts(self):
+        self.data['entries'].append({**self.data['entries'][0], 'id': 'second', 'english': 'another sense'})
+        data, study, chapters = self.load({'second': {'recall': 'a different sense'}})
+        notes = create_decks(data, study, chapters)[1].notes
+        self.assertNotIn('a different sense', notes[0].fields[2])
+        self.assertIn('a different sense', notes[1].fields[2])
 
     def test_media_checksum_and_collision(self):
         for name in ('first/clip.mp3', 'second/clip.mp3'):
@@ -82,6 +123,28 @@ class InputTests(unittest.TestCase):
     def test_path_outside_repository(self):
         with self.assertRaisesRegex(ValueError, 'escapes repository'):
             collect_media([{'audio': [{'path': '../outside.mp3', 'sha256': ''}]}], self.root)
+
+
+class FormattingTests(unittest.TestCase):
+    def test_main_word_and_usage_have_separate_lines(self):
+        rendered = format_card_text('your (plural or polite singular; possessive pronoun)')
+        self.assertIn('<div class="prompt-main">your</div>', rendered)
+        self.assertIn('<div class="prompt-cue">plural or polite singular</div>', rendered)
+        self.assertIn('<div class="prompt-cue">possessive pronoun</div>', rendered)
+
+    def test_sentence_parentheses_and_nested_cues(self):
+        rendered = format_card_text('if (you) come (verb (not a noun); polite)')
+        self.assertIn('<div class="prompt-main">if (you) come</div>', rendered)
+        self.assertIn('<div class="prompt-cue">verb (not a noun)</div>', rendered)
+        self.assertIn('<div class="prompt-cue">polite</div>', rendered)
+        self.assertEqual(format_card_text('(I) wish to'),
+                         '<div class="prompt-main">(I) wish to</div>')
+
+    def test_multiple_cues_and_escaped_text(self):
+        rendered = format_card_text('say <hello> (a & b) (formal)')
+        self.assertIn('say &lt;hello&gt;', rendered)
+        self.assertLess(rendered.index('a &amp; b'), rendered.index('formal'))
+        self.assertIn('unclosed (cue', format_card_text('unclosed (cue'))
 
 
 class CompatibilityTests(unittest.TestCase):

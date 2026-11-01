@@ -1,0 +1,1297 @@
+{
+  "moag-01-ce76669bde6c8905": {
+    "meaning": "Raman (male name)"
+  },
+  "moag-01-d0000a1ec07b967c": {
+    "meaning": "what is? (short form)"
+  },
+  "moag-01-22fa4b031a5e2f0b": {
+    "meaning": "Rajan (male name)"
+  },
+  "moag-01-c629acbb50a649e4": {
+    "meaning": "Mani (female name)"
+  },
+  "moag-02-0a535e31b8a7992c": {
+    "meaning": "is? are? (question form)"
+  },
+  "moag-02-f7ae656b81aa56d9": {
+    "meaning": "Hameed (male name)"
+  },
+  "moag-02-cb36ca89fba040db": {
+    "meaning": "no; there is not; does not exist",
+    "recall": "there is not; does not exist (negative of existence or possession)"
+  },
+  "moag-02-9cd302f8012c44de": {
+    "meaning": "a formal greeting (literally ‘I bow to you’)"
+  },
+  "moag-02-a0d9193a956571d5": {
+    "meaning": "Kesavan (male name)"
+  },
+  "moag-03-b90e6e23a8eefe00": {
+    "meaning": "Is that so? (short form)"
+  },
+  "moag-03-bad43d5c5143bc90": {
+    "meaning": "here, here you go",
+    "recall": "here you go! Here it is! (presenting something)"
+  },
+  "moag-03-453477f43b1eb05f": {
+    "meaning": "a formal greeting (literally ‘I bow to you’)"
+  },
+  "moag-04-89ce85d843e16be7": {
+    "meaning": "no, is not",
+    "recall": "is not; am not; are not (negative identification)"
+  },
+  "moag-04-8389a84a9a4f71d1": {
+    "meaning": "let it be thus, OK"
+  },
+  "moag-05-8801519810d106eb": {
+    "meaning": "Krishnan (male name)"
+  },
+  "moag-05-b3bf20836e321434": {
+    "meaning": "no; there is not; does not exist",
+    "recall": "there is not; does not exist (negative of existence or possession)"
+  },
+  "moag-05-017b81885e1abb1f": {
+    "meaning": "isn't there? (negative question)"
+  },
+  "moag-05-9a459f61acc8ae7f": {
+    "meaning": "isn’t it? aren’t they? (negative identification question or tag)",
+    "recall": "isn’t it? aren’t they? (negative identification tag question)"
+  },
+  "moag-06-92eb66552fc9a02f": {
+    "meaning": "Krishna (male name)"
+  },
+  "moag-10-2687f0f067eb6ecf": {
+    "meaning": "to be (present tense; literary and formal)"
+  },
+  "moag-10-ae51bf8d346d0e78": {
+    "meaning": "people"
+  },
+  "moag-10-7622f7ad55ece5c2": {
+    "meaning": "districts"
+  },
+  "moag-11-a9f06c6df573cc2f": {
+    "meaning": "was, were"
+  },
+  "moag-11-73b5a9ec34ad6ae0": {
+    "meaning": "sent (past tense)",
+    "recall": "sent (finite past-tense verb)"
+  },
+  "moag-11-56ed190a42063de6": {
+    "meaning": "Hey! (informal or derogatory address to a male in a close relationship or addressed without deference; may sound disrespectful)"
+  },
+  "moag-11-ede76af88bbcd964": {
+    "meaning": "there was not"
+  },
+  "moag-12-f2a3959d219f17ba": {
+    "meaning": "in the evening (spoken form)",
+    "recall": "in the evening",
+    "alternatives": [
+      "വൈകുന്നേരം"
+    ],
+    "explanation": "The course gives the shorter spoken form and the fuller form. Either is acceptable for this broad cue."
+  },
+  "moag-12-433c82a2769deee3": {
+    "meaning": "child"
+  },
+  "moag-15-9c012e4b46794526": {
+    "meaning": "Varghese (male name; Malayalam form of George)"
+  },
+  "moag-15-faf21e05d7ea7edd": {
+    "meaning": "Kesavan Nair (personal name; Nair is also a caste name)"
+  },
+  "moag-16-5257d762b957b734": {
+    "meaning": "everyone"
+  },
+  "moag-16-22440b7e6ca0c970": {
+    "meaning": "various (adjective)",
+    "recall": "various; several kinds of",
+    "alternatives": [
+      "തരാതരം"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-16-f1486b52c0fbfbad": {
+    "meaning": "Kerala Kaumudi (Malayalam newspaper; literally ‘Kerala Moonlight’)"
+  },
+  "moag-16-da6a7ea2f999d1e4": {
+    "meaning": "Malayala Manorama (Malayalam newspaper; literally ‘Mind’s Delight’)"
+  },
+  "moag-16-18e533a48fefa8b9": {
+    "meaning": "Mathrubhumi (Malayalam newspaper; literally ‘Motherland’)"
+  },
+  "moag-16-070fcaabcf86bc10": {
+    "meaning": "of that place (genitive)"
+  },
+  "moag-16-cb01b6259d86b8a6": {
+    "meaning": "of this place (genitive)"
+  },
+  "moag-16-88a653e142713444": {
+    "meaning": "to marry",
+    "recall": "to get married",
+    "alternatives": [
+      "വിവാഹിതരാകുക",
+      "കല്യാണം കഴിക്കുക"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-17-45cb02f6a2a45be4": {
+    "meaning": "daughter (colloquial short form)"
+  },
+  "moag-17-48f56635d8265cd1": {
+    "meaning": "Leela (female name)"
+  },
+  "moag-17-e34937509cf242f4": {
+    "meaning": "Kalyani (female name)"
+  },
+  "moag-17-718fd043bf71e38c": {
+    "meaning": "Chengannur (town in southern Kerala)"
+  },
+  "moag-17-aedf2d18b0b7e066": {
+    "meaning": "may be; can be (colloquial form)"
+  },
+  "moag-17-f52edde0bd99e679": {
+    "meaning": "do! (familiar command)"
+  },
+  "moag-17-72f1d353ed1c6752": {
+    "meaning": "let it be (colloquial form)"
+  },
+  "moag-17-8572d3aa71655756": {
+    "meaning": "together"
+  },
+  "moag-17-47f065ac706fe901": {
+    "meaning": "friends (plural)"
+  },
+  "moag-18-c7ca0ac2fc3a1ed3": {
+    "meaning": "Thankamma (female name)"
+  },
+  "moag-18-d87c0f4a60267e16": {
+    "meaning": "without (negative participle)"
+  },
+  "moag-20-a97fb669d0016128": {
+    "meaning": "according to",
+    "recall": "according to",
+    "alternatives": [
+      "അനുസരിച്ച്"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-20-5b4d4039341ec35f": {
+    "meaning": "Vishnu (Hindu god; the protector)"
+  },
+  "moag-20-5c8e711538c4c5e4": {
+    "meaning": "Vamanan; dwarf; the fifth incarnation of Vishnu"
+  },
+  "moag-20-1c19491d796719fa": {
+    "meaning": "self’s or own (possessive)"
+  },
+  "moag-22-24e18677b6b8ae3b": {
+    "meaning": "Mathai (male name; Malayalam form of Matthew)"
+  },
+  "moag-22-8c98663535798f22": {
+    "meaning": "inside (locative)",
+    "recall": "inside; in the interior (locative form)"
+  },
+  "moag-22-a0934e924f7b2e75": {
+    "meaning": "is lying"
+  },
+  "moag-23-18759496283826a2": {
+    "meaning": "was, were"
+  },
+  "moag-03-1a7432f818816245": {
+    "recall": "news",
+    "alternatives": [
+      "വാർത്ത"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-14-05c79eaa796a40c5": {
+    "recall": "news",
+    "alternatives": [
+      "വിശേഷങ്ങൾ"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-04-038b017f59ee2ccf": {
+    "recall": "boy",
+    "alternatives": [
+      "ചെറുക്കൻ"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-21-f5fe8e02bf8c0737": {
+    "recall": "boy",
+    "alternatives": [
+      "പയ്യൻ"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-09-a2c60dd2dda39338": {
+    "recall": "new",
+    "alternatives": [
+      "നവീന"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-25-4857406ae24e6fa0": {
+    "recall": "new",
+    "alternatives": [
+      "പുതിയ"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-09-d217d8576fd9a5f3": {
+    "recall": "both (two things)"
+  },
+  "moag-15-db91013310281756": {
+    "recall": "both people (subject form)"
+  },
+  "moag-10-c389342429b16414": {
+    "recall": "state (political division; English loanword)"
+  },
+  "moag-16-42dd4f7c46ceaec0": {
+    "recall": "state (political division; Malayalam term rather than the English loanword)"
+  },
+  "moag-10-b3e2567594a3b5f4": {
+    "recall": "end; tip or extremity"
+  },
+  "moag-14-cfa2f72ce43e2d76": {
+    "recall": "end; conclusion"
+  },
+  "moag-10-0e9bd20ea01e42be": {
+    "recall": "day",
+    "alternatives": [
+      "ദിനം"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-16-93257951578134e9": {
+    "recall": "day",
+    "alternatives": [
+      "ദിവസം"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-11-5e1dd77f7f2b0bcb": {
+    "recall": "bad",
+    "alternatives": [
+      "മോശം"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-22-d3a519d190492c41": {
+    "recall": "bad",
+    "alternatives": [
+      "ചീത്ത"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-11-de4dbccdc5b8842d": {
+    "recall": "to eat; to dine",
+    "alternatives": [
+      "തിന്നുക",
+      "ഉണ്ണുക (past: ഉണ്ടു)"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-21-5bd438671be1887a": {
+    "recall": "to eat; to dine",
+    "alternatives": [
+      "കഴിക്കുക",
+      "ഉണ്ണുക (past: ഉണ്ടു)"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-12-9271470b131ad4c8": {
+    "recall": "week",
+    "alternatives": [
+      "വാരം"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-14-2c8da760e74be903": {
+    "recall": "week",
+    "alternatives": [
+      "ആഴ്ച"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-13-313270ee4d413309": {
+    "recall": "time (available time or a point in time)"
+  },
+  "moag-14-472af7356c81d7c8": {
+    "recall": "time; period, season, era"
+  },
+  "moag-20-ce1d7908e761381a": {
+    "recall": "time; period, season, era"
+  },
+  "moag-13-f24d50cb0ee6be5a": {
+    "recall": "another",
+    "alternatives": [
+      "മറ്റൊരു (adj)"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-24-93ace08bad66523d": {
+    "recall": "another",
+    "alternatives": [
+      "വേറൊരു"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-14-83353f5d40d3ec24": {
+    "recall": "marriage",
+    "alternatives": [
+      "കല്യാണം"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-15-9c9898b25e72297c": {
+    "recall": "marriage",
+    "alternatives": [
+      "വിവാഹം"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-14-1e1c76605de2e50b": {
+    "recall": "to get married",
+    "alternatives": [
+      "കല്യാണം കഴിക്കുക",
+      "വിവാഹം കഴിക്കുക (past tense: വിവാഹം കഴിച്ചു)"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-15-9ba1e222001ef3c4": {
+    "recall": "to get married",
+    "alternatives": [
+      "വിവാഹിതരാകുക",
+      "വിവാഹം കഴിക്കുക (past tense: വിവാഹം കഴിച്ചു)"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-14-5091abd229ef3839": {
+    "recall": "death; passing away",
+    "alternatives": [
+      "മരണം",
+      "നിര്യാണം"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-14-d2e748550295ab3d": {
+    "recall": "death; passing away",
+    "alternatives": [
+      "ചരമം",
+      "നിര്യാണം"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-14-460ba578e1a24bf6": {
+    "recall": "letter",
+    "alternatives": [
+      "എഴുത്ത്"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-17-a0f280ef04143702": {
+    "recall": "letter",
+    "alternatives": [
+      "കത്ത്"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-03-c9618c9463cca5ea": {
+    "recall": "happiness",
+    "alternatives": [
+      "സന്തോഷം"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-15-35faf47d1922097f": {
+    "recall": "happiness",
+    "alternatives": [
+      "സുഖം"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-21-74a422731cdbbffd": {
+    "recall": "happiness",
+    "alternatives": [
+      "സന്തോഷം"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-16-8e6e8dc53b5c41cc": {
+    "recall": "first (adjective: the first one)"
+  },
+  "moag-17-1f2ff992e05b9f6f": {
+    "recall": "first (ordinal numeral: number one in a sequence)"
+  },
+  "moag-16-fda3d2126a2def47": {
+    "recall": "place; location"
+  },
+  "moag-19-44a3afcda0aab90d": {
+    "recall": "place; location"
+  },
+  "moag-25-f2e474317df793d2": {
+    "recall": "place; position"
+  },
+  "moag-17-717cba850ab6cb61": {
+    "recall": "year",
+    "alternatives": [
+      "ആണ്ട്"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-20-6d7231f3ae182b9c": {
+    "recall": "year",
+    "alternatives": [
+      "വർഷം"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-19-621fc94051ea24df": {
+    "recall": "otherwise",
+    "alternatives": [
+      "അല്ലാതെ"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-22-9aada3915484e76a": {
+    "recall": "otherwise",
+    "alternatives": [
+      "അല്ലെങ്കിൽ"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-25-d0784bd24cb75eff": {
+    "recall": "otherwise",
+    "alternatives": [
+      "അല്ലെങ്കിൽ"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-19-f86b418f81605073": {
+    "recall": "difficulty",
+    "alternatives": [
+      "കഷ്ടം"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-22-d5fdadf5dfa9e4e8": {
+    "recall": "difficulty",
+    "alternatives": [
+      "പ്രയാസം"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-20-6133f41eff7ed1f2": {
+    "recall": "harvest",
+    "alternatives": [
+      "കൊയ്ത്ത്"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-22-a8631930e032e0a5": {
+    "recall": "harvest",
+    "alternatives": [
+      "വിളവെടുപ്പ്"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-20-75cfbc4f0eb34310": {
+    "recall": "according to",
+    "alternatives": [
+      "പ്രകാരം"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-20-496e128e8141c467": {
+    "recall": "river",
+    "alternatives": [
+      "നദി"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-25-70683855c96a79b8": {
+    "recall": "river",
+    "alternatives": [
+      "ആറ്"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-25-a228a792016f01aa": {
+    "recall": "et cetera",
+    "alternatives": [
+      "മുതലായവ"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-25-51287e1d82aceee3": {
+    "recall": "et cetera",
+    "alternatives": [
+      "എന്നിവ"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-14-d16d97db713277ae": {
+    "recall": "death; passing away",
+    "alternatives": [
+      "ചരമം",
+      "മരണം"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-20-07f762f9693a6865": {
+    "recall": "to eat; to dine",
+    "alternatives": [
+      "കഴിക്കുക",
+      "തിന്നുക"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-21-67debbcb2dac97b9": {
+    "recall": "sorrow; sadness",
+    "alternatives": [
+      "സങ്കടം"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-21-3da285fb1ccf9bf0": {
+    "recall": "sorrow; sadness",
+    "alternatives": [
+      "ദുഃഖം"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-02-72fadcd1f3eac6f3": {
+    "recall": "work; occupation (noun)",
+    "alternatives": [
+      "തൊഴിൽ"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-25-6eecff2c099bba37": {
+    "recall": "work; occupation (noun)",
+    "alternatives": [
+      "ജോലി"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-14-985a7161f82a2a2e": {
+    "recall": "trade; business (noun)",
+    "alternatives": [
+      "കച്ചവടം"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-22-f4e29b1dc1acce3c": {
+    "recall": "trade; business (noun)",
+    "alternatives": [
+      "വ്യാപാരം"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-06-199c72dfd328d55b": {
+    "recall": "a lot; a great deal",
+    "alternatives": [
+      "കുറെ",
+      "ഒരുപാട്",
+      "അധികം"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-08-c6bef7848544879a": {
+    "recall": "a lot; a great deal",
+    "alternatives": [
+      "ധാരാളം",
+      "ഒരുപാട്",
+      "അധികം"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-12-d2cda642a751790f": {
+    "recall": "a lot; a great deal",
+    "alternatives": [
+      "കുറെ",
+      "ധാരാളം",
+      "അധികം"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-16-7f14941ec574928d": {
+    "recall": "a lot; a great deal",
+    "alternatives": [
+      "കുറെ",
+      "ധാരാളം",
+      "ഒരുപാട്"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-14-fe2d82c08fba098d": {
+    "recall": "speech (noun)"
+  },
+  "moag-06-286c1d6a31f307a7": {
+    "recall": "clothing; clothes",
+    "alternatives": [
+      "വസ്ത്രം",
+      "ഉടുപ്പ്"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-20-9cc7a8868350f422": {
+    "recall": "clothing; clothes",
+    "alternatives": [
+      "ഉടുപ്പ്",
+      "തുണി"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-21-470b172013557fef": {
+    "recall": "clothing; clothes",
+    "alternatives": [
+      "വസ്ത്രം",
+      "തുണി"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-08-409319901b949d4b": {
+    "recall": "in the evening",
+    "alternatives": [
+      "വൈകിട്ട്"
+    ],
+    "explanation": "The course gives the shorter spoken form and the fuller form. Either is acceptable for this broad cue."
+  },
+  "moag-17-88c9eb3711ee0ab5": {
+    "recall": "studied; used to study"
+  },
+  "moag-24-081bc2af4b189be6": {
+    "recall": "can; be able to (verb construction)",
+    "alternatives": [
+      "-- കഴിയുക",
+      "-- പറ്റുക"
+    ],
+    "explanation": "Several constructions express ability or possibility. Accept the listed alternatives for this broad cue; sentence structure and nuance depend on context."
+  },
+  "moag-24-8737314c6cccc73f": {
+    "recall": "can; be able to (verb construction)",
+    "alternatives": [
+      "-- സാധിക്കുക",
+      "-- പറ്റുക"
+    ],
+    "explanation": "Several constructions express ability or possibility. Accept the listed alternatives for this broad cue; sentence structure and nuance depend on context."
+  },
+  "moag-24-b3b05c64ea8affb9": {
+    "recall": "can; be able to (verb construction)",
+    "alternatives": [
+      "-- കഴിയുക",
+      "-- സാധിക്കുക"
+    ],
+    "explanation": "Several constructions express ability or possibility. Accept the listed alternatives for this broad cue; sentence structure and nuance depend on context."
+  },
+  "moag-24-3422865d5edab14a": {
+    "recall": "must not; should not (prohibition construction)",
+    "alternatives": [
+      "-- പാടില്ല"
+    ],
+    "explanation": "Both constructions can express prohibition. Accept either for this broad cue; this card does not ask for a particular construction."
+  },
+  "moag-24-5dfe2806c30a2b60": {
+    "recall": "must not; should not (prohibition construction)",
+    "alternatives": [
+      "-- കൂടാ"
+    ],
+    "explanation": "Both constructions can express prohibition. Accept either for this broad cue; this card does not ask for a particular construction."
+  },
+  "moag-04-d9ad8cf6dfebb7d4": {
+    "recall": "take away! (polite command)"
+  },
+  "moag-01-4f34113e6ac5bbe5": {
+    "recall": "your (plural or polite singular; possessive pronoun)"
+  },
+  "moag-02-2c1d8bfc6bde4c3b": {
+    "recall": "your; sir’s (using the title “sir” possessively)"
+  },
+  "moag-02-4db008cbf4a2a2b8": {
+    "recall": "he (neutral, non-honorific; person nearby)"
+  },
+  "moag-01-e1a2806cbc95461e": {
+    "recall": "he (familiar, non-honorific; person away from the speaker)",
+    "explanation": "Familiar, non-honorific forms require an appropriate relationship. They can express closeness or sound disrespectful; they do not imply that the person has less worth."
+  },
+  "moag-01-60eae63769e09f95": {
+    "recall": "she (familiar, non-honorific; person away from the speaker)",
+    "explanation": "Familiar, non-honorific forms require an appropriate relationship. They can express closeness or sound disrespectful; they do not imply that the person has less worth."
+  },
+  "moag-01-82648d7e9c6738b9": {
+    "recall": "he (honorific; person away from the speaker)"
+  },
+  "moag-08-1adf680fd5a15e64": {
+    "recall": "you (familiar singular pronoun used between peers in this course)",
+    "explanation": "Familiar, non-honorific forms require an appropriate relationship. They can express closeness or sound disrespectful; they do not imply that the person has less worth."
+  },
+  "moag-08-7b34d45f822f99ed": {
+    "recall": "to you (dative of the familiar singular pronoun used between peers)",
+    "explanation": "Familiar, non-honorific forms require an appropriate relationship. They can express closeness or sound disrespectful; they do not imply that the person has less worth."
+  },
+  "moag-04-6fa1ff365579f833": {
+    "recall": "bring! (polite command)"
+  },
+  "moag-04-254b93234e9dd9ee": {
+    "recall": "drink! (polite command)"
+  },
+  "moag-08-55a895367a113f9a": {
+    "recall": "ask! (command)"
+  },
+  "moag-04-84f44ca9ffbac296": {
+    "recall": "give! (to me or you; polite command)"
+  },
+  "moag-04-465a520ea8e40933": {
+    "recall": "give! (to a third person; polite command)"
+  },
+  "moag-13-428cb1dc0c76e4a5": {
+    "recall": "to bring to me or you (dictionary form)"
+  },
+  "moag-11-abd8181cd643c9e1": {
+    "recall": "Oh no! Alas! (exclamation of distress or dismay)"
+  },
+  "moag-20-b9c330e0a41697f9": {
+    "recall": "what is important; the main thing (nominal form)",
+    "explanation": "The lesson’s original “(n.)” depended on the preceding adjective. This nominal form means what is important or the main thing."
+  },
+  "moag-14-1bc71ced4378ece2": {
+    "recall": "star (a performer or celebrity, in the newspaper lesson)"
+  },
+  "moag-22-6989c5b4ee0ab913": {
+    "recall": "poor; pitiable; unfortunate (describing someone sympathetically)"
+  },
+  "moag-25-c3dac47c53175df0": {
+    "recall": "light (not heavy; adjective)"
+  },
+  "moag-06-6e23f10c057a14c8": {
+    "recall": "will see (not a farewell expression)"
+  },
+  "moag-05-7aff657757b3d32f": {
+    "recall": "See you later! (farewell)"
+  },
+  "moag-21-fbdabee76df0ec88": {
+    "recall": "full; complete (short adjective form)"
+  },
+  "moag-17-96ba164c585820bb": {
+    "recall": "full; complete (fuller form)"
+  },
+  "moag-12-1c02e7c9e8b8a74d": {
+    "recall": "want to take, need to take, have to take (give the dictionary/head form)"
+  },
+  "moag-12-752c69f04493db64": {
+    "recall": "want to, need to, have to go (give the dictionary/head form)"
+  },
+  "moag-12-9720c84de3e67233": {
+    "recall": "to increase (give the dictionary/head form)"
+  },
+  "moag-12-a640ce2f54174e8c": {
+    "recall": "to make or build (give the dictionary/head form)"
+  },
+  "moag-13-302f6848e69a18a7": {
+    "recall": "to fix, to set right, to take care of (give the dictionary/head form)"
+  },
+  "moag-13-c8b950f1e356d9e7": {
+    "recall": "to buy; to get or obtain by buying (give the dictionary form)"
+  },
+  "moag-13-6fda218d92359021": {
+    "recall": "to fill out, to complete (give the dictionary/head form)"
+  },
+  "moag-13-a73514744e3bfbc9": {
+    "recall": "to show (give the dictionary/head form)"
+  },
+  "moag-13-54bcca1326be1eb2": {
+    "recall": "to correct (give the dictionary/head form)"
+  },
+  "moag-13-1705c1247c93d8e2": {
+    "recall": "to stick; paste onto something (give the dictionary form)"
+  },
+  "moag-13-ebfe0bdf4c153e0b": {
+    "recall": "to have breakfast, snack (literally, to drink coffee) (give the dictionary/head form)"
+  },
+  "moag-14-86cc6913d7f7320a": {
+    "recall": "young woman (give the dictionary/head form)"
+  },
+  "moag-14-5c3935dd66e68612": {
+    "recall": "young man (give the dictionary/head form)"
+  },
+  "moag-14-79bd7cc1a48712ca": {
+    "recall": "to play (give the dictionary/head form)"
+  },
+  "moag-15-a1f4422b45ef250b": {
+    "recall": "to get on, to get into, to enter (give the dictionary/head form)"
+  },
+  "moag-15-a36688574b7a8ecf": {
+    "recall": "to stand, to wait, to stop (give the dictionary/head form)"
+  },
+  "moag-15-cf5a8202847b8f63": {
+    "recall": "to converse (give the dictionary/head form)"
+  },
+  "moag-15-bf0e6b8b72cef09e": {
+    "recall": "to leave; to go away (compound verb with “go”; give the dictionary form)"
+  },
+  "moag-15-414022f69f87cec4": {
+    "recall": "to seem; to feel; to occur to someone (give the dictionary form)"
+  },
+  "moag-16-4714797db9b9b14c": {
+    "recall": "to print (give the dictionary/head form)"
+  },
+  "moag-16-e947fa39d9ea5f91": {
+    "recall": "to translate (give the dictionary/head form)"
+  },
+  "moag-16-e0d16022777f47c7": {
+    "recall": "to sell (give the dictionary/head form)"
+  },
+  "moag-16-33fa8f2d3faf3c42": {
+    "recall": "to publish (give the dictionary/head form)"
+  },
+  "moag-17-b49939ad6762b7da": {
+    "recall": "to remember (give the dictionary/head form)"
+  },
+  "moag-17-f725cbcc0c5c15df": {
+    "recall": "to think; to consider (give the dictionary form)"
+  },
+  "moag-17-ff9a1f9d3fa0576c": {
+    "recall": "to invite (give the dictionary/head form)"
+  },
+  "moag-18-5b07c46fa7c627f5": {
+    "recall": "to arrive, to reach (give the dictionary/head form)"
+  },
+  "moag-18-baabca483c95e6d6": {
+    "recall": "to forgive (takes object in the addressive form) (give the dictionary/head form)"
+  },
+  "moag-18-ade28f8057166f8e": {
+    "recall": "to fool, to cheat, to deceive (give the dictionary/head form)"
+  },
+  "moag-19-307be408c14f2b00": {
+    "recall": "to be hungry (simple verb; give the dictionary form)"
+  },
+  "moag-19-71a83f6451ca29a1": {
+    "recall": "to go out, to descend, to exit (give the dictionary/head form)"
+  },
+  "moag-19-3aa7c07e5b3578c2": {
+    "recall": "to change (transitive) (give the dictionary/head form)"
+  },
+  "moag-20-18d0d8bed0b54a58": {
+    "recall": "to agree, to agree to, to allow (give the dictionary/head form)"
+  },
+  "moag-20-ab3460c564efdeec": {
+    "recall": "to grow (give the dictionary/head form)"
+  },
+  "moag-20-0af9676fd5d48451": {
+    "recall": "to measure (give the dictionary/head form)"
+  },
+  "moag-20-0f183efe6180a08e": {
+    "recall": "to lower, to push something down (give the dictionary/head form)"
+  },
+  "moag-20-16eba791421b3180": {
+    "recall": "to make happy (give the dictionary/head form)"
+  },
+  "moag-20-ae2cc9b09907600e": {
+    "recall": "to be celebrated (give the dictionary/head form)"
+  },
+  "moag-20-382d238345d4d028": {
+    "recall": "to swing, to dance (give the dictionary/head form)"
+  },
+  "moag-20-b0b395b7d4363b50": {
+    "recall": "to sing (give the dictionary/head form)"
+  },
+  "moag-20-0d4572db03ad2c44": {
+    "recall": "to be happy (give the dictionary/head form)"
+  },
+  "moag-20-cc829535adb97398": {
+    "recall": "flower (give the dictionary/head form)"
+  },
+  "moag-20-aebf62532722fa6e": {
+    "recall": "to decorate (give the dictionary/head form)"
+  },
+  "moag-20-e282609a38ed4bc9": {
+    "recall": "to gather (intransitive) (give the dictionary/head form)"
+  },
+  "moag-20-24179f5214c82cf1": {
+    "recall": "to put, to put up, to set up (give the dictionary/head form)"
+  },
+  "moag-20-8cecf7dceec0b7e0": {
+    "recall": "Hindu (give the dictionary/head form)"
+  },
+  "moag-20-aade1bf65f98111d": {
+    "recall": "Muslim (give the dictionary/head form)"
+  },
+  "moag-20-099d35aa6cc513be": {
+    "recall": "Christian (give the dictionary/head form)"
+  },
+  "moag-21-2c90131079249af3": {
+    "recall": "to set out; to depart (give the dictionary form)"
+  },
+  "moag-22-12d7d5499a2bbc50": {
+    "recall": "to lie down (give the dictionary/head form)"
+  },
+  "moag-22-27419255da67885d": {
+    "recall": "to be afflicted by, to catch a disease (dative subject); to grab, hold, catch hold of (give the dictionary/head form)"
+  },
+  "moag-22-326b16414a24ca3f": {
+    "recall": "to be ruined, destroyed (give the dictionary/head form)"
+  },
+  "moag-22-e67d171d154a3c58": {
+    "recall": "to suffer, to experience difficulty (give the dictionary/head form)"
+  },
+  "moag-22-b012a8c3e8f70269": {
+    "recall": "to interfere, to take a hand (give the dictionary/head form)"
+  },
+  "moag-22-d28cfc403ac69f3f": {
+    "recall": "to pray (give the dictionary/head form)"
+  },
+  "moag-24-b17ce05418ec52f0": {
+    "recall": "to decrease (give the dictionary/head form)"
+  },
+  "moag-24-afa5990959763fde": {
+    "recall": "to obtain; gain; achieve (give the dictionary form)"
+  },
+  "moag-24-885ca997443badbf": {
+    "recall": "to oppose (give the dictionary/head form)"
+  },
+  "moag-24-a79f0954f179c007": {
+    "recall": "to be (feel) cold (give the dictionary/head form)"
+  },
+  "moag-25-804869153cce029f": {
+    "recall": "to be filled (intr.) (give the dictionary/head form)"
+  },
+  "moag-25-b6e32bf15ecba4de": {
+    "recall": "to steal (give the dictionary/head form)"
+  },
+  "moag-25-a98f4c44320d1e8a": {
+    "recall": "to rise (give the dictionary/head form)"
+  },
+  "moag-25-334daad6d1344d08": {
+    "recall": "to enjoy (give the dictionary/head form)"
+  },
+  "moag-12-70252af482b9237c": {
+    "recall": "again; once more",
+    "alternatives": [
+      "പിന്നെയും"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-12-4364f46f9469944f": {
+    "recall": "again; once more",
+    "alternatives": [
+      "വീണ്ടും"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-06-b780b750b33b3344": {
+    "recall": "behind; at the back of",
+    "alternatives": [
+      "പിന്നിൽ"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-20-7285844a6d695d35": {
+    "recall": "behind; at the back of",
+    "alternatives": [
+      "പുറകിൽ"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-07-cce483b4f1f0c5af": {
+    "recall": "small; little (adjective)",
+    "alternatives": [
+      "കൊച്ച്"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-18-7be15a0dafe27869": {
+    "recall": "small; little (adjective)",
+    "alternatives": [
+      "ചെറിയ"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-06-b27435b0b200d0b4": {
+    "recall": "near; in the vicinity",
+    "alternatives": [
+      "സമീപം"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-24-3f84ac0df53503db": {
+    "recall": "near; in the vicinity",
+    "alternatives": [
+      "അടുത്ത്"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-16-e2df6c4dba59c14d": {
+    "recall": "something; anything (indefinite expression)",
+    "alternatives": [
+      "വല്ലതും"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-19-ae71e0bd21627f6f": {
+    "recall": "something; anything (indefinite expression)",
+    "alternatives": [
+      "എന്തെങ്കിലും"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-14-c2272acb6c77c913": {
+    "recall": "type; kind (noun)",
+    "alternatives": [
+      "വിധം"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-24-f81964eed6bfb1dd": {
+    "recall": "type; kind (noun)",
+    "alternatives": [
+      "തരം"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-14-6e0fb3b67c4c7aaa": {
+    "recall": "various; several kinds of",
+    "alternatives": [
+      "പല"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-11-1d35a6e30e719735": {
+    "recall": "other; else (adjective)",
+    "alternatives": [
+      "മറ്റ് (adj)"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-13-768643a459b39cad": {
+    "recall": "other; else (adjective)",
+    "alternatives": [
+      "മറ്റ് (adj)"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-24-eb176bbc9a5d2aff": {
+    "recall": "other; else (adjective)",
+    "alternatives": [
+      "വേറെ"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-01-a5c5d74729d8082c": {
+    "recall": "book (Malayalam term rather than the English loanword)"
+  },
+  "moag-01-f0b24a426b73e166": {
+    "recall": "book; notebook (English loanword)"
+  },
+  "moag-20-f67fda94688abff2": {
+    "recall": "boat; wooden canoe (Malayalam term rather than the English loanword)"
+  },
+  "moag-23-7673397a0c0b3599": {
+    "recall": "boat (English loanword)"
+  },
+  "moag-04-f41104021df1c627": {
+    "recall": "tea (the prepared drink)"
+  },
+  "moag-25-b4f7a7ced045aabf": {
+    "recall": "tea leaves; tea (the crop)"
+  },
+  "moag-10-46a299e3ad62d702": {
+    "recall": "about; approximately (an estimate)"
+  },
+  "moag-14-9588e781923b50af": {
+    "recall": "about; concerning (a topic)"
+  },
+  "moag-06-b221055aa1d9a984": {
+    "recall": "on this side of (spatial expression)"
+  },
+  "moag-08-3fbf91fc20bf0054": {
+    "recall": "before; prior to (time)"
+  },
+  "moag-13-0dbd39e46616172b": {
+    "recall": "early; previously"
+  },
+  "moag-04-4883d05e88891138": {
+    "recall": "very; very much (degree adverb)"
+  },
+  "moag-18-9659c77f1d1e8189": {
+    "recall": "still more; yet more"
+  },
+  "moag-19-eff7e5d2525dbd3b": {
+    "recall": "still more; yet more"
+  },
+  "moag-04-dbec2728055e756d": {
+    "recall": "more; additionally (additional amount)"
+  },
+  "moag-23-39049b83212130c1": {
+    "recall": "along; via (following a locative place expression)"
+  },
+  "moag-10-92018c78eff1cbc9": {
+    "recall": "middle; central (adjective)"
+  },
+  "moag-18-8f1801412cf7213a": {
+    "recall": "middle; the middle (nominal form)"
+  },
+  "moag-23-cd6a82ac8f774930": {
+    "recall": "center (a center or institution)"
+  },
+  "moag-22-1c66c5dfefb45b0d": {
+    "recall": "public; common to everyone"
+  },
+  "moag-16-6d10c36ff5a2a968": {
+    "recall": "ordinary; usual (adjective)"
+  },
+  "moag-20-cf24ba46c9e403ea": {
+    "recall": "difference; distinction; being better"
+  },
+  "moag-24-a6e1f22dec9f7062": {
+    "recall": "difference (noun)"
+  },
+  "moag-22-b94105a182be5628": {
+    "recall": "for; for the purpose of (purpose or benefit)"
+  },
+  "moag-24-175812bf37205b7d": {
+    "recall": "because; for the reason that (introducing a reason)"
+  },
+  "moag-06-7ceadf37a89e675d": {
+    "recall": "from (ablative expression, following a locative noun)"
+  },
+  "moag-19-950d54ed54253413": {
+    "recall": "from; since (a starting point)"
+  },
+  "moag-06-9ca0427f17b0305c": {
+    "recall": "good (general adjective)"
+  },
+  "moag-09-eec1612ab7d5d124": {
+    "recall": "good (general adjective)"
+  },
+  "moag-20-cdf89331180155f7": {
+    "recall": "good (adjective describing a good person)"
+  },
+  "moag-02-d3dbf35d5dd4172b": {
+    "recall": "here (at this place)"
+  },
+  "moag-08-40643c6a2bea271f": {
+    "recall": "hey! (attention-getting interjection)"
+  },
+  "moag-04-a6db2e8752d8230a": {
+    "recall": "to him (dative; familiar pronoun)"
+  },
+  "moag-08-f8e6341c1416632a": {
+    "recall": "to him (with verbs of speaking or asking)"
+  },
+  "moag-19-1f1ee31d46290cd6": {
+    "recall": "him (direct object; neutral non-honorific pronoun)"
+  },
+  "moag-21-a49ee627049b9263": {
+    "recall": "inside; interior (base noun)"
+  },
+  "moag-01-9872680ae8ff6165": {
+    "recall": "is; am; are (identifying someone or describing what something is)"
+  },
+  "moag-03-416b73d3c471b02f": {
+    "recall": "there is; there are; exists (existence or possession)"
+  },
+  "moag-14-022e8ace53d70816": {
+    "recall": "single; lone; one only"
+  },
+  "moag-16-b30bbe3307c8461a": {
+    "recall": "only (emphatic construction with a suffix and “exists”)"
+  },
+  "moag-16-bc6130ae3cacdd5c": {
+    "recall": "only (particle accompanying a noun)"
+  },
+  "moag-18-857b86004e43cd11": {
+    "recall": "on the way; midway along the route (mainly written)"
+  },
+  "moag-23-475b0a72647c93fb": {
+    "recall": "on the way here; while coming"
+  },
+  "moag-14-6a02db640404bd36": {
+    "recall": "path (the word used in the compound for “galaxy” in this lesson)"
+  },
+  "moag-18-048b9ed58a38ddae": {
+    "recall": "way; road; route"
+  },
+  "moag-18-af5955d584a03861": {
+    "recall": "right (direction; opposite of left)"
+  },
+  "moag-14-c9dbdaa017ba02d1": {
+    "recall": "standard; level; state or condition"
+  },
+  "moag-14-7d3aa43e0fd8c41b": {
+    "recall": "situation; condition"
+  },
+  "moag-11-39e53d2902f4e5f5": {
+    "recall": "that which was sent (nominalized past form)"
+  },
+  "moag-04-2d4f49f1f8156ef9": {
+    "recall": "then; at that time"
+  },
+  "moag-05-7085672df0416951": {
+    "recall": "then; so (a connecting word)"
+  },
+  "moag-05-d48f4fb12a2a907a": {
+    "recall": "then; later; afterwards"
+  },
+  "moag-21-d3b0a71ce4633e1e": {
+    "recall": "to be hungry (literally, “hunger exists”; give the noun + existence construction)"
+  },
+  "moag-21-d9b77374c8196e61": {
+    "recall": "to be thirsty (simple verb; give the dictionary form)"
+  },
+  "moag-21-ae723daa73ed13ce": {
+    "recall": "to be thirsty (literally, “thirst exists”; give the noun + existence construction)"
+  },
+  "moag-10-82e5332c69847c65": {
+    "recall": "to live; reside; stay (in a place)"
+  },
+  "moag-25-578179a16966fd82": {
+    "recall": "to live; be alive"
+  },
+  "moag-03-fb125c9edde827da": {
+    "recall": "to take; for taking (infinitive/purpose form)"
+  },
+  "moag-08-94bbc6c334149e56": {
+    "recall": "to take (dictionary form)"
+  },
+  "moag-18-3ca6163d48059b33": {
+    "recall": "to turn (intransitive: turn oneself; dictionary form)"
+  },
+  "moag-21-d4d013677987d506": {
+    "recall": "to turn something (transitive); to set out on a journey (dictionary form)"
+  },
+  "moag-23-7fbd42305d9c6b1f": {
+    "recall": "to turn something (transitive); to set out on a journey (dictionary form)"
+  },
+  "moag-11-24c2884ace6621ef": {
+    "recall": "why; for what purpose? (question word without the copula)"
+  },
+  "moag-11-08c9556b5707cdd0": {
+    "recall": "why; what for? (question form including the copula)"
+  },
+  "moag-21-fa34fd5c767bd92c": {
+    "recall": "within (time limit; suffix following a dative form)"
+  },
+  "moag-02-16bf41660ce2f092": {
+    "recall": "sir; you (addressing someone respectfully by this title)"
+  },
+  "moag-04-f8f8b2b74bd0a567": {
+    "recall": "everything; all (standalone form)"
+  },
+  "moag-16-1384d7c7abc61ea1": {
+    "recall": "all (give the construction surrounding a noun)"
+  },
+  "moag-04-3991eb7efdbf4e6e": {
+    "recall": "Let’s go! (verb alone, without an explicit “to us”)"
+  },
+  "moag-07-e4ce7f9b49f299f8": {
+    "recall": "Let’s go! (include the explicit “to us” pronoun)"
+  },
+  "moag-25-6f4cda7ec4284681": {
+    "recall": "grain; cereal (general noun, not specifically paddy rice)",
+    "explanation": "The source printed “richness,” but the written word means grain or cereal. The reading uses a different form; see the editorial note in Lesson 25."
+  }
+}

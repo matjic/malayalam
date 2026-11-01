@@ -217,7 +217,7 @@ Note the future potential forms of the verbs you have learned so far.
 4. His office is opposite the school.
 5. “Where is her (older sister's) house?” “It's on this side of the market.”
 6. “Will you give mother our plates?” “Yes, I will.”
-7. “Doesn't he (respected) know Malayalam?” “No, he doesn't”
+7. “Doesn't he (honorific) know Malayalam?” “No, he doesn't”
 8. “(Don't) you know the Krishna Temple?” “Yes, I do.” “The school is just beyond it.”
 
 > **Learner note (editorial):** In item 5 below, നോക്കില്ലേ? means “Won’t you look?” Its negative future form is explained in Lesson 7, §7.1, with further practice in Lesson 9.

@@ -174,7 +174,7 @@
       "id": "moag-01-4f34113e6ac5bbe5",
       "chapter": 1,
       "malayalam": "നിങ്ങളുടെ",
-      "english": "your (polite)",
+      "english": "your (plural or polite singular pronoun)",
       "origin": "textbook",
       "source": "docs/lesson1.md",
       "audio": [
@@ -264,7 +264,7 @@
       "id": "moag-01-e1a2806cbc95461e",
       "chapter": 1,
       "malayalam": "അവൻ",
-      "english": "he (inferior to speaker)",
+      "english": "he (familiar, non-honorific)",
       "origin": "textbook",
       "source": "docs/lesson1.md",
       "audio": [
@@ -324,7 +324,7 @@
       "id": "moag-01-60eae63769e09f95",
       "chapter": 1,
       "malayalam": "അവൾ",
-      "english": "she (inferior to speaker)",
+      "english": "she (familiar, non-honorific)",
       "origin": "textbook",
       "source": "docs/lesson1.md",
       "audio": [
@@ -354,7 +354,7 @@
       "id": "moag-01-82648d7e9c6738b9",
       "chapter": 1,
       "malayalam": "അദ്ദേഹം",
-      "english": "he (respected)",
+      "english": "he (honorific)",
       "origin": "textbook",
       "source": "docs/lesson1.md",
       "audio": [
@@ -537,7 +537,7 @@
       "id": "moag-02-2c1d8bfc6bde4c3b",
       "chapter": 2,
       "malayalam": "സാറിന്റെ",
-      "english": "your (respectful), gentleman’s",
+      "english": "sir’s; your (addressing someone as “sir”)",
       "origin": "textbook",
       "source": "docs/lesson2.md",
       "audio": [
@@ -672,7 +672,7 @@
       "id": "moag-02-4db008cbf4a2a2b8",
       "chapter": 2,
       "malayalam": "ഇയാൾ",
-      "english": "he (equal, close by)",
+      "english": "he (neutral, non-honorific; nearby)",
       "origin": "textbook",
       "source": "docs/lesson2.md",
       "audio": [
@@ -2981,7 +2981,7 @@
       "id": "moag-08-7b34d45f822f99ed",
       "chapter": 8,
       "malayalam": "തനിക്ക്",
-      "english": "to you (familiar) (equal)",
+      "english": "to you (familiar singular; between peers)",
       "origin": "textbook",
       "source": "docs/lesson8.md",
       "audio": [
@@ -3041,7 +3041,7 @@
       "id": "moag-08-1adf680fd5a15e64",
       "chapter": 8,
       "malayalam": "താൻ",
-      "english": "you (familiar) (equal)",
+      "english": "you (familiar singular; between peers)",
       "origin": "textbook",
       "source": "docs/lesson8.md",
       "audio": []
@@ -4481,7 +4481,7 @@
       "id": "moag-11-56ed190a42063de6",
       "chapter": 11,
       "malayalam": "എടാ!",
-      "english": "Hey! (vocative expression indicating informality or derogation, used with male social intimates or inferiors. To females, “എടി” is used.)",
+      "english": "Hey! (vocative expression indicating informality or derogation, used with males in close relationships or addressed without deference; may sound disrespectful. To females, “എടി” is used.)",
       "origin": "textbook",
       "source": "docs/lesson11.md",
       "audio": [
@@ -10291,7 +10291,7 @@
       "id": "moag-20-b9c330e0a41697f9",
       "chapter": 20,
       "malayalam": "പ്രധാനം",
-      "english": "(n.)",
+      "english": "what is important; the main thing (nominal form)",
       "origin": "textbook",
       "source": "docs/lesson20.md",
       "audio": [
@@ -14238,7 +14238,7 @@
       "id": "moag-25-6f4cda7ec4284681",
       "chapter": 25,
       "malayalam": "ധാന്യം",
-      "english": "richness",
+      "english": "grain; cereal",
       "origin": "textbook",
       "source": "docs/lesson25.md",
       "audio": [

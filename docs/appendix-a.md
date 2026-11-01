@@ -33,11 +33,11 @@
 
 | No. | Form | Meaning |
 |---|---|---|
-| 1. | നീ | you (to intimate age inferiors) |
-| 2. | താൻ | you (to intimate contemporaries) |
-| 3. | given name | you (to less intimate age inferior family members) |
-| 4. | kinship term | you (to close family members superior in age) |
-| 5. | given name plus kin term | you (to less immediate family members superior in age) |
+| 1. | നീ | you (familiar singular; to younger people in close relationships) |
+| 2. | താൻ | you (familiar singular; to peers) |
+| 3. | given name | you (to younger family members outside the closest relationships) |
+| 4. | kinship term | you (to older, close family members) |
+| 5. | given name plus kin term | you (to older, less immediate family members) |
 | 6. | നിങ്ങൾ | you (anyone outside the family with whom the relationship is not intimate, i.e. distant) |
 | 7. | താങ്കൾ | you (persons of very high status) |
 | 8. | അങ്ങ് | you (of incomparably high status) |
@@ -54,16 +54,18 @@
 <a id="appendix-a-iii-third-person"></a><!-- reading-anchor -->
 ### III. Third Person*
 
+> **Learner note (editorial):** The descriptions below distinguish familiarity and deference. Non-honorific forms can be affectionate in close relationships or disrespectful where a polite form is expected. The original course’s social conventions are historical and vary in present-day usage.
+
 <a id="appendix-a-a-singular-3"></a><!-- reading-anchor -->
 #### A. Singular
 
 | No. | Form | Meaning |
 |---|---|---|
-| 1. | അവൻ, ഇവൻ | he (inferior to speaker) |
-| 2. | അവൾ, ഇവൾ | she (inferior to speaker) |
-| 3. | അയാൾ, ഇയാൾ | he (equal to speaker) |
-| 4. | അവർ, ഇവർ | she (equal and distant, or superior to speaker) |
-| 5. | അദ്ദേഹം, ഇദ്ദേഹം | he (superior to speaker and respected) |
+| 1. | അവൻ, ഇവൻ | he (familiar, non-honorific) |
+| 2. | അവൾ, ഇവൾ | she (familiar, non-honorific) |
+| 3. | അയാൾ, ഇയാൾ | he (neutral, non-honorific) |
+| 4. | അവർ, ഇവർ | she (honorific; used to show respect or social distance) |
+| 5. | അദ്ദേഹം, ഇദ്ദേഹം | he (honorific; used to show respect) |
 
 <a id="appendix-a-b-plural-3"></a><!-- reading-anchor -->
 #### B. Plural

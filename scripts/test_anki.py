@@ -6,13 +6,14 @@ from pathlib import Path
 import re
 import tempfile
 import zipfile
-from anki_export import build
+from anki_export import build, format_card_text, english_for_card, recall_for_card, create_model, stable_id, english_field_for_card
+import genanki
 from anki.collection import Collection
-from anki.import_export_pb2 import ImportAnkiPackageRequest
+from anki.import_export_pb2 import ImportAnkiPackageRequest, ImportAnkiPackageOptions
 
 ROOT = Path(__file__).resolve().parents[1]
 data = json.loads((ROOT / 'data/vocabulary/moag.json').read_text())
-overrides = json.loads((ROOT / 'data/vocabulary/anki-english.json').read_text())
+overrides = json.loads((ROOT / 'data/vocabulary/study.json').read_text())
 entries = {e['id']: e for e in data['entries']}
 expected_audio = {'moag_' + Path(clip['path']).name for entry in entries.values() for clip in entry['audio']}
 
@@ -36,8 +37,32 @@ def verify(package):
     with tempfile.TemporaryDirectory() as tmp:
         col = Collection(str(Path(tmp)/'collection.anki2'))
         try:
-            request = ImportAnkiPackageRequest(package_path=str(package))
+            request = ImportAnkiPackageRequest(package_path=str(package),
+                options=ImportAnkiPackageOptions())
+            # Import the previous six-field model first, then update prompts and templates.
+            legacy = create_model()
+            legacy.templates[1]['qfmt'] = '<div>{{English}}</div>'
+            legacy.templates[1]['afmt'] = '{{FrontSide}}<hr id="answer">{{Malayalam}}'
+            legacy_deck = genanki.Deck(stable_id('moag-chapter-1'), 'Malayalam::Lesson 01')
+            original = next(e for e in data['entries'] if e['malayalam'] == 'നിങ്ങളുടെ')
+            legacy_deck.add_note(genanki.Note(model=legacy, guid=genanki.guid_for(original['id']),
+                fields=[original['id'], original['malayalam'], 'your (polite)', '', 'Lesson 1', '']))
+            legacy_path = Path(tmp) / 'legacy.apkg'
+            genanki.Package([legacy_deck]).write_to_file(str(legacy_path), timestamp=1_600_000_000)
+            col.import_anki_package(ImportAnkiPackageRequest(package_path=str(legacy_path)))
+            old_note = col.get_note(col.find_notes('')[0])
+            old_card_ids = [c.id for c in old_note.cards()]
+            old_reverse = old_note.cards()[1]
+            old_reverse.type = old_reverse.queue = 2
+            old_reverse.ivl, old_reverse.reps = 21, 7
+            col.update_card(old_reverse)
+            col.db.execute('update notes set mod = 1 where id = ?', old_note.id)
             col.import_anki_package(request)
+            upgraded = col.get_note(old_note.id)
+            assert [c.id for c in upgraded.cards()] == old_card_ids
+            assert upgraded['English'] == english_field_for_card(original, overrides)
+            assert col.get_card(old_reverse.id).ivl == 21
+            assert col.get_card(old_reverse.id).reps == 7
             assert col.note_count() == len(entries)
             assert col.card_count() == 2 * len(entries)
             names = [d.name for d in col.decks.all_names_and_ids()]
@@ -49,7 +74,7 @@ def verify(package):
                 note = col.get_note(nid)
                 assert note['Malayalam'] and note['English']
                 entry = entries[note['EntryID']]
-                assert note['English'] == html.escape(overrides.get(entry['malayalam'], entry['english']))
+                assert note['English'] == english_field_for_card(entry, overrides)
                 assert not re.search(r'[\u0d00-\u0d7f]', note['English']), note['English']
                 assert not re.search(r'^a (?:male|female|feminine|name|Hindu female)', note['English'])
                 sounds = re.findall(r'\[sound:([^]]+)\]', note['Audio'])
@@ -69,6 +94,12 @@ def verify(package):
                     else:
                         assert 'Lesson note:' not in card.answer()
                     if card.ord == 1:
+                        assert format_card_text(recall_for_card(entry, overrides)) in card.question()
+                        assert 'recall-question' in card.question()
+                        assert 'Also accept:' not in card.question()
+                        assert 'usage-note' not in card.question()
+                        if overrides.get(entry['id'], {}).get('alternatives'):
+                            assert 'Also accept:' in card.answer()
                         # Includes the full prompt, so neither the definition nor other
                         # template fields can leak Malayalam spellings before the flip.
                         assert not re.search(r'[\u0d00-\u0d7f]', card.question())
@@ -92,7 +123,7 @@ def verify(package):
             assert col.note_count() == len(entries) and col.card_count() == 2 * len(entries)
             card = col.get_card(cid)
             assert card.ivl == 12 and card.reps == 4 and card.queue == 2
-            assert col.get_note(changed_note.id)['English'] == 'Raman (male name)'
+            assert col.get_note(changed_note.id)['English'] == english_field_for_card(entries[changed_note['EntryID']], overrides)
         finally:
             col.close()
     print(f'Official Anki import/reimport passed: {len(entries)} notes; all media intact.')

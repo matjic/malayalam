@@ -63,7 +63,7 @@ Jump to a letter:
 | അമ്പലം | [6](lesson6.md#lesson6-vocabulary) | temple |
 | അമ്മ | [3](lesson3.md#lesson3-vocabulary) | mother |
 | അയച്ചു (citation form: അയക്കുക) | [11](lesson11.md#lesson11-vocabulary) | sent |
-| അയാൾ | [2](lesson2.md#lesson2-vocabulary) | he (equal to speaker) |
+| അയാൾ | [2](lesson2.md#lesson2-vocabulary) | he (neutral, non-honorific) |
 | അയാൾക്ക് | [4](lesson4.md#lesson4-vocabulary) | to him, for him |
 | അയാളുടെ | [6](lesson6.md#lesson6-vocabulary) | his |
 | അയാളെ എനിക്ക് വിശ്വാസമുണ്ട് | [19](lesson19.md#lesson19-vocabulary) | I have faith in him, I trust him |
@@ -196,8 +196,8 @@ Jump to a letter:
 | ഇല്ലായിരുന്നു | [11](lesson11.md#lesson11-vocabulary) | there was not (past negative of ഉണ്ട്) |
 | ഇല്ലേ? | [5](lesson5.md#lesson5-vocabulary) | question form of ഇല്ല |
 | ഇവ | [10](lesson10.md#lesson10-vocabulary) | these |
-| ഇവൻ | [2](lesson2.md#lesson2-vocabulary) | he (nearby, inferior to or equal to speaker) |
-| ഇവൾ | [2](lesson2.md#lesson2-vocabulary) | she (nearby, inferior to or equal to speaker) |
+| ഇവൻ | [2](lesson2.md#lesson2-vocabulary) | he (nearby; familiar, non-honorific) |
+| ഇവൾ | [2](lesson2.md#lesson2-vocabulary) | she (nearby; familiar, non-honorific) |
 | ഇവർ | [2](lesson2.md#lesson2-vocabulary) | they (nearby, masculine and feminine) |
 | ഇവിടുത്തെ | [16](lesson16.md#lesson16-vocabulary) | of this place (genitive of ഇവിടെ) |
 | ഇവിടെ | [2](lesson2.md#lesson2-vocabulary) | here (near to speaker) |
@@ -260,7 +260,7 @@ Jump to a letter:
 |---|---|---|
 | എങ്ങനെ | [7](lesson7.md#lesson7-vocabulary) | how |
 | എങ്ങോട്ട് | [2](lesson2.md#lesson2-vocabulary) | where, in which direction |
-| എടാ! | [10](lesson10.md#lesson10-vocabulary) | hey! (vocative expression indicating informality or derogation, used with male social intimates or inferiors. To females, എടീ is used) |
+| എടാ! | [10](lesson10.md#lesson10-vocabulary) | hey! (vocative expression indicating informality or derogation, used with males in close relationships or addressed without deference; may sound disrespectful. To females, എടീ is used) |
 | എടുക്കണം | [8](lesson8.md#lesson8-vocabulary) | ought to take, want to take, need to take |
 | എടുക്കരുതേ | [23](lesson23.md#lesson23-vocabulary) | for heaven's sake don't get (take) |
 | എടുക്കാൻ | [3](lesson3.md#lesson3-vocabulary) | to take, for taking |
@@ -1186,7 +1186,7 @@ Jump to a letter:
 | സാഹിത്യം | [14](lesson14.md#lesson14-vocabulary) | literature |
 | സാഹിത്യവേദി | [14](lesson14.md#lesson14-vocabulary) | ‘Literary Section’ – a section title in some Malayalam newspapers |
 | സാറ് or സാർ | [2](lesson2.md#lesson2-vocabulary) | you (respectful), gentleman, teacher |
-| സാറിന്റെ | [2](lesson2.md#lesson2-vocabulary) | your (respectful), gentleman’s, teacher’s |
+| സാറിന്റെ | [2](lesson2.md#lesson2-vocabulary) | sir’s; your (addressing someone as “sir”), teacher’s |
 | സിനിമ | [5](lesson5.md#lesson5-vocabulary) | cinema |
 | സിനിമാരംഗം | [14](lesson14.md#lesson14-vocabulary) | ‘Film Scene’ – a section title in some Malayalam newspapers |
 | സിനിമാശാല | [18](lesson18.md#lesson18-vocabulary) | cinema house, movie theater |
