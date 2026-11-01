@@ -52,20 +52,22 @@
 <!-- Source: PDF page 474; printed page 411. -->
 
 <a id="appendix-a-iii-third-person"></a><!-- reading-anchor -->
-### III. Third Person*
+### III. Third Person
 
-> **Learner note (editorial):** The descriptions below distinguish familiarity and deference. Non-honorific forms can be affectionate in close relationships or disrespectful where a polite form is expected. The original course’s social conventions are historical and vary in present-day usage.
+**Note on near and far forms:** Two distinctions of physical proximity are made in the third person pronouns. The first item in each entry is the “far” form, which is the most commonly used. The second item in each entry is the “near” form, which is only used when the person is within the conversational group, or within close physical proximity to the speaker. The “near” forms may also be used in referring to someone whom another speaker has just mentioned.
+
+> **Learner note (editorial):** The descriptions below distinguish familiarity and deference. Informal forms can be affectionate in close relationships or disrespectful where a polite form is expected. The original course’s social conventions are historical and vary in present-day usage.
 
 <a id="appendix-a-a-singular-3"></a><!-- reading-anchor -->
 #### A. Singular
 
 | No. | Form | Meaning |
 |---|---|---|
-| 1. | അവൻ, ഇവൻ | he (familiar, non-honorific) |
-| 2. | അവൾ, ഇവൾ | she (familiar, non-honorific) |
-| 3. | അയാൾ, ഇയാൾ | he (neutral, non-honorific) |
-| 4. | അവർ, ഇവർ | she (honorific; used to show respect or social distance) |
-| 5. | അദ്ദേഹം, ഇദ്ദേഹം | he (honorific; used to show respect) |
+| 1. | അവൻ, ഇവൻ | he (informal) |
+| 2. | അവൾ, ഇവൾ | she (informal) |
+| 3. | അയാൾ, ഇയാൾ | he (neutral) |
+| 4. | അവർ, ഇവർ | she (formal; used to show respect or social distance) |
+| 5. | അദ്ദേഹം, ഇദ്ദേഹം | he (formal; used to show respect) |
 
 <a id="appendix-a-b-plural-3"></a><!-- reading-anchor -->
 #### B. Plural
@@ -73,8 +75,6 @@
 | No. | Form | Meaning |
 |---|---|---|
 | 1. | അവർ, ഇവർ | they (all relationships) |
-
-\* Two distinctions of physical proximity are made in the third person pronouns. The first item in each entry is the “far” form, which is the most commonly used. The second item in each entry is the “near” form, which is only used when the person is within the conversational group, or within close physical proximity to the speaker. The “near” forms may also be used in referring to someone whom another speaker has just mentioned.
 
 <!-- reading-navigation -->
 

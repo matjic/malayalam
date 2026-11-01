@@ -17,9 +17,9 @@
 | | നിങ്ങൾ | നിങ്ങളുടെ | your (plural or polite singular pronoun) |
 | | അവൻ | അവന്റെ | his (familiar possessive) |
 | | അയാൾ | അയാളുടെ | his (neutral possessive) |
-| | അദ്ദേഹം | അദ്ദേഹത്തിന്റെ | his (honorific possessive) |
+| | അദ്ദേഹം | അദ്ദേഹത്തിന്റെ | his (formal possessive) |
 | | അവൾ | അവളുടെ | her (familiar possessive) |
-| | അവർ | അവരുടെ | her (honorific possessive) |
+| | അവർ | അവരുടെ | her (formal possessive) |
 | Plural | നമ്മൾ | നമ്മുടെ<br>നമ്മളുടെ | our (including the listener) |
 | | ഞങ്ങൾ | ഞങ്ങളുടെ | our (excluding the listener) |
 | | നിങ്ങൾ | നിങ്ങളുടെ | your (plural possessive) |
@@ -221,7 +221,7 @@ Note the future potential forms of the verbs you have learned so far.
 4. His office is opposite the school.
 5. “Where is her (older sister's) house?” “It's on this side of the market.”
 6. “Will you give mother our plates?” “Yes, I will.”
-7. “Doesn't he (honorific) know Malayalam?” “No, he doesn't”
+7. “Doesn't he (formal) know Malayalam?” “No, he doesn't”
 8. “(Don't) you know the Krishna Temple?” “Yes, I do.” “The school is just beyond it.”
 
 > **Learner note (editorial):** In item 5 below, നോക്കില്ലേ? means “Won’t you look?” Its negative future form is explained in Lesson 7, §7.1, with further practice in Lesson 9.

@@ -712,26 +712,26 @@
     "recall": "your; sir’s (using the title “sir” possessively)"
   },
   "moag-02-4db008cbf4a2a2b8": {
-    "recall": "he (neutral, non-honorific; person nearby)"
+    "recall": "he (neutral; person nearby)"
   },
   "moag-01-e1a2806cbc95461e": {
-    "recall": "he (familiar, non-honorific; person away from the speaker)",
-    "explanation": "Familiar, non-honorific forms require an appropriate relationship. They can express closeness or sound disrespectful; they do not imply that the person has less worth."
+    "recall": "he (informal; person away from the speaker)",
+    "explanation": "Informal forms require an appropriate relationship. They can express closeness or sound disrespectful; they do not imply that the person has less worth."
   },
   "moag-01-60eae63769e09f95": {
-    "recall": "she (familiar, non-honorific; person away from the speaker)",
-    "explanation": "Familiar, non-honorific forms require an appropriate relationship. They can express closeness or sound disrespectful; they do not imply that the person has less worth."
+    "recall": "she (informal; person away from the speaker)",
+    "explanation": "Informal forms require an appropriate relationship. They can express closeness or sound disrespectful; they do not imply that the person has less worth."
   },
   "moag-01-82648d7e9c6738b9": {
-    "recall": "he (honorific; person away from the speaker)"
+    "recall": "he (formal; person away from the speaker)"
   },
   "moag-08-1adf680fd5a15e64": {
     "recall": "you (familiar singular pronoun used between peers in this course)",
-    "explanation": "Familiar, non-honorific forms require an appropriate relationship. They can express closeness or sound disrespectful; they do not imply that the person has less worth."
+    "explanation": "Informal forms require an appropriate relationship. They can express closeness or sound disrespectful; they do not imply that the person has less worth."
   },
   "moag-08-7b34d45f822f99ed": {
     "recall": "to you (dative of the familiar singular pronoun used between peers)",
-    "explanation": "Familiar, non-honorific forms require an appropriate relationship. They can express closeness or sound disrespectful; they do not imply that the person has less worth."
+    "explanation": "Informal forms require an appropriate relationship. They can express closeness or sound disrespectful; they do not imply that the person has less worth."
   },
   "moag-04-6fa1ff365579f833": {
     "recall": "bring! (polite command)"
@@ -1183,7 +1183,7 @@
     "recall": "to him (with verbs of speaking or asking)"
   },
   "moag-19-1f1ee31d46290cd6": {
-    "recall": "him (direct object; neutral non-honorific pronoun)"
+    "recall": "him (direct object; neutral pronoun)"
   },
   "moag-21-a49ee627049b9263": {
     "recall": "inside; interior (base noun)"

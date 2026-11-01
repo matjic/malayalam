@@ -43,8 +43,8 @@ Jump to a letter:
 | അത്യാവശ്യം | [13](lesson13.md#lesson13-vocabulary) | a pressing need |
 | അത്ര | [11](lesson11.md#lesson11-vocabulary) | that much, that many, so much, so many |
 | അത്രയും | [11](lesson11.md#lesson11-vocabulary) | as much as, as much as that |
-| <!-- Source: PDF page 504; printed page 441. --> അദ്ദേഹം | [1](lesson1.md#lesson1-vocabulary) | he (honorific) |
-| അദ്ദേഹത്തിന് | [4](lesson4.md#lesson4-vocabulary) | to him, for him (honorific) |
+| <!-- Source: PDF page 504; printed page 441. --> അദ്ദേഹം | [1](lesson1.md#lesson1-vocabulary) | he (formal) |
+| അദ്ദേഹത്തിന് | [4](lesson4.md#lesson4-vocabulary) | to him, for him (formal) |
 | അധികം | [16](lesson16.md#lesson16-vocabulary) | a great deal |
 | അനിയത്തി (അനുജത്തി) | [3](lesson3.md#lesson3-vocabulary) | younger sister |
 | അനിയൻ (അനുജൻ) | [3](lesson3.md#lesson3-vocabulary) | younger brother |
@@ -63,7 +63,7 @@ Jump to a letter:
 | അമ്പലം | [6](lesson6.md#lesson6-vocabulary) | temple |
 | അമ്മ | [3](lesson3.md#lesson3-vocabulary) | mother |
 | അയച്ചു (citation form: അയക്കുക) | [11](lesson11.md#lesson11-vocabulary) | sent |
-| അയാൾ | [2](lesson2.md#lesson2-vocabulary) | he (neutral, non-honorific) |
+| അയാൾ | [2](lesson2.md#lesson2-vocabulary) | he (neutral) |
 | അയാൾക്ക് | [4](lesson4.md#lesson4-vocabulary) | to him, for him |
 | അയാളുടെ | [6](lesson6.md#lesson6-vocabulary) | his |
 | അയാളെ എനിക്ക് വിശ്വാസമുണ്ട് | [19](lesson19.md#lesson19-vocabulary) | I have faith in him, I trust him |
@@ -83,9 +83,9 @@ Jump to a letter:
 | അവനോട് | [8](lesson8.md#lesson8-vocabulary) | to him (with verbs of telling and asking), for him |
 | അവസരം | [23](lesson23.md#lesson23-vocabulary) | opportunity, chance |
 | അവൾ | [1](lesson1.md#lesson1-vocabulary) | she (familiar) |
-| അവർ | [1](lesson1.md#lesson1-vocabulary) | she (honorific), they |
+| അവർ | [1](lesson1.md#lesson1-vocabulary) | she (formal), they |
 | അവൾക്ക് | [3](lesson3.md#lesson3-vocabulary) | to her, for her (familiar) |
-| അവർക്ക് | [4](lesson4.md#lesson4-vocabulary) | to her, for her (honorific) to them, for them |
+| അവർക്ക് | [4](lesson4.md#lesson4-vocabulary) | to her, for her (formal) to them, for them |
 | അവരവർ | [24](lesson24.md#lesson24-vocabulary) | they themselves |
 | അവിടെ | [2](lesson2.md#lesson2-vocabulary) | there (far from speaker) |
 | അവിടുത്തെ (genitive of അവിടെ) | [16](lesson16.md#lesson16-vocabulary) | of that place |
@@ -196,8 +196,8 @@ Jump to a letter:
 | ഇല്ലായിരുന്നു | [11](lesson11.md#lesson11-vocabulary) | there was not (past negative of ഉണ്ട്) |
 | ഇല്ലേ? | [5](lesson5.md#lesson5-vocabulary) | question form of ഇല്ല |
 | ഇവ | [10](lesson10.md#lesson10-vocabulary) | these |
-| ഇവൻ | [2](lesson2.md#lesson2-vocabulary) | he (nearby; familiar, non-honorific) |
-| ഇവൾ | [2](lesson2.md#lesson2-vocabulary) | she (nearby; familiar, non-honorific) |
+| ഇവൻ | [2](lesson2.md#lesson2-vocabulary) | he (nearby; informal) |
+| ഇവൾ | [2](lesson2.md#lesson2-vocabulary) | she (nearby; informal) |
 | ഇവർ | [2](lesson2.md#lesson2-vocabulary) | they (nearby, masculine and feminine) |
 | ഇവിടുത്തെ | [16](lesson16.md#lesson16-vocabulary) | of this place (genitive of ഇവിടെ) |
 | ഇവിടെ | [2](lesson2.md#lesson2-vocabulary) | here (near to speaker) |

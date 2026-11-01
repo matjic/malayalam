@@ -96,7 +96,7 @@ collisions, shared short English glosses, pronoun/address distinctions, commands
 and head forms versus inflected forms. Metadata clarifies those cases rather than
 claiming that all possible English-to-Malayalam translations are unique.
 
-Pronoun descriptions use familiar/non-honorific, neutral, and honorific rather
+Pronoun descriptions use informal, neutral, and formal rather
 than labeling people “inferior” or “superior.” Lesson 1 explains that familiarity,
 age, social distance, and deference interact, and that familiar forms can be
 inappropriate where a polite form is expected. These are descriptions of usage,

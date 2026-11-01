@@ -207,9 +207,9 @@ Model: കേരളം, പട്ടണങ്ങൾ
 10. ആഫീസ്, ക്ലാർക്ക്
 11. ആശുപത്രി, ഡാക്ടർമാർ
 12. അമേരിക്ക, പർവ്വതം
-13. ലോകം, കടലുകൾ*
+13. ലോകം, കടലുകൾ
 
-\* Note how കടൽ, ആൾ, etc., add -ു before the plural marker -കൾ.
+**Note on plural forms:** Note how കടൽ, ആൾ, etc., add -ു before the plural marker -കൾ.
 
 **2.** Change the phrases below as in the model.
 

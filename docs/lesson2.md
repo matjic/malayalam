@@ -10,7 +10,7 @@
 <a id="lesson2-a-personal-pronouns"></a><!-- reading-anchor -->
 ### A. Personal Pronouns
 
-> **Learner note (editorial):** Familiar, non-honorific forms do not mark deference and can be inappropriate without an established familiar relationship. Honorific forms mark respect. These labels describe usage, not the value of the person. See [Lesson 1, §1.6](lesson1.md#section-1-6).
+> **Learner note (editorial):** Informal forms do not mark deference and can be inappropriate without an established familiar relationship. Formal forms mark respect, including in casual conversations. These labels describe usage, not the value of the person. See [Lesson 1, §1.6](lesson1.md#section-1-6).
 
 **Singular:**
 
@@ -18,18 +18,18 @@
 | Malayalam | English |
 |---|---|
 | ഞാൻ | I |
-| നീ | you (familiar singular, non-honorific) |
+| നീ | you (informal singular) |
 | നിങ്ങൾ | you (polite singular) |
-| അവൻ | he (familiar, non-honorific; at a distance) |
-| ഇവൻ | he (familiar, non-honorific; nearby) |
-| അയാൾ | he (neutral, non-honorific; at a distance) |
-| ഇയാൾ | he (neutral, non-honorific; nearby) |
-| അദ്ദേഹം | he (honorific; at a distance) |
-| ഇദ്ദേഹം | he (honorific; nearby) |
-| അവൾ | she (familiar, non-honorific; at a distance) |
-| ഇവൾ | she (familiar, non-honorific; nearby) |
-| അവർ | she (honorific; at a distance) |
-| ഇവർ | she (honorific; nearby) |
+| അവൻ | he (informal; at a distance) |
+| ഇവൻ | he (informal; nearby) |
+| അയാൾ | he (neutral; at a distance) |
+| ഇയാൾ | he (neutral; nearby) |
+| അദ്ദേഹം | he (formal; at a distance) |
+| ഇദ്ദേഹം | he (formal; nearby) |
+| അവൾ | she (informal; at a distance) |
+| ഇവൾ | she (informal; nearby) |
+| അവർ | she (formal; at a distance) |
+| ഇവർ | she (formal; nearby) |
 
 **Plural:**
 
@@ -117,7 +117,7 @@
 | ഇവിടെത്തന്നെ | right here | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_008.mp3" data-audio-label="ഇവിടെത്തന്നെ" aria-label="Play ഇവിടെത്തന്നെ" title="Play ഇവിടെത്തന്നെ" aria-pressed="false">▶</button> |
 | -ഇൽ | in, among | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_009.mp3" data-audio-label="ഇൽ" aria-label="Play ഇൽ" title="Play ഇൽ" aria-pressed="false">▶</button> |
 | ആഫീസിൽ | in the office | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_010.mp3" data-audio-label="ആഫീസിൽ" aria-label="Play ആഫീസിൽ" title="Play ആഫീസിൽ" aria-pressed="false">▶</button> |
-| ഇയാൾ | he (neutral, non-honorific; nearby) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_011.mp3" data-audio-label="ഇയാൾ" aria-label="Play ഇയാൾ" title="Play ഇയാൾ" aria-pressed="false">▶</button> |
+| ഇയാൾ | he (neutral; nearby) | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_011.mp3" data-audio-label="ഇയാൾ" aria-label="Play ഇയാൾ" title="Play ഇയാൾ" aria-pressed="false">▶</button> |
 | ഇയാളെ മനസ്സിലായോ? | Do you know / recognize him? | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_012.mp3" data-audio-label="ഇയാളെ മനസ്സിലായോ?" aria-label="Play ഇയാളെ മനസ്സിലായോ?" title="Play ഇയാളെ മനസ്സിലായോ?" aria-pressed="false">▶</button> |
 | ഇല്ല | no | <button type="button" class="row-audio-button" data-row-audio-src="assets/audio/moag/words/lesson_02_word_013.mp3" data-audio-label="ഇല്ല" aria-label="Play ഇല്ല" title="Play ഇല്ല" aria-pressed="false">▶</button> |
 | നമസ്കാരം | a formal greeting (literally “I bow to you,” also നമസ്തേ) | <span class="audio-unmatched" title="No aligned recording yet">—</span> |
@@ -352,8 +352,8 @@
 | എവിടെ | where? |
 | ഡാക്ടർ | doctor |
 | വീട് | house, home |
-| അയാൾ | he (neutral, non-honorific; at a distance) |
-| അവൾ | she (familiar, non-honorific) |
+| അയാൾ | he (neutral; at a distance) |
+| അവൾ | she (informal) |
 
 **D.** Identify and practice the items in the reference list containing retroflex sounds.
 

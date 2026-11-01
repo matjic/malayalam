@@ -14,7 +14,7 @@
 #### I. Singular
 
 <!-- vocabulary-table: {"kind":"paradigm","category":"personal_pronoun","cards":false,"group":"singular"} -->
-| Case | First Person | Second Person | Third Person* |
+| Case | First Person | Second Person | Third Person |
 |---|---|---|---|
 | Nominative | ഞാൻ | നീ, താൻ | അയാൾ |
 | Possessive | എന്റെ | നിന്റെ, തന്റെ | അയാളുടെ |
@@ -23,6 +23,8 @@
 | Addressive | എന്നോട് | നിന്നോട്, തന്നോട് | അയാളോട് |
 | Locative | എന്നിൽ | നിന്നിൽ, തന്നിൽ | അയാളിൽ |
 | Instrumental | എന്നാൽ | നിന്നാൽ, തന്നാൽ | അയാളാൽ |
+
+**Note:** Other pronouns for “he” and “she” appear in [section III](#lesson8-iii-marked-third-singular-pronouns).
 
 <a id="lesson8-ii-plural"></a><!-- reading-anchor -->
 #### II. Plural
@@ -42,26 +44,26 @@
 #### III. Marked Third Singular Pronouns
 
 <!-- vocabulary-table: {"kind":"paradigm","category":"personal_pronoun","cards":false,"group":"marked"} -->
-| Case | Familiar, Non-honorific Masculine | Familiar, Non-honorific Feminine | Honorific Masculine | Honorific Feminine |
+| Case | Informal Masculine | Informal Feminine | Formal Masculine | Formal Feminine |
 |---|---|---|---|---|
 | Nominative | അവൻ | അവൾ | അദ്ദേഹം | അവർ |
 | Possessive | അവന്റെ | അവളുടെ | അദ്ദേഹത്തിന്റെ | അവരുടെ |
 
-* Other pronouns for he and she appear in III below.
 
 <!-- Source: PDF page 154; printed page 104. -->
 
 <!-- vocabulary-table: {"kind":"paradigm","category":"personal_pronoun","cards":false,"group":"marked"} -->
-| Case | Familiar, Non-honorific Masculine | Familiar, Non-honorific Feminine | Honorific Masculine | Honorific Feminine |
+| Case | Informal Masculine | Informal Feminine | Formal Masculine | Formal Feminine |
 |---|---|---|---|---|
 | Dative | അവന് | അവൾക്ക് | അദ്ദേഹത്തിന് | അവർക്ക് |
-| Accusative | അവനെ | അവളെ | അദ്ദേഹത്തിനെ* | അവരെ |
-| Addressive | അവനോട് | അവളോട് | അദ്ദേഹത്തിനോട്** | അവരോട് |
+| Accusative | അവനെ | അവളെ | അദ്ദേഹത്തിനെ (see note 1) | അവരെ |
+| Addressive | അവനോട് | അവളോട് | അദ്ദേഹത്തിനോട് (see note 2) | അവരോട് |
 | Locative | അവനിൽ | അവളിൽ | അദ്ദേഹത്തിൽ | അവരിൽ |
 | Instrumental | അവനാൽ | അവളാൽ | അദ്ദേഹത്തിനാൽ | അവരാൽ |
 
-* Sometimes shortened to അദ്ദേഹത്തെ  
-** Sometimes shortened to അദ്ദേഹത്തോട്
+**Note 1:** അദ്ദേഹത്തിനെ is sometimes shortened to അദ്ദേഹത്തെ.
+
+**Note 2:** അദ്ദേഹത്തിനോട് is sometimes shortened to അദ്ദേഹത്തോട്.
 
 <a id="lesson8-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary
@@ -636,7 +638,7 @@ In addition to ചേരുക there are a considerable number of verbs and noun
 
 1. All consonants save ർ, ൾ, and ൻ. As elsewhere, final -ം becomes ത്ത.
 
-   Examples:* അദ്ദേഹത്തിനോട് “him, to him, with him (respected)”
+   Examples: അദ്ദേഹത്തിനോട് (short form: അദ്ദേഹത്തോട്) “him, to him, with him (respected)”
 
    തോമസിനോട് “Thomas, to Thomas, with Thomas”
 
@@ -646,7 +648,7 @@ In addition to ചേരുക there are a considerable number of verbs and noun
 
 2. All consonants carrying the echo vowel ഉ (indicated by the crescent over a word-final consonant).
 
-   Examples:* ഇതിനോട് “it, to it, with it”
+   Examples: ഇതിനോട് “it, to it, with it”
 
 3. Vowels ഉ and ഊ with വ required as a joining device.
 
@@ -656,7 +658,6 @@ In addition to ചേരുക there are a considerable number of verbs and noun
 
 In general, the personal pronouns also follow these rules but, as elsewhere, ഞാൻ “I” and നീ “you (familiar)” have the special forms എന്നോട് and നിന്നോട് (see the reference list for this lesson).
 
-* Short form also exists, e.g. അദ്ദേഹത്തോട് and ഇതിനോട്
 
 <a id="section-8-4"></a><!-- reading-anchor -->
 ### 8.4 The Desiderative Form of the Verb with -ണം

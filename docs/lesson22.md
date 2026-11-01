@@ -30,6 +30,8 @@
 | ആരോടെങ്കിലും<br>ആരോടായാലും | to someone (addressive), to anyone at all |
 | <!-- Source: PDF page 392; printed page 333. --> ആരിലെങ്കിലും<br>ആരിലായാലും | in someone, in anyone at all |
 
+**Note on starred forms (\*):** Case forms of the starred items are common but are not included in these tables. See [22.1](lesson22.md#section-22-1) for examples.
+
 <a id="lesson22-b-two-piece-relative-pronouns"></a><!-- reading-anchor -->
 #### B. Two-Piece Relative Pronouns
 
@@ -46,7 +48,7 @@
 | \*ഏത് ---എങ്കിലും<br>\*ഏത് ---ആലും | whatever --- |
 | \*ആര് ---എങ്കിലും<br>\*ആര് ---ആലും | whoever --- |
 
-\*Caseforms of these items are common, but not included here. (See [22.1](lesson22.md#section-22-1) for examples)
+**Note on starred forms (\*):** Case forms of the starred items are common but are not included in these tables. See [22.1](lesson22.md#section-22-1) for examples.
 
 <a id="lesson22-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary

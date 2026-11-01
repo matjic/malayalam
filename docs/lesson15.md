@@ -13,14 +13,14 @@ Note: Meanings given here apply only when the verbal nouns appear without postpo
 | Nominative | പോകുന്നത് | പോയത് | going, having gone |
 | Possessive | പോകുന്നതിന്റെ | പോയതിന്റെ | of going, having gone |
 | Dative | പോകുന്നതിന് | പോയതിന് | for, in going, having gone |
-| Accusative* | പോകുന്നതിനെ | പോയതിനെ | — |
+| Accusative (see note 1) | പോകുന്നതിനെ | പോയതിനെ | — |
 | Addressive | | (does not occur) | |
 | Locative | പോകുന്നതിൽ | പോയതിൽ | in going, having gone; to go, to have gone |
-| Instrumental† | പോകുന്നതിനാൽ | പോയതിനാൽ | because of going, having gone |
+| Instrumental (see note 2) | പോകുന്നതിനാൽ | പോയതിനാൽ | because of going, having gone |
 
-\* Occurs only with postpositions: like, than, about, etc.
+**Note 1 — Accusative:** Occurs only with postpositions: like, than, about, etc.
 
-† The instrumental meaning of by, by means of (see [20.4](lesson20.md#section-20-4)), applies only to ordinary nouns, not to verbal nouns.
+**Note 2 — Instrumental:** The instrumental meaning of by, by means of (see [20.4](lesson20.md#section-20-4)), applies only to ordinary nouns, not to verbal nouns.
 
 <a id="lesson15-vocabulary"></a><!-- reading-anchor -->
 ## Vocabulary

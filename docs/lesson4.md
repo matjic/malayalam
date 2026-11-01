@@ -16,9 +16,9 @@
 | നിങ്ങൾക്ക് | to you; for you (plural or polite singular; dative) |
 | അവന് | to him; for him (familiar; dative) |
 | അയാൾക്ക് | to him; for him (neutral; dative) |
-| അദ്ദേഹത്തിന് | to him; for him (honorific; dative) |
+| അദ്ദേഹത്തിന് | to him; for him (formal; dative) |
 | അവൾക്ക് | to her; for her (familiar; dative) |
-| അവർക്ക് | to them; for them; to her; for her (plural or honorific singular; dative) |
+| അവർക്ക് | to them; for them; to her; for her (plural or formal singular; dative) |
 | നമുക്ക്<br>നമ്മൾക്ക് | to us; for us (including the listener; dative) |
 | ഞങ്ങൾക്ക് | to us; for us (excluding the listener; dative) |
 

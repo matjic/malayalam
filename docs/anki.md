@@ -23,7 +23,7 @@ The alternatives are specific to the card, not interchangeable in every sentence
 A prompt requesting the dictionary/head form does not require the past tense or
 plural included as reference information on the answer.
 
-Pronoun labels distinguish familiar/non-honorific, neutral, and honorific usage.
+Pronoun labels distinguish informal, neutral, and formal usage.
 Familiar forms may express closeness or sound disrespectful depending on the
 relationship; see [Lesson 1, §1.6](lesson1.md#section-1-6).
 

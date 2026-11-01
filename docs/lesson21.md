@@ -336,9 +336,11 @@ The linker -പ്പോൾ means “when” or “while.” It mainly joins to 
 1. അവൾ വരുമ്പോൾ ഞാൻ അത് ചോദിക്കും.
 
    “When she comes, I will ask (her) that.”
-2. * അവൾ വന്നപ്പോൾ ഞാൻ അത് ചോദിച്ചു.
+2. അവൾ വന്നപ്പോൾ ഞാൻ അത് ചോദിച്ചു.
 
    “When she came, I asked (her) that.”
+
+   **Note:** Notice the doubling of പ when -പ്പോൾ is joined in വന്നപ്പോൾ.
 3. അവൾ വന്നിരുന്നപ്പോൾ ഞാൻ അത് ചോദിച്ചു.
 
    “When she had come, I asked (her) that.”
@@ -348,8 +350,6 @@ Note that -ആകുക can be used meaning both “be” and “become” in th
 4. ഞാൻ കൊല്ലത്തായിരുന്നപ്പോൾ.......
 
    “When I was in Quilon,....”
-
-\* Note the doubling of പ when -പ്പോൾ is joined here.
 
 5. ഞാൻ ഡാക്ടർ ആയപ്പോൾ......... <!-- Source: PDF page 381; printed page 322. -->
 
@@ -502,10 +502,12 @@ Note that the final vowel drops before adding എ.
 
 | Malayalam | English |
 | --- | --- |
-| \*\* ഗുരുവേ ! | “guru, oh, hey guru!” |
-| \*\* പ്രഭുവേ ! | “lord, oh lord, hey lord!” |
+| ഗുരുവേ ! | “guru, oh, hey guru!” |
+| പ്രഭുവേ ! | “lord, oh lord, hey lord!” |
 
 Note that വ is required as a joining device.
+
+**Note on older forms:** The older forms ഗുരോ and പ്രഭോ are still sometimes found.
 
 3. All final consonants except -ൻ on proper names. Examples:
 
@@ -537,13 +539,7 @@ As you can see, the categories for the different endings are complicated enough 
 <a id="section-21-4"></a><!-- reading-anchor -->
 ### 21.4 Degrees of Probability with the Modal Auxiliary
 
-It was explained in [19.1](lesson19.md#section-19-1) that greater and lesser probability may be shown in equative and cleft sentences by replacing the copula ആണ് “to be” with ആയിരിക്കും “will be” and
-
-\*\* The older forms ഗുരോ and പ്രഭോ are still sometimes found.
-
-<!-- Source: PDF page 386; printed page 327. -->
-
-ആയിരിക്കാം “might be”. Similarly, probability can be added to main verbs in all of the forms studied so far, except the imperative, by joining either modal to the end of the verbform.
+It was explained in [19.1](lesson19.md#section-19-1) that greater and lesser probability may be shown in equative and cleft sentences by replacing the copula ആണ് “to be” with ആയിരിക്കും “will be” and <!-- Source: PDF page 386; printed page 327. --> ആയിരിക്കാം “might be”. Similarly, probability can be added to main verbs in all of the forms studied so far, except the imperative, by joining either modal to the end of the verbform.
 
 1. ചേട്ടൻ അമ്മയോട് ചോദിച്ചായിരിക്കും/ചോദിച്ചായിരിക്കാം — “Older brother probably/may have asked mother.”
 

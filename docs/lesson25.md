@@ -176,7 +176,9 @@
 </div>
 <!-- /moag-audio -->
 
-Note the noun and adjective forms of colors in these sentences.*
+Note the noun and adjective forms of colors in these sentences.
+
+**Note:** For other colors, the English words are normally used.
 
 <a id="lesson25-white"></a><!-- reading-anchor -->
 ### White
@@ -221,8 +223,6 @@ Note the noun and adjective forms of colors in these sentences.*
 <u>ഇതിന്റെ</u> നിറം മഞ്ഞ ആണ്.
 
 <u>ഇത്</u> ഒരു മഞ്ഞ പേന ആണ്.
-
-Note: For other colors, the English words are normally used.
 
 <a id="lesson25-text"></a><!-- reading-anchor -->
 ## Text

@@ -659,7 +659,7 @@ Practice Lessons A–C are additions based on UT Austin learning resources, plac
 - [Pronouns and Address Forms](appendix-a.md#appendix-a-pronouns-and-address-forms)
   - [I. First Person](appendix-a.md#appendix-a-i-first-person)
   - [II. Second Person](appendix-a.md#appendix-a-ii-second-person)
-  - [III. Third Person*](appendix-a.md#appendix-a-iii-third-person)
+  - [III. Third Person](appendix-a.md#appendix-a-iii-third-person)
 
 ### [Appendix B](appendix-b.md)
 
