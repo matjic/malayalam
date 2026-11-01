@@ -8,7 +8,31 @@ permissions:
   contents: read
 
 jobs:
-  unit-tests:
+  rust:
+    name: Rust rendering and compatibility
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+        with:
+          components: rustfmt, clippy
+      - uses: Swatinem/rust-cache@v2
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: '1.3.10'
+      - name: Check Rust formatting and lints
+        run: |
+          cargo fmt --all --check
+          cargo clippy --locked --all-targets -- -D warnings
+      - name: Test rendered content, links, and assets
+        run: cargo test --locked
+      - name: Check sidebar freshness
+        run: cargo run --locked -- sidebar --check
+      - name: Test backward-compatible fragment redirects
+        run: bun test tests/legacy-routes.test.js
+
+  python:
+    name: Existing content and export checks
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4

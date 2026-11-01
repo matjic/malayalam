@@ -12,8 +12,9 @@ by Mathew Jacob. This edition was not published by Moag.
 ## Architecture
 
 The repository is a static publishing system. Human-readable source files and
-versioned data feed small Python generators; the website uses Docsify to render
-Markdown in the browser. No application server or database is required in production.
+versioned data feed a Rust static-site renderer and the remaining Python export/audio
+tools. The website ships complete HTML while reusing the existing Docsify theme,
+fonts, CSS, and layout classes. No application server or database is required in production.
 
 | Layer | Representation | Role |
 |---|---|---|
@@ -22,7 +23,7 @@ Markdown in the browser. No application server or database is required in produc
 | Writing models | Named paths and guides in `scripts/writing_shapes.py` | Generate standalone SVGs and assembled writing tables |
 | Audio | Original MP3s, timestamped clip manifests, explicit repairs | Preserve recordings while producing section, word, and letter playback |
 | Vocabulary | Generated `data/vocabulary/moag.json` | Shared structured input for the glossary and Anki exporter |
-| Website | Docsify, local JavaScript/CSS/fonts | Reading navigation, search, vocabulary filters, and audio controls |
+| Website | Rust-rendered HTML, Docsify theme CSS, local JavaScript/fonts | Reading navigation, search, vocabulary filters, and audio controls |
 | Exports | Pandoc EPUB, WeasyPrint PDF, and genanki packages | Reuse the content in ebook readers and spaced-repetition study |
 
 ## Content and data flow
@@ -67,9 +68,11 @@ can be inspected and revised.
 ## Delivery and validation
 
 The site is served as static files through GitHub Pages. GitHub Actions builds the
-EPUB with Pandoc and validates it with EPUBCheck. Separate jobs render and validate
-the PDF and build and test the Anki deck in parallel. Once all three jobs pass, a
+EPUB with Pandoc and validates it with EPUBCheck. Separate jobs render HTML with Rust, render and validate
+the PDF, and build and test the Anki deck in parallel. Once the required Rust, browser-route,
+and Python checks and all builds pass, a
 publishing job downloads their artifacts and assembles the site for deployment.
+Pull requests also assemble the complete site and validate its downloads. Only main-branch runs configure and deploy GitHub Pages.
 Both book formats share content preparation and reading order. The book exports retain the written content and omit audio players, recording
 links, and Audio columns. Anki packages embed recordings and a Malayalam font for offline study.
 
@@ -81,14 +84,34 @@ listening review; they do not replace them.
 
 ## Working with the repository
 
-The site preview uses Bun and Docsify:
+Build and preview the site with Rust:
 
 ```sh
-bun install
-bun run dev
+cargo run --locked -- site
+cargo run --locked -- serve
 ```
 
-Generators use Python; EPUB and PDF export additionally require Pandoc. The PDF
+The preview opens at `http://127.0.0.1:3001/`. `--base /malayalam/` supports
+GitHub project-site prefixes; pass it to both commands. `cargo run --locked --
+check-site` validates the rendered links and media, and `--require-exports`
+checks that the assembled site contains the generated PDF and EPUB downloads.
+`cargo run --locked -- sidebar --check` verifies the generated sidebar.
+
+Existing fragment links use a small browser-side `location.replace` redirect;
+new links use paths such as `/lesson8/#section-8-1`. Source and Docsify-generated
+heading aliases are retained. Audio, glossary filtering and writing controls
+initialize directly on static pages; no Docsify runtime is loaded.
+
+The old renderer remains available for visual comparisons with `bun install`
+and `bun run dev:legacy`. New development uses `bun run dev` or the Cargo commands.
+Rust and URL compatibility tests run with `cargo test --locked` and
+`bun test tests/legacy-routes.test.js`.
+
+The migration to Rust is staged. Site rendering, route/link validation, search-index
+construction, local preview serving and sidebar generation are now Rust. Vocabulary
+and Anki generation, EPUB/PDF preparation, SVG generation and the offline audio/ML
+pipelines still use Python; they have not been replaced by hidden subprocess wrappers.
+Their existing checks remain required during the migration. EPUB and PDF export additionally require Pandoc. The PDF
 renderer uses Pango and the dependencies in `requirements/pdf.txt`. Anki dependencies
 are isolated in `requirements/anki.txt`, with optional backend-test dependencies in
 `requirements/anki-test.txt`. Package scripts expose the common build and check

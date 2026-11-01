@@ -1,7 +1,6 @@
 (function () {
   'use strict';
-  window.$docsify = window.$docsify || {};
-  window.$docsify.plugins = (window.$docsify.plugins || []).concat(function (hook) {
+  window.Malayalam.plugin(function (hook) {
     hook.doneEach(function () {
       const query = document.getElementById('vocabulary-query');
       if (!query) return;

@@ -1,5 +1,5 @@
 (function () {
-  window.$docsify.plugins = (window.$docsify.plugins || []).concat(function (hook) {
+  window.Malayalam.plugin(function (hook) {
     hook.doneEach(function () {
       const section = document.querySelector('.markdown-section');
       if (section.querySelector('.site-footer')) return;

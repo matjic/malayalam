@@ -1,7 +1,7 @@
 /* Inline local writing models so strokes, guides, and labels inherit CSS. */
 (function () {
   const cache = new Map();
-  window.$docsify.plugins = (window.$docsify.plugins || []).concat(function (hook) {
+  window.Malayalam.plugin(function (hook) {
     hook.doneEach(function () {
       document.querySelectorAll('.markdown-section img').forEach(async function (img) {
         const url = new URL(img.src, location.href);

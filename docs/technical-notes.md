@@ -20,7 +20,7 @@ The record of that stage is visible in the [initial transcription commit](https:
 
 The site uses **Docsify** to render ordinary Markdown in the browser, with local CSS, JavaScript, and font assets. **Bun** runs the development server and package scripts. The source remains editable without a database or content-management service.
 
-Python scripts generate the sidebar and previous/next navigation from the textbook’s reading sequence. Descriptive lesson titles were added while retaining the original lesson numbers and numbered grammar sections. Explicit anchors support links to grammar explanations, vocabulary sections, and index targets.
+The Rust content model generates the sidebar from the textbook’s reading sequence. A transitional Python script still maintains previous/next navigation in the Markdown sources. Descriptive lesson titles were added while retaining the original lesson numbers and numbered grammar sections. Explicit anchors support links to grammar explanations, vocabulary sections, and index targets.
 
 The book exports contain one generated contents list instead of repeating the website and printed contents. The PDF also provides chapter and section bookmarks.
 
@@ -74,7 +74,7 @@ The local **Anki source repository** was consulted for package-format behavior. 
 
 The [EPUB builder](https://github.com/matjic/malayalam/blob/main/scripts/build-epub.py) prepares temporary copies of the Markdown and uses **Pandoc** to produce EPUB 3. The website’s source files are not rewritten for export. Reading order, linked sections, source credits, photographs, and writing diagrams are retained; expandable practice answers become visible text.
 
-Audio players, recording links, and Audio columns are omitted from the EPUB and PDF; written vocabulary entries are retained. Audio playback remains available on the website and in Anki. Serif typefaces are embedded, but font support and wide-table behavior depend on the reader. **EPUBCheck** validates the generated book in the GitHub Actions workflow. Independent EPUB, PDF, and Anki jobs run in parallel, with Python dependency caches for PDF and Anki. On the main branch, site assembly waits for all three jobs to pass, downloads their artifacts, and includes the original textbook PDF before deployment to **GitHub Pages** at the project’s custom domain.
+Audio players, recording links, and Audio columns are omitted from the EPUB and PDF; written vocabulary entries are retained. Audio playback remains available on the website and in Anki. Serif typefaces are embedded, but font support and wide-table behavior depend on the reader. **EPUBCheck** validates the generated book in the GitHub Actions workflow. Independent EPUB, PDF, and Anki jobs run in parallel, with Python dependency caches for PDF and Anki. On the main branch, site assembly also requires the Rust HTML build and the required unit/compatibility tests. It downloads the rendered site and export artifacts and includes the original textbook PDF before deployment to **GitHub Pages** at the project’s custom domain.
 
 The PDF shares the EPUB’s prepared Markdown and reading order. Pandoc generates
 HTML, and [WeasyPrint](https://doc.courtbouillon.org/weasyprint/stable/), using Pango for text shaping, renders A4 pages with
@@ -91,11 +91,26 @@ The repository includes checks for source-page coverage, numbered sections, rela
 
 The absence of an active audio review flag means the current review queue has been resolved or the form has been placed in its table. It does not mean every automatically transcribed recording received a fresh human listening review. Source contradictions, incomplete grammar explanations, and other unresolved language issues remain documented in the [proofreading review](proofreading-review.md).
 
+The website now renders complete HTML at build time in Rust, retaining the local
+Docsify theme stylesheet, fonts, layout classes, and custom CSS. New page paths
+use `/lesson8/` and native section fragments. A small redirect converts old
+`/#/lesson8?id=section-8-1` links; the Docsify router is not loaded on generated
+pages. Search uses a generated index; audio controls, writing diagrams and
+glossary filtering retain their existing browser behavior. The old renderer
+remains available for side-by-side visual checks.
+
+The remaining Python vocabulary, book-export, writing-model and audio tools are
+still part of the migration. Existing catalog IDs, media checksums and Anki
+identities remain unchanged by the site renderer.
+
 For maintainers, the main reproducible steps are:
 
 | Task | Command |
 |---|---|
-| Preview the site | `bun install`, then `bun run dev` |
+| Build and preview static HTML | `cargo run --locked -- site`, then `cargo run --locked -- serve` |
+| Compare the old Docsify renderer | `bun install`, then `bun run dev:legacy` |
+| Check rendered links, assets, and downloads | `cargo run --locked -- check-site --require-exports` |
+| Test Rust rendering and old fragment redirects | `cargo test --locked`, then `bun test tests/legacy-routes.test.js` |
 | Regenerate chapter navigation | `bun run docs:navigation` |
 | Check links, tables, and page markers | `bun run docs:check-reading` |
 | Check vocabulary clips and alignment regressions | `bun run docs:check-word-audio` |

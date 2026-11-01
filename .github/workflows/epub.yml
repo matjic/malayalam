@@ -6,81 +6,59 @@ on:
     branches: [main]
     paths:
       - 'docs/**'
-      - 'Moag-Malayalam-CompleteTextbook.pdf'
+      - 'src/**'
+      - 'tests/**'
+      - 'scripts/**'
+      - 'requirements/**'
       - 'data/vocabulary/**'
-      - 'scripts/build-vocabulary-catalog.py'
-      - 'scripts/audio_tables.py'
-      - 'scripts/test_vocabulary_ids.py'
-      - 'scripts/vocabulary_tables.py'
-      - 'scripts/test_vocabulary_tables.py'
-      - 'scripts/build-vocabulary-glossary.py'
-      - 'scripts/test_audio_row_alignment.py'
-      - 'scripts/audio_lexicon.py'
-      - 'scripts/build-anki.py'
-      - 'scripts/anki_export.py'
-      - 'scripts/anki.css'
-      - 'scripts/test_anki_export.py'
-      - 'scripts/test_anki.py'
-      - 'requirements/anki*.txt'
-      - 'scripts/build-epub.py'
-      - 'scripts/book_export.py'
-      - 'scripts/build-pdf.py'
-      - 'scripts/validate-pdf.py'
-      - 'scripts/test_pdf_layout.py'
-      - 'scripts/pdf.css'
-      - 'scripts/pdf.html'
-      - 'requirements/pdf*.txt'
-      - 'scripts/test_epub_export.py'
-      - 'scripts/check-list-structure.py'
-      - 'scripts/reading_order.py'
-      - 'scripts/epub.css'
-      - '.github/workflows/epub.yml'
-      - '.github/workflows/unit-tests.yml'
+      - 'Cargo.toml'
+      - 'Cargo.lock'
+      - 'package.json'
+      - 'bun.lock'
+      - 'Moag-Malayalam-CompleteTextbook.pdf'
+      - '.github/workflows/**'
   pull_request:
     paths:
       - 'docs/**'
-      - 'Moag-Malayalam-CompleteTextbook.pdf'
+      - 'src/**'
+      - 'tests/**'
+      - 'scripts/**'
+      - 'requirements/**'
       - 'data/vocabulary/**'
-      - 'scripts/build-vocabulary-catalog.py'
-      - 'scripts/audio_tables.py'
-      - 'scripts/test_vocabulary_ids.py'
-      - 'scripts/vocabulary_tables.py'
-      - 'scripts/test_vocabulary_tables.py'
-      - 'scripts/build-vocabulary-glossary.py'
-      - 'scripts/test_audio_row_alignment.py'
-      - 'scripts/audio_lexicon.py'
-      - 'scripts/build-anki.py'
-      - 'scripts/anki_export.py'
-      - 'scripts/anki.css'
-      - 'scripts/test_anki_export.py'
-      - 'scripts/test_anki.py'
-      - 'requirements/anki*.txt'
-      - 'scripts/build-epub.py'
-      - 'scripts/book_export.py'
-      - 'scripts/build-pdf.py'
-      - 'scripts/validate-pdf.py'
-      - 'scripts/test_pdf_layout.py'
-      - 'scripts/pdf.css'
-      - 'scripts/pdf.html'
-      - 'requirements/pdf*.txt'
-      - 'scripts/test_epub_export.py'
-      - 'scripts/check-list-structure.py'
-      - 'scripts/reading_order.py'
-      - 'scripts/epub.css'
-      - '.github/workflows/epub.yml'
-      - '.github/workflows/unit-tests.yml'
+      - 'Cargo.toml'
+      - 'Cargo.lock'
+      - 'package.json'
+      - 'bun.lock'
+      - 'Moag-Malayalam-CompleteTextbook.pdf'
+      - '.github/workflows/**'
 
 permissions:
   contents: read
 
 concurrency:
   group: pages-${{ github.ref }}
-  cancel-in-progress: false
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
 
 jobs:
   unit-tests:
     name: Required unit tests
     uses: ./.github/workflows/unit-tests.yml
+
+  site:
+    name: Render HTML with Rust
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+      - uses: Swatinem/rust-cache@v2
+      - name: Render and validate static HTML
+        run: cargo run --locked --release -- site --output dist/site
+      - uses: actions/upload-artifact@v4
+        with:
+          name: malayalam-site
+          path: dist/site/
+          include-hidden-files: true
+          if-no-files-found: error
 
   epub:
     name: Build and validate EPUB
@@ -161,12 +139,17 @@ jobs:
           if-no-files-found: error
 
   publish:
-    name: Assemble site
-    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
-    needs: [unit-tests, epub, pdf, anki]
+    name: Assemble and validate site
+    needs: [unit-tests, site, epub, pdf, anki]
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+      - uses: Swatinem/rust-cache@v2
+      - uses: actions/download-artifact@v4
+        with:
+          name: malayalam-site
+          path: dist/site/
       - uses: actions/download-artifact@v4
         with:
           name: malayalam-epub
@@ -182,14 +165,13 @@ jobs:
       - name: Assemble site with book and Anki downloads
         run: |
           mkdir -p dist/site
-          cp -a docs/. dist/site/
           cp dist/malayalam.epub dist/site/malayalam.epub
           cp dist/malayalam.pdf dist/site/malayalam.pdf
           cp Moag-Malayalam-CompleteTextbook.pdf dist/site/Moag-Malayalam-CompleteTextbook.pdf
           mkdir -p dist/site/assets/decks
           cp dist/anki/malayalam-moag.apkg dist/site/assets/decks/malayalam-moag.apkg
-      - name: Configure GitHub Pages
-        uses: actions/configure-pages@v5
+      - name: Check the assembled site including all downloads
+        run: cargo run --locked --release -- check-site --output dist/site --require-exports
       - name: Upload site
         uses: actions/upload-pages-artifact@v3
         with:
@@ -206,6 +188,8 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
       - name: Deploy site
         id: deployment
         uses: actions/deploy-pages@v4

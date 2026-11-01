@@ -1,5 +1,5 @@
 (function () {
-  window.$docsify.plugins = (window.$docsify.plugins || []).concat(function (hook) {
+  window.Malayalam.plugin(function (hook) {
     hook.beforeEach(function (content) {
       document.querySelectorAll('.lesson-audio audio').forEach(function (audio) {
         audio.pause();

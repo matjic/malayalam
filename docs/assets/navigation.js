@@ -1,5 +1,5 @@
 (function () {
-  window.$docsify.plugins = (window.$docsify.plugins || []).concat(function (hook) {
+  window.Malayalam.plugin(function (hook) {
     hook.mounted(function () {
       const button = document.querySelector('.sidebar-toggle');
       const sidebar = document.querySelector('.sidebar');
