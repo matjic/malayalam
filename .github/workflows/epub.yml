@@ -1,4 +1,4 @@
-name: Build EPUB/PDF/Anki and deploy site
+name: Build and deploy site
 
 on:
   workflow_dispatch:
