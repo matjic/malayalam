@@ -1,8 +1,8 @@
 *.swp
 *.swo
 node_modules
-__pycache__/
 dist/
-.venv-anki/
 
 /target/
+
+.DS_Store

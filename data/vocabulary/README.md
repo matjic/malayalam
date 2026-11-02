@@ -84,7 +84,7 @@ Original glosses containing Malayalam forms, accepted alternatives, and usage
 notes appear only after revealing the answer. Original glosses and editorial
 notes share the existing `Source` field with the lesson link.
 
-`python scripts/audit-vocabulary-prompts.py` checks every entry and reports shared
+`cargo run --locked -- audit-prompts` checks every entry and reports shared
 prompts whose answers are explicitly accepted. Checks ignore punctuation and case,
 reject incomplete fronts such as “(n.)”, and require reciprocal alternatives when
 different Malayalam entries share a prompt. They run during every deck build and
@@ -145,66 +145,23 @@ rebuilding. Do not delete and recreate decks to update them.
 
 ## Build and validate
 
-Use Python 3.10 or newer with a working standard library:
+Use the Rust CLI:
 
 ```sh
-python3 -m venv /private/tmp/malayalam-anki-env
-/private/tmp/malayalam-anki-env/bin/python -m pip install -r requirements/anki.txt
-/private/tmp/malayalam-anki-env/bin/python scripts/build-vocabulary-catalog.py
-/private/tmp/malayalam-anki-env/bin/python scripts/build-anki.py
-/private/tmp/malayalam-anki-env/bin/python scripts/build-vocabulary-catalog.py --check
+cargo run --locked -- vocabulary
+cargo run --locked -- vocabulary --check
+cargo run --locked -- audit-prompts
+cargo run --locked -- anki --no-site-copy
+cargo run --locked -- glossary
+cargo test --locked --test publishing
 ```
 
-Outputs go to ignored `dist/anki/` (override with `--output`). The CLI also updates
-`docs/assets/decks/malayalam-moag.apkg`; use `--no-site-copy` for an isolated build.
-For import tests,
-install `requirements/anki-test.txt` in the same environment and run
-`scripts/test_anki_export.py` and `scripts/test_anki.py`. The first checks input
-validation and compatibility contracts. The second builds a fresh package in a
-temporary directory, imports into a disposable collection, and checks card
-rendering, chapter organization, embedded media and blank audio fields, then
-reimports to check deduplication and preservation of review progress.
+Outputs go to ignored `dist/anki/` (override with `--output`). Omit `--no-site-copy` to also update `docs/assets/decks/malayalam-moag.apkg`.
 
-Validated using genanki 0.13.1 and the official Anki 26.9.3 Python backend.
-The local Anki source's package metadata implementation confirms support for the
-legacy `collection.anki2`/media-map package format used by genanki. No modifications
-to the Anki source repository are needed. Generated card visibility and layout have also been checked in a browser at desktop and phone widths; the native Anki GUI was not separately tested.
+`src/vocabulary.rs` validates marked source tables, seven-case paradigms, selected study forms, and catalog identity. `src/anki.rs` validates prompts and media and packages decks using native Rust. The six published fields and their order, model ID `1843859663`, deck keys, template order, GUID algorithm, audio filenames, and embedded font name remain unchanged.
 
-The reusable `.github/workflows/unit-tests.yml` runs table-contract, coverage,
-identity, exporter, and audio alignment tests, plus catalog/glossary freshness
-checks. The site workflow calls it as `unit-tests`; both site assembly and
-deployment explicitly depend on its success. The separate Anki job runs official
-Anki import/reimport tests and builds the deck alongside the EPUB/PDF workflow. Each run
-uploads `dist/anki/` as the `malayalam-anki` artifact. Successful runs on `main`
-include the freshly built package in the deployed site's deck download; CI does
-not commit generated packages back to the repository.
+Tests compare every published note's GUID and rendered fields against the migration baseline, inspect the generated SQLite database and archive, and reject ambiguous prompts, invalid metadata, missing media, and changed checksums. The migrated Rust package was also imported and reimported using the official Anki 26.9.3 backend: legacy note IDs, card IDs, review intervals and repetition counts were retained. This one-time migration verification is not a build dependency.
 
-## Exporter maintenance
+Lesson tables remain the catalog source. `study.json` supplies direction-specific English prompts, accepted alternatives, and answer-only explanations without changing Anki's schema. Explicit `cards:false` entries remain glossary-only. Regenerate the glossary after vocabulary changes; CI checks that both are current.
 
-`scripts/build-anki.py` is the CLI. `scripts/anki_export.py` separates catalog
-validation, card rendering, media verification, deck creation, and packaging;
-`scripts/anki.css` controls card appearance. Importing the module does no file IO.
-The `build(output)` API returns the summary and writes only to that output folder
-unless a `site_package` path is explicitly supplied. Tests never replace the site
-download or rely on an older package in `dist/`.
-
-Keep the model identity, field order, template order, deck identity keys, and entry
-GUID inputs stable so reimports update existing notes. Chapter lookups use their
-numbers rather than JSON array positions. Counts are derived from the catalog;
-audio checksums, duplicate IDs, media name collisions, and unused English overrides
-fail before package generation. Study metadata changes do not require an Anki schema migration.
-
-Run `bun run test` in a Python environment with `requirements/anki.txt` installed
-(or run the same Python commands from the package script). Coverage tests assert
-that core pronouns, question words and postpositions stay available for study,
-that source links resolve, and that social-ranking labels do not return in tables
-or headers. The `--check` commands detect stale generated outputs.
-
-## Site glossary
-
-Run `python3 scripts/build-vocabulary-glossary.py` after rebuilding the catalog
-to generate `docs/vocabulary-glossary.md`; add `--check` to detect stale output.
-The page combines identical word-and-meaning pairs across chapters, keeps distinct
-meanings separate, links every occurrence to its lesson, and reuses the site audio
-player. Browser controls filter by Malayalam/English text and chapter. The original
-source glossary in `docs/glossary.md` is preserved separately.
+The reusable unit-test workflow is a prerequisite of deployment. All source and exporter tests run through Cargo; browser redirect tests run through Bun.

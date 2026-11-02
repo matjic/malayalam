@@ -1,0 +1,5138 @@
+{
+  "shapes": {
+    "vowel-a": {
+      "symbol": "അ",
+      "page": 27,
+      "width": 230,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "left arch",
+          "path": "M40 125 C-8 100 1 32 64 32",
+          "guide": "M25 127 C-22 90 -5 18 55 18",
+          "label": [
+            0,
+            79
+          ]
+        },
+        {
+          "name": "upper inner bowl",
+          "path": "M64 32 C109 32 114 75 76 76",
+          "guide": "M73 44 C101 47 102 66 84 67",
+          "label": [
+            86,
+            55
+          ]
+        },
+        {
+          "name": "lower inner bowl",
+          "path": "M76 76 C120 79 109 133 74 125",
+          "guide": "M84 87 C104 100 97 115 84 115",
+          "label": [
+            93,
+            102
+          ]
+        },
+        {
+          "name": "inner return",
+          "path": "M74 125 C31 116 27 58 64 32",
+          "guide": "M56 113 C32 85 36 60 49 46",
+          "label": [
+            36,
+            89
+          ]
+        },
+        {
+          "name": "middle arch and downstroke",
+          "path": "M64 32 C87 5 142 20 142 54 V125",
+          "guide": "M112 38 C129 44 131 63 131 116",
+          "label": [
+            122,
+            82
+          ]
+        },
+        {
+          "name": "right arch",
+          "path": "M142 125 V54 C142 12 196 13 218 54",
+          "guide": "M153 116 V60 C153 34 170 28 184 29",
+          "label": [
+            159,
+            83
+          ]
+        },
+        {
+          "name": "right loop down",
+          "path": "M218 54 C235 81 233 125 211 125",
+          "guide": "M219 69 C224 87 224 108 215 116",
+          "label": [
+            222,
+            95
+          ]
+        },
+        {
+          "name": "right loop return",
+          "path": "M211 125 C178 125 179 59 218 54",
+          "guide": "M201 113 C184 96 192 72 206 66",
+          "label": [
+            190,
+            92
+          ]
+        }
+      ],
+      "caption": "അ"
+    },
+    "vowel-aa": {
+      "symbol": "ആ",
+      "page": 27,
+      "width": 300,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "left arch",
+          "path": "M40 125 C-8 100 1 32 64 32",
+          "guide": "M25 127 C-22 90 -5 18 55 18",
+          "label": [
+            0,
+            79
+          ]
+        },
+        {
+          "name": "upper inner bowl",
+          "path": "M64 32 C109 32 114 75 76 76",
+          "guide": "M73 44 C101 47 102 66 84 67",
+          "label": [
+            86,
+            55
+          ]
+        },
+        {
+          "name": "lower inner bowl",
+          "path": "M76 76 C120 79 109 133 74 125",
+          "guide": "M84 87 C104 100 97 115 84 115",
+          "label": [
+            93,
+            102
+          ]
+        },
+        {
+          "name": "inner return",
+          "path": "M74 125 C31 116 27 58 64 32",
+          "guide": "M56 113 C32 85 36 60 49 46",
+          "label": [
+            36,
+            89
+          ]
+        },
+        {
+          "name": "middle arch and downstroke",
+          "path": "M64 32 C87 5 142 20 142 54 V125",
+          "guide": "M112 38 C129 44 131 63 131 116",
+          "label": [
+            122,
+            82
+          ]
+        },
+        {
+          "name": "right arch",
+          "path": "M142 125 V54 C142 12 196 13 218 54",
+          "guide": "M153 116 V60 C153 34 170 28 184 29",
+          "label": [
+            159,
+            83
+          ]
+        },
+        {
+          "name": "right loop down",
+          "path": "M218 54 C235 81 233 125 211 125",
+          "guide": "M219 69 C224 87 224 108 215 116",
+          "label": [
+            222,
+            95
+          ]
+        },
+        {
+          "name": "right loop return",
+          "path": "M211 125 C178 125 179 59 218 54",
+          "guide": "M201 113 C184 96 192 72 206 66",
+          "label": [
+            190,
+            92
+          ]
+        },
+        {
+          "name": "long-vowel extension",
+          "path": "M218 54 C296 58 302 158 252 158 C237 158 224 152 218 145",
+          "guide": "M252 58 C311 82 315 153 269 171",
+          "label": [
+            299,
+            116
+          ]
+        }
+      ],
+      "caption": "ആ"
+    },
+    "vowel-i": {
+      "symbol": "ഇ",
+      "page": 27,
+      "width": 220,
+      "height": 200,
+      "strokes": [
+        {
+          "name": "loop",
+          "path": "M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95",
+          "guide": "M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99",
+          "label": [
+            56,
+            96
+          ],
+          "arrow_size": 6
+        },
+        {
+          "name": "left arch",
+          "path": "M40 95 C17 16 120 6 120 59 V104",
+          "guide": "M23 87 C10 8 83 -4 108 22",
+          "label": [
+            64,
+            7
+          ]
+        },
+        {
+          "name": "right arch",
+          "path": "M120 104 V59 C120 9 181 7 181 57 V112",
+          "guide": "M130 94 V58 C130 34 143 25 157 26",
+          "label": [
+            141,
+            52
+          ]
+        },
+        {
+          "name": "lower return",
+          "path": "M181 112 C181 137 159 143 139 143 H50",
+          "guide": "M170 120 C166 133 137 131 95 132",
+          "label": [
+            139,
+            120
+          ]
+        },
+        {
+          "name": "baseline turn",
+          "path": "M50 143 C13 143 13 169 50 169 H190",
+          "guide": "M32 141 C3 152 14 183 57 183",
+          "label": [
+            13,
+            164
+          ]
+        }
+      ],
+      "caption": "ഇ"
+    },
+    "vowel-ii": {
+      "symbol": "ഈ",
+      "page": 27,
+      "width": 325,
+      "height": 200,
+      "strokes": [
+        {
+          "name": "loop",
+          "path": "M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95",
+          "guide": "M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99",
+          "label": [
+            56,
+            96
+          ],
+          "arrow_size": 6
+        },
+        {
+          "name": "left arch",
+          "path": "M40 95 C17 16 120 6 120 59 V104",
+          "guide": "M23 87 C10 8 83 -4 108 22",
+          "label": [
+            64,
+            7
+          ]
+        },
+        {
+          "name": "right arch",
+          "path": "M120 104 V59 C120 9 181 7 181 57 V112",
+          "guide": "M130 94 V58 C130 34 143 25 157 26",
+          "label": [
+            141,
+            52
+          ]
+        },
+        {
+          "name": "lower return",
+          "path": "M181 112 C181 137 159 143 139 143 H50",
+          "guide": "M170 120 C166 133 137 131 95 132",
+          "label": [
+            139,
+            120
+          ]
+        },
+        {
+          "name": "baseline turn",
+          "path": "M50 143 C13 143 13 169 50 169 H190",
+          "guide": "M32 141 C3 152 14 183 57 183",
+          "label": [
+            13,
+            164
+          ]
+        },
+        {
+          "name": "first arch",
+          "path": "M20 85 V52 C20 24 54 24 54 52 V85",
+          "guide": "M28 78 V52 C28 34 46 34 46 52 V78",
+          "label": [
+            37,
+            58
+          ],
+          "transform": "translate(204 12) scale(0.85)"
+        },
+        {
+          "name": "second arch and bowl",
+          "path": "M54 52 C54 24 88 24 88 52 V110 C88 138 42 138 42 110",
+          "guide": "M62 78 V52 C62 34 80 34 80 52 V108 C80 128 53 130 51 116",
+          "label": [
+            72,
+            94
+          ],
+          "transform": "translate(204 12) scale(0.85)"
+        }
+      ],
+      "caption": "ഈ"
+    },
+    "vowel-u": {
+      "symbol": "ഉ",
+      "page": 27,
+      "width": 180,
+      "height": 200,
+      "strokes": [
+        {
+          "name": "loop",
+          "path": "M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95",
+          "guide": "M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99",
+          "label": [
+            56,
+            96
+          ],
+          "arrow_size": 6
+        },
+        {
+          "name": "outer arch",
+          "path": "M40 95 C12 5 147 8 135 85 C131 117 115 141 84 140",
+          "guide": "M26 86 C13 -8 156 2 148 84 C146 113 130 143 106 151",
+          "label": [
+            118,
+            18
+          ]
+        },
+        {
+          "name": "baseline turn",
+          "path": "M84 140 H46 C14 140 14 169 46 169 H151",
+          "guide": "M32 138 C4 148 8 184 49 184",
+          "label": [
+            15,
+            167
+          ]
+        }
+      ],
+      "caption": "ഉ"
+    },
+    "vowel-uu": {
+      "symbol": "ഊ",
+      "page": 27,
+      "width": 295,
+      "height": 200,
+      "strokes": [
+        {
+          "name": "loop",
+          "path": "M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95",
+          "guide": "M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99",
+          "label": [
+            56,
+            96
+          ],
+          "arrow_size": 6
+        },
+        {
+          "name": "outer arch",
+          "path": "M40 95 C12 5 147 8 135 85 C131 117 115 141 84 140",
+          "guide": "M26 86 C13 -8 156 2 148 84 C146 113 130 143 106 151",
+          "label": [
+            118,
+            18
+          ]
+        },
+        {
+          "name": "baseline turn",
+          "path": "M84 140 H46 C14 140 14 169 46 169 H151",
+          "guide": "M32 138 C4 148 8 184 49 184",
+          "label": [
+            15,
+            167
+          ]
+        },
+        {
+          "name": "first arch",
+          "path": "M20 85 V52 C20 24 54 24 54 52 V85",
+          "guide": "M28 78 V52 C28 34 46 34 46 52 V78",
+          "label": [
+            37,
+            58
+          ],
+          "transform": "translate(174 12) scale(0.9)"
+        },
+        {
+          "name": "second arch and bowl",
+          "path": "M54 52 C54 24 88 24 88 52 V110 C88 138 42 138 42 110",
+          "guide": "M62 78 V52 C62 34 80 34 80 52 V108 C80 128 53 130 51 116",
+          "label": [
+            72,
+            94
+          ],
+          "transform": "translate(174 12) scale(0.9)"
+        }
+      ],
+      "caption": "ഊ"
+    },
+    "vowel-r": {
+      "symbol": "ഋ",
+      "page": 28,
+      "width": 190,
+      "height": 200,
+      "strokes": [
+        {
+          "name": "left loop",
+          "path": "M33 42 C33 10 77 10 77 42 C77 72 33 72 33 42",
+          "guide": "M43 38 C47 25 65 29 65 43 C65 55 44 57 44 44",
+          "label": [
+            54,
+            43
+          ]
+        },
+        {
+          "name": "left descent",
+          "path": "M33 42 V82 C33 103 49 111 71 111",
+          "guide": "M45 78 C45 90 53 96 65 99",
+          "label": [
+            44,
+            87
+          ]
+        },
+        {
+          "name": "lower oval",
+          "path": "M71 111 C145 111 161 159 113 169 C70 179 32 163 43 139 C52 121 80 111 112 111",
+          "guide": "M124 119 C157 132 154 157 125 174",
+          "label": [
+            153,
+            143
+          ]
+        },
+        {
+          "name": "right ascent",
+          "path": "M112 111 C144 111 157 98 157 76 V42",
+          "guide": "M75 100 C127 102 143 99 145 79",
+          "label": [
+            112,
+            98
+          ]
+        },
+        {
+          "name": "right loop",
+          "path": "M157 42 C157 10 113 10 113 42 C113 72 157 72 157 42",
+          "guide": "M145 38 C138 25 123 30 125 44 C128 58 146 56 145 45",
+          "label": [
+            136,
+            44
+          ]
+        }
+      ],
+      "caption": "ഋ"
+    },
+    "vowel-e": {
+      "symbol": "എ",
+      "page": 28,
+      "width": 240,
+      "height": 205,
+      "strokes": [
+        {
+          "name": "left curl",
+          "path": "M35 111 C9 98 13 53 47 59 C74 64 81 96 63 111",
+          "guide": "M20 111 C-5 92 17 40 48 50 C86 55 96 93 80 99",
+          "label": [
+            47,
+            38
+          ]
+        },
+        {
+          "name": "crossbar",
+          "path": "M63 111 H166",
+          "guide": "M71 125 H155",
+          "label": [
+            116,
+            136
+          ]
+        },
+        {
+          "name": "central ascent",
+          "path": "M166 111 V40",
+          "guide": "M155 101 V48",
+          "label": [
+            144,
+            75
+          ]
+        },
+        {
+          "name": "central descent and turn",
+          "path": "M166 40 V143 C166 192 108 166 108 115",
+          "guide": "M178 48 V142",
+          "label": [
+            189,
+            97
+          ]
+        },
+        {
+          "name": "large arch",
+          "path": "M108 115 C99 48 119 16 156 17 C192 17 216 52 218 103",
+          "guide": "M98 111 C94 38 117 4 153 4",
+          "label": [
+            108,
+            25
+          ]
+        },
+        {
+          "name": "right descent",
+          "path": "M218 103 C220 135 213 157 205 174",
+          "guide": "M221 30 C245 68 245 135 221 174",
+          "label": [
+            242,
+            101
+          ]
+        }
+      ],
+      "caption": "എ"
+    },
+    "vowel-ee": {
+      "symbol": "ഏ",
+      "page": 28,
+      "width": 240,
+      "height": 205,
+      "strokes": [
+        {
+          "name": "left curl",
+          "path": "M35 111 C9 98 13 53 47 59 C74 64 81 96 63 111",
+          "guide": "M20 111 C-5 92 17 40 48 50 C86 55 96 93 80 99",
+          "label": [
+            47,
+            38
+          ]
+        },
+        {
+          "name": "crossbar",
+          "path": "M63 111 H166",
+          "guide": "M71 125 H155",
+          "label": [
+            116,
+            136
+          ]
+        },
+        {
+          "name": "central ascent",
+          "path": "M166 111 V40",
+          "guide": "M155 101 V48",
+          "label": [
+            144,
+            75
+          ]
+        },
+        {
+          "name": "central descent and turn",
+          "path": "M166 40 V143 C166 192 108 166 108 115",
+          "guide": "M178 48 V142",
+          "label": [
+            189,
+            97
+          ]
+        },
+        {
+          "name": "large arch",
+          "path": "M108 115 C99 48 119 16 156 17 C192 17 216 52 218 103",
+          "guide": "M98 111 C94 38 117 4 153 4",
+          "label": [
+            108,
+            25
+          ]
+        },
+        {
+          "name": "upper right bowl",
+          "path": "M218 103 C218 123 208 128 199 128",
+          "guide": "M223 30 C251 70 244 114 219 125",
+          "label": [
+            241,
+            86
+          ]
+        },
+        {
+          "name": "lower right bowl",
+          "path": "M199 128 C228 130 233 157 211 174",
+          "guide": "M219 135 C242 148 242 166 226 182",
+          "label": [
+            247,
+            157
+          ]
+        }
+      ],
+      "caption": "ഏ"
+    },
+    "vowel-ai": {
+      "symbol": "ഐ",
+      "page": 28,
+      "width": 390,
+      "height": 205,
+      "strokes": [
+        {
+          "name": "loop",
+          "path": "M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95",
+          "guide": "M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99",
+          "label": [
+            56,
+            96
+          ],
+          "arrow_size": 6
+        },
+        {
+          "name": "outer arch",
+          "path": "M40 95 C17 12 149 14 133 95 C130 112 118 125 107 131",
+          "guide": "M23 87 C8 0 160 1 147 89 C145 107 133 127 121 137",
+          "label": [
+            136,
+            23
+          ]
+        },
+        {
+          "name": "left curl",
+          "path": "M35 111 C9 98 13 53 47 59 C74 64 81 96 63 111",
+          "guide": "M20 111 C-5 92 17 40 48 50 C86 55 96 93 80 99",
+          "label": [
+            47,
+            38
+          ],
+          "transform": "translate(150 0) scale(1)"
+        },
+        {
+          "name": "crossbar",
+          "path": "M63 111 H166",
+          "guide": "M71 125 H155",
+          "label": [
+            116,
+            136
+          ],
+          "transform": "translate(150 0) scale(1)"
+        },
+        {
+          "name": "central ascent",
+          "path": "M166 111 V40",
+          "guide": "M155 101 V48",
+          "label": [
+            144,
+            75
+          ],
+          "transform": "translate(150 0) scale(1)"
+        },
+        {
+          "name": "central descent and turn",
+          "path": "M166 40 V143 C166 192 108 166 108 115",
+          "guide": "M178 48 V142",
+          "label": [
+            189,
+            97
+          ],
+          "transform": "translate(150 0) scale(1)"
+        },
+        {
+          "name": "large arch",
+          "path": "M108 115 C99 48 119 16 156 17 C192 17 216 52 218 103",
+          "guide": "M98 111 C94 38 117 4 153 4",
+          "label": [
+            108,
+            25
+          ],
+          "transform": "translate(150 0) scale(1)"
+        },
+        {
+          "name": "right descent",
+          "path": "M218 103 C220 135 213 157 205 174",
+          "guide": "M221 30 C245 68 245 135 221 174",
+          "label": [
+            242,
+            101
+          ],
+          "transform": "translate(150 0) scale(1)"
+        }
+      ],
+      "caption": "ഐ"
+    },
+    "vowel-o": {
+      "symbol": "ഒ",
+      "page": 28,
+      "width": 170,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "loop",
+          "path": "M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95",
+          "guide": "M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99",
+          "label": [
+            56,
+            96
+          ],
+          "arrow_size": 6
+        },
+        {
+          "name": "upper arch and bowl",
+          "path": "M40 95 C15 15 140 11 139 64 C139 78 128 81 111 81",
+          "guide": "M24 87 C6 0 156 0 151 62 C151 74 146 81 138 87",
+          "label": [
+            105,
+            14
+          ]
+        },
+        {
+          "name": "lower bowl",
+          "path": "M111 81 C154 81 157 137 114 137 H111",
+          "guide": "M143 92 C166 119 151 149 121 149",
+          "label": [
+            164,
+            119
+          ]
+        }
+      ],
+      "caption": "ഒ"
+    },
+    "vowel-oo": {
+      "symbol": "ഓ",
+      "page": 28,
+      "width": 295,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "loop",
+          "path": "M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95",
+          "guide": "M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99",
+          "label": [
+            56,
+            96
+          ],
+          "arrow_size": 6
+        },
+        {
+          "name": "upper arch and bowl",
+          "path": "M40 95 C15 15 140 11 139 64 C139 78 128 81 111 81",
+          "guide": "M24 87 C6 0 156 0 151 62 C151 74 146 81 138 87",
+          "label": [
+            105,
+            14
+          ]
+        },
+        {
+          "name": "lower bowl",
+          "path": "M111 81 C154 81 157 137 114 137 H111",
+          "guide": "M143 92 C166 119 151 149 121 149",
+          "label": [
+            164,
+            119
+          ]
+        },
+        {
+          "name": "long-a bowl",
+          "path": "M33 40 C74 -5 119 104 63 128 C42 137 29 126 25 114",
+          "guide": "M39 45 C72 21 103 98 66 117 C49 127 40 119 36 114",
+          "label": [
+            93,
+            82
+          ],
+          "transform": "translate(160 0) scale(1)"
+        }
+      ],
+      "caption": "ഓ"
+    },
+    "vowel-au": {
+      "symbol": "ഔ",
+      "page": 29,
+      "width": 300,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "loop",
+          "path": "M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95",
+          "guide": "M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99",
+          "label": [
+            56,
+            96
+          ],
+          "arrow_size": 6
+        },
+        {
+          "name": "upper arch and bowl",
+          "path": "M40 95 C15 15 140 11 139 64 C139 78 128 81 111 81",
+          "guide": "M24 87 C6 0 156 0 151 62 C151 74 146 81 138 87",
+          "label": [
+            105,
+            14
+          ]
+        },
+        {
+          "name": "lower bowl",
+          "path": "M111 81 C154 81 157 137 114 137 H111",
+          "guide": "M143 92 C166 119 151 149 121 149",
+          "label": [
+            164,
+            119
+          ]
+        },
+        {
+          "name": "first arch",
+          "path": "M20 85 V52 C20 24 54 24 54 52 V85",
+          "guide": "M28 78 V52 C28 34 46 34 46 52 V78",
+          "label": [
+            37,
+            58
+          ],
+          "transform": "translate(172 8) scale(1.1)"
+        },
+        {
+          "name": "second arch and bowl",
+          "path": "M54 52 C54 24 88 24 88 52 V110 C88 138 42 138 42 110",
+          "guide": "M62 78 V52 C62 34 80 34 80 52 V108 C80 128 53 130 51 116",
+          "label": [
+            72,
+            94
+          ],
+          "transform": "translate(172 8) scale(1.1)"
+        }
+      ],
+      "caption": "ഔ"
+    },
+    "vowel-am": {
+      "symbol": "അം",
+      "page": 29,
+      "width": 335,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "left arch",
+          "path": "M40 125 C-8 100 1 32 64 32",
+          "guide": "M25 127 C-22 90 -5 18 55 18",
+          "label": [
+            0,
+            79
+          ]
+        },
+        {
+          "name": "upper inner bowl",
+          "path": "M64 32 C109 32 114 75 76 76",
+          "guide": "M73 44 C101 47 102 66 84 67",
+          "label": [
+            86,
+            55
+          ]
+        },
+        {
+          "name": "lower inner bowl",
+          "path": "M76 76 C120 79 109 133 74 125",
+          "guide": "M84 87 C104 100 97 115 84 115",
+          "label": [
+            93,
+            102
+          ]
+        },
+        {
+          "name": "inner return",
+          "path": "M74 125 C31 116 27 58 64 32",
+          "guide": "M56 113 C32 85 36 60 49 46",
+          "label": [
+            36,
+            89
+          ]
+        },
+        {
+          "name": "middle arch and downstroke",
+          "path": "M64 32 C87 5 142 20 142 54 V125",
+          "guide": "M112 38 C129 44 131 63 131 116",
+          "label": [
+            122,
+            82
+          ]
+        },
+        {
+          "name": "right arch",
+          "path": "M142 125 V54 C142 12 196 13 218 54",
+          "guide": "M153 116 V60 C153 34 170 28 184 29",
+          "label": [
+            159,
+            83
+          ]
+        },
+        {
+          "name": "right loop down",
+          "path": "M218 54 C235 81 233 125 211 125",
+          "guide": "M219 69 C224 87 224 108 215 116",
+          "label": [
+            222,
+            95
+          ]
+        },
+        {
+          "name": "right loop return",
+          "path": "M211 125 C178 125 179 59 218 54",
+          "guide": "M201 113 C184 96 192 72 206 66",
+          "label": [
+            190,
+            92
+          ]
+        },
+        {
+          "name": "anusvara circle",
+          "path": "M32 75 C32 42 76 42 76 75 C76 108 32 108 32 75",
+          "guide": "M44 64 C62 50 74 76 57 87 C46 94 42 82 43 77",
+          "label": [
+            55,
+            75
+          ],
+          "arrow_size": 6,
+          "transform": "translate(253 31) scale(1)"
+        }
+      ],
+      "caption": "അം"
+    },
+    "vowel-ah": {
+      "symbol": "അഃ",
+      "page": 29,
+      "width": 335,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "left arch",
+          "path": "M40 125 C-8 100 1 32 64 32",
+          "guide": "M25 127 C-22 90 -5 18 55 18",
+          "label": [
+            0,
+            79
+          ]
+        },
+        {
+          "name": "upper inner bowl",
+          "path": "M64 32 C109 32 114 75 76 76",
+          "guide": "M73 44 C101 47 102 66 84 67",
+          "label": [
+            86,
+            55
+          ]
+        },
+        {
+          "name": "lower inner bowl",
+          "path": "M76 76 C120 79 109 133 74 125",
+          "guide": "M84 87 C104 100 97 115 84 115",
+          "label": [
+            93,
+            102
+          ]
+        },
+        {
+          "name": "inner return",
+          "path": "M74 125 C31 116 27 58 64 32",
+          "guide": "M56 113 C32 85 36 60 49 46",
+          "label": [
+            36,
+            89
+          ]
+        },
+        {
+          "name": "middle arch and downstroke",
+          "path": "M64 32 C87 5 142 20 142 54 V125",
+          "guide": "M112 38 C129 44 131 63 131 116",
+          "label": [
+            122,
+            82
+          ]
+        },
+        {
+          "name": "right arch",
+          "path": "M142 125 V54 C142 12 196 13 218 54",
+          "guide": "M153 116 V60 C153 34 170 28 184 29",
+          "label": [
+            159,
+            83
+          ]
+        },
+        {
+          "name": "right loop down",
+          "path": "M218 54 C235 81 233 125 211 125",
+          "guide": "M219 69 C224 87 224 108 215 116",
+          "label": [
+            222,
+            95
+          ]
+        },
+        {
+          "name": "right loop return",
+          "path": "M211 125 C178 125 179 59 218 54",
+          "guide": "M201 113 C184 96 192 72 206 66",
+          "label": [
+            190,
+            92
+          ]
+        },
+        {
+          "name": "anusvara circle",
+          "path": "M32 75 C32 42 76 42 76 75 C76 108 32 108 32 75",
+          "guide": "M44 64 C62 50 74 76 57 87 C46 94 42 82 43 77",
+          "label": [
+            55,
+            75
+          ],
+          "arrow_size": 6,
+          "transform": "translate(256 10) scale(1) translate(0 -25) scale(0.75)"
+        },
+        {
+          "name": "anusvara circle",
+          "path": "M32 75 C32 42 76 42 76 75 C76 108 32 108 32 75",
+          "guide": "M44 64 C62 50 74 76 57 87 C46 94 42 82 43 77",
+          "label": [
+            55,
+            75
+          ],
+          "arrow_size": 6,
+          "transform": "translate(256 10) scale(1) translate(0 55) scale(0.75)"
+        }
+      ],
+      "caption": "അഃ"
+    },
+    "sign-aa": {
+      "symbol": "ാ",
+      "page": 30,
+      "width": 130,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "long-a bowl",
+          "path": "M33 40 C74 -5 119 104 63 128 C42 137 29 126 25 114",
+          "guide": "M39 45 C72 21 103 98 66 117 C49 127 40 119 36 114",
+          "label": [
+            93,
+            82
+          ]
+        }
+      ],
+      "caption": "ാ"
+    },
+    "sign-i": {
+      "symbol": "ി",
+      "page": 30,
+      "width": 110,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "hook and descent",
+          "path": "M25 35 C25 7 78 6 78 39 V147",
+          "guide": "M37 36 C37 21 66 22 66 39 V140",
+          "label": [
+            58,
+            60
+          ]
+        }
+      ],
+      "caption": "ി"
+    },
+    "sign-ii": {
+      "symbol": "ീ",
+      "page": 30,
+      "width": 110,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "loop",
+          "path": "M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95",
+          "guide": "M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99",
+          "label": [
+            56,
+            96
+          ],
+          "arrow_size": 6,
+          "transform": "translate(2 -31) scale(0.75)"
+        },
+        {
+          "name": "arch and descent",
+          "path": "M32 41 C20 6 84 2 84 40 V147",
+          "guide": "M35 9 C65 -11 97 6 97 40 V144",
+          "label": [
+            110,
+            83
+          ]
+        }
+      ],
+      "caption": "ീ"
+    },
+    "sign-u": {
+      "symbol": "ു",
+      "page": 31,
+      "width": 110,
+      "height": 200,
+      "strokes": [
+        {
+          "name": "curved descent",
+          "path": "M32 25 C98 -5 65 70 65 118",
+          "guide": "M40 12 C109 -8 79 77 78 108",
+          "label": [
+            99,
+            69
+          ]
+        },
+        {
+          "name": "lower loop left",
+          "path": "M65 118 C29 118 34 162 65 162",
+          "guide": "M43 117 C20 135 23 172 54 175",
+          "label": [
+            20,
+            145
+          ]
+        },
+        {
+          "name": "lower loop right",
+          "path": "M65 162 C99 162 97 118 65 118",
+          "guide": "M77 175 C109 157 108 135 94 118",
+          "label": [
+            111,
+            146
+          ]
+        }
+      ],
+      "caption": "ു"
+    },
+    "sign-uu": {
+      "symbol": "ൂ",
+      "page": 31,
+      "width": 120,
+      "height": 200,
+      "strokes": [
+        {
+          "name": "curved descent",
+          "path": "M32 25 C98 -5 65 70 65 118",
+          "guide": "M40 12 C109 -8 79 77 78 108",
+          "label": [
+            99,
+            69
+          ]
+        },
+        {
+          "name": "lower loop left",
+          "path": "M65 118 C29 118 34 162 65 162",
+          "guide": "M43 117 C20 135 23 172 54 175",
+          "label": [
+            20,
+            145
+          ]
+        },
+        {
+          "name": "lower loop right",
+          "path": "M65 162 C99 162 97 118 65 118",
+          "guide": "M77 175 C109 157 108 135 94 118",
+          "label": [
+            111,
+            146
+          ]
+        },
+        {
+          "name": "inner return",
+          "path": "M65 118 C43 118 41 143 65 143 C84 143 86 128 76 123",
+          "guide": "M59 126 C47 128 52 137 64 136",
+          "label": [
+            112,
+            147
+          ],
+          "arrow_size": 6
+        }
+      ],
+      "caption": "ൂ"
+    },
+    "sign-r": {
+      "symbol": "ൃ",
+      "page": 31,
+      "width": 110,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "curved descent",
+          "path": "M76 20 C40 18 67 72 74 123",
+          "guide": "M84 28 C54 27 81 75 86 125",
+          "label": [
+            101,
+            88
+          ]
+        },
+        {
+          "name": "lower loop",
+          "path": "M74 123 C63 91 17 110 34 142 C50 170 81 150 74 123",
+          "guide": "M47 160 C9 157 11 103 46 103",
+          "label": [
+            15,
+            130
+          ]
+        }
+      ],
+      "caption": "ൃ"
+    },
+    "sign-e": {
+      "symbol": "െ",
+      "page": 32,
+      "width": 175,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "loop",
+          "path": "M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95",
+          "guide": "M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99",
+          "label": [
+            56,
+            96
+          ],
+          "arrow_size": 6
+        },
+        {
+          "name": "outer arch",
+          "path": "M40 95 C17 12 149 14 133 95 C130 112 118 125 107 131",
+          "guide": "M23 87 C8 0 160 1 147 89 C145 107 133 127 121 137",
+          "label": [
+            136,
+            23
+          ]
+        }
+      ],
+      "caption": "െ"
+    },
+    "sign-ee": {
+      "symbol": "േ",
+      "page": 32,
+      "width": 140,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "upper loop",
+          "path": "M85 43 C110 43 109 15 85 15 C59 15 62 44 85 43",
+          "guide": "M87 23 C98 21 101 33 91 36 C81 39 75 33 78 27",
+          "label": [
+            121,
+            29
+          ],
+          "arrow_size": 6
+        },
+        {
+          "name": "left arc",
+          "path": "M85 15 C8 6 9 138 82 138",
+          "guide": "M87 1 C-10 -3 -8 154 69 154",
+          "label": [
+            4,
+            89
+          ]
+        },
+        {
+          "name": "lower loop",
+          "path": "M82 138 C118 138 109 98 87 104 C69 107 64 126 82 138",
+          "guide": "M110 126 C126 100 87 84 73 111",
+          "label": [
+            119,
+            94
+          ]
+        }
+      ],
+      "caption": "േ"
+    },
+    "sign-ai": {
+      "symbol": "ൈ",
+      "page": 32,
+      "width": 320,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "loop",
+          "path": "M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95",
+          "guide": "M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99",
+          "label": [
+            56,
+            96
+          ],
+          "arrow_size": 6
+        },
+        {
+          "name": "outer arch",
+          "path": "M40 95 C17 12 149 14 133 95 C130 112 118 125 107 131",
+          "guide": "M23 87 C8 0 160 1 147 89 C145 107 133 127 121 137",
+          "label": [
+            136,
+            23
+          ]
+        },
+        {
+          "name": "loop",
+          "path": "M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95",
+          "guide": "M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99",
+          "label": [
+            56,
+            96
+          ],
+          "arrow_size": 6,
+          "transform": "translate(150 0) scale(1)"
+        },
+        {
+          "name": "outer arch",
+          "path": "M40 95 C17 12 149 14 133 95 C130 112 118 125 107 131",
+          "guide": "M23 87 C8 0 160 1 147 89 C145 107 133 127 121 137",
+          "label": [
+            136,
+            23
+          ],
+          "transform": "translate(150 0) scale(1)"
+        }
+      ],
+      "caption": "ൈ"
+    },
+    "sign-o": {
+      "symbol": "ൊ",
+      "page": 33,
+      "width": 325,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "loop",
+          "path": "M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95",
+          "guide": "M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99",
+          "label": [
+            56,
+            96
+          ],
+          "arrow_size": 6
+        },
+        {
+          "name": "outer arch",
+          "path": "M40 95 C17 12 149 14 133 95 C130 112 118 125 107 131",
+          "guide": "M23 87 C8 0 160 1 147 89 C145 107 133 127 121 137",
+          "label": [
+            136,
+            23
+          ]
+        },
+        {
+          "name": "long-a bowl",
+          "path": "M33 40 C74 -5 119 104 63 128 C42 137 29 126 25 114",
+          "guide": "M39 45 C72 21 103 98 66 117 C49 127 40 119 36 114",
+          "label": [
+            93,
+            82
+          ],
+          "transform": "translate(190 0) scale(1)"
+        }
+      ],
+      "caption": "ൊ"
+    },
+    "sign-oo": {
+      "symbol": "ോ",
+      "page": 33,
+      "width": 285,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "upper loop",
+          "path": "M85 43 C110 43 109 15 85 15 C59 15 62 44 85 43",
+          "guide": "M87 23 C98 21 101 33 91 36 C81 39 75 33 78 27",
+          "label": [
+            121,
+            29
+          ],
+          "arrow_size": 6
+        },
+        {
+          "name": "left arc",
+          "path": "M85 15 C8 6 9 138 82 138",
+          "guide": "M87 1 C-10 -3 -8 154 69 154",
+          "label": [
+            4,
+            89
+          ]
+        },
+        {
+          "name": "lower loop",
+          "path": "M82 138 C118 138 109 98 87 104 C69 107 64 126 82 138",
+          "guide": "M110 126 C126 100 87 84 73 111",
+          "label": [
+            119,
+            94
+          ]
+        },
+        {
+          "name": "long-a bowl",
+          "path": "M33 40 C74 -5 119 104 63 128 C42 137 29 126 25 114",
+          "guide": "M39 45 C72 21 103 98 66 117 C49 127 40 119 36 114",
+          "label": [
+            93,
+            82
+          ],
+          "transform": "translate(150 0) scale(1)"
+        }
+      ],
+      "caption": "ോ"
+    },
+    "sign-au": {
+      "symbol": "ൗ",
+      "page": 33,
+      "width": 135,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "first arch",
+          "path": "M20 85 V52 C20 24 54 24 54 52 V85",
+          "guide": "M28 78 V52 C28 34 46 34 46 52 V78",
+          "label": [
+            37,
+            58
+          ]
+        },
+        {
+          "name": "second arch and bowl",
+          "path": "M54 52 C54 24 88 24 88 52 V110 C88 138 42 138 42 110",
+          "guide": "M62 78 V52 C62 34 80 34 80 52 V108 C80 128 53 130 51 116",
+          "label": [
+            72,
+            94
+          ]
+        }
+      ],
+      "caption": "ൗ"
+    },
+    "sign-am": {
+      "symbol": "ം",
+      "page": 34,
+      "width": 115,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "anusvara circle",
+          "path": "M32 75 C32 42 76 42 76 75 C76 108 32 108 32 75",
+          "guide": "M44 64 C62 50 74 76 57 87 C46 94 42 82 43 77",
+          "label": [
+            55,
+            75
+          ],
+          "arrow_size": 6
+        }
+      ],
+      "caption": "ം"
+    },
+    "sign-ah": {
+      "symbol": "ഃ",
+      "page": 34,
+      "width": 100,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "anusvara circle",
+          "path": "M32 75 C32 42 76 42 76 75 C76 108 32 108 32 75",
+          "guide": "M44 64 C62 50 74 76 57 87 C46 94 42 82 43 77",
+          "label": [
+            55,
+            75
+          ],
+          "arrow_size": 6,
+          "transform": "translate(0 -25) scale(0.75)"
+        },
+        {
+          "name": "anusvara circle",
+          "path": "M32 75 C32 42 76 42 76 75 C76 108 32 108 32 75",
+          "guide": "M44 64 C62 50 74 76 57 87 C46 94 42 82 43 77",
+          "label": [
+            55,
+            75
+          ],
+          "arrow_size": 6,
+          "transform": "translate(0 55) scale(0.75)"
+        }
+      ],
+      "caption": "ഃ"
+    },
+    "ka": {
+      "symbol": "ക",
+      "page": 35,
+      "width": 250,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "top arch",
+          "path": "M91 65 V42 C91 9 146 9 146 42 V65",
+          "guide": "M80 57 V42 C80 -7 158 -7 158 42 V57",
+          "label": [
+            143,
+            4
+          ]
+        },
+        {
+          "name": "right bowl return",
+          "path": "M146 65 V104 C146 139 91 139 91 104",
+          "guide": "M158 80 V103 C158 152 92 154 84 128",
+          "label": [
+            129,
+            149
+          ]
+        },
+        {
+          "name": "middle ascent",
+          "path": "M91 104 V65",
+          "guide": "M103 108 V76",
+          "label": [
+            114,
+            93
+          ]
+        },
+        {
+          "name": "left bowl return",
+          "path": "M91 65 V104 C91 139 37 139 37 104",
+          "guide": "M79 79 V103 C79 121 66 126 56 119",
+          "label": [
+            68,
+            96
+          ]
+        },
+        {
+          "name": "left arch",
+          "path": "M37 104 C24 69 46 65 65 65",
+          "guide": "M26 126 C1 102 7 55 47 53",
+          "label": [
+            9,
+            97
+          ]
+        },
+        {
+          "name": "crossbar",
+          "path": "M65 65 H188",
+          "guide": "M71 53 H182",
+          "label": [
+            175,
+            41
+          ]
+        },
+        {
+          "name": "right end",
+          "path": "M188 65 C226 65 232 101 211 124",
+          "guide": "M215 53 C252 73 252 110 227 136",
+          "label": [
+            249,
+            96
+          ]
+        }
+      ],
+      "caption": "ക"
+    },
+    "kha": {
+      "symbol": "ഖ",
+      "page": 35,
+      "width": 250,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "loop",
+          "path": "M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95",
+          "guide": "M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99",
+          "label": [
+            56,
+            96
+          ],
+          "arrow_size": 6
+        },
+        {
+          "name": "outer arch",
+          "path": "M40 95 C17 12 149 14 133 95 C130 112 118 125 107 131",
+          "guide": "M23 87 C8 0 160 1 147 89 C145 107 133 127 121 137",
+          "label": [
+            136,
+            23
+          ]
+        },
+        {
+          "name": "baseline",
+          "path": "M107 131 H216",
+          "guide": "M113 145 H207",
+          "label": [
+            162,
+            159
+          ]
+        },
+        {
+          "name": "right ascent",
+          "path": "M216 131 V21",
+          "guide": "M228 129 V27",
+          "label": [
+            241,
+            80
+          ]
+        }
+      ],
+      "caption": "ഖ"
+    },
+    "ga": {
+      "symbol": "ഗ",
+      "page": 35,
+      "width": 235,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "left bowl",
+          "path": "M40 25 C-3 40 8 130 66 131 C106 132 113 105 113 78",
+          "guide": "M42 38 C10 51 31 117 66 117",
+          "label": [
+            28,
+            85
+          ]
+        },
+        {
+          "name": "right arch",
+          "path": "M113 78 V62 C113 5 205 8 209 75",
+          "guide": "M101 89 V60 C101 -6 191 -8 206 36",
+          "label": [
+            176,
+            5
+          ]
+        },
+        {
+          "name": "right descent",
+          "path": "M209 75 C211 100 197 122 176 135",
+          "guide": "M225 67 C225 106 211 127 193 142",
+          "label": [
+            235,
+            115
+          ]
+        }
+      ],
+      "caption": "ഗ"
+    },
+    "gha": {
+      "symbol": "ഘ",
+      "page": 35,
+      "width": 305,
+      "height": 205,
+      "strokes": [
+        {
+          "name": "left curl",
+          "path": "M35 111 C9 98 13 53 47 59 C74 64 81 96 63 111",
+          "guide": "M20 111 C-5 92 17 40 48 50 C86 55 96 93 80 99",
+          "label": [
+            47,
+            38
+          ]
+        },
+        {
+          "name": "crossbar",
+          "path": "M63 111 H166",
+          "guide": "M71 125 H155",
+          "label": [
+            116,
+            136
+          ]
+        },
+        {
+          "name": "middle arch",
+          "path": "M166 111 V49 C166 12 105 10 105 49 V111",
+          "guide": "M179 101 V45 C179 -3 92 -2 92 45 V101",
+          "label": [
+            136,
+            4
+          ]
+        },
+        {
+          "name": "middle descent",
+          "path": "M105 111 V154",
+          "guide": "M93 119 V150",
+          "label": [
+            82,
+            138
+          ]
+        },
+        {
+          "name": "baseline",
+          "path": "M105 154 H273",
+          "guide": "M112 168 H267",
+          "label": [
+            191,
+            180
+          ]
+        },
+        {
+          "name": "right ascent",
+          "path": "M273 154 V23",
+          "guide": "M285 150 V29",
+          "label": [
+            300,
+            93
+          ]
+        }
+      ],
+      "caption": "ഘ"
+    },
+    "nga": {
+      "symbol": "ങ",
+      "page": 35,
+      "width": 245,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "loop",
+          "path": "M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95",
+          "guide": "M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99",
+          "label": [
+            56,
+            96
+          ],
+          "arrow_size": 6
+        },
+        {
+          "name": "left arch",
+          "path": "M40 95 C12 12 127 3 127 52",
+          "guide": "M22 84 C5 -1 89 -10 117 16",
+          "label": [
+            79,
+            1
+          ]
+        },
+        {
+          "name": "middle descent",
+          "path": "M127 52 V134",
+          "guide": "M115 54 V126",
+          "label": [
+            105,
+            95
+          ]
+        },
+        {
+          "name": "upper right bowl",
+          "path": "M127 134 V52 C127 11 217 4 217 54 C217 74 198 75 172 75",
+          "guide": "M140 125 V52 C140 26 200 17 204 51 C205 61 199 62 188 63",
+          "label": [
+            162,
+            47
+          ]
+        },
+        {
+          "name": "lower right bowl",
+          "path": "M172 75 C232 73 231 135 180 135 H172",
+          "guide": "M185 87 C215 87 213 123 184 123",
+          "label": [
+            204,
+            105
+          ]
+        }
+      ],
+      "caption": "ങ"
+    },
+    "cha": {
+      "symbol": "ച",
+      "page": 36,
+      "width": 250,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "upper curl",
+          "path": "M51 100 C23 85 34 53 66 60 C87 64 103 77 104 92",
+          "guide": "M34 102 C15 70 36 39 79 54",
+          "label": [
+            25,
+            51
+          ]
+        },
+        {
+          "name": "curl and leftward baseline",
+          "path": "M104 92 C110 116 77 129 23 129",
+          "guide": "M93 90 C101 107 66 116 30 116",
+          "label": [
+            65,
+            107
+          ]
+        },
+        {
+          "name": "baseline",
+          "path": "M23 129 H219",
+          "guide": "M28 143 H211",
+          "label": [
+            114,
+            155
+          ]
+        },
+        {
+          "name": "right ascent",
+          "path": "M219 129 V18",
+          "guide": "M232 129 V26",
+          "label": [
+            245,
+            80
+          ]
+        }
+      ],
+      "caption": "ച"
+    },
+    "chha": {
+      "symbol": "ഛ",
+      "page": 36,
+      "width": 330,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "upper curl",
+          "path": "M51 100 C23 85 34 53 66 60 C87 64 103 77 104 92",
+          "guide": "M34 102 C15 70 36 39 79 54",
+          "label": [
+            25,
+            51
+          ]
+        },
+        {
+          "name": "curl and leftward baseline",
+          "path": "M104 92 C110 116 77 129 23 129",
+          "guide": "M93 90 C101 107 66 116 30 116",
+          "label": [
+            65,
+            107
+          ]
+        },
+        {
+          "name": "baseline",
+          "path": "M23 129 H219",
+          "guide": "M28 143 H211",
+          "label": [
+            114,
+            155
+          ]
+        },
+        {
+          "name": "right arch",
+          "path": "M35 113 C-14 87 1 15 56 15 C103 15 124 59 114 97",
+          "guide": "M17 108 C-28 54 7 -4 58 2 C112 4 143 62 128 103",
+          "label": [
+            136,
+            59
+          ],
+          "transform": "translate(184 16) scale(1)"
+        },
+        {
+          "name": "right loop",
+          "path": "M114 97 C95 66 55 71 56 99 C57 132 113 135 114 97",
+          "guide": "M105 103 C104 84 70 82 69 99 C68 116 98 120 101 108",
+          "label": [
+            83,
+            101
+          ],
+          "transform": "translate(184 16) scale(1)"
+        }
+      ],
+      "caption": "ഛ"
+    },
+    "ja": {
+      "symbol": "ജ",
+      "page": 36,
+      "width": 220,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "loop",
+          "path": "M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95",
+          "guide": "M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99",
+          "label": [
+            56,
+            96
+          ],
+          "arrow_size": 6,
+          "transform": "translate(0 -71) scale(1)"
+        },
+        {
+          "name": "left arch",
+          "path": "M40 24 C20 -8 113 -8 113 24 V53",
+          "guide": "M27 25 C9 -25 88 -25 102 -6",
+          "label": [
+            64,
+            -20
+          ]
+        },
+        {
+          "name": "right arch",
+          "path": "M113 53 V24 C113 -8 186 -8 186 24 C186 36 178 41 157 47",
+          "guide": "M125 46 V24 C125 3 170 3 173 22",
+          "label": [
+            154,
+            7
+          ]
+        },
+        {
+          "name": "diagonal return",
+          "path": "M157 47 L44 82 C-1 97 34 124 61 111",
+          "guide": "M163 59 L41 95 C17 106 26 126 46 126",
+          "label": [
+            15,
+            106
+          ]
+        },
+        {
+          "name": "lower diagonal",
+          "path": "M61 111 L153 77 C168 71 186 72 186 89",
+          "guide": "M58 99 L152 65 C163 59 179 58 190 62",
+          "label": [
+            112,
+            77
+          ]
+        },
+        {
+          "name": "right loop",
+          "path": "M186 89 C186 112 154 112 154 89 C154 66 186 66 186 89",
+          "guide": "M199 84 C211 119 152 138 140 103",
+          "label": [
+            190,
+            123
+          ]
+        }
+      ],
+      "caption": "ജ"
+    },
+    "jha": {
+      "symbol": "ഝ",
+      "page": 36,
+      "width": 350,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "left arch",
+          "path": "M41 131 C-5 105 1 26 60 26 C98 26 120 65 115 94",
+          "guide": "M25 130 C-23 85 -3 13 55 13",
+          "label": [
+            0,
+            72
+          ]
+        },
+        {
+          "name": "central loop down",
+          "path": "M115 94 C108 141 59 142 56 92",
+          "guide": "M105 49 C127 94 109 130 86 143",
+          "label": [
+            121,
+            115
+          ]
+        },
+        {
+          "name": "central loop ascent",
+          "path": "M56 92 C51 52 89 17 130 26",
+          "guide": "M45 119 C27 59 73 4 125 13",
+          "label": [
+            76,
+            17
+          ]
+        },
+        {
+          "name": "joining arch and left bowl",
+          "path": "M130 26 C167 35 181 53 181 78 V106 C181 142 235 142 235 106",
+          "guide": "M144 13 C200 30 194 67 194 103 C194 150 218 151 229 130",
+          "label": [
+            199,
+            70
+          ]
+        },
+        {
+          "name": "middle ascent",
+          "path": "M151 106 V24",
+          "guide": "M139 112 V32",
+          "label": [
+            128,
+            73
+          ],
+          "transform": "translate(84 0) scale(1)"
+        },
+        {
+          "name": "right bowl",
+          "path": "M151 24 V106 C151 142 205 142 213 112",
+          "guide": "M164 33 V91 C164 109 176 120 188 121",
+          "label": [
+            174,
+            100
+          ],
+          "transform": "translate(84 0) scale(1)"
+        },
+        {
+          "name": "right return",
+          "path": "M213 112 C233 78 225 42 199 24",
+          "guide": "M203 145 C251 126 250 62 226 34",
+          "label": [
+            248,
+            95
+          ],
+          "transform": "translate(84 0) scale(1)"
+        }
+      ],
+      "caption": "ഝ"
+    },
+    "nya": {
+      "symbol": "ഞ",
+      "page": 36,
+      "width": 350,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "loop",
+          "path": "M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95",
+          "guide": "M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99",
+          "label": [
+            56,
+            96
+          ],
+          "arrow_size": 6
+        },
+        {
+          "name": "left arch",
+          "path": "M40 95 C13 17 116 6 119 52",
+          "guide": "M23 87 C6 0 83 -6 106 14",
+          "label": [
+            67,
+            2
+          ]
+        },
+        {
+          "name": "middle descent",
+          "path": "M119 52 V131",
+          "guide": "M108 54 V123",
+          "label": [
+            98,
+            94
+          ]
+        },
+        {
+          "name": "middle loop ascent",
+          "path": "M119 131 V52 C119 1 229 17 229 79",
+          "guide": "M133 119 V59 C133 34 160 28 174 35",
+          "label": [
+            146,
+            71
+          ]
+        },
+        {
+          "name": "middle loop return",
+          "path": "M229 79 C229 137 174 143 169 98 C165 72 179 52 195 40",
+          "guide": "M213 58 C241 113 200 147 187 115",
+          "label": [
+            211,
+            104
+          ]
+        },
+        {
+          "name": "right arch",
+          "path": "M195 40 C230 -1 309 25 309 76",
+          "guide": "M158 82 C161 17 251 -14 286 14",
+          "label": [
+            244,
+            5
+          ]
+        },
+        {
+          "name": "right descent",
+          "path": "M309 76 C309 104 295 123 279 135",
+          "guide": "M308 23 C345 67 332 116 299 144",
+          "label": [
+            339,
+            94
+          ]
+        }
+      ],
+      "caption": "ഞ"
+    },
+    "tta": {
+      "symbol": "ട",
+      "page": 37,
+      "width": 160,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "upper curl",
+          "path": "M131 43 C98 1 25 11 25 56 C25 76 48 80 76 80",
+          "guide": "M119 17 C72 -7 19 7 13 45",
+          "label": [
+            26,
+            3
+          ]
+        },
+        {
+          "name": "lower curl",
+          "path": "M76 80 C139 77 153 137 88 137 C57 137 36 130 27 115",
+          "guide": "M31 94 C163 75 151 128 65 125",
+          "label": [
+            90,
+            109
+          ]
+        }
+      ],
+      "caption": "ട"
+    },
+    "ttha": {
+      "symbol": "ഠ",
+      "page": 37,
+      "width": 145,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "oval",
+          "path": "M30 85 C30 30 110 30 110 85 C110 140 30 140 30 85",
+          "guide": "M42 83 C41 54 100 54 99 85 C97 114 45 115 43 83",
+          "label": [
+            71,
+            86
+          ]
+        }
+      ],
+      "caption": "ഠ"
+    },
+    "dda": {
+      "symbol": "ഡ",
+      "page": 37,
+      "width": 270,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "left arch",
+          "path": "M40 132 C-9 104 8 21 58 24 C84 25 97 43 97 74",
+          "guide": "M24 132 C-25 83 0 12 53 11",
+          "label": [
+            0,
+            72
+          ]
+        },
+        {
+          "name": "left descent",
+          "path": "M97 74 V106 C97 142 151 142 151 106",
+          "guide": "M89 32 C114 39 108 83 108 99",
+          "label": [
+            112,
+            67
+          ]
+        },
+        {
+          "name": "middle ascent",
+          "path": "M151 106 V24",
+          "guide": "M139 112 V32",
+          "label": [
+            128,
+            73
+          ]
+        },
+        {
+          "name": "right bowl",
+          "path": "M151 24 V106 C151 142 205 142 213 112",
+          "guide": "M164 33 V91 C164 109 176 120 188 121",
+          "label": [
+            174,
+            100
+          ]
+        },
+        {
+          "name": "right return",
+          "path": "M213 112 C233 78 225 42 199 24",
+          "guide": "M203 145 C251 126 250 62 226 34",
+          "label": [
+            248,
+            95
+          ]
+        }
+      ],
+      "caption": "ഡ"
+    },
+    "ddha": {
+      "symbol": "ഢ",
+      "page": 37,
+      "width": 280,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "left arch",
+          "path": "M40 132 C-9 104 8 21 58 24 C84 25 97 43 97 74",
+          "guide": "M24 132 C-25 83 0 12 53 11",
+          "label": [
+            0,
+            72
+          ]
+        },
+        {
+          "name": "left descent",
+          "path": "M97 74 V106 C97 142 151 142 151 106",
+          "guide": "M89 32 C114 39 108 83 108 99",
+          "label": [
+            112,
+            67
+          ]
+        },
+        {
+          "name": "middle ascent",
+          "path": "M151 106 V24",
+          "guide": "M139 112 V32",
+          "label": [
+            128,
+            73
+          ]
+        },
+        {
+          "name": "right bowl",
+          "path": "M151 24 V106 C151 142 205 142 213 112",
+          "guide": "M164 33 V91 C164 109 176 120 188 121",
+          "label": [
+            174,
+            100
+          ]
+        },
+        {
+          "name": "right loop ascent",
+          "path": "M213 112 C241 89 241 26 211 24",
+          "guide": "M183 123 C209 127 228 101 228 86",
+          "label": [
+            219,
+            117
+          ]
+        },
+        {
+          "name": "right loop",
+          "path": "M211 24 C177 24 179 69 211 69 C237 69 241 24 211 24",
+          "guide": "M221 35 C212 24 193 32 195 46 C196 57 215 60 218 52",
+          "label": [
+            209,
+            44
+          ]
+        }
+      ],
+      "caption": "ഢ"
+    },
+    "nna": {
+      "symbol": "ണ",
+      "page": 37,
+      "width": 310,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "loop",
+          "path": "M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95",
+          "guide": "M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99",
+          "label": [
+            56,
+            96
+          ],
+          "arrow_size": 6
+        },
+        {
+          "name": "left arch",
+          "path": "M40 95 C12 15 118 7 121 48",
+          "guide": "M24 87 C4 0 89 -9 109 14",
+          "label": [
+            67,
+            3
+          ]
+        },
+        {
+          "name": "first stem",
+          "path": "M121 48 V132",
+          "guide": "M110 51 V123",
+          "label": [
+            99,
+            91
+          ]
+        },
+        {
+          "name": "middle arch",
+          "path": "M121 132 V48 C121 12 181 12 181 48",
+          "guide": "M134 123 V52 C134 30 145 27 154 29",
+          "label": [
+            142,
+            68
+          ]
+        },
+        {
+          "name": "second stem",
+          "path": "M181 48 V132",
+          "guide": "M169 51 V123",
+          "label": [
+            159,
+            91
+          ]
+        },
+        {
+          "name": "right arch",
+          "path": "M181 132 V48 C181 9 249 12 271 59",
+          "guide": "M194 123 V53 C194 30 209 25 222 29",
+          "label": [
+            204,
+            68
+          ]
+        },
+        {
+          "name": "right descent",
+          "path": "M271 59 C286 93 272 116 249 133",
+          "guide": "M235 15 C307 38 309 102 269 141",
+          "label": [
+            303,
+            92
+          ]
+        }
+      ],
+      "caption": "ണ"
+    },
+    "tha": {
+      "symbol": "ത",
+      "page": 38,
+      "width": 240,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "left arch",
+          "path": "M41 131 C-5 105 1 26 60 26 C98 26 120 65 115 94",
+          "guide": "M25 130 C-23 85 -3 13 55 13",
+          "label": [
+            0,
+            72
+          ]
+        },
+        {
+          "name": "central loop down",
+          "path": "M115 94 C108 141 59 142 56 92",
+          "guide": "M105 49 C127 94 109 130 86 143",
+          "label": [
+            121,
+            115
+          ]
+        },
+        {
+          "name": "central loop up and right arch",
+          "path": "M56 92 C51 52 89 17 130 26 C164 32 181 53 181 85",
+          "guide": "M45 119 C27 59 73 4 125 13",
+          "label": [
+            76,
+            17
+          ]
+        },
+        {
+          "name": "right descent",
+          "path": "M181 85 C181 104 171 119 158 130",
+          "guide": "M183 30 C217 75 203 111 179 138",
+          "label": [
+            208,
+            94
+          ]
+        }
+      ],
+      "caption": "ത"
+    },
+    "thha": {
+      "symbol": "ഥ",
+      "page": 38,
+      "width": 260,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "left descent",
+          "path": "M28 23 V132",
+          "guide": "M15 29 V128",
+          "label": [
+            4,
+            82
+          ]
+        },
+        {
+          "name": "baseline",
+          "path": "M28 132 H230",
+          "guide": "M35 147 H219",
+          "label": [
+            128,
+            161
+          ]
+        },
+        {
+          "name": "right arch",
+          "path": "M230 132 V67 C230 9 121 9 121 67 V132",
+          "guide": "M243 119 V66 C243 -7 108 -7 108 66 V116",
+          "label": [
+            186,
+            8
+          ]
+        }
+      ],
+      "caption": "ഥ"
+    },
+    "da": {
+      "symbol": "ദ",
+      "page": 38,
+      "width": 180,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "left arch",
+          "path": "M40 131 C28 26 53 16 85 22",
+          "guide": "M26 136 C8 32 36 2 69 8",
+          "label": [
+            12,
+            70
+          ]
+        },
+        {
+          "name": "upper bowl",
+          "path": "M85 22 C143 14 168 76 87 76",
+          "guide": "M101 9 C171 33 163 69 135 79",
+          "label": [
+            169,
+            48
+          ]
+        },
+        {
+          "name": "lower bowl",
+          "path": "M87 76 C165 71 167 132 87 132",
+          "guide": "M135 89 C167 111 142 147 97 146",
+          "label": [
+            169,
+            121
+          ]
+        }
+      ],
+      "caption": "ദ"
+    },
+    "dha": {
+      "symbol": "ധ",
+      "page": 38,
+      "width": 260,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "left bowl",
+          "path": "M50 24 C-6 43 9 138 75 132",
+          "guide": "M32 27 C-23 63 -2 138 48 146",
+          "label": [
+            0,
+            92
+          ]
+        },
+        {
+          "name": "middle ascent",
+          "path": "M75 132 C108 132 130 108 130 78 V24",
+          "guide": "M55 120 C104 130 117 103 117 33",
+          "label": [
+            101,
+            85
+          ]
+        },
+        {
+          "name": "right bowl",
+          "path": "M130 24 V78 C130 144 203 146 224 107",
+          "guide": "M143 34 C143 116 157 117 172 122",
+          "label": [
+            154,
+            101
+          ]
+        },
+        {
+          "name": "right return",
+          "path": "M224 107 C242 79 238 44 211 24",
+          "guide": "M198 148 C269 126 270 63 239 32",
+          "label": [
+            260,
+            99
+          ]
+        }
+      ],
+      "caption": "ധ"
+    },
+    "na": {
+      "symbol": "ന",
+      "page": 38,
+      "width": 240,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "left arch",
+          "path": "M40 131 C-9 105 6 25 58 25 C89 25 105 47 105 73",
+          "guide": "M22 133 C-30 86 -6 11 54 12",
+          "label": [
+            0,
+            69
+          ]
+        },
+        {
+          "name": "middle descent",
+          "path": "M105 73 V130",
+          "guide": "M94 49 V120",
+          "label": [
+            83,
+            89
+          ]
+        },
+        {
+          "name": "right arch",
+          "path": "M105 130 V73 C105 11 207 13 207 73",
+          "guide": "M118 119 V74 C118 39 136 31 146 33",
+          "label": [
+            135,
+            65
+          ]
+        },
+        {
+          "name": "right descent",
+          "path": "M207 73 C207 101 194 118 174 130",
+          "guide": "M179 15 C237 44 237 108 197 139",
+          "label": [
+            230,
+            82
+          ]
+        }
+      ],
+      "caption": "ന"
+    },
+    "pa": {
+      "symbol": "പ",
+      "page": 39,
+      "width": 260,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "left curl",
+          "path": "M43 130 C9 112 20 70 55 71 C94 72 106 104 86 127",
+          "guide": "M24 130 C-15 104 19 53 61 57 C104 62 119 96 106 116",
+          "label": [
+            91,
+            55
+          ]
+        },
+        {
+          "name": "baseline",
+          "path": "M86 127 H222",
+          "guide": "M95 141 H213",
+          "label": [
+            154,
+            155
+          ]
+        },
+        {
+          "name": "right ascent",
+          "path": "M222 127 V20",
+          "guide": "M235 125 V28",
+          "label": [
+            248,
+            80
+          ]
+        }
+      ],
+      "caption": "പ"
+    },
+    "pha": {
+      "symbol": "ഫ",
+      "page": 39,
+      "width": 295,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "left curl",
+          "path": "M43 130 C9 112 20 70 55 71 C94 72 106 104 86 127",
+          "guide": "M24 130 C-15 104 19 53 61 57 C104 62 119 96 106 116",
+          "label": [
+            91,
+            55
+          ]
+        },
+        {
+          "name": "baseline",
+          "path": "M86 127 H222",
+          "guide": "M95 141 H213",
+          "label": [
+            154,
+            155
+          ]
+        },
+        {
+          "name": "right arch",
+          "path": "M222 127 V63 C222 9 136 9 136 63 V127",
+          "guide": "M235 115 V60 C235 -6 123 -6 123 60 V116",
+          "label": [
+            190,
+            5
+          ]
+        }
+      ],
+      "caption": "ഫ"
+    },
+    "ba": {
+      "symbol": "ബ",
+      "page": 39,
+      "width": 280,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "loop",
+          "path": "M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95",
+          "guide": "M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99",
+          "label": [
+            56,
+            96
+          ],
+          "arrow_size": 6
+        },
+        {
+          "name": "left arch",
+          "path": "M40 95 C13 11 118 7 122 52",
+          "guide": "M23 87 C4 -1 90 -10 110 17",
+          "label": [
+            70,
+            2
+          ]
+        },
+        {
+          "name": "middle descent",
+          "path": "M122 52 V131",
+          "guide": "M110 56 V121",
+          "label": [
+            99,
+            91
+          ]
+        },
+        {
+          "name": "right arch",
+          "path": "M122 131 V52 C122 22 204 22 204 52",
+          "guide": "M135 119 V58 C135 36 170 24 184 32",
+          "label": [
+            147,
+            65
+          ]
+        },
+        {
+          "name": "right descent",
+          "path": "M204 52 C217 87 204 114 180 131",
+          "guide": "M195 19 C240 45 239 100 215 121",
+          "label": [
+            244,
+            74
+          ]
+        },
+        {
+          "name": "baseline",
+          "path": "M180 131 H260",
+          "guide": "M192 145 H251",
+          "label": [
+            222,
+            156
+          ]
+        },
+        {
+          "name": "right ascent",
+          "path": "M260 131 V22",
+          "guide": "M273 128 V29",
+          "label": [
+            285,
+            78
+          ]
+        }
+      ],
+      "caption": "ബ"
+    },
+    "bha": {
+      "symbol": "ഭ",
+      "page": 39,
+      "width": 175,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "left arch",
+          "path": "M39 133 C24 30 50 17 75 22",
+          "guide": "M25 139 C6 37 30 4 61 9",
+          "label": [
+            10,
+            73
+          ]
+        },
+        {
+          "name": "top bowl",
+          "path": "M75 22 C128 20 133 59 112 60",
+          "guide": "M105 9 C154 32 148 57 136 67",
+          "label": [
+            159,
+            43
+          ]
+        },
+        {
+          "name": "middle curl",
+          "path": "M112 60 H78 C40 60 42 91 78 91 H102",
+          "guide": "M50 71 C30 100 46 113 72 104",
+          "label": [
+            40,
+            95
+          ]
+        },
+        {
+          "name": "lower bowl",
+          "path": "M102 91 C145 91 140 133 108 133 H66",
+          "guide": "M132 85 C165 122 147 149 99 148",
+          "label": [
+            163,
+            122
+          ]
+        }
+      ],
+      "caption": "ഭ"
+    },
+    "ma": {
+      "symbol": "മ",
+      "page": 39,
+      "width": 185,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "left arch",
+          "path": "M31 134 V63 C31 34 46 25 79 25",
+          "guide": "M18 125 V64 C18 25 40 11 67 11",
+          "label": [
+            11,
+            64
+          ]
+        },
+        {
+          "name": "right arch",
+          "path": "M79 25 C128 25 152 35 152 70 V134",
+          "guide": "M95 10 C152 10 167 33 167 70 V122",
+          "label": [
+            170,
+            64
+          ]
+        },
+        {
+          "name": "baseline",
+          "path": "M152 134 H31",
+          "guide": "M140 149 H40",
+          "label": [
+            86,
+            162
+          ]
+        },
+        {
+          "name": "inner bowl",
+          "path": "M31 134 C108 132 123 69 79 25",
+          "guide": "M51 122 C96 118 99 70 84 47",
+          "label": [
+            99,
+            88
+          ]
+        }
+      ],
+      "caption": "മ"
+    },
+    "ya": {
+      "symbol": "യ",
+      "page": 40,
+      "width": 270,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "left bowl",
+          "path": "M69 23 C-7 14 -14 129 73 132",
+          "guide": "M48 9 C-34 30 -27 129 38 146",
+          "label": [
+            0,
+            75
+          ]
+        },
+        {
+          "name": "middle loop up",
+          "path": "M73 132 C152 132 155 24 120 23",
+          "guide": "M85 145 C152 122 165 67 153 26",
+          "label": [
+            165,
+            72
+          ]
+        },
+        {
+          "name": "middle loop down",
+          "path": "M120 23 C75 21 48 118 143 132",
+          "guide": "M104 9 C60 28 56 95 100 120",
+          "label": [
+            76,
+            76
+          ]
+        },
+        {
+          "name": "right bowl",
+          "path": "M143 132 C243 147 259 69 214 22",
+          "guide": "M181 146 C264 145 278 81 250 30",
+          "label": [
+            272,
+            89
+          ]
+        }
+      ],
+      "caption": "യ"
+    },
+    "ra": {
+      "symbol": "ര",
+      "page": 40,
+      "width": 180,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "left arch",
+          "path": "M45 132 C-9 103 0 18 74 22 C105 23 124 40 131 65",
+          "guide": "M26 136 C-37 85 -5 4 78 9",
+          "label": [
+            0,
+            65
+          ]
+        },
+        {
+          "name": "right loop descent",
+          "path": "M131 65 C150 127 125 142 101 132",
+          "guide": "M142 40 C174 88 161 129 144 143",
+          "label": [
+            173,
+            103
+          ]
+        },
+        {
+          "name": "right loop return",
+          "path": "M101 132 C62 114 75 57 131 65",
+          "guide": "M95 118 C68 86 89 61 111 56",
+          "label": [
+            76,
+            90
+          ]
+        }
+      ],
+      "caption": "ര"
+    },
+    "la": {
+      "symbol": "ല",
+      "page": 40,
+      "width": 240,
+      "height": 195,
+      "strokes": [
+        {
+          "name": "crossbar",
+          "path": "M31 78 H131",
+          "guide": "M45 93 H119",
+          "label": [
+            82,
+            108
+          ]
+        },
+        {
+          "name": "upper arch",
+          "path": "M131 78 V47 C131 11 31 11 31 47 V78",
+          "guide": "M144 73 V46 C144 -7 18 -7 18 46 V72",
+          "label": [
+            74,
+            3
+          ]
+        },
+        {
+          "name": "left descent",
+          "path": "M31 78 V138",
+          "guide": "M18 88 V130",
+          "label": [
+            4,
+            114
+          ]
+        },
+        {
+          "name": "baseline",
+          "path": "M31 138 H209",
+          "guide": "M39 153 H200",
+          "label": [
+            123,
+            168
+          ]
+        },
+        {
+          "name": "right ascent",
+          "path": "M209 138 V24",
+          "guide": "M222 135 V31",
+          "label": [
+            237,
+            84
+          ]
+        }
+      ],
+      "caption": "ല"
+    },
+    "va": {
+      "symbol": "വ",
+      "page": 40,
+      "width": 240,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "left curl",
+          "path": "M44 133 C-7 106 6 24 65 24 C107 24 139 85 104 131",
+          "guide": "M25 134 C-32 85 -3 10 68 11 C127 12 150 92 129 114",
+          "label": [
+            110,
+            14
+          ]
+        },
+        {
+          "name": "baseline",
+          "path": "M104 131 H210",
+          "guide": "M112 145 H200",
+          "label": [
+            157,
+            160
+          ]
+        },
+        {
+          "name": "right ascent",
+          "path": "M210 131 V22",
+          "guide": "M223 128 V29",
+          "label": [
+            237,
+            78
+          ]
+        }
+      ],
+      "caption": "വ"
+    },
+    "sha": {
+      "symbol": "ശ",
+      "page": 40,
+      "width": 235,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "left bowl",
+          "path": "M40 25 C-3 40 8 130 66 131 C106 132 113 105 113 78",
+          "guide": "M42 38 C10 51 31 117 66 117",
+          "label": [
+            28,
+            85
+          ]
+        },
+        {
+          "name": "right arch",
+          "path": "M113 78 V62 C113 5 205 8 209 75",
+          "guide": "M101 89 V60 C101 -6 191 -8 206 36",
+          "label": [
+            176,
+            5
+          ]
+        },
+        {
+          "name": "right descent",
+          "path": "M209 75 C211 112 193 135 173 135",
+          "guide": "M216 30 C248 71 241 111 215 137",
+          "label": [
+            241,
+            102
+          ]
+        },
+        {
+          "name": "right loop",
+          "path": "M173 135 C124 135 126 82 173 82 C215 82 212 135 173 135",
+          "guide": "M162 123 C135 115 143 91 165 94",
+          "label": [
+            169,
+            109
+          ]
+        }
+      ],
+      "caption": "ശ"
+    },
+    "ssa": {
+      "symbol": "ഷ",
+      "page": 40,
+      "width": 305,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "left curl",
+          "path": "M43 130 C9 112 20 70 55 71 C94 72 106 104 86 127",
+          "guide": "M24 130 C-15 104 19 53 61 57 C104 62 119 96 106 116",
+          "label": [
+            91,
+            55
+          ]
+        },
+        {
+          "name": "baseline",
+          "path": "M86 127 H222",
+          "guide": "M95 141 H213",
+          "label": [
+            154,
+            155
+          ]
+        },
+        {
+          "name": "right ascent",
+          "path": "M222 127 V10",
+          "guide": "M237 120 V17",
+          "label": [
+            252,
+            67
+          ]
+        },
+        {
+          "name": "diagonal return",
+          "path": "M222 10 L123 69",
+          "guide": "M217 28 L124 84",
+          "label": [
+            162,
+            61
+          ]
+        },
+        {
+          "name": "upper loop",
+          "path": "M123 69 C65 108 68 -29 120 16 C133 27 137 50 123 69",
+          "guide": "M83 41 C50 4 97 -34 123 -3 C135 12 144 29 144 40",
+          "label": [
+            107,
+            -15
+          ]
+        },
+        {
+          "name": "middle descent",
+          "path": "M123 69 V127",
+          "guide": "M137 78 V119",
+          "label": [
+            151,
+            105
+          ]
+        }
+      ],
+      "caption": "ഷ"
+    },
+    "sa": {
+      "symbol": "സ",
+      "page": 41,
+      "width": 300,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "left arch",
+          "path": "M40 131 C-9 105 6 25 58 25 C89 25 105 47 105 73",
+          "guide": "M22 133 C-30 86 -6 11 54 12",
+          "label": [
+            0,
+            69
+          ]
+        },
+        {
+          "name": "middle descent",
+          "path": "M105 73 V130",
+          "guide": "M94 49 V120",
+          "label": [
+            83,
+            89
+          ]
+        },
+        {
+          "name": "right arch",
+          "path": "M105 130 V73 C105 11 207 13 207 73",
+          "guide": "M118 119 V74 C118 39 136 31 146 33",
+          "label": [
+            135,
+            65
+          ]
+        },
+        {
+          "name": "right descent",
+          "path": "M207 73 V98 C207 143 270 145 277 103",
+          "guide": "M192 26 C224 24 221 65 221 96",
+          "label": [
+            232,
+            74
+          ]
+        },
+        {
+          "name": "right bowl return",
+          "path": "M277 103 C290 75 282 44 257 23",
+          "guide": "M239 147 C312 128 317 64 282 31",
+          "label": [
+            309,
+            92
+          ]
+        }
+      ],
+      "caption": "സ"
+    },
+    "ha": {
+      "symbol": "ഹ",
+      "page": 41,
+      "width": 300,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "left curl",
+          "path": "M43 130 C9 112 20 70 55 71 C94 72 106 104 86 127",
+          "guide": "M24 130 C-15 104 19 53 61 57 C104 62 119 96 106 116",
+          "label": [
+            91,
+            55
+          ]
+        },
+        {
+          "name": "baseline",
+          "path": "M86 127 H222",
+          "guide": "M95 141 H213",
+          "label": [
+            154,
+            155
+          ]
+        },
+        {
+          "name": "right arch",
+          "path": "M222 127 C155 108 171 5 231 16 C284 25 284 105 249 130",
+          "guide": "M190 119 C131 40 200 -24 258 9 C307 39 307 111 269 140",
+          "label": [
+            295,
+            55
+          ]
+        }
+      ],
+      "caption": "ഹ"
+    },
+    "lla": {
+      "symbol": "ള",
+      "page": 41,
+      "width": 195,
+      "height": 220,
+      "strokes": [
+        {
+          "name": "loop",
+          "path": "M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95",
+          "guide": "M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99",
+          "label": [
+            56,
+            96
+          ],
+          "arrow_size": 6
+        },
+        {
+          "name": "upper arch and bowl",
+          "path": "M40 95 C15 15 140 11 139 64 C139 78 128 81 111 81",
+          "guide": "M24 87 C6 0 156 0 151 62 C151 74 146 81 138 87",
+          "label": [
+            105,
+            14
+          ]
+        },
+        {
+          "name": "lower bowl and return",
+          "path": "M111 81 C159 82 169 141 108 153 H52",
+          "guide": "M146 90 C187 126 159 163 92 164",
+          "label": [
+            181,
+            127
+          ]
+        },
+        {
+          "name": "baseline turn",
+          "path": "M52 153 C13 153 13 185 52 185 H172",
+          "guide": "M33 151 C0 157 5 200 64 200",
+          "label": [
+            12,
+            180
+          ]
+        }
+      ],
+      "caption": "ള"
+    },
+    "zha": {
+      "symbol": "ഴ",
+      "page": 41,
+      "width": 190,
+      "height": 210,
+      "strokes": [
+        {
+          "name": "left bowl",
+          "path": "M40 25 C-8 50 7 99 75 99 H113",
+          "guide": "M22 28 C-32 73 4 114 86 114",
+          "label": [
+            0,
+            79
+          ]
+        },
+        {
+          "name": "upper loop",
+          "path": "M113 99 C152 92 149 23 102 23 C53 23 62 98 113 99",
+          "guide": "M146 89 C185 7 54 -17 56 65",
+          "label": [
+            94,
+            8
+          ]
+        },
+        {
+          "name": "lower bowl",
+          "path": "M113 99 C163 166 69 175 50 142",
+          "guide": "M126 117 C167 166 89 200 57 161",
+          "label": [
+            155,
+            166
+          ]
+        }
+      ],
+      "caption": "ഴ"
+    },
+    "rra": {
+      "symbol": "റ",
+      "page": 41,
+      "width": 185,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "open arch",
+          "path": "M45 135 C-25 91 10 17 79 22 C139 26 156 98 109 135",
+          "guide": "M24 139 C-50 67 14 -6 87 9 C168 24 180 97 136 141",
+          "label": [
+            175,
+            86
+          ]
+        }
+      ],
+      "caption": "റ"
+    },
+    "chillu-nn": {
+      "symbol": "ൺ",
+      "page": 42,
+      "width": 340,
+      "height": 210,
+      "strokes": [
+        {
+          "name": "loop",
+          "path": "M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95",
+          "guide": "M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99",
+          "label": [
+            56,
+            96
+          ],
+          "arrow_size": 6
+        },
+        {
+          "name": "left arch",
+          "path": "M40 95 C12 15 118 7 121 48",
+          "guide": "M24 87 C4 0 89 -9 109 14",
+          "label": [
+            67,
+            3
+          ]
+        },
+        {
+          "name": "first stem",
+          "path": "M121 48 V132",
+          "guide": "M110 51 V123",
+          "label": [
+            99,
+            91
+          ]
+        },
+        {
+          "name": "middle arch",
+          "path": "M121 132 V48 C121 12 181 12 181 48",
+          "guide": "M134 123 V52 C134 30 145 27 154 29",
+          "label": [
+            142,
+            68
+          ]
+        },
+        {
+          "name": "second stem",
+          "path": "M181 48 V132",
+          "guide": "M169 51 V123",
+          "label": [
+            159,
+            91
+          ]
+        },
+        {
+          "name": "right arch",
+          "path": "M181 132 V48 C181 9 249 12 271 59",
+          "guide": "M194 123 V53 C194 30 209 25 222 29",
+          "label": [
+            204,
+            68
+          ]
+        },
+        {
+          "name": "right loop down",
+          "path": "M271 59 C289 97 277 133 251 133",
+          "guide": "M288 64 C308 100 298 137 277 145",
+          "label": [
+            312,
+            111
+          ]
+        },
+        {
+          "name": "tail ascent",
+          "path": "M251 133 C205 133 210 91 252 63 C282 43 291 22 291 10",
+          "guide": "M234 121 C188 102 219 69 266 42 C291 27 306 20 306 9",
+          "label": [
+            319,
+            41
+          ]
+        },
+        {
+          "name": "raised curl",
+          "path": "M291 10 C291 -43 239 -48 249 -20",
+          "guide": "M305 -3 C307 -68 221 -63 233 -27",
+          "label": [
+            270,
+            -64
+          ]
+        }
+      ],
+      "caption": "ണ → ൺ",
+      "viewTop": -95
+    },
+    "chillu-n": {
+      "symbol": "ൻ",
+      "page": 42,
+      "width": 275,
+      "height": 210,
+      "strokes": [
+        {
+          "name": "left arch",
+          "path": "M40 131 C-9 105 6 25 58 25 C89 25 105 47 105 73",
+          "guide": "M22 133 C-30 86 -6 11 54 12",
+          "label": [
+            0,
+            69
+          ]
+        },
+        {
+          "name": "middle descent",
+          "path": "M105 73 V130",
+          "guide": "M94 49 V120",
+          "label": [
+            83,
+            89
+          ]
+        },
+        {
+          "name": "right arch",
+          "path": "M105 130 V73 C105 11 207 13 207 73",
+          "guide": "M118 119 V74 C118 39 136 31 146 33",
+          "label": [
+            135,
+            65
+          ]
+        },
+        {
+          "name": "right loop down",
+          "path": "M207 73 C214 115 198 133 174 130",
+          "guide": "M220 80 C242 115 218 149 193 147",
+          "label": [
+            251,
+            115
+          ]
+        },
+        {
+          "name": "tail ascent",
+          "path": "M174 130 C130 130 132 84 180 57 C211 40 218 23 218 9",
+          "guide": "M158 119 C116 111 139 73 180 43 C215 23 233 8 231 -4",
+          "label": [
+            245,
+            42
+          ]
+        },
+        {
+          "name": "raised curl",
+          "path": "M218 9 C218 -42 169 -45 174 -19",
+          "guide": "M231 -5 C234 -63 152 -65 160 -24",
+          "label": [
+            200,
+            -62
+          ]
+        }
+      ],
+      "caption": "ന → ൻ",
+      "viewTop": -95
+    },
+    "chillu-r": {
+      "symbol": "ർ",
+      "page": 42,
+      "width": 205,
+      "height": 210,
+      "strokes": [
+        {
+          "name": "left arch",
+          "path": "M45 132 C-9 103 0 18 74 22 C105 23 124 40 131 65",
+          "guide": "M26 136 C-37 85 -5 4 78 9",
+          "label": [
+            0,
+            65
+          ]
+        },
+        {
+          "name": "right loop descent",
+          "path": "M131 65 C150 127 125 142 101 132",
+          "guide": "M142 40 C174 88 161 129 144 143",
+          "label": [
+            173,
+            103
+          ]
+        },
+        {
+          "name": "inner loop and tail ascent",
+          "path": "M101 132 C64 133 62 83 103 50 C135 31 160 15 160 -15",
+          "guide": "M88 122 C48 94 73 52 128 22",
+          "label": [
+            58,
+            101
+          ]
+        },
+        {
+          "name": "raised curl",
+          "path": "M160 -15 C160 -56 119 -57 119 -32",
+          "guide": "M174 -17 C174 -81 96 -76 103 -39",
+          "label": [
+            144,
+            -77
+          ]
+        }
+      ],
+      "caption": "ര → ർ",
+      "viewTop": -95
+    },
+    "chillu-l": {
+      "symbol": "ൽ",
+      "page": 43,
+      "width": 280,
+      "height": 220,
+      "strokes": [
+        {
+          "name": "left arch",
+          "path": "M41 131 C-5 105 1 26 60 26 C98 26 120 65 115 94",
+          "guide": "M25 130 C-23 85 -3 13 55 13",
+          "label": [
+            0,
+            72
+          ]
+        },
+        {
+          "name": "central loop down",
+          "path": "M115 94 C108 141 59 142 56 92",
+          "guide": "M105 49 C127 94 109 130 86 143",
+          "label": [
+            121,
+            115
+          ]
+        },
+        {
+          "name": "central loop up and right arch",
+          "path": "M56 92 C51 52 89 17 130 26 C164 32 181 53 181 85",
+          "guide": "M45 119 C27 59 73 4 125 13",
+          "label": [
+            76,
+            17
+          ]
+        },
+        {
+          "name": "right loop down",
+          "path": "M181 85 C181 104 171 119 158 130",
+          "guide": "M160 14 C216 55 210 108 180 142",
+          "label": [
+            221,
+            95
+          ]
+        },
+        {
+          "name": "tail ascent",
+          "path": "M158 130 C114 132 112 88 162 58 C193 37 204 24 204 10",
+          "guide": "M142 122 C94 101 120 69 168 43 C201 25 219 15 217 6",
+          "label": [
+            230,
+            43
+          ]
+        },
+        {
+          "name": "raised curl",
+          "path": "M204 10 C204 -44 150 -49 159 -22",
+          "guide": "M218 -5 C221 -66 133 -67 143 -26",
+          "label": [
+            188,
+            -67
+          ]
+        }
+      ],
+      "caption": "ല → ൽ",
+      "viewTop": -95
+    },
+    "chillu-ll": {
+      "symbol": "ൾ",
+      "page": 43,
+      "width": 275,
+      "height": 210,
+      "strokes": [
+        {
+          "name": "left bowl",
+          "path": "M40 35 C-8 55 9 140 66 135 C110 132 113 103 113 80",
+          "guide": "M25 33 C-32 70 -4 149 47 152",
+          "label": [
+            0,
+            100
+          ]
+        },
+        {
+          "name": "middle ascent and right arch",
+          "path": "M113 80 V69 C113 16 211 21 227 76",
+          "guide": "M101 96 V62 C101 10 187 3 216 34",
+          "label": [
+            151,
+            7
+          ]
+        },
+        {
+          "name": "right loop down",
+          "path": "M227 76 C247 128 209 155 178 132",
+          "guide": "M240 64 C270 131 221 175 190 154",
+          "label": [
+            271,
+            118
+          ]
+        },
+        {
+          "name": "inner loop and raised curl",
+          "path": "M178 132 C140 105 178 55 197 35 C240 -2 226 -40 183 -29",
+          "guide": "M166 123 C141 93 199 43 217 13 C242 -47 198 -62 183 -44",
+          "label": [
+            239,
+            -35
+          ]
+        }
+      ],
+      "caption": "ള → ൾ",
+      "viewTop": -95,
+      "form": "modern"
+    },
+    "bare-ka": {
+      "symbol": "ക്",
+      "page": 43,
+      "width": 250,
+      "height": 190,
+      "strokes": [
+        {
+          "name": "top arch",
+          "path": "M91 65 V42 C91 9 146 9 146 42 V65",
+          "guide": null,
+          "label": null,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "right bowl return",
+          "path": "M146 65 V104 C146 139 91 139 91 104",
+          "guide": null,
+          "label": null,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "middle ascent",
+          "path": "M91 104 V65",
+          "guide": null,
+          "label": null,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "left bowl return",
+          "path": "M91 65 V104 C91 139 37 139 37 104",
+          "guide": null,
+          "label": null,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "left arch",
+          "path": "M37 104 C24 69 46 65 65 65",
+          "guide": null,
+          "label": null,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "crossbar",
+          "path": "M65 65 H188",
+          "guide": null,
+          "label": null,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "right end",
+          "path": "M188 65 C226 65 232 101 211 124",
+          "guide": null,
+          "label": null,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "virama",
+          "path": "M12 4 C22 31 48 31 58 4",
+          "guide": null,
+          "label": null,
+          "transform": "translate(170 -24) scale(1)"
+        }
+      ],
+      "caption": "ക്"
+    },
+    "bare-cha": {
+      "symbol": "ച്",
+      "page": 43,
+      "width": 250,
+      "height": 190,
+      "strokes": [
+        {
+          "name": "upper curl",
+          "path": "M51 100 C23 85 34 53 66 60 C87 64 103 77 104 92",
+          "guide": null,
+          "label": null,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "curl and leftward baseline",
+          "path": "M104 92 C110 116 77 129 23 129",
+          "guide": null,
+          "label": null,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "baseline",
+          "path": "M23 129 H219",
+          "guide": null,
+          "label": null,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "right ascent",
+          "path": "M219 129 V18",
+          "guide": null,
+          "label": null,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "virama",
+          "path": "M12 4 C22 31 48 31 58 4",
+          "guide": null,
+          "label": null,
+          "transform": "translate(170 -24) scale(1)"
+        }
+      ],
+      "caption": "ച്"
+    },
+    "bare-tta": {
+      "symbol": "ട്",
+      "page": 43,
+      "width": 160,
+      "height": 190,
+      "strokes": [
+        {
+          "name": "upper curl",
+          "path": "M131 43 C98 1 25 11 25 56 C25 76 48 80 76 80",
+          "guide": null,
+          "label": null,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "lower curl",
+          "path": "M76 80 C139 77 153 137 88 137 C57 137 36 130 27 115",
+          "guide": null,
+          "label": null,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "virama",
+          "path": "M12 4 C22 31 48 31 58 4",
+          "guide": null,
+          "label": null,
+          "transform": "translate(80 -24) scale(1)"
+        }
+      ],
+      "caption": "ട്"
+    },
+    "bare-tha": {
+      "symbol": "ത്",
+      "page": 43,
+      "width": 240,
+      "height": 190,
+      "strokes": [
+        {
+          "name": "left arch",
+          "path": "M41 131 C-5 105 1 26 60 26 C98 26 120 65 115 94",
+          "guide": null,
+          "label": null,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "central loop down",
+          "path": "M115 94 C108 141 59 142 56 92",
+          "guide": null,
+          "label": null,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "central loop up and right arch",
+          "path": "M56 92 C51 52 89 17 130 26 C164 32 181 53 181 85",
+          "guide": null,
+          "label": null,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "right descent",
+          "path": "M181 85 C181 104 171 119 158 130",
+          "guide": null,
+          "label": null,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "virama",
+          "path": "M12 4 C22 31 48 31 58 4",
+          "guide": null,
+          "label": null,
+          "transform": "translate(160 -24) scale(1)"
+        }
+      ],
+      "caption": "ത്"
+    },
+    "bare-pa": {
+      "symbol": "പ്",
+      "page": 43,
+      "width": 260,
+      "height": 190,
+      "strokes": [
+        {
+          "name": "left curl",
+          "path": "M43 130 C9 112 20 70 55 71 C94 72 106 104 86 127",
+          "guide": null,
+          "label": null,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "baseline",
+          "path": "M86 127 H222",
+          "guide": null,
+          "label": null,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "right ascent",
+          "path": "M222 127 V20",
+          "guide": null,
+          "label": null,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "virama",
+          "path": "M12 4 C22 31 48 31 58 4",
+          "guide": null,
+          "label": null,
+          "transform": "translate(180 -24) scale(1)"
+        }
+      ],
+      "caption": "പ്"
+    },
+    "double-ka": {
+      "symbol": "ക്ക",
+      "page": 44,
+      "width": 340,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "top arch",
+          "path": "M91 65 V42 C91 9 146 9 146 42 V65",
+          "guide": "M80 57 V42 C80 -7 158 -7 158 42 V57",
+          "label": [
+            143,
+            4
+          ]
+        },
+        {
+          "name": "right bowl return",
+          "path": "M146 65 V104 C146 139 91 139 91 104",
+          "guide": "M158 80 V103 C158 152 92 154 84 128",
+          "label": [
+            129,
+            149
+          ]
+        },
+        {
+          "name": "left bowl and arch",
+          "path": "M91 65 V104 C91 139 37 139 37 104 C24 69 46 65 65 65",
+          "guide": "M78 124 C8 166 0 67 47 53",
+          "label": [
+            9,
+            97
+          ]
+        },
+        {
+          "name": "middle ascent",
+          "path": "M91 104 V65",
+          "guide": "M103 108 V76",
+          "label": [
+            114,
+            93
+          ]
+        },
+        {
+          "name": "middle loop",
+          "path": "M188 65 C257 48 254 154 202 128 C183 120 176 95 188 65",
+          "guide": "M210 64 C241 96 229 140 207 143",
+          "label": [
+            243,
+            119
+          ]
+        },
+        {
+          "name": "right arch",
+          "path": "M65 65 H188 C235 11 300 43 294 95 C293 110 288 119 278 128",
+          "guide": "M200 43 C263 2 326 59 309 103 C306 117 302 126 294 135",
+          "label": [
+            327,
+            89
+          ]
+        }
+      ],
+      "caption": "ക്ക"
+    },
+    "double-nga": {
+      "symbol": "ങ്ങ",
+      "page": 44,
+      "width": 370,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "loop",
+          "path": "M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95",
+          "guide": "M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99",
+          "label": [
+            56,
+            96
+          ],
+          "arrow_size": 6
+        },
+        {
+          "name": "left arch",
+          "path": "M40 95 C15 10 127 6 154 32",
+          "guide": "M24 87 C-2 0 98 -9 133 13",
+          "label": [
+            89,
+            1
+          ]
+        },
+        {
+          "name": "middle upper bowl",
+          "path": "M154 32 C202 38 217 83 174 83",
+          "guide": "M168 42 C197 49 201 72 184 73",
+          "label": [
+            205,
+            63
+          ]
+        },
+        {
+          "name": "middle lower bowl and loop return",
+          "path": "M174 83 C221 83 216 133 178 133 C123 133 106 61 154 32",
+          "guide": "M185 94 C209 106 199 122 180 120",
+          "label": [
+            191,
+            108
+          ]
+        },
+        {
+          "name": "joining arch and stem",
+          "path": "M154 32 C189 6 243 18 243 56 V134",
+          "guide": "M128 100 C112 33 171 -7 214 9",
+          "label": [
+            189,
+            -2
+          ]
+        },
+        {
+          "name": "right upper bowl",
+          "path": "M243 56 C243 10 332 5 332 54 C332 74 313 75 287 75",
+          "guide": "M260 40 C273 -8 351 8 345 51 C345 64 339 72 332 79",
+          "label": [
+            352,
+            42
+          ]
+        },
+        {
+          "name": "right lower bowl",
+          "path": "M287 75 C346 73 347 135 295 135 H287",
+          "guide": "M332 88 C362 114 336 148 310 148",
+          "label": [
+            365,
+            121
+          ]
+        }
+      ],
+      "caption": "ങ്ങ"
+    },
+    "double-cha": {
+      "symbol": "ച്ച",
+      "page": 44,
+      "width": 265,
+      "height": 230,
+      "strokes": [
+        {
+          "name": "upper curl",
+          "path": "M51 100 C23 85 34 53 66 60 C87 64 103 77 104 92",
+          "guide": "M34 102 C15 70 36 39 79 54",
+          "label": [
+            25,
+            51
+          ]
+        },
+        {
+          "name": "curl and leftward baseline",
+          "path": "M104 92 C110 116 77 129 23 129",
+          "guide": "M93 90 C101 107 66 116 30 116",
+          "label": [
+            65,
+            107
+          ]
+        },
+        {
+          "name": "baseline",
+          "path": "M23 129 H219",
+          "guide": "M28 143 H211",
+          "label": [
+            114,
+            155
+          ]
+        },
+        {
+          "name": "right ascent",
+          "path": "M219 129 V18",
+          "guide": "M232 129 V26",
+          "label": [
+            245,
+            80
+          ]
+        },
+        {
+          "name": "right descent",
+          "path": "M210 22 V181",
+          "guide": "M223 33 V173",
+          "label": [
+            237,
+            107
+          ],
+          "transform": "translate(9 0) scale(1)"
+        },
+        {
+          "name": "lower baseline",
+          "path": "M210 181 H98",
+          "guide": "M200 195 H107",
+          "label": [
+            150,
+            207
+          ],
+          "transform": "translate(9 0) scale(1)"
+        },
+        {
+          "name": "diagonal return",
+          "path": "M98 181 L210 145",
+          "guide": "M106 167 L196 137",
+          "label": [
+            153,
+            142
+          ],
+          "transform": "translate(9 0) scale(1)"
+        }
+      ],
+      "caption": "ച്ച"
+    },
+    "double-tha": {
+      "symbol": "ത്ത",
+      "page": 44,
+      "width": 385,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "left arch",
+          "path": "M41 131 C-5 105 1 26 60 26 C98 26 120 65 115 94",
+          "guide": "M25 130 C-23 85 -3 13 55 13",
+          "label": [
+            0,
+            72
+          ],
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "central loop down",
+          "path": "M115 94 C108 141 59 142 56 92",
+          "guide": "M105 49 C127 94 109 130 86 143",
+          "label": [
+            121,
+            115
+          ],
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "central loop up and right arch",
+          "path": "M56 92 C51 52 89 17 130 26 C164 32 181 53 181 85",
+          "guide": "M45 119 C27 59 73 4 125 13",
+          "label": [
+            76,
+            17
+          ],
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "shared middle stem",
+          "path": "M181 85 V131",
+          "guide": "M169 90 V124",
+          "label": [
+            157,
+            111
+          ]
+        },
+        {
+          "name": "second ascent and arch",
+          "path": "M181 131 V85 C181 26 240 26 255 65 C259 75 257 87 255 94",
+          "guide": "M194 122 V86 C194 44 226 34 240 47",
+          "label": [
+            207,
+            77
+          ]
+        },
+        {
+          "name": "central loop down",
+          "path": "M115 94 C108 141 59 142 56 92",
+          "guide": "M105 49 C127 94 109 130 86 143",
+          "label": [
+            121,
+            115
+          ],
+          "transform": "translate(140 0) scale(1)"
+        },
+        {
+          "name": "central loop up and right arch",
+          "path": "M56 92 C51 52 89 17 130 26 C164 32 181 53 181 85",
+          "guide": "M45 119 C27 59 73 4 125 13",
+          "label": [
+            76,
+            17
+          ],
+          "transform": "translate(140 0) scale(1)"
+        },
+        {
+          "name": "right descent",
+          "path": "M181 85 C181 104 171 119 158 130",
+          "guide": "M183 30 C217 75 203 111 179 138",
+          "label": [
+            208,
+            94
+          ],
+          "transform": "translate(140 0) scale(1)"
+        }
+      ],
+      "caption": "ത്ത"
+    },
+    "double-tta": {
+      "symbol": "ട്ട",
+      "page": 44,
+      "width": 165,
+      "height": 225,
+      "strokes": [
+        {
+          "name": "upper curl",
+          "path": "M131 43 C98 1 25 11 25 56 C25 76 48 80 76 80",
+          "guide": "M119 17 C72 -7 19 7 13 45",
+          "label": [
+            26,
+            3
+          ]
+        },
+        {
+          "name": "middle bowl and baseline",
+          "path": "M76 80 C139 77 153 137 88 137 H27",
+          "guide": "M31 94 C163 75 151 128 65 125",
+          "label": [
+            90,
+            109
+          ]
+        },
+        {
+          "name": "lower bowl",
+          "path": "M27 137 H76 C139 134 153 191 88 191 C57 191 36 184 27 169",
+          "guide": "M39 150 C171 134 156 182 60 179",
+          "label": [
+            92,
+            163
+          ]
+        }
+      ],
+      "caption": "ട്ട"
+    },
+    "double-nna": {
+      "symbol": "ണ്ണ",
+      "page": 44,
+      "width": 310,
+      "height": 285,
+      "strokes": [
+        {
+          "name": "loop",
+          "path": "M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95 M40 95 V190",
+          "guide": "M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99",
+          "label": [
+            56,
+            96
+          ],
+          "arrow_size": 6,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "left arch",
+          "path": "M40 95 C12 15 118 7 121 48",
+          "guide": "M24 87 C4 0 89 -9 109 14",
+          "label": [
+            67,
+            3
+          ],
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "first stem",
+          "path": "M121 48 V227",
+          "guide": "M110 51 V123",
+          "label": [
+            99,
+            91
+          ],
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "middle arch",
+          "path": "M121 132 V48 C121 12 181 12 181 48",
+          "guide": "M134 123 V52 C134 30 145 27 154 29",
+          "label": [
+            142,
+            68
+          ],
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "second stem",
+          "path": "M181 48 V227",
+          "guide": "M169 51 V123",
+          "label": [
+            159,
+            91
+          ],
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "right arch",
+          "path": "M181 132 V48 C181 9 249 12 271 59",
+          "guide": "M194 123 V53 C194 30 209 25 222 29",
+          "label": [
+            204,
+            68
+          ],
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "right descent",
+          "path": "M271 59 C286 93 272 116 249 133",
+          "guide": "M235 15 C307 38 309 102 269 141",
+          "label": [
+            303,
+            92
+          ],
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "loop",
+          "path": "M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95",
+          "guide": "M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99",
+          "label": [
+            56,
+            96
+          ],
+          "arrow_size": 6,
+          "transform": "translate(0 95) scale(1)"
+        },
+        {
+          "name": "left arch",
+          "path": "M40 95 C12 15 118 7 121 48",
+          "guide": "M24 87 C4 0 89 -9 109 14",
+          "label": [
+            67,
+            3
+          ],
+          "transform": "translate(0 95) scale(1)"
+        },
+        {
+          "name": "first stem",
+          "path": "M121 48 V132",
+          "guide": "M110 51 V123",
+          "label": [
+            99,
+            91
+          ],
+          "transform": "translate(0 95) scale(1)"
+        },
+        {
+          "name": "middle arch",
+          "path": "M121 132 V48 C121 12 181 12 181 48",
+          "guide": "M134 123 V52 C134 30 145 27 154 29",
+          "label": [
+            142,
+            68
+          ],
+          "transform": "translate(0 95) scale(1)"
+        },
+        {
+          "name": "second stem",
+          "path": "M181 48 V132",
+          "guide": "M169 51 V123",
+          "label": [
+            159,
+            91
+          ],
+          "transform": "translate(0 95) scale(1)"
+        },
+        {
+          "name": "right arch",
+          "path": "M181 132 V48 C181 9 249 12 271 59",
+          "guide": "M194 123 V53 C194 30 209 25 222 29",
+          "label": [
+            204,
+            68
+          ],
+          "transform": "translate(0 95) scale(1)"
+        },
+        {
+          "name": "right descent",
+          "path": "M271 59 C286 93 272 116 249 133",
+          "guide": "M235 15 C307 38 309 102 269 141",
+          "label": [
+            303,
+            92
+          ],
+          "transform": "translate(0 95) scale(1)"
+        }
+      ],
+      "caption": "ണ്ണ",
+      "form": "modern"
+    },
+    "double-na": {
+      "symbol": "ന്ന",
+      "page": 44,
+      "width": 320,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "left arch",
+          "path": "M40 131 C-9 105 6 25 58 25 C89 25 105 47 105 73",
+          "guide": "M22 133 C-30 86 -6 11 54 12",
+          "label": [
+            0,
+            69
+          ]
+        },
+        {
+          "name": "middle descent",
+          "path": "M105 73 V130",
+          "guide": "M94 49 V120",
+          "label": [
+            83,
+            89
+          ]
+        },
+        {
+          "name": "right arch",
+          "path": "M105 130 V73 C105 11 207 13 207 73",
+          "guide": "M118 119 V74 C118 39 136 31 146 33",
+          "label": [
+            135,
+            65
+          ]
+        },
+        {
+          "name": "second stem",
+          "path": "M207 73 V131",
+          "guide": "M194 76 V123",
+          "label": [
+            183,
+            105
+          ]
+        },
+        {
+          "name": "right arch",
+          "path": "M207 131 V73 C207 10 292 17 292 73",
+          "guide": "M220 121 V75 C220 44 238 31 251 33",
+          "label": [
+            233,
+            68
+          ]
+        },
+        {
+          "name": "right descent",
+          "path": "M292 73 C293 100 281 119 260 131",
+          "guide": "M265 18 C324 49 325 108 284 142",
+          "label": [
+            323,
+            94
+          ]
+        }
+      ],
+      "caption": "ന്ന"
+    },
+    "double-ba": {
+      "symbol": "ബ്ബ",
+      "page": 44,
+      "width": 300,
+      "height": 230,
+      "strokes": [
+        {
+          "name": "left loop, arch, and stem",
+          "path": "M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95 M40 95 C13 11 118 7 122 52 M122 52 V131",
+          "guide": "M23 87 C4 -1 90 -10 110 17",
+          "label": [
+            70,
+            2
+          ]
+        },
+        {
+          "name": "right arch",
+          "path": "M122 131 V52 C122 22 204 22 204 52",
+          "guide": "M135 119 V58 C135 36 170 24 184 32",
+          "label": [
+            147,
+            65
+          ]
+        },
+        {
+          "name": "right descent",
+          "path": "M204 52 C217 87 204 114 180 131",
+          "guide": "M195 19 C240 45 239 100 215 121",
+          "label": [
+            244,
+            74
+          ]
+        },
+        {
+          "name": "baseline",
+          "path": "M180 131 H260",
+          "guide": "M192 145 H251",
+          "label": [
+            222,
+            156
+          ]
+        },
+        {
+          "name": "right descent",
+          "path": "M210 22 V181",
+          "guide": "M223 33 V173",
+          "label": [
+            237,
+            107
+          ],
+          "transform": "translate(50 0) scale(1)"
+        },
+        {
+          "name": "lower baseline",
+          "path": "M210 181 H98",
+          "guide": "M200 195 H107",
+          "label": [
+            150,
+            207
+          ],
+          "transform": "translate(50 0) scale(1)"
+        },
+        {
+          "name": "diagonal return",
+          "path": "M98 181 L210 145",
+          "guide": "M106 167 L196 137",
+          "label": [
+            153,
+            142
+          ],
+          "transform": "translate(50 0) scale(1)"
+        }
+      ],
+      "caption": "ബ്ബ"
+    },
+    "double-ma": {
+      "symbol": "മ്മ",
+      "page": 45,
+      "width": 315,
+      "height": 180,
+      "strokes": [
+        {
+          "name": "left arch",
+          "path": "M31 134 V63 C31 34 46 25 79 25",
+          "guide": "M18 125 V64 C18 25 40 11 67 11",
+          "label": [
+            11,
+            64
+          ]
+        },
+        {
+          "name": "right arch",
+          "path": "M79 25 C128 25 152 35 152 70 V134",
+          "guide": "M95 10 C152 10 167 33 167 70 V122",
+          "label": [
+            170,
+            64
+          ]
+        },
+        {
+          "name": "baseline",
+          "path": "M152 134 H31",
+          "guide": "M140 149 H40",
+          "label": [
+            86,
+            162
+          ]
+        },
+        {
+          "name": "inner bowl",
+          "path": "M31 134 C108 132 123 69 79 25",
+          "guide": "M51 122 C96 118 99 70 84 47",
+          "label": [
+            99,
+            88
+          ]
+        },
+        {
+          "name": "second arch",
+          "path": "M152 134 V63 C152 34 167 25 200 25 C249 25 273 35 273 70 V134",
+          "guide": "M140 122 V64 C140 -7 285 -4 285 70 V122",
+          "label": [
+            287,
+            61
+          ]
+        },
+        {
+          "name": "baseline",
+          "path": "M152 134 H31",
+          "guide": "M140 149 H40",
+          "label": [
+            86,
+            162
+          ],
+          "transform": "translate(121 0) scale(1)"
+        },
+        {
+          "name": "inner bowl",
+          "path": "M31 134 C108 132 123 69 79 25",
+          "guide": "M51 122 C96 118 99 70 84 47",
+          "label": [
+            99,
+            88
+          ],
+          "transform": "translate(121 0) scale(1)"
+        }
+      ],
+      "caption": "മ്മ"
+    },
+    "double-ya": {
+      "symbol": "യ്യ",
+      "page": 45,
+      "width": 280,
+      "height": 230,
+      "strokes": [
+        {
+          "name": "left bowl",
+          "path": "M69 23 C-7 14 -14 129 73 132",
+          "guide": "M48 9 C-34 30 -27 129 38 146",
+          "label": [
+            0,
+            75
+          ]
+        },
+        {
+          "name": "middle loop up",
+          "path": "M73 132 C152 132 155 24 120 23",
+          "guide": "M85 145 C152 122 165 67 153 26",
+          "label": [
+            165,
+            72
+          ]
+        },
+        {
+          "name": "middle loop down",
+          "path": "M120 23 C75 21 48 118 143 132",
+          "guide": "M104 9 C60 28 56 95 100 120",
+          "label": [
+            76,
+            76
+          ]
+        },
+        {
+          "name": "right bowl",
+          "path": "M143 132 C243 147 259 69 214 22",
+          "guide": "M181 146 C264 145 278 81 250 30",
+          "label": [
+            272,
+            89
+          ]
+        },
+        {
+          "name": "right descent",
+          "path": "M210 22 V181",
+          "guide": "M223 33 V173",
+          "label": [
+            237,
+            107
+          ],
+          "transform": "translate(29 0) scale(1)"
+        },
+        {
+          "name": "lower baseline",
+          "path": "M210 181 H98",
+          "guide": "M200 195 H107",
+          "label": [
+            150,
+            207
+          ],
+          "transform": "translate(29 0) scale(1)"
+        },
+        {
+          "name": "diagonal return",
+          "path": "M98 181 L210 145",
+          "guide": "M106 167 L196 137",
+          "label": [
+            153,
+            142
+          ],
+          "transform": "translate(29 0) scale(1)"
+        }
+      ],
+      "caption": "യ്യ"
+    },
+    "double-la": {
+      "symbol": "ല്ല",
+      "page": 45,
+      "width": 250,
+      "height": 265,
+      "strokes": [
+        {
+          "name": "crossbar",
+          "path": "M31 78 H131",
+          "guide": "M45 93 H119",
+          "label": [
+            82,
+            108
+          ]
+        },
+        {
+          "name": "upper arch",
+          "path": "M131 78 V47 C131 11 31 11 31 47 V78",
+          "guide": "M144 73 V46 C144 -7 18 -7 18 46 V72",
+          "label": [
+            74,
+            3
+          ]
+        },
+        {
+          "name": "left descent",
+          "path": "M31 78 V138",
+          "guide": "M18 88 V130",
+          "label": [
+            4,
+            114
+          ]
+        },
+        {
+          "name": "baseline",
+          "path": "M31 138 H209",
+          "guide": "M39 153 H200",
+          "label": [
+            123,
+            168
+          ]
+        },
+        {
+          "name": "right ascent",
+          "path": "M209 138 V24",
+          "guide": "M222 135 V31",
+          "label": [
+            237,
+            84
+          ]
+        },
+        {
+          "name": "lower loop and arch",
+          "path": "M64 45 C64 27 91 27 91 45 C91 63 64 63 64 45 M64 45 C44 7 59 0 78 0 C98 0 111 14 111 39 V52",
+          "guide": "M51 35 C35 13 52 9 71 10 C98 10 100 26 100 40",
+          "label": [
+            112,
+            9
+          ],
+          "transform": "translate(0 138) scale(1)"
+        },
+        {
+          "name": "lower bowl",
+          "path": "M111 52 C111 95 186 95 186 37",
+          "guide": "M123 53 C123 104 200 100 199 43",
+          "label": [
+            184,
+            99
+          ],
+          "transform": "translate(0 138) scale(1)"
+        }
+      ],
+      "caption": "ല്ല"
+    },
+    "double-va": {
+      "symbol": "വ്വ",
+      "page": 45,
+      "width": 260,
+      "height": 230,
+      "strokes": [
+        {
+          "name": "left curl",
+          "path": "M44 133 C-7 106 6 24 65 24 C107 24 139 85 104 131",
+          "guide": "M25 134 C-32 85 -3 10 68 11 C127 12 150 92 129 114",
+          "label": [
+            110,
+            14
+          ]
+        },
+        {
+          "name": "baseline",
+          "path": "M104 131 H210",
+          "guide": "M112 145 H200",
+          "label": [
+            157,
+            160
+          ]
+        },
+        {
+          "name": "right ascent",
+          "path": "M210 131 V22",
+          "guide": "M223 128 V29",
+          "label": [
+            237,
+            78
+          ]
+        },
+        {
+          "name": "right descent",
+          "path": "M210 22 V181",
+          "guide": "M223 33 V173",
+          "label": [
+            237,
+            107
+          ],
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "lower baseline",
+          "path": "M210 181 H98",
+          "guide": "M200 195 H107",
+          "label": [
+            150,
+            207
+          ],
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "diagonal return",
+          "path": "M98 181 L210 145",
+          "guide": "M106 167 L196 137",
+          "label": [
+            153,
+            142
+          ],
+          "transform": "translate(0 0) scale(1)"
+        }
+      ],
+      "caption": "വ്വ"
+    },
+    "double-pa": {
+      "symbol": "പ്പ",
+      "page": 45,
+      "width": 265,
+      "height": 230,
+      "strokes": [
+        {
+          "name": "left curl",
+          "path": "M43 130 C9 112 20 70 55 71 C94 72 106 104 86 127",
+          "guide": "M24 130 C-15 104 19 53 61 57 C104 62 119 96 106 116",
+          "label": [
+            91,
+            55
+          ]
+        },
+        {
+          "name": "baseline",
+          "path": "M86 127 H222",
+          "guide": "M95 141 H213",
+          "label": [
+            154,
+            155
+          ]
+        },
+        {
+          "name": "right ascent",
+          "path": "M222 127 V20",
+          "guide": "M235 125 V28",
+          "label": [
+            248,
+            80
+          ]
+        },
+        {
+          "name": "left curl",
+          "path": "M43 130 C9 112 20 70 55 71 C94 72 106 104 86 127",
+          "guide": "M24 130 C-15 104 19 53 61 57 C104 62 119 96 106 116",
+          "label": [
+            91,
+            55
+          ],
+          "transform": "translate(0 69) scale(1)"
+        },
+        {
+          "name": "baseline",
+          "path": "M86 127 H222",
+          "guide": "M95 141 H213",
+          "label": [
+            154,
+            155
+          ],
+          "transform": "translate(0 69) scale(1)"
+        },
+        {
+          "name": "second ascent",
+          "path": "M222 196 V20",
+          "guide": "M249 188 V28",
+          "label": [
+            262,
+            102
+          ]
+        }
+      ],
+      "caption": "പ്പ"
+    },
+    "double-lla": {
+      "symbol": "ള്ള",
+      "page": 45,
+      "width": 375,
+      "height": 230,
+      "strokes": [
+        {
+          "name": "loop",
+          "path": "M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95",
+          "guide": "M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99",
+          "label": [
+            56,
+            96
+          ],
+          "arrow_size": 6
+        },
+        {
+          "name": "upper arch and bowl",
+          "path": "M40 95 C15 15 140 11 139 64 C139 78 128 81 111 81",
+          "guide": "M24 87 C6 0 156 0 151 62 C151 74 146 81 138 87",
+          "label": [
+            105,
+            14
+          ]
+        },
+        {
+          "name": "lower bowl and return",
+          "path": "M111 81 C159 82 169 141 108 153 H52",
+          "guide": "M146 90 C187 126 159 163 92 164",
+          "label": [
+            181,
+            127
+          ]
+        },
+        {
+          "name": "first baseline turn",
+          "path": "M52 153 C13 153 13 185 52 185 H224",
+          "guide": "M33 151 C0 157 5 200 64 200",
+          "label": [
+            12,
+            180
+          ]
+        },
+        {
+          "name": "loop",
+          "path": "M40 95 C40 72 72 72 72 95 C72 118 40 118 40 95",
+          "guide": "M46 89 C58 76 68 88 64 100 C60 110 47 105 47 99",
+          "label": [
+            56,
+            96
+          ],
+          "arrow_size": 6,
+          "transform": "translate(172 0) scale(1)"
+        },
+        {
+          "name": "upper arch and bowl",
+          "path": "M40 95 C15 15 140 11 139 64 C139 78 128 81 111 81",
+          "guide": "M24 87 C6 0 156 0 151 62 C151 74 146 81 138 87",
+          "label": [
+            105,
+            14
+          ],
+          "transform": "translate(172 0) scale(1)"
+        },
+        {
+          "name": "lower bowl and return",
+          "path": "M111 81 C159 82 169 141 108 153 H52",
+          "guide": "M146 90 C187 126 159 163 92 164",
+          "label": [
+            181,
+            127
+          ],
+          "transform": "translate(172 0) scale(1)"
+        },
+        {
+          "name": "baseline turn",
+          "path": "M52 153 C13 153 13 185 52 185 H172",
+          "guide": "M33 151 C0 157 5 200 64 200",
+          "label": [
+            12,
+            180
+          ],
+          "transform": "translate(172 0) scale(1)"
+        }
+      ],
+      "caption": "ള്ള"
+    },
+    "join-ya": {
+      "symbol": "ത്യ",
+      "page": 46,
+      "width": 270,
+      "height": 220,
+      "strokes": [
+        {
+          "name": "left arch",
+          "path": "M41 131 C-5 105 1 26 60 26 C98 26 120 65 115 94",
+          "guide": null,
+          "label": null,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "central loop down",
+          "path": "M115 94 C108 141 59 142 56 92",
+          "guide": null,
+          "label": null,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "central loop up and right arch",
+          "path": "M56 92 C51 52 89 17 130 26 C164 32 181 53 181 85",
+          "guide": null,
+          "label": null,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "right descent",
+          "path": "M181 85 C181 104 171 119 158 130",
+          "guide": null,
+          "label": null,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "postposed ya",
+          "path": "M31 21 C23 88 66 126 30 149 C7 165 -6 144 9 133",
+          "guide": "M44 25 C32 89 87 125 44 165 C12 190 -29 151 -4 136",
+          "label": [
+            71,
+            134
+          ],
+          "transform": "translate(186 0) scale(1)"
+        }
+      ],
+      "caption": "ത് + യ = ത്യ"
+    },
+    "join-ra": {
+      "symbol": "പ്ര",
+      "page": 46,
+      "width": 360,
+      "height": 210,
+      "strokes": [
+        {
+          "name": "left curl",
+          "path": "M43 130 C9 112 20 70 55 71 C94 72 106 104 86 127",
+          "guide": null,
+          "label": null,
+          "transform": "translate(92 0) scale(1)"
+        },
+        {
+          "name": "baseline",
+          "path": "M86 127 H222",
+          "guide": null,
+          "label": null,
+          "transform": "translate(92 0) scale(1)"
+        },
+        {
+          "name": "right ascent",
+          "path": "M222 127 V20",
+          "guide": null,
+          "label": null,
+          "transform": "translate(92 0) scale(1)"
+        },
+        {
+          "name": "preposed ra",
+          "path": "M27 24 V146 C27 174 44 177 69 165",
+          "guide": "M14 29 V149 C14 189 38 195 58 187",
+          "label": [
+            0,
+            107
+          ]
+        }
+      ],
+      "caption": "പ + ര / റ = പ്ര"
+    },
+    "join-la": {
+      "symbol": "പ്ല",
+      "page": 46,
+      "width": 265,
+      "height": 285,
+      "strokes": [
+        {
+          "name": "left curl",
+          "path": "M43 130 C9 112 20 70 55 71 C94 72 106 104 86 127",
+          "guide": null,
+          "label": null,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "baseline",
+          "path": "M86 127 H222",
+          "guide": null,
+          "label": null,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "right ascent",
+          "path": "M222 127 V20",
+          "guide": null,
+          "label": null,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "lower loop",
+          "path": "M64 45 C64 27 91 27 91 45 C91 63 64 63 64 45",
+          "guide": "M69 40 C78 30 86 39 84 48 C81 55 71 52 70 47",
+          "label": [
+            77,
+            45
+          ],
+          "arrow_size": 6,
+          "transform": "translate(0 127) scale(1)"
+        },
+        {
+          "name": "lower arch",
+          "path": "M64 45 C44 7 59 0 78 0 C98 0 111 14 111 39 V52",
+          "guide": "M51 35 C35 13 52 9 71 10 C98 10 100 26 100 40",
+          "label": [
+            112,
+            9
+          ],
+          "transform": "translate(0 127) scale(1)"
+        },
+        {
+          "name": "lower bowl",
+          "path": "M111 52 C111 95 186 95 186 37",
+          "guide": "M123 53 C123 104 200 100 199 43",
+          "label": [
+            184,
+            99
+          ],
+          "transform": "translate(0 127) scale(1)"
+        }
+      ],
+      "caption": "പ + ല = പ്ല"
+    },
+    "join-va": {
+      "symbol": "സ്വ",
+      "page": 46,
+      "width": 385,
+      "height": 210,
+      "strokes": [
+        {
+          "name": "left arch",
+          "path": "M40 131 C-9 105 6 25 58 25 C89 25 105 47 105 73",
+          "guide": null,
+          "label": null,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "middle descent",
+          "path": "M105 73 V130",
+          "guide": null,
+          "label": null,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "right arch",
+          "path": "M105 130 V73 C105 11 207 13 207 73",
+          "guide": null,
+          "label": null,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "right descent",
+          "path": "M207 73 V98 C207 143 270 145 277 103",
+          "guide": null,
+          "label": null,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "right bowl return",
+          "path": "M277 103 C290 75 282 44 257 23",
+          "guide": null,
+          "label": null,
+          "transform": "translate(0 0) scale(1)"
+        },
+        {
+          "name": "joining baseline",
+          "path": "M13 136 H70",
+          "guide": "M19 151 H62",
+          "label": [
+            43,
+            165
+          ],
+          "transform": "translate(286 0) scale(1)"
+        },
+        {
+          "name": "joining ascent",
+          "path": "M70 136 V25",
+          "guide": "M83 131 V33",
+          "label": [
+            96,
+            81
+          ],
+          "transform": "translate(286 0) scale(1)"
+        }
+      ],
+      "caption": "സ + വ = സ്വ"
+    }
+  },
+  "tables": {
+    "27": [
+      "vowel-a",
+      "vowel-aa",
+      "vowel-i",
+      "vowel-ii",
+      "vowel-u",
+      "vowel-uu"
+    ],
+    "28": [
+      "vowel-r",
+      "vowel-e",
+      "vowel-ee",
+      "vowel-ai",
+      "vowel-o",
+      "vowel-oo"
+    ],
+    "29": [
+      "vowel-au",
+      "vowel-am",
+      "vowel-ah"
+    ],
+    "30": [
+      "sign-aa",
+      "sign-i",
+      "sign-ii"
+    ],
+    "31": [
+      "sign-u",
+      "sign-uu",
+      "sign-r"
+    ],
+    "32": [
+      "sign-e",
+      "sign-ee",
+      "sign-ai"
+    ],
+    "33": [
+      "sign-o",
+      "sign-oo",
+      "sign-au"
+    ],
+    "34": [
+      "sign-am",
+      "sign-ah"
+    ],
+    "35": [
+      "ka",
+      "kha",
+      "ga",
+      "gha",
+      "nga"
+    ],
+    "36": [
+      "cha",
+      "chha",
+      "ja",
+      "jha",
+      "nya"
+    ],
+    "37": [
+      "tta",
+      "ttha",
+      "dda",
+      "ddha",
+      "nna"
+    ],
+    "38": [
+      "tha",
+      "thha",
+      "da",
+      "dha",
+      "na"
+    ],
+    "39": [
+      "pa",
+      "pha",
+      "ba",
+      "bha",
+      "ma"
+    ],
+    "40": [
+      "ya",
+      "ra",
+      "la",
+      "va",
+      "sha",
+      "ssa"
+    ],
+    "41": [
+      "sa",
+      "ha",
+      "lla",
+      "zha",
+      "rra"
+    ],
+    "42": [
+      "chillu-nn",
+      "chillu-n",
+      "chillu-r"
+    ],
+    "43": [
+      "chillu-l",
+      "chillu-ll",
+      "bare-ka",
+      "bare-cha",
+      "bare-tta",
+      "bare-tha",
+      "bare-pa"
+    ],
+    "44": [
+      "double-ka",
+      "double-nga",
+      "double-cha",
+      "double-tha",
+      "double-tta",
+      "double-nna",
+      "double-na",
+      "double-ba"
+    ],
+    "45": [
+      "double-ma",
+      "double-ya",
+      "double-la",
+      "double-va",
+      "double-pa",
+      "double-lla"
+    ],
+    "46": [
+      "join-ya",
+      "join-ra",
+      "join-la",
+      "join-va"
+    ]
+  }
+}

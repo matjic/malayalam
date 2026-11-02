@@ -81,7 +81,7 @@ The preface incorrectly locates Elamite in the Arabian peninsula. It was spoken 
 
 ## Sidebar Maintenance
 
-The [sidebar](_sidebar.md) is generated from document titles and source-page order. New Markdown chapters with source markers are placed in book order; documents without markers appear as supporting material. Run `python3 scripts/generate-sidebar.py` (or `bun run docs:sidebar`) after adding or renaming content. Run `python3 scripts/generate-sidebar.py --check` (or `bun run docs:check-sidebar`) to detect a stale sidebar.
+The [sidebar](_sidebar.md) is generated from document titles and source-page order. New Markdown chapters with source markers are placed in book order; documents without markers appear as supporting material. Run `cargo test --locked` (or `bun run docs:sidebar`) after adding or renaming content. Run `cargo test --locked` (or `bun run docs:check-sidebar`) to detect a stale sidebar.
 
 ## Verification and Limits
 

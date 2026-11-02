@@ -12,19 +12,18 @@ by Mathew Jacob. This edition was not published by Moag.
 ## Architecture
 
 The repository is a static publishing system. Human-readable source files and
-versioned data feed a Rust static-site renderer and the remaining Python export/audio
-tools. The website ships complete HTML while reusing the existing Docsify theme,
+versioned data feed one Rust publishing CLI. The website ships complete HTML while reusing the existing Docsify theme,
 fonts, CSS, and layout classes. No application server or database is required in production.
 
 | Layer | Representation | Role |
 |---|---|---|
 | Textbook | Markdown in `docs/` | Editable prose, examples, exercises, and vocabulary tables |
 | Source provenance | PDF-page comments, manifests, review records | Connect the edition and derived assets to their sources |
-| Writing models | Named paths and guides in `scripts/writing_shapes.py` | Generate standalone SVGs and assembled writing tables |
+| Writing models | Named paths and guides in `data/writing/models.json` | Generate standalone SVGs and assembled writing tables |
 | Audio | Original MP3s, timestamped clip manifests, explicit repairs | Preserve recordings while producing section, word, and letter playback |
 | Vocabulary | Generated `data/vocabulary/moag.json` | Shared structured input for the glossary and Anki exporter |
 | Website | Rust-rendered HTML, Docsify theme CSS, local JavaScript/fonts | Reading navigation, search, vocabulary filters, and audio controls |
-| Exports | Pandoc EPUB, WeasyPrint PDF, and genanki packages | Reuse the content in ebook readers and spaced-repetition study |
+| Exports | Rust preparation, Pandoc EPUB, Chromium PDF, and native APKG packages | Reuse the content in ebook readers and spaced-repetition study |
 
 ## Content and data flow
 
@@ -70,7 +69,7 @@ can be inspected and revised.
 The site is served as static files through GitHub Pages. GitHub Actions builds the
 EPUB with Pandoc and validates it with EPUBCheck. Separate jobs render HTML with Rust, render and validate
 the PDF, and build and test the Anki deck in parallel. Once the required Rust, browser-route,
-and Python checks and all builds pass, a
+checks and all builds pass, a
 publishing job downloads their artifacts and assembles the site for deployment.
 Pull requests also assemble the complete site and validate its downloads. Only main-branch runs configure and deploy GitHub Pages.
 Both book formats share content preparation and reading order. The book exports retain the written content and omit audio players, recording
@@ -78,8 +77,7 @@ links, and Audio columns. Anki packages embed recordings and a Malayalam font fo
 
 Checks cover page-marker coverage, links, section anchors, numbered-list structure, table structure,
 generated-file freshness, SVG models, audio checksums, and alignment regressions.
-Anki exports are tested with the official Anki Python backend, including repeat
-imports and preservation of review progress. These tests complement editorial and
+Rust tests verify APKG structure, every published GUID and card field, embedded media, and source contracts. The migrated package was also checked once with the official Anki backend for import/reimport and preservation of review progress. These tests complement editorial and
 listening review; they do not replace them.
 
 ## Working with the repository
@@ -102,20 +100,24 @@ new links use paths such as `/lesson8/#section-8-1`. Source and Docsify-generate
 heading aliases are retained. Audio, glossary filtering and writing controls
 initialize directly on static pages; no Docsify runtime is loaded.
 
-The old renderer remains available for visual comparisons with `bun install`
-and `bun run dev:legacy`. New development uses `bun run dev` or the Cargo commands.
-Rust and URL compatibility tests run with `cargo test --locked` and
-`bun test tests/legacy-routes.test.js`.
+All repository tooling is Rust; browser enhancements remain local JavaScript. There is no Python runtime or Python dependency environment. Run `cargo test --locked` and `bun test tests/legacy-routes.test.js` for regression checks. Bun only runs the browser JavaScript tests; it has no project dependencies to install.
 
-The migration to Rust is staged. Site rendering, route/link validation, search-index
-construction, local preview serving and sidebar generation are now Rust. Vocabulary
-and Anki generation, EPUB/PDF preparation, SVG generation and the offline audio/ML
-pipelines still use Python; they have not been replaced by hidden subprocess wrappers.
-Their existing checks remain required during the migration. EPUB and PDF export additionally require Pandoc. The PDF
-renderer uses Pango and the dependencies in `requirements/pdf.txt`. Anki dependencies
-are isolated in `requirements/anki.txt`, with optional backend-test dependencies in
-`requirements/anki-test.txt`. Package scripts expose the common build and check
-commands.
+```sh
+cargo run --locked -- vocabulary --check
+cargo run --locked -- navigation --check
+cargo run --locked -- writing --check
+cargo run --locked -- glossary --check
+cargo run --locked -- anki --no-site-copy
+cargo run --locked -- epub
+cargo run --locked -- pdf
+cargo run --locked -- check-pdf
+```
+
+Book exports require native Pandoc. PDF generation requires Chrome/Chromium (`CHROME` overrides its executable); PDF checks require Poppler. Audio rebuilding requires FFmpeg. Fresh optional recognition uses native `whisper-cli` and a compatible local model; recognition is reviewed before it affects publishing. Rust invokes these native tools directly.
+
+Reviewed audio recipes live in `data/audio/build.json`; source hashes and row decisions are in `data/audio/moag/reviewed-vocabulary.json`. Original recognition and repair evidence remains available. `audio`, `word-audio`, and `letter-audio` accept `--check`; `review-audio` generates a listening page. Older Koyal/NeMo/Core ML conversion probes were removed with the abandoned experimental tooling; their recorded results remain as provenance.
+
+Resource maintenance is consolidated into `collect`, `archive --manifest PATH --check`, `import-story --input ZIP`, and `assemble-books`. Use `--url`, `--scope`, `--limit`, and `--output` to bound new collections. Existing downloaded source collections are retained.
 
 - [Technical account](docs/technical-notes.md): transcription, tools, review history, architecture, and rebuild commands.
 - [Vocabulary documentation](data/vocabulary/README.md): catalog schema conventions, Anki generation, and import tests.

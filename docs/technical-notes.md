@@ -1,6 +1,6 @@
 # How This Digital Edition Was Built
 
-This project turns Rodney F. Moag’s *Malayalam: A University Course and Reference Grammar* into a readable website, an EPUB, and audio-supported vocabulary materials. The work combines source transcription, editorial review, Python build scripts, browser checks, speech recognition, and listening corrections. Codex assisted with transcription, investigation, implementation, and review; Mathew Jacob directed the work, evaluated the results, and supplied listening corrections.
+This project turns Rodney F. Moag’s *Malayalam: A University Course and Reference Grammar* into a readable website, an EPUB, and audio-supported vocabulary materials. The work combines source transcription, editorial review, Rust publishing tools, browser checks, speech recognition, and listening corrections. Codex assisted with transcription, investigation, implementation, and review; Mathew Jacob directed the work, evaluated the results, and supplied listening corrections.
 
 This account draws on the repository’s commit history, saved build and review records, and the available Codex session history. It describes the processes actually used, including their limitations. The [proofreading review](proofreading-review.md) lists unresolved textbook issues.
 
@@ -20,7 +20,7 @@ The record of that stage is visible in the [initial transcription commit](https:
 
 The site uses **Docsify** to render ordinary Markdown in the browser, with local CSS, JavaScript, and font assets. **Bun** runs the development server and package scripts. The source remains editable without a database or content-management service.
 
-The Rust content model generates the sidebar from the textbook’s reading sequence. A transitional Python script still maintains previous/next navigation in the Markdown sources. Descriptive lesson titles were added while retaining the original lesson numbers and numbered grammar sections. Explicit anchors support links to grammar explanations, vocabulary sections, and index targets.
+The Rust content model generates the sidebar from the textbook’s reading sequence. The Rust navigation command also maintains previous/next navigation in the Markdown sources. Descriptive lesson titles were added while retaining the original lesson numbers and numbered grammar sections. Explicit anchors support links to grammar explanations, vocabulary sections, and index targets.
 
 The book exports contain one generated contents list instead of repeating the website and printed contents. The PDF also provides chapter and section bookmarks.
 
@@ -30,7 +30,7 @@ The three added [practice lessons](practice.md) draw on selected UT Austin pronu
 
 ## Redrawing the Writing Models
 
-The writing chapter’s scanned diagrams were rebuilt as **93 editable SVG models**, also assembled into **20 writing tables**. The models are authored as named paths, guides, arrows, and movement labels in [writing_shapes.py](https://github.com/matjic/malayalam/blob/main/scripts/writing_shapes.py). A Python generator produces the standalone SVGs and chapter grids.
+The writing chapter’s scanned diagrams were rebuilt as **93 editable SVG models**, also assembled into **20 writing tables**. The models are authored as named paths, guides, arrows, and movement labels in [models.json](https://github.com/matjic/malayalam/blob/main/data/writing/models.json). A Rust generator produces the standalone SVGs and chapter grids.
 
 The drawings were compared with the printed models and refined through visual review. Separate ink, guide, and label layers allow theme and size changes without flattening the diagrams into bitmaps. Movement numbers follow the source where supplied; a numbered movement is not necessarily a separate pen lift. Standalone SVG images remain available as a fallback when the website’s inline rendering is unavailable.
 
@@ -60,30 +60,26 @@ The [audio process notes](https://github.com/matjic/malayalam/blob/main/data/aud
 
 ## One Vocabulary Catalog, Several Outputs
 
-The lesson tables remain the editable vocabulary source. The [catalog generator](https://github.com/matjic/malayalam/blob/main/scripts/build-vocabulary-catalog.py) exports them to [moag.json](https://github.com/matjic/malayalam/blob/main/data/vocabulary/moag.json), including Malayalam forms, English meanings, lesson references, origins, and audio paths, transcripts, and checksums. The catalog also includes the recorded derived noun from a lesson Reference List.
+The lesson tables remain the editable vocabulary source. The [catalog generator](https://github.com/matjic/malayalam/blob/main/src/vocabulary.rs) exports them to [moag.json](https://github.com/matjic/malayalam/blob/main/data/vocabulary/moag.json), including Malayalam forms, English meanings, lesson references, origins, and audio paths, transcripts, and checksums. The catalog also includes the recorded derived noun from a lesson Reference List.
 
-Additional recorded forms were added to the existing vocabulary tables with meanings, preserving the original printed entries. Missing recordings are left absent rather than filled with a neighboring word. The current catalog has **990 lesson vocabulary entries**, with **997 recordings** attached to **925 entries**; **65 entries are text-only**. Different chapters retain their own occurrences.
+Additional recorded forms were added to the existing vocabulary tables with meanings, preserving the original printed entries. Missing recordings are left absent rather than filled with a neighboring word. The current catalog has **1,123 catalog entries**, with **997 recordings** attached to **925 entries**; **160 study entries are text-only; 38 additional entries are glossary-only**. Different chapters retain their own occurrences.
 
-The [Vocabulary Glossary](vocabulary-glossary.md) is generated from that catalog. It combines identical word-and-meaning pairs across chapters into **984 entries**, keeps different meanings separate, links to the lessons, and reuses the site’s audio player. Browser controls filter by Malayalam or English text and by lesson. The [original textbook glossary](glossary.md) remains a separate source document.
+The [Vocabulary Glossary](vocabulary-glossary.md) is generated from that catalog. It combines identical word-and-meaning pairs across chapters into **1,109 entries**, keeps different meanings separate, links to the lessons, and reuses the site’s audio player. Browser controls filter by Malayalam or English text and by lesson. The [original textbook glossary](glossary.md) remains a separate source document.
 
-The [Anki exporter](https://github.com/matjic/malayalam/blob/main/scripts/build-anki.py) uses **genanki** to create one package with a Malayalam parent deck and 25 lesson subdecks. Each entry produces Malayalam → English and English → Malayalam cards, for **1,980 cards**. The recordings and Malayalam font are embedded; entries without audio have no audio control. Stable deck/model identifiers and note GUIDs support repeat imports. A note’s initial identity includes its chapter, written form, and meaning; changing those fields can create a new note.
+The [Anki exporter](https://github.com/matjic/malayalam/blob/main/src/anki.rs) uses native **genanki-rs** to create one package with a Malayalam parent deck and 25 lesson subdecks. Each selected study entry produces Malayalam → English and English → Malayalam cards, for **2,170 cards**. The recordings and Malayalam font are embedded; entries without audio have no audio control. Stable deck/model identifiers and note GUIDs support repeat imports. A note’s initial identity includes its chapter, written form, and meaning; the catalog preserves published IDs across unambiguous single-field corrections.
 
 The local **Anki source repository** was consulted for package-format behavior. Tests with Anki’s official Python backend imported the package into a disposable collection, checked card rendering and embedded media, and verified that reimporting did not duplicate notes or reset a reviewed card’s progress. This backend test is separate from testing every desktop or mobile interface. See the [Anki guide](anki.md) for gradual lesson study.
 
 ## EPUB, PDF, and Publication
 
-The [EPUB builder](https://github.com/matjic/malayalam/blob/main/scripts/build-epub.py) prepares temporary copies of the Markdown and uses **Pandoc** to produce EPUB 3. The website’s source files are not rewritten for export. Reading order, linked sections, source credits, photographs, and writing diagrams are retained; expandable practice answers become visible text.
+The [EPUB builder](https://github.com/matjic/malayalam/blob/main/src/book.rs) prepares temporary copies of the Markdown and uses **Pandoc** to produce EPUB 3. The website’s source files are not rewritten for export. Reading order, linked sections, source credits, photographs, and writing diagrams are retained; expandable practice answers become visible text.
 
-Audio players, recording links, and Audio columns are omitted from the EPUB and PDF; written vocabulary entries are retained. Audio playback remains available on the website and in Anki. Serif typefaces are embedded, but font support and wide-table behavior depend on the reader. **EPUBCheck** validates the generated book in the GitHub Actions workflow. Independent EPUB, PDF, and Anki jobs run in parallel, with Python dependency caches for PDF and Anki. On the main branch, site assembly also requires the Rust HTML build and the required unit/compatibility tests. It downloads the rendered site and export artifacts and includes the original textbook PDF before deployment to **GitHub Pages** at the project’s custom domain.
+Audio players, recording links, and Audio columns are omitted from the EPUB and PDF; written vocabulary entries are retained. Audio playback remains available on the website and in Anki. Serif typefaces are embedded, but font support and wide-table behavior depend on the reader. **EPUBCheck** validates the generated book in the GitHub Actions workflow. Independent EPUB, PDF, and Anki jobs run in parallel, with a shared Rust dependency cache. On the main branch, site assembly also requires the Rust HTML build and the required unit/compatibility tests. It downloads the rendered site and export artifacts and includes the original textbook PDF before deployment to **GitHub Pages** at the project’s custom domain.
 
 The PDF shares the EPUB’s prepared Markdown and reading order. Pandoc generates
-HTML, and [WeasyPrint](https://doc.courtbouillon.org/weasyprint/stable/), using Pango for text shaping, renders A4 pages with
-embedded Source Serif 4 and Noto Serif Malayalam type, repeated table headers, page numbers, linked contents,
-and PDF bookmarks. The PDF is searchable text rather than a set of page images;
-its pagination differs from the source scan. Audio controls and recording links are omitted.
-The workflow generates and validates the PDF alongside the EPUB and publishes
-both downloads. PDF checks cover text and chapter coverage, embedded Malayalam
-fonts, bookmarks, page bounds, and internal link destinations.
+HTML; Rust drives native Chromium through its browser protocol to print searchable A4 pages with embedded Source Serif 4 and Noto Serif Malayalam, linked contents, repeated table headers and PDF bookmarks. The PDF uses the existing print stylesheet with native browser layout. Its pagination differs from both the source scan and the earlier print engine. Audio controls and recording links are omitted.
+
+Validation checks full-book text, all chapter bookmarks, embedded fonts, internal and external links, A4 dimensions and text bounds. A separate layout regression checks 20 mm margins, table width, and vocabulary alignment. Both book formats and the Anki deck are built before the site can deploy.
 
 ## Checks, Rebuilds, and Remaining Limits
 
@@ -96,19 +92,15 @@ Docsify theme stylesheet, fonts, layout classes, and custom CSS. New page paths
 use `/lesson8/` and native section fragments. A small redirect converts old
 `/#/lesson8?id=section-8-1` links; the Docsify router is not loaded on generated
 pages. Search uses a generated index; audio controls, writing diagrams and
-glossary filtering retain their existing browser behavior. The old renderer
-remains available for side-by-side visual checks.
+glossary filtering retain their existing browser behavior. The theme CSS and custom reader behavior are retained.
 
-The remaining Python vocabulary, book-export, writing-model and audio tools are
-still part of the migration. Existing catalog IDs, media checksums and Anki
-identities remain unchanged by the site renderer.
+All publishing and maintenance commands now live in Rust. Reviewed audio decisions and hand-authored writing geometry are editable JSON data. The old Python generators, model-conversion experiments, legacy Docsify runtime and its package dependency were removed. Historical recognition and repair records remain available as evidence. The migrated APKG passed the official Anki import/reimport check before the old test environment was removed from the repository.
 
 For maintainers, the main reproducible steps are:
 
 | Task | Command |
 |---|---|
 | Build and preview static HTML | `cargo run --locked -- site`, then `cargo run --locked -- serve` |
-| Compare the old Docsify renderer | `bun install`, then `bun run dev:legacy` |
 | Check rendered links, assets, and downloads | `cargo run --locked -- check-site --require-exports` |
 | Test Rust rendering and old fragment redirects | `cargo test --locked`, then `bun test tests/legacy-routes.test.js` |
 | Regenerate chapter navigation | `bun run docs:navigation` |
@@ -118,12 +110,10 @@ For maintainers, the main reproducible steps are:
 | Rebuild the shared vocabulary catalog | `bun run docs:vocabulary` |
 | Rebuild the generated glossary | `bun run docs:glossary` |
 | Build Anki packages | `bun run docs:anki` |
-| Test Anki import and reimport | `bun run docs:check-anki` |
+| Test Anki identity and package contracts | `bun run docs:check-anki` |
 | Build the EPUB | `bun run docs:epub` |
 | Build and validate the PDF | `bun run docs:pdf`, then `bun run docs:check-pdf` |
 
-PDF generation requires Pango and the packages in [requirements/pdf.txt](https://github.com/matjic/malayalam/blob/main/requirements/pdf.txt); its validation also uses PyMuPDF from `requirements/pdf-test.txt`. Use a virtual environment for these tools. On macOS, install Pango with Homebrew; the workflow installs its Linux libraries.
-
-Python commands need a working Python environment. Anki export and its optional backend tests have separate pinned requirements in [requirements/](https://github.com/matjic/malayalam/tree/main/requirements); EPUB generation also needs Pandoc. Fresh speech recognition requires the model-specific environments described in the audio notes, not just the site’s JavaScript dependencies.
+EPUB and PDF generation require native Pandoc; PDF generation additionally requires Chrome/Chromium (`CHROME` selects the executable). PDF checks use Poppler. Audio cutting uses FFmpeg. Optional fresh recognition uses native `whisper-cli` with an explicit local model path and records source/model checksums. No publishing command invokes a Python interpreter.
 
 The [commit history](https://github.com/matjic/malayalam/commits/main/) records the implementation stages. Useful milestones include the [writing-model redraw](https://github.com/matjic/malayalam/commit/2f15c1e), [reviewed audio integration](https://github.com/matjic/malayalam/commit/61f4e23), [shared vocabulary and exports](https://github.com/matjic/malayalam/commit/0742931), and [site download links](https://github.com/matjic/malayalam/commit/459a887). Private Codex conversations helped reconstruct this account; they are not required to build the project and are not published here.

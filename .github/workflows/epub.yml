@@ -8,13 +8,13 @@ on:
       - 'docs/**'
       - 'src/**'
       - 'tests/**'
-      - 'scripts/**'
-      - 'requirements/**'
+      - 'templates/**'
       - 'data/vocabulary/**'
+      - 'data/writing/**'
+      - 'data/audio/**'
       - 'Cargo.toml'
       - 'Cargo.lock'
       - 'package.json'
-      - 'bun.lock'
       - 'Moag-Malayalam-CompleteTextbook.pdf'
       - '.github/workflows/**'
   pull_request:
@@ -22,13 +22,13 @@ on:
       - 'docs/**'
       - 'src/**'
       - 'tests/**'
-      - 'scripts/**'
-      - 'requirements/**'
+      - 'templates/**'
       - 'data/vocabulary/**'
+      - 'data/writing/**'
+      - 'data/audio/**'
       - 'Cargo.toml'
       - 'Cargo.lock'
       - 'package.json'
-      - 'bun.lock'
       - 'Moag-Malayalam-CompleteTextbook.pdf'
       - '.github/workflows/**'
 
@@ -65,9 +65,8 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
+      - uses: dtolnay/rust-toolchain@stable
+      - uses: Swatinem/rust-cache@v2
       - name: Install Pandoc and EPUBCheck
         run: |
           sudo apt-get update
@@ -75,11 +74,12 @@ jobs:
           curl -fL https://github.com/w3c/epubcheck/releases/download/v5.3.0/epubcheck-5.3.0.zip -o "$RUNNER_TEMP/epubcheck.zip"
           unzip -q "$RUNNER_TEMP/epubcheck.zip" -d "$RUNNER_TEMP"
       - name: Check book links and audio removal
-        run: python3 scripts/test_epub_export.py
+        run: cargo test --locked --test publishing portable_book
+
       - name: Check numbered-list structure
-        run: python3 scripts/check-list-structure.py
+        run: cargo run --locked --release -- check-lists
       - name: Build EPUB from docs
-        run: python3 scripts/build-epub.py
+        run: cargo run --locked --release -- epub
       - name: Validate EPUB
         run: java -jar "$RUNNER_TEMP/epubcheck-5.3.0/epubcheck.jar" dist/malayalam.epub
       - uses: actions/upload-artifact@v4
@@ -93,23 +93,24 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: dtolnay/rust-toolchain@stable
+      - uses: Swatinem/rust-cache@v2
+      - uses: browser-actions/setup-chrome@v2
+        id: chrome
         with:
-          python-version: '3.12'
-          cache: pip
-          cache-dependency-path: requirements/pdf*.txt
-      - name: Install Pandoc and PDF renderer libraries
+          chrome-version: stable
+      - name: Install native book tools
         run: |
           sudo apt-get update
-          sudo apt-get install --no-install-recommends -y pandoc libpango-1.0-0 libpangoft2-1.0-0 libharfbuzz-subset0 fonts-dejavu-core
-      - name: Install PDF Python dependencies
-        run: python3 -m pip install -r requirements/pdf-test.txt
-      - name: Check PDF page layout
-        run: python3 scripts/test_pdf_layout.py
-      - name: Build PDF from docs
-        run: python3 scripts/build-pdf.py
-      - name: Validate PDF
-        run: python3 scripts/validate-pdf.py
+          sudo apt-get install --no-install-recommends -y pandoc poppler-utils
+      - name: Check PDF layout and build the complete book
+        env:
+          CHROME: ${{ steps.chrome.outputs.chrome-path }}
+        run: |
+          cargo run --locked --release -- check-pdf-layout
+          cargo run --locked --release -- pdf
+      - name: Validate searchable PDF, fonts, bookmarks, links, and page bounds
+        run: cargo run --locked --release -- check-pdf
       - uses: actions/upload-artifact@v4
         with:
           name: malayalam-pdf
@@ -121,17 +122,12 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-          cache: pip
-          cache-dependency-path: requirements/anki*.txt
-      - name: Install Anki Python dependencies
-        run: python3 -m pip install -r requirements/anki-test.txt
-      - name: Test Anki import/reimport
-        run: python3 scripts/test_anki.py
+      - uses: dtolnay/rust-toolchain@stable
+      - uses: Swatinem/rust-cache@v2
+      - name: Test APKG identity, templates, and media contracts
+        run: cargo test --locked --test publishing
       - name: Build Anki deck
-        run: python3 scripts/build-anki.py --no-site-copy
+        run: cargo run --locked --release -- anki --no-site-copy
       - uses: actions/upload-artifact@v4
         with:
           name: malayalam-anki

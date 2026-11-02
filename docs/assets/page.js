@@ -1,11 +1,7 @@
-/* One initialization contract for static HTML and the legacy Docsify preview. */
+/* Initialize reading controls on each complete HTML page. */
 (function () {
   window.Malayalam = {
     plugin: function (initialize) {
-      if (window.$docsify) {
-        window.$docsify.plugins = (window.$docsify.plugins || []).concat(initialize);
-        return;
-      }
       const callbacks = [];
       initialize({
         mounted: fn => callbacks.push(fn),

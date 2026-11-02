@@ -1,0 +1,253 @@
+use crate::{content::Book, util::*};
+use anyhow::{Result, ensure};
+use std::{
+    collections::{BTreeMap, BTreeSet},
+    fs,
+    path::{Path, PathBuf},
+};
+use unicode_normalization::UnicodeNormalization;
+
+pub fn documents(root: &Path) -> Result<Vec<PathBuf>> {
+    let mut ordered = vec![];
+    for e in fs::read_dir(root.join("docs"))? {
+        let p = e?.path();
+        if p.extension().is_none_or(|x| x != "md") {
+            continue;
+        }
+        let text = fs::read_to_string(&p)?;
+        if let Some(n) = re(r"Source: PDF page (\d+)")
+            .captures_iter(&text)
+            .filter_map(|c| c[1].parse::<usize>().ok())
+            .min()
+        {
+            ordered.push((n, p));
+        }
+    }
+    ordered.sort();
+    let mut result = vec![];
+    for (_, p) in ordered {
+        let next = match p.file_stem().unwrap().to_str().unwrap() {
+            "alphabet" => Some("practice-pronunciation"),
+            "lesson2" => Some("practice-sandhi"),
+            "lesson7" => Some("practice-dialogues"),
+            _ => None,
+        };
+        result.push(p);
+        if let Some(next) = next {
+            let p = root.join(format!("docs/{next}.md"));
+            ensure!(p.exists(), "missing practice lesson {next}");
+            result.push(p);
+        }
+    }
+    Ok(result)
+}
+pub fn slug(text: &str) -> String {
+    let text = text.nfc().collect::<String>().to_lowercase();
+    let text = re(r"[^\p{L}\p{N}_\s-]").replace_all(&text, "");
+    let text = re(r"[\s_]+")
+        .replace_all(&text, "-")
+        .trim_matches('-')
+        .to_string();
+    text.chars()
+        .map(|c| {
+            if c.is_ascii() {
+                c.to_string()
+            } else {
+                format!("u{:04x}", c as u32)
+            }
+        })
+        .collect()
+}
+fn title(text: &str) -> String {
+    if text != text.to_uppercase() {
+        return text.into();
+    }
+    let mut previous = false;
+    text.chars()
+        .map(|c| {
+            let out = if previous {
+                c.to_lowercase().collect::<String>()
+            } else {
+                c.to_uppercase().collect()
+            };
+            previous = c.is_alphabetic();
+            out
+        })
+        .collect()
+}
+pub fn navigation(root: &Path, check: bool) -> Result<()> {
+    let docs = documents(root)?;
+    let mut titles = vec![];
+    let mut entries = vec![];
+    let mut changes = vec![];
+    for p in &docs {
+        let original = fs::read_to_string(p)?;
+        let text =
+            re(r#"(?m)^<a id="[^"]+"></a><!-- reading-anchor -->\n"#).replace_all(&original, "");
+        let mut text = re(r"(?s)\n<!-- reading-navigation -->.*?<!-- /reading-navigation -->\n?")
+            .replace_all(&text, "\n")
+            .into_owned();
+        let stem = p.file_stem().unwrap().to_str().unwrap();
+        let mut used = BTreeMap::<String, usize>::new();
+        let mut headings = vec![];
+        for c in re(r"(?m)^(#{1,4}) (.+)$").captures_iter(&text) {
+            let level = c[1].len();
+            let title = c[2].to_string();
+            let section = if stem.starts_with("lesson") {
+                re(r"^(\d+)\.(\d+)(?:[. ]|$)")
+                    .captures(&title)
+                    .map(|v| format!("section-{}-{}", &v[1], &v[2]))
+            } else {
+                None
+            };
+            let base = section.unwrap_or_else(|| {
+                if level == 1 {
+                    stem.into()
+                } else {
+                    format!("{stem}-{}", slug(&title))
+                }
+            });
+            let count = used.entry(base.clone()).or_default();
+            *count += 1;
+            let anchor = if *count > 1 {
+                format!("{base}-{count}")
+            } else {
+                base
+            };
+            headings.push((c.get(0).unwrap().start(), level, title, anchor));
+        }
+        ensure!(!headings.is_empty(), "missing heading {}", p.display());
+        titles.push(title(&headings[0].2));
+        for (i, _, _, anchor) in headings.iter().rev() {
+            text.insert_str(
+                *i,
+                &format!("<a id=\"{anchor}\"></a><!-- reading-anchor -->\n"),
+            );
+        }
+        changes.push(text.trim_end().to_string() + "\n");
+        entries.push(headings);
+    }
+    for (i, p) in docs.iter().enumerate() {
+        let name = |j: usize| docs[j].file_name().unwrap().to_string_lossy().to_string();
+        let mut links = vec![];
+        if i > 0 {
+            links.push(format!("[← Previous: {}]({})", titles[i - 1], name(i - 1)));
+        }
+        links.push("[Contents](contents.md)".into());
+        if i + 1 < docs.len() {
+            links.push(format!("[Next: {} →]({})", titles[i + 1], name(i + 1)));
+        }
+        changes[i] += &format!(
+            "\n<!-- reading-navigation -->\n\n---\n\n{}\n\n<!-- /reading-navigation -->\n",
+            links.join(" · ")
+        );
+        write(p, &changes[i], check)?;
+    }
+    let mut out="# Contents\n\n<!-- Generated by cargo run -- navigation; edit chapter headings instead. -->\n\nFollow the links below to read the book in order or jump to a section. These links work independently of print pagination. For topics, use the [index](book-index.md); for words, use the [glossary](glossary.md).\n\nSee [Reading the digital edition](digital-edition.md) for page references and study guidance.\n\nPractice Lessons A–C are additions based on UT Austin learning resources, placed in the reading sequence after the alphabet, Lesson 2, and Lesson 7. See the [practice lesson guide](practice.md) for their goals and source credits.\n\n## Chapters\n\n".to_string();
+    for (i, p) in docs.iter().enumerate() {
+        let mut title = titles[i].clone();
+        let stem = p.file_stem().unwrap().to_string_lossy();
+        if (stem.starts_with("appendix-") || stem.starts_with("minilesson-"))
+            && let Some(h) = entries[i].iter().find(|h| h.1 == 2)
+        {
+            title += &format!(": {}", h.2);
+        }
+        out += &format!(
+            "- [{title}]({})\n",
+            p.file_name().unwrap().to_string_lossy()
+        );
+    }
+    out += "\n## Sections\n\n";
+    for (i, p) in docs.iter().enumerate() {
+        let name = p.file_name().unwrap().to_string_lossy();
+        out += &format!("### [{}]({name})\n\n", titles[i]);
+        for (_, level, title, anchor) in &entries[i] {
+            if [2, 3].contains(level) {
+                out += &format!(
+                    "{}- [{title}]({name}#{anchor})\n",
+                    if *level == 3 { "  " } else { "" }
+                );
+            }
+        }
+        out += '\n'.to_string().as_str();
+    }
+    write(
+        root.join("docs/contents.md"),
+        &(out.trim_end().to_string() + "\n"),
+        check,
+    )?;
+    let book = Book::load(root, "/")?;
+    write(root.join("docs/_sidebar.md"), &book.sidebar, check)?;
+    Ok(())
+}
+pub fn validate_tables(text: &str) -> Result<()> {
+    let clean = re(r"(?s)<!--.*?-->").replace_all(text, "");
+    let lines: Vec<_> = clean.lines().collect();
+    let mut i = 0;
+    while i < lines.len() {
+        if !lines[i].trim_start().starts_with('|') {
+            i += 1;
+            continue;
+        }
+        let start = i;
+        let mut rows = vec![];
+        while i < lines.len() && lines[i].trim_start().starts_with('|') {
+            ensure!(
+                lines[i].trim_end().ends_with('|'),
+                "line {}: unclosed table row",
+                i + 1
+            );
+            rows.push(cells(lines[i]));
+            i += 1;
+        }
+        ensure!(
+            rows.len() >= 2 && rows[1].iter().all(|c| re(r"^\s*:?-{3,}:?\s*$").is_match(c)),
+            "line {}: table missing separator",
+            start + 1
+        );
+        ensure!(
+            rows[0].iter().all(|c| !crate::util::clean(c).is_empty()),
+            "empty table header"
+        );
+        ensure!(
+            rows.iter().all(|r| r.len() == rows[0].len()),
+            "line {}: inconsistent table width",
+            start + 1
+        );
+    }
+    Ok(())
+}
+pub fn validate(root: &Path) -> Result<()> {
+    let book = Book::load(root, "/")?;
+    let mut pages = vec![];
+    for (stem, p) in &book.pages {
+        ensure!(
+            !p.markdown.contains('\u{fffd}'),
+            "replacement character: {stem}"
+        );
+        validate_tables(&p.markdown).map_err(|e| anyhow::anyhow!("{stem}: {e}"))?;
+        let ids: Vec<_> = re(r#"<a id="([^"]+)"></a>"#)
+            .captures_iter(&p.markdown)
+            .map(|c| c[1].to_string())
+            .collect();
+        ensure!(
+            ids.iter().collect::<BTreeSet<_>>().len() == ids.len(),
+            "duplicate anchor: {stem}"
+        );
+        pages.extend(
+            re(r"Source: PDF page (\d+)")
+                .captures_iter(&p.markdown)
+                .map(|c| c[1].parse::<u32>().unwrap()),
+        );
+    }
+    pages.sort();
+    ensure!(
+        pages == (1..=557).collect::<Vec<_>>(),
+        "source PDF pages must occur exactly once"
+    );
+    println!(
+        "{} documents; 557 original PDF pages; source tables and anchors valid",
+        book.pages.len()
+    );
+    Ok(())
+}
