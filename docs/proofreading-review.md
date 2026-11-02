@@ -47,6 +47,10 @@ Added editorial guidance at confirmed gaps:
 
 Candidates such as പട്ടി, മഴ, കണ്ണ്, കത്ത്, പനി, കല, സ്ത്രീ, പുതുമ, പ്രസിദ്ധി, സമൂഹം, and വെളുത്ത already have an earlier gloss, a local translation, or vocabulary support. They did not require new instruction. This is a broad manual prerequisite audit, not a formal proof that every possible exercise answer uses only introduced material.
 
+### Explanation priorities for a future teaching review
+
+The November 2, 2026 guidelines review carried forward these editorial audit priorities: introduce sentence roles before Lesson 1 §1.2; explain dative before its Lesson 3 uses; build on the locative (§2.1), possessive (§6.6), and accusative (§8.1) explanations; explain instrumental and vocative labels alongside the Lesson 8–9 reference tables; and orient readers to aspect and participles before §13.1. These are review priorities, not completed revisions or independently verified learner difficulties.
+
 ## Remaining Source Issues
 
 The following need linguistic or editorial revision. Visible notes prevent the source defects from being mistaken for complete rules. Issues are identified by chapter and section.
