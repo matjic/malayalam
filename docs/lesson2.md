@@ -363,6 +363,8 @@
 <a id="section-2-1"></a><!-- reading-anchor -->
 ### 2.1. The Locative Case of Nouns
 
+> **Editorial grammar help:** A **case** is a noun or pronoun form used for a grammatical relationship; the **locative** expresses location. A **noun** names a person, place, thing, or idea. The **nominative** is its basic form without an added case ending. Case names describe forms; labels such as “subject” and “object” describe sentence roles. See the [case guide](digital-edition.md#cases).
+
 In English, location is expressed by phrases made up of a noun and a preposition. The noun denotes the place, while the preposition that precedes it indicates location and/or direction relative to the place: we say “in the house,” “on the street,” “at home,” etc. In Malayalam the various relationships between each noun and the other elements in the sentence are commonly expressed by endings attached to the nouns. These endings, technically called <!-- Source: PDF page 66; printed page 20. --> “case markers,” serve the same function as our English prepositions. Location is shown in Malayalam by attaching the ending -ഇൽ (meaning “in,” “on,” “at,” etc. with a singular noun, and sometimes “among” with a plural noun). A list of nouns in their locative forms appears in Reading Practice A of this lesson.
 
 <a id="section-2-2"></a><!-- reading-anchor -->

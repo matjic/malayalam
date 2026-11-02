@@ -406,6 +406,8 @@ The instructor will hold up flashcards with items from the above list. If the it
 <a id="section-3-1"></a><!-- reading-anchor -->
 ### 3.1 Existive/Locative Sentences with ഉണ്ട്
 
+> **Editorial grammar help:** **Existive** means expressing existence or presence: compare “There is a book” with the identification “That is a book.” **Locative** concerns location. The examples below show how presence, location, and identification interact; the two English uses of “is” do not automatically call for the same Malayalam verb.
+
 In [1.2](lesson1.md#section-1-2) the equational type sentence was described, consisting of a subject, object/complement, and verb, which is always ആണ് or some other form of the verb “to be.” In this lesson you meet the existive type sentence, which consists of two rather than three basic elements, i.e. a subject and a verb which will always be some form of the verb ഉണ്ട്. Whereas the copula ആണ്, etc. translates as “am, is” or “are”, ഉണ്ട് usually translates as “there is”, “there are”. Witness:
 
 1. പഴമുണ്ടോ?<br>
@@ -465,6 +467,8 @@ Malayalam handles the order of elements in possessive phrases such as “one of 
 <a id="section-3-3"></a><!-- reading-anchor -->
 ### 3.3 Possessive Sentences: Alienable versus Inalienable Possession
 
+> **Editorial grammar help:** The **dative** is a noun or pronoun form often corresponding to “to” or “for.” Malayalam also uses it for the person who has certain possessions or experiences. In this section, identify the possessor and the thing possessed before comparing their forms. Dative endings and pronouns are developed in [Lesson 4](lesson4.md#section-4-5); see also the [case guide](digital-edition.md#cases).
+
 Malayalam has no separate verb equivalent to English “have.” Possession is shown at the sentence level (as opposed to the phrases covered in the preceding section) by the verb in collocation with the appropriate types of noun phrases. There are two kinds of possession, sometimes referred to as “alienable” and “inalienable.” The fancy terms are not necessary, of course, but one must have a feeling for the two kinds of possession and the different types of phrases they require in Malayalam. “Inalienable possession” applies to things which a person has on a more or less permanent basis, or by virtue of who he or she is. Inalienable possession requires the possessor to be in the dative (see [4.5](lesson4.md#section-4-5)). Family members, for example, belong to a person by virtue of the family into which he or she has been born. Witness:
 
 1. എനിക്ക് ഒരു ചേട്ടനുണ്ട്.
@@ -505,6 +509,8 @@ The boundary line between permanent and temporary possession is fairly clear-cut
 
 <a id="section-3-4"></a><!-- reading-anchor -->
 ### 3.4. The Polite Command and Citation Forms of Verbs
+
+> **Editorial grammar help:** An **imperative** is a command or request addressed to someone. A **citation form** is the form used to name a verb in a dictionary or vocabulary list; it is not itself a command. Compare the intended use of the forms before learning their endings.
 
 Polite command forms of verbs always end in the long vowel -ഊ, which is attached to the stem. A list of polite command forms appears in Reading Practice A of Lesson Six. The basic form, or citation form, of the verb ends in -ഉക, as in വരുക (“to come”) and ഇരിക്കുക (“to sit/stay”). The citation forms of some verbs appear in Reading Practice A of Lesson Five. As in English, the personal pronoun subject of an imperative (command) sentence is usually omitted. The forms ending in -ഊ have നിങ്ങൾ as the understood subject, and are hence polite forms that may be used safely with anyone in any circumstances. Other command forms are introduced later in the lessons.
 

@@ -434,12 +434,16 @@ Note the double ള്ള in these items.
 <a id="section-11-1"></a><!-- reading-anchor -->
 ### 11.1 The Simple Past Tense Form of the Verb
 
+> **Editorial grammar help:** The **past tense** places an event or state before the time of speaking. This section introduces forms used to report completed past actions; later sections distinguish completion, continuing effects, and earlier past time. Recognizing a past-time meaning and remembering a particular verb’s past form are separate tasks.
+
 A list of past tense forms appears in the Reference List in this lesson. Note that while Malayalam does not have large numbers of irregular verbs as English does, it has several groups, each taking a somewhat different ending. One major group forms the past tense in -ഇ, while the remaining groups form the past with a double consonant (stop or nasal) or in a consonant cluster plus the short vowel ഉ. A few exceptions show only a single consonant in the past as in വീണു “fell” from വീഴുക “to fall.” Also, the Reference List contains only verbs which have occurred so far in these lessons. Though these represent the most common past tense endings, it does not cover all the possibilities as to consonant clusters. The remaining ones are given in later lessons as example verbs come up.
 
 Any set of rules describing how these past tenses are formed are too complicated and have too many exceptions to be useful. Therefore, the best policy is to learn the past form of each verb individually. This is probably in large measure what the native speaker does while learning the language as a child. The simple past is given for each new verb introduced in the <!-- Source: PDF page 216; printed page 162. --> vocabulary in the lessons from here on. The irregular past forms of the copula and the existive verbs are given in [11.4](lesson11.md#section-11-4) below. One general rule, however, is of practical help in learning the past forms, namely that those verbs whose present stems contain double ക്ക pronounced with the “hint of y” (see [5.7](lesson5.md#section-5-7)) invariably take ച്ചു. The simple past in Malayalam, as in other languages, is used to refer to a single action completed in past time.
 
 <a id="section-11-2"></a><!-- reading-anchor -->
 ### 11.2 The Cleft Sentence as a Means of Focus
+
+> **Editorial grammar help:** **Focus** highlights a selected part of a message. A **cleft sentence** restructures the sentence to do this: compare English “Ravi came” with “It was Ravi who came.” Identify the information being highlighted before studying the Malayalam form below.
 
 In [2.5](lesson2.md#section-2-5) and 5.4 it was shown how the normal order of elements in equative sentences may be changed for purposes of emphasis or focus. This is done by moving the copula ആണ്, which usually occurs at the end of the sentence, to the left to immediately follow the item to be focused, with the remaining elements then appearing to the right of ആണ്. Normal order as:
 
@@ -508,6 +512,8 @@ Aside from the simple present and past, the main other verb form which participa
 
 <a id="section-11-3"></a><!-- reading-anchor -->
 ### 11.3 The Compound Verb with the Completive Meaning
+
+> **Editorial grammar help:** A **compound verb** combines verbs into a larger expression. **Completive** means emphasizing completion, an **aspect** meaning rather than simply past time. **Transitive** verbs take a direct object (“She opened the door”); **intransitive** verbs do not (“The door opened”). These distinctions explain the restrictions below. An understood object can be omitted, so do not classify a verb solely by counting the words spoken.
 
 This lesson contains an item, തീർന്നു പോയി “finished, ran out,” where two past tense forms appear to follow each other back to back. This is actually an instance of a compound verb, a common occurrence in Malayalam, in which the main verb is followed by a modifier verb which adds a further detail or shade of meaning. Compound verbs are more fully treated in [21.6](lesson21.md#section-21-6). As a preview, you should know that the main verb (always the first of the two) here is
 

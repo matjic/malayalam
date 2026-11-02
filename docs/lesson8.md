@@ -10,6 +10,8 @@
 <a id="lesson8-personal-pronoun-case-forms"></a><!-- reading-anchor -->
 ### Personal Pronoun Case Forms
 
+> **Editorial grammar help:** Use these tables for reference, not as a list of unexplained labels to memorize. **Accusative** marks certain objects; **addressive/associative** is used for the person told or asked and certain association expressions. **Instrumental** can mean “by means of”; its fuller treatment comes in [§20.4](lesson20.md#section-20-4). The [case guide](digital-edition.md#cases) explains every row, including familiar nominative, possessive, dative, and locative forms.
+
 <a id="lesson8-i-singular"></a><!-- reading-anchor -->
 #### I. Singular
 
@@ -531,6 +533,8 @@ Lists of accusative forms grouped according to the word ending appear in Section
 <a id="section-8-2"></a><!-- reading-anchor -->
 ### 8.2 Adjective or Relative Clauses Made with Present Verbforms
 
+> **Editorial grammar help:** An **adjective** describes a noun. A **relative clause** does this with a whole event or state: “who studies here” describes “the student” in “the student who studies here.” The noun described is the **head noun**. An **embedded** clause functions inside a larger construction; the examples below show how Malayalam places its descriptive clause before the noun.
+
 Many times a whole sentence is used to describe a noun. Such descriptive sentences are often embedded within another sentence as a single adjective like unit, and in such cases it is called a descriptive or relative clause. This lesson’s conversation contains one relevant example: ഞങ്ങളുടെ ക്ലാസിൽ പഠിക്കുന്ന രവി, “the Ravi who studies in our class.” Such clauses can occasionally occur in the normal adjective position in English, that is before, or to the left of, the noun it describes as “the running boy”, “the fast moving car”, etc., but usually it occurs after, i.e., to the right, of its noun (see examples below). In Malayalam, the clause always occurs to the left of the noun. You can see from the following examples that the order of elements in the embedded sentence does not change from that which it has as an independent sentence. Note, however, that the word for which the sentence acts as an adjective is always dropped when the sentence is embedded in order to avoid needless duplication. The only other change is that the ഉ ending on the present tense verb form is replaced by the adjective marker -അ. The word described may have a variety of functions (subject, object or indirect object) both in the main sentence and in the embedded sentence. Witness these examples.
 
 1. രവി ഞങ്ങളുടെ ക്ലാസിൽ പഠിക്കുന്നു. രവി വരുന്നു.
@@ -585,6 +589,8 @@ Note that when the verb വേണം becomes an adjective, it takes the form വ
 
 <a id="section-8-3"></a><!-- reading-anchor -->
 ### 8.3 The Addressive or Associative Form of the Noun
+
+> **Editorial grammar help:** **Addressive** and **associative** are two labels used in this book for the same -ോട് case form. Here, the **addressee** is the person told or asked something. This is different from the **vocative**, used to call to someone directly. Do not translate every English “to” or “with” using one case ending; learn the Malayalam verb or expression with the form it requires.
 
 Malayalam has a separate form of the noun whose characteristic ending is -ോട് which may be called the addressive or associative form (or case). Its main use is with the indirect object of verbs of telling, asking, and the like. Such verbs are double object verbs since they have a direct object, the thing which is told or asked, (always a direct or indirect quote), and an indirect object, the person who is told or asked. Note the addressive ending on the indirect object, or addressee, in these examples.
 
@@ -661,6 +667,8 @@ In general, the personal pronouns also follow these rules but, as elsewhere, ഞ
 
 <a id="section-8-4"></a><!-- reading-anchor -->
 ### 8.4 The Desiderative Form of the Verb with -ണം
+
+> **Editorial grammar help:** **Desiderative** relates to wanting; **obligation** concerns what someone must or should do. This form can express these meanings in the constructions below. These are meanings of mood/modality rather than additional tenses; the context and the noun or pronoun form help determine the interpretation.
 
 Malayalam expresses the ideas of “want to”, “have to”, “should”, “must” and the like with a special form of the verb, often called the desiderative. It is perhaps best thought of as verb plus വേണം. There is a single form for all verbs, i.e. verbstem plus -അണം. Section C of the Reading Practice for this lesson contains a list of desiderative forms. Like the -ാം <!-- Source: PDF page 169; printed page 119. --> verbform, the desiderative is a nonactual or irrealis form since the action is only potential, and not yet realized at the time of speaking.
 

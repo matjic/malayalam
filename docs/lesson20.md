@@ -9,6 +9,8 @@
 <a id="lesson20-causative-verbs"></a><!-- reading-anchor -->
 ### Causative Verbs
 
+> **Editorial grammar help:** A **causative** expresses causing someone or something to act or change. **Transitive** verbs take a direct object; **intransitive** verbs do not. Compare English “The door opened,” “She opened the door,” and “She made someone open the door.” The columns compare related Malayalam constructions, not tenses. See [§20.7](lesson20.md#section-20-7) for how causation and transitivity differ.
+
 | Intransitive | Transitive | First Causative | Second Causative |
 |---|---|---|---|
 | നടക്കുക | | നടത്തുക | നടത്തിപ്പിക്കുക |
@@ -497,6 +499,8 @@ The instrumental form of the noun is the required form for the real subject in t
 
 <a id="section-20-5"></a><!-- reading-anchor -->
 ### 20.5 The Passive Voice Construction
+
+> **Editorial grammar help:** **Voice** concerns how a sentence organizes its participants. In English “Ravi opened the door,” Ravi is the subject of an active sentence; in “The door was opened by Ravi,” the door becomes the subject of a passive sentence. The event is the same, but its presentation changes. This section explains the Malayalam construction and the forms used for the participants.
 
 There are several ways of foregrounding, focusing, or emphasizing, the direct object of a verbal sentence. In speaking, it may be simply stressed with the voice. In speaking or writing, a sentence may be clefted (see [11.2](lesson11.md#section-11-2)) with ആണ് placed immediately after the direct object. There is also the subjectless construction using the verb വരുക (see [16.2](lesson16.md#section-16-2)). A fourth means is a construction much like the English passive voice in which the object of the active sentence is made the apparent subject of the passive sentence. This can be most clearly seen with animate objects which lose their accusative ending when the sentence is passivized, and which then appear in the nominative form in the initial slot in the sentence where the subject is ordinarily found. The former subject of the active sentence is often omitted, but if included, must be in the instrumental form. It will usually appear in the second slot in the sentence, after the new passive subject (former object).
 

@@ -401,6 +401,8 @@ A third function of this negative rhetorical questions is to point out informati
 <a id="section-6-3"></a><!-- reading-anchor -->
 ### 6.3 The Intentive or Potential Verb Ending -ാം
 
+> **Editorial grammar help:** **Intentive** refers to an intention to act; **potential** to possibility or ability. These concern **mood/modality**, not just the time of an action. The contrast here depends on both the ending and the person’s case form: the examples show nominative subjects for intentions and dative experiencers for ability. See [tense, aspect, and mood](digital-edition.md#verb-meanings).
+
 The ending -ാം occurs on main verbs and has two main functions. The special case of അറിയുക will be treated in [6.4](lesson6.md#section-6-4) below.
 
 When occurring with a nominative subject, -ാം indicates the intention to do something.

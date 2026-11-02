@@ -5,6 +5,7 @@ Learn Malayalam with Rodney F. Moag’s *Malayalam: A University Course and Refe
 ## Start learning
 
 - **New to the course?** Read [The Book and How to Use It](usage.md) for the course’s approach and study guidance.
+- **New to grammar terms?** Use the editorial [Grammar Foundations guide](digital-edition.md#grammar-foundations) for sentence roles, cases, verb forms, and a short self-check. Return to individual terms as you encounter them.
 - **Learning the script?** Start with [The Malayalam Script](alphabet.md), then use [How to Write Malayalam Symbols](symbols.md) for writing practice.
 - **Ready for the lessons?** Begin with [Lesson 1: Introductions and Equative Sentences](lesson1.md), or choose a chapter from the [Contents](contents.md).
 

@@ -573,6 +573,8 @@ The preceding lessons have taught impersonal constructions for situations includ
 <a id="section-21-6"></a><!-- reading-anchor -->
 ### 21.6 The Progressive Aspect of the Verb
 
+> **Editorial grammar help:** **Progressive** presents an action as ongoing. This is **aspect**, distinct from tense: English “was reading” and “will be reading” both present ongoing action at different times. An **auxiliary** is a helping verb used with another verb. Compare the Malayalam forms below by both time and how the action is presented.
+
 The continuous form of the verb emphasizes the process of the action, and not its completion or result. It is formed by the citation form of any verb plus an auxiliary comprised of some form of ആകുക, the verb “to be.”
 
 <!-- Source: PDF page 388; printed page 329. -->

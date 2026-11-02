@@ -275,12 +275,16 @@ The same letter is used to represent a sound like English -n-, made with the ton
 <a id="section-5-1"></a><!-- reading-anchor -->
 ### 5.1 The Simple Present Tense
 
+> **Editorial grammar help:** **Tense** relates an action or state to time. The **stem** is the part of a verb to which endings attach. **Subject–verb agreement** means changes in a verb to match its subject, as English “I drink” versus “she drinks.” Malayalam does not make that change here. Learn the uses below along with the ending: English present-tense sentences do not all require this Malayalam form.
+
 The present tense in Malayalam is formed by adding “ന്നു” to the verb stem, thus: കുടിക്കുന്നു “I, you, we, they, and plural noun subjects drink, am/are drinking” or “he, she, it or singular noun subject drinks, is drinking.” Similarly: ചെയ്യുന്നു “I, you, we, they, or plural noun subject do, are doing.” or “he, she, it or singular noun subject does, is doing.” A list of present tense forms appears in the reading exercise [section B] for this lesson, in both the positive and negative. You will note that the present ending is the same no matter what the subject, so that there is no subject-verb agreement to worry about in Malayalam. The simple <!-- Source: PDF page 110; printed page 60. --> present may be used for action which is in progress at the moment, or action which is carried out from time to time. It may not be used for habitual actions or general truths; these are handled in Malayalam by the definite future tense taught in Lesson Seven.
 
 Note that the negative of the simple present is formed by adding the broad purpose negative particle ഇല്ല onto the present form. Here, as elsewhere, final short -ഉ drops before a vowel-initial ending. Thus: കുടിക്കുന്നു positive; കുടിക്കുന്നില്ല “do not, does not drink, are not, is not drinking.” Similarly: ചെയ്യുന്നു positive; ചെയ്യുന്നില്ല “do not, does not do, are not, is not doing.”
 
 <a id="section-5-2"></a><!-- reading-anchor -->
 ### 5.2 The Gerund and Infinitive of Purpose
+
+> **Editorial grammar help:** An **infinitive** is a verb form used within another construction, here to express purpose: കാണാൻ means “to see” in the movie example below. പോകുന്നു, “are going,” is the main verb. A **clause** expresses an event or state through a verb and its associated words; **finite** forms can supply its main verb, while **nonfinite** forms depend on another construction. English “to” and “-ing” have several uses, so use the examples as models rather than treating them as automatic translation rules. See [verb forms](digital-edition.md#verb-meanings).
 
 The conversation for this lesson contains three occurrences of a nonfinite verbform ending in -ാൻ. Nonfinite simply means that it is not the main verb in the sentence since Malayalam, like many languages, permits only one finite verb per clause. One of these -ാൻ forms functions as infinitives of purpose as in:
 

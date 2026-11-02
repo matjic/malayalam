@@ -237,10 +237,14 @@ Remember not to devote too much time to studying and learning the grammar, even 
 <a id="section-1-2"></a><!-- reading-anchor -->
 ### 1.2. The Order of Elements Within the Sentence
 
+> **Editorial grammar help:** A **subject** is the element about which the sentence makes a statement. An **object** is a participant selected by an action verb, as “a book” in “Ravi reads a book.” A **complement** instead completes a description or identification, as “a student” in “Ravi is a student.” A **verb** expresses an action, event, or state. These are sentence roles, not word-order positions to memorize in isolation. See [sentence roles](digital-edition.md#sentence-roles).
+
 The normal order for the Malayalam sentence is Subject, Object (or complement), Verb. The most basic rule is that the verb must appear at the end of the sentence. This rule is exhibited in all sentences found in this lesson’s conversation and exercises.
 
 <a id="section-1-3"></a><!-- reading-anchor -->
 ### 1.3. Equative Sentences
+
+> **Editorial grammar help:** The **predicate** is what a sentence says about its subject. In “Ravi is a student,” “is a student” is the predicate and “a student” is an identifying complement. The technical name **predicate nominative** below refers to this complement, not an object receiving an action. A **copula** is the linking verb joining the two descriptions.
 
 The type of sentences found in this lesson is called “equative,” or “equational”; that is, they make a statement of the type X = Y. The verb in such sentences functions like an equals sign, and is often called a *copula* or *copular verb*. Remember that the Malayalam sentence <!-- Source: PDF page 53; printed page 7. --> seems a strange equation from our point of view, since the equals sign appears on the right-hand side, rather than in the middle as in English. For example, “അവൻ രാജനാണ്” is most literally rendered, “he Rajan is.” In equative sentences, the second element is not strictly an object, but a complement or predicate nominative. Sentences with objects, i.e. those with action verbs instead of copula verbs, are introduced in Lesson Five. A third type of sentence, the existive sentence, is introduced in Lesson Three.
 
@@ -268,6 +272,8 @@ Sentences that give a person’s name have another special feature besides that 
 
 <a id="section-1-6"></a><!-- reading-anchor -->
 ### 1.6. Social Dimensions of the Personal Pronouns
+
+> **Editorial grammar help:** A **pronoun** stands in for a person or thing: “I,” “you,” “she,” and “it” are English examples. **First person** is the speaker (“I/we”), **second person** the listener (“you”), and **third person** someone or something else (“he/she/it/they”). **Singular** refers to one and **plural** to more than one. Grammatical person and social respect are different distinctions; this section explains how Malayalam pronouns express both.
 
 Personal pronouns are of three types. First-person pronouns refer to the person speaking: oneself or the group for whom one is speaking. Second-person pronouns refer to the person(s) with whom one is conversing. Third-person pronouns refer to persons talked about. A fairly comprehensive discussion of the personal pronouns appears below.
 

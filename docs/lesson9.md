@@ -9,6 +9,8 @@
 <a id="lesson9-all-forms-of-nouns"></a><!-- reading-anchor -->
 ### All Forms of Nouns
 
+> **Editorial grammar help:** The rows compare different **case forms** of the same nouns, not different tenses. **Instrumental** can express “by means of” ([§20.4](lesson20.md#section-20-4)); **vocative** is used to call to someone directly ([§21.3](lesson21.md#section-21-3)). The vocative forms are for addressing someone, not ordinary substitutes for the names or kin terms in a statement. See the [case guide](digital-edition.md#cases) for the other rows.
+
 | Case | അമ്മ | സാർ | രാമൻ |
 |---|---|---|---|
 | Nominative | അമ്മ | സാർ | രാമൻ |
@@ -397,6 +399,8 @@ Note the written versus colloquial forms of these future negative verbforms.
 
 <a id="section-9-1"></a><!-- reading-anchor -->
 ### 9.1 Making Pronouns and Noun Phrases from Adjectives
+
+> **Editorial grammar help:** An **adjective** describes a noun; a **noun phrase** is a noun with any words belonging to it, such as “the small house.” A **verbal noun** lets an action or event function in a noun’s place, while a **participle** is a verb form used in a larger construction, for example to describe a noun. **Neuter** refers here to the grammatical category for things rather than male or female people. Follow what each form does in the examples, rather than assuming an English adjective must translate as a Malayalam adjective.
 
 Any adjective in Malayalam may be made into a noun simply by the addition of the neuter pronoun അത്. Possessive adjectives end in എ and most other adjectives in the language end in അ whether they are basic adjectives or complex adjectives derived from nouns or verbs. With all adjectives, when adding അത്, the initial അ is lost leaving the form -ത്. The addition of -ത് yields a pronoun in the case of a possessive adjective, and a noun phrase in the case of basic adjectives, and a verbal noun or noun phrase in the case of a verbal adjective.
 

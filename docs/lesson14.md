@@ -327,6 +327,8 @@ Note that in all cases -ഉം appears as the final element in the phrase. The p
 <a id="section-14-2"></a><!-- reading-anchor -->
 ### 14.2 Uses of Present Conditional Sentences
 
+> **Editorial grammar help:** A **conditional** presents a condition and a result, like English “If it rains, we will stay home.” The condition is one clause and the result another. Identify that relationship before studying the verb ending; an English “if” sentence does not by itself determine which Malayalam conditional form to use.
+
 Conditional sentences consist of two parts, the clause containing the condition, and the clause containing the expected result. When the timeframe of the conditional sentence is future, the verbform is followed by the conjunction എങ്കിൽ “if.” Witness:
 
 1. അയാൾ കാർ അയക്കുമെങ്കിൽ ഞാൻ വരാം.

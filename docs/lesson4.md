@@ -8,6 +8,8 @@
 <a id="lesson4-dative-of-personal-pronouns"></a><!-- reading-anchor -->
 ### Dative of Personal Pronouns
 
+> **Editorial grammar help:** **Dative** names the form often meaning “to/for” a person, also used for the person with a want, need, or feeling. **Nominative** names the basic form, such as the English contrast “I” versus “to me,” although the languages use these forms differently. The table supplies forms; [§4.1](lesson4.md#section-4-1) and [§4.4](lesson4.md#section-4-4) show their uses.
+
 <!-- vocabulary-table: {"kind":"vocabulary","category":"dative_pronoun","cards":true,"aliases":"br","origin":"reference_table"} -->
 | Malayalam | English |
 |---|---|
@@ -366,6 +368,8 @@ Look at the first two columns of consonants in the Malayalam alphabet. In the fi
 
 <a id="section-4-1"></a><!-- reading-anchor -->
 ### 4.1. Wishes and Desires: The Indirect വേണം
+
+> **Editorial grammar help:** Here **experiencer** means the person with the want or feeling. In എനിക്ക് ഒരു പേന വേണം below, എനിക്ക് identifies that person, ഒരു പേന the needed pen, and വേണം the need. The English translation begins with “I,” but Malayalam uses the dative എനിക്ക്. The book calls this an **indirect** construction; it does not mean that the speaker is hinting instead of asking directly.
 
 It was pointed out in [3.5](lesson3.md#section-3-5) that physical and emotional feelings are usually expressed by indirect sentences where the experiencer of the feeling must be rendered by a noun or pronoun in the dative form. The dative forms of the personal pronouns appear in the reference list for this lesson. The common way of expressing wants or needs is with the indirect verb വേണം “to want or need”. Witness:
 

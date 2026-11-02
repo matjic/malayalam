@@ -296,6 +296,8 @@ Models: അച്ഛൻ — അച്ഛനെപ്പോലെ
 <a id="section-13-1"></a><!-- reading-anchor -->
 ### 13.1 The Stative Perfect Form of the Verb
 
+> **Editorial grammar help:** The **stative perfect** connects a completed event with effects still in force. This concerns **aspect**: how an event is presented, beyond its time. A **participle** is a verb form used within a larger construction; **conjunctive** refers to its action-linking use. **Perfective** concerns completion and is not a synonym for “past.” Read the translated examples for the continuing result, then return to the formation rules. See [verb meanings](digital-edition.md#verb-meanings).
+
 The stative perfect form of the verb is made up of the conjunctive verbform (participle), plus the perfective marker -ിട്ട്, plus ഉണ്ട്. Conjunctive verbforms end either in ഇ or in the echo vowel ഉ (see [13.2](lesson13.md#section-13-2)). Note that when it ends in ഇ, the joining device യ is required before -ിട്ട്. In all other cases, the echo vowel drops before -ിട്ട് is added. Witness:
 
 1. ക്ലാർക്ക് തെറ്റുകൾ തിരുത്തിയിട്ടുണ്ടോ?
@@ -438,6 +440,8 @@ There is no way to predict which words will accept അതി-, so this informati
 
 <a id="section-13-5"></a><!-- reading-anchor -->
 ### 13.5 The Past Verbal Adjective
+
+> **Editorial grammar help:** A **verbal adjective** is a form made from a verb to describe a noun. A **verbal noun** instead occupies a noun’s place. Ask whether the form describes a person or thing, or names an event, before choosing its ending. See [clauses and derived forms](digital-edition.md#clauses-and-derived-forms).
 
 It was shown in [8.2](lesson8.md#section-8-2) how adjectives may be formed from simple present tense verbforms by changing the final ഉ to അ. Adjectives may also be made from past tense verbforms. Those ending in ഉ replace ഉ with അ (just as the present forms), while those ending in ഇ require the joining device യ before adding the adjectival ending അ. Witness:
 

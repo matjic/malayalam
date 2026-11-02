@@ -49,6 +49,8 @@ The digital topic links below open explanations in this edition. For the complet
 <a id="book-index-grammar-topics"></a><!-- reading-anchor -->
 ## Grammar Topics
 
+For plain-language definitions, see the editorial [Grammar Foundations guide](digital-edition.md#grammar-foundations), including [case forms](digital-edition.md#cases) and [tense, aspect, and mood](digital-edition.md#verb-meanings).
+
 | Topic | Explanation |
 |---|---|
 | Accusative case | [§8.1](lesson8.md#section-8-1); [§13.7](lesson13.md#section-13-7) |

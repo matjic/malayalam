@@ -368,6 +368,8 @@ Husbands of all communities traditionally referred to their wives by name or by 
 <a id="section-12-4"></a><!-- reading-anchor -->
 ### 12.4 Verbal Nouns with Postpositions
 
+> **Editorial grammar help:** A **verbal noun** lets an action or event function in a noun’s place. **Nominalized** means made into a noun construction. A **postposition** is a relationship word following its noun phrase. Here the action of going becomes part of a “before going” phrase; the verbal noun takes the case form required by the following postposition, just as an ordinary noun would.
+
 When a verbal noun is governed by a postposition, it is subject to the same rules as other nouns in terms of carrying the ending which the postposition requires. Thus when the verbal <!-- Source: PDF page 236; printed page 182. --> noun പോകുന്നത് occurs with the postposition മുമ്പ് “before” in this lesson's conversation, it must carry the dative ending, yielding the phrase പോകുന്നതിനു മുമ്പ് “before going.” These verbal nouns actually represent sentences which are embedded as what English grammar would call the object of the postposition. Note that the other elements in the embedded sentence are also a part of the postpositional phrase as in:
 
 1. വൈകുന്നേരം ആഫീസിൽ പോകുന്നതിനുമുമ്പ്
