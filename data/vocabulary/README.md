@@ -55,8 +55,8 @@ available in Lesson 23. These changes add 63 notes (126 cards), while retaining
 every published note ID and all 997 recordings. The new notes are text-only.
 
 Lesson 7's other compound numbers stay in the glossary; memorizing each listed
-combination is not required by this selection. The catalog has 99 glossary-only
-entries: 61 number rows and 38 postpositions. Seven-case charts, verb paradigms,
+combination is not required by this selection. Before consolidation, the catalog had
+99 glossary-only source entries: 61 number rows and 38 postpositions. Seven-case charts, verb paradigms,
 two-piece relative constructions, pronunciation contrasts, and exercise answers
 remain reference material rather than isolated vocabulary cards.
 
@@ -67,17 +67,41 @@ spans, missing meanings, and unresolved source errors. This coverage decision
 does not certify those lists or claim that the deck tests every grammar skill.
 Review their meanings and useful recall contexts before selecting further cards.
 
-Identical word-and-meaning rows within a lesson are combined. When a reference
-table repeats a word already taught in that lesson’s vocabulary, its source link
-is attached to the published entry rather than creating another note. Distinct
-new senses remain separate. Existing entry IDs and all audio associations are
-preserved; newly added reference forms are text-only unless a verified recording
-is explicitly associated. `source_anchor`, `references`, `variants`, `category`,
-and `study` carry the source and selection information. Absent `study` means true
-for backward compatibility with published vocabulary entries.
+Identical word-and-meaning rows within a lesson are combined. Cross-lesson
+consolidation is controlled by `duplicates.json`: an editorial inventory of 85
+repeated written/head forms, including two forms with different parenthetical
+inflection notes. Each group records the source IDs, exact source glosses, and a
+reason for merging or keeping senses separate. A changed source gloss, unknown
+ID, repeated membership, or newly repeated unreviewed head form fails the build.
+NFC normalization and stripping a trailing parenthetical annotation find candidates;
+they do not authorize a merge. Different headwords that occur as accepted
+alternatives are not automatically merged.
 
-`study.json` contains editorial study metadata keyed by stable catalog entry ID,
-so a spelling used in different lessons or senses can have different prompts:
+This review combines 79 redundant catalog entries into 73 shared entries. The
+catalog now has **1,168 entries: 1,090 study notes and 78 glossary-only entries**
+(51 number entries and 27 postpositions). All 1,247 source identities and all 997
+recordings remain represented. Merged entries retain their complete original rows
+in `occurrences`, including old IDs, glosses, source locations, study selection,
+variants, and audio. The canonical entry reuses a published ID and aggregates its
+audio and references. Its `chapter` is the earliest selected occurrence; all
+contributing lessons remain tags. Newly added reference forms remain text-only
+unless a verified recording is explicitly associated.
+
+Distinct senses and selected constructions remain separate. `sense` supplies a
+short context cue on the Malayalam recognition front, so a bare homograph does
+not ask learners to guess which definition is wanted. For example, ആറ് retains
+separate number and geography cards. Source restrictions remain visible in the
+answer's linked source glosses; merging identical meanings does not establish
+that their constructions are interchangeable. The contradictory case descriptions
+for കൊണ്ട് are explicitly unresolved in its answer note.
+
+`source_anchor`, `references`, `variants`, `category`, and `study` carry the source
+and selection information. Absent `study` means true for backward compatibility.
+Editorial combined meanings live in `duplicates.json`; exercise wording lives in
+`study.json`. Edit these inputs or the lesson tables, then regenerate `moag.json`.
+
+`study.json` contains editorial study metadata keyed by canonical catalog entry ID,
+so distinct senses can have different prompts:
 
 - `meaning`: optional English answer wording, including English spellings for names.
 - `recall`: optional English → Malayalam question; defaults to the meaning.
@@ -137,10 +161,10 @@ Open `dist/anki/malayalam-moag.apkg` in Anki. One package creates **Malayalam**
 with 25 nested decks named **Lesson 01** through **Lesson 25**. Expand the parent
 to see the lessons; each subdeck's description contains the chapter title.
 
-There are 1,148 notes and 2,296 cards: Malayalam → English and English → Malayalam.
+There are 1,090 notes and 2,180 cards: Malayalam → English and English → Malayalam.
 The answer includes the recording where available, with the recorded form labeled
 when it differs from the written entry. All 997 MP3 clips and a Malayalam font
-are embedded for offline use. The 223 study entries without recordings are text-only.
+are embedded for offline use. The 179 study entries without recordings are text-only.
 The “Open lesson” link requires internet. Original audio credits and reuse terms
 remain in the lesson pages and `data/audio/moag/README.md`; this export does not
 change those terms. Repository license: CC-BY-NC-SA-4.0.
@@ -162,11 +186,28 @@ day according to your Anki settings. You can also study a single chapter by
 selecting its subdeck. Tags include `moag::lesson_01`, `moag::textbook`,
 `moag::recorded_addition`, and `audio::available`/`audio::unavailable`.
 
-Reimporting the same package does not duplicate notes or reset review progress.
+Reimporting the same package updates surviving notes without resetting their review progress.
 The generator uses stable model/deck IDs and note GUIDs. The catalog builder
 preserves published entry IDs across unambiguous spelling or meaning corrections.
 If changing both fields, edit the catalog entry while retaining its ID before
 rebuilding. Do not delete and recreate decks to update them.
+
+### Updating an older deck after consolidation
+
+A fresh import contains 58 fewer notes (116 fewer cards). Anki does not remove
+old notes merely because an updated package omits them. Existing installations
+therefore need one cleanup step after importing the new package.
+
+The generated [merge map](merged-notes.tsv) lists all 58 retired study IDs,
+their surviving IDs, original meanings, and exact `EntryID:` browser searches.
+The same file accompanies the built package and is available as a
+[website download](../../docs/assets/decks/merged-notes.tsv).
+In Anki Browse, use the `AnkiSearch` values to find the retired notes, then use
+**Cards → Toggle Suspend** on their unsuspended cards. Several searches can be
+joined with ` OR ` and wrapped in parentheses, followed by ` -is:suspended`.
+Suspension preserves those notes' history while removing their duplicate review
+tasks. Retain the canonical notes; the package preserves their existing GUIDs.
+Review histories from two old notes are not combined automatically.
 
 ## Build and validate
 

@@ -34,9 +34,6 @@
     "meaning": "here, here you go",
     "recall": "here you go! Here it is! (presenting something)"
   },
-  "moag-03-453477f43b1eb05f": {
-    "meaning": "a formal greeting (literally ‘I bow to you’)"
-  },
   "moag-04-89ce85d843e16be7": {
     "meaning": "no, is not",
     "recall": "is not; am not; are not (negative identification)"
@@ -46,10 +43,6 @@
   },
   "moag-05-8801519810d106eb": {
     "meaning": "Krishnan (male name)"
-  },
-  "moag-05-b3bf20836e321434": {
-    "meaning": "no; there is not; does not exist",
-    "recall": "there is not; does not exist (negative of existence or possession)"
   },
   "moag-05-017b81885e1abb1f": {
     "meaning": "isn't there? (negative question)"
@@ -168,14 +161,6 @@
   "moag-18-d87c0f4a60267e16": {
     "meaning": "without (negative participle)"
   },
-  "moag-20-a97fb669d0016128": {
-    "meaning": "according to",
-    "recall": "according to",
-    "alternatives": [
-      "അനുസരിച്ച്"
-    ],
-    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
-  },
   "moag-20-5b4d4039341ec35f": {
     "meaning": "Vishnu (Hindu god; the protector)"
   },
@@ -188,15 +173,8 @@
   "moag-22-24e18677b6b8ae3b": {
     "meaning": "Mathai (male name; Malayalam form of Matthew)"
   },
-  "moag-22-8c98663535798f22": {
-    "meaning": "inside (locative)",
-    "recall": "inside; in the interior (locative form)"
-  },
   "moag-22-a0934e924f7b2e75": {
     "meaning": "is lying"
-  },
-  "moag-23-18759496283826a2": {
-    "meaning": "was, were"
   },
   "moag-03-1a7432f818816245": {
     "recall": "news",
@@ -322,9 +300,6 @@
   "moag-14-472af7356c81d7c8": {
     "recall": "time; period, season, era"
   },
-  "moag-20-ce1d7908e761381a": {
-    "recall": "time; period, season, era"
-  },
   "moag-13-f24d50cb0ee6be5a": {
     "recall": "another",
     "alternatives": [
@@ -400,11 +375,7 @@
     "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
   },
   "moag-03-c9618c9463cca5ea": {
-    "recall": "happiness",
-    "alternatives": [
-      "സന്തോഷം"
-    ],
-    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+    "recall": "health; comfort (as in asking about well-being)"
   },
   "moag-15-35faf47d1922097f": {
     "recall": "happiness",
@@ -427,9 +398,6 @@
     "recall": "first (ordinal numeral: number one in a sequence)"
   },
   "moag-16-fda3d2126a2def47": {
-    "recall": "place; location"
-  },
-  "moag-19-44a3afcda0aab90d": {
     "recall": "place; location"
   },
   "moag-25-f2e474317df793d2": {
@@ -463,13 +431,6 @@
     ],
     "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
   },
-  "moag-25-d0784bd24cb75eff": {
-    "recall": "otherwise",
-    "alternatives": [
-      "അല്ലെങ്കിൽ"
-    ],
-    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
-  },
   "moag-19-f86b418f81605073": {
     "recall": "difficulty",
     "alternatives": [
@@ -495,13 +456,6 @@
     "recall": "harvest",
     "alternatives": [
       "വിളവെടുപ്പ്"
-    ],
-    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
-  },
-  "moag-20-75cfbc4f0eb34310": {
-    "recall": "according to",
-    "alternatives": [
-      "പ്രകാരം"
     ],
     "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
   },
@@ -1066,13 +1020,6 @@
     ],
     "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
   },
-  "moag-13-768643a459b39cad": {
-    "recall": "other; else (adjective)",
-    "alternatives": [
-      "മറ്റ് (adj)"
-    ],
-    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
-  },
   "moag-24-eb176bbc9a5d2aff": {
     "recall": "other; else (adjective)",
     "alternatives": [
@@ -1101,9 +1048,6 @@
   "moag-10-46a299e3ad62d702": {
     "recall": "about; approximately (an estimate)"
   },
-  "moag-14-9588e781923b50af": {
-    "recall": "about; concerning (a topic)"
-  },
   "moag-06-b221055aa1d9a984": {
     "recall": "on this side of (spatial expression)"
   },
@@ -1117,9 +1061,6 @@
     "recall": "very; very much (degree adverb)"
   },
   "moag-18-9659c77f1d1e8189": {
-    "recall": "still more; yet more"
-  },
-  "moag-19-eff7e5d2525dbd3b": {
     "recall": "still more; yet more"
   },
   "moag-04-dbec2728055e756d": {
@@ -1149,22 +1090,13 @@
   "moag-24-a6e1f22dec9f7062": {
     "recall": "difference (noun)"
   },
-  "moag-22-b94105a182be5628": {
-    "recall": "for; for the purpose of (purpose or benefit)"
-  },
   "moag-24-175812bf37205b7d": {
     "recall": "because; for the reason that (introducing a reason)"
   },
   "moag-06-7ceadf37a89e675d": {
     "recall": "from (ablative expression, following a locative noun)"
   },
-  "moag-19-950d54ed54253413": {
-    "recall": "from; since (a starting point)"
-  },
   "moag-06-9ca0427f17b0305c": {
-    "recall": "good (general adjective)"
-  },
-  "moag-09-eec1612ab7d5d124": {
     "recall": "good (general adjective)"
   },
   "moag-20-cdf89331180155f7": {
@@ -1227,9 +1159,6 @@
   "moag-11-39e53d2902f4e5f5": {
     "recall": "that which was sent (nominalized past form)"
   },
-  "moag-04-2d4f49f1f8156ef9": {
-    "recall": "then; at that time"
-  },
   "moag-05-7085672df0416951": {
     "recall": "then; so (a connecting word)"
   },
@@ -1263,9 +1192,6 @@
   "moag-21-d4d013677987d506": {
     "recall": "to turn something (transitive); to set out on a journey (dictionary form)"
   },
-  "moag-23-7fbd42305d9c6b1f": {
-    "recall": "to turn something (transitive); to set out on a journey (dictionary form)"
-  },
   "moag-11-24c2884ace6621ef": {
     "recall": "why; for what purpose? (question word without the copula)"
   },
@@ -1297,5 +1223,56 @@
   "moag-25-6f4cda7ec4284681": {
     "recall": "grain; cereal (general noun, not specifically paddy rice)",
     "explanation": "The source printed “richness,” but the written word means grain or cereal. The reading uses a different form; see the editorial note in Lesson 25."
+  },
+  "moag-02-72eede6504521c4f": {
+    "recall": "then; at that time"
+  },
+  "moag-06-a46bcd270f4ca842": {
+    "recall": "about; concerning (a topic)"
+  },
+  "moag-06-5ca528746ca8594c": {
+    "recall": "from; since (a starting point)"
+  },
+  "moag-06-9f880a5995c2ff65": {
+    "recall": "according to",
+    "meaning": "according to; in this manner",
+    "alternatives": [
+      "അനുസരിച്ച്"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-06-1ef0f5a0758a7dd3": {
+    "recall": "according to",
+    "alternatives": [
+      "പ്രകാരം"
+    ],
+    "explanation": "This broad English cue allows more than one Malayalam answer. The alternatives are accepted for this card; their usage may differ in a fuller context."
+  },
+  "moag-06-eb969abdf101ec87": {
+    "recall": "inside; in the interior (locative form)",
+    "meaning": "inside; within"
+  },
+  "moag-06-3210688c80584dcd": {
+    "recall": "for; for the purpose of (purpose or benefit)"
+  },
+  "moag-06-7dfec21fb8bc71da": {
+    "meaning": "with; by means of (postposition)",
+    "recall": "with; by means of (instrumental postposition)",
+    "explanation": "The lesson and Appendix D give this same meaning but label the preceding noun case differently (nominative versus accusative). That source discrepancy remains unresolved; this card does not test a case rule."
+  },
+  "moag-06-3cc8a9d730d1ed8e": {
+    "explanation": "The source lists this meaning with more than one case construction. Consult the linked source glosses for each construction and its restrictions."
+  },
+  "moag-06-f66e944a118b00e7": {
+    "explanation": "The source lists this meaning with more than one case construction. Consult the linked source glosses for each construction and its restrictions."
+  },
+  "moag-16-a42ed34e72484e76": {
+    "explanation": "The source lists this meaning with more than one case construction. Consult the linked source glosses for each construction and its restrictions."
+  },
+  "moag-06-a70f09006a793adc": {
+    "explanation": "The source lists this meaning with more than one case construction. Consult the linked source glosses for each construction and its restrictions."
+  },
+  "moag-06-a3301811dd283fc0": {
+    "explanation": "The source lists this meaning with more than one case construction. Consult the linked source glosses for each construction and its restrictions."
   }
 }

@@ -32,7 +32,8 @@ A catalog generator extracts written forms, meanings, chapter references, and au
 associations from tables explicitly labeled with `vocabulary-table` comments.
 Those comments distinguish study vocabulary, glossary-only entries, and grammar
 reference tables. The generated glossary combines repeated entries
-across chapters; Anki preserves chapter membership through lesson subdecks.
+across chapters by reviewed meaning. Anki introduces each shared note in its earliest
+selected lesson and preserves all contributing lessons as tags and source links.
 Both outputs use the same catalog rather than maintaining separate vocabulary lists.
 
 Writing diagrams follow a similar pattern: editable stroke geometry generates SVG

@@ -100,7 +100,14 @@ fn catalog_rebuild_is_exact() {
     let current = read_json(root().join("data/vocabulary/moag.json")).unwrap();
     let built = vocabulary::catalog(root()).unwrap();
     assert_eq!(built, current);
-    assert_eq!(arr(&built["entries"]).len(), 1247);
+    assert_eq!(arr(&built["entries"]).len(), 1168);
+    assert_eq!(
+        arr(&built["entries"])
+            .iter()
+            .flat_map(vocabulary::occurrences)
+            .count(),
+        1247
+    );
     assert_eq!(
         arr(&built["entries"])
             .iter()
@@ -174,11 +181,13 @@ fn case_restrictions_and_reference_only_survive() {
     );
     let around = e
         .iter()
+        .flat_map(vocabulary::occurrences)
         .find(|e| e["malayalam"] == "ചുറ്റും" && s(&e["english"]).contains("possessive"))
         .unwrap();
     assert!(!s(&around["english"]).contains("also dative"));
     let near = e
         .iter()
+        .flat_map(vocabulary::occurrences)
         .find(|e| e["malayalam"] == "അടുത്ത്" && e["origin"] == "reference_table")
         .unwrap();
     assert!(s(&near["english"]).contains("also dative"));
@@ -200,6 +209,139 @@ fn edited_and_reordered_rows_keep_ids() {
     vocabulary::preserve_ids(&mut entries, arr(&old)).unwrap();
     assert_eq!(entries[0]["id"], "second");
     assert_eq!(entries[1]["id"], "first");
+}
+#[test]
+fn consolidation_requires_complete_current_source_review() {
+    let entries = json!([
+        {"id":"first","chapter":3,"malayalam":"വാക്ക്","english":"word","audio":[],"study":false},
+        {"id":"later","chapter":1,"malayalam":"വാക്ക്","english":"a word","audio":[{"path":"recording"}]}]);
+    let review = json!({"words":[{"word":"വാക്ക്","groups":[{"members":[{"id":"first","english":"word"},{"id":"later","english":"a word"}],"reason":"Same meaning in the two source tables."}]}]});
+    let merged = vocabulary::consolidate(arr(&entries).to_vec(), &review).unwrap();
+    assert_eq!(merged.len(), 1);
+    assert_eq!(merged[0]["id"], "first");
+    assert_eq!(merged[0]["chapter"], 1);
+    assert_eq!(merged[0]["study"], true);
+    assert_eq!(merged[0]["audio"], entries[1]["audio"]);
+    assert_eq!(merged[0]["occurrences"], entries);
+    let mut stale = review.clone();
+    stale["words"][0]["groups"][0]["members"][1]["english"] = json!("another sense");
+    assert!(vocabulary::consolidate(arr(&entries).to_vec(), &stale).is_err());
+    let mut wrong_word = review.clone();
+    wrong_word["words"][0]["word"] = json!("മറ്റൊന്ന്");
+    assert!(vocabulary::consolidate(arr(&entries).to_vec(), &wrong_word).is_err());
+    let mut incomplete = review.clone();
+    incomplete["words"][0]["groups"][0]["members"]
+        .as_array_mut()
+        .unwrap()
+        .pop();
+    assert!(vocabulary::consolidate(arr(&entries).to_vec(), &incomplete).is_err());
+    let mut repeated = review.clone();
+    let member = repeated["words"][0]["groups"][0]["members"][0].clone();
+    repeated["words"][0]["groups"][0]["members"]
+        .as_array_mut()
+        .unwrap()
+        .push(member);
+    assert!(vocabulary::consolidate(arr(&entries).to_vec(), &repeated).is_err());
+    assert!(vocabulary::consolidate(arr(&entries).to_vec(), &json!({"words":[]})).is_err());
+}
+#[test]
+fn distinct_senses_need_recognition_context() {
+    let mut d = data();
+    d["entries"].as_array_mut().unwrap().push(
+        json!({"id":"second","chapter":1,"malayalam":"വാക്ക്","english":"another meaning","audio":[]}),
+    );
+    assert!(anki::validate(&d, &json!({})).is_err());
+    d["entries"][0]["sense"] = json!("first context");
+    d["entries"][1]["sense"] = json!("second context");
+    anki::validate(&d, &json!({})).unwrap();
+    let fields = anki::fields(&d["entries"][0], &json!({}), &d["chapters"][0]);
+    assert!(fields[1].contains("first context"));
+    assert!(!fields[1].contains("second context"));
+    assert_eq!(
+        vocabulary::word_key("കൂടുക (past: കൂടി)"),
+        vocabulary::word_key("കൂടുക")
+    );
+}
+#[test]
+fn reviewed_catalog_preserves_homographs_and_merges_repetition() {
+    let d = read_json(root().join("data/vocabulary/moag.json")).unwrap();
+    let entries = arr(&d["entries"]);
+    assert_eq!(
+        entries.iter().filter(|e| e["malayalam"] == "ഇന്ന്").count(),
+        1
+    );
+    let today = entries.iter().find(|e| e["malayalam"] == "ഇന്ന്").unwrap();
+    assert_eq!(today["chapter"], 2);
+    assert_eq!(vocabulary::occurrences(today).len(), 3);
+    for word in ["ആറ്", "എന്ന്", "പേര്", "സുഖം", "നിങ്ങൾ"]
+    {
+        let senses: Vec<_> = entries.iter().filter(|e| e["malayalam"] == word).collect();
+        assert_eq!(senses.len(), 2, "{word}");
+        assert!(senses.iter().all(|e| e["sense"].is_string()));
+    }
+    let six = entries
+        .iter()
+        .find(|e| e["malayalam"] == "ആറ്" && e["english"] == "six")
+        .unwrap();
+    assert_eq!(six["sense"], "number");
+}
+#[test]
+fn pronoun_consolidation_preserves_person_number_case_and_inclusion() {
+    let data = read_json(root().join("data/vocabulary/moag.json")).unwrap();
+    let study = read_json(root().join("data/vocabulary/study.json")).unwrap();
+    let entries = arr(&data["entries"]);
+    let meanings = |word: &str| {
+        entries
+            .iter()
+            .filter(|e| e["malayalam"] == word && e["study"] != false)
+            .map(|e| anki::meaning(e, &study))
+            .collect::<BTreeSet<_>>()
+    };
+    // Singular respectful reference and plural reference are separate tasks,
+    // even when Malayalam uses the same written form for both.
+    for (word, expected) in [
+        ("നിങ്ങൾ", ["you (polite singular)", "you (plural)"]),
+        (
+            "അവർ",
+            ["she (formal; at a distance)", "they (people at a distance)"],
+        ),
+        ("ഇവർ", ["she (formal; nearby)", "they (people nearby)"]),
+        ("അവരുടെ", ["her (formal possessive)", "their (possessive)"]),
+    ] {
+        assert_eq!(meanings(word), BTreeSet::from(expected), "{word}");
+        let cues: BTreeSet<_> = entries
+            .iter()
+            .filter(|e| e["malayalam"] == word && e["study"] != false)
+            .map(|e| s(&e["sense"]))
+            .collect();
+        assert_eq!(cues.len(), 2, "{word}");
+        assert!(!cues.contains(""), "{word}");
+    }
+    // Repeated lexical tasks merge; inclusion, distance, register, and case
+    // distinctions still have independently specified answers.
+    for (word, expected) in [
+        ("എന്റെ", "my"),
+        (
+            "നിങ്ങളുടെ",
+            "your (plural or polite singular; possessive pronoun)",
+        ),
+        ("ഞങ്ങൾ", "we (excluding the listener)"),
+        ("നമ്മൾ", "we (including the listener)"),
+        ("നമ്മുടെ", "our (including the listener)"),
+        ("ഞങ്ങളുടെ", "our (excluding the listener)"),
+        ("നമുക്ക്", "to us; for us (including the listener; dative)"),
+        ("ഞങ്ങൾക്ക്", "to us; for us (excluding the listener; dative)"),
+        ("ഇവൻ", "he (informal; nearby)"),
+        ("അയാൾ", "he (neutral; at a distance)"),
+        ("ഇദ്ദേഹം", "he (formal; nearby)"),
+    ] {
+        assert_eq!(meanings(word), BTreeSet::from([expected]), "{word}");
+    }
+    for (word, variant) in [("നമുക്ക്", "നമ്മൾക്ക്"), ("നമ്മുടെ", "നമ്മളുടെ")]
+    {
+        let entry = entries.iter().find(|e| e["malayalam"] == word).unwrap();
+        assert!(arr(&entry["variants"]).contains(&json!(variant)), "{word}");
+    }
 }
 #[test]
 fn social_ranking_labels_cannot_return() {
@@ -316,9 +458,19 @@ fn all_published_note_guids_and_fields_match() {
         .iter()
         .filter(|e| e["study"] != false)
         .collect();
-    // New source-backed notes may be added without replacing the migration
-    // baseline. Every published note must retain its identity and reviewed fields.
+    // Retired notes remain explicit source occurrences with a reviewed successor.
+    // Surviving notes retain their GUID; intentional field changes are reviewed.
     for expected in arr(&fixtures) {
+        if let Some(canonical) = expected["merged_into"].as_str() {
+            let e = entries.iter().find(|e| e["id"] == canonical).unwrap();
+            assert!(
+                vocabulary::occurrences(e)
+                    .iter()
+                    .any(|o| o["id"] == expected["id"])
+            );
+            assert_eq!(anki::guid(s(&expected["id"])), s(&expected["guid"]));
+            continue;
+        }
         let e = entries.iter().find(|e| e["id"] == expected["id"]).unwrap();
         let chapter = arr(&d["chapters"])
             .iter()
@@ -541,8 +693,8 @@ fn package_database_and_embedded_media_follow_published_contract() {
     use std::io::Read;
     let tmp = tempfile::tempdir().unwrap();
     let summary = anki::build(root(), tmp.path(), false).unwrap();
-    assert_eq!(summary["notes"], 1148);
-    assert_eq!(summary["cards"], 2296);
+    assert_eq!(summary["notes"], 1090);
+    assert_eq!(summary["cards"], 2180);
     let mut zip =
         zip::ZipArchive::new(fs::File::open(tmp.path().join("malayalam-moag.apkg")).unwrap())
             .unwrap();
@@ -557,12 +709,12 @@ fn package_database_and_embedded_media_follow_published_contract() {
     assert_eq!(
         conn.query_row("select count(*) from notes", [], |r| r.get::<_, i64>(0))
             .unwrap(),
-        1148
+        1090
     );
     assert_eq!(
         conn.query_row("select count(*) from cards", [], |r| r.get::<_, i64>(0))
             .unwrap(),
-        2296
+        2180
     );
     let models: String = conn
         .query_row("select models from col", [], |r| r.get(0))
@@ -600,6 +752,27 @@ fn package_database_and_embedded_media_follow_published_contract() {
             )
             .unwrap();
         assert_eq!(stored, anki::guid(s(&e["id"])));
+        let tags: String = conn
+            .query_row("select tags from notes where guid = ?1", [stored], |r| {
+                r.get(0)
+            })
+            .unwrap();
+        for original in vocabulary::occurrences(e) {
+            assert!(tags.contains(&format!(
+                "moag::lesson_{:02}",
+                original["chapter"].as_u64().unwrap()
+            )));
+            if original["id"] != e["id"] {
+                let count: i64 = conn
+                    .query_row(
+                        "select count(*) from notes where guid = ?1",
+                        [anki::guid(s(&original["id"]))],
+                        |r| r.get(0),
+                    )
+                    .unwrap();
+                assert_eq!(count, 0, "retired duplicate must not be exported");
+            }
+        }
         for clip in arr(&e["audio"]) {
             let name = format!(
                 "moag_{}",

@@ -74,6 +74,7 @@ The following need linguistic or editorial revision. Visible notes prevent the s
 | [Lesson 24](lesson24.md), 24.2 | Comparative explanation promises four elements but enumerates only two. |
 | [Lesson 24](lesson24.md), 24.6 | Introductory wording for വയ്യ is missing; a note points to 6.7 and the examples. |
 | [Lesson 25](lesson25.md), vocabulary | The written word ധാന്യം is now glossed “grain; cereal,” with an editorial source note. The intended relationship to ധന്യമായ/ധന്യമാണ് in the reading and exercise remains uncertain. |
+| [Lesson 20](lesson20.md#lesson20-vocabulary) and [Appendix D](appendix-d.md#appendix-d-accusative), കൊണ്ട് | Both list the instrumental meaning “with/by means of,” but the lesson labels the preceding noun nominative and the appendix groups it under accusative. The shared card flags the disagreement and does not test a case rule; the source analysis remains unresolved. |
 | [Appendix C](appendix-c.md), periods and frequency | The source groups മണിക്കൂർ and നാഴിക under “hour”; the intended equivalence needs review. Two ഈരണ്ട് expressions have questionable “every third” glosses, and three frequency entries lack meanings. Visible notes identify these gaps; they are not new study cards. |
 | [Appendix E](appendix-e.md), opposites | “Flat” and “narrow” describe different dimensions; the source pairing is flagged for review, not taught as a verified antonym contrast. |
 | [Appendix F](appendix-f.md), three-argument expressions | Three entries contain English translations without Malayalam example sentences, also absent in the PDF. |
@@ -262,3 +263,77 @@ Validation covers:
 The report's new internal link initially failed the shared portable-book destination check. An explicit anchor corrected it; the destination test was rerun before final validation. No export-link failure was waived.
 
 The unresolved grammar/source issues listed earlier remain open unless explicitly resolved above. A clean structural build establishes integrity and traceability; it cannot establish that every sentence, register judgment, phonetic boundary, or teaching sequence is correct. Qualified Malayalam review and learner testing remain necessary for those judgments.
+
+<a id="catalog-consolidation"></a>
+## Catalog Consolidation — November 2, 2026
+
+A subsequent review addressed repeated flashcards rather than expanding coverage.
+It inventoried all **83 repeated written forms**, plus **two repeated head forms**
+whose parenthetical inflection annotations differed. Every member of those 85
+candidate groups was compared with its catalog gloss, study metadata, and source
+location. The versioned `data/vocabulary/duplicates.json` records the source IDs,
+exact glosses, sense partitions, context cues, and reasons for the decisions.
+New unreviewed repeated head forms and changed reviewed glosses fail generation.
+
+| Measure | Before consolidation | After consolidation |
+| --- | ---: | ---: |
+| Catalog entries | 1,247 | 1,168 |
+| Preserved original source identities | 1,247 | 1,247 |
+| Study notes | 1,148 | 1,090 |
+| Cards | 2,296 | 2,180 |
+| Study notes without recordings | 223 | 179 |
+| Glossary-only entries | 99 | 78 |
+| Recordings | 997 | 997 |
+
+The review merges **79 redundant catalog entries** into 73 shared entries,
+including 58 redundant study notes and 21 redundant reference-only entries.
+Exact repeated meanings and differently worded versions of the same meaning
+share one canonical entry. It retains an existing published ID and aggregates
+recordings, variants, and references; complete original source rows remain in
+`occurrences`, including their IDs, meanings, source locations, and study flags.
+New decks introduce the shared note in the earliest selected lesson and retain
+all contributing lesson tags. All original recordings and checksums are retained.
+
+Distinct senses remain separate, including ആറ് (six / river), എന്ന് (quotation
+marker / asking about a day), പേര് (name / counting people), സുഖം
+(health/comfort / happiness), and polite singular versus plural pronouns.
+Selected separate grammatical tasks also retain context cues. Each repeated
+Malayalam recognition front now names its context rather than requiring the
+learner to guess the intended sense. The health/comfort സുഖം card previously
+used “happiness” as its recall prompt; it now asks for health/comfort, consistent
+with Lesson 3 §3.5. The later happiness card retains its own prompt.
+
+The review preserves different postposition case constructions and restrictions
+in the linked source glosses instead of inventing lexical senses to distinguish
+repeated meanings. കൊണ്ട് exposed a source conflict: Lesson 20 says nominative,
+while Appendix D groups it under accusative. Its answer explicitly flags the
+unresolved discrepancy. No replacement case rule was supplied. Different
+headwords appearing as accepted alternatives were inspected for overlap but
+were not automatically merged; an alternative accepted for one prompt does not
+establish interchangeability in every sentence.
+
+This is a comparison of existing Moag material and existing editorial metadata,
+not independent dictionary verification of every translation, fluent-speaker
+review, or learner testing. No Malayalam examples, recordings, or speaker
+approvals were invented. The earlier audit tables retain their historical
+snapshots; the counts in this section supersede them for the current deck.
+
+The rebuilt package contains only the canonical study notes. Reimport preserves
+surviving GUIDs but cannot remove or combine old duplicate notes' histories.
+The [Anki update guide](anki.md#clean-up-duplicates-from-an-older-package) and
+[retired-note map](assets/decks/merged-notes.tsv) identify all 58 old study IDs
+for suspension without deleting their histories. Compatibility fixtures retain
+all earlier baseline IDs and explicitly identify each retired ID's successor.
+
+Validation: `cargo test --locked` passes (7 library, 36 publishing, and 3 site
+tests), including complete catalog regeneration, source identity preservation,
+review freshness and membership failures, homograph cues, published GUID/field
+contracts, native APKG/SQLite inspection, and all 997 media checksums. A focused
+pronoun regression checks the separate singular/plural senses of നിങ്ങൾ, അവർ,
+ഇവർ, and അവരുടെ; merged possessives; inclusive/exclusive first-person forms;
+dative and possessive variants; and distance/register distinctions.
+`cargo clippy --locked --all-targets -- -D warnings`, vocabulary/glossary freshness,
+prompt auditing, reading/navigation/sidebar checks, static-site generation and
+link/media checks also pass. Browser rendering was checked for representative
+merged glossary rows and contextualized card previews. No fresh official Anki
+backend import/reimport or full EPUB/PDF rebuild was performed in this pass.

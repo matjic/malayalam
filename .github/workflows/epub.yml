@@ -165,6 +165,7 @@ jobs:
           cp Moag-Malayalam-CompleteTextbook.pdf dist/site/Moag-Malayalam-CompleteTextbook.pdf
           mkdir -p dist/site/assets/decks
           cp dist/anki/malayalam-moag.apkg dist/site/assets/decks/malayalam-moag.apkg
+          cp dist/anki/merged-notes.tsv dist/site/assets/decks/merged-notes.tsv
       - name: Check the assembled site including all downloads
         run: cargo run --locked --release -- check-site --output dist/site --require-exports
       - name: Upload site

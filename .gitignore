@@ -7,6 +7,13 @@ dist/
 
 .DS_Store
 data/*
+!data/vocabulary/
+data/vocabulary/*
+!data/vocabulary/README.md
+!data/vocabulary/moag.json
+!data/vocabulary/study.json
+!data/vocabulary/duplicates.json
+!data/vocabulary/merged-notes.tsv
 !data/review/
 data/review/*
 !data/review/revisions-2026-11-02.json

@@ -12,3 +12,11 @@ note to remain present. Only the field hash for `moag-06-a13116e0692e63f0` was
 updated: its recall cue now specifies the back/outer-surface sense of പുറത്ത്,
 with an answer note connecting Appendix D to Lesson 9's existing elephant-back
 caption and distinguishing Appendix E's “outside” sense. Its GUID is unchanged.
+
+The subsequent catalog consolidation retains all 1,085 baseline IDs, either as
+surviving notes or as original source occurrences. Retired baseline records have
+an explicit `merged_into` successor and retain their historical field hash and
+GUID. Surviving notes have reviewed updated field hashes for merged recordings,
+source links, combined meanings, earlier lesson placement, and sense cues. The
+test checks every retired record's membership in its successor and the GUID of
+every surviving record; package checks verify the new note count and all media.

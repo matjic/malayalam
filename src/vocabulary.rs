@@ -313,6 +313,130 @@ pub fn preserve_ids(entries: &mut [Value], old: &[Value]) -> Result<()> {
     );
     Ok(())
 }
+
+/// Original source identities survive consolidation, including their audio and glosses.
+pub fn occurrences(entry: &Value) -> Vec<&Value> {
+    if entry["occurrences"].is_array() {
+        arr(&entry["occurrences"]).iter().collect()
+    } else {
+        vec![entry]
+    }
+}
+
+pub fn word_key(word: &str) -> String {
+    use unicode_normalization::UnicodeNormalization;
+    word.split(" (")
+        .next()
+        .unwrap_or(word)
+        .trim()
+        .nfc()
+        .collect()
+}
+
+/// Only an explicit, source-bound editorial decision may merge different glosses.
+pub fn consolidate(entries: Vec<Value>, review: &Value) -> Result<Vec<Value>> {
+    ensure!(
+        review["words"].is_array(),
+        "missing vocabulary duplicate review"
+    );
+    let by_id: BTreeMap<_, _> = entries.iter().map(|e| (s(&e["id"]), e)).collect();
+    ensure!(by_id.len() == entries.len(), "duplicate source identity");
+    let mut decisions = BTreeMap::new();
+    let mut covered = BTreeSet::new();
+    for word in arr(&review["words"]) {
+        let key = s(&word["word"]);
+        ensure!(
+            !key.is_empty() && word["groups"].is_array(),
+            "invalid duplicate review"
+        );
+        for group in arr(&word["groups"]) {
+            ensure!(
+                !s(&group["reason"]).trim().is_empty(),
+                "missing merge rationale: {key}"
+            );
+            let members = arr(&group["members"]);
+            ensure!(!members.is_empty(), "empty duplicate group: {key}");
+            let canonical = s(&members[0]["id"]);
+            let mut merged = (*by_id
+                .get(canonical)
+                .ok_or_else(|| anyhow::anyhow!("unknown canonical ID: {canonical}"))?)
+            .clone();
+            let mut originals = vec![];
+            for member in members {
+                let id = s(&member["id"]);
+                let e = by_id
+                    .get(id)
+                    .ok_or_else(|| anyhow::anyhow!("unknown reviewed ID: {id}"))?;
+                ensure!(covered.insert(id), "repeated review membership: {id}");
+                ensure!(
+                    word_key(s(&e["malayalam"])) == key && e["english"] == member["english"],
+                    "stale duplicate review: {id}"
+                );
+                originals.push((*e).clone());
+                for field in ["audio", "variants", "notes", "references"] {
+                    append(&mut merged, field, arr(&e[field]));
+                }
+            }
+            // Introduce a shared note with its earliest selected occurrence.
+            let first = originals
+                .iter()
+                .filter(|e| e["study"] != false)
+                .min_by_key(|e| e["chapter"].as_u64().unwrap());
+            if let Some(first) = first {
+                merged["chapter"] = first["chapter"].clone();
+                merged["study"] = json!(true);
+            } else {
+                merged["study"] = json!(false);
+            }
+            if !group["cue"].is_null() {
+                ensure!(
+                    !s(&group["cue"]).trim().is_empty(),
+                    "empty sense cue: {key}"
+                );
+                merged["sense"] = group["cue"].clone();
+            }
+            if !group["meaning"].is_null() {
+                ensure!(
+                    !s(&group["meaning"]).trim().is_empty(),
+                    "empty consolidated meaning: {key}"
+                );
+                merged["english"] = group["meaning"].clone();
+            }
+            if originals.len() > 1 {
+                merged["occurrences"] = json!(originals);
+            }
+            ensure!(
+                decisions.insert(canonical, merged).is_none(),
+                "duplicate canonical ID"
+            );
+        }
+    }
+    let mut words: BTreeMap<String, Vec<&Value>> = BTreeMap::new();
+    for e in &entries {
+        words
+            .entry(word_key(s(&e["malayalam"])))
+            .or_default()
+            .push(e);
+    }
+    for (word, group) in words {
+        if group.len() > 1 {
+            ensure!(
+                group.iter().all(|e| covered.contains(s(&e["id"]))),
+                "unreviewed repeated word: {word}"
+            );
+        }
+    }
+    let mut result = vec![];
+    for entry in entries {
+        let id = s(&entry["id"]);
+        if let Some(merged) = decisions.remove(id) {
+            result.push(merged);
+        } else if !covered.contains(id) {
+            result.push(entry);
+        }
+    }
+    Ok(result)
+}
 pub fn catalog(root: &Path) -> Result<Value> {
     let manifest = read_json(root.join("docs/assets/audio/moag/words/manifest.json"))?;
     let audio: BTreeMap<_, _> = arr(&manifest["clips"])
@@ -469,14 +593,49 @@ pub fn catalog(root: &Path) -> Result<Value> {
     }
     ensure!(seen.len() == audio.len(), "audio omitted from catalog");
     let old = read_json(root.join("data/vocabulary/moag.json"))?;
-    preserve_ids(&mut entries, arr(&old["entries"]))?;
+    let old: Vec<_> = arr(&old["entries"])
+        .iter()
+        .flat_map(occurrences)
+        .cloned()
+        .collect();
+    preserve_ids(&mut entries, &old)?;
+    let review = read_json(root.join("data/vocabulary/duplicates.json"))?;
+    let entries = consolidate(entries, &review)?;
     Ok(
-        json!({"schema_version":1,"title":"Malayalam — Moag","license":"CC-BY-NC-SA-4.0","source_of_truth":"Explicit vocabulary-table comments in lesson and appendix Markdown; audio paths and checksums from the word manifest.","chapters":chapters,"entries":entries}),
+        json!({"schema_version":1,"title":"Malayalam — Moag","license":"CC-BY-NC-SA-4.0","source_of_truth":"Explicit vocabulary-table comments in lesson and appendix Markdown; reviewed sense consolidation in data/vocabulary/duplicates.json; audio paths and checksums from the word manifest.","chapters":chapters,"entries":entries}),
     )
 }
 pub fn build(root: &Path, check: bool) -> Result<()> {
     let data = catalog(root)?;
     write_json(root.join("data/vocabulary/moag.json"), &data, check)?;
+    let mut report = csv::WriterBuilder::new()
+        .delimiter(b'\t')
+        .from_writer(vec![]);
+    report.write_record([
+        "RetiredEntryID",
+        "CanonicalEntryID",
+        "Malayalam",
+        "OriginalMeaning",
+        "AnkiSearch",
+    ])?;
+    for entry in arr(&data["entries"]) {
+        for original in occurrences(entry) {
+            if original["id"] != entry["id"] && original["study"] != false {
+                report.write_record([
+                    s(&original["id"]),
+                    s(&entry["id"]),
+                    s(&original["malayalam"]),
+                    s(&original["english"]),
+                    &format!("EntryID:{}", s(&original["id"])),
+                ])?;
+            }
+        }
+    }
+    write(
+        root.join("data/vocabulary/merged-notes.tsv"),
+        &String::from_utf8(report.into_inner()?)?,
+        check,
+    )?;
     println!("{} vocabulary entries", arr(&data["entries"]).len());
     Ok(())
 }
@@ -525,19 +684,28 @@ pub fn glossary(root: &Path, check: bool) -> Result<()> {
     }
     let mut groups: BTreeMap<(String, String), Group> = BTreeMap::new();
     for e in arr(&data["entries"]) {
-        let n = e["chapter"].as_u64().unwrap();
         let g = groups
             .entry((s(&e["malayalam"]).into(), s(&e["english"]).into()))
             .or_default();
         g.audio.extend_from_slice(arr(&e["audio"]));
-        g.sources.insert((
-            n,
-            s(&e["source"]).into(),
-            e["source_anchor"]
-                .as_str()
-                .map(str::to_string)
-                .unwrap_or_else(|| format!("lesson{n}-vocabulary")),
-        ));
+        for original in occurrences(e) {
+            let n = original["chapter"].as_u64().unwrap();
+            g.sources.insert((
+                n,
+                s(&original["source"]).into(),
+                original["source_anchor"]
+                    .as_str()
+                    .map(str::to_string)
+                    .unwrap_or_else(|| format!("lesson{n}-vocabulary")),
+            ));
+            for reference in arr(&original["references"]) {
+                g.sources.insert((
+                    n,
+                    s(&reference["source"]).into(),
+                    s(&reference["anchor"]).into(),
+                ));
+            }
+        }
         g.variants
             .extend(arr(&e["variants"]).iter().map(|v| s(v).to_string()));
     }

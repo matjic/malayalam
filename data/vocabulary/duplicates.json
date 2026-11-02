@@ -1,0 +1,1743 @@
+{
+  "reviewed": "2026-11-02",
+  "scope": "Repeated NFC written forms and head forms before parenthetical inflection notes. Source comparison only; not independent fluent-speaker verification.",
+  "words": [
+    {
+      "word": "നിങ്ങളുടെ",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-01-4f34113e6ac5bbe5",
+              "english": "your (plural or polite singular pronoun)"
+            },
+            {
+              "id": "moag-06-02a1c29233bc21fa",
+              "english": "your (plural possessive)"
+            },
+            {
+              "id": "moag-06-9ef4fa1daa57bdc2",
+              "english": "your (plural or polite singular pronoun)"
+            }
+          ],
+          "reason": "The possessive table adds a plural label, not a new lexical meaning; preserve the polite singular use too.",
+          "meaning": "your (plural or polite singular; possessive pronoun)"
+        }
+      ]
+    },
+    {
+      "word": "പേര്",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-01-5e94fe085cf72712",
+              "english": "name"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: introducing someone. Merge only repetitions within this group.",
+          "cue": "introducing someone"
+        },
+        {
+          "members": [
+            {
+              "id": "moag-03-d9af1b64f1d383af",
+              "english": "person (also “name”)"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: counting people. Merge only repetitions within this group.",
+          "cue": "counting people"
+        }
+      ]
+    },
+    {
+      "word": "എന്റെ",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-01-66132e58bb05b227",
+              "english": "my"
+            },
+            {
+              "id": "moag-06-2179e7162c7aaff6",
+              "english": "my"
+            }
+          ],
+          "reason": "The same written form and source meaning recur in different lesson tables."
+        }
+      ]
+    },
+    {
+      "word": "എന്ന്",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-01-251fcdc06702f751",
+              "english": "Quotative or Citation Marker (placed after the quoted element)"
+            },
+            {
+              "id": "moag-12-1b2be979e6d2661b",
+              "english": "quotation marker required at the end of a direct or indirect quotation"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: reporting speech. Merge only repetitions within this group.",
+          "cue": "reporting speech",
+          "meaning": "quotation marker (placed after a direct or indirect quotation)"
+        },
+        {
+          "members": [
+            {
+              "id": "moag-02-0f13272c6da4462b",
+              "english": "on which day?"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: asking about a day. Merge only repetitions within this group.",
+          "cue": "asking about a day"
+        }
+      ]
+    },
+    {
+      "word": "അവൻ",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-01-e1a2806cbc95461e",
+              "english": "he (informal)"
+            },
+            {
+              "id": "moag-02-79b51a4e328ce6e1",
+              "english": "he (informal; at a distance)"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references."
+        }
+      ]
+    },
+    {
+      "word": "അവൾ",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-01-60eae63769e09f95",
+              "english": "she (informal)"
+            },
+            {
+              "id": "moag-02-45f18f99164f5307",
+              "english": "she (informal; at a distance)"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references."
+        }
+      ]
+    },
+    {
+      "word": "അദ്ദേഹം",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-01-82648d7e9c6738b9",
+              "english": "he (formal)"
+            },
+            {
+              "id": "moag-02-dc38fb82ce99a23d",
+              "english": "he (formal; at a distance)"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references."
+        }
+      ]
+    },
+    {
+      "word": "ഇത്",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-01-ec78c93eb857b15d",
+              "english": "this (thing)"
+            },
+            {
+              "id": "moag-03-9baa1fded7b99f98",
+              "english": "this, this one (pronoun)"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references.",
+          "meaning": "this; this one (pronoun)"
+        }
+      ]
+    },
+    {
+      "word": "അത്",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-01-3967297b14f653e8",
+              "english": "that (thing)"
+            },
+            {
+              "id": "moag-03-78ccf6f3a635de70",
+              "english": "that, that one (pronoun)"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references.",
+          "meaning": "that; that one (pronoun)"
+        }
+      ]
+    },
+    {
+      "word": "ഇല്ല",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-02-cb36ca89fba040db",
+              "english": "no"
+            },
+            {
+              "id": "moag-05-b3bf20836e321434",
+              "english": "no, (negative of the verb ഉണ്ട്)"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references."
+        }
+      ]
+    },
+    {
+      "word": "നമസ്കാരം",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-02-9cd302f8012c44de",
+              "english": "a formal greeting (literally “I bow to you,” also നമസ്തേ)"
+            },
+            {
+              "id": "moag-03-453477f43b1eb05f",
+              "english": "greetings; hello"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references."
+        }
+      ]
+    },
+    {
+      "word": "ഒരു",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-02-a0f27ba26d9a2cbc",
+              "english": "one (indefinite article)"
+            },
+            {
+              "id": "moag-04-2230dc458171c43c",
+              "english": "a, one (indefinite article)"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references."
+        }
+      ]
+    },
+    {
+      "word": "-ഉം",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-02-64e3311db378b45f",
+              "english": "also, too"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: adding another item. Merge only repetitions within this group.",
+          "cue": "adding another item"
+        },
+        {
+          "members": [
+            {
+              "id": "moag-03-63abc795b9126fef",
+              "english": "and"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: joining items in a list. Merge only repetitions within this group.",
+          "cue": "joining items in a list"
+        }
+      ]
+    },
+    {
+      "word": "ഈ",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-02-7a94791f180da43d",
+              "english": "this (adjective)"
+            },
+            {
+              "id": "moag-03-627462679f441e4d",
+              "english": "this (adjective)"
+            }
+          ],
+          "reason": "The same written form and source meaning recur in different lesson tables."
+        }
+      ]
+    },
+    {
+      "word": "ഇങ്ങോട്ട്",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-02-0207aaa913a867c2",
+              "english": "over here, in this direction"
+            },
+            {
+              "id": "moag-03-256210fce84577b9",
+              "english": "this way, over here"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references."
+        }
+      ]
+    },
+    {
+      "word": "സുഖം",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-03-c9618c9463cca5ea",
+              "english": "health, comfort"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: asking about health. Merge only repetitions within this group.",
+          "cue": "asking about health"
+        },
+        {
+          "members": [
+            {
+              "id": "moag-21-74a422731cdbbffd",
+              "english": "happiness"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: describing a feeling. Merge only repetitions within this group.",
+          "cue": "describing a feeling"
+        }
+      ]
+    },
+    {
+      "word": "അഞ്ച്",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-03-61967f8a29108f3b",
+              "english": "five"
+            },
+            {
+              "id": "moag-07-c6c3e46d66c0ef38",
+              "english": "5"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references."
+        }
+      ]
+    },
+    {
+      "word": "ഞങ്ങൾ",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-02-936fc90c057d5758",
+              "english": "we (excluding the listener)"
+            },
+            {
+              "id": "moag-03-ee1a778c0f4cde44",
+              "english": "we (excluding listener)"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references.",
+          "meaning": "we (excluding the listener)"
+        }
+      ]
+    },
+    {
+      "word": "അവർ",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-02-3874309e9d3349a5",
+              "english": "they (people at a distance)"
+            },
+            {
+              "id": "moag-03-117549876b0565eb",
+              "english": "they"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: referring to several people. Merge only repetitions within this group.",
+          "cue": "referring to several people",
+          "meaning": "they (people at a distance)"
+        },
+        {
+          "members": [
+            {
+              "id": "moag-02-0c6418552511d2c8",
+              "english": "she (formal; at a distance)"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: formal reference to one woman. Merge only repetitions within this group.",
+          "cue": "formal reference to one woman"
+        }
+      ]
+    },
+    {
+      "word": "പത്ത്",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-03-1d67897aac8a2894",
+              "english": "ten"
+            },
+            {
+              "id": "moag-07-e214b2c26011741a",
+              "english": "10"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references."
+        }
+      ]
+    },
+    {
+      "word": "ഇപ്പോൾ",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-02-d4f7a4a9f58abeb7",
+              "english": "now"
+            },
+            {
+              "id": "moag-03-c7788e13ecedff91",
+              "english": "now"
+            },
+            {
+              "id": "moag-07-2a3fe937da67188a",
+              "english": "now"
+            }
+          ],
+          "reason": "The same written form and source meaning recur in different lesson tables."
+        }
+      ]
+    },
+    {
+      "word": "അപ്പോൾ",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-02-72eede6504521c4f",
+              "english": "then"
+            },
+            {
+              "id": "moag-04-2d4f49f1f8156ef9",
+              "english": "then"
+            }
+          ],
+          "reason": "The same written form and source meaning recur in different lesson tables."
+        }
+      ]
+    },
+    {
+      "word": "എനിക്ക്",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-04-fa9a84cd0f051b68",
+              "english": "me, to me (dative)"
+            },
+            {
+              "id": "moag-19-3be9cbb784d83999",
+              "english": "to me; for me"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references."
+        }
+      ]
+    },
+    {
+      "word": "കുറച്ച്",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-04-280424d8a43727c3",
+              "english": "a little"
+            },
+            {
+              "id": "moag-07-4e578c858bf7abe0",
+              "english": "a little; a few"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references.",
+          "meaning": "a little; a few"
+        }
+      ]
+    },
+    {
+      "word": "കൂടി",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-04-dbec2728055e756d",
+              "english": "more"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: asking for an additional amount. Merge only repetitions within this group.",
+          "cue": "asking for an additional amount"
+        },
+        {
+          "members": [
+            {
+              "id": "moag-23-39049b83212130c1",
+              "english": "along (with locative)"
+            },
+            {
+              "id": "moag-06-37cadc1b3967ae7c",
+              "english": "through, along (postposition; after a locative noun)"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: describing a route. Merge only repetitions within this group.",
+          "cue": "describing a route"
+        }
+      ]
+    },
+    {
+      "word": "ഒന്ന്",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-04-0deb8d0e955bde6e",
+              "english": "please, would you mind (politeness marker)"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: making a polite request. Merge only repetitions within this group.",
+          "cue": "making a polite request"
+        },
+        {
+          "members": [
+            {
+              "id": "moag-03-d1b834d4a5410752",
+              "english": "one"
+            },
+            {
+              "id": "moag-07-be44cbb3190b69ec",
+              "english": "1"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: number. Merge only repetitions within this group.",
+          "cue": "number"
+        }
+      ]
+    },
+    {
+      "word": "അങ്ങനെ",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-02-9681edd0be5cc25c",
+              "english": "that way, like that"
+            },
+            {
+              "id": "moag-05-caddff479651a34b",
+              "english": "that way, like that"
+            }
+          ],
+          "reason": "The same written form and source meaning recur in different lesson tables."
+        }
+      ]
+    },
+    {
+      "word": "അടുത്ത്",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-06-b27435b0b200d0b4",
+              "english": "(adverb) near, close by, next to, close to (postposition)"
+            },
+            {
+              "id": "moag-06-d4257e58631b4448",
+              "english": "near by, by (postposition; after a possessive noun; also dative in colloquial speech)"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references.",
+          "meaning": "near; close by; next to"
+        }
+      ]
+    },
+    {
+      "word": "അപ്പുറത്ത്",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-06-ef5022ff0701f12b",
+              "english": "beyond, on the other side (with dative or genitive noun)"
+            },
+            {
+              "id": "moag-06-9863aa65ae45bcdd",
+              "english": "on that side (postposition; after a possessive noun; also dative in colloquial speech)"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references."
+        }
+      ]
+    },
+    {
+      "word": "ഇപ്പുറത്ത്",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-06-b221055aa1d9a984",
+              "english": "before, on this side of"
+            },
+            {
+              "id": "moag-06-ca168d6b2e5dc1f1",
+              "english": "on this side (postposition; after a possessive noun; also dative in colloquial speech)"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references."
+        }
+      ]
+    },
+    {
+      "word": "നിന്ന്",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-06-7ceadf37a89e675d",
+              "english": "from (with locative noun)"
+            },
+            {
+              "id": "moag-06-e8551f7997389efa",
+              "english": "from (postposition; after a locative noun)"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references."
+        }
+      ]
+    },
+    {
+      "word": "നല്ല",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-06-9ca0427f17b0305c",
+              "english": "good"
+            },
+            {
+              "id": "moag-09-eec1612ab7d5d124",
+              "english": "good"
+            }
+          ],
+          "reason": "The same written form and source meaning recur in different lesson tables."
+        }
+      ]
+    },
+    {
+      "word": "എപ്പോൾ",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-02-9671bd62d85ef431",
+              "english": "when?"
+            },
+            {
+              "id": "moag-07-d36de8bfa977eb82",
+              "english": "when"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references."
+        }
+      ]
+    },
+    {
+      "word": "എങ്ങനെ",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-02-17c592263f9889e5",
+              "english": "which way?, how?"
+            },
+            {
+              "id": "moag-07-d6a15f8d0f5ffb45",
+              "english": "how"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references."
+        }
+      ]
+    },
+    {
+      "word": "ഇന്ന്",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-02-d3e5e2299bbf6328",
+              "english": "today"
+            },
+            {
+              "id": "moag-08-cfb8e7baa90f2e0d",
+              "english": "today"
+            },
+            {
+              "id": "moag-12-4a08ff60d61f9447",
+              "english": "today"
+            }
+          ],
+          "reason": "The same written form and source meaning recur in different lesson tables."
+        }
+      ]
+    },
+    {
+      "word": "പോകട്ടെ",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-08-22fa8e69742e7c44",
+              "english": "may (I) go, let (me) go (familiar leave taking)"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: taking leave. Merge only repetitions within this group.",
+          "cue": "taking leave"
+        },
+        {
+          "members": [
+            {
+              "id": "moag-11-fce02fba395f00e6",
+              "english": "(let) (it) go, it's OK"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: dismissing a concern. Merge only repetitions within this group.",
+          "cue": "dismissing a concern"
+        }
+      ]
+    },
+    {
+      "word": "കൂട്ടുകാരി",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-09-2809b9b71aad2070",
+              "english": "friend (feminine)"
+            },
+            {
+              "id": "moag-17-b933a865bf223228",
+              "english": "female friend; companion"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references.",
+          "meaning": "female friend; companion"
+        }
+      ]
+    },
+    {
+      "word": "കൂട്ടുകാരൻ",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-09-b4c37be81432ecaf",
+              "english": "friend (masculine)"
+            },
+            {
+              "id": "moag-17-95e99f94038d4867",
+              "english": "male friend; companion"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references.",
+          "meaning": "male friend; companion"
+        }
+      ]
+    },
+    {
+      "word": "വരെ",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-06-30822fb88cb5236b",
+              "english": "till, until (postposition; after a nominative noun)"
+            },
+            {
+              "id": "moag-10-fbb4e4e451a9f3da",
+              "english": "to, up to (takes nominative)"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references.",
+          "meaning": "to; up to; till; until (postposition)"
+        }
+      ]
+    },
+    {
+      "word": "മുന്നൂറ്",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-10-29e2f3fcaa3721d8",
+              "english": "three hundred"
+            },
+            {
+              "id": "moag-07-524ff35da40a0318",
+              "english": "300"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references."
+        }
+      ]
+    },
+    {
+      "word": "ആയിരുന്നു",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-11-a9f06c6df573cc2f",
+              "english": "was, were (past of ആണ്)"
+            },
+            {
+              "id": "moag-23-18759496283826a2",
+              "english": "was; were"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references."
+        }
+      ]
+    },
+    {
+      "word": "വേറെ",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-11-1d35a6e30e719735",
+              "english": "else, other, another"
+            },
+            {
+              "id": "moag-13-768643a459b39cad",
+              "english": "other"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references.",
+          "meaning": "else; other; another"
+        }
+      ]
+    },
+    {
+      "word": "മകൾ",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-12-b73a3b577acebfe9",
+              "english": "daughter"
+            },
+            {
+              "id": "moag-17-e44f4c6801aef60e",
+              "english": "daughter"
+            }
+          ],
+          "reason": "The same written form and source meaning recur in different lesson tables."
+        }
+      ]
+    },
+    {
+      "word": "കൂടുക",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-12-9720c84de3e67233",
+              "english": "to increase"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: describing an increase. Merge only repetitions within this group.",
+          "cue": "describing an increase"
+        },
+        {
+          "members": [
+            {
+              "id": "moag-20-e282609a38ed4bc9",
+              "english": "to gather (intransitive)"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: people coming together. Merge only repetitions within this group.",
+          "cue": "people coming together"
+        }
+      ]
+    },
+    {
+      "word": "കൂടെ",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-06-3cc8a9d730d1ed8e",
+              "english": "with (postposition; after a associative noun)"
+            },
+            {
+              "id": "moag-06-a7132e5d59fcbc70",
+              "english": "along with (postposition; after a possessive noun; also dative in colloquial speech)"
+            },
+            {
+              "id": "moag-12-b0d4d333bb825afc",
+              "english": "with (takes associated noun in possessive)"
+            }
+          ],
+          "reason": "The sources give the same accompaniment meaning with different case constructions. Retain the case information in source glosses, not duplicate lexical recall tasks.",
+          "meaning": "with; along with (postposition)"
+        }
+      ]
+    },
+    {
+      "word": "പോലെ",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-06-f66e944a118b00e7",
+              "english": "like (postposition; after a nominative noun)"
+            },
+            {
+              "id": "moag-13-4effda751285edca",
+              "english": "like, as"
+            },
+            {
+              "id": "moag-06-ced22a5be4761736",
+              "english": "like, as (with animate nouns only) (postposition; after a accusative noun)"
+            }
+          ],
+          "reason": "The shared comparison meaning is repeated in different case groups. Preserve the animate restriction and both source constructions in the occurrence records.",
+          "meaning": "like; as (postposition)"
+        }
+      ]
+    },
+    {
+      "word": "പറ്റി",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-06-a46bcd270f4ca842",
+              "english": "about, concerning (postposition; after a accusative noun)"
+            },
+            {
+              "id": "moag-14-9588e781923b50af",
+              "english": "about, concerning"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references.",
+          "meaning": "about; concerning (postposition)"
+        }
+      ]
+    },
+    {
+      "word": "ചുരുക്കം",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-14-922a80494ef508fe",
+              "english": "brief"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: describing length. Merge only repetitions within this group.",
+          "cue": "describing length"
+        },
+        {
+          "members": [
+            {
+              "id": "moag-25-7bdfe64e02e5ddb4",
+              "english": "few, scarce"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: describing quantity. Merge only repetitions within this group.",
+          "cue": "describing quantity"
+        }
+      ]
+    },
+    {
+      "word": "കാലം",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-14-472af7356c81d7c8",
+              "english": "season, time, era"
+            },
+            {
+              "id": "moag-20-ce1d7908e761381a",
+              "english": "time"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references.",
+          "meaning": "time; period; season; era"
+        }
+      ]
+    },
+    {
+      "word": "എന്തെങ്കിലും",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-16-e2df6c4dba59c14d",
+              "english": "something, anything"
+            },
+            {
+              "id": "moag-22-842f09af72d21e88",
+              "english": "something, any thing at all"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references.",
+          "meaning": "something; anything (indefinite expression)"
+        }
+      ]
+    },
+    {
+      "word": "കൂടാതെ",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-16-a42ed34e72484e76",
+              "english": "besides"
+            },
+            {
+              "id": "moag-06-15b03d82e0fdab6a",
+              "english": "in addition to, besides (with animate nouns only) (postposition; after a accusative noun)"
+            },
+            {
+              "id": "moag-06-ee92087767659149",
+              "english": "besides (with inanimate nouns) (postposition; after a nominative noun)"
+            }
+          ],
+          "reason": "The addition meaning repeats across the lesson and appendix case groups. Preserve their animate/inanimate restrictions in the source records.",
+          "meaning": "in addition to; besides (postposition)"
+        }
+      ]
+    },
+    {
+      "word": "സ്ഥലം",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-16-fda3d2126a2def47",
+              "english": "place"
+            },
+            {
+              "id": "moag-19-44a3afcda0aab90d",
+              "english": "place"
+            }
+          ],
+          "reason": "The same written form and source meaning recur in different lesson tables."
+        }
+      ]
+    },
+    {
+      "word": "ഏത്",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-03-60758e5b65037fd5",
+              "english": "which? (adjective)"
+            },
+            {
+              "id": "moag-16-441d38a60073ceef",
+              "english": "which?"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: before a noun. Merge only repetitions within this group.",
+          "cue": "before a noun"
+        },
+        {
+          "members": [
+            {
+              "id": "moag-03-04efad993f323e3d",
+              "english": "which?, which one? (pronoun)"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: standing in place of a noun. Merge only repetitions within this group.",
+          "cue": "standing in place of a noun"
+        }
+      ]
+    },
+    {
+      "word": "അര",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-17-77e53a623cc8f542",
+              "english": "half"
+            },
+            {
+              "id": "moag-07-08d07e4bed3bc8dc",
+              "english": "1/2"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references."
+        }
+      ]
+    },
+    {
+      "word": "ഇനിയും",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-18-9659c77f1d1e8189",
+              "english": "still more, more"
+            },
+            {
+              "id": "moag-19-eff7e5d2525dbd3b",
+              "english": "still; more; again"
+            }
+          ],
+          "reason": "Both source glosses and existing recall metadata overlap; retain still, more and again in the shared answer.",
+          "meaning": "still; more; again"
+        }
+      ]
+    },
+    {
+      "word": "ഇല്ലാതെ",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-18-d87c0f4a60267e16",
+              "english": "without (negative participle of ഉണ്ട്)"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: negative participle (Lesson 18). Merge only repetitions within this group.",
+          "cue": "negative participle (Lesson 18)"
+        },
+        {
+          "members": [
+            {
+              "id": "moag-06-faa22210c3c13d4e",
+              "english": "without, except, besides (postposition; after a nominative noun)"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: postposition (Appendix D). Merge only repetitions within this group.",
+          "cue": "postposition (Appendix D)"
+        }
+      ]
+    },
+    {
+      "word": "വെളിയിൽ",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-06-9e72bdec41c3adfd",
+              "english": "outside (postposition; after a possessive noun; also dative in colloquial speech)"
+            },
+            {
+              "id": "moag-19-2e8b418a9fc25e24",
+              "english": "outside, out of doors"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references.",
+          "meaning": "outside; out of doors"
+        }
+      ]
+    },
+    {
+      "word": "ഭയങ്കര",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-19-1d6a56f6e39a640b",
+              "english": "awful, frightful"
+            },
+            {
+              "id": "moag-22-0cd3da87692ce548",
+              "english": "huge, awful, frightful"
+            }
+          ],
+          "reason": "The later source repeats awful/frightful and adds huge; retain the broader source-listed answer on the shared note.",
+          "meaning": "huge; awful; frightful"
+        }
+      ]
+    },
+    {
+      "word": "വിശപ്പ്",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-19-92bafe88bf02a01b",
+              "english": "hunger"
+            },
+            {
+              "id": "moag-21-d6ad3211012cca28",
+              "english": "hunger"
+            }
+          ],
+          "reason": "The same written form and source meaning recur in different lesson tables."
+        }
+      ]
+    },
+    {
+      "word": "മുതൽ",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-06-5ca528746ca8594c",
+              "english": "from (postposition; after a nominative noun)"
+            },
+            {
+              "id": "moag-19-950d54ed54253413",
+              "english": "from; since"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references.",
+          "meaning": "from; since (a starting point)"
+        }
+      ]
+    },
+    {
+      "word": "പ്രകാരം",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-06-9f880a5995c2ff65",
+              "english": "according to, in (this) manner (postposition; after a nominative noun)"
+            },
+            {
+              "id": "moag-20-a97fb669d0016128",
+              "english": "according to (word final -ം of the preceding noun drops when പ്രകാര is added)"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references.",
+          "meaning": "according to; in this manner"
+        }
+      ]
+    },
+    {
+      "word": "കൊണ്ട്",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-06-7dfec21fb8bc71da",
+              "english": "with, by means of (postposition; after a accusative noun)"
+            },
+            {
+              "id": "moag-20-f31720a85efae5e3",
+              "english": "with or by means of (post pos. takes nominative)"
+            }
+          ],
+          "reason": "Both sources gloss the same instrumental postposition. Their nominative/accusative labels conflict; retain both source rows and flag the unresolved case description, rather than inventing a sense distinction.",
+          "meaning": "with; by means of (postposition)"
+        }
+      ]
+    },
+    {
+      "word": "അടിയിൽ",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-20-d2fdc12bce0036ff",
+              "english": "beneath, at the bottom of"
+            },
+            {
+              "id": "moag-06-cb3e396130f4ca89",
+              "english": "at the bottom, under (postposition; after a possessive noun; also dative in colloquial speech)"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references.",
+          "meaning": "beneath; at the bottom of; under"
+        }
+      ]
+    },
+    {
+      "word": "അനുസരിച്ച്",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-06-1ef0f5a0758a7dd3",
+              "english": "according to (postposition; after a nominative noun)"
+            },
+            {
+              "id": "moag-20-75cfbc4f0eb34310",
+              "english": "according to"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references.",
+          "meaning": "according to (postposition)"
+        }
+      ]
+    },
+    {
+      "word": "പിന്നിൽ",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-20-7285844a6d695d35",
+              "english": "behind (with possessive)"
+            },
+            {
+              "id": "moag-06-56be8af0aa7a5d6e",
+              "english": "behind, after, afterwards, following (postposition; after a possessive noun; also dative in colloquial speech)"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references.",
+          "meaning": "behind; at the back of; after; following"
+        }
+      ]
+    },
+    {
+      "word": "ആറ്",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-20-496e128e8141c467",
+              "english": "river"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: geography. Merge only repetitions within this group.",
+          "cue": "geography"
+        },
+        {
+          "members": [
+            {
+              "id": "moag-03-c55ce91b594d5af4",
+              "english": "six"
+            },
+            {
+              "id": "moag-07-3489eae337b6ae37",
+              "english": "6"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: number. Merge only repetitions within this group.",
+          "cue": "number"
+        }
+      ]
+    },
+    {
+      "word": "തിരിക്കുക",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-21-d4d013677987d506",
+              "english": "to turn, to turn around"
+            },
+            {
+              "id": "moag-23-7fbd42305d9c6b1f",
+              "english": "to turn something; colloquial (concerning travel), to proceed, to start"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references."
+        }
+      ]
+    },
+    {
+      "word": "അകത്ത്",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-06-eb969abdf101ec87",
+              "english": "inside, within (postposition; after a possessive noun; also dative in colloquial speech)"
+            },
+            {
+              "id": "moag-22-8c98663535798f22",
+              "english": "inside (locative of അകം)"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references.",
+          "meaning": "inside; within"
+        }
+      ]
+    },
+    {
+      "word": "കിടക്കുക",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-22-12d7d5499a2bbc50",
+              "english": "to lie down"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: describing posture. Merge only repetitions within this group.",
+          "cue": "describing posture"
+        },
+        {
+          "members": [
+            {
+              "id": "moag-23-4d72e1e366bc3614",
+              "english": "to stay over"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: an overnight visit. Merge only repetitions within this group.",
+          "cue": "an overnight visit"
+        }
+      ]
+    },
+    {
+      "word": "വേണ്ടി",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-06-3210688c80584dcd",
+              "english": "for, for the sake of (postposition; after a dative noun)"
+            },
+            {
+              "id": "moag-22-b94105a182be5628",
+              "english": "for, in order to (dative, infinitive)"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references.",
+          "meaning": "for; for the sake of; in order to"
+        }
+      ]
+    },
+    {
+      "word": "അല്ലാതെ",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-22-9aada3915484e76a",
+              "english": "otherwise"
+            },
+            {
+              "id": "moag-25-d0784bd24cb75eff",
+              "english": "instead"
+            }
+          ],
+          "reason": "The original glossary explicitly combines otherwise and instead; merge their overlapping recall task.",
+          "meaning": "otherwise; instead"
+        }
+      ]
+    },
+    {
+      "word": "അന്ന്",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-02-9f94238695d559f6",
+              "english": "that day"
+            },
+            {
+              "id": "moag-23-8a4eec0d6d452441",
+              "english": "that day"
+            }
+          ],
+          "reason": "The same written form and source meaning recur in different lesson tables."
+        }
+      ]
+    },
+    {
+      "word": "സമീപം",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-24-3f84ac0df53503db",
+              "english": "near, (in the) vicinity"
+            },
+            {
+              "id": "moag-06-437de08809c451a0",
+              "english": "nearby, by (postposition; after a possessive noun; also dative in colloquial speech)"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references.",
+          "meaning": "near; in the vicinity"
+        }
+      ]
+    },
+    {
+      "word": "തമ്മിൽ",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-24-a8e98370790510f5",
+              "english": "between"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: Lesson 24 vocabulary. Merge only repetitions within this group.",
+          "cue": "Lesson 24 vocabulary"
+        },
+        {
+          "members": [
+            {
+              "id": "moag-06-7000e9fd902aa1d1",
+              "english": "together, one another (postposition; after a nominative noun)"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: Appendix D postposition. Merge only repetitions within this group.",
+          "cue": "Appendix D postposition"
+        }
+      ]
+    },
+    {
+      "word": "നിങ്ങൾ",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-02-3e8af7d3421938f4",
+              "english": "you (polite singular)"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: addressing one person politely. Merge only repetitions within this group.",
+          "cue": "addressing one person politely"
+        },
+        {
+          "members": [
+            {
+              "id": "moag-02-1721b1abe1c260eb",
+              "english": "you (plural)"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: addressing several people. Merge only repetitions within this group.",
+          "cue": "addressing several people"
+        }
+      ]
+    },
+    {
+      "word": "ഇവർ",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-02-ffa894955b3eb28e",
+              "english": "she (formal; nearby)"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: formal reference to one woman nearby. Merge only repetitions within this group.",
+          "cue": "formal reference to one woman nearby"
+        },
+        {
+          "members": [
+            {
+              "id": "moag-02-3e2c70dace9860a6",
+              "english": "they (people nearby)"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: referring to several people nearby. Merge only repetitions within this group.",
+          "cue": "referring to several people nearby"
+        }
+      ]
+    },
+    {
+      "word": "രണ്ട്",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-03-9b3e0c3d7f01abbe",
+              "english": "two"
+            },
+            {
+              "id": "moag-07-21e3c31d39f3619c",
+              "english": "2"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references."
+        }
+      ]
+    },
+    {
+      "word": "മൂന്ന്",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-03-22acc7eab4767e17",
+              "english": "three"
+            },
+            {
+              "id": "moag-07-74e27c9763d9f144",
+              "english": "3"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references."
+        }
+      ]
+    },
+    {
+      "word": "നാല്",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-03-91814a76f3d05b4d",
+              "english": "four"
+            },
+            {
+              "id": "moag-07-2ca5dbafcf32c27b",
+              "english": "4"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references."
+        }
+      ]
+    },
+    {
+      "word": "ഏഴ്",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-03-e3e79abb65e2c3e7",
+              "english": "seven"
+            },
+            {
+              "id": "moag-07-70f884bf49819f85",
+              "english": "7"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references."
+        }
+      ]
+    },
+    {
+      "word": "എട്ട്",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-03-09dd7c4335f38e87",
+              "english": "eight"
+            },
+            {
+              "id": "moag-07-fceaf54d715697d3",
+              "english": "8"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references."
+        }
+      ]
+    },
+    {
+      "word": "ഒൻപത്",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-03-760ca541bc92f5c0",
+              "english": "nine"
+            },
+            {
+              "id": "moag-07-f353cddae3139e52",
+              "english": "9"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references."
+        }
+      ]
+    },
+    {
+      "word": "അവരുടെ",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-06-48fd3e56f215c284",
+              "english": "her (formal possessive)"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: formal reference to one woman. Merge only repetitions within this group.",
+          "cue": "formal reference to one woman"
+        },
+        {
+          "members": [
+            {
+              "id": "moag-06-fc212d955aa10962",
+              "english": "their (possessive)"
+            }
+          ],
+          "reason": "Retain this source-attested sense or construction separately: referring to several people. Merge only repetitions within this group.",
+          "cue": "referring to several people"
+        }
+      ]
+    },
+    {
+      "word": "ചുറ്റും",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-06-a70f09006a793adc",
+              "english": "all around, around (postposition; after a possessive noun)"
+            },
+            {
+              "id": "moag-06-45e6e86d1b3047f8",
+              "english": "around, around about (postposition; after a dative noun)"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references.",
+          "meaning": "around; all around"
+        }
+      ]
+    },
+    {
+      "word": "-ഓളം",
+      "groups": [
+        {
+          "members": [
+            {
+              "id": "moag-06-a3301811dd283fc0",
+              "english": "as much as; as great as; as far as, until (postposition; after a accusative noun)"
+            },
+            {
+              "id": "moag-06-e2e579214e1cab98",
+              "english": "as much as; as great as; as far as; until (postposition; after a locative noun)"
+            }
+          ],
+          "reason": "The source glosses describe the same lexical meaning with different wording or extra usage information; retain all source wording and references.",
+          "meaning": "as much as; as great as; as far as; until"
+        }
+      ]
+    }
+  ]
+}

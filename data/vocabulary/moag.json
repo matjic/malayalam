@@ -175,11 +175,74 @@
         }
       ],
       "chapter": 1,
-      "english": "your (plural or polite singular pronoun)",
+      "english": "your (plural or polite singular; possessive pronoun)",
       "id": "moag-01-4f34113e6ac5bbe5",
       "malayalam": "നിങ്ങളുടെ",
+      "occurrences": [
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_01_word_003.mp3",
+              "sha256": "6b4080f3c624e6e8b5746712cfb079539938f86a8a0d5403641bf5f26cf3e1cf",
+              "transcript": "നിങ്ങളുടെ"
+            }
+          ],
+          "chapter": 1,
+          "english": "your (plural or polite singular pronoun)",
+          "id": "moag-01-4f34113e6ac5bbe5",
+          "malayalam": "നിങ്ങളുടെ",
+          "origin": "textbook",
+          "source": "docs/lesson1.md"
+        },
+        {
+          "audio": [],
+          "category": "possessive_pronoun",
+          "chapter": 6,
+          "english": "your (plural possessive)",
+          "id": "moag-06-02a1c29233bc21fa",
+          "malayalam": "നിങ്ങളുടെ",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson6-possessive-of-personal-pronouns",
+              "category": "possessive_pronoun",
+              "source": "docs/lesson6.md"
+            }
+          ],
+          "source": "docs/lesson6.md",
+          "source_anchor": "lesson6-possessive-of-personal-pronouns",
+          "study": true
+        },
+        {
+          "audio": [],
+          "category": "possessive_pronoun",
+          "chapter": 6,
+          "english": "your (plural or polite singular pronoun)",
+          "id": "moag-06-9ef4fa1daa57bdc2",
+          "malayalam": "നിങ്ങളുടെ",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson6-possessive-of-personal-pronouns",
+              "category": "possessive_pronoun",
+              "source": "docs/lesson6.md"
+            }
+          ],
+          "source": "docs/lesson6.md",
+          "source_anchor": "lesson6-possessive-of-personal-pronouns",
+          "study": true
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson1.md"
+      "references": [
+        {
+          "anchor": "lesson6-possessive-of-personal-pronouns",
+          "category": "possessive_pronoun",
+          "source": "docs/lesson6.md"
+        }
+      ],
+      "source": "docs/lesson1.md",
+      "study": true
     },
     {
       "audio": [
@@ -194,7 +257,9 @@
       "id": "moag-01-5e94fe085cf72712",
       "malayalam": "പേര്",
       "origin": "textbook",
-      "source": "docs/lesson1.md"
+      "sense": "introducing someone",
+      "source": "docs/lesson1.md",
+      "study": true
     },
     {
       "audio": [
@@ -238,8 +303,52 @@
       "english": "my",
       "id": "moag-01-66132e58bb05b227",
       "malayalam": "എന്റെ",
+      "occurrences": [
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_01_word_007.mp3",
+              "sha256": "5d85a70030fd861a7f1e079dad99848065b175fff50dae738d5ad7bcfbbc925b",
+              "transcript": "എന്റെ"
+            }
+          ],
+          "chapter": 1,
+          "english": "my",
+          "id": "moag-01-66132e58bb05b227",
+          "malayalam": "എന്റെ",
+          "origin": "textbook",
+          "source": "docs/lesson1.md"
+        },
+        {
+          "audio": [],
+          "category": "possessive_pronoun",
+          "chapter": 6,
+          "english": "my",
+          "id": "moag-06-2179e7162c7aaff6",
+          "malayalam": "എന്റെ",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson6-possessive-of-personal-pronouns",
+              "category": "possessive_pronoun",
+              "source": "docs/lesson6.md"
+            }
+          ],
+          "source": "docs/lesson6.md",
+          "source_anchor": "lesson6-possessive-of-personal-pronouns",
+          "study": true
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson1.md"
+      "references": [
+        {
+          "anchor": "lesson6-possessive-of-personal-pronouns",
+          "category": "possessive_pronoun",
+          "source": "docs/lesson6.md"
+        }
+      ],
+      "source": "docs/lesson1.md",
+      "study": true
     },
     {
       "audio": [
@@ -247,14 +356,53 @@
           "path": "docs/assets/audio/moag/words/lesson_01_word_008.mp3",
           "sha256": "c37c428f8e5a7a4292a404a5d9865606eefc0b64105df2215fbead3238710dd3",
           "transcript": "എന്ന്"
+        },
+        {
+          "path": "docs/assets/audio/moag/words/lesson_12_word_011.mp3",
+          "sha256": "154c4cc314699314d6687660d58cc54a9c432019f5e057266501ddb13547d923",
+          "transcript": "എന്ന്"
         }
       ],
       "chapter": 1,
-      "english": "Quotative or Citation Marker (placed after the quoted element)",
+      "english": "quotation marker (placed after a direct or indirect quotation)",
       "id": "moag-01-251fcdc06702f751",
       "malayalam": "എന്ന്",
+      "occurrences": [
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_01_word_008.mp3",
+              "sha256": "c37c428f8e5a7a4292a404a5d9865606eefc0b64105df2215fbead3238710dd3",
+              "transcript": "എന്ന്"
+            }
+          ],
+          "chapter": 1,
+          "english": "Quotative or Citation Marker (placed after the quoted element)",
+          "id": "moag-01-251fcdc06702f751",
+          "malayalam": "എന്ന്",
+          "origin": "textbook",
+          "source": "docs/lesson1.md"
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_12_word_011.mp3",
+              "sha256": "154c4cc314699314d6687660d58cc54a9c432019f5e057266501ddb13547d923",
+              "transcript": "എന്ന്"
+            }
+          ],
+          "chapter": 12,
+          "english": "quotation marker required at the end of a direct or indirect quotation",
+          "id": "moag-12-1b2be979e6d2661b",
+          "malayalam": "എന്ന്",
+          "origin": "textbook",
+          "source": "docs/lesson12.md"
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson1.md"
+      "sense": "reporting speech",
+      "source": "docs/lesson1.md",
+      "study": true
     },
     {
       "audio": [
@@ -268,8 +416,52 @@
       "english": "he (informal)",
       "id": "moag-01-e1a2806cbc95461e",
       "malayalam": "അവൻ",
+      "occurrences": [
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_01_word_009.mp3",
+              "sha256": "3f8385c1f95b0e5a69d7f4ecbe27f504df212b7a2ae5ffb492fbf36f5d44aba3",
+              "transcript": "അവൻ"
+            }
+          ],
+          "chapter": 1,
+          "english": "he (informal)",
+          "id": "moag-01-e1a2806cbc95461e",
+          "malayalam": "അവൻ",
+          "origin": "textbook",
+          "source": "docs/lesson1.md"
+        },
+        {
+          "audio": [],
+          "category": "personal_pronoun",
+          "chapter": 2,
+          "english": "he (informal; at a distance)",
+          "id": "moag-02-79b51a4e328ce6e1",
+          "malayalam": "അവൻ",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson2-a-personal-pronouns",
+              "category": "personal_pronoun",
+              "source": "docs/lesson2.md"
+            }
+          ],
+          "source": "docs/lesson2.md",
+          "source_anchor": "lesson2-a-personal-pronouns",
+          "study": true
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson1.md"
+      "references": [
+        {
+          "anchor": "lesson2-a-personal-pronouns",
+          "category": "personal_pronoun",
+          "source": "docs/lesson2.md"
+        }
+      ],
+      "source": "docs/lesson1.md",
+      "study": true
     },
     {
       "audio": [
@@ -328,8 +520,52 @@
       "english": "she (informal)",
       "id": "moag-01-60eae63769e09f95",
       "malayalam": "അവൾ",
+      "occurrences": [
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_01_word_013.mp3",
+              "sha256": "261bd7ad1e095bf4f73a5ed3bcb56fe4008762e9e8d23f8018262c0b400eca09",
+              "transcript": "അവൾ"
+            }
+          ],
+          "chapter": 1,
+          "english": "she (informal)",
+          "id": "moag-01-60eae63769e09f95",
+          "malayalam": "അവൾ",
+          "origin": "textbook",
+          "source": "docs/lesson1.md"
+        },
+        {
+          "audio": [],
+          "category": "personal_pronoun",
+          "chapter": 2,
+          "english": "she (informal; at a distance)",
+          "id": "moag-02-45f18f99164f5307",
+          "malayalam": "അവൾ",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson2-a-personal-pronouns",
+              "category": "personal_pronoun",
+              "source": "docs/lesson2.md"
+            }
+          ],
+          "source": "docs/lesson2.md",
+          "source_anchor": "lesson2-a-personal-pronouns",
+          "study": true
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson1.md"
+      "references": [
+        {
+          "anchor": "lesson2-a-personal-pronouns",
+          "category": "personal_pronoun",
+          "source": "docs/lesson2.md"
+        }
+      ],
+      "source": "docs/lesson1.md",
+      "study": true
     },
     {
       "audio": [
@@ -358,8 +594,52 @@
       "english": "he (formal)",
       "id": "moag-01-82648d7e9c6738b9",
       "malayalam": "അദ്ദേഹം",
+      "occurrences": [
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_01_word_015.mp3",
+              "sha256": "8bff9a9e0a9213628e5f60beb474d5b1e68671aa196cba3719b74970dde036f6",
+              "transcript": "അദ്ദേഹം"
+            }
+          ],
+          "chapter": 1,
+          "english": "he (formal)",
+          "id": "moag-01-82648d7e9c6738b9",
+          "malayalam": "അദ്ദേഹം",
+          "origin": "textbook",
+          "source": "docs/lesson1.md"
+        },
+        {
+          "audio": [],
+          "category": "personal_pronoun",
+          "chapter": 2,
+          "english": "he (formal; at a distance)",
+          "id": "moag-02-dc38fb82ce99a23d",
+          "malayalam": "അദ്ദേഹം",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson2-a-personal-pronouns",
+              "category": "personal_pronoun",
+              "source": "docs/lesson2.md"
+            }
+          ],
+          "source": "docs/lesson2.md",
+          "source_anchor": "lesson2-a-personal-pronouns",
+          "study": true
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson1.md"
+      "references": [
+        {
+          "anchor": "lesson2-a-personal-pronouns",
+          "category": "personal_pronoun",
+          "source": "docs/lesson2.md"
+        }
+      ],
+      "source": "docs/lesson1.md",
+      "study": true
     },
     {
       "audio": [
@@ -385,11 +665,55 @@
         }
       ],
       "chapter": 1,
-      "english": "this (thing)",
+      "english": "this; this one (pronoun)",
       "id": "moag-01-ec78c93eb857b15d",
       "malayalam": "ഇത്",
+      "occurrences": [
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_01_word_017.mp3",
+              "sha256": "70b0e6ac8c8a1083754124f63a2c3cfafaa19b2a389cef3512b95b8209c74069",
+              "transcript": "ഇത്"
+            }
+          ],
+          "chapter": 1,
+          "english": "this (thing)",
+          "id": "moag-01-ec78c93eb857b15d",
+          "malayalam": "ഇത്",
+          "origin": "textbook",
+          "source": "docs/lesson1.md"
+        },
+        {
+          "audio": [],
+          "category": "demonstrative",
+          "chapter": 3,
+          "english": "this, this one (pronoun)",
+          "id": "moag-03-9baa1fded7b99f98",
+          "malayalam": "ഇത്",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson3-demonstratives",
+              "category": "demonstrative",
+              "source": "docs/lesson3.md"
+            }
+          ],
+          "source": "docs/lesson3.md",
+          "source_anchor": "lesson3-demonstratives",
+          "study": true
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson1.md"
+      "references": [
+        {
+          "anchor": "lesson3-demonstratives",
+          "category": "demonstrative",
+          "source": "docs/lesson3.md"
+        }
+      ],
+      "source": "docs/lesson1.md",
+      "study": true
     },
     {
       "audio": [],
@@ -418,11 +742,49 @@
     {
       "audio": [],
       "chapter": 1,
-      "english": "that (thing)",
+      "english": "that; that one (pronoun)",
       "id": "moag-01-3967297b14f653e8",
       "malayalam": "അത്",
+      "occurrences": [
+        {
+          "audio": [],
+          "chapter": 1,
+          "english": "that (thing)",
+          "id": "moag-01-3967297b14f653e8",
+          "malayalam": "അത്",
+          "origin": "textbook",
+          "source": "docs/lesson1.md"
+        },
+        {
+          "audio": [],
+          "category": "demonstrative",
+          "chapter": 3,
+          "english": "that, that one (pronoun)",
+          "id": "moag-03-78ccf6f3a635de70",
+          "malayalam": "അത്",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson3-demonstratives",
+              "category": "demonstrative",
+              "source": "docs/lesson3.md"
+            }
+          ],
+          "source": "docs/lesson3.md",
+          "source_anchor": "lesson3-demonstratives",
+          "study": true
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson1.md"
+      "references": [
+        {
+          "anchor": "lesson3-demonstratives",
+          "category": "demonstrative",
+          "source": "docs/lesson3.md"
+        }
+      ],
+      "source": "docs/lesson1.md",
+      "study": true
     },
     {
       "audio": [
@@ -714,23 +1076,94 @@
           "path": "docs/assets/audio/moag/words/lesson_02_word_013.mp3",
           "sha256": "815741bb60d5b6d7c535a31f0ac84cad34a2427eccf005d6da751519a1007d42",
           "transcript": "ഇല്ല"
+        },
+        {
+          "path": "docs/assets/audio/moag/words/lesson_05_word_010.mp3",
+          "sha256": "ccbd8dd121b8ad2fd5360c81dfb7c8cd087257ca026cb8398b9e9490d9371c84",
+          "transcript": "ഇല്ല"
         }
       ],
       "chapter": 2,
       "english": "no",
       "id": "moag-02-cb36ca89fba040db",
       "malayalam": "ഇല്ല",
+      "occurrences": [
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_02_word_013.mp3",
+              "sha256": "815741bb60d5b6d7c535a31f0ac84cad34a2427eccf005d6da751519a1007d42",
+              "transcript": "ഇല്ല"
+            }
+          ],
+          "chapter": 2,
+          "english": "no",
+          "id": "moag-02-cb36ca89fba040db",
+          "malayalam": "ഇല്ല",
+          "origin": "textbook",
+          "source": "docs/lesson2.md"
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_05_word_010.mp3",
+              "sha256": "ccbd8dd121b8ad2fd5360c81dfb7c8cd087257ca026cb8398b9e9490d9371c84",
+              "transcript": "ഇല്ല"
+            }
+          ],
+          "chapter": 5,
+          "english": "no, (negative of the verb ഉണ്ട്)",
+          "id": "moag-05-b3bf20836e321434",
+          "malayalam": "ഇല്ല",
+          "origin": "textbook",
+          "source": "docs/lesson5.md"
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson2.md"
+      "source": "docs/lesson2.md",
+      "study": true
     },
     {
-      "audio": [],
+      "audio": [
+        {
+          "path": "docs/assets/audio/moag/words/lesson_03_word_012.mp3",
+          "sha256": "39b4c0892e91e8404c5057d411f6c2a6c849540ed76637fff7e8a4e80b0642d7",
+          "transcript": "നമസ്കാരം"
+        }
+      ],
       "chapter": 2,
       "english": "a formal greeting (literally “I bow to you,” also നമസ്തേ)",
       "id": "moag-02-9cd302f8012c44de",
       "malayalam": "നമസ്കാരം",
+      "occurrences": [
+        {
+          "audio": [],
+          "chapter": 2,
+          "english": "a formal greeting (literally “I bow to you,” also നമസ്തേ)",
+          "id": "moag-02-9cd302f8012c44de",
+          "malayalam": "നമസ്കാരം",
+          "origin": "textbook",
+          "source": "docs/lesson2.md"
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_03_word_012.mp3",
+              "sha256": "39b4c0892e91e8404c5057d411f6c2a6c849540ed76637fff7e8a4e80b0642d7",
+              "transcript": "നമസ്കാരം"
+            }
+          ],
+          "chapter": 3,
+          "english": "greetings; hello",
+          "id": "moag-03-453477f43b1eb05f",
+          "malayalam": "നമസ്കാരം",
+          "origin": "recorded_addition",
+          "source": "docs/lesson3.md"
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson2.md"
+      "source": "docs/lesson2.md",
+      "study": true
     },
     {
       "audio": [
@@ -827,14 +1260,52 @@
           "path": "docs/assets/audio/moag/words/lesson_02_word_019.mp3",
           "sha256": "2759b72d2def651499451e13047e84dde3ec5af8408247906e61c26c2fe60162",
           "transcript": "ഒരു"
+        },
+        {
+          "path": "docs/assets/audio/moag/words/lesson_04_word_001.mp3",
+          "sha256": "705bd8ca795cea2c78418974c5fb6871bd309e00cc9ecf2146d99a3ecd99f62b",
+          "transcript": "ഒരു"
         }
       ],
       "chapter": 2,
       "english": "one (indefinite article)",
       "id": "moag-02-a0f27ba26d9a2cbc",
       "malayalam": "ഒരു",
+      "occurrences": [
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_02_word_019.mp3",
+              "sha256": "2759b72d2def651499451e13047e84dde3ec5af8408247906e61c26c2fe60162",
+              "transcript": "ഒരു"
+            }
+          ],
+          "chapter": 2,
+          "english": "one (indefinite article)",
+          "id": "moag-02-a0f27ba26d9a2cbc",
+          "malayalam": "ഒരു",
+          "origin": "textbook",
+          "source": "docs/lesson2.md"
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_04_word_001.mp3",
+              "sha256": "705bd8ca795cea2c78418974c5fb6871bd309e00cc9ecf2146d99a3ecd99f62b",
+              "transcript": "ഒരു"
+            }
+          ],
+          "chapter": 4,
+          "english": "a, one (indefinite article)",
+          "id": "moag-04-2230dc458171c43c",
+          "malayalam": "ഒരു",
+          "origin": "textbook",
+          "source": "docs/lesson4.md"
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson2.md"
+      "source": "docs/lesson2.md",
+      "study": true
     },
     {
       "audio": [
@@ -864,7 +1335,9 @@
       "id": "moag-02-64e3311db378b45f",
       "malayalam": "-ഉം",
       "origin": "textbook",
-      "source": "docs/lesson2.md"
+      "sense": "adding another item",
+      "source": "docs/lesson2.md",
+      "study": true
     },
     {
       "audio": [
@@ -878,8 +1351,52 @@
       "english": "this (adjective)",
       "id": "moag-02-7a94791f180da43d",
       "malayalam": "ഈ",
+      "occurrences": [
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_02_word_022.mp3",
+              "sha256": "8b686847525aad3d89512fedbac8cb5581a26d0c9cbf157e91694fcd8bc0c3e1",
+              "transcript": "ഈ"
+            }
+          ],
+          "chapter": 2,
+          "english": "this (adjective)",
+          "id": "moag-02-7a94791f180da43d",
+          "malayalam": "ഈ",
+          "origin": "textbook",
+          "source": "docs/lesson2.md"
+        },
+        {
+          "audio": [],
+          "category": "demonstrative",
+          "chapter": 3,
+          "english": "this (adjective)",
+          "id": "moag-03-627462679f441e4d",
+          "malayalam": "ഈ",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson3-demonstratives",
+              "category": "demonstrative",
+              "source": "docs/lesson3.md"
+            }
+          ],
+          "source": "docs/lesson3.md",
+          "source_anchor": "lesson3-demonstratives",
+          "study": true
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson2.md"
+      "references": [
+        {
+          "anchor": "lesson3-demonstratives",
+          "category": "demonstrative",
+          "source": "docs/lesson3.md"
+        }
+      ],
+      "source": "docs/lesson2.md",
+      "study": true
     },
     {
       "audio": [
@@ -1022,21 +1539,6 @@
     {
       "audio": [
         {
-          "path": "docs/assets/audio/moag/words/lesson_03_word_007.mp3",
-          "sha256": "6c420a3e62e129772340230a6501d40f74edf71d9cd389abd45f17089a49b711",
-          "transcript": "ഇങ്ങോട്ട്"
-        }
-      ],
-      "chapter": 3,
-      "english": "this way, over here",
-      "id": "moag-03-256210fce84577b9",
-      "malayalam": "ഇങ്ങോട്ട്",
-      "origin": "textbook",
-      "source": "docs/lesson3.md"
-    },
-    {
-      "audio": [
-        {
           "path": "docs/assets/audio/moag/words/lesson_03_word_008.mp3",
           "sha256": "03184eb53ea1038f38415c219616c08f0cff5ada718d4b67e7db6c5dd9af02bf",
           "transcript": "വരൂ"
@@ -1101,7 +1603,9 @@
       "id": "moag-03-c9618c9463cca5ea",
       "malayalam": "സുഖം",
       "origin": "textbook",
-      "source": "docs/lesson3.md"
+      "sense": "asking about health",
+      "source": "docs/lesson3.md",
+      "study": true
     },
     {
       "audio": [
@@ -1188,7 +1692,9 @@
       "id": "moag-03-d9af1b64f1d383af",
       "malayalam": "പേര്",
       "origin": "textbook",
-      "source": "docs/lesson3.md"
+      "sense": "counting people",
+      "source": "docs/lesson3.md",
+      "study": true
     },
     {
       "audio": [
@@ -1202,45 +1708,64 @@
       "english": "five",
       "id": "moag-03-61967f8a29108f3b",
       "malayalam": "അഞ്ച്",
+      "occurrences": [
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_03_word_018.mp3",
+              "sha256": "66f63154a01bf3b8b10fa65f44ffbb3faf50e97c2ba6a4eb4316e49d939323e0",
+              "transcript": "അഞ്ച്"
+            }
+          ],
+          "chapter": 3,
+          "english": "five",
+          "id": "moag-03-61967f8a29108f3b",
+          "malayalam": "അഞ്ച്",
+          "origin": "textbook",
+          "references": [
+            {
+              "anchor": "lesson3-numbers",
+              "category": "number",
+              "source": "docs/lesson3.md"
+            }
+          ],
+          "source": "docs/lesson3.md"
+        },
+        {
+          "audio": [],
+          "category": "number",
+          "chapter": 7,
+          "english": "5",
+          "id": "moag-07-c6c3e46d66c0ef38",
+          "malayalam": "അഞ്ച്",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
+              "category": "number",
+              "source": "docs/lesson7.md"
+            }
+          ],
+          "source": "docs/lesson7.md",
+          "source_anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
+          "study": false
+        }
+      ],
       "origin": "textbook",
       "references": [
         {
           "anchor": "lesson3-numbers",
           "category": "number",
           "source": "docs/lesson3.md"
-        }
-      ],
-      "source": "docs/lesson3.md"
-    },
-    {
-      "audio": [
+        },
         {
-          "path": "docs/assets/audio/moag/words/lesson_03_word_019.mp3",
-          "sha256": "93e4b6843a62ccfb28b81bb5ec59955a2202afaa2d05bf3282501b4bd970c625",
-          "transcript": "ഞങ്ങൾ"
+          "anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
+          "category": "number",
+          "source": "docs/lesson7.md"
         }
       ],
-      "chapter": 3,
-      "english": "we (excluding listener)",
-      "id": "moag-03-ee1a778c0f4cde44",
-      "malayalam": "ഞങ്ങൾ",
-      "origin": "textbook",
-      "source": "docs/lesson3.md"
-    },
-    {
-      "audio": [
-        {
-          "path": "docs/assets/audio/moag/words/lesson_03_word_020.mp3",
-          "sha256": "81e47b9e9c65ee1fdf79bb3aac001f0b2a16703861b2343129f7e94636eb35b5",
-          "transcript": "അവർ"
-        }
-      ],
-      "chapter": 3,
-      "english": "they",
-      "id": "moag-03-117549876b0565eb",
-      "malayalam": "അവർ",
-      "origin": "textbook",
-      "source": "docs/lesson3.md"
+      "source": "docs/lesson3.md",
+      "study": true
     },
     {
       "audio": [
@@ -1300,7 +1825,9 @@
       "id": "moag-03-63abc795b9126fef",
       "malayalam": "-ഉം",
       "origin": "textbook",
-      "source": "docs/lesson3.md"
+      "sense": "joining items in a list",
+      "source": "docs/lesson3.md",
+      "study": true
     },
     {
       "audio": [
@@ -1366,15 +1893,64 @@
       "english": "ten",
       "id": "moag-03-1d67897aac8a2894",
       "malayalam": "പത്ത്",
+      "occurrences": [
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_03_word_028.mp3",
+              "sha256": "90b157c14021559ee4ae10d0ec226c971a14aea1c528a1f72fb10ef4fb1618df",
+              "transcript": "പത്ത്"
+            }
+          ],
+          "chapter": 3,
+          "english": "ten",
+          "id": "moag-03-1d67897aac8a2894",
+          "malayalam": "പത്ത്",
+          "origin": "textbook",
+          "references": [
+            {
+              "anchor": "lesson3-numbers",
+              "category": "number",
+              "source": "docs/lesson3.md"
+            }
+          ],
+          "source": "docs/lesson3.md"
+        },
+        {
+          "audio": [],
+          "category": "number",
+          "chapter": 7,
+          "english": "10",
+          "id": "moag-07-e214b2c26011741a",
+          "malayalam": "പത്ത്",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
+              "category": "number",
+              "source": "docs/lesson7.md"
+            }
+          ],
+          "source": "docs/lesson7.md",
+          "source_anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
+          "study": false
+        }
+      ],
       "origin": "textbook",
       "references": [
         {
           "anchor": "lesson3-numbers",
           "category": "number",
           "source": "docs/lesson3.md"
+        },
+        {
+          "anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
+          "category": "number",
+          "source": "docs/lesson7.md"
         }
       ],
-      "source": "docs/lesson3.md"
+      "source": "docs/lesson3.md",
+      "study": true
     },
     {
       "audio": [
@@ -1474,51 +2050,6 @@
       "malayalam": "കൈയിൽ",
       "origin": "recorded_addition",
       "source": "docs/lesson3.md"
-    },
-    {
-      "audio": [
-        {
-          "path": "docs/assets/audio/moag/words/lesson_03_word_011.mp3",
-          "sha256": "5a3e3329ada4cf0ad1f32dd6e495b91e220d94a7cc2b55c8f081a77991598381",
-          "transcript": "ഇപ്പോൾ"
-        }
-      ],
-      "chapter": 3,
-      "english": "now",
-      "id": "moag-03-c7788e13ecedff91",
-      "malayalam": "ഇപ്പോൾ",
-      "origin": "recorded_addition",
-      "source": "docs/lesson3.md"
-    },
-    {
-      "audio": [
-        {
-          "path": "docs/assets/audio/moag/words/lesson_03_word_012.mp3",
-          "sha256": "39b4c0892e91e8404c5057d411f6c2a6c849540ed76637fff7e8a4e80b0642d7",
-          "transcript": "നമസ്കാരം"
-        }
-      ],
-      "chapter": 3,
-      "english": "greetings; hello",
-      "id": "moag-03-453477f43b1eb05f",
-      "malayalam": "നമസ്കാരം",
-      "origin": "recorded_addition",
-      "source": "docs/lesson3.md"
-    },
-    {
-      "audio": [
-        {
-          "path": "docs/assets/audio/moag/words/lesson_04_word_001.mp3",
-          "sha256": "705bd8ca795cea2c78418974c5fb6871bd309e00cc9ecf2146d99a3ecd99f62b",
-          "transcript": "ഒരു"
-        }
-      ],
-      "chapter": 4,
-      "english": "a, one (indefinite article)",
-      "id": "moag-04-2230dc458171c43c",
-      "malayalam": "ഒരു",
-      "origin": "textbook",
-      "source": "docs/lesson4.md"
     },
     {
       "audio": [
@@ -1643,21 +2174,6 @@
     {
       "audio": [
         {
-          "path": "docs/assets/audio/moag/words/lesson_04_word_010.mp3",
-          "sha256": "b275f1023b1b6f9a542ba397ff887ba43a87fcfcb3e09ba4316e0cad295f9fcd",
-          "transcript": "അപ്പോൾ"
-        }
-      ],
-      "chapter": 4,
-      "english": "then",
-      "id": "moag-04-2d4f49f1f8156ef9",
-      "malayalam": "അപ്പോൾ",
-      "origin": "textbook",
-      "source": "docs/lesson4.md"
-    },
-    {
-      "audio": [
-        {
           "path": "docs/assets/audio/moag/words/lesson_04_word_011.mp3",
           "sha256": "397fffb0133d2eecf46ab3326a73f32bcbaa83746303fac49a3328d8b83c2b40",
           "transcript": "കാപ്പി"
@@ -1676,12 +2192,66 @@
           "path": "docs/assets/audio/moag/words/lesson_04_word_012.mp3",
           "sha256": "7b646bb280c0265f14070ec9d1be939c397b2c905b5c4d5f2d85be53e97028ba",
           "transcript": "എനിക്ക്"
+        },
+        {
+          "path": "docs/assets/audio/moag/words/lesson_19_word_025.mp3",
+          "sha256": "2cdf5f4801de597e2a8b55999eb9d8cf3562fa34a2e431cdefbe47a3e1af02f9",
+          "transcript": "എനിക്ക്"
+        },
+        {
+          "path": "docs/assets/audio/moag/words/lesson_19_word_043.mp3",
+          "sha256": "2e8a721d9bfd90b46acc5404e508aea2dcc7ca54b5ac428b3c54f7e443860c38",
+          "transcript": "എനിക്ക്"
         }
       ],
       "chapter": 4,
       "english": "me, to me (dative)",
       "id": "moag-04-fa9a84cd0f051b68",
       "malayalam": "എനിക്ക്",
+      "occurrences": [
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_04_word_012.mp3",
+              "sha256": "7b646bb280c0265f14070ec9d1be939c397b2c905b5c4d5f2d85be53e97028ba",
+              "transcript": "എനിക്ക്"
+            }
+          ],
+          "chapter": 4,
+          "english": "me, to me (dative)",
+          "id": "moag-04-fa9a84cd0f051b68",
+          "malayalam": "എനിക്ക്",
+          "origin": "textbook",
+          "references": [
+            {
+              "anchor": "lesson4-dative-of-personal-pronouns",
+              "category": "dative_pronoun",
+              "source": "docs/lesson4.md"
+            }
+          ],
+          "source": "docs/lesson4.md"
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_19_word_025.mp3",
+              "sha256": "2cdf5f4801de597e2a8b55999eb9d8cf3562fa34a2e431cdefbe47a3e1af02f9",
+              "transcript": "എനിക്ക്"
+            },
+            {
+              "path": "docs/assets/audio/moag/words/lesson_19_word_043.mp3",
+              "sha256": "2e8a721d9bfd90b46acc5404e508aea2dcc7ca54b5ac428b3c54f7e443860c38",
+              "transcript": "എനിക്ക്"
+            }
+          ],
+          "chapter": 19,
+          "english": "to me; for me",
+          "id": "moag-19-3be9cbb784d83999",
+          "malayalam": "എനിക്ക്",
+          "origin": "recorded_addition",
+          "source": "docs/lesson19.md"
+        }
+      ],
       "origin": "textbook",
       "references": [
         {
@@ -1690,7 +2260,8 @@
           "source": "docs/lesson4.md"
         }
       ],
-      "source": "docs/lesson4.md"
+      "source": "docs/lesson4.md",
+      "study": true
     },
     {
       "audio": [
@@ -1773,14 +2344,52 @@
           "path": "docs/assets/audio/moag/words/lesson_04_word_018.mp3",
           "sha256": "a03c5930d5138ad73000f0199d165639bda047d9f8600a78da7689a90cfd4be0",
           "transcript": "കുറച്ച്"
+        },
+        {
+          "path": "docs/assets/audio/moag/words/lesson_07_word_005.mp3",
+          "sha256": "bc76f4ae95e1f124fae01e7da8fe7f57b6cb9902e321fb775cd324d8758332bc",
+          "transcript": "കുറച്ച്"
         }
       ],
       "chapter": 4,
-      "english": "a little",
+      "english": "a little; a few",
       "id": "moag-04-280424d8a43727c3",
       "malayalam": "കുറച്ച്",
+      "occurrences": [
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_04_word_018.mp3",
+              "sha256": "a03c5930d5138ad73000f0199d165639bda047d9f8600a78da7689a90cfd4be0",
+              "transcript": "കുറച്ച്"
+            }
+          ],
+          "chapter": 4,
+          "english": "a little",
+          "id": "moag-04-280424d8a43727c3",
+          "malayalam": "കുറച്ച്",
+          "origin": "textbook",
+          "source": "docs/lesson4.md"
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_07_word_005.mp3",
+              "sha256": "bc76f4ae95e1f124fae01e7da8fe7f57b6cb9902e321fb775cd324d8758332bc",
+              "transcript": "കുറച്ച്"
+            }
+          ],
+          "chapter": 7,
+          "english": "a little; a few",
+          "id": "moag-07-4e578c858bf7abe0",
+          "malayalam": "കുറച്ച്",
+          "origin": "recorded_addition",
+          "source": "docs/lesson7.md"
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson4.md"
+      "source": "docs/lesson4.md",
+      "study": true
     },
     {
       "audio": [
@@ -1795,7 +2404,9 @@
       "id": "moag-04-dbec2728055e756d",
       "malayalam": "കൂടി",
       "origin": "textbook",
-      "source": "docs/lesson4.md"
+      "sense": "asking for an additional amount",
+      "source": "docs/lesson4.md",
+      "study": true
     },
     {
       "audio": [
@@ -1952,7 +2563,9 @@
       "id": "moag-04-0deb8d0e955bde6e",
       "malayalam": "ഒന്ന്",
       "origin": "textbook",
-      "source": "docs/lesson4.md"
+      "sense": "making a polite request",
+      "source": "docs/lesson4.md",
+      "study": true
     },
     {
       "audio": [
@@ -2122,21 +2735,6 @@
     {
       "audio": [
         {
-          "path": "docs/assets/audio/moag/words/lesson_05_word_010.mp3",
-          "sha256": "ccbd8dd121b8ad2fd5360c81dfb7c8cd087257ca026cb8398b9e9490d9371c84",
-          "transcript": "ഇല്ല"
-        }
-      ],
-      "chapter": 5,
-      "english": "no, (negative of the verb ഉണ്ട്)",
-      "id": "moag-05-b3bf20836e321434",
-      "malayalam": "ഇല്ല",
-      "origin": "textbook",
-      "source": "docs/lesson5.md"
-    },
-    {
-      "audio": [
-        {
           "path": "docs/assets/audio/moag/words/lesson_05_word_011.mp3",
           "sha256": "9ea8509ce04c5030d9f079dc16c5ae1c3d4326d13937cedfef2af785e163669e",
           "transcript": "ഇല്ലേ?"
@@ -2206,21 +2804,6 @@
       "english": "isn’t, aren’t, you, they, etc. (question form of അല്ല)",
       "id": "moag-05-9a459f61acc8ae7f",
       "malayalam": "അല്ലേ?",
-      "origin": "textbook",
-      "source": "docs/lesson5.md"
-    },
-    {
-      "audio": [
-        {
-          "path": "docs/assets/audio/moag/words/lesson_05_word_016.mp3",
-          "sha256": "a8ba0c50f014b0c264a8eed0d3009ab5c0521eee89d07d807de688fee94be9b6",
-          "transcript": "അങ്ങനെ"
-        }
-      ],
-      "chapter": 5,
-      "english": "that way, like that",
-      "id": "moag-05-caddff479651a34b",
-      "malayalam": "അങ്ങനെ",
       "origin": "textbook",
       "source": "docs/lesson5.md"
     },
@@ -2313,11 +2896,55 @@
         }
       ],
       "chapter": 6,
-      "english": "(adverb) near, close by, next to, close to (postposition)",
+      "english": "near; close by; next to",
       "id": "moag-06-b27435b0b200d0b4",
       "malayalam": "അടുത്ത്",
+      "occurrences": [
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_06_word_001.mp3",
+              "sha256": "132eaa095d2cbbc6b4917d85e61e99e925e50f1355124b93bf1ee9c8c9ab243e",
+              "transcript": "അടുത്ത്"
+            }
+          ],
+          "chapter": 6,
+          "english": "(adverb) near, close by, next to, close to (postposition)",
+          "id": "moag-06-b27435b0b200d0b4",
+          "malayalam": "അടുത്ത്",
+          "origin": "textbook",
+          "source": "docs/lesson6.md"
+        },
+        {
+          "audio": [],
+          "category": "postposition",
+          "chapter": 6,
+          "english": "near by, by (postposition; after a possessive noun; also dative in colloquial speech)",
+          "id": "moag-06-d4257e58631b4448",
+          "malayalam": "അടുത്ത്",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "appendix-d-possessive",
+              "category": "postposition",
+              "source": "docs/appendix-d.md"
+            }
+          ],
+          "source": "docs/appendix-d.md",
+          "source_anchor": "appendix-d-possessive",
+          "study": true
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson6.md"
+      "references": [
+        {
+          "anchor": "appendix-d-possessive",
+          "category": "postposition",
+          "source": "docs/appendix-d.md"
+        }
+      ],
+      "source": "docs/lesson6.md",
+      "study": true
     },
     {
       "audio": [
@@ -2451,8 +3078,52 @@
       "english": "beyond, on the other side (with dative or genitive noun)",
       "id": "moag-06-ef5022ff0701f12b",
       "malayalam": "അപ്പുറത്ത്",
+      "occurrences": [
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_06_word_010.mp3",
+              "sha256": "51322815e96e5091d767645bb428b524d5d6cb5b1b04372d0df4d92aa92618a3",
+              "transcript": "അപ്പുറത്ത്"
+            }
+          ],
+          "chapter": 6,
+          "english": "beyond, on the other side (with dative or genitive noun)",
+          "id": "moag-06-ef5022ff0701f12b",
+          "malayalam": "അപ്പുറത്ത്",
+          "origin": "textbook",
+          "source": "docs/lesson6.md"
+        },
+        {
+          "audio": [],
+          "category": "postposition",
+          "chapter": 6,
+          "english": "on that side (postposition; after a possessive noun; also dative in colloquial speech)",
+          "id": "moag-06-9863aa65ae45bcdd",
+          "malayalam": "അപ്പുറത്ത്",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "appendix-d-possessive",
+              "category": "postposition",
+              "source": "docs/appendix-d.md"
+            }
+          ],
+          "source": "docs/appendix-d.md",
+          "source_anchor": "appendix-d-possessive",
+          "study": false
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson6.md"
+      "references": [
+        {
+          "anchor": "appendix-d-possessive",
+          "category": "postposition",
+          "source": "docs/appendix-d.md"
+        }
+      ],
+      "source": "docs/lesson6.md",
+      "study": true
     },
     {
       "audio": [
@@ -2466,8 +3137,52 @@
       "english": "before, on this side of",
       "id": "moag-06-b221055aa1d9a984",
       "malayalam": "ഇപ്പുറത്ത്",
+      "occurrences": [
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_06_word_011.mp3",
+              "sha256": "5eeb10cb54f8b802d929f72e4089c4157abee560aa7aa93e66fec85c11e83fbe",
+              "transcript": "ഇപ്പുറത്ത്"
+            }
+          ],
+          "chapter": 6,
+          "english": "before, on this side of",
+          "id": "moag-06-b221055aa1d9a984",
+          "malayalam": "ഇപ്പുറത്ത്",
+          "origin": "textbook",
+          "source": "docs/lesson6.md"
+        },
+        {
+          "audio": [],
+          "category": "postposition",
+          "chapter": 6,
+          "english": "on this side (postposition; after a possessive noun; also dative in colloquial speech)",
+          "id": "moag-06-ca168d6b2e5dc1f1",
+          "malayalam": "ഇപ്പുറത്ത്",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "appendix-d-possessive",
+              "category": "postposition",
+              "source": "docs/appendix-d.md"
+            }
+          ],
+          "source": "docs/appendix-d.md",
+          "source_anchor": "appendix-d-possessive",
+          "study": false
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson6.md"
+      "references": [
+        {
+          "anchor": "appendix-d-possessive",
+          "category": "postposition",
+          "source": "docs/appendix-d.md"
+        }
+      ],
+      "source": "docs/lesson6.md",
+      "study": true
     },
     {
       "audio": [
@@ -2616,8 +3331,52 @@
       "english": "from (with locative noun)",
       "id": "moag-06-7ceadf37a89e675d",
       "malayalam": "നിന്ന്",
+      "occurrences": [
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_06_word_021.mp3",
+              "sha256": "2c6cbe341a26cf8f40e29d81a783728fa31ad282651937a74e4a261a72a1300e",
+              "transcript": "നിന്ന്"
+            }
+          ],
+          "chapter": 6,
+          "english": "from (with locative noun)",
+          "id": "moag-06-7ceadf37a89e675d",
+          "malayalam": "നിന്ന്",
+          "origin": "textbook",
+          "source": "docs/lesson6.md"
+        },
+        {
+          "audio": [],
+          "category": "postposition",
+          "chapter": 6,
+          "english": "from (postposition; after a locative noun)",
+          "id": "moag-06-e8551f7997389efa",
+          "malayalam": "നിന്ന്",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "appendix-d-locative",
+              "category": "postposition",
+              "source": "docs/appendix-d.md"
+            }
+          ],
+          "source": "docs/appendix-d.md",
+          "source_anchor": "appendix-d-locative",
+          "study": true
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson6.md"
+      "references": [
+        {
+          "anchor": "appendix-d-locative",
+          "category": "postposition",
+          "source": "docs/appendix-d.md"
+        }
+      ],
+      "source": "docs/lesson6.md",
+      "study": true
     },
     {
       "audio": [
@@ -2650,13 +3409,46 @@
       "source": "docs/lesson6.md"
     },
     {
-      "audio": [],
+      "audio": [
+        {
+          "path": "docs/assets/audio/moag/words/lesson_09_word_001.mp3",
+          "sha256": "750ebdb570906d7c0f13ac499ff748e3c6a0e88edd71fcf08258f8d51730450c",
+          "transcript": "നല്ല"
+        }
+      ],
       "chapter": 6,
       "english": "good",
       "id": "moag-06-9ca0427f17b0305c",
       "malayalam": "നല്ല",
+      "occurrences": [
+        {
+          "audio": [],
+          "chapter": 6,
+          "english": "good",
+          "id": "moag-06-9ca0427f17b0305c",
+          "malayalam": "നല്ല",
+          "origin": "textbook",
+          "source": "docs/lesson6.md"
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_09_word_001.mp3",
+              "sha256": "750ebdb570906d7c0f13ac499ff748e3c6a0e88edd71fcf08258f8d51730450c",
+              "transcript": "നല്ല"
+            }
+          ],
+          "chapter": 9,
+          "english": "good",
+          "id": "moag-09-eec1612ab7d5d124",
+          "malayalam": "നല്ല",
+          "origin": "textbook",
+          "source": "docs/lesson9.md"
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson6.md"
+      "source": "docs/lesson6.md",
+      "study": true
     },
     {
       "audio": [],
@@ -2700,21 +3492,6 @@
     {
       "audio": [
         {
-          "path": "docs/assets/audio/moag/words/lesson_07_word_003.mp3",
-          "sha256": "744bd130718b9195d186f5bb0e4ce6fce4e0d5e1137c7a04e2af3575985f2d78",
-          "transcript": "എപ്പോൾ"
-        }
-      ],
-      "chapter": 7,
-      "english": "when",
-      "id": "moag-07-d36de8bfa977eb82",
-      "malayalam": "എപ്പോൾ",
-      "origin": "textbook",
-      "source": "docs/lesson7.md"
-    },
-    {
-      "audio": [
-        {
           "path": "docs/assets/audio/moag/words/lesson_07_word_004.mp3",
           "sha256": "9d9e02e5478810a765c134340a8b22837166e62cedce3dad30eb19e69309cbda",
           "transcript": "കിട്ടും"
@@ -2748,21 +3525,6 @@
       "english": "next",
       "id": "moag-07-a9ead29c3c5f7593",
       "malayalam": "അടുത്ത",
-      "origin": "textbook",
-      "source": "docs/lesson7.md"
-    },
-    {
-      "audio": [
-        {
-          "path": "docs/assets/audio/moag/words/lesson_07_word_007.mp3",
-          "sha256": "3b304679f8a11e4d3523dd18d4c421e49ed1fd0e3cfba4a884577d6ee388e56a",
-          "transcript": "ഇപ്പോൾ"
-        }
-      ],
-      "chapter": 7,
-      "english": "now",
-      "id": "moag-07-2a3fe937da67188a",
-      "malayalam": "ഇപ്പോൾ",
       "origin": "textbook",
       "source": "docs/lesson7.md"
     },
@@ -2868,21 +3630,6 @@
       "english": "just, only a mile",
       "id": "moag-07-18a369254cda8179",
       "malayalam": "മൈലേയുള്ളു",
-      "origin": "textbook",
-      "source": "docs/lesson7.md"
-    },
-    {
-      "audio": [
-        {
-          "path": "docs/assets/audio/moag/words/lesson_07_word_015.mp3",
-          "sha256": "0e9f3bb16cfef9bd4e83a05cbff0dd1126e031033649b798a1abc26606ebccaf",
-          "transcript": "എങ്ങനെ"
-        }
-      ],
-      "chapter": 7,
-      "english": "how",
-      "id": "moag-07-d6a15f8d0f5ffb45",
-      "malayalam": "എങ്ങനെ",
       "origin": "textbook",
       "source": "docs/lesson7.md"
     },
@@ -3009,21 +3756,6 @@
     {
       "audio": [
         {
-          "path": "docs/assets/audio/moag/words/lesson_07_word_005.mp3",
-          "sha256": "bc76f4ae95e1f124fae01e7da8fe7f57b6cb9902e321fb775cd324d8758332bc",
-          "transcript": "കുറച്ച്"
-        }
-      ],
-      "chapter": 7,
-      "english": "a little; a few",
-      "id": "moag-07-4e578c858bf7abe0",
-      "malayalam": "കുറച്ച്",
-      "origin": "recorded_addition",
-      "source": "docs/lesson7.md"
-    },
-    {
-      "audio": [
-        {
           "path": "docs/assets/audio/moag/words/lesson_08_word_001.mp3",
           "sha256": "be7021c9c0bf12e8e43a13ba2e468b82b6c59bd9c80f160b876811f9c0bb42a2",
           "transcript": "ഏയ്"
@@ -3102,21 +3834,6 @@
       "english": "you (familiar singular; between peers)",
       "id": "moag-08-1adf680fd5a15e64",
       "malayalam": "താൻ",
-      "origin": "textbook",
-      "source": "docs/lesson8.md"
-    },
-    {
-      "audio": [
-        {
-          "path": "docs/assets/audio/moag/words/lesson_08_word_006.mp3",
-          "sha256": "3a967bb3518f1c39967b1227ca2906bf425182bdd824fd5f59ff6440e1ca0d7c",
-          "transcript": "ഇന്ന്"
-        }
-      ],
-      "chapter": 8,
-      "english": "today",
-      "id": "moag-08-cfb8e7baa90f2e0d",
-      "malayalam": "ഇന്ന്",
       "origin": "textbook",
       "source": "docs/lesson8.md"
     },
@@ -3358,7 +4075,9 @@
       "id": "moag-08-22fa8e69742e7c44",
       "malayalam": "പോകട്ടെ",
       "origin": "textbook",
-      "source": "docs/lesson8.md"
+      "sense": "taking leave",
+      "source": "docs/lesson8.md",
+      "study": true
     },
     {
       "audio": [
@@ -3413,21 +4132,6 @@
       "malayalam": "ഉച്ചക്ക്",
       "origin": "textbook",
       "source": "docs/lesson8.md"
-    },
-    {
-      "audio": [
-        {
-          "path": "docs/assets/audio/moag/words/lesson_09_word_001.mp3",
-          "sha256": "750ebdb570906d7c0f13ac499ff748e3c6a0e88edd71fcf08258f8d51730450c",
-          "transcript": "നല്ല"
-        }
-      ],
-      "chapter": 9,
-      "english": "good",
-      "id": "moag-09-eec1612ab7d5d124",
-      "malayalam": "നല്ല",
-      "origin": "textbook",
-      "source": "docs/lesson9.md"
     },
     {
       "audio": [
@@ -3690,14 +4394,52 @@
           "path": "docs/assets/audio/moag/words/lesson_09_word_018.mp3",
           "sha256": "65bafff4b7ac61a7d707107195b62e4cc48041869945e94b46c3561aa2e66695",
           "transcript": "കൂട്ടുകാരി"
+        },
+        {
+          "path": "docs/assets/audio/moag/words/lesson_17_word_023.mp3",
+          "sha256": "2a5dadc2c186715449d93bf2de48732894e11b59ffec7646d21ed7fabbbf8e76",
+          "transcript": "കൂട്ടുകാരി"
         }
       ],
       "chapter": 9,
-      "english": "friend (feminine)",
+      "english": "female friend; companion",
       "id": "moag-09-2809b9b71aad2070",
       "malayalam": "കൂട്ടുകാരി",
+      "occurrences": [
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_09_word_018.mp3",
+              "sha256": "65bafff4b7ac61a7d707107195b62e4cc48041869945e94b46c3561aa2e66695",
+              "transcript": "കൂട്ടുകാരി"
+            }
+          ],
+          "chapter": 9,
+          "english": "friend (feminine)",
+          "id": "moag-09-2809b9b71aad2070",
+          "malayalam": "കൂട്ടുകാരി",
+          "origin": "textbook",
+          "source": "docs/lesson9.md"
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_17_word_023.mp3",
+              "sha256": "2a5dadc2c186715449d93bf2de48732894e11b59ffec7646d21ed7fabbbf8e76",
+              "transcript": "കൂട്ടുകാരി"
+            }
+          ],
+          "chapter": 17,
+          "english": "female friend; companion",
+          "id": "moag-17-b933a865bf223228",
+          "malayalam": "കൂട്ടുകാരി",
+          "origin": "recorded_addition",
+          "source": "docs/lesson17.md"
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson9.md"
+      "source": "docs/lesson9.md",
+      "study": true
     },
     {
       "audio": [
@@ -3705,14 +4447,52 @@
           "path": "docs/assets/audio/moag/words/lesson_09_word_019.mp3",
           "sha256": "89eae4ea5c0fd7da8e472670b625d309ea3e806a3e1e181e7f07383019392b9c",
           "transcript": "കൂട്ടുകാരൻ"
+        },
+        {
+          "path": "docs/assets/audio/moag/words/lesson_17_word_022.mp3",
+          "sha256": "0c8258735b50878d57f9bfab6d102df96f3260782ce985acc9b0efe2d6c64750",
+          "transcript": "കൂട്ടുകാരൻ"
         }
       ],
       "chapter": 9,
-      "english": "friend (masculine)",
+      "english": "male friend; companion",
       "id": "moag-09-b4c37be81432ecaf",
       "malayalam": "കൂട്ടുകാരൻ",
+      "occurrences": [
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_09_word_019.mp3",
+              "sha256": "89eae4ea5c0fd7da8e472670b625d309ea3e806a3e1e181e7f07383019392b9c",
+              "transcript": "കൂട്ടുകാരൻ"
+            }
+          ],
+          "chapter": 9,
+          "english": "friend (masculine)",
+          "id": "moag-09-b4c37be81432ecaf",
+          "malayalam": "കൂട്ടുകാരൻ",
+          "origin": "textbook",
+          "source": "docs/lesson9.md"
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_17_word_022.mp3",
+              "sha256": "0c8258735b50878d57f9bfab6d102df96f3260782ce985acc9b0efe2d6c64750",
+              "transcript": "കൂട്ടുകാരൻ"
+            }
+          ],
+          "chapter": 17,
+          "english": "male friend; companion",
+          "id": "moag-17-95e99f94038d4867",
+          "malayalam": "കൂട്ടുകാരൻ",
+          "origin": "recorded_addition",
+          "source": "docs/lesson17.md"
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson9.md"
+      "source": "docs/lesson9.md",
+      "study": true
     },
     {
       "audio": [
@@ -4311,21 +5091,6 @@
     {
       "audio": [
         {
-          "path": "docs/assets/audio/moag/words/lesson_10_word_030.mp3",
-          "sha256": "4860dd512e50a10b066cc4bfd0c61b9f7e10510efe7b78e90e530722632edc26",
-          "transcript": "വരെ"
-        }
-      ],
-      "chapter": 10,
-      "english": "to, up to (takes nominative)",
-      "id": "moag-10-fbb4e4e451a9f3da",
-      "malayalam": "വരെ",
-      "origin": "textbook",
-      "source": "docs/lesson10.md"
-    },
-    {
-      "audio": [
-        {
           "path": "docs/assets/audio/moag/words/lesson_10_word_031.mp3",
           "sha256": "423cc3703bb371f6265ad06fc70677df3552234e54e8dd2814231f58e0f89e02",
           "transcript": "ഉദ്ദേശം"
@@ -4346,12 +5111,56 @@
           "transcript": "മുന്നൂറ്"
         }
       ],
-      "chapter": 10,
+      "chapter": 7,
       "english": "three hundred",
       "id": "moag-10-29e2f3fcaa3721d8",
       "malayalam": "മുന്നൂറ്",
+      "occurrences": [
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_10_word_032.mp3",
+              "sha256": "eeefd76b7f0a828040594761ce02126dfa869937fa12544e2133666981104480",
+              "transcript": "മുന്നൂറ്"
+            }
+          ],
+          "chapter": 10,
+          "english": "three hundred",
+          "id": "moag-10-29e2f3fcaa3721d8",
+          "malayalam": "മുന്നൂറ്",
+          "origin": "textbook",
+          "source": "docs/lesson10.md"
+        },
+        {
+          "audio": [],
+          "category": "number",
+          "chapter": 7,
+          "english": "300",
+          "id": "moag-07-524ff35da40a0318",
+          "malayalam": "മുന്നൂറ്",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson7-101-u0d2eu0d24u0d7d-1000-u0d35u0d30-from-101-to-1000",
+              "category": "number",
+              "source": "docs/lesson7.md"
+            }
+          ],
+          "source": "docs/lesson7.md",
+          "source_anchor": "lesson7-101-u0d2eu0d24u0d7d-1000-u0d35u0d30-from-101-to-1000",
+          "study": true
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson10.md"
+      "references": [
+        {
+          "anchor": "lesson7-101-u0d2eu0d24u0d7d-1000-u0d35u0d30-from-101-to-1000",
+          "category": "number",
+          "source": "docs/lesson7.md"
+        }
+      ],
+      "source": "docs/lesson10.md",
+      "study": true
     },
     {
       "audio": [
@@ -4428,14 +5237,52 @@
           "path": "docs/assets/audio/moag/words/lesson_11_word_001.mp3",
           "sha256": "8840a29c65dfb46026fb3e1189c093c9a3c08d4755e3908b7fe204475202807f",
           "transcript": "ആയിരുന്നു"
+        },
+        {
+          "path": "docs/assets/audio/moag/words/lesson_23_word_005.mp3",
+          "sha256": "c8ac4ccd28cc0bb9f89e38fce013428a584634f4719e7773642dc6383bf4756c",
+          "transcript": "ആയിരുന്നു"
         }
       ],
       "chapter": 11,
       "english": "was, were (past of ആണ്)",
       "id": "moag-11-a9f06c6df573cc2f",
       "malayalam": "ആയിരുന്നു",
+      "occurrences": [
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_11_word_001.mp3",
+              "sha256": "8840a29c65dfb46026fb3e1189c093c9a3c08d4755e3908b7fe204475202807f",
+              "transcript": "ആയിരുന്നു"
+            }
+          ],
+          "chapter": 11,
+          "english": "was, were (past of ആണ്)",
+          "id": "moag-11-a9f06c6df573cc2f",
+          "malayalam": "ആയിരുന്നു",
+          "origin": "textbook",
+          "source": "docs/lesson11.md"
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_23_word_005.mp3",
+              "sha256": "c8ac4ccd28cc0bb9f89e38fce013428a584634f4719e7773642dc6383bf4756c",
+              "transcript": "ആയിരുന്നു"
+            }
+          ],
+          "chapter": 23,
+          "english": "was; were",
+          "id": "moag-23-18759496283826a2",
+          "malayalam": "ആയിരുന്നു",
+          "origin": "recorded_addition",
+          "source": "docs/lesson23.md"
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson11.md"
+      "source": "docs/lesson11.md",
+      "study": true
     },
     {
       "audio": [
@@ -4744,7 +5591,9 @@
       "id": "moag-11-fce02fba395f00e6",
       "malayalam": "പോകട്ടെ",
       "origin": "textbook",
-      "source": "docs/lesson11.md"
+      "sense": "dismissing a concern",
+      "source": "docs/lesson11.md",
+      "study": true
     },
     {
       "audio": [
@@ -4899,11 +5748,32 @@
     {
       "audio": [],
       "chapter": 11,
-      "english": "else, other, another",
+      "english": "else; other; another",
       "id": "moag-11-1d35a6e30e719735",
       "malayalam": "വേറെ",
+      "occurrences": [
+        {
+          "audio": [],
+          "chapter": 11,
+          "english": "else, other, another",
+          "id": "moag-11-1d35a6e30e719735",
+          "malayalam": "വേറെ",
+          "origin": "textbook",
+          "source": "docs/lesson11.md"
+        },
+        {
+          "audio": [],
+          "chapter": 13,
+          "english": "other",
+          "id": "moag-13-768643a459b39cad",
+          "malayalam": "വേറെ",
+          "origin": "textbook",
+          "source": "docs/lesson13.md"
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson11.md"
+      "source": "docs/lesson11.md",
+      "study": true
     },
     {
       "audio": [
@@ -4956,14 +5826,52 @@
           "path": "docs/assets/audio/moag/words/lesson_12_word_003.mp3",
           "sha256": "7141f5912acd8cb4ea25757d649fca97ede363aca326cb216d368bacb0c542f4",
           "transcript": "മകൾ"
+        },
+        {
+          "path": "docs/assets/audio/moag/words/lesson_17_word_003.mp3",
+          "sha256": "8e4bce917dbe7bb2d9f10d342edaaa770742c864904f39542c136d32b2acaec8",
+          "transcript": "മകൾ"
         }
       ],
       "chapter": 12,
       "english": "daughter",
       "id": "moag-12-b73a3b577acebfe9",
       "malayalam": "മകൾ",
+      "occurrences": [
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_12_word_003.mp3",
+              "sha256": "7141f5912acd8cb4ea25757d649fca97ede363aca326cb216d368bacb0c542f4",
+              "transcript": "മകൾ"
+            }
+          ],
+          "chapter": 12,
+          "english": "daughter",
+          "id": "moag-12-b73a3b577acebfe9",
+          "malayalam": "മകൾ",
+          "origin": "textbook",
+          "source": "docs/lesson12.md"
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_17_word_003.mp3",
+              "sha256": "8e4bce917dbe7bb2d9f10d342edaaa770742c864904f39542c136d32b2acaec8",
+              "transcript": "മകൾ"
+            }
+          ],
+          "chapter": 17,
+          "english": "daughter",
+          "id": "moag-17-e44f4c6801aef60e",
+          "malayalam": "മകൾ",
+          "origin": "recorded_addition",
+          "source": "docs/lesson17.md"
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson12.md"
+      "source": "docs/lesson12.md",
+      "study": true
     },
     {
       "audio": [
@@ -5088,21 +5996,6 @@
     {
       "audio": [
         {
-          "path": "docs/assets/audio/moag/words/lesson_12_word_011.mp3",
-          "sha256": "154c4cc314699314d6687660d58cc54a9c432019f5e057266501ddb13547d923",
-          "transcript": "എന്ന്"
-        }
-      ],
-      "chapter": 12,
-      "english": "quotation marker required at the end of a direct or indirect quotation",
-      "id": "moag-12-1b2be979e6d2661b",
-      "malayalam": "എന്ന്",
-      "origin": "textbook",
-      "source": "docs/lesson12.md"
-    },
-    {
-      "audio": [
-        {
           "path": "docs/assets/audio/moag/words/lesson_12_word_012.mp3",
           "sha256": "136394fc6707b3eb595461f80ab97f6f38659b843195eb0d6a03f6ce23a90b02",
           "transcript": "അതുകൊണ്ട്"
@@ -5182,7 +6075,9 @@
       "id": "moag-12-9720c84de3e67233",
       "malayalam": "കൂടുക (past tense: കൂടി)",
       "origin": "textbook",
-      "source": "docs/lesson12.md"
+      "sense": "describing an increase",
+      "source": "docs/lesson12.md",
+      "study": true
     },
     {
       "audio": [],
@@ -5276,21 +6171,6 @@
     {
       "audio": [
         {
-          "path": "docs/assets/audio/moag/words/lesson_12_word_025.mp3",
-          "sha256": "bf030874ff9368ec90a6a76c67f1b2463cdf8a098ae889fe381d116924ef0bcc",
-          "transcript": "കൂടെ"
-        }
-      ],
-      "chapter": 12,
-      "english": "with (takes associated noun in possessive)",
-      "id": "moag-12-b0d4d333bb825afc",
-      "malayalam": "കൂടെ",
-      "origin": "textbook",
-      "source": "docs/lesson12.md"
-    },
-    {
-      "audio": [
-        {
           "path": "docs/assets/audio/moag/words/lesson_12_word_026.mp3",
           "sha256": "7ef4e17d4f9ddbb79b301301b50ead9b763f2e8037b42bb9aba0da25711db55e",
           "transcript": "പോകുന്നതിനു മുമ്പ്"
@@ -5360,21 +6240,6 @@
       "english": "again; furthermore",
       "id": "moag-12-4364f46f9469944f",
       "malayalam": "പിന്നെയും",
-      "origin": "recorded_addition",
-      "source": "docs/lesson12.md"
-    },
-    {
-      "audio": [
-        {
-          "path": "docs/assets/audio/moag/words/lesson_12_word_015.mp3",
-          "sha256": "6d073b26d56fe6d04f58794ab3662ce21975f59f585fe402ad586ed9bf049c01",
-          "transcript": "ഇന്ന്"
-        }
-      ],
-      "chapter": 12,
-      "english": "today",
-      "id": "moag-12-4a08ff60d61f9447",
-      "malayalam": "ഇന്ന്",
       "origin": "recorded_addition",
       "source": "docs/lesson12.md"
     },
@@ -5540,30 +6405,6 @@
       "english": "last, previous",
       "id": "moag-13-e62a34dd597752be",
       "malayalam": "കഴിഞ്ഞ",
-      "origin": "textbook",
-      "source": "docs/lesson13.md"
-    },
-    {
-      "audio": [
-        {
-          "path": "docs/assets/audio/moag/words/lesson_13_word_012.mp3",
-          "sha256": "46b9e72d01ecb77b35433f441fa37491ed99ea4e047aae1638ed3785afdf7e89",
-          "transcript": "പോലെ"
-        }
-      ],
-      "chapter": 13,
-      "english": "like, as",
-      "id": "moag-13-4effda751285edca",
-      "malayalam": "പോലെ",
-      "origin": "textbook",
-      "source": "docs/lesson13.md"
-    },
-    {
-      "audio": [],
-      "chapter": 13,
-      "english": "other",
-      "id": "moag-13-768643a459b39cad",
-      "malayalam": "വേറെ",
       "origin": "textbook",
       "source": "docs/lesson13.md"
     },
@@ -6008,21 +6849,6 @@
     {
       "audio": [
         {
-          "path": "docs/assets/audio/moag/words/lesson_14_word_049.mp3",
-          "sha256": "b801426f3757b0eeaeff9f0da036c8013c772a6f96f252e0e7eadfee3031f667",
-          "transcript": "പറ്റി"
-        }
-      ],
-      "chapter": 14,
-      "english": "about, concerning",
-      "id": "moag-14-9588e781923b50af",
-      "malayalam": "പറ്റി",
-      "origin": "textbook",
-      "source": "docs/lesson14.md"
-    },
-    {
-      "audio": [
-        {
           "path": "docs/assets/audio/moag/words/lesson_14_word_050.mp3",
           "sha256": "6d8853b66682b2baaffb4df6dee7ce211ad0997dbf1c24c4cece97813c6de069",
           "transcript": "പറ്റിയുള്ള"
@@ -6261,7 +7087,9 @@
       "id": "moag-14-922a80494ef508fe",
       "malayalam": "ചുരുക്കം",
       "origin": "textbook",
-      "source": "docs/lesson14.md"
+      "sense": "describing length",
+      "source": "docs/lesson14.md",
+      "study": true
     },
     {
       "audio": [
@@ -6492,13 +7320,46 @@
       "source": "docs/lesson14.md"
     },
     {
-      "audio": [],
+      "audio": [
+        {
+          "path": "docs/assets/audio/moag/words/lesson_20_word_010.mp3",
+          "sha256": "70b781dd5761f5abee25d2961d7d05824c805712528a613fe38a919d3ba04824",
+          "transcript": "കാലം"
+        }
+      ],
       "chapter": 14,
-      "english": "season, time, era",
+      "english": "time; period; season; era",
       "id": "moag-14-472af7356c81d7c8",
       "malayalam": "കാലം",
+      "occurrences": [
+        {
+          "audio": [],
+          "chapter": 14,
+          "english": "season, time, era",
+          "id": "moag-14-472af7356c81d7c8",
+          "malayalam": "കാലം",
+          "origin": "textbook",
+          "source": "docs/lesson14.md"
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_20_word_010.mp3",
+              "sha256": "70b781dd5761f5abee25d2961d7d05824c805712528a613fe38a919d3ba04824",
+              "transcript": "കാലം"
+            }
+          ],
+          "chapter": 20,
+          "english": "time",
+          "id": "moag-20-ce1d7908e761381a",
+          "malayalam": "കാലം",
+          "origin": "textbook",
+          "source": "docs/lesson20.md"
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson14.md"
+      "source": "docs/lesson14.md",
+      "study": true
     },
     {
       "audio": [],
@@ -7376,11 +8237,55 @@
     {
       "audio": [],
       "chapter": 16,
-      "english": "something, anything",
+      "english": "something; anything (indefinite expression)",
       "id": "moag-16-e2df6c4dba59c14d",
       "malayalam": "എന്തെങ്കിലും",
+      "occurrences": [
+        {
+          "audio": [],
+          "chapter": 16,
+          "english": "something, anything",
+          "id": "moag-16-e2df6c4dba59c14d",
+          "malayalam": "എന്തെങ്കിലും",
+          "origin": "textbook",
+          "source": "docs/lesson16.md"
+        },
+        {
+          "audio": [],
+          "category": "indefinite",
+          "chapter": 22,
+          "english": "something, any thing at all",
+          "id": "moag-22-842f09af72d21e88",
+          "malayalam": "എന്തെങ്കിലും",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson22-a-one-piece-indefinite-pronouns",
+              "category": "indefinite",
+              "source": "docs/lesson22.md"
+            }
+          ],
+          "source": "docs/lesson22.md",
+          "source_anchor": "lesson22-a-one-piece-indefinite-pronouns",
+          "study": true,
+          "variants": [
+            "എന്തായാലും"
+          ]
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson16.md"
+      "references": [
+        {
+          "anchor": "lesson22-a-one-piece-indefinite-pronouns",
+          "category": "indefinite",
+          "source": "docs/lesson22.md"
+        }
+      ],
+      "source": "docs/lesson16.md",
+      "study": true,
+      "variants": [
+        "എന്തായാലും"
+      ]
     },
     {
       "audio": [
@@ -7744,11 +8649,79 @@
         }
       ],
       "chapter": 16,
-      "english": "besides",
+      "english": "in addition to; besides (postposition)",
       "id": "moag-16-a42ed34e72484e76",
       "malayalam": "കൂടാതെ",
+      "occurrences": [
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_16_word_046.mp3",
+              "sha256": "fe4e5024421528ad0b6ed3a6fbc63da94ce53d9da7112cac881920078f5e225b",
+              "transcript": "കൂടാതെ"
+            }
+          ],
+          "chapter": 16,
+          "english": "besides",
+          "id": "moag-16-a42ed34e72484e76",
+          "malayalam": "കൂടാതെ",
+          "origin": "textbook",
+          "source": "docs/lesson16.md"
+        },
+        {
+          "audio": [],
+          "category": "postposition",
+          "chapter": 6,
+          "english": "in addition to, besides (with animate nouns only) (postposition; after a accusative noun)",
+          "id": "moag-06-15b03d82e0fdab6a",
+          "malayalam": "കൂടാതെ",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "appendix-d-accusative",
+              "category": "postposition",
+              "source": "docs/appendix-d.md"
+            }
+          ],
+          "source": "docs/appendix-d.md",
+          "source_anchor": "appendix-d-accusative",
+          "study": false
+        },
+        {
+          "audio": [],
+          "category": "postposition",
+          "chapter": 6,
+          "english": "besides (with inanimate nouns) (postposition; after a nominative noun)",
+          "id": "moag-06-ee92087767659149",
+          "malayalam": "കൂടാതെ",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "appendix-d-nominative",
+              "category": "postposition",
+              "source": "docs/appendix-d.md"
+            }
+          ],
+          "source": "docs/appendix-d.md",
+          "source_anchor": "appendix-d-nominative",
+          "study": false
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson16.md"
+      "references": [
+        {
+          "anchor": "appendix-d-accusative",
+          "category": "postposition",
+          "source": "docs/appendix-d.md"
+        },
+        {
+          "anchor": "appendix-d-nominative",
+          "category": "postposition",
+          "source": "docs/appendix-d.md"
+        }
+      ],
+      "source": "docs/lesson16.md",
+      "study": true
     },
     {
       "audio": [
@@ -7786,14 +8759,52 @@
           "path": "docs/assets/audio/moag/words/lesson_16_word_049.mp3",
           "sha256": "0817a3b6659214f82ddd5f9a119ee406d9fb6300624b84f91f7a7a09db540aa9",
           "transcript": "സ്ഥലം"
+        },
+        {
+          "path": "docs/assets/audio/moag/words/lesson_19_word_041.mp3",
+          "sha256": "6341ea8dd6345452b23d3cb44c73afd91785928bf3308cea4b73d853d5c2df5f",
+          "transcript": "സ്ഥലം"
         }
       ],
       "chapter": 16,
       "english": "place",
       "id": "moag-16-fda3d2126a2def47",
       "malayalam": "സ്ഥലം",
+      "occurrences": [
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_16_word_049.mp3",
+              "sha256": "0817a3b6659214f82ddd5f9a119ee406d9fb6300624b84f91f7a7a09db540aa9",
+              "transcript": "സ്ഥലം"
+            }
+          ],
+          "chapter": 16,
+          "english": "place",
+          "id": "moag-16-fda3d2126a2def47",
+          "malayalam": "സ്ഥലം",
+          "origin": "textbook",
+          "source": "docs/lesson16.md"
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_19_word_041.mp3",
+              "sha256": "6341ea8dd6345452b23d3cb44c73afd91785928bf3308cea4b73d853d5c2df5f",
+              "transcript": "സ്ഥലം"
+            }
+          ],
+          "chapter": 19,
+          "english": "place",
+          "id": "moag-19-44a3afcda0aab90d",
+          "malayalam": "സ്ഥലം",
+          "origin": "recorded_addition",
+          "source": "docs/lesson19.md"
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson16.md"
+      "source": "docs/lesson16.md",
+      "study": true
     },
     {
       "audio": [
@@ -7808,21 +8819,6 @@
       "id": "moag-16-1384d7c7abc61ea1",
       "malayalam": "എല്ലാ ---ഉം, എല്ലാം",
       "origin": "textbook",
-      "source": "docs/lesson16.md"
-    },
-    {
-      "audio": [
-        {
-          "path": "docs/assets/audio/moag/words/lesson_16_word_020.mp3",
-          "sha256": "386fce3a6689ccea7031188dba521ab769b8448fe68c95800ef5a8546f2a2bfe",
-          "transcript": "ഏത്"
-        }
-      ],
-      "chapter": 16,
-      "english": "which?",
-      "id": "moag-16-441d38a60073ceef",
-      "malayalam": "ഏത്",
-      "origin": "recorded_addition",
       "source": "docs/lesson16.md"
     },
     {
@@ -8193,12 +9189,56 @@
           "transcript": "അര"
         }
       ],
-      "chapter": 17,
+      "chapter": 7,
       "english": "half",
       "id": "moag-17-77e53a623cc8f542",
       "malayalam": "അര",
+      "occurrences": [
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_17_word_028.mp3",
+              "sha256": "c8f5e345e6d234c5079aaf9ec52550c982c1a9fd5b300ab5fac2583c79558a27",
+              "transcript": "അര"
+            }
+          ],
+          "chapter": 17,
+          "english": "half",
+          "id": "moag-17-77e53a623cc8f542",
+          "malayalam": "അര",
+          "origin": "textbook",
+          "source": "docs/lesson17.md"
+        },
+        {
+          "audio": [],
+          "category": "fraction",
+          "chapter": 7,
+          "english": "1/2",
+          "id": "moag-07-08d07e4bed3bc8dc",
+          "malayalam": "അര",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson7-fractions",
+              "category": "fraction",
+              "source": "docs/lesson7.md"
+            }
+          ],
+          "source": "docs/lesson7.md",
+          "source_anchor": "lesson7-fractions",
+          "study": true
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson17.md"
+      "references": [
+        {
+          "anchor": "lesson7-fractions",
+          "category": "fraction",
+          "source": "docs/lesson7.md"
+        }
+      ],
+      "source": "docs/lesson17.md",
+      "study": true
     },
     {
       "audio": [
@@ -8257,21 +9297,6 @@
     {
       "audio": [
         {
-          "path": "docs/assets/audio/moag/words/lesson_17_word_003.mp3",
-          "sha256": "8e4bce917dbe7bb2d9f10d342edaaa770742c864904f39542c136d32b2acaec8",
-          "transcript": "മകൾ"
-        }
-      ],
-      "chapter": 17,
-      "english": "daughter",
-      "id": "moag-17-e44f4c6801aef60e",
-      "malayalam": "മകൾ",
-      "origin": "recorded_addition",
-      "source": "docs/lesson17.md"
-    },
-    {
-      "audio": [
-        {
           "path": "docs/assets/audio/moag/words/lesson_17_word_006.mp3",
           "sha256": "d15be7593cf5b45d46543c0b3fcb7978b8c5722d1dbf8ad8aa0364ff18b8836f",
           "transcript": "കല്യാണിയമ്മ"
@@ -8296,36 +9321,6 @@
       "english": "to do",
       "id": "moag-17-a64f59a47044cf9a",
       "malayalam": "ചെയ്യുക",
-      "origin": "recorded_addition",
-      "source": "docs/lesson17.md"
-    },
-    {
-      "audio": [
-        {
-          "path": "docs/assets/audio/moag/words/lesson_17_word_022.mp3",
-          "sha256": "0c8258735b50878d57f9bfab6d102df96f3260782ce985acc9b0efe2d6c64750",
-          "transcript": "കൂട്ടുകാരൻ"
-        }
-      ],
-      "chapter": 17,
-      "english": "male friend; companion",
-      "id": "moag-17-95e99f94038d4867",
-      "malayalam": "കൂട്ടുകാരൻ",
-      "origin": "recorded_addition",
-      "source": "docs/lesson17.md"
-    },
-    {
-      "audio": [
-        {
-          "path": "docs/assets/audio/moag/words/lesson_17_word_023.mp3",
-          "sha256": "2a5dadc2c186715449d93bf2de48732894e11b59ffec7646d21ed7fabbbf8e76",
-          "transcript": "കൂട്ടുകാരി"
-        }
-      ],
-      "chapter": 17,
-      "english": "female friend; companion",
-      "id": "moag-17-b933a865bf223228",
-      "malayalam": "കൂട്ടുകാരി",
       "origin": "recorded_addition",
       "source": "docs/lesson17.md"
     },
@@ -8380,14 +9375,52 @@
           "path": "docs/assets/audio/moag/words/lesson_18_word_003.mp3",
           "sha256": "d03f0c22b517cb5f007443becccf89ca679c97f84d9d22d70e251c6e5f85936b",
           "transcript": "ഇനിയും"
+        },
+        {
+          "path": "docs/assets/audio/moag/words/lesson_19_word_035.mp3",
+          "sha256": "8a23778ce21fdff270761ed9ca917e9a55f050ad4aad6cc2a49714b97bf3e042",
+          "transcript": "ഇനിയും"
         }
       ],
       "chapter": 18,
-      "english": "still more, more",
+      "english": "still; more; again",
       "id": "moag-18-9659c77f1d1e8189",
       "malayalam": "ഇനിയും",
+      "occurrences": [
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_18_word_003.mp3",
+              "sha256": "d03f0c22b517cb5f007443becccf89ca679c97f84d9d22d70e251c6e5f85936b",
+              "transcript": "ഇനിയും"
+            }
+          ],
+          "chapter": 18,
+          "english": "still more, more",
+          "id": "moag-18-9659c77f1d1e8189",
+          "malayalam": "ഇനിയും",
+          "origin": "textbook",
+          "source": "docs/lesson18.md"
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_19_word_035.mp3",
+              "sha256": "8a23778ce21fdff270761ed9ca917e9a55f050ad4aad6cc2a49714b97bf3e042",
+              "transcript": "ഇനിയും"
+            }
+          ],
+          "chapter": 19,
+          "english": "still; more; again",
+          "id": "moag-19-eff7e5d2525dbd3b",
+          "malayalam": "ഇനിയും",
+          "origin": "recorded_addition",
+          "source": "docs/lesson19.md"
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson18.md"
+      "source": "docs/lesson18.md",
+      "study": true
     },
     {
       "audio": [
@@ -8782,7 +9815,9 @@
       "id": "moag-18-d87c0f4a60267e16",
       "malayalam": "ഇല്ലാതെ",
       "origin": "textbook",
-      "source": "docs/lesson18.md"
+      "sense": "negative participle (Lesson 18)",
+      "source": "docs/lesson18.md",
+      "study": true
     },
     {
       "audio": [],
@@ -8865,21 +9900,6 @@
     {
       "audio": [
         {
-          "path": "docs/assets/audio/moag/words/lesson_19_word_004.mp3",
-          "sha256": "779ac067f1b630475fa246337dd4ec44939130511f9707102b92c1661f4bbfc4",
-          "transcript": "വെളിയിൽ"
-        }
-      ],
-      "chapter": 19,
-      "english": "outside, out of doors",
-      "id": "moag-19-2e8b418a9fc25e24",
-      "malayalam": "വെളിയിൽ",
-      "origin": "textbook",
-      "source": "docs/lesson19.md"
-    },
-    {
-      "audio": [
-        {
           "path": "docs/assets/audio/moag/words/lesson_19_word_005.mp3",
           "sha256": "768bd7dbbe6aff5c659cab41990405db15f14ddb0af92aed1dd1c4a690184a0c",
           "transcript": "തിരക്ക്"
@@ -8925,11 +9945,32 @@
     {
       "audio": [],
       "chapter": 19,
-      "english": "awful, frightful",
+      "english": "huge; awful; frightful",
       "id": "moag-19-1d6a56f6e39a640b",
       "malayalam": "ഭയങ്കര",
+      "occurrences": [
+        {
+          "audio": [],
+          "chapter": 19,
+          "english": "awful, frightful",
+          "id": "moag-19-1d6a56f6e39a640b",
+          "malayalam": "ഭയങ്കര",
+          "origin": "textbook",
+          "source": "docs/lesson19.md"
+        },
+        {
+          "audio": [],
+          "chapter": 22,
+          "english": "huge, awful, frightful",
+          "id": "moag-22-0cd3da87692ce548",
+          "malayalam": "ഭയങ്കര",
+          "origin": "textbook",
+          "source": "docs/lesson22.md"
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson19.md"
+      "source": "docs/lesson19.md",
+      "study": true
     },
     {
       "audio": [
@@ -8952,13 +9993,46 @@
       "source": "docs/lesson19.md"
     },
     {
-      "audio": [],
+      "audio": [
+        {
+          "path": "docs/assets/audio/moag/words/lesson_21_word_039.mp3",
+          "sha256": "3679a5eb53f29bc759c1c91edf52b6c005cce7d48800065e24c8b2337a4d34cc",
+          "transcript": "വിശപ്പ്"
+        }
+      ],
       "chapter": 19,
       "english": "hunger",
       "id": "moag-19-92bafe88bf02a01b",
       "malayalam": "വിശപ്പ്",
+      "occurrences": [
+        {
+          "audio": [],
+          "chapter": 19,
+          "english": "hunger",
+          "id": "moag-19-92bafe88bf02a01b",
+          "malayalam": "വിശപ്പ്",
+          "origin": "textbook",
+          "source": "docs/lesson19.md"
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_21_word_039.mp3",
+              "sha256": "3679a5eb53f29bc759c1c91edf52b6c005cce7d48800065e24c8b2337a4d34cc",
+              "transcript": "വിശപ്പ്"
+            }
+          ],
+          "chapter": 21,
+          "english": "hunger",
+          "id": "moag-21-d6ad3211012cca28",
+          "malayalam": "വിശപ്പ്",
+          "origin": "textbook",
+          "source": "docs/lesson21.md"
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson19.md"
+      "source": "docs/lesson19.md",
+      "study": true
     },
     {
       "audio": [
@@ -9426,26 +10500,6 @@
     {
       "audio": [
         {
-          "path": "docs/assets/audio/moag/words/lesson_19_word_025.mp3",
-          "sha256": "2cdf5f4801de597e2a8b55999eb9d8cf3562fa34a2e431cdefbe47a3e1af02f9",
-          "transcript": "എനിക്ക്"
-        },
-        {
-          "path": "docs/assets/audio/moag/words/lesson_19_word_043.mp3",
-          "sha256": "2e8a721d9bfd90b46acc5404e508aea2dcc7ca54b5ac428b3c54f7e443860c38",
-          "transcript": "എനിക്ക്"
-        }
-      ],
-      "chapter": 19,
-      "english": "to me; for me",
-      "id": "moag-19-3be9cbb784d83999",
-      "malayalam": "എനിക്ക്",
-      "origin": "recorded_addition",
-      "source": "docs/lesson19.md"
-    },
-    {
-      "audio": [
-        {
           "path": "docs/assets/audio/moag/words/lesson_19_word_026.mp3",
           "sha256": "3ecf9f086b7db901a8bb7a470af522c15bf0577942ca9304a03c06d6534fb7bd",
           "transcript": "വിശ്വാസമുണ്ട്"
@@ -9470,51 +10524,6 @@
       "english": "to work; in order to work",
       "id": "moag-19-43cacdf4d71e0703",
       "malayalam": "ജോലി ചെയ്യാൻ",
-      "origin": "recorded_addition",
-      "source": "docs/lesson19.md"
-    },
-    {
-      "audio": [
-        {
-          "path": "docs/assets/audio/moag/words/lesson_19_word_035.mp3",
-          "sha256": "8a23778ce21fdff270761ed9ca917e9a55f050ad4aad6cc2a49714b97bf3e042",
-          "transcript": "ഇനിയും"
-        }
-      ],
-      "chapter": 19,
-      "english": "still; more; again",
-      "id": "moag-19-eff7e5d2525dbd3b",
-      "malayalam": "ഇനിയും",
-      "origin": "recorded_addition",
-      "source": "docs/lesson19.md"
-    },
-    {
-      "audio": [
-        {
-          "path": "docs/assets/audio/moag/words/lesson_19_word_036.mp3",
-          "sha256": "7ffc050ba64dad87a306015dcd2cd5772d3850676d7554b26b540722ddcfd195",
-          "transcript": "മുതൽ"
-        }
-      ],
-      "chapter": 19,
-      "english": "from; since",
-      "id": "moag-19-950d54ed54253413",
-      "malayalam": "മുതൽ",
-      "origin": "recorded_addition",
-      "source": "docs/lesson19.md"
-    },
-    {
-      "audio": [
-        {
-          "path": "docs/assets/audio/moag/words/lesson_19_word_041.mp3",
-          "sha256": "6341ea8dd6345452b23d3cb44c73afd91785928bf3308cea4b73d853d5c2df5f",
-          "transcript": "സ്ഥലം"
-        }
-      ],
-      "chapter": 19,
-      "english": "place",
-      "id": "moag-19-44a3afcda0aab90d",
-      "malayalam": "സ്ഥലം",
       "origin": "recorded_addition",
       "source": "docs/lesson19.md"
     },
@@ -9701,21 +10710,6 @@
     {
       "audio": [
         {
-          "path": "docs/assets/audio/moag/words/lesson_20_word_010.mp3",
-          "sha256": "70b781dd5761f5abee25d2961d7d05824c805712528a613fe38a919d3ba04824",
-          "transcript": "കാലം"
-        }
-      ],
-      "chapter": 20,
-      "english": "time",
-      "id": "moag-20-ce1d7908e761381a",
-      "malayalam": "കാലം",
-      "origin": "textbook",
-      "source": "docs/lesson20.md"
-    },
-    {
-      "audio": [
-        {
           "path": "docs/assets/audio/moag/words/lesson_20_word_011.mp3",
           "sha256": "a635a6634526892f823ebaa7d17f252955c94d088d5b361d4a8f6390eaa4937b",
           "transcript": "ദേവൻ"
@@ -9740,21 +10734,6 @@
       "english": "to like",
       "id": "moag-20-bac53eca4f4606b2",
       "malayalam": "ഇഷ്ടപ്പെടുക",
-      "origin": "textbook",
-      "source": "docs/lesson20.md"
-    },
-    {
-      "audio": [
-        {
-          "path": "docs/assets/audio/moag/words/lesson_20_word_013.mp3",
-          "sha256": "4e607315698c41cada40f76a199ecb64020f4f85ed484ff4a336f498c21185d4",
-          "transcript": "പ്രകാരം"
-        }
-      ],
-      "chapter": 20,
-      "english": "according to (word final -ം of the preceding noun drops when പ്രകാര is added)",
-      "id": "moag-20-a97fb669d0016128",
-      "malayalam": "പ്രകാരം",
       "origin": "textbook",
       "source": "docs/lesson20.md"
     },
@@ -9921,21 +10900,6 @@
     {
       "audio": [
         {
-          "path": "docs/assets/audio/moag/words/lesson_20_word_026.mp3",
-          "sha256": "397e2ee4f2d446169b09732f45c5dc342b1cfabc40be8c67943439c9bfbeb7da",
-          "transcript": "കൊണ്ട്"
-        }
-      ],
-      "chapter": 20,
-      "english": "with or by means of (post pos. takes nominative)",
-      "id": "moag-20-f31720a85efae5e3",
-      "malayalam": "കൊണ്ട്",
-      "origin": "textbook",
-      "source": "docs/lesson20.md"
-    },
-    {
-      "audio": [
-        {
           "path": "docs/assets/audio/moag/words/lesson_20_word_027.mp3",
           "sha256": "d6669a4959dc9679a17d9153630bb456c01af92474dfc7021a533fbeee9e62db",
           "transcript": "അളക്കുക"
@@ -9992,11 +10956,55 @@
         }
       ],
       "chapter": 20,
-      "english": "beneath, at the bottom of",
+      "english": "beneath; at the bottom of; under",
       "id": "moag-20-d2fdc12bce0036ff",
       "malayalam": "അടിയിൽ",
+      "occurrences": [
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_20_word_031.mp3",
+              "sha256": "646d5501cbae4db91b9393af47bdc44cab62c334a4ce0943a01ebcc471d509ae",
+              "transcript": "അടിയിൽ"
+            }
+          ],
+          "chapter": 20,
+          "english": "beneath, at the bottom of",
+          "id": "moag-20-d2fdc12bce0036ff",
+          "malayalam": "അടിയിൽ",
+          "origin": "textbook",
+          "source": "docs/lesson20.md"
+        },
+        {
+          "audio": [],
+          "category": "postposition",
+          "chapter": 6,
+          "english": "at the bottom, under (postposition; after a possessive noun; also dative in colloquial speech)",
+          "id": "moag-06-cb3e396130f4ca89",
+          "malayalam": "അടിയിൽ",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "appendix-d-possessive",
+              "category": "postposition",
+              "source": "docs/appendix-d.md"
+            }
+          ],
+          "source": "docs/appendix-d.md",
+          "source_anchor": "appendix-d-possessive",
+          "study": false
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson20.md"
+      "references": [
+        {
+          "anchor": "appendix-d-possessive",
+          "category": "postposition",
+          "source": "docs/appendix-d.md"
+        }
+      ],
+      "source": "docs/lesson20.md",
+      "study": true
     },
     {
       "audio": [
@@ -10051,21 +11059,6 @@
     {
       "audio": [
         {
-          "path": "docs/assets/audio/moag/words/lesson_20_word_036.mp3",
-          "sha256": "7d5ec8f30f467dbf9cd30f0f6881be394d0376d3b1a40e0b5e3ef9dc615b1222",
-          "transcript": "അനുസരിച്ച്"
-        }
-      ],
-      "chapter": 20,
-      "english": "according to",
-      "id": "moag-20-75cfbc4f0eb34310",
-      "malayalam": "അനുസരിച്ച്",
-      "origin": "textbook",
-      "source": "docs/lesson20.md"
-    },
-    {
-      "audio": [
-        {
           "path": "docs/assets/audio/moag/words/lesson_20_word_037.mp3",
           "sha256": "aaa7426d11ccec8ca0f27279d1f548fdf07cc68cf7d1112441513d5f7876a31c",
           "transcript": "സന്തോഷിപ്പിക്കുക"
@@ -10086,11 +11079,55 @@
     {
       "audio": [],
       "chapter": 20,
-      "english": "behind (with possessive)",
+      "english": "behind; at the back of; after; following",
       "id": "moag-20-7285844a6d695d35",
       "malayalam": "പിന്നിൽ",
+      "occurrences": [
+        {
+          "audio": [],
+          "chapter": 20,
+          "english": "behind (with possessive)",
+          "id": "moag-20-7285844a6d695d35",
+          "malayalam": "പിന്നിൽ",
+          "origin": "textbook",
+          "source": "docs/lesson20.md"
+        },
+        {
+          "audio": [],
+          "category": "postposition",
+          "chapter": 6,
+          "english": "behind, after, afterwards, following (postposition; after a possessive noun; also dative in colloquial speech)",
+          "id": "moag-06-56be8af0aa7a5d6e",
+          "malayalam": "പിന്നിൽ",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "appendix-d-possessive",
+              "category": "postposition",
+              "source": "docs/appendix-d.md"
+            }
+          ],
+          "source": "docs/appendix-d.md",
+          "source_anchor": "appendix-d-possessive",
+          "study": false,
+          "variants": [
+            "പിന്നാലെ"
+          ]
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson20.md"
+      "references": [
+        {
+          "anchor": "appendix-d-possessive",
+          "category": "postposition",
+          "source": "docs/appendix-d.md"
+        }
+      ],
+      "source": "docs/lesson20.md",
+      "study": true,
+      "variants": [
+        "പിന്നാലെ"
+      ]
     },
     {
       "audio": [
@@ -10374,7 +11411,9 @@
       "id": "moag-20-496e128e8141c467",
       "malayalam": "ആറ്",
       "origin": "textbook",
-      "source": "docs/lesson20.md"
+      "sense": "geography",
+      "source": "docs/lesson20.md",
+      "study": true
     },
     {
       "audio": [
@@ -10439,7 +11478,9 @@
       "id": "moag-20-e282609a38ed4bc9",
       "malayalam": "കൂടുക (past: കൂടി)",
       "origin": "textbook",
-      "source": "docs/lesson20.md"
+      "sense": "people coming together",
+      "source": "docs/lesson20.md",
+      "study": true
     },
     {
       "audio": [
@@ -10716,14 +11757,52 @@
           "path": "docs/assets/audio/moag/words/lesson_21_word_004.mp3",
           "sha256": "ef7c0916aa60a384fcfe53e531c27385872d5b52e149ba0fb66580075fbf8198",
           "transcript": "തിരിക്കുക"
+        },
+        {
+          "path": "docs/assets/audio/moag/words/lesson_23_word_023.mp3",
+          "sha256": "a2aec87f3c4a5db52b4ee13e985974c1a5261f15e40792a0d401d47b94454690",
+          "transcript": "തിരിക്കുക"
         }
       ],
       "chapter": 21,
       "english": "to turn, to turn around",
       "id": "moag-21-d4d013677987d506",
       "malayalam": "തിരിക്കുക",
+      "occurrences": [
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_21_word_004.mp3",
+              "sha256": "ef7c0916aa60a384fcfe53e531c27385872d5b52e149ba0fb66580075fbf8198",
+              "transcript": "തിരിക്കുക"
+            }
+          ],
+          "chapter": 21,
+          "english": "to turn, to turn around",
+          "id": "moag-21-d4d013677987d506",
+          "malayalam": "തിരിക്കുക",
+          "origin": "textbook",
+          "source": "docs/lesson21.md"
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_23_word_023.mp3",
+              "sha256": "a2aec87f3c4a5db52b4ee13e985974c1a5261f15e40792a0d401d47b94454690",
+              "transcript": "തിരിക്കുക"
+            }
+          ],
+          "chapter": 23,
+          "english": "to turn something; colloquial (concerning travel), to proceed, to start",
+          "id": "moag-23-7fbd42305d9c6b1f",
+          "malayalam": "തിരിക്കുക",
+          "origin": "textbook",
+          "source": "docs/lesson23.md"
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson21.md"
+      "source": "docs/lesson21.md",
+      "study": true
     },
     {
       "audio": [
@@ -10948,7 +12027,9 @@
       "id": "moag-21-74a422731cdbbffd",
       "malayalam": "സുഖം",
       "origin": "textbook",
-      "source": "docs/lesson21.md"
+      "sense": "describing a feeling",
+      "source": "docs/lesson21.md",
+      "study": true
     },
     {
       "audio": [
@@ -11213,21 +12294,6 @@
     {
       "audio": [
         {
-          "path": "docs/assets/audio/moag/words/lesson_21_word_039.mp3",
-          "sha256": "3679a5eb53f29bc759c1c91edf52b6c005cce7d48800065e24c8b2337a4d34cc",
-          "transcript": "വിശപ്പ്"
-        }
-      ],
-      "chapter": 21,
-      "english": "hunger",
-      "id": "moag-21-d6ad3211012cca28",
-      "malayalam": "വിശപ്പ്",
-      "origin": "textbook",
-      "source": "docs/lesson21.md"
-    },
-    {
-      "audio": [
-        {
           "path": "docs/assets/audio/moag/words/lesson_21_word_040.mp3",
           "sha256": "465596d644f0258645f5fea1ae91bbbcc3705ca4e8fafeda3fbb3256b61485b0",
           "transcript": "വിശപ്പുണ്ട്"
@@ -11411,21 +12477,6 @@
     {
       "audio": [
         {
-          "path": "docs/assets/audio/moag/words/lesson_22_word_003.mp3",
-          "sha256": "7761fa72ffd848841cc0cd64dfb56d4268f713a9025784d9ccf5e6c2650d29e6",
-          "transcript": "അകത്ത്"
-        }
-      ],
-      "chapter": 22,
-      "english": "inside (locative of അകം)",
-      "id": "moag-22-8c98663535798f22",
-      "malayalam": "അകത്ത്",
-      "origin": "textbook",
-      "source": "docs/lesson22.md"
-    },
-    {
-      "audio": [
-        {
           "path": "docs/assets/audio/moag/words/lesson_22_word_004.mp3",
           "sha256": "b1456827a861cfcf0b4fbe3a8fb2750d471fe414654f28a4e879f6b6a81e54c1",
           "transcript": "കിടക്കുക"
@@ -11441,7 +12492,9 @@
       "id": "moag-22-12d7d5499a2bbc50",
       "malayalam": "കിടക്കുക (past: കിടന്നു)",
       "origin": "textbook",
-      "source": "docs/lesson22.md"
+      "sense": "describing posture",
+      "source": "docs/lesson22.md",
+      "study": true
     },
     {
       "audio": [],
@@ -11998,15 +13051,6 @@
       "source": "docs/lesson22.md"
     },
     {
-      "audio": [],
-      "chapter": 22,
-      "english": "huge, awful, frightful",
-      "id": "moag-22-0cd3da87692ce548",
-      "malayalam": "ഭയങ്കര",
-      "origin": "textbook",
-      "source": "docs/lesson22.md"
-    },
-    {
       "audio": [
         {
           "path": "docs/assets/audio/moag/words/lesson_22_word_045.mp3",
@@ -12129,21 +13173,6 @@
     {
       "audio": [
         {
-          "path": "docs/assets/audio/moag/words/lesson_22_word_053.mp3",
-          "sha256": "bbea0810a5c482a4dbc344be8106a912e3ff1ed40c601629ffeedb5c14643d5f",
-          "transcript": "വേണ്ടി"
-        }
-      ],
-      "chapter": 22,
-      "english": "for, in order to (dative, infinitive)",
-      "id": "moag-22-b94105a182be5628",
-      "malayalam": "വേണ്ടി",
-      "origin": "textbook",
-      "source": "docs/lesson22.md"
-    },
-    {
-      "audio": [
-        {
           "path": "docs/assets/audio/moag/words/lesson_22_word_054.mp3",
           "sha256": "480968aed54b2c839d355aba7b6626aea7fd182b5366b151826707a8121322df",
           "transcript": "പ്രാർത്ഥിക്കുക"
@@ -12170,11 +13199,38 @@
         }
       ],
       "chapter": 22,
-      "english": "otherwise",
+      "english": "otherwise; instead",
       "id": "moag-22-9aada3915484e76a",
       "malayalam": "അല്ലാതെ",
+      "occurrences": [
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_22_word_056.mp3",
+              "sha256": "c519a8a303d04e8f8ad2516d1c2219734221d0c60e80716858e853e64f327325",
+              "transcript": "അല്ലാതെ"
+            }
+          ],
+          "chapter": 22,
+          "english": "otherwise",
+          "id": "moag-22-9aada3915484e76a",
+          "malayalam": "അല്ലാതെ",
+          "origin": "textbook",
+          "source": "docs/lesson22.md"
+        },
+        {
+          "audio": [],
+          "chapter": 25,
+          "english": "instead",
+          "id": "moag-25-d0784bd24cb75eff",
+          "malayalam": "അല്ലാതെ",
+          "origin": "textbook",
+          "source": "docs/lesson25.md"
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson22.md"
+      "source": "docs/lesson22.md",
+      "study": true
     },
     {
       "audio": [
@@ -12411,21 +13467,6 @@
     {
       "audio": [
         {
-          "path": "docs/assets/audio/moag/words/lesson_23_word_017.mp3",
-          "sha256": "48b9bb6edef8bfbf8ad67685955b79a31c344b1c75a82484f88e16604a5d7e6f",
-          "transcript": "അന്ന്"
-        }
-      ],
-      "chapter": 23,
-      "english": "that day",
-      "id": "moag-23-8a4eec0d6d452441",
-      "malayalam": "അന്ന്",
-      "origin": "textbook",
-      "source": "docs/lesson23.md"
-    },
-    {
-      "audio": [
-        {
           "path": "docs/assets/audio/moag/words/lesson_23_word_018.mp3",
           "sha256": "4ea72aeb21019bbb1c72c1cf2cbe87956a9e647f79e62c05cb611054cc676a33",
           "transcript": "കാഴ്ച"
@@ -12501,21 +13542,6 @@
     {
       "audio": [
         {
-          "path": "docs/assets/audio/moag/words/lesson_23_word_023.mp3",
-          "sha256": "a2aec87f3c4a5db52b4ee13e985974c1a5261f15e40792a0d401d47b94454690",
-          "transcript": "തിരിക്കുക"
-        }
-      ],
-      "chapter": 23,
-      "english": "to turn something; colloquial (concerning travel), to proceed, to start",
-      "id": "moag-23-7fbd42305d9c6b1f",
-      "malayalam": "തിരിക്കുക",
-      "origin": "textbook",
-      "source": "docs/lesson23.md"
-    },
-    {
-      "audio": [
-        {
           "path": "docs/assets/audio/moag/words/lesson_23_word_024.mp3",
           "sha256": "c696edbf7dd531859fa3e8618ab5a8a93468bd65e813a12469bb864d132d8008",
           "transcript": "കടൽത്തീരം"
@@ -12534,8 +13560,47 @@
       "english": "along (with locative)",
       "id": "moag-23-39049b83212130c1",
       "malayalam": "കൂടി",
+      "occurrences": [
+        {
+          "audio": [],
+          "chapter": 23,
+          "english": "along (with locative)",
+          "id": "moag-23-39049b83212130c1",
+          "malayalam": "കൂടി",
+          "origin": "textbook",
+          "source": "docs/lesson23.md"
+        },
+        {
+          "audio": [],
+          "category": "postposition",
+          "chapter": 6,
+          "english": "through, along (postposition; after a locative noun)",
+          "id": "moag-06-37cadc1b3967ae7c",
+          "malayalam": "കൂടി",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "appendix-d-locative",
+              "category": "postposition",
+              "source": "docs/appendix-d.md"
+            }
+          ],
+          "source": "docs/appendix-d.md",
+          "source_anchor": "appendix-d-locative",
+          "study": false
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson23.md"
+      "references": [
+        {
+          "anchor": "appendix-d-locative",
+          "category": "postposition",
+          "source": "docs/appendix-d.md"
+        }
+      ],
+      "sense": "describing a route",
+      "source": "docs/lesson23.md",
+      "study": true
     },
     {
       "audio": [
@@ -12600,7 +13665,9 @@
       "id": "moag-23-4d72e1e366bc3614",
       "malayalam": "കിടക്കുക",
       "origin": "textbook",
-      "source": "docs/lesson23.md"
+      "sense": "an overnight visit",
+      "source": "docs/lesson23.md",
+      "study": true
     },
     {
       "audio": [
@@ -13016,21 +14083,6 @@
     {
       "audio": [
         {
-          "path": "docs/assets/audio/moag/words/lesson_23_word_005.mp3",
-          "sha256": "c8ac4ccd28cc0bb9f89e38fce013428a584634f4719e7773642dc6383bf4756c",
-          "transcript": "ആയിരുന്നു"
-        }
-      ],
-      "chapter": 23,
-      "english": "was; were",
-      "id": "moag-23-18759496283826a2",
-      "malayalam": "ആയിരുന്നു",
-      "origin": "recorded_addition",
-      "source": "docs/lesson23.md"
-    },
-    {
-      "audio": [
-        {
           "path": "docs/assets/audio/moag/words/lesson_23_word_006.mp3",
           "sha256": "8fd3d9af1ec711087cc6c516604220868a8b50088211959cfd1569998947a215",
           "transcript": "വിറ്റാൽ"
@@ -13097,11 +14149,63 @@
         }
       ],
       "chapter": 24,
-      "english": "near, (in the) vicinity",
+      "english": "near; in the vicinity",
       "id": "moag-24-3f84ac0df53503db",
       "malayalam": "സമീപം",
+      "occurrences": [
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_24_word_003.mp3",
+              "sha256": "62e4b86d6a60995da3534e9b4cdc9829e6d338233e4c8b2c719de161c1a2c744",
+              "transcript": "സമീപം"
+            }
+          ],
+          "chapter": 24,
+          "english": "near, (in the) vicinity",
+          "id": "moag-24-3f84ac0df53503db",
+          "malayalam": "സമീപം",
+          "origin": "textbook",
+          "source": "docs/lesson24.md"
+        },
+        {
+          "audio": [],
+          "category": "postposition",
+          "chapter": 6,
+          "english": "nearby, by (postposition; after a possessive noun; also dative in colloquial speech)",
+          "id": "moag-06-437de08809c451a0",
+          "malayalam": "സമീപം",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "appendix-d-possessive",
+              "category": "postposition",
+              "source": "docs/appendix-d.md"
+            }
+          ],
+          "source": "docs/appendix-d.md",
+          "source_anchor": "appendix-d-possessive",
+          "study": false,
+          "variants": [
+            "സമീപെ",
+            "സമീപത്ത്"
+          ]
+        }
+      ],
       "origin": "textbook",
-      "source": "docs/lesson24.md"
+      "references": [
+        {
+          "anchor": "appendix-d-possessive",
+          "category": "postposition",
+          "source": "docs/appendix-d.md"
+        }
+      ],
+      "source": "docs/lesson24.md",
+      "study": true,
+      "variants": [
+        "സമീപെ",
+        "സമീപത്ത്"
+      ]
     },
     {
       "audio": [
@@ -13451,7 +14555,9 @@
       "id": "moag-24-a8e98370790510f5",
       "malayalam": "തമ്മിൽ",
       "origin": "textbook",
-      "source": "docs/lesson24.md"
+      "sense": "Lesson 24 vocabulary",
+      "source": "docs/lesson24.md",
+      "study": true
     },
     {
       "audio": [
@@ -14826,7 +15932,9 @@
       "id": "moag-25-7bdfe64e02e5ddb4",
       "malayalam": "ചുരുക്കം",
       "origin": "textbook",
-      "source": "docs/lesson25.md"
+      "sense": "describing quantity",
+      "source": "docs/lesson25.md",
+      "study": true
     },
     {
       "audio": [
@@ -15017,15 +16125,6 @@
       "source": "docs/lesson25.md"
     },
     {
-      "audio": [],
-      "chapter": 25,
-      "english": "instead",
-      "id": "moag-25-d0784bd24cb75eff",
-      "malayalam": "അല്ലാതെ",
-      "origin": "textbook",
-      "source": "docs/lesson25.md"
-    },
-    {
       "audio": [
         {
           "path": "docs/assets/audio/moag/words/lesson_25_word_074.mp3",
@@ -15089,25 +16188,7 @@
           "source": "docs/lesson2.md"
         }
       ],
-      "source": "docs/lesson2.md",
-      "source_anchor": "lesson2-a-personal-pronouns",
-      "study": true
-    },
-    {
-      "audio": [],
-      "category": "personal_pronoun",
-      "chapter": 2,
-      "english": "he (informal; at a distance)",
-      "id": "moag-02-79b51a4e328ce6e1",
-      "malayalam": "അവൻ",
-      "origin": "reference_table",
-      "references": [
-        {
-          "anchor": "lesson2-a-personal-pronouns",
-          "category": "personal_pronoun",
-          "source": "docs/lesson2.md"
-        }
-      ],
+      "sense": "addressing one person politely",
       "source": "docs/lesson2.md",
       "source_anchor": "lesson2-a-personal-pronouns",
       "study": true
@@ -15154,47 +16235,9 @@
       "audio": [],
       "category": "personal_pronoun",
       "chapter": 2,
-      "english": "he (formal; at a distance)",
-      "id": "moag-02-dc38fb82ce99a23d",
-      "malayalam": "അദ്ദേഹം",
-      "origin": "reference_table",
-      "references": [
-        {
-          "anchor": "lesson2-a-personal-pronouns",
-          "category": "personal_pronoun",
-          "source": "docs/lesson2.md"
-        }
-      ],
-      "source": "docs/lesson2.md",
-      "source_anchor": "lesson2-a-personal-pronouns",
-      "study": true
-    },
-    {
-      "audio": [],
-      "category": "personal_pronoun",
-      "chapter": 2,
       "english": "he (formal; nearby)",
       "id": "moag-02-a1fb5c6941617521",
       "malayalam": "ഇദ്ദേഹം",
-      "origin": "reference_table",
-      "references": [
-        {
-          "anchor": "lesson2-a-personal-pronouns",
-          "category": "personal_pronoun",
-          "source": "docs/lesson2.md"
-        }
-      ],
-      "source": "docs/lesson2.md",
-      "source_anchor": "lesson2-a-personal-pronouns",
-      "study": true
-    },
-    {
-      "audio": [],
-      "category": "personal_pronoun",
-      "chapter": 2,
-      "english": "she (informal; at a distance)",
-      "id": "moag-02-45f18f99164f5307",
-      "malayalam": "അവൾ",
       "origin": "reference_table",
       "references": [
         {
@@ -15241,6 +16284,7 @@
           "source": "docs/lesson2.md"
         }
       ],
+      "sense": "formal reference to one woman",
       "source": "docs/lesson2.md",
       "source_anchor": "lesson2-a-personal-pronouns",
       "study": true
@@ -15260,17 +16304,60 @@
           "source": "docs/lesson2.md"
         }
       ],
+      "sense": "formal reference to one woman nearby",
       "source": "docs/lesson2.md",
       "source_anchor": "lesson2-a-personal-pronouns",
       "study": true
     },
     {
-      "audio": [],
+      "audio": [
+        {
+          "path": "docs/assets/audio/moag/words/lesson_03_word_019.mp3",
+          "sha256": "93e4b6843a62ccfb28b81bb5ec59955a2202afaa2d05bf3282501b4bd970c625",
+          "transcript": "ഞങ്ങൾ"
+        }
+      ],
       "category": "personal_pronoun",
       "chapter": 2,
       "english": "we (excluding the listener)",
       "id": "moag-02-936fc90c057d5758",
       "malayalam": "ഞങ്ങൾ",
+      "occurrences": [
+        {
+          "audio": [],
+          "category": "personal_pronoun",
+          "chapter": 2,
+          "english": "we (excluding the listener)",
+          "id": "moag-02-936fc90c057d5758",
+          "malayalam": "ഞങ്ങൾ",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson2-a-personal-pronouns",
+              "category": "personal_pronoun",
+              "source": "docs/lesson2.md"
+            }
+          ],
+          "source": "docs/lesson2.md",
+          "source_anchor": "lesson2-a-personal-pronouns",
+          "study": true
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_03_word_019.mp3",
+              "sha256": "93e4b6843a62ccfb28b81bb5ec59955a2202afaa2d05bf3282501b4bd970c625",
+              "transcript": "ഞങ്ങൾ"
+            }
+          ],
+          "chapter": 3,
+          "english": "we (excluding listener)",
+          "id": "moag-03-ee1a778c0f4cde44",
+          "malayalam": "ഞങ്ങൾ",
+          "origin": "textbook",
+          "source": "docs/lesson3.md"
+        }
+      ],
       "origin": "reference_table",
       "references": [
         {
@@ -15317,17 +16404,60 @@
           "source": "docs/lesson2.md"
         }
       ],
+      "sense": "addressing several people",
       "source": "docs/lesson2.md",
       "source_anchor": "lesson2-a-personal-pronouns",
       "study": true
     },
     {
-      "audio": [],
+      "audio": [
+        {
+          "path": "docs/assets/audio/moag/words/lesson_03_word_020.mp3",
+          "sha256": "81e47b9e9c65ee1fdf79bb3aac001f0b2a16703861b2343129f7e94636eb35b5",
+          "transcript": "അവർ"
+        }
+      ],
       "category": "personal_pronoun",
       "chapter": 2,
       "english": "they (people at a distance)",
       "id": "moag-02-3874309e9d3349a5",
       "malayalam": "അവർ",
+      "occurrences": [
+        {
+          "audio": [],
+          "category": "personal_pronoun",
+          "chapter": 2,
+          "english": "they (people at a distance)",
+          "id": "moag-02-3874309e9d3349a5",
+          "malayalam": "അവർ",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson2-a-personal-pronouns",
+              "category": "personal_pronoun",
+              "source": "docs/lesson2.md"
+            }
+          ],
+          "source": "docs/lesson2.md",
+          "source_anchor": "lesson2-a-personal-pronouns",
+          "study": true
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_03_word_020.mp3",
+              "sha256": "81e47b9e9c65ee1fdf79bb3aac001f0b2a16703861b2343129f7e94636eb35b5",
+              "transcript": "അവർ"
+            }
+          ],
+          "chapter": 3,
+          "english": "they",
+          "id": "moag-03-117549876b0565eb",
+          "malayalam": "അവർ",
+          "origin": "textbook",
+          "source": "docs/lesson3.md"
+        }
+      ],
       "origin": "reference_table",
       "references": [
         {
@@ -15336,6 +16466,7 @@
           "source": "docs/lesson2.md"
         }
       ],
+      "sense": "referring to several people",
       "source": "docs/lesson2.md",
       "source_anchor": "lesson2-a-personal-pronouns",
       "study": true
@@ -15355,6 +16486,7 @@
           "source": "docs/lesson2.md"
         }
       ],
+      "sense": "referring to several people nearby",
       "source": "docs/lesson2.md",
       "source_anchor": "lesson2-a-personal-pronouns",
       "study": true
@@ -15379,12 +16511,54 @@
       "study": true
     },
     {
-      "audio": [],
+      "audio": [
+        {
+          "path": "docs/assets/audio/moag/words/lesson_03_word_007.mp3",
+          "sha256": "6c420a3e62e129772340230a6501d40f74edf71d9cd389abd45f17089a49b711",
+          "transcript": "ഇങ്ങോട്ട്"
+        }
+      ],
       "category": "question_and_adverb",
       "chapter": 2,
       "english": "over here, in this direction",
       "id": "moag-02-0207aaa913a867c2",
       "malayalam": "ഇങ്ങോട്ട്",
+      "occurrences": [
+        {
+          "audio": [],
+          "category": "question_and_adverb",
+          "chapter": 2,
+          "english": "over here, in this direction",
+          "id": "moag-02-0207aaa913a867c2",
+          "malayalam": "ഇങ്ങോട്ട്",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson2-adverbs-of-place",
+              "category": "question_and_adverb",
+              "source": "docs/lesson2.md"
+            }
+          ],
+          "source": "docs/lesson2.md",
+          "source_anchor": "lesson2-adverbs-of-place",
+          "study": true
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_03_word_007.mp3",
+              "sha256": "6c420a3e62e129772340230a6501d40f74edf71d9cd389abd45f17089a49b711",
+              "transcript": "ഇങ്ങോട്ട്"
+            }
+          ],
+          "chapter": 3,
+          "english": "this way, over here",
+          "id": "moag-03-256210fce84577b9",
+          "malayalam": "ഇങ്ങോട്ട്",
+          "origin": "textbook",
+          "source": "docs/lesson3.md"
+        }
+      ],
       "origin": "reference_table",
       "references": [
         {
@@ -15436,12 +16610,74 @@
       "study": true
     },
     {
-      "audio": [],
+      "audio": [
+        {
+          "path": "docs/assets/audio/moag/words/lesson_03_word_011.mp3",
+          "sha256": "5a3e3329ada4cf0ad1f32dd6e495b91e220d94a7cc2b55c8f081a77991598381",
+          "transcript": "ഇപ്പോൾ"
+        },
+        {
+          "path": "docs/assets/audio/moag/words/lesson_07_word_007.mp3",
+          "sha256": "3b304679f8a11e4d3523dd18d4c421e49ed1fd0e3cfba4a884577d6ee388e56a",
+          "transcript": "ഇപ്പോൾ"
+        }
+      ],
       "category": "question_and_adverb",
       "chapter": 2,
       "english": "now",
       "id": "moag-02-d4f7a4a9f58abeb7",
       "malayalam": "ഇപ്പോൾ",
+      "occurrences": [
+        {
+          "audio": [],
+          "category": "question_and_adverb",
+          "chapter": 2,
+          "english": "now",
+          "id": "moag-02-d4f7a4a9f58abeb7",
+          "malayalam": "ഇപ്പോൾ",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson2-adverbs-of-time",
+              "category": "question_and_adverb",
+              "source": "docs/lesson2.md"
+            }
+          ],
+          "source": "docs/lesson2.md",
+          "source_anchor": "lesson2-adverbs-of-time",
+          "study": true
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_03_word_011.mp3",
+              "sha256": "5a3e3329ada4cf0ad1f32dd6e495b91e220d94a7cc2b55c8f081a77991598381",
+              "transcript": "ഇപ്പോൾ"
+            }
+          ],
+          "chapter": 3,
+          "english": "now",
+          "id": "moag-03-c7788e13ecedff91",
+          "malayalam": "ഇപ്പോൾ",
+          "origin": "recorded_addition",
+          "source": "docs/lesson3.md"
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_07_word_007.mp3",
+              "sha256": "3b304679f8a11e4d3523dd18d4c421e49ed1fd0e3cfba4a884577d6ee388e56a",
+              "transcript": "ഇപ്പോൾ"
+            }
+          ],
+          "chapter": 7,
+          "english": "now",
+          "id": "moag-07-2a3fe937da67188a",
+          "malayalam": "ഇപ്പോൾ",
+          "origin": "textbook",
+          "source": "docs/lesson7.md"
+        }
+      ],
       "origin": "reference_table",
       "references": [
         {
@@ -15455,12 +16691,54 @@
       "study": true
     },
     {
-      "audio": [],
+      "audio": [
+        {
+          "path": "docs/assets/audio/moag/words/lesson_04_word_010.mp3",
+          "sha256": "b275f1023b1b6f9a542ba397ff887ba43a87fcfcb3e09ba4316e0cad295f9fcd",
+          "transcript": "അപ്പോൾ"
+        }
+      ],
       "category": "question_and_adverb",
       "chapter": 2,
       "english": "then",
       "id": "moag-02-72eede6504521c4f",
       "malayalam": "അപ്പോൾ",
+      "occurrences": [
+        {
+          "audio": [],
+          "category": "question_and_adverb",
+          "chapter": 2,
+          "english": "then",
+          "id": "moag-02-72eede6504521c4f",
+          "malayalam": "അപ്പോൾ",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson2-adverbs-of-time",
+              "category": "question_and_adverb",
+              "source": "docs/lesson2.md"
+            }
+          ],
+          "source": "docs/lesson2.md",
+          "source_anchor": "lesson2-adverbs-of-time",
+          "study": true
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_04_word_010.mp3",
+              "sha256": "b275f1023b1b6f9a542ba397ff887ba43a87fcfcb3e09ba4316e0cad295f9fcd",
+              "transcript": "അപ്പോൾ"
+            }
+          ],
+          "chapter": 4,
+          "english": "then",
+          "id": "moag-04-2d4f49f1f8156ef9",
+          "malayalam": "അപ്പോൾ",
+          "origin": "textbook",
+          "source": "docs/lesson4.md"
+        }
+      ],
       "origin": "reference_table",
       "references": [
         {
@@ -15474,12 +16752,54 @@
       "study": true
     },
     {
-      "audio": [],
+      "audio": [
+        {
+          "path": "docs/assets/audio/moag/words/lesson_07_word_003.mp3",
+          "sha256": "744bd130718b9195d186f5bb0e4ce6fce4e0d5e1137c7a04e2af3575985f2d78",
+          "transcript": "എപ്പോൾ"
+        }
+      ],
       "category": "question_and_adverb",
       "chapter": 2,
       "english": "when?",
       "id": "moag-02-9671bd62d85ef431",
       "malayalam": "എപ്പോൾ",
+      "occurrences": [
+        {
+          "audio": [],
+          "category": "question_and_adverb",
+          "chapter": 2,
+          "english": "when?",
+          "id": "moag-02-9671bd62d85ef431",
+          "malayalam": "എപ്പോൾ",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson2-adverbs-of-time",
+              "category": "question_and_adverb",
+              "source": "docs/lesson2.md"
+            }
+          ],
+          "source": "docs/lesson2.md",
+          "source_anchor": "lesson2-adverbs-of-time",
+          "study": true
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_07_word_003.mp3",
+              "sha256": "744bd130718b9195d186f5bb0e4ce6fce4e0d5e1137c7a04e2af3575985f2d78",
+              "transcript": "എപ്പോൾ"
+            }
+          ],
+          "chapter": 7,
+          "english": "when",
+          "id": "moag-07-d36de8bfa977eb82",
+          "malayalam": "എപ്പോൾ",
+          "origin": "textbook",
+          "source": "docs/lesson7.md"
+        }
+      ],
       "origin": "reference_table",
       "references": [
         {
@@ -15493,12 +16813,74 @@
       "study": true
     },
     {
-      "audio": [],
+      "audio": [
+        {
+          "path": "docs/assets/audio/moag/words/lesson_08_word_006.mp3",
+          "sha256": "3a967bb3518f1c39967b1227ca2906bf425182bdd824fd5f59ff6440e1ca0d7c",
+          "transcript": "ഇന്ന്"
+        },
+        {
+          "path": "docs/assets/audio/moag/words/lesson_12_word_015.mp3",
+          "sha256": "6d073b26d56fe6d04f58794ab3662ce21975f59f585fe402ad586ed9bf049c01",
+          "transcript": "ഇന്ന്"
+        }
+      ],
       "category": "question_and_adverb",
       "chapter": 2,
       "english": "today",
       "id": "moag-02-d3e5e2299bbf6328",
       "malayalam": "ഇന്ന്",
+      "occurrences": [
+        {
+          "audio": [],
+          "category": "question_and_adverb",
+          "chapter": 2,
+          "english": "today",
+          "id": "moag-02-d3e5e2299bbf6328",
+          "malayalam": "ഇന്ന്",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson2-adverbs-of-time",
+              "category": "question_and_adverb",
+              "source": "docs/lesson2.md"
+            }
+          ],
+          "source": "docs/lesson2.md",
+          "source_anchor": "lesson2-adverbs-of-time",
+          "study": true
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_08_word_006.mp3",
+              "sha256": "3a967bb3518f1c39967b1227ca2906bf425182bdd824fd5f59ff6440e1ca0d7c",
+              "transcript": "ഇന്ന്"
+            }
+          ],
+          "chapter": 8,
+          "english": "today",
+          "id": "moag-08-cfb8e7baa90f2e0d",
+          "malayalam": "ഇന്ന്",
+          "origin": "textbook",
+          "source": "docs/lesson8.md"
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_12_word_015.mp3",
+              "sha256": "6d073b26d56fe6d04f58794ab3662ce21975f59f585fe402ad586ed9bf049c01",
+              "transcript": "ഇന്ന്"
+            }
+          ],
+          "chapter": 12,
+          "english": "today",
+          "id": "moag-12-4a08ff60d61f9447",
+          "malayalam": "ഇന്ന്",
+          "origin": "recorded_addition",
+          "source": "docs/lesson12.md"
+        }
+      ],
       "origin": "reference_table",
       "references": [
         {
@@ -15512,12 +16894,54 @@
       "study": true
     },
     {
-      "audio": [],
+      "audio": [
+        {
+          "path": "docs/assets/audio/moag/words/lesson_23_word_017.mp3",
+          "sha256": "48b9bb6edef8bfbf8ad67685955b79a31c344b1c75a82484f88e16604a5d7e6f",
+          "transcript": "അന്ന്"
+        }
+      ],
       "category": "question_and_adverb",
       "chapter": 2,
       "english": "that day",
       "id": "moag-02-9f94238695d559f6",
       "malayalam": "അന്ന്",
+      "occurrences": [
+        {
+          "audio": [],
+          "category": "question_and_adverb",
+          "chapter": 2,
+          "english": "that day",
+          "id": "moag-02-9f94238695d559f6",
+          "malayalam": "അന്ന്",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson2-adverbs-of-time",
+              "category": "question_and_adverb",
+              "source": "docs/lesson2.md"
+            }
+          ],
+          "source": "docs/lesson2.md",
+          "source_anchor": "lesson2-adverbs-of-time",
+          "study": true
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_23_word_017.mp3",
+              "sha256": "48b9bb6edef8bfbf8ad67685955b79a31c344b1c75a82484f88e16604a5d7e6f",
+              "transcript": "അന്ന്"
+            }
+          ],
+          "chapter": 23,
+          "english": "that day",
+          "id": "moag-23-8a4eec0d6d452441",
+          "malayalam": "അന്ന്",
+          "origin": "textbook",
+          "source": "docs/lesson23.md"
+        }
+      ],
       "origin": "reference_table",
       "references": [
         {
@@ -15545,6 +16969,7 @@
           "source": "docs/lesson2.md"
         }
       ],
+      "sense": "asking about a day",
       "source": "docs/lesson2.md",
       "source_anchor": "lesson2-adverbs-of-time",
       "study": true
@@ -15569,12 +16994,54 @@
       "study": true
     },
     {
-      "audio": [],
+      "audio": [
+        {
+          "path": "docs/assets/audio/moag/words/lesson_05_word_016.mp3",
+          "sha256": "a8ba0c50f014b0c264a8eed0d3009ab5c0521eee89d07d807de688fee94be9b6",
+          "transcript": "അങ്ങനെ"
+        }
+      ],
       "category": "question_and_adverb",
       "chapter": 2,
       "english": "that way, like that",
       "id": "moag-02-9681edd0be5cc25c",
       "malayalam": "അങ്ങനെ",
+      "occurrences": [
+        {
+          "audio": [],
+          "category": "question_and_adverb",
+          "chapter": 2,
+          "english": "that way, like that",
+          "id": "moag-02-9681edd0be5cc25c",
+          "malayalam": "അങ്ങനെ",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson2-adverbs-of-manner",
+              "category": "question_and_adverb",
+              "source": "docs/lesson2.md"
+            }
+          ],
+          "source": "docs/lesson2.md",
+          "source_anchor": "lesson2-adverbs-of-manner",
+          "study": true
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_05_word_016.mp3",
+              "sha256": "a8ba0c50f014b0c264a8eed0d3009ab5c0521eee89d07d807de688fee94be9b6",
+              "transcript": "അങ്ങനെ"
+            }
+          ],
+          "chapter": 5,
+          "english": "that way, like that",
+          "id": "moag-05-caddff479651a34b",
+          "malayalam": "അങ്ങനെ",
+          "origin": "textbook",
+          "source": "docs/lesson5.md"
+        }
+      ],
       "origin": "reference_table",
       "references": [
         {
@@ -15588,12 +17055,54 @@
       "study": true
     },
     {
-      "audio": [],
+      "audio": [
+        {
+          "path": "docs/assets/audio/moag/words/lesson_07_word_015.mp3",
+          "sha256": "0e9f3bb16cfef9bd4e83a05cbff0dd1126e031033649b798a1abc26606ebccaf",
+          "transcript": "എങ്ങനെ"
+        }
+      ],
       "category": "question_and_adverb",
       "chapter": 2,
       "english": "which way?, how?",
       "id": "moag-02-17c592263f9889e5",
       "malayalam": "എങ്ങനെ",
+      "occurrences": [
+        {
+          "audio": [],
+          "category": "question_and_adverb",
+          "chapter": 2,
+          "english": "which way?, how?",
+          "id": "moag-02-17c592263f9889e5",
+          "malayalam": "എങ്ങനെ",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson2-adverbs-of-manner",
+              "category": "question_and_adverb",
+              "source": "docs/lesson2.md"
+            }
+          ],
+          "source": "docs/lesson2.md",
+          "source_anchor": "lesson2-adverbs-of-manner",
+          "study": true
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_07_word_015.mp3",
+              "sha256": "0e9f3bb16cfef9bd4e83a05cbff0dd1126e031033649b798a1abc26606ebccaf",
+              "transcript": "എങ്ങനെ"
+            }
+          ],
+          "chapter": 7,
+          "english": "how",
+          "id": "moag-07-d6a15f8d0f5ffb45",
+          "malayalam": "എങ്ങനെ",
+          "origin": "textbook",
+          "source": "docs/lesson7.md"
+        }
+      ],
       "origin": "reference_table",
       "references": [
         {
@@ -15604,44 +17113,6 @@
       ],
       "source": "docs/lesson2.md",
       "source_anchor": "lesson2-adverbs-of-manner",
-      "study": true
-    },
-    {
-      "audio": [],
-      "category": "demonstrative",
-      "chapter": 3,
-      "english": "this, this one (pronoun)",
-      "id": "moag-03-9baa1fded7b99f98",
-      "malayalam": "ഇത്",
-      "origin": "reference_table",
-      "references": [
-        {
-          "anchor": "lesson3-demonstratives",
-          "category": "demonstrative",
-          "source": "docs/lesson3.md"
-        }
-      ],
-      "source": "docs/lesson3.md",
-      "source_anchor": "lesson3-demonstratives",
-      "study": true
-    },
-    {
-      "audio": [],
-      "category": "demonstrative",
-      "chapter": 3,
-      "english": "that, that one (pronoun)",
-      "id": "moag-03-78ccf6f3a635de70",
-      "malayalam": "അത്",
-      "origin": "reference_table",
-      "references": [
-        {
-          "anchor": "lesson3-demonstratives",
-          "category": "demonstrative",
-          "source": "docs/lesson3.md"
-        }
-      ],
-      "source": "docs/lesson3.md",
-      "source_anchor": "lesson3-demonstratives",
       "study": true
     },
     {
@@ -15659,36 +17130,60 @@
           "source": "docs/lesson3.md"
         }
       ],
+      "sense": "standing in place of a noun",
       "source": "docs/lesson3.md",
       "source_anchor": "lesson3-demonstratives",
       "study": true
     },
     {
-      "audio": [],
-      "category": "demonstrative",
-      "chapter": 3,
-      "english": "this (adjective)",
-      "id": "moag-03-627462679f441e4d",
-      "malayalam": "ഈ",
-      "origin": "reference_table",
-      "references": [
+      "audio": [
         {
-          "anchor": "lesson3-demonstratives",
-          "category": "demonstrative",
-          "source": "docs/lesson3.md"
+          "path": "docs/assets/audio/moag/words/lesson_16_word_020.mp3",
+          "sha256": "386fce3a6689ccea7031188dba521ab769b8448fe68c95800ef5a8546f2a2bfe",
+          "transcript": "ഏത്"
         }
       ],
-      "source": "docs/lesson3.md",
-      "source_anchor": "lesson3-demonstratives",
-      "study": true
-    },
-    {
-      "audio": [],
       "category": "demonstrative",
       "chapter": 3,
       "english": "which? (adjective)",
       "id": "moag-03-60758e5b65037fd5",
       "malayalam": "ഏത്",
+      "occurrences": [
+        {
+          "audio": [],
+          "category": "demonstrative",
+          "chapter": 3,
+          "english": "which? (adjective)",
+          "id": "moag-03-60758e5b65037fd5",
+          "malayalam": "ഏത്",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson3-demonstratives",
+              "category": "demonstrative",
+              "source": "docs/lesson3.md"
+            }
+          ],
+          "source": "docs/lesson3.md",
+          "source_anchor": "lesson3-demonstratives",
+          "study": true
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_16_word_020.mp3",
+              "sha256": "386fce3a6689ccea7031188dba521ab769b8448fe68c95800ef5a8546f2a2bfe",
+              "transcript": "ഏത്"
+            }
+          ],
+          "chapter": 16,
+          "english": "which?",
+          "id": "moag-16-441d38a60073ceef",
+          "malayalam": "ഏത്",
+          "origin": "recorded_addition",
+          "source": "docs/lesson16.md"
+        }
+      ],
       "origin": "reference_table",
       "references": [
         {
@@ -15697,6 +17192,7 @@
           "source": "docs/lesson3.md"
         }
       ],
+      "sense": "before a noun",
       "source": "docs/lesson3.md",
       "source_anchor": "lesson3-demonstratives",
       "study": true
@@ -15708,14 +17204,60 @@
       "english": "one",
       "id": "moag-03-d1b834d4a5410752",
       "malayalam": "ഒന്ന്",
+      "occurrences": [
+        {
+          "audio": [],
+          "category": "number",
+          "chapter": 3,
+          "english": "one",
+          "id": "moag-03-d1b834d4a5410752",
+          "malayalam": "ഒന്ന്",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson3-numbers",
+              "category": "number",
+              "source": "docs/lesson3.md"
+            }
+          ],
+          "source": "docs/lesson3.md",
+          "source_anchor": "lesson3-numbers",
+          "study": true
+        },
+        {
+          "audio": [],
+          "category": "number",
+          "chapter": 7,
+          "english": "1",
+          "id": "moag-07-be44cbb3190b69ec",
+          "malayalam": "ഒന്ന്",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
+              "category": "number",
+              "source": "docs/lesson7.md"
+            }
+          ],
+          "source": "docs/lesson7.md",
+          "source_anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
+          "study": false
+        }
+      ],
       "origin": "reference_table",
       "references": [
         {
           "anchor": "lesson3-numbers",
           "category": "number",
           "source": "docs/lesson3.md"
+        },
+        {
+          "anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
+          "category": "number",
+          "source": "docs/lesson7.md"
         }
       ],
+      "sense": "number",
       "source": "docs/lesson3.md",
       "source_anchor": "lesson3-numbers",
       "study": true
@@ -15727,12 +17269,57 @@
       "english": "two",
       "id": "moag-03-9b3e0c3d7f01abbe",
       "malayalam": "രണ്ട്",
+      "occurrences": [
+        {
+          "audio": [],
+          "category": "number",
+          "chapter": 3,
+          "english": "two",
+          "id": "moag-03-9b3e0c3d7f01abbe",
+          "malayalam": "രണ്ട്",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson3-numbers",
+              "category": "number",
+              "source": "docs/lesson3.md"
+            }
+          ],
+          "source": "docs/lesson3.md",
+          "source_anchor": "lesson3-numbers",
+          "study": true
+        },
+        {
+          "audio": [],
+          "category": "number",
+          "chapter": 7,
+          "english": "2",
+          "id": "moag-07-21e3c31d39f3619c",
+          "malayalam": "രണ്ട്",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
+              "category": "number",
+              "source": "docs/lesson7.md"
+            }
+          ],
+          "source": "docs/lesson7.md",
+          "source_anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
+          "study": false
+        }
+      ],
       "origin": "reference_table",
       "references": [
         {
           "anchor": "lesson3-numbers",
           "category": "number",
           "source": "docs/lesson3.md"
+        },
+        {
+          "anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
+          "category": "number",
+          "source": "docs/lesson7.md"
         }
       ],
       "source": "docs/lesson3.md",
@@ -15746,12 +17333,57 @@
       "english": "three",
       "id": "moag-03-22acc7eab4767e17",
       "malayalam": "മൂന്ന്",
+      "occurrences": [
+        {
+          "audio": [],
+          "category": "number",
+          "chapter": 3,
+          "english": "three",
+          "id": "moag-03-22acc7eab4767e17",
+          "malayalam": "മൂന്ന്",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson3-numbers",
+              "category": "number",
+              "source": "docs/lesson3.md"
+            }
+          ],
+          "source": "docs/lesson3.md",
+          "source_anchor": "lesson3-numbers",
+          "study": true
+        },
+        {
+          "audio": [],
+          "category": "number",
+          "chapter": 7,
+          "english": "3",
+          "id": "moag-07-74e27c9763d9f144",
+          "malayalam": "മൂന്ന്",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
+              "category": "number",
+              "source": "docs/lesson7.md"
+            }
+          ],
+          "source": "docs/lesson7.md",
+          "source_anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
+          "study": false
+        }
+      ],
       "origin": "reference_table",
       "references": [
         {
           "anchor": "lesson3-numbers",
           "category": "number",
           "source": "docs/lesson3.md"
+        },
+        {
+          "anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
+          "category": "number",
+          "source": "docs/lesson7.md"
         }
       ],
       "source": "docs/lesson3.md",
@@ -15765,12 +17397,57 @@
       "english": "four",
       "id": "moag-03-91814a76f3d05b4d",
       "malayalam": "നാല്",
+      "occurrences": [
+        {
+          "audio": [],
+          "category": "number",
+          "chapter": 3,
+          "english": "four",
+          "id": "moag-03-91814a76f3d05b4d",
+          "malayalam": "നാല്",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson3-numbers",
+              "category": "number",
+              "source": "docs/lesson3.md"
+            }
+          ],
+          "source": "docs/lesson3.md",
+          "source_anchor": "lesson3-numbers",
+          "study": true
+        },
+        {
+          "audio": [],
+          "category": "number",
+          "chapter": 7,
+          "english": "4",
+          "id": "moag-07-2ca5dbafcf32c27b",
+          "malayalam": "നാല്",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
+              "category": "number",
+              "source": "docs/lesson7.md"
+            }
+          ],
+          "source": "docs/lesson7.md",
+          "source_anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
+          "study": false
+        }
+      ],
       "origin": "reference_table",
       "references": [
         {
           "anchor": "lesson3-numbers",
           "category": "number",
           "source": "docs/lesson3.md"
+        },
+        {
+          "anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
+          "category": "number",
+          "source": "docs/lesson7.md"
         }
       ],
       "source": "docs/lesson3.md",
@@ -15784,14 +17461,60 @@
       "english": "six",
       "id": "moag-03-c55ce91b594d5af4",
       "malayalam": "ആറ്",
+      "occurrences": [
+        {
+          "audio": [],
+          "category": "number",
+          "chapter": 3,
+          "english": "six",
+          "id": "moag-03-c55ce91b594d5af4",
+          "malayalam": "ആറ്",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson3-numbers",
+              "category": "number",
+              "source": "docs/lesson3.md"
+            }
+          ],
+          "source": "docs/lesson3.md",
+          "source_anchor": "lesson3-numbers",
+          "study": true
+        },
+        {
+          "audio": [],
+          "category": "number",
+          "chapter": 7,
+          "english": "6",
+          "id": "moag-07-3489eae337b6ae37",
+          "malayalam": "ആറ്",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
+              "category": "number",
+              "source": "docs/lesson7.md"
+            }
+          ],
+          "source": "docs/lesson7.md",
+          "source_anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
+          "study": false
+        }
+      ],
       "origin": "reference_table",
       "references": [
         {
           "anchor": "lesson3-numbers",
           "category": "number",
           "source": "docs/lesson3.md"
+        },
+        {
+          "anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
+          "category": "number",
+          "source": "docs/lesson7.md"
         }
       ],
+      "sense": "number",
       "source": "docs/lesson3.md",
       "source_anchor": "lesson3-numbers",
       "study": true
@@ -15803,12 +17526,57 @@
       "english": "seven",
       "id": "moag-03-e3e79abb65e2c3e7",
       "malayalam": "ഏഴ്",
+      "occurrences": [
+        {
+          "audio": [],
+          "category": "number",
+          "chapter": 3,
+          "english": "seven",
+          "id": "moag-03-e3e79abb65e2c3e7",
+          "malayalam": "ഏഴ്",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson3-numbers",
+              "category": "number",
+              "source": "docs/lesson3.md"
+            }
+          ],
+          "source": "docs/lesson3.md",
+          "source_anchor": "lesson3-numbers",
+          "study": true
+        },
+        {
+          "audio": [],
+          "category": "number",
+          "chapter": 7,
+          "english": "7",
+          "id": "moag-07-70f884bf49819f85",
+          "malayalam": "ഏഴ്",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
+              "category": "number",
+              "source": "docs/lesson7.md"
+            }
+          ],
+          "source": "docs/lesson7.md",
+          "source_anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
+          "study": false
+        }
+      ],
       "origin": "reference_table",
       "references": [
         {
           "anchor": "lesson3-numbers",
           "category": "number",
           "source": "docs/lesson3.md"
+        },
+        {
+          "anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
+          "category": "number",
+          "source": "docs/lesson7.md"
         }
       ],
       "source": "docs/lesson3.md",
@@ -15822,12 +17590,57 @@
       "english": "eight",
       "id": "moag-03-09dd7c4335f38e87",
       "malayalam": "എട്ട്",
+      "occurrences": [
+        {
+          "audio": [],
+          "category": "number",
+          "chapter": 3,
+          "english": "eight",
+          "id": "moag-03-09dd7c4335f38e87",
+          "malayalam": "എട്ട്",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson3-numbers",
+              "category": "number",
+              "source": "docs/lesson3.md"
+            }
+          ],
+          "source": "docs/lesson3.md",
+          "source_anchor": "lesson3-numbers",
+          "study": true
+        },
+        {
+          "audio": [],
+          "category": "number",
+          "chapter": 7,
+          "english": "8",
+          "id": "moag-07-fceaf54d715697d3",
+          "malayalam": "എട്ട്",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
+              "category": "number",
+              "source": "docs/lesson7.md"
+            }
+          ],
+          "source": "docs/lesson7.md",
+          "source_anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
+          "study": false
+        }
+      ],
       "origin": "reference_table",
       "references": [
         {
           "anchor": "lesson3-numbers",
           "category": "number",
           "source": "docs/lesson3.md"
+        },
+        {
+          "anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
+          "category": "number",
+          "source": "docs/lesson7.md"
         }
       ],
       "source": "docs/lesson3.md",
@@ -15841,12 +17654,57 @@
       "english": "nine",
       "id": "moag-03-760ca541bc92f5c0",
       "malayalam": "ഒൻപത്",
+      "occurrences": [
+        {
+          "audio": [],
+          "category": "number",
+          "chapter": 3,
+          "english": "nine",
+          "id": "moag-03-760ca541bc92f5c0",
+          "malayalam": "ഒൻപത്",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson3-numbers",
+              "category": "number",
+              "source": "docs/lesson3.md"
+            }
+          ],
+          "source": "docs/lesson3.md",
+          "source_anchor": "lesson3-numbers",
+          "study": true
+        },
+        {
+          "audio": [],
+          "category": "number",
+          "chapter": 7,
+          "english": "9",
+          "id": "moag-07-f353cddae3139e52",
+          "malayalam": "ഒൻപത്",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
+              "category": "number",
+              "source": "docs/lesson7.md"
+            }
+          ],
+          "source": "docs/lesson7.md",
+          "source_anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
+          "study": false
+        }
+      ],
       "origin": "reference_table",
       "references": [
         {
           "anchor": "lesson3-numbers",
           "category": "number",
           "source": "docs/lesson3.md"
+        },
+        {
+          "anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
+          "category": "number",
+          "source": "docs/lesson7.md"
         }
       ],
       "source": "docs/lesson3.md",
@@ -16012,47 +17870,9 @@
       "audio": [],
       "category": "possessive_pronoun",
       "chapter": 6,
-      "english": "my",
-      "id": "moag-06-2179e7162c7aaff6",
-      "malayalam": "എന്റെ",
-      "origin": "reference_table",
-      "references": [
-        {
-          "anchor": "lesson6-possessive-of-personal-pronouns",
-          "category": "possessive_pronoun",
-          "source": "docs/lesson6.md"
-        }
-      ],
-      "source": "docs/lesson6.md",
-      "source_anchor": "lesson6-possessive-of-personal-pronouns",
-      "study": true
-    },
-    {
-      "audio": [],
-      "category": "possessive_pronoun",
-      "chapter": 6,
       "english": "your (familiar singular possessive)",
       "id": "moag-06-964e9519a3e3921b",
       "malayalam": "നിന്റെ",
-      "origin": "reference_table",
-      "references": [
-        {
-          "anchor": "lesson6-possessive-of-personal-pronouns",
-          "category": "possessive_pronoun",
-          "source": "docs/lesson6.md"
-        }
-      ],
-      "source": "docs/lesson6.md",
-      "source_anchor": "lesson6-possessive-of-personal-pronouns",
-      "study": true
-    },
-    {
-      "audio": [],
-      "category": "possessive_pronoun",
-      "chapter": 6,
-      "english": "your (plural or polite singular pronoun)",
-      "id": "moag-06-9ef4fa1daa57bdc2",
-      "malayalam": "നിങ്ങളുടെ",
       "origin": "reference_table",
       "references": [
         {
@@ -16156,6 +17976,7 @@
           "source": "docs/lesson6.md"
         }
       ],
+      "sense": "formal reference to one woman",
       "source": "docs/lesson6.md",
       "source_anchor": "lesson6-possessive-of-personal-pronouns",
       "study": true
@@ -16205,25 +18026,6 @@
       "audio": [],
       "category": "possessive_pronoun",
       "chapter": 6,
-      "english": "your (plural possessive)",
-      "id": "moag-06-02a1c29233bc21fa",
-      "malayalam": "നിങ്ങളുടെ",
-      "origin": "reference_table",
-      "references": [
-        {
-          "anchor": "lesson6-possessive-of-personal-pronouns",
-          "category": "possessive_pronoun",
-          "source": "docs/lesson6.md"
-        }
-      ],
-      "source": "docs/lesson6.md",
-      "source_anchor": "lesson6-possessive-of-personal-pronouns",
-      "study": true
-    },
-    {
-      "audio": [],
-      "category": "possessive_pronoun",
-      "chapter": 6,
       "english": "their (possessive)",
       "id": "moag-06-fc212d955aa10962",
       "malayalam": "അവരുടെ",
@@ -16235,6 +18037,7 @@
           "source": "docs/lesson6.md"
         }
       ],
+      "sense": "referring to several people",
       "source": "docs/lesson6.md",
       "source_anchor": "lesson6-possessive-of-personal-pronouns",
       "study": true
@@ -16257,196 +18060,6 @@
       "source": "docs/lesson7.md",
       "source_anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
       "study": true
-    },
-    {
-      "audio": [],
-      "category": "number",
-      "chapter": 7,
-      "english": "1",
-      "id": "moag-07-be44cbb3190b69ec",
-      "malayalam": "ഒന്ന്",
-      "origin": "reference_table",
-      "references": [
-        {
-          "anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
-          "category": "number",
-          "source": "docs/lesson7.md"
-        }
-      ],
-      "source": "docs/lesson7.md",
-      "source_anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
-      "study": false
-    },
-    {
-      "audio": [],
-      "category": "number",
-      "chapter": 7,
-      "english": "2",
-      "id": "moag-07-21e3c31d39f3619c",
-      "malayalam": "രണ്ട്",
-      "origin": "reference_table",
-      "references": [
-        {
-          "anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
-          "category": "number",
-          "source": "docs/lesson7.md"
-        }
-      ],
-      "source": "docs/lesson7.md",
-      "source_anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
-      "study": false
-    },
-    {
-      "audio": [],
-      "category": "number",
-      "chapter": 7,
-      "english": "3",
-      "id": "moag-07-74e27c9763d9f144",
-      "malayalam": "മൂന്ന്",
-      "origin": "reference_table",
-      "references": [
-        {
-          "anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
-          "category": "number",
-          "source": "docs/lesson7.md"
-        }
-      ],
-      "source": "docs/lesson7.md",
-      "source_anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
-      "study": false
-    },
-    {
-      "audio": [],
-      "category": "number",
-      "chapter": 7,
-      "english": "4",
-      "id": "moag-07-2ca5dbafcf32c27b",
-      "malayalam": "നാല്",
-      "origin": "reference_table",
-      "references": [
-        {
-          "anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
-          "category": "number",
-          "source": "docs/lesson7.md"
-        }
-      ],
-      "source": "docs/lesson7.md",
-      "source_anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
-      "study": false
-    },
-    {
-      "audio": [],
-      "category": "number",
-      "chapter": 7,
-      "english": "5",
-      "id": "moag-07-c6c3e46d66c0ef38",
-      "malayalam": "അഞ്ച്",
-      "origin": "reference_table",
-      "references": [
-        {
-          "anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
-          "category": "number",
-          "source": "docs/lesson7.md"
-        }
-      ],
-      "source": "docs/lesson7.md",
-      "source_anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
-      "study": false
-    },
-    {
-      "audio": [],
-      "category": "number",
-      "chapter": 7,
-      "english": "6",
-      "id": "moag-07-3489eae337b6ae37",
-      "malayalam": "ആറ്",
-      "origin": "reference_table",
-      "references": [
-        {
-          "anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
-          "category": "number",
-          "source": "docs/lesson7.md"
-        }
-      ],
-      "source": "docs/lesson7.md",
-      "source_anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
-      "study": false
-    },
-    {
-      "audio": [],
-      "category": "number",
-      "chapter": 7,
-      "english": "7",
-      "id": "moag-07-70f884bf49819f85",
-      "malayalam": "ഏഴ്",
-      "origin": "reference_table",
-      "references": [
-        {
-          "anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
-          "category": "number",
-          "source": "docs/lesson7.md"
-        }
-      ],
-      "source": "docs/lesson7.md",
-      "source_anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
-      "study": false
-    },
-    {
-      "audio": [],
-      "category": "number",
-      "chapter": 7,
-      "english": "8",
-      "id": "moag-07-fceaf54d715697d3",
-      "malayalam": "എട്ട്",
-      "origin": "reference_table",
-      "references": [
-        {
-          "anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
-          "category": "number",
-          "source": "docs/lesson7.md"
-        }
-      ],
-      "source": "docs/lesson7.md",
-      "source_anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
-      "study": false
-    },
-    {
-      "audio": [],
-      "category": "number",
-      "chapter": 7,
-      "english": "9",
-      "id": "moag-07-f353cddae3139e52",
-      "malayalam": "ഒൻപത്",
-      "origin": "reference_table",
-      "references": [
-        {
-          "anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
-          "category": "number",
-          "source": "docs/lesson7.md"
-        }
-      ],
-      "source": "docs/lesson7.md",
-      "source_anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
-      "study": false
-    },
-    {
-      "audio": [],
-      "category": "number",
-      "chapter": 7,
-      "english": "10",
-      "id": "moag-07-e214b2c26011741a",
-      "malayalam": "പത്ത്",
-      "origin": "reference_table",
-      "references": [
-        {
-          "anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
-          "category": "number",
-          "source": "docs/lesson7.md"
-        }
-      ],
-      "source": "docs/lesson7.md",
-      "source_anchor": "lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29",
-      "study": false
     },
     {
       "audio": [],
@@ -16816,25 +18429,6 @@
       "english": "1/4",
       "id": "moag-07-2cb922d116041bb7",
       "malayalam": "കാൽ",
-      "origin": "reference_table",
-      "references": [
-        {
-          "anchor": "lesson7-fractions",
-          "category": "fraction",
-          "source": "docs/lesson7.md"
-        }
-      ],
-      "source": "docs/lesson7.md",
-      "source_anchor": "lesson7-fractions",
-      "study": true
-    },
-    {
-      "audio": [],
-      "category": "fraction",
-      "chapter": 7,
-      "english": "1/2",
-      "id": "moag-07-08d07e4bed3bc8dc",
-      "malayalam": "അര",
       "origin": "reference_table",
       "references": [
         {
@@ -17744,25 +19338,6 @@
       "audio": [],
       "category": "number",
       "chapter": 7,
-      "english": "300",
-      "id": "moag-07-524ff35da40a0318",
-      "malayalam": "മുന്നൂറ്",
-      "origin": "reference_table",
-      "references": [
-        {
-          "anchor": "lesson7-101-u0d2eu0d24u0d7d-1000-u0d35u0d30-from-101-to-1000",
-          "category": "number",
-          "source": "docs/lesson7.md"
-        }
-      ],
-      "source": "docs/lesson7.md",
-      "source_anchor": "lesson7-101-u0d2eu0d24u0d7d-1000-u0d35u0d30-from-101-to-1000",
-      "study": true
-    },
-    {
-      "audio": [],
-      "category": "number",
-      "chapter": 7,
       "english": "400",
       "id": "moag-07-d5db5849b0f3c5fc",
       "malayalam": "നാന്നൂറ്",
@@ -18563,28 +20138,6 @@
       "audio": [],
       "category": "indefinite",
       "chapter": 22,
-      "english": "something, any thing at all",
-      "id": "moag-22-842f09af72d21e88",
-      "malayalam": "എന്തെങ്കിലും",
-      "origin": "reference_table",
-      "references": [
-        {
-          "anchor": "lesson22-a-one-piece-indefinite-pronouns",
-          "category": "indefinite",
-          "source": "docs/lesson22.md"
-        }
-      ],
-      "source": "docs/lesson22.md",
-      "source_anchor": "lesson22-a-one-piece-indefinite-pronouns",
-      "study": true,
-      "variants": [
-        "എന്തായാലും"
-      ]
-    },
-    {
-      "audio": [],
-      "category": "indefinite",
-      "chapter": 22,
       "english": "someone, anyone at all",
       "id": "moag-22-7f22400e366ddd2a",
       "malayalam": "ആരെങ്കിലും",
@@ -18730,14 +20283,59 @@
       "study": true
     },
     {
-      "audio": [],
+      "audio": [
+        {
+          "path": "docs/assets/audio/moag/words/lesson_20_word_013.mp3",
+          "sha256": "4e607315698c41cada40f76a199ecb64020f4f85ed484ff4a336f498c21185d4",
+          "transcript": "പ്രകാരം"
+        }
+      ],
       "category": "postposition",
       "chapter": 6,
-      "english": "according to, in (this) manner (postposition; after a nominative noun)",
+      "english": "according to; in this manner",
       "id": "moag-06-9f880a5995c2ff65",
       "malayalam": "പ്രകാരം",
       "notes": [
         "Note that the final -ം of the preceding noun drops"
+      ],
+      "occurrences": [
+        {
+          "audio": [],
+          "category": "postposition",
+          "chapter": 6,
+          "english": "according to, in (this) manner (postposition; after a nominative noun)",
+          "id": "moag-06-9f880a5995c2ff65",
+          "malayalam": "പ്രകാരം",
+          "notes": [
+            "Note that the final -ം of the preceding noun drops"
+          ],
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "appendix-d-nominative",
+              "category": "postposition",
+              "source": "docs/appendix-d.md"
+            }
+          ],
+          "source": "docs/appendix-d.md",
+          "source_anchor": "appendix-d-nominative",
+          "study": true
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_20_word_013.mp3",
+              "sha256": "4e607315698c41cada40f76a199ecb64020f4f85ed484ff4a336f498c21185d4",
+              "transcript": "പ്രകാരം"
+            }
+          ],
+          "chapter": 20,
+          "english": "according to (word final -ം of the preceding noun drops when പ്രകാര is added)",
+          "id": "moag-20-a97fb669d0016128",
+          "malayalam": "പ്രകാരം",
+          "origin": "textbook",
+          "source": "docs/lesson20.md"
+        }
       ],
       "origin": "reference_table",
       "references": [
@@ -18752,12 +20350,54 @@
       "study": true
     },
     {
-      "audio": [],
+      "audio": [
+        {
+          "path": "docs/assets/audio/moag/words/lesson_20_word_036.mp3",
+          "sha256": "7d5ec8f30f467dbf9cd30f0f6881be394d0376d3b1a40e0b5e3ef9dc615b1222",
+          "transcript": "അനുസരിച്ച്"
+        }
+      ],
       "category": "postposition",
       "chapter": 6,
-      "english": "according to (postposition; after a nominative noun)",
+      "english": "according to (postposition)",
       "id": "moag-06-1ef0f5a0758a7dd3",
       "malayalam": "അനുസരിച്ച്",
+      "occurrences": [
+        {
+          "audio": [],
+          "category": "postposition",
+          "chapter": 6,
+          "english": "according to (postposition; after a nominative noun)",
+          "id": "moag-06-1ef0f5a0758a7dd3",
+          "malayalam": "അനുസരിച്ച്",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "appendix-d-nominative",
+              "category": "postposition",
+              "source": "docs/appendix-d.md"
+            }
+          ],
+          "source": "docs/appendix-d.md",
+          "source_anchor": "appendix-d-nominative",
+          "study": true
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_20_word_036.mp3",
+              "sha256": "7d5ec8f30f467dbf9cd30f0f6881be394d0376d3b1a40e0b5e3ef9dc615b1222",
+              "transcript": "അനുസരിച്ച്"
+            }
+          ],
+          "chapter": 20,
+          "english": "according to",
+          "id": "moag-20-75cfbc4f0eb34310",
+          "malayalam": "അനുസരിച്ച്",
+          "origin": "textbook",
+          "source": "docs/lesson20.md"
+        }
+      ],
       "origin": "reference_table",
       "references": [
         {
@@ -18785,6 +20425,7 @@
           "source": "docs/appendix-d.md"
         }
       ],
+      "sense": "Appendix D postposition",
       "source": "docs/appendix-d.md",
       "source_anchor": "appendix-d-nominative",
       "study": false
@@ -18804,6 +20445,7 @@
           "source": "docs/appendix-d.md"
         }
       ],
+      "sense": "postposition (Appendix D)",
       "source": "docs/appendix-d.md",
       "source_anchor": "appendix-d-nominative",
       "study": true,
@@ -18832,12 +20474,57 @@
       "study": false
     },
     {
-      "audio": [],
+      "audio": [
+        {
+          "path": "docs/assets/audio/moag/words/lesson_19_word_036.mp3",
+          "sha256": "7ffc050ba64dad87a306015dcd2cd5772d3850676d7554b26b540722ddcfd195",
+          "transcript": "മുതൽ"
+        }
+      ],
       "category": "postposition",
       "chapter": 6,
-      "english": "from (postposition; after a nominative noun)",
+      "english": "from; since (a starting point)",
       "id": "moag-06-5ca528746ca8594c",
       "malayalam": "മുതൽ",
+      "occurrences": [
+        {
+          "audio": [],
+          "category": "postposition",
+          "chapter": 6,
+          "english": "from (postposition; after a nominative noun)",
+          "id": "moag-06-5ca528746ca8594c",
+          "malayalam": "മുതൽ",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "appendix-d-nominative",
+              "category": "postposition",
+              "source": "docs/appendix-d.md"
+            }
+          ],
+          "source": "docs/appendix-d.md",
+          "source_anchor": "appendix-d-nominative",
+          "study": true,
+          "variants": [
+            "തൊട്ട്"
+          ]
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_19_word_036.mp3",
+              "sha256": "7ffc050ba64dad87a306015dcd2cd5772d3850676d7554b26b540722ddcfd195",
+              "transcript": "മുതൽ"
+            }
+          ],
+          "chapter": 19,
+          "english": "from; since",
+          "id": "moag-19-950d54ed54253413",
+          "malayalam": "മുതൽ",
+          "origin": "recorded_addition",
+          "source": "docs/lesson19.md"
+        }
+      ],
       "origin": "reference_table",
       "references": [
         {
@@ -18854,12 +20541,54 @@
       ]
     },
     {
-      "audio": [],
+      "audio": [
+        {
+          "path": "docs/assets/audio/moag/words/lesson_10_word_030.mp3",
+          "sha256": "4860dd512e50a10b066cc4bfd0c61b9f7e10510efe7b78e90e530722632edc26",
+          "transcript": "വരെ"
+        }
+      ],
       "category": "postposition",
       "chapter": 6,
-      "english": "till, until (postposition; after a nominative noun)",
+      "english": "to; up to; till; until (postposition)",
       "id": "moag-06-30822fb88cb5236b",
       "malayalam": "വരെ",
+      "occurrences": [
+        {
+          "audio": [],
+          "category": "postposition",
+          "chapter": 6,
+          "english": "till, until (postposition; after a nominative noun)",
+          "id": "moag-06-30822fb88cb5236b",
+          "malayalam": "വരെ",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "appendix-d-nominative",
+              "category": "postposition",
+              "source": "docs/appendix-d.md"
+            }
+          ],
+          "source": "docs/appendix-d.md",
+          "source_anchor": "appendix-d-nominative",
+          "study": true
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_10_word_030.mp3",
+              "sha256": "4860dd512e50a10b066cc4bfd0c61b9f7e10510efe7b78e90e530722632edc26",
+              "transcript": "വരെ"
+            }
+          ],
+          "chapter": 10,
+          "english": "to, up to (takes nominative)",
+          "id": "moag-10-fbb4e4e451a9f3da",
+          "malayalam": "വരെ",
+          "origin": "textbook",
+          "source": "docs/lesson10.md"
+        }
+      ],
       "origin": "reference_table",
       "references": [
         {
@@ -18873,16 +20602,82 @@
       "study": true
     },
     {
-      "audio": [],
+      "audio": [
+        {
+          "path": "docs/assets/audio/moag/words/lesson_13_word_012.mp3",
+          "sha256": "46b9e72d01ecb77b35433f441fa37491ed99ea4e047aae1638ed3785afdf7e89",
+          "transcript": "പോലെ"
+        }
+      ],
       "category": "postposition",
       "chapter": 6,
-      "english": "like (postposition; after a nominative noun)",
+      "english": "like; as (postposition)",
       "id": "moag-06-f66e944a118b00e7",
       "malayalam": "പോലെ",
+      "occurrences": [
+        {
+          "audio": [],
+          "category": "postposition",
+          "chapter": 6,
+          "english": "like (postposition; after a nominative noun)",
+          "id": "moag-06-f66e944a118b00e7",
+          "malayalam": "പോലെ",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "appendix-d-nominative",
+              "category": "postposition",
+              "source": "docs/appendix-d.md"
+            }
+          ],
+          "source": "docs/appendix-d.md",
+          "source_anchor": "appendix-d-nominative",
+          "study": true
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_13_word_012.mp3",
+              "sha256": "46b9e72d01ecb77b35433f441fa37491ed99ea4e047aae1638ed3785afdf7e89",
+              "transcript": "പോലെ"
+            }
+          ],
+          "chapter": 13,
+          "english": "like, as",
+          "id": "moag-13-4effda751285edca",
+          "malayalam": "പോലെ",
+          "origin": "textbook",
+          "source": "docs/lesson13.md"
+        },
+        {
+          "audio": [],
+          "category": "postposition",
+          "chapter": 6,
+          "english": "like, as (with animate nouns only) (postposition; after a accusative noun)",
+          "id": "moag-06-ced22a5be4761736",
+          "malayalam": "പോലെ",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "appendix-d-accusative",
+              "category": "postposition",
+              "source": "docs/appendix-d.md"
+            }
+          ],
+          "source": "docs/appendix-d.md",
+          "source_anchor": "appendix-d-accusative",
+          "study": false
+        }
+      ],
       "origin": "reference_table",
       "references": [
         {
           "anchor": "appendix-d-nominative",
+          "category": "postposition",
+          "source": "docs/appendix-d.md"
+        },
+        {
+          "anchor": "appendix-d-accusative",
           "category": "postposition",
           "source": "docs/appendix-d.md"
         }
@@ -18890,25 +20685,6 @@
       "source": "docs/appendix-d.md",
       "source_anchor": "appendix-d-nominative",
       "study": true
-    },
-    {
-      "audio": [],
-      "category": "postposition",
-      "chapter": 6,
-      "english": "besides (with inanimate nouns) (postposition; after a nominative noun)",
-      "id": "moag-06-ee92087767659149",
-      "malayalam": "കൂടാതെ",
-      "origin": "reference_table",
-      "references": [
-        {
-          "anchor": "appendix-d-nominative",
-          "category": "postposition",
-          "source": "docs/appendix-d.md"
-        }
-      ],
-      "source": "docs/appendix-d.md",
-      "source_anchor": "appendix-d-nominative",
-      "study": false
     },
     {
       "audio": [],
@@ -19053,12 +20829,58 @@
       "study": false
     },
     {
-      "audio": [],
+      "audio": [
+        {
+          "path": "docs/assets/audio/moag/words/lesson_22_word_003.mp3",
+          "sha256": "7761fa72ffd848841cc0cd64dfb56d4268f713a9025784d9ccf5e6c2650d29e6",
+          "transcript": "അകത്ത്"
+        }
+      ],
       "category": "postposition",
       "chapter": 6,
-      "english": "inside, within (postposition; after a possessive noun; also dative in colloquial speech)",
+      "english": "inside; within",
       "id": "moag-06-eb969abdf101ec87",
       "malayalam": "അകത്ത്",
+      "occurrences": [
+        {
+          "audio": [],
+          "category": "postposition",
+          "chapter": 6,
+          "english": "inside, within (postposition; after a possessive noun; also dative in colloquial speech)",
+          "id": "moag-06-eb969abdf101ec87",
+          "malayalam": "അകത്ത്",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "appendix-d-possessive",
+              "category": "postposition",
+              "source": "docs/appendix-d.md"
+            }
+          ],
+          "source": "docs/appendix-d.md",
+          "source_anchor": "appendix-d-possessive",
+          "study": true,
+          "variants": [
+            "അകം",
+            "ഉള്ളിൽ"
+          ]
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_22_word_003.mp3",
+              "sha256": "7761fa72ffd848841cc0cd64dfb56d4268f713a9025784d9ccf5e6c2650d29e6",
+              "transcript": "അകത്ത്"
+            }
+          ],
+          "chapter": 22,
+          "english": "inside (locative of അകം)",
+          "id": "moag-22-8c98663535798f22",
+          "malayalam": "അകത്ത്",
+          "origin": "textbook",
+          "source": "docs/lesson22.md"
+        }
+      ],
       "origin": "reference_table",
       "references": [
         {
@@ -19142,31 +20964,54 @@
       ]
     },
     {
-      "audio": [],
-      "category": "postposition",
-      "chapter": 6,
-      "english": "at the bottom, under (postposition; after a possessive noun; also dative in colloquial speech)",
-      "id": "moag-06-cb3e396130f4ca89",
-      "malayalam": "അടിയിൽ",
-      "origin": "reference_table",
-      "references": [
+      "audio": [
         {
-          "anchor": "appendix-d-possessive",
-          "category": "postposition",
-          "source": "docs/appendix-d.md"
+          "path": "docs/assets/audio/moag/words/lesson_19_word_004.mp3",
+          "sha256": "779ac067f1b630475fa246337dd4ec44939130511f9707102b92c1661f4bbfc4",
+          "transcript": "വെളിയിൽ"
         }
       ],
-      "source": "docs/appendix-d.md",
-      "source_anchor": "appendix-d-possessive",
-      "study": false
-    },
-    {
-      "audio": [],
       "category": "postposition",
       "chapter": 6,
-      "english": "outside (postposition; after a possessive noun; also dative in colloquial speech)",
+      "english": "outside; out of doors",
       "id": "moag-06-9e72bdec41c3adfd",
       "malayalam": "വെളിയിൽ",
+      "occurrences": [
+        {
+          "audio": [],
+          "category": "postposition",
+          "chapter": 6,
+          "english": "outside (postposition; after a possessive noun; also dative in colloquial speech)",
+          "id": "moag-06-9e72bdec41c3adfd",
+          "malayalam": "വെളിയിൽ",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "appendix-d-possessive",
+              "category": "postposition",
+              "source": "docs/appendix-d.md"
+            }
+          ],
+          "source": "docs/appendix-d.md",
+          "source_anchor": "appendix-d-possessive",
+          "study": true
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_19_word_004.mp3",
+              "sha256": "779ac067f1b630475fa246337dd4ec44939130511f9707102b92c1661f4bbfc4",
+              "transcript": "വെളിയിൽ"
+            }
+          ],
+          "chapter": 19,
+          "english": "outside, out of doors",
+          "id": "moag-19-2e8b418a9fc25e24",
+          "malayalam": "വെളിയിൽ",
+          "origin": "textbook",
+          "source": "docs/lesson19.md"
+        }
+      ],
       "origin": "reference_table",
       "references": [
         {
@@ -19178,48 +21023,6 @@
       "source": "docs/appendix-d.md",
       "source_anchor": "appendix-d-possessive",
       "study": true
-    },
-    {
-      "audio": [],
-      "category": "postposition",
-      "chapter": 6,
-      "english": "near by, by (postposition; after a possessive noun; also dative in colloquial speech)",
-      "id": "moag-06-d4257e58631b4448",
-      "malayalam": "അടുത്ത്",
-      "origin": "reference_table",
-      "references": [
-        {
-          "anchor": "appendix-d-possessive",
-          "category": "postposition",
-          "source": "docs/appendix-d.md"
-        }
-      ],
-      "source": "docs/appendix-d.md",
-      "source_anchor": "appendix-d-possessive",
-      "study": true
-    },
-    {
-      "audio": [],
-      "category": "postposition",
-      "chapter": 6,
-      "english": "nearby, by (postposition; after a possessive noun; also dative in colloquial speech)",
-      "id": "moag-06-437de08809c451a0",
-      "malayalam": "സമീപം",
-      "origin": "reference_table",
-      "references": [
-        {
-          "anchor": "appendix-d-possessive",
-          "category": "postposition",
-          "source": "docs/appendix-d.md"
-        }
-      ],
-      "source": "docs/appendix-d.md",
-      "source_anchor": "appendix-d-possessive",
-      "study": false,
-      "variants": [
-        "സമീപെ",
-        "സമീപത്ത്"
-      ]
     },
     {
       "audio": [],
@@ -19267,66 +21070,6 @@
         "പുറകിൽ",
         "പുറകെ"
       ]
-    },
-    {
-      "audio": [],
-      "category": "postposition",
-      "chapter": 6,
-      "english": "behind, after, afterwards, following (postposition; after a possessive noun; also dative in colloquial speech)",
-      "id": "moag-06-56be8af0aa7a5d6e",
-      "malayalam": "പിന്നിൽ",
-      "origin": "reference_table",
-      "references": [
-        {
-          "anchor": "appendix-d-possessive",
-          "category": "postposition",
-          "source": "docs/appendix-d.md"
-        }
-      ],
-      "source": "docs/appendix-d.md",
-      "source_anchor": "appendix-d-possessive",
-      "study": false,
-      "variants": [
-        "പിന്നാലെ"
-      ]
-    },
-    {
-      "audio": [],
-      "category": "postposition",
-      "chapter": 6,
-      "english": "on that side (postposition; after a possessive noun; also dative in colloquial speech)",
-      "id": "moag-06-9863aa65ae45bcdd",
-      "malayalam": "അപ്പുറത്ത്",
-      "origin": "reference_table",
-      "references": [
-        {
-          "anchor": "appendix-d-possessive",
-          "category": "postposition",
-          "source": "docs/appendix-d.md"
-        }
-      ],
-      "source": "docs/appendix-d.md",
-      "source_anchor": "appendix-d-possessive",
-      "study": false
-    },
-    {
-      "audio": [],
-      "category": "postposition",
-      "chapter": 6,
-      "english": "on this side (postposition; after a possessive noun; also dative in colloquial speech)",
-      "id": "moag-06-ca168d6b2e5dc1f1",
-      "malayalam": "ഇപ്പുറത്ത്",
-      "origin": "reference_table",
-      "references": [
-        {
-          "anchor": "appendix-d-possessive",
-          "category": "postposition",
-          "source": "docs/appendix-d.md"
-        }
-      ],
-      "source": "docs/appendix-d.md",
-      "source_anchor": "appendix-d-possessive",
-      "study": false
     },
     {
       "audio": [],
@@ -19392,13 +21135,58 @@
       "audio": [],
       "category": "postposition",
       "chapter": 6,
-      "english": "all around, around (postposition; after a possessive noun)",
+      "english": "around; all around",
       "id": "moag-06-a70f09006a793adc",
       "malayalam": "ചുറ്റും",
+      "occurrences": [
+        {
+          "audio": [],
+          "category": "postposition",
+          "chapter": 6,
+          "english": "all around, around (postposition; after a possessive noun)",
+          "id": "moag-06-a70f09006a793adc",
+          "malayalam": "ചുറ്റും",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "appendix-d-possessive",
+              "category": "postposition",
+              "source": "docs/appendix-d.md"
+            }
+          ],
+          "source": "docs/appendix-d.md",
+          "source_anchor": "appendix-d-possessive",
+          "study": true
+        },
+        {
+          "audio": [],
+          "category": "postposition",
+          "chapter": 6,
+          "english": "around, around about (postposition; after a dative noun)",
+          "id": "moag-06-45e6e86d1b3047f8",
+          "malayalam": "ചുറ്റും",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "appendix-d-dative",
+              "category": "postposition",
+              "source": "docs/appendix-d.md"
+            }
+          ],
+          "source": "docs/appendix-d.md",
+          "source_anchor": "appendix-d-dative",
+          "study": false
+        }
+      ],
       "origin": "reference_table",
       "references": [
         {
           "anchor": "appendix-d-possessive",
+          "category": "postposition",
+          "source": "docs/appendix-d.md"
+        },
+        {
+          "anchor": "appendix-d-dative",
           "category": "postposition",
           "source": "docs/appendix-d.md"
         }
@@ -19490,25 +21278,6 @@
       "audio": [],
       "category": "postposition",
       "chapter": 6,
-      "english": "along with (postposition; after a possessive noun; also dative in colloquial speech)",
-      "id": "moag-06-a7132e5d59fcbc70",
-      "malayalam": "കൂടെ",
-      "origin": "reference_table",
-      "references": [
-        {
-          "anchor": "appendix-d-possessive",
-          "category": "postposition",
-          "source": "docs/appendix-d.md"
-        }
-      ],
-      "source": "docs/appendix-d.md",
-      "source_anchor": "appendix-d-possessive",
-      "study": true
-    },
-    {
-      "audio": [],
-      "category": "postposition",
-      "chapter": 6,
       "english": "by, with (postposition; after a possessive noun; also dative in colloquial speech)",
       "id": "moag-06-b2b573b2392c5c16",
       "malayalam": "പക്കൽ",
@@ -19582,14 +21351,59 @@
       "study": false
     },
     {
-      "audio": [],
+      "audio": [
+        {
+          "path": "docs/assets/audio/moag/words/lesson_22_word_053.mp3",
+          "sha256": "bbea0810a5c482a4dbc344be8106a912e3ff1ed40c601629ffeedb5c14643d5f",
+          "transcript": "വേണ്ടി"
+        }
+      ],
       "category": "postposition",
       "chapter": 6,
-      "english": "for, for the sake of (postposition; after a dative noun)",
+      "english": "for; for the sake of; in order to",
       "id": "moag-06-3210688c80584dcd",
       "malayalam": "വേണ്ടി",
       "notes": [
         "also used with infinitive"
+      ],
+      "occurrences": [
+        {
+          "audio": [],
+          "category": "postposition",
+          "chapter": 6,
+          "english": "for, for the sake of (postposition; after a dative noun)",
+          "id": "moag-06-3210688c80584dcd",
+          "malayalam": "വേണ്ടി",
+          "notes": [
+            "also used with infinitive"
+          ],
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "appendix-d-dative",
+              "category": "postposition",
+              "source": "docs/appendix-d.md"
+            }
+          ],
+          "source": "docs/appendix-d.md",
+          "source_anchor": "appendix-d-dative",
+          "study": true
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_22_word_053.mp3",
+              "sha256": "bbea0810a5c482a4dbc344be8106a912e3ff1ed40c601629ffeedb5c14643d5f",
+              "transcript": "വേണ്ടി"
+            }
+          ],
+          "chapter": 22,
+          "english": "for, in order to (dative, infinitive)",
+          "id": "moag-22-b94105a182be5628",
+          "malayalam": "വേണ്ടി",
+          "origin": "textbook",
+          "source": "docs/lesson22.md"
+        }
       ],
       "origin": "reference_table",
       "references": [
@@ -19782,44 +21596,6 @@
       "audio": [],
       "category": "postposition",
       "chapter": 6,
-      "english": "around, around about (postposition; after a dative noun)",
-      "id": "moag-06-45e6e86d1b3047f8",
-      "malayalam": "ചുറ്റും",
-      "origin": "reference_table",
-      "references": [
-        {
-          "anchor": "appendix-d-dative",
-          "category": "postposition",
-          "source": "docs/appendix-d.md"
-        }
-      ],
-      "source": "docs/appendix-d.md",
-      "source_anchor": "appendix-d-dative",
-      "study": false
-    },
-    {
-      "audio": [],
-      "category": "postposition",
-      "chapter": 6,
-      "english": "in addition to, besides (with animate nouns only) (postposition; after a accusative noun)",
-      "id": "moag-06-15b03d82e0fdab6a",
-      "malayalam": "കൂടാതെ",
-      "origin": "reference_table",
-      "references": [
-        {
-          "anchor": "appendix-d-accusative",
-          "category": "postposition",
-          "source": "docs/appendix-d.md"
-        }
-      ],
-      "source": "docs/appendix-d.md",
-      "source_anchor": "appendix-d-accusative",
-      "study": false
-    },
-    {
-      "audio": [],
-      "category": "postposition",
-      "chapter": 6,
       "english": "than- (postposition; after a accusative noun)",
       "id": "moag-06-1d275059da115cff",
       "malayalam": "-കാൾ",
@@ -19836,31 +21612,54 @@
       "study": false
     },
     {
-      "audio": [],
-      "category": "postposition",
-      "chapter": 6,
-      "english": "like, as (with animate nouns only) (postposition; after a accusative noun)",
-      "id": "moag-06-ced22a5be4761736",
-      "malayalam": "പോലെ",
-      "origin": "reference_table",
-      "references": [
+      "audio": [
         {
-          "anchor": "appendix-d-accusative",
-          "category": "postposition",
-          "source": "docs/appendix-d.md"
+          "path": "docs/assets/audio/moag/words/lesson_20_word_026.mp3",
+          "sha256": "397e2ee4f2d446169b09732f45c5dc342b1cfabc40be8c67943439c9bfbeb7da",
+          "transcript": "കൊണ്ട്"
         }
       ],
-      "source": "docs/appendix-d.md",
-      "source_anchor": "appendix-d-accusative",
-      "study": false
-    },
-    {
-      "audio": [],
       "category": "postposition",
       "chapter": 6,
-      "english": "with, by means of (postposition; after a accusative noun)",
+      "english": "with; by means of (postposition)",
       "id": "moag-06-7dfec21fb8bc71da",
       "malayalam": "കൊണ്ട്",
+      "occurrences": [
+        {
+          "audio": [],
+          "category": "postposition",
+          "chapter": 6,
+          "english": "with, by means of (postposition; after a accusative noun)",
+          "id": "moag-06-7dfec21fb8bc71da",
+          "malayalam": "കൊണ്ട്",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "appendix-d-accusative",
+              "category": "postposition",
+              "source": "docs/appendix-d.md"
+            }
+          ],
+          "source": "docs/appendix-d.md",
+          "source_anchor": "appendix-d-accusative",
+          "study": true
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_20_word_026.mp3",
+              "sha256": "397e2ee4f2d446169b09732f45c5dc342b1cfabc40be8c67943439c9bfbeb7da",
+              "transcript": "കൊണ്ട്"
+            }
+          ],
+          "chapter": 20,
+          "english": "with or by means of (post pos. takes nominative)",
+          "id": "moag-20-f31720a85efae5e3",
+          "malayalam": "കൊണ്ട്",
+          "origin": "textbook",
+          "source": "docs/lesson20.md"
+        }
+      ],
       "origin": "reference_table",
       "references": [
         {
@@ -19874,12 +21673,54 @@
       "study": true
     },
     {
-      "audio": [],
+      "audio": [
+        {
+          "path": "docs/assets/audio/moag/words/lesson_14_word_049.mp3",
+          "sha256": "b801426f3757b0eeaeff9f0da036c8013c772a6f96f252e0e7eadfee3031f667",
+          "transcript": "പറ്റി"
+        }
+      ],
       "category": "postposition",
       "chapter": 6,
-      "english": "about, concerning (postposition; after a accusative noun)",
+      "english": "about; concerning (postposition)",
       "id": "moag-06-a46bcd270f4ca842",
       "malayalam": "പറ്റി",
+      "occurrences": [
+        {
+          "audio": [],
+          "category": "postposition",
+          "chapter": 6,
+          "english": "about, concerning (postposition; after a accusative noun)",
+          "id": "moag-06-a46bcd270f4ca842",
+          "malayalam": "പറ്റി",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "appendix-d-accusative",
+              "category": "postposition",
+              "source": "docs/appendix-d.md"
+            }
+          ],
+          "source": "docs/appendix-d.md",
+          "source_anchor": "appendix-d-accusative",
+          "study": true
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_14_word_049.mp3",
+              "sha256": "b801426f3757b0eeaeff9f0da036c8013c772a6f96f252e0e7eadfee3031f667",
+              "transcript": "പറ്റി"
+            }
+          ],
+          "chapter": 14,
+          "english": "about, concerning",
+          "id": "moag-14-9588e781923b50af",
+          "malayalam": "പറ്റി",
+          "origin": "textbook",
+          "source": "docs/lesson14.md"
+        }
+      ],
       "origin": "reference_table",
       "references": [
         {
@@ -19896,16 +21737,64 @@
       "audio": [],
       "category": "postposition",
       "chapter": 6,
-      "english": "as much as; as great as; as far as, until (postposition; after a accusative noun)",
+      "english": "as much as; as great as; as far as; until",
       "id": "moag-06-a3301811dd283fc0",
       "malayalam": "-ഓളം",
       "notes": [
         "note that the accus. ending; -എ+ഓ=ഓ"
       ],
+      "occurrences": [
+        {
+          "audio": [],
+          "category": "postposition",
+          "chapter": 6,
+          "english": "as much as; as great as; as far as, until (postposition; after a accusative noun)",
+          "id": "moag-06-a3301811dd283fc0",
+          "malayalam": "-ഓളം",
+          "notes": [
+            "note that the accus. ending; -എ+ഓ=ഓ"
+          ],
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "appendix-d-accusative",
+              "category": "postposition",
+              "source": "docs/appendix-d.md"
+            }
+          ],
+          "source": "docs/appendix-d.md",
+          "source_anchor": "appendix-d-accusative",
+          "study": false
+        },
+        {
+          "audio": [],
+          "category": "postposition",
+          "chapter": 6,
+          "english": "as much as; as great as; as far as; until (postposition; after a locative noun)",
+          "id": "moag-06-e2e579214e1cab98",
+          "malayalam": "-ഓളം",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "appendix-d-locative",
+              "category": "postposition",
+              "source": "docs/appendix-d.md"
+            }
+          ],
+          "source": "docs/appendix-d.md",
+          "source_anchor": "appendix-d-locative",
+          "study": false
+        }
+      ],
       "origin": "reference_table",
       "references": [
         {
           "anchor": "appendix-d-accusative",
+          "category": "postposition",
+          "source": "docs/appendix-d.md"
+        },
+        {
+          "anchor": "appendix-d-locative",
           "category": "postposition",
           "source": "docs/appendix-d.md"
         }
@@ -19956,44 +21845,6 @@
       "audio": [],
       "category": "postposition",
       "chapter": 6,
-      "english": "through, along (postposition; after a locative noun)",
-      "id": "moag-06-37cadc1b3967ae7c",
-      "malayalam": "കൂടി",
-      "origin": "reference_table",
-      "references": [
-        {
-          "anchor": "appendix-d-locative",
-          "category": "postposition",
-          "source": "docs/appendix-d.md"
-        }
-      ],
-      "source": "docs/appendix-d.md",
-      "source_anchor": "appendix-d-locative",
-      "study": false
-    },
-    {
-      "audio": [],
-      "category": "postposition",
-      "chapter": 6,
-      "english": "from (postposition; after a locative noun)",
-      "id": "moag-06-e8551f7997389efa",
-      "malayalam": "നിന്ന്",
-      "origin": "reference_table",
-      "references": [
-        {
-          "anchor": "appendix-d-locative",
-          "category": "postposition",
-          "source": "docs/appendix-d.md"
-        }
-      ],
-      "source": "docs/appendix-d.md",
-      "source_anchor": "appendix-d-locative",
-      "study": true
-    },
-    {
-      "audio": [],
-      "category": "postposition",
-      "chapter": 6,
       "english": "towards, into (postposition; after a locative noun)",
       "id": "moag-06-d0808a30e8791f35",
       "malayalam": "-ഏക്ക്",
@@ -20010,35 +21861,85 @@
       "study": false
     },
     {
-      "audio": [],
-      "category": "postposition",
-      "chapter": 6,
-      "english": "as much as; as great as; as far as; until (postposition; after a locative noun)",
-      "id": "moag-06-e2e579214e1cab98",
-      "malayalam": "-ഓളം",
-      "origin": "reference_table",
-      "references": [
+      "audio": [
         {
-          "anchor": "appendix-d-locative",
-          "category": "postposition",
-          "source": "docs/appendix-d.md"
+          "path": "docs/assets/audio/moag/words/lesson_12_word_025.mp3",
+          "sha256": "bf030874ff9368ec90a6a76c67f1b2463cdf8a098ae889fe381d116924ef0bcc",
+          "transcript": "കൂടെ"
         }
       ],
-      "source": "docs/appendix-d.md",
-      "source_anchor": "appendix-d-locative",
-      "study": false
-    },
-    {
-      "audio": [],
       "category": "postposition",
       "chapter": 6,
-      "english": "with (postposition; after a associative noun)",
+      "english": "with; along with (postposition)",
       "id": "moag-06-3cc8a9d730d1ed8e",
       "malayalam": "കൂടെ",
+      "occurrences": [
+        {
+          "audio": [],
+          "category": "postposition",
+          "chapter": 6,
+          "english": "with (postposition; after a associative noun)",
+          "id": "moag-06-3cc8a9d730d1ed8e",
+          "malayalam": "കൂടെ",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "appendix-d-associative",
+              "category": "postposition",
+              "source": "docs/appendix-d.md"
+            }
+          ],
+          "source": "docs/appendix-d.md",
+          "source_anchor": "appendix-d-associative",
+          "study": true,
+          "variants": [
+            "കൂടി"
+          ]
+        },
+        {
+          "audio": [],
+          "category": "postposition",
+          "chapter": 6,
+          "english": "along with (postposition; after a possessive noun; also dative in colloquial speech)",
+          "id": "moag-06-a7132e5d59fcbc70",
+          "malayalam": "കൂടെ",
+          "origin": "reference_table",
+          "references": [
+            {
+              "anchor": "appendix-d-possessive",
+              "category": "postposition",
+              "source": "docs/appendix-d.md"
+            }
+          ],
+          "source": "docs/appendix-d.md",
+          "source_anchor": "appendix-d-possessive",
+          "study": true
+        },
+        {
+          "audio": [
+            {
+              "path": "docs/assets/audio/moag/words/lesson_12_word_025.mp3",
+              "sha256": "bf030874ff9368ec90a6a76c67f1b2463cdf8a098ae889fe381d116924ef0bcc",
+              "transcript": "കൂടെ"
+            }
+          ],
+          "chapter": 12,
+          "english": "with (takes associated noun in possessive)",
+          "id": "moag-12-b0d4d333bb825afc",
+          "malayalam": "കൂടെ",
+          "origin": "textbook",
+          "source": "docs/lesson12.md"
+        }
+      ],
       "origin": "reference_table",
       "references": [
         {
           "anchor": "appendix-d-associative",
+          "category": "postposition",
+          "source": "docs/appendix-d.md"
+        },
+        {
+          "anchor": "appendix-d-possessive",
           "category": "postposition",
           "source": "docs/appendix-d.md"
         }
@@ -20053,6 +21954,6 @@
   ],
   "license": "CC-BY-NC-SA-4.0",
   "schema_version": 1,
-  "source_of_truth": "Explicit vocabulary-table comments in lesson and appendix Markdown; audio paths and checksums from the word manifest.",
+  "source_of_truth": "Explicit vocabulary-table comments in lesson and appendix Markdown; reviewed sense consolidation in data/vocabulary/duplicates.json; audio paths and checksums from the word manifest.",
   "title": "Malayalam — Moag"
 }

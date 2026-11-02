@@ -109,9 +109,17 @@ pub fn validate(data: &Value, study: &Value) -> Result<()> {
     }
     let mut ids = BTreeSet::new();
     let mut groups: BTreeMap<String, Vec<&Value>> = BTreeMap::new();
+    let mut recognition: BTreeMap<String, Vec<&Value>> = BTreeMap::new();
+    let mut source_ids = BTreeSet::new();
     for e in arr(&data["entries"]) {
         let id = s(&e["id"]);
         ensure!(!id.is_empty() && ids.insert(id), "duplicate/empty ID");
+        for original in crate::vocabulary::occurrences(e) {
+            ensure!(
+                source_ids.insert(s(&original["id"])),
+                "duplicate source occurrence"
+            );
+        }
         ensure!(
             chapters.contains(&e["chapter"].as_u64().unwrap_or(0)),
             "unknown chapter: {id}"
@@ -162,6 +170,10 @@ pub fn validate(data: &Value, study: &Value) -> Result<()> {
         if e["study"] == false {
             continue;
         }
+        recognition
+            .entry(crate::vocabulary::word_key(s(&e["malayalam"])))
+            .or_default()
+            .push(e);
         let normalized = re(r"[^\w]+")
             .replace_all(&prompt.to_lowercase(), " ")
             .trim()
@@ -178,6 +190,15 @@ pub fn validate(data: &Value, study: &Value) -> Result<()> {
     }
     for id in study.as_object().unwrap().keys() {
         ensure!(ids.contains(id.as_str()), "unused study override: {id}");
+    }
+    for (word, group) in recognition {
+        if group.len() > 1 {
+            let cues: BTreeSet<_> = group.iter().map(|e| s(&e["sense"])).collect();
+            ensure!(
+                !cues.contains("") && cues.len() == group.len(),
+                "repeated recognition front needs distinct sense cues: {word}"
+            );
+        }
     }
     for (prompt, group) in groups {
         let words: BTreeSet<_> = group.iter().map(|e| s(&e["malayalam"])).collect();
@@ -217,6 +238,43 @@ pub fn fields(e: &Value, study: &Value, chapter: &Value) -> Vec<String> {
     }
     let o = &study[s(&e["id"])];
     let mut source = String::new();
+    if e["occurrences"].is_array() {
+        source += "<div class=\"source-glosses\">Source glosses:<ul>";
+        for original in crate::vocabulary::occurrences(e) {
+            let page = Path::new(s(&original["source"]))
+                .file_stem()
+                .unwrap()
+                .to_string_lossy();
+            let n = original["chapter"].as_u64().unwrap();
+            let anchor = original["source_anchor"]
+                .as_str()
+                .map(str::to_string)
+                .unwrap_or_else(|| format!("lesson{n}-vocabulary"));
+            source += &format!(
+                "<li><a href=\"https://matjic.github.io/malayalam/#/{}?id={}\">{}</a>: {}</li>",
+                esc(&page),
+                esc(&anchor),
+                esc(&page),
+                esc(s(&original["english"]))
+            );
+            for reference in arr(&original["references"]) {
+                if reference["source"] == original["source"] && s(&reference["anchor"]) == anchor {
+                    continue;
+                }
+                let page = Path::new(s(&reference["source"]))
+                    .file_stem()
+                    .unwrap()
+                    .to_string_lossy();
+                source += &format!(
+                    "<li><a href=\"https://matjic.github.io/malayalam/#/{}?id={}\">{}</a></li>",
+                    esc(&page),
+                    esc(s(&reference["anchor"])),
+                    esc(&page)
+                );
+            }
+        }
+        source += "</ul></div>";
+    }
     if ml(s(&e["english"])) {
         source += &format!(
             "<div class=\"lesson-note\">Lesson note: {}</div>",
@@ -256,7 +314,14 @@ pub fn fields(e: &Value, study: &Value, chapter: &Value) -> Vec<String> {
     source += &format!("<a href=\"{}\">Open lesson</a>", esc(&url));
     vec![
         s(&e["id"]).into(),
-        esc(s(&e["malayalam"])),
+        format!(
+            "{}{}",
+            esc(s(&e["malayalam"])),
+            e["sense"]
+                .as_str()
+                .map(|cue| format!("<div class=\"prompt-cue\" lang=\"en\">{}</div>", esc(cue)))
+                .unwrap_or_default()
+        ),
         format!(
             "<div class=\"english-meaning\">{}</div><div class=\"english-recall\">{}</div>",
             format_text(meaning(e, study)),
@@ -312,20 +377,28 @@ pub fn build(root: &Path, output: &Path, site_copy: bool) -> Result<Value> {
         }
         let n = e["chapter"].as_u64().unwrap();
         let f = fields(e, &study, chapters[&n]);
+        let mut tags = BTreeSet::from([
+            format!("moag::lesson_{n:02}"),
+            format!("moag::{}", s(&e["origin"])),
+            format!(
+                "audio::{}",
+                if f[3].is_empty() {
+                    "unavailable"
+                } else {
+                    "available"
+                }
+            ),
+        ]);
+        for original in crate::vocabulary::occurrences(e) {
+            tags.insert(format!(
+                "moag::lesson_{:02}",
+                original["chapter"].as_u64().unwrap()
+            ));
+            tags.insert(format!("moag::{}", s(&original["origin"])));
+        }
         let note = Note::new(model.clone(), f.iter().map(String::as_str).collect())?
             .guid(guid(s(&e["id"])))
-            .tags([
-                format!("moag::lesson_{n:02}"),
-                format!("moag::{}", s(&e["origin"])),
-                format!(
-                    "audio::{}",
-                    if f[3].is_empty() {
-                        "unavailable"
-                    } else {
-                        "available"
-                    }
-                ),
-            ]);
+            .tags(tags);
         decks.get_mut(&n).unwrap().add_note(note);
     }
     let fonts: Vec<_> = fs::read_dir(root.join("docs/assets/fonts"))?
@@ -372,8 +445,16 @@ pub fn build(root: &Path, output: &Path, site_copy: bool) -> Result<Value> {
         root.join("data/vocabulary/README.md"),
         output.join("README.md"),
     )?;
+    fs::copy(
+        root.join("data/vocabulary/merged-notes.tsv"),
+        output.join("merged-notes.tsv"),
+    )?;
     if site_copy {
         fs::copy(&patched, root.join("docs/assets/decks/malayalam-moag.apkg"))?;
+        fs::copy(
+            root.join("data/vocabulary/merged-notes.tsv"),
+            root.join("docs/assets/decks/merged-notes.tsv"),
+        )?;
     }
     println!("{} notes; {} cards", selected.len(), selected.len() * 2);
     Ok(summary)
