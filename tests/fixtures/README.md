@@ -5,3 +5,10 @@
 `writing-movements.json` preserves the published 93-symbol coverage and movement counts, independently of editable geometry and the Rust renderer.
 
 Intentional editorial changes may update field hashes after review. Preserve EntryIDs and GUIDs when correcting an existing note. Changes to writing coverage or source/editorial movement counts require comparison with the cited textbook pages.
+
+The November 2026 revision audit retained this 1,085-note baseline while adding
+63 source-backed study notes. The compatibility test requires every baseline
+note to remain present. Only the field hash for `moag-06-a13116e0692e63f0` was
+updated: its recall cue now specifies the back/outer-surface sense of പുറത്ത്,
+with an answer note connecting Appendix D to Lesson 9's existing elephant-back
+caption and distinguishing Appendix E's “outside” sense. Its GUID is unchanged.

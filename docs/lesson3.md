@@ -86,6 +86,7 @@
 <a id="lesson3-numbers"></a><!-- reading-anchor -->
 ### Numbers
 
+<!-- vocabulary-table: {"kind":"vocabulary","category":"number","cards":true,"origin":"reference_table"} -->
 | Malayalam | English |
 |---|---|
 | ഒന്ന് | one |

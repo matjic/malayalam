@@ -31,6 +31,8 @@ Note: The postpositions are grouped according to the case ending required for th
 
 **Note on starred forms (\*):** Starred items take the possessive only. Unstarred items often take the dative in colloquial speech.
 
+> **Editorial usage note:** The source gloss “upon” for പുറത്ത് below concerns a back or outer surface; compare ആനയുടെ പുറത്ത് in the [Lesson 9 photograph caption](lesson9.md#lesson9-map-and-photographs). The same written form is glossed “outside” in [Appendix E](appendix-e.md#appendix-e-list-of-opposites). Use the surrounding phrase to distinguish these senses.
+
 <!-- vocabulary-table: {"kind":"vocabulary","category":"postposition","chapter":6,"cards":["അകത്ത്","മുകളിൽ","താഴെ","പുറത്ത്","വെളിയിൽ","അടുത്ത്","മുമ്പിൽ","പുറകിൽ","കൂടെ","ഇടയിൽ","ചുറ്റും"],"case":"possessive","aliases":"br","origin":"reference_table"} -->
 | Malayalam | English |
 |---|---|

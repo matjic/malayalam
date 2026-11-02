@@ -38,9 +38,34 @@ excluded rather than assigned a guessed meaning.
 The catalog now includes the basic personal pronouns and adverb/question-word
 trios in Lesson 2, demonstratives in Lesson 3, dative pronouns in Lesson 4,
 possessives in Lesson 6, one-piece indefinite forms in Lesson 22, and Appendix D’s
-postposition rows. Full case charts and two-piece relative constructions remain
+postposition rows. It also includes the 1–10 reference list in Lesson 3,
+all 114 number/fraction rows in Lesson 7, and the complete weekday list in
+Appendix C, attached to Lesson 23. Full case charts and two-piece relative constructions remain
 validated reference tables. The glossary is deliberately more extensive than the
 selected study deck; this is a course catalog, not a general Malayalam dictionary.
+
+### Coverage decisions from the revision audit
+
+The November 2026 audit checked every lesson's marked tables and inventoried
+unmarked lesson and appendix tables. It found that explicit inclusion alone had
+missed most basic numbers and two weekdays. The deck now covers counting 1–10
+in Lesson 3, followed by zero, 11–29, four fractions, tens, hundreds, thousands
+2,000–9,000, and the larger units listed in Lesson 7. All seven weekdays are
+available in Lesson 23. These changes add 63 notes (126 cards), while retaining
+every published note ID and all 997 recordings. The new notes are text-only.
+
+Lesson 7's other compound numbers stay in the glossary; memorizing each listed
+combination is not required by this selection. The catalog has 99 glossary-only
+entries: 61 number rows and 38 postpositions. Seven-case charts, verb paradigms,
+two-piece relative constructions, pronunciation contrasts, and exercise answers
+remain reference material rather than isolated vocabulary cards.
+
+The remaining Appendix C time expressions and Malayalam months, Appendix E
+opposites, and Appendix F derivation tables have not been bulk-imported. They
+mix already taught vocabulary, context-dependent forms, approximate calendar
+spans, missing meanings, and unresolved source errors. This coverage decision
+does not certify those lists or claim that the deck tests every grammar skill.
+Review their meanings and useful recall contexts before selecting further cards.
 
 Identical word-and-meaning rows within a lesson are combined. When a reference
 table repeats a word already taught in that lesson’s vocabulary, its source link
@@ -112,10 +137,10 @@ Open `dist/anki/malayalam-moag.apkg` in Anki. One package creates **Malayalam**
 with 25 nested decks named **Lesson 01** through **Lesson 25**. Expand the parent
 to see the lessons; each subdeck's description contains the chapter title.
 
-There are 1,085 notes and 2,170 cards: Malayalam → English and English → Malayalam.
+There are 1,148 notes and 2,296 cards: Malayalam → English and English → Malayalam.
 The answer includes the recording where available, with the recorded form labeled
 when it differs from the written entry. All 997 MP3 clips and a Malayalam font
-are embedded for offline use. The 160 study entries without recordings are text-only.
+are embedded for offline use. The 223 study entries without recordings are text-only.
 The “Open lesson” link requires internet. Original audio credits and reuse terms
 remain in the lesson pages and `data/audio/moag/README.md`; this export does not
 change those terms. Repository license: CC-BY-NC-SA-4.0.

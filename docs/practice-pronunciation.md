@@ -85,7 +85,7 @@ Then compare common fuller forms and spoken contractions:
 
 <audio controls preload="none" aria-label="Common spoken contractions, native-speaker examples" src="assets/ut-austin/spoken-contractions.mp3"></audio>
 
-**Try it:** listen once without the table. On the next pass, identify one fuller form and its contraction. Keep the ordinary written form when writing unless your task calls for representing speech. The [conversation practice](practice-dialogues.md) includes colloquial expressions in context.
+**Try it:** listen once without the table. On the next pass, identify one fuller form and its contraction. **Editorial clarification:** the table shows pronunciation relationships, not a rule that every shorter form is restricted to speech. The textbook also uses നമുക്ക് in writing and lists it alongside നമ്മൾക്ക് in [Lesson 4](lesson4.md#lesson4-reference-list). Follow the written models for the particular word and task. The [conversation practice](practice-dialogues.md) includes colloquial expressions in context.
 
 <a id="practice-pronunciation-sources-and-credits"></a><!-- reading-anchor -->
 ## Sources and Credits

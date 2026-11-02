@@ -100,7 +100,7 @@ fn catalog_rebuild_is_exact() {
     let current = read_json(root().join("data/vocabulary/moag.json")).unwrap();
     let built = vocabulary::catalog(root()).unwrap();
     assert_eq!(built, current);
-    assert_eq!(arr(&built["entries"]).len(), 1123);
+    assert_eq!(arr(&built["entries"]).len(), 1247);
     assert_eq!(
         arr(&built["entries"])
             .iter()
@@ -120,6 +120,49 @@ fn essential_function_words_are_studied() {
     for word in "ഞാൻ നീ നിങ്ങൾ നമ്മൾ ഞങ്ങൾ അവൻ ഇവൻ അവൾ ഇവൾ അയാൾ ഇയാൾ അദ്ദേഹം ഇദ്ദേഹം അവർ ഇവർ എന്റെ നിന്റെ നിങ്ങളുടെ നമ്മുടെ നമ്മളുടെ ഞങ്ങളുടെ അവന്റെ അവളുടെ അവരുടെ എനിക്ക് നിനക്ക് നിങ്ങൾക്ക് നമുക്ക് നമ്മൾക്ക് ഞങ്ങൾക്ക് ആര് എന്ത് ഏത് എവിടെ എപ്പോൾ എങ്ങനെ എത്ര മുകളിൽ താഴെ ഇടയിൽ കുറിച്ച് ശേഷം പകരം നിന്ന് വരെ കൂടെ".split_whitespace(){assert!(forms.contains(word),"{word}");}
 }
 #[test]
+fn numbers_fractions_and_weekdays_have_source_backed_study_coverage() {
+    let data = read_json(root().join("data/vocabulary/moag.json")).unwrap();
+    let entries = arr(&data["entries"]);
+    let studied = |chapter, word: &str| {
+        entries
+            .iter()
+            .any(|e| e["chapter"] == chapter && e["malayalam"] == word && e["study"] != false)
+    };
+    // Basic counting belongs with its first reference list, not only Lesson 7.
+    for word in "ഒന്ന് രണ്ട് മൂന്ന് നാല് അഞ്ച് ആറ് ഏഴ് എട്ട് ഒൻപത് പത്ത്".split_whitespace()
+    {
+        assert!(studied(3, word), "{word}");
+    }
+    for word in "പൂജ്യം പതിനൊന്ന് ഇരുപത് മുപ്പത് നാൽപത് അൻപത് അറുപത് എഴുപത് എൺപത് തൊണ്ണൂറ് നൂറ് ഇരുന്നൂറ് മുന്നൂറ് നാന്നൂറ് അഞ്ഞൂറ് അറുന്നൂറ് എഴുന്നൂറ് എണ്ണൂറ് തൊള്ളായിരം ആയിരം കാൽ അര മുക്കാൽ അരക്കാൽ".split_whitespace() {
+        assert!(studied(7, word), "{word}");
+    }
+    for word in ["പതിനായിരം", "ഒരു ലക്ഷം", "പത്ത് ലക്ഷം", "ഒരു കോടി"]
+    {
+        assert!(studied(7, word), "{word}");
+    }
+    // Larger units have distinct joined forms, not just a digit plus ആയിരം.
+    for word in "രണ്ടായിരം മൂവായിരം നാലായിരം അയ്യായിരം ആറായിരം ഏഴായിരം എണ്ണായിരം ഒൻപതിനായിരം".split_whitespace()
+    {
+        assert!(studied(7, word), "{word}");
+    }
+    for word in "ഞായറാഴ്ച തിങ്കളാഴ്ച ചൊവ്വാഴ്ച ബുധനാഴ്ച വ്യാഴാഴ്ച വെള്ളിയാഴ്ച ശനിയാഴ്ച".split_whitespace()
+    {
+        assert!(studied(23, word), "{word}");
+    }
+    let compound = entries
+        .iter()
+        .find(|e| e["chapter"] == 7 && e["malayalam"] == "നൂറ്റിയൊന്ന്")
+        .unwrap();
+    assert_eq!(compound["study"], false);
+    assert_eq!(compound["english"], "101");
+    assert!(
+        entries
+            .iter()
+            .filter(|e| ["number", "fraction", "weekday"].contains(&s(&e["category"])))
+            .all(|e| e["source_anchor"].is_string())
+    );
+}
+#[test]
 fn case_restrictions_and_reference_only_survive() {
     let d = read_json(root().join("data/vocabulary/moag.json")).unwrap();
     let e = arr(&d["entries"]);
@@ -127,7 +170,7 @@ fn case_restrictions_and_reference_only_survive() {
     assert!(
         e.iter()
             .filter(|e| e["study"] == false)
-            .all(|e| e["category"] == "postposition")
+            .all(|e| ["postposition", "number"].contains(&s(&e["category"])))
     );
     let around = e
         .iter()
@@ -273,9 +316,10 @@ fn all_published_note_guids_and_fields_match() {
         .iter()
         .filter(|e| e["study"] != false)
         .collect();
-    assert_eq!(entries.len(), arr(&fixtures).len());
-    for e in &entries {
-        let expected = arr(&fixtures).iter().find(|f| f["id"] == e["id"]).unwrap();
+    // New source-backed notes may be added without replacing the migration
+    // baseline. Every published note must retain its identity and reviewed fields.
+    for expected in arr(&fixtures) {
+        let e = entries.iter().find(|e| e["id"] == expected["id"]).unwrap();
         let chapter = arr(&d["chapters"])
             .iter()
             .find(|c| c["number"] == e["chapter"])
@@ -497,8 +541,8 @@ fn package_database_and_embedded_media_follow_published_contract() {
     use std::io::Read;
     let tmp = tempfile::tempdir().unwrap();
     let summary = anki::build(root(), tmp.path(), false).unwrap();
-    assert_eq!(summary["notes"], 1085);
-    assert_eq!(summary["cards"], 2170);
+    assert_eq!(summary["notes"], 1148);
+    assert_eq!(summary["cards"], 2296);
     let mut zip =
         zip::ZipArchive::new(fs::File::open(tmp.path().join("malayalam-moag.apkg")).unwrap())
             .unwrap();
@@ -513,12 +557,12 @@ fn package_database_and_embedded_media_follow_published_contract() {
     assert_eq!(
         conn.query_row("select count(*) from notes", [], |r| r.get::<_, i64>(0))
             .unwrap(),
-        1085
+        1148
     );
     assert_eq!(
         conn.query_row("select count(*) from cards", [], |r| r.get::<_, i64>(0))
             .unwrap(),
-        2170
+        2296
     );
     let models: String = conn
         .query_row("select models from col", [], |r| r.get(0))

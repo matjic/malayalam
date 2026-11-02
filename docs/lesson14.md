@@ -366,7 +366,8 @@ Though the present and future “if” clauses are often interchangeable, there 
 <a id="section-14-3"></a><!-- reading-anchor -->
 ### 14.3 The “Either...Or” Construction
 
-“Either...or” is handled similarly to the conjunction “and” (see [3.5](lesson3.md#section-3-5)). Instead of ഉം, the marker is -ോ, and it must be joined to both alternatives cited. Witness:
+<!-- Editorial correction: the source's reference to 3.5 points to health expressions; conjunction -ഉം is explained in 3.6. -->
+“Either...or” is handled similarly to the conjunction “and” (see [3.6](lesson3.md#section-3-6)). Instead of ഉം, the marker is -ോ, and it must be joined to both alternatives cited. Witness:
 
 1. നിങ്ങൾക്ക് വേണ്ടത് ചായയോ കാപ്പിയോ?
 

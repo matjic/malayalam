@@ -6,6 +6,8 @@
 <a id="appendix-e-list-of-opposites"></a><!-- reading-anchor -->
 ## List of opposites
 
+> **Editorial source note:** This reference preserves the source's pairings; it is not a fully verified antonym list. In particular, PDF page 488 pairs English “flat” with “narrow,” which describe different dimensions. That pair needs review rather than memorization as a direct contrast.
+
 | English | Malayalam | Opposite | Malayalam |
 |---|---|---|---|
 | angry | ദേഷ്യമുള്ള | gentle | ശാന്തമായ |

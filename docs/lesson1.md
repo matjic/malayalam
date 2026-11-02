@@ -237,7 +237,7 @@ Remember not to devote too much time to studying and learning the grammar, even 
 <a id="section-1-2"></a><!-- reading-anchor -->
 ### 1.2. The Order of Elements Within the Sentence
 
-> **Editorial grammar help:** A **subject** is the element about which the sentence makes a statement. An **object** is a participant selected by an action verb, as “a book” in “Ravi reads a book.” A **complement** instead completes a description or identification, as “a student” in “Ravi is a student.” A **verb** expresses an action, event, or state. These are sentence roles, not word-order positions to memorize in isolation. See [sentence roles](digital-edition.md#sentence-roles).
+> **Editorial grammar help:** A **subject** is the element about which the sentence makes a statement. In “Ravi reads a book,” “a book” is the **object** of “reads.” In “Ravi is a student,” “a student” completes an identification of Ravi; the book calls it a **complement**. A **verb** expresses an action, event, or state. Identify these functions before comparing their positions in the sentence. See [sentence roles](digital-edition.md#sentence-roles).
 
 The normal order for the Malayalam sentence is Subject, Object (or complement), Verb. The most basic rule is that the verb must appear at the end of the sentence. This rule is exhibited in all sentences found in this lesson’s conversation and exercises.
 

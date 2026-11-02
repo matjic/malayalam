@@ -8,6 +8,8 @@ Read [the editorial guidelines](guidelines/README.md) before changing teaching c
 
 Preserve source-page comments, stable anchors, vocabulary-table markers, and audio metadata. Identify substantive editorial additions and corrections; keep source attribution clear. Verify new Malayalam examples and usage judgments against reliable Malayalam evidence or qualified review. Record uncertainty. Do not fabricate recordings, translations, citations, or speaker review.
 
+Keep [the proofreading review](docs/proofreading-review.md) current as editorial work proceeds, recording substantive findings, corrections, verification scope, and unresolved issues, and updating their status when resolved.
+
 ## Implementation and validation
 
 Edit human-readable sources in docs/ and versioned inputs in data/; avoid hand-editing generated dist/ output or generated catalogs. Follow README.md for the specific pipeline. Do not overwrite unrelated existing changes or bulk-stage assets.

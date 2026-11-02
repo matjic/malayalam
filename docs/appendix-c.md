@@ -9,6 +9,8 @@
 <a id="appendix-c-periods-of-time"></a><!-- reading-anchor -->
 ### Periods of Time
 
+> **Editorial source note:** PDF page 476 groups മണിക്കൂർ and നാഴിക under “hour.” This grouping needs review before the terms can be treated as equivalent units. For durations in hours, [Lesson 15](lesson15.md#lesson15-vocabulary) supplies മണിക്കൂർ and മുക്കാൽ മണിക്കൂർ (“three quarters of an hour”).
+
 | Malayalam | English |
 |---|---|
 | നിമിഷം<br>ക്ഷണം | second |
@@ -36,6 +38,8 @@
 <a id="appendix-c-days-of-the-week"></a><!-- reading-anchor -->
 ### Days of the Week
 
+<!-- Editorial study placement: this complete weekday set supplements the weekday vocabulary in Lesson 23. -->
+<!-- vocabulary-table: {"kind":"vocabulary","category":"weekday","chapter":23,"cards":true,"origin":"reference_table"} -->
 | Malayalam | English |
 |---|---|
 | ഞായറാഴ്ച | Sunday |
@@ -116,6 +120,8 @@
 <a id="appendix-c-of-time-of-occurrence"></a><!-- reading-anchor -->
 #### Of Time of Occurrence
 
+> **Editorial correction:** PDF page 479 glosses എപ്പോഴും as “even when.” Here it is corrected to “always,” as taught with translated examples in [§9.5](lesson9.md#section-9-5) and listed in the [glossary](glossary.md#glossary-u0d0e). The source also lists എപ്പോളും separately; that spelling is retained here without treating the two rows as a dependable meaning contrast.
+
 | Malayalam | English |
 |---|---|
 | ഇപ്പോൾ | now |
@@ -126,7 +132,7 @@
 | അപ്പോഴും | even then |
 | എപ്പോൾ | when |
 | എപ്പോളും | always, |
-| എപ്പോഴും | even when |
+| എപ്പോഴും | always |
 | എല്ലായ്പ്പോഴും | always |
 | എന്നും | every day |
 | സദാനേരം | at all times |
@@ -171,6 +177,8 @@
 
 <a id="appendix-c-of-frequency"></a><!-- reading-anchor -->
 #### Of Frequency
+
+> **Editorial source note:** The source glosses the two ഈരണ്ട് expressions below as “every third day/week.” Their intended interval needs linguistic review; do not use those rows as models for scheduling. The final three entries also lack English meanings in the source. Those gaps have been retained rather than supplied without verification.
 
 | Malayalam | English |
 |---|---|

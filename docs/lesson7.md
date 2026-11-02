@@ -14,6 +14,8 @@
 <a id="lesson7-0-u0d2eu0d24u0d7d-29-u0d35u0d30-from-0-to-29"></a><!-- reading-anchor -->
 #### 0 മുതൽ 29 വരെ (From 0 to 29)
 
+<!-- Editorial study selection: basic 1–10 cards are introduced in Lesson 3; zero, 11–29, fractions, tens, hundreds, and the principal larger units are selected here. Other listed compounds remain glossary-only. -->
+<!-- vocabulary-table: {"kind":"vocabulary","category":"number","meaning":"Number","cards":["പൂജ്യം","പതിനൊന്ന്","പന്ത്രണ്ട്","പതിമൂന്ന്","പതിനാല്","പതിനഞ്ച്","പതിനാറ്","പതിനേഴ്","പതിനെട്ട്","പത്തൊൻപത്","ഇരുപത്","ഇരുപത്തിയൊന്ന്","ഇരുപത്തിരണ്ട്","ഇരുപത്തിമൂന്ന്","ഇരുപത്തിനാല്","ഇരുപത്തിയഞ്ച്","ഇരുപത്തിയാറ്","ഇരുപത്തിയേഴ്","ഇരുപത്തിയെട്ട്","ഇരുപത്തിയൊൻപത്"],"origin":"reference_table"} -->
 | Number | Malayalam |
 |---:|---|
 | 0 | പൂജ്യം |
@@ -50,6 +52,7 @@
 <a id="lesson7-fractions"></a><!-- reading-anchor -->
 #### Fractions
 
+<!-- vocabulary-table: {"kind":"vocabulary","category":"fraction","meaning":"Fraction","cards":true,"origin":"reference_table"} -->
 | Fraction | Malayalam |
 |---:|---|
 | 1/4 | കാൽ |
@@ -60,6 +63,7 @@
 <a id="lesson7-30-u0d2eu0d24u0d7d-100-u0d35u0d30-from-30-to-100"></a><!-- reading-anchor -->
 #### 30 മുതൽ 100 വരെ (From 30 to 100)
 
+<!-- vocabulary-table: {"kind":"vocabulary","category":"number","meaning":"Number","cards":["മുപ്പത്","നാൽപത്","അൻപത്","അറുപത്","എഴുപത്","എൺപത്","തൊണ്ണൂറ്","നൂറ്"],"origin":"reference_table"} -->
 | Number | Malayalam |
 |---:|---|
 | 30 | മുപ്പത് |
@@ -92,6 +96,7 @@
 <a id="lesson7-101-u0d2eu0d24u0d7d-1000-u0d35u0d30-from-101-to-1000"></a><!-- reading-anchor -->
 #### 101 മുതൽ 1000 വരെ (From 101 to 1000)
 
+<!-- vocabulary-table: {"kind":"vocabulary","category":"number","meaning":"Number","cards":["ഇരുന്നൂറ്","മുന്നൂറ്","നാന്നൂറ്","അഞ്ഞൂറ്","അറുന്നൂറ്","എഴുന്നൂറ്","എണ്ണൂറ്","തൊള്ളായിരം","ആയിരം"],"origin":"reference_table"} -->
 | Number | Malayalam |
 |---:|---|
 | 101 | നൂറ്റിയൊന്ന് |
@@ -125,6 +130,7 @@
 <a id="lesson7-1001-u0d2eu0d24u0d7d-10000000-u0d35u0d30-from-1001-to-10000000"></a><!-- reading-anchor -->
 #### 1001 മുതൽ 10,000,000 വരെ (From 1001 to 10,000,000)
 
+<!-- vocabulary-table: {"kind":"vocabulary","category":"number","meaning":"Number","cards":["രണ്ടായിരം","മൂവായിരം","നാലായിരം","അയ്യായിരം","ആറായിരം","ഏഴായിരം","എണ്ണായിരം","ഒൻപതിനായിരം","പതിനായിരം","ഒരു ലക്ഷം","പത്ത് ലക്ഷം","ഒരു കോടി"],"origin":"reference_table"} -->
 | Number | Malayalam |
 |---:|---|
 | 1001 | ആയിരത്തിയൊന്ന് |
