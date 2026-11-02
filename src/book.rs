@@ -1,6 +1,6 @@
 //! Shared portable book preparation; Pandoc is native, PDF is printed by Chromium.
 use crate::{audio::strip_columns, reading::documents, util::*};
-use anyhow::{Result, ensure};
+use anyhow::{Context, Result, ensure};
 use serde_json::{Value, json};
 use std::{
     collections::BTreeSet,
@@ -391,6 +391,50 @@ impl Drop for Browser {
         let _ = self.0.wait();
     }
 }
+
+fn start_browser(
+    mut command: Command,
+    profile: &Path,
+    timeout: Duration,
+) -> Result<(Browser, u16)> {
+    let diagnostics = profile.join("chrome-stderr.log");
+    command
+        .stdout(Stdio::null())
+        .stderr(fs::File::create(&diagnostics)?);
+    let mut browser = Browser(
+        command
+            .spawn()
+            .with_context(|| format!("launching {command:?}"))?,
+    );
+    let port_file = profile.join("DevToolsActivePort");
+    let deadline = Instant::now() + timeout;
+    loop {
+        let stderr = || fs::read_to_string(&diagnostics).unwrap_or_default();
+        if let Some(status) = browser.0.try_wait()? {
+            anyhow::bail!(
+                "Chromium exited before becoming ready ({status}):\n{}",
+                stderr()
+            );
+        }
+        // Chrome can create the file before finishing its first line.
+        if let Ok(contents) = fs::read_to_string(&port_file)
+            && let Some(port) = contents
+                .lines()
+                .next()
+                .and_then(|line| line.parse::<u16>().ok())
+            && port != 0
+        {
+            return Ok((browser, port));
+        }
+        ensure!(
+            Instant::now() < deadline,
+            "Chromium did not become ready within {timeout:?}:\n{}",
+            stderr()
+        );
+        thread::sleep(Duration::from_millis(50));
+    }
+}
+
 pub fn print_pdf(html: &Path, output: &Path, chrome: Option<&Path>) -> Result<()> {
     use base64::Engine;
     let executable = chrome
@@ -404,33 +448,19 @@ pub fn print_pdf(html: &Path, output: &Path, chrome: Option<&Path>) -> Result<()
             }
         });
     let temp = tempfile::tempdir()?;
-    let _browser = Browser(
-        Command::new(executable)
-            .args([
-                "--headless",
-                "--disable-gpu",
-                "--no-first-run",
-                "--no-default-browser-check",
-                "--disable-dev-shm-usage",
-                "--remote-debugging-port=0",
-            ])
-            .arg(format!("--user-data-dir={}", temp.path().display()))
-            .arg("about:blank")
-            .stdout(Stdio::null())
-            .stderr(Stdio::null())
-            .spawn()?,
-    );
-    let port_file = temp.path().join("DevToolsActivePort");
-    let deadline = Instant::now() + Duration::from_secs(30);
-    while !port_file.exists() {
-        ensure!(Instant::now() < deadline, "Chromium did not start");
-        thread::sleep(Duration::from_millis(50));
-    }
-    let port = fs::read_to_string(port_file)?
-        .lines()
-        .next()
-        .unwrap()
-        .to_string();
+    let mut command = Command::new(executable);
+    command
+        .args([
+            "--headless",
+            "--disable-gpu",
+            "--no-first-run",
+            "--no-default-browser-check",
+            "--disable-dev-shm-usage",
+            "--remote-debugging-port=0",
+        ])
+        .arg(format!("--user-data-dir={}", temp.path().display()))
+        .arg("about:blank");
+    let (_browser, port) = start_browser(command, temp.path(), Duration::from_secs(30))?;
     let targets: Value = serde_json::from_str(
         &ureq::get(format!("http://127.0.0.1:{port}/json/list"))
             .call()?
@@ -781,4 +811,50 @@ pub fn check_pdf_layout(root: &Path) -> Result<()> {
     );
     println!("PDF margins, full-width tables, and short/long vocabulary alignment passed");
     Ok(())
+}
+
+#[cfg(all(test, unix))]
+mod browser_tests {
+    use super::*;
+
+    #[test]
+    fn browser_exit_reports_status_and_stderr() {
+        let profile = tempfile::tempdir().unwrap();
+        let mut command = Command::new("sh");
+        command.args(["-c", "echo 'No usable sandbox!' >&2; exit 23"]);
+        let error = start_browser(command, profile.path(), Duration::from_secs(5))
+            .err()
+            .expect("browser should fail")
+            .to_string();
+        assert!(error.contains("exited before becoming ready"));
+        assert!(error.contains("23"));
+        assert!(error.contains("No usable sandbox!"));
+    }
+
+    #[test]
+    fn browser_startup_timeout_retains_diagnostics() {
+        let profile = tempfile::tempdir().unwrap();
+        let mut command = Command::new("sh");
+        command.args([
+            "-c",
+            "echo 'waiting for browser initialization' >&2; exec sleep 30",
+        ]);
+        let error = start_browser(command, profile.path(), Duration::from_millis(500))
+            .err()
+            .expect("browser should time out")
+            .to_string();
+        assert!(error.contains("did not become ready"));
+        assert!(error.contains("waiting for browser initialization"));
+    }
+
+    #[test]
+    fn browser_startup_reads_control_port() {
+        let profile = tempfile::tempdir().unwrap();
+        let mut command = Command::new("sh");
+        command.args(["-c", "printf '4321\\n/devtools/browser/test\\n' > \"$1/DevToolsActivePort\"; exec sleep 30", "fake-chrome"])
+            .arg(profile.path());
+        let (_browser, port) =
+            start_browser(command, profile.path(), Duration::from_secs(5)).unwrap();
+        assert_eq!(port, 4321);
+    }
 }
